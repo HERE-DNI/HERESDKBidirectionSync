@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.search.EVSearchEngine
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 [`EVSearchInterface`](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")
@@ -47,7 +48,8 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -55,85 +57,127 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EVSearchEngine()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of this class.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>EVSearchEngine(SDKNativeEngine sdkEngine)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of this class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>search(List&lt;String&gt; ids,
-   EVSearchCallback callback)</code></pre></td>
-  <td><div class="block">
+      EVSearchEngine()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of this class.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      EVSearchEngine(SDKNativeEngine sdkEngine)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance of this class.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      search(List<String> ids,
+       EVSearchCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Performs an asynchronous request for EVChargingLocation instances with
   given Place IDs.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOptions(EVSearchOptions options)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOptions(EVSearchOptions options)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the behavior of EVSearchEngine using the provided input
   options.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -188,9 +232,10 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVSearchEngine
 
@@ -216,7 +261,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### EVSearchEngine
@@ -251,9 +296,10 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setOptions(com.here.sdk.search.EVSearchOptions)"
+  - <div id="sdk-for-android-explore-setOptions(com.here.sdk.search.EVSearchOptions)"
     class="section detail">
 
     ### setOptions
@@ -279,7 +325,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="search(java.util.List,com.here.sdk.search.EVSearchCallback)"
+  - <div id="sdk-for-android-explore-search(java.util.List,com.here.sdk.search.EVSearchCallback)"
     class="section detail">
 
     ### search
@@ -290,9 +336,9 @@ Related APIs may change for new releases without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> ids,
+    class="external-link" title="class or interface in java.lang">String</a>\> ids,
     @NonNull
     [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
 

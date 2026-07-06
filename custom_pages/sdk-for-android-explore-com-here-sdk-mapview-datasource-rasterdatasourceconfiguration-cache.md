@@ -16,7 +16,8 @@ com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [RasterDataSourceConfiguration](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration "class in com.here.sdk.mapview.datasource")
@@ -41,7 +42,8 @@ Configuration of a local data cache.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -49,47 +51,83 @@ Configuration of a local data cache.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache#diskSize"
-  class="member-name-link"><code>diskSize</code></a></td>
-  <td><div class="block">
-  The maximum size to use on disk for the cache, in bytes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache#path"
-  class="member-name-link"><code>path</code></a></td>
-  <td><div class="block">
-  The path to the directory to use for the cache.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache#diskSize"
+  class="member-name-link"><code>diskSize</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The maximum size to use on disk for the cache, in bytes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache#path"
+  class="member-name-link"><code>path</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The path to the directory to use for the cache.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -97,38 +135,60 @@ Configuration of a local data cache.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Cache(String path)</code></pre></td>
-  <td><div class="block">
-  Constructs a Cache object from the provided path and a default cache
-  size of 32 MiB.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Cache(String path,
-   long diskSize)</code></pre></td>
-  <td><div class="block">
-  Constructs a Cache object from the provided path and cache size.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Cache(String path)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a Cache object from the provided path and a default cache
+  size of 32 MiB.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Cache(String path,
+       long diskSize)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs a Cache object from the provided path and cache size.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -179,9 +239,10 @@ Configuration of a local data cache.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="path" class="section detail">
+  - <div id="sdk-for-android-explore-path" class="section detail">
 
     ### path
 
@@ -211,7 +272,7 @@ Configuration of a local data cache.
 
     </div>
 
-  - <div id="diskSize" class="section detail">
+  - <div id="sdk-for-android-explore-diskSize" class="section detail">
 
     ### diskSize
 
@@ -234,9 +295,11 @@ Configuration of a local data cache.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+    class="section detail">
 
     ### Cache
 
@@ -272,7 +335,8 @@ Configuration of a local data cache.
 
     </div>
 
-  - <div id="<init>(java.lang.String,long)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,long)"
+    class="section detail">
 
     ### Cache
 

@@ -11,7 +11,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
 <div class="section summary">
 
-- <div id="related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -19,93 +19,185 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   </div>
 
-  | Package | Description |
-  |----|----|
-  | [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary) |   |
-  | [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary) |   |
-  | [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary) |   |
-  | [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary) |   |
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Package
 
   </div>
 
-- <div id="class-summary">
+  <div class="table-header col-last">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Classes and Interfaces
-  Interfaces
-  Classes
-  Enum Classes
+  Description
 
   </div>
 
-  <div id="class-summary.tabpanel" aria-labelledby="class-summary-tab0"
-  role="tabpanel">
+  <div class="col-first even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted"
-  title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></td>
-  <td><div class="block">
+  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-class-summary">
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [OnTaskCompleted](sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method will be called on the main thread when a task call has been
   completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading"
-  title="interface in com.here.sdk.core.threading">PlatformThreading</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [PlatformThreading](sdk-for-android-explore-com-here-sdk-core-threading-platformthreading "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   Interface for task activities on the main thread.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-runnable"
-  title="interface in com.here.sdk.core.threading">Runnable</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   Interface that should be implemented by any class whose instances are
   intended to be executed by a thread.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading">TaskHandle</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   Handle used for the manipulation of the task.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome"
-  title="enum class in com.here.sdk.core.threading">TaskOutcome</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [TaskOutcome](sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome "enum class in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   This enum represents that a task has been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-threading"
-  title="class in com.here.sdk.core.threading">Threading</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [Threading](sdk-for-android-explore-com-here-sdk-core-threading-threading "class in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Initializes threading support on native side.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 

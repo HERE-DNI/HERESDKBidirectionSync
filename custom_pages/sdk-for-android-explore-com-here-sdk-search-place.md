@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.search.Place
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,168 +39,360 @@ interest (POI) etc.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-place"
-  title="class in com.here.sdk.search"><code>Place</code></a></td>
-  <td><pre><code>deserialize(String serializedPlace)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Place`](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      deserialize(String serializedPlace)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns a Place created from serialized string.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a><code>&gt;</code></td>
-  <td><pre><code>getAccessPoints()</code></pre></td>
-  <td><div class="block">
-  Gets the access points to the place, such as the points on a road or in
-  a parking lot.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-address"
-  title="class in com.here.sdk.search"><code>Address</code></a></td>
-  <td><pre><code>getAddress()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAccessPoints()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the access points to the place, such as the points on a road or
+  in a parking lot.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Address`](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAddress()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the address of the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-areatype"
-  title="enum class in com.here.sdk.search"><code>AreaType</code></a></td>
-  <td><pre><code>getAreaType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`AreaType`](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAreaType()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the area type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geobox"
-  title="class in com.here.sdk.core"><code>GeoBox</code></a></td>
-  <td><pre><code>getBoundingBox()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBoundingBox()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the geographic coordinates of the bounding box containing the
   place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-details"
-  title="class in com.here.sdk.search"><code>Details</code></a></td>
-  <td><pre><code>getDetails()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Details`](sdk-for-android-explore-com-here-sdk-search-details "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDetails()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the place's detailed information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><pre><code>getDistanceInMeters()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDistanceInMeters()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the distance from the search center to the place in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getGeoCoordinates()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeoCoordinates()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the geographic coordinates of the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getId()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getId()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the unique id of this resource.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placetype"
-  title="enum class in com.here.sdk.search"><code>PlaceType</code></a></td>
-  <td><pre><code>getPlaceType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`PlaceType`](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPlaceType()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the place type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getPoliticalView()</code></pre></td>
-  <td><div class="block">
-  Gets the geopolitical view, defined as a three letter country code, each
-  disputed territory has international and alternative views.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPoliticalView()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the geopolitical view, defined as a three letter country code,
+  each disputed territory has international and alternative views.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getTitle()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTitle()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the localized title for the resource.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isCoordinatesInterpolated()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isCoordinatesInterpolated()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the flag saying whether the coordinates of the house number were
   interpolated or not.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>serializeCompact()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      serializeCompact()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Serializes Place to persist or transfer.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -254,9 +447,11 @@ interest (POI) etc.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="serializeCompact()" class="section detail">
+  - <div id="sdk-for-android-explore-serializeCompact()"
+    class="section detail">
 
     ### serializeCompact
 
@@ -283,7 +478,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="deserialize(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-deserialize(java.lang.String)"
+    class="section detail">
 
     ### deserialize
 
@@ -324,7 +520,7 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getTitle()" class="section detail">
+  - <div id="sdk-for-android-explore-getTitle()" class="section detail">
 
     ### getTitle
 
@@ -348,7 +544,7 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getId()" class="section detail">
+  - <div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -376,7 +572,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getPlaceType()" class="section detail">
+  - <div id="sdk-for-android-explore-getPlaceType()"
+    class="section detail">
 
     ### getPlaceType
 
@@ -398,7 +595,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getAreaType()" class="section detail">
+  - <div id="sdk-for-android-explore-getAreaType()"
+    class="section detail">
 
     ### getAreaType
 
@@ -427,7 +625,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getAddress()" class="section detail">
+  - <div id="sdk-for-android-explore-getAddress()"
+    class="section detail">
 
     ### getAddress
 
@@ -459,7 +658,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getDetails()" class="section detail">
+  - <div id="sdk-for-android-explore-getDetails()"
+    class="section detail">
 
     ### getDetails
 
@@ -481,7 +681,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getGeoCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeoCoordinates()"
+    class="section detail">
 
     ### getGeoCoordinates
 
@@ -504,7 +705,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="isCoordinatesInterpolated()" class="section detail">
+  - <div id="sdk-for-android-explore-isCoordinatesInterpolated()"
+    class="section detail">
 
     ### isCoordinatesInterpolated
 
@@ -531,7 +733,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getAccessPoints()" class="section detail">
+  - <div id="sdk-for-android-explore-getAccessPoints()"
+    class="section detail">
 
     ### getAccessPoints
 
@@ -540,7 +743,7 @@ interest (POI) etc.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")></span> <span class="element-name">getAccessPoints</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">getAccessPoints</span>()
 
     </div>
 
@@ -572,7 +775,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getBoundingBox()" class="section detail">
+  - <div id="sdk-for-android-explore-getBoundingBox()"
+    class="section detail">
 
     ### getBoundingBox
 
@@ -596,7 +800,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getDistanceInMeters()" class="section detail">
+  - <div id="sdk-for-android-explore-getDistanceInMeters()"
+    class="section detail">
 
     ### getDistanceInMeters
 
@@ -621,7 +826,8 @@ interest (POI) etc.
 
     </div>
 
-  - <div id="getPoliticalView()" class="section detail">
+  - <div id="sdk-for-android-explore-getPoliticalView()"
+    class="section detail">
 
     ### getPoliticalView
 

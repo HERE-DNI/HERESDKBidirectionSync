@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapContext
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -44,7 +45,8 @@ be active and once selected it cannot be changed.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -52,152 +54,296 @@ be active and once selected it cannot be changed.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-freeresourceseverity"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapContext.FreeResourceSeverity</code></a></td>
-  <td><div class="block">
+  title="enum class in com.here.sdk.mapview"><code>MapContext.FreeResourceSeverity</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The severity of a free resource request.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementOptions</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementOptions</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Memory management options.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementResult</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementResult</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Memory management result.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapContext.MemoryManagementResultCode</code></a></td>
-  <td><div class="block">
+  title="enum class in com.here.sdk.mapview"><code>MapContext.MemoryManagementResultCode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The memory management result code.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapContext.MemoryManagementStrategy</code></a></td>
-  <td><div class="block">
+  title="enum class in com.here.sdk.mapview"><code>MapContext.MemoryManagementStrategy</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The memory management strategy.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-resourcetype"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapContext.ResourceType</code></a></td>
-  <td><div class="block">
+  title="enum class in com.here.sdk.mapview"><code>MapContext.ResourceType</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Types of system resources used by MapContext or any of the entities
   attached to it, like HereMap .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback"
   class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapContext.SetMemoryManagementOptionsCallback</code></a></td>
-  <td><div class="block">
+  title="interface in com.here.sdk.mapview"><code>MapContext.SetMemoryManagementOptionsCallback</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Callback to handle the memory management result.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>freeResource(MapContext.ResourceType type,
-   MapContext.FreeResourceSeverity severity)</code></pre></td>
-  <td><div class="block">
-  Frees a system resource held by the MapContext and all entities attached
-  to it, like HereMap .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions"
-  title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementOptions</code></a></td>
-  <td><pre><code>getMemoryManagementOptions()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMemoryManagementOptions(MapContext.MemoryManagementOptions memoryManagementOptions,
-   MapContext.SetMemoryManagementOptionsCallback callback)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      freeResource(MapContext.ResourceType type,
+       MapContext.FreeResourceSeverity severity)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Frees a system resource held by the MapContext and all entities
+  attached to it, like HereMap .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapContext.MemoryManagementOptions`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMemoryManagementOptions()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMemoryManagementOptions(MapContext.MemoryManagementOptions memoryManagementOptions,
+       MapContext.SetMemoryManagementOptionsCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets memory management options for controlling tile cache and video
   memory usage.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -252,9 +398,10 @@ be active and once selected it cannot be changed.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="freeResource(com.here.sdk.mapview.MapContext.ResourceType,com.here.sdk.mapview.MapContext.FreeResourceSeverity)"
+  - <div id="sdk-for-android-explore-freeResource(com.here.sdk.mapview.MapContext.ResourceType,com.here.sdk.mapview.MapContext.FreeResourceSeverity)"
     class="section detail">
 
     ### freeResource
@@ -289,7 +436,8 @@ be active and once selected it cannot be changed.
 
     </div>
 
-  - <div id="getMemoryManagementOptions()" class="section detail">
+  - <div id="sdk-for-android-explore-getMemoryManagementOptions()"
+    class="section detail">
 
     ### getMemoryManagementOptions
 
@@ -311,7 +459,7 @@ be active and once selected it cannot be changed.
 
     </div>
 
-  - <div id="setMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementOptions,com.here.sdk.mapview.MapContext.SetMemoryManagementOptionsCallback)"
+  - <div id="sdk-for-android-explore-setMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementOptions,com.here.sdk.mapview.MapContext.SetMemoryManagementOptionsCallback)"
     class="section detail">
 
     ### setMemoryManagementOptions

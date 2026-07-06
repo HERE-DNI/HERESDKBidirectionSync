@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapSceneLights
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ Manage the lights and their attributes in a scene.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -46,160 +48,321 @@ Manage the lights and their attributes in a scene.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback"
   class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapSceneLights.AttributeSettingCallback</code></a></td>
-  <td><div class="block">
+  title="interface in com.here.sdk.mapview"><code>MapSceneLights.AttributeSettingCallback</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   This callback function allows handling errors that occur during the
   setting of light attributes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingerror"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapSceneLights.AttributeSettingError</code></a></td>
-  <td><div class="block">
-  Error enum indicating reasons for failure when setting light attributes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+  title="enum class in com.here.sdk.mapview"><code>MapSceneLights.AttributeSettingError</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Error enum indicating reasons for failure when setting light
+  attributes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapSceneLights.Category</code></a></td>
-  <td><div class="block">
-  The scene uses three categories of lighting which are: Main light, Back
-  light and Rim light.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+  title="enum class in com.here.sdk.mapview"><code>MapSceneLights.Category</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The scene uses three categories of lighting which are: Main light,
+  Back light and Rim light.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapSceneLights.Direction</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapSceneLights.Direction</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The direction of lights as a pair of azimuth and altitude angles.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getColor(MapSceneLights.Category category)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getColor(MapSceneLights.Category category)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Retrieves the current color of the light based on its category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction"
-  title="class in com.here.sdk.mapview"><code>MapSceneLights.Direction</code></a></td>
-  <td><pre><code>getDirection(MapSceneLights.Category category)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLights.Direction`](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDirection(MapSceneLights.Category category)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Retrieves the current direction of the light based on its category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getIntensity(MapSceneLights.Category category)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIntensity(MapSceneLights.Category category)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Retrieves the current intensity of the light based on its category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>reset()</code></pre></td>
-  <td><div class="block">
-  Resets all attributes of each light to their default values based on the
-  current map scene settings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setColor(MapSceneLights.Category category,
-   Color color,
-   MapSceneLights.AttributeSettingCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      reset()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Resets all attributes of each light to their default values based on
+  the current map scene settings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setColor(MapSceneLights.Category category,
+       Color color,
+       MapSceneLights.AttributeSettingCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Set a new color for the light based on its category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDirection(MapSceneLights.Category category,
-   MapSceneLights.Direction direction,
-   MapSceneLights.AttributeSettingCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDirection(MapSceneLights.Category category,
+       MapSceneLights.Direction direction,
+       MapSceneLights.AttributeSettingCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Set a new direction for the light based on its category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setIntensity(MapSceneLights.Category category,
-   double intensity,
-   MapSceneLights.AttributeSettingCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setIntensity(MapSceneLights.Category category,
+       double intensity,
+       MapSceneLights.AttributeSettingCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Set a new intensity for the light based on its category.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -254,9 +417,10 @@ Manage the lights and their attributes in a scene.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+  - <div id="sdk-for-android-explore-setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setColor
@@ -294,7 +458,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+  - <div id="sdk-for-android-explore-setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setIntensity
@@ -334,7 +498,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+  - <div id="sdk-for-android-explore-setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setDirection
@@ -371,7 +535,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="getColor(com.here.sdk.mapview.MapSceneLights.Category)"
+  - <div id="sdk-for-android-explore-getColor(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getColor
@@ -401,7 +565,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="getIntensity(com.here.sdk.mapview.MapSceneLights.Category)"
+  - <div id="sdk-for-android-explore-getIntensity(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getIntensity
@@ -433,7 +597,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="getDirection(com.here.sdk.mapview.MapSceneLights.Category)"
+  - <div id="sdk-for-android-explore-getDirection(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getDirection
@@ -463,7 +627,7 @@ Manage the lights and their attributes in a scene.
 
     </div>
 
-  - <div id="reset()" class="section detail">
+  - <div id="sdk-for-android-explore-reset()" class="section detail">
 
     ### reset
 

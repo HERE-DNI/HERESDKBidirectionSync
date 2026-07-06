@@ -11,7 +11,7 @@ package <span class="element-name">com.here</span>
 
 <div class="section summary">
 
-- <div id="related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -19,13 +19,37 @@ package <span class="element-name">com.here</span>
 
   </div>
 
-  | Package | Description |
-  |----|----|
-  | [com.here.time](sdk-for-android-explore-com-here-time-package-summary) |   |
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Package
 
   </div>
 
-- <div id="class-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [com.here.time](sdk-for-android-explore-com-here-time-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="caption">
 
@@ -33,28 +57,38 @@ package <span class="element-name">com.here</span>
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-nativebase"
-  title="class in com.here">NativeBase</a></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Internal base class for public non-POD objects to manage the lifecycle
   of underlying C++ objects.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
   </div>
 

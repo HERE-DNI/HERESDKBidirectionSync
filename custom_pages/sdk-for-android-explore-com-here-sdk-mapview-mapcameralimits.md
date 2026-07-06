@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapCameraLimits
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,187 +50,421 @@ the camera. When setting, limits are applied on next rendering loop.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final double</code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_TILT"
-  class="member-name-link"><code>MAX_TILT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MAX_TILT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Absolute maximum possible value of tilt angle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final double</code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"
-  class="member-name-link"><code>MAX_ZOOM_LEVEL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MAX_ZOOM_LEVEL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Absolute maximum possible value of zoom level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final double</code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_TILT"
-  class="member-name-link"><code>MIN_TILT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MIN_TILT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Absolute minimum possible value of tilt angle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final double</code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"
-  class="member-name-link"><code>MIN_ZOOM_LEVEL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MIN_ZOOM_LEVEL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Absolute minimum possible value of zoom level.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>clearBearingRanges()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearBearingRanges()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Clears bearing ranges for all zoom values and resets bearing range to
   default.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>clearTiltRanges()</code></pre></td>
-  <td><div class="block">
-  Clears tilt ranges for all zoom values and resets tilt range to default.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anglerange"
-  title="class in com.here.sdk.core"><code>AngleRange</code></a></td>
-  <td><pre><code>getBearingRange()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearTiltRanges()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Clears tilt ranges for all zoom values and resets tilt range to
+  default.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBearingRange()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the currently set bearing range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geobox"
-  title="class in com.here.sdk.core"><code>GeoBox</code></a></td>
-  <td><pre><code>getTargetArea()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTargetArea()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a GeoBox that limits the camera target to a specific geographical
   area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anglerange"
-  title="class in com.here.sdk.core"><code>AngleRange</code></a></td>
-  <td><pre><code>getTiltRange()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTiltRange()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current tilt range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a></td>
-  <td><pre><code>getZoomRange()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getZoomRange()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the currently set camera zoom range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setBearingRange(AngleRange value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setBearingRange(AngleRange value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a new bearing range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setBearingRangeAtZoom(MapMeasure zoom,
-   AngleRange bearingRange)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setBearingRangeAtZoom(MapMeasure zoom,
+       AngleRange bearingRange)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the bearing range within which the camera can rotate at a given
   zoom.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setTargetArea(GeoBox value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTargetArea(GeoBox value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a GeoBox that limits the camera target to a specific geographical
   area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setTiltRange(AngleRange value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTiltRange(AngleRange value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a new tilt limit range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setTiltRangeAtZoom(MapMeasure zoom,
-   AngleRange tiltRange)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTiltRangeAtZoom(MapMeasure zoom,
+       AngleRange tiltRange)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets tilt ranges that can be set on the camera at given zoom.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setZoomRange(MapMeasureRange value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setZoomRange(MapMeasureRange value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a new camera zoom range.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -283,9 +519,10 @@ the camera. When setting, limits are applied on next rendering loop.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="MIN_TILT" class="section detail">
+  - <div id="sdk-for-android-explore-MIN_TILT" class="section detail">
 
     ### MIN_TILT
 
@@ -308,7 +545,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="MAX_TILT" class="section detail">
+  - <div id="sdk-for-android-explore-MAX_TILT" class="section detail">
 
     ### MAX_TILT
 
@@ -331,7 +568,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="MIN_ZOOM_LEVEL" class="section detail">
+  - <div id="sdk-for-android-explore-MIN_ZOOM_LEVEL"
+    class="section detail">
 
     ### MIN_ZOOM_LEVEL
 
@@ -354,7 +592,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="MAX_ZOOM_LEVEL" class="section detail">
+  - <div id="sdk-for-android-explore-MAX_ZOOM_LEVEL"
+    class="section detail">
 
     ### MAX_ZOOM_LEVEL
 
@@ -379,9 +618,10 @@ the camera. When setting, limits are applied on next rendering loop.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
+  - <div id="sdk-for-android-explore-setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setBearingRangeAtZoom
@@ -419,7 +659,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="clearBearingRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-clearBearingRanges()"
+    class="section detail">
 
     ### clearBearingRanges
 
@@ -438,7 +679,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
+  - <div id="sdk-for-android-explore-setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setTiltRangeAtZoom
@@ -476,7 +717,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="clearTiltRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-clearTiltRanges()"
+    class="section detail">
 
     ### clearTiltRanges
 
@@ -495,7 +737,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="getTiltRange()" class="section detail">
+  - <div id="sdk-for-android-explore-getTiltRange()"
+    class="section detail">
 
     ### getTiltRange
 
@@ -520,7 +763,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="setTiltRange(com.here.sdk.core.AngleRange)"
+  - <div id="sdk-for-android-explore-setTiltRange(com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setTiltRange
@@ -551,7 +794,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="getBearingRange()" class="section detail">
+  - <div id="sdk-for-android-explore-getBearingRange()"
+    class="section detail">
 
     ### getBearingRange
 
@@ -576,7 +820,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="setBearingRange(com.here.sdk.core.AngleRange)"
+  - <div id="sdk-for-android-explore-setBearingRange(com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setBearingRange
@@ -605,7 +849,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="getZoomRange()" class="section detail">
+  - <div id="sdk-for-android-explore-getZoomRange()"
+    class="section detail">
 
     ### getZoomRange
 
@@ -629,7 +874,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="setZoomRange(com.here.sdk.mapview.MapMeasureRange)"
+  - <div id="sdk-for-android-explore-setZoomRange(com.here.sdk.mapview.MapMeasureRange)"
     class="section detail">
 
     ### setZoomRange
@@ -659,7 +904,8 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="getTargetArea()" class="section detail">
+  - <div id="sdk-for-android-explore-getTargetArea()"
+    class="section detail">
 
     ### getTargetArea
 
@@ -682,7 +928,7 @@ the camera. When setting, limits are applied on next rendering loop.
 
     </div>
 
-  - <div id="setTargetArea(com.here.sdk.core.GeoBox)"
+  - <div id="sdk-for-android-explore-setTargetArea(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### setTargetArea

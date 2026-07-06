@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.routing.IndoorManeuver
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,108 +39,228 @@ Represents a maneuver within an indoor section.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
-  title="enum class in com.here.sdk.routing"><code>IndoorManeuverActions</code></a></td>
-  <td><pre><code>getAction()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAction()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the action type of this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getCoordinate()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCoordinate()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the geographic coordinates of this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getDuration()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDuration()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the duration to complete this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata"
-  title="class in com.here.sdk.routing"><code>IndoorLevelChangeData</code></a></td>
-  <td><pre><code>getIndoorLevelChangeData()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`IndoorLevelChangeData`](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIndoorLevelChangeData()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the level change data for this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata"
-  title="class in com.here.sdk.routing"><code>IndoorSpaceData</code></a></td>
-  <td><pre><code>getIndoorSpaceData()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`IndoorSpaceData`](sdk-for-android-explore-com-here-sdk-routing-indoorspacedata "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIndoorSpaceData()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the indoor space data for this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>float</code></td>
-  <td><pre><code>getLengthInMeters()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `float`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLengthInMeters()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the length of this maneuver in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getLevelZIndex()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLevelZIndex()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the vertical level index of this maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getOffset()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOffset()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the offset of this maneuver from the start of the section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getSectionIndex()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSectionIndex()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the section index this maneuver belongs to.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -194,9 +315,11 @@ Represents a maneuver within an indoor section.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getAction()" class="section detail">
+  - <div id="sdk-for-android-explore-getAction()"
+    class="section detail">
 
     ### getAction
 
@@ -218,7 +341,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getCoordinate()" class="section detail">
+  - <div id="sdk-for-android-explore-getCoordinate()"
+    class="section detail">
 
     ### getCoordinate
 
@@ -240,7 +364,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getOffset()" class="section detail">
+  - <div id="sdk-for-android-explore-getOffset()"
+    class="section detail">
 
     ### getOffset
 
@@ -261,7 +386,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getSectionIndex()" class="section detail">
+  - <div id="sdk-for-android-explore-getSectionIndex()"
+    class="section detail">
 
     ### getSectionIndex
 
@@ -282,7 +408,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getLengthInMeters()" class="section detail">
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
+    class="section detail">
 
     ### getLengthInMeters
 
@@ -303,7 +430,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getDuration()"
+    class="section detail">
 
     ### getDuration
 
@@ -325,7 +453,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getLevelZIndex()" class="section detail">
+  - <div id="sdk-for-android-explore-getLevelZIndex()"
+    class="section detail">
 
     ### getLevelZIndex
 
@@ -346,7 +475,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getIndoorSpaceData()" class="section detail">
+  - <div id="sdk-for-android-explore-getIndoorSpaceData()"
+    class="section detail">
 
     ### getIndoorSpaceData
 
@@ -370,7 +500,8 @@ Represents a maneuver within an indoor section.
 
     </div>
 
-  - <div id="getIndoorLevelChangeData()" class="section detail">
+  - <div id="sdk-for-android-explore-getIndoorLevelChangeData()"
+    class="section detail">
 
     ### getIndoorLevelChangeData
 

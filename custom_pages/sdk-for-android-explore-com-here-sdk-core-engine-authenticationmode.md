@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.core.engine.AuthenticationMode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ retrieved via key/secret from a dedicated backend.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -49,115 +51,205 @@ retrieved via key/secret from a dedicated backend.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider"
   class="type-name-link"
-  title="interface in com.here.sdk.core.engine"><code>AuthenticationMode.AccessTokenProvider</code></a></td>
-  <td><div class="block">
+  title="interface in com.here.sdk.core.engine"><code>AuthenticationMode.AccessTokenProvider</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   This lambda is used to retrieve access token in synchronous manner.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object rhs)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
-  title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a></td>
-  <td><pre><code>withExternal()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object rhs)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      withExternal()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Assumes the authentication is provided by the client.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
-  title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a></td>
-  <td><pre><code>withKeySecret(String accessKeyId,
-   String accessKeySecret)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      withKeySecret(String accessKeyId,
+       String accessKeySecret)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   SDK will authenticate with access key id access key secret to obtain
   authentication token.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
-  title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a></td>
-  <td><pre><code>withToken(String accessToken)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      withToken(String accessToken)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   SDK will pass access token as a Bearer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
-  title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a></td>
-  <td><pre><code>withTokenProvider(AuthenticationMode.AccessTokenProvider tokenProvider)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      withTokenProvider(AuthenticationMode.AccessTokenProvider tokenProvider)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   SDK will use access token provider to retrieve access token.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -206,9 +298,11 @@ retrieved via key/secret from a dedicated backend.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -232,7 +326,7 @@ retrieved via key/secret from a dedicated backend.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -254,7 +348,8 @@ retrieved via key/secret from a dedicated backend.
 
     </div>
 
-  - <div id="withToken(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-withToken(java.lang.String)"
+    class="section detail">
 
     ### withToken
 
@@ -287,7 +382,7 @@ retrieved via key/secret from a dedicated backend.
 
     </div>
 
-  - <div id="withTokenProvider(com.here.sdk.core.engine.AuthenticationMode.AccessTokenProvider)"
+  - <div id="sdk-for-android-explore-withTokenProvider(com.here.sdk.core.engine.AuthenticationMode.AccessTokenProvider)"
     class="section detail">
 
     ### withTokenProvider
@@ -319,7 +414,8 @@ retrieved via key/secret from a dedicated backend.
 
     </div>
 
-  - <div id="withExternal()" class="section detail">
+  - <div id="sdk-for-android-explore-withExternal()"
+    class="section detail">
 
     ### withExternal
 
@@ -344,7 +440,7 @@ retrieved via key/secret from a dedicated backend.
 
     </div>
 
-  - <div id="withKeySecret(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-withKeySecret(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### withKeySecret

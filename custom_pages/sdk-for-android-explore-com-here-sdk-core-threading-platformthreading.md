@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-platformthreading"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -28,65 +29,97 @@ Interface for task activities on the main thread.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>postToMainThread(Runnable runnable)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      postToMainThread(Runnable runnable)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Posts task to the end of the queue of the main thread.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>postToMainThread(Runnable runnable,
-   long delayMs)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      postToMainThread(Runnable runnable,
+       long delayMs)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Posts a task to be executed on the main thread after some delay.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>runOnMainThread(Runnable runnable)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      runOnMainThread(Runnable runnable)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Runs a task on the main thread.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -98,9 +131,10 @@ Interface for task activities on the main thread.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="runOnMainThread(com.here.sdk.core.threading.Runnable)"
+  - <div id="sdk-for-android-explore-runOnMainThread(com.here.sdk.core.threading.Runnable)"
     class="section detail">
 
     ### runOnMainThread
@@ -137,7 +171,7 @@ Interface for task activities on the main thread.
 
     </div>
 
-  - <div id="postToMainThread(com.here.sdk.core.threading.Runnable,long)"
+  - <div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable,long)"
     class="section detail">
 
     ### postToMainThread
@@ -180,7 +214,7 @@ Interface for task activities on the main thread.
 
     </div>
 
-  - <div id="postToMainThread(com.here.sdk.core.threading.Runnable)"
+  - <div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable)"
     class="section detail">
 
     ### postToMainThread

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.transport.VehicleSpecification
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ handling.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -47,86 +49,182 @@ handling.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.BusBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.CarBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a car.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-privatebusbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.PrivateBusBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a private bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a scooter.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TaxiBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a taxi.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a VehicleSpecification for a truck.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.BusBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a bus.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.CarBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a car.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-privatebusbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.PrivateBusBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a private bus.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a scooter.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.TaxiBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a taxi.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a VehicleSpecification for a truck.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -134,302 +232,644 @@ handling.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"
-  class="member-name-link"><code>axleCount</code></a></td>
-  <td><div class="block">
-  Defines total number of axles in the vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms"
-  class="member-name-link"><code>currentWeightInKilograms</code></a></td>
-  <td><div class="block">
-  Current truck weight, including trailers and shipped goods currently
-  loaded, specified in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#emptyWeightInKilograms"
-  class="member-name-link"><code>emptyWeightInKilograms</code></a></td>
-  <td><div class="block">
-  Empty weight of the vehicle without any load, excluding trailers,
-  specified in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#engineSizeInCubicCentimeters"
-  class="member-name-link"><code>engineSizeInCubicCentimeters</code></a></td>
-  <td><div class="block">
-  Engine size of the scooter in cubic centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms"
-  class="member-name-link"><code>grossWeightInKilograms</code></a></td>
-  <td><div class="block">
-  Gross truck weight, including trailers and shipped goods when loaded at
-  capacity, specified in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
-  title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#hazardousMaterials"
-  class="member-name-link"><code>hazardousMaterials</code></a></td>
-  <td><div class="block">
-  Specifies a list of hazardous materials shipped in the vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#heightInCentimeters"
-  class="member-name-link"><code>heightInCentimeters</code></a></td>
-  <td><div class="block">
-  Vehicle height in centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#isCommercial"
-  class="member-name-link"><code>isCommercial</code></a></td>
-  <td><div class="block">
-  Specifies whether the vehicle is a commercial or a non-commercial
-  vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#isTruckLight"
-  class="member-name-link"><code>isTruckLight</code></a></td>
-  <td><div class="block">
-  A flag indicating whether the truck is light enough to be classified
-  more as a car than a truck in Japan.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#kingpinToRearAxleDistanceInCentimeters"
-  class="member-name-link"><code>kingpinToRearAxleDistanceInCentimeters</code></a></td>
-  <td><div class="block">
-  Defines the kingpin to rear axle distance, in centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#lastCharacterOfLicensePlate"
-  class="member-name-link"><code>lastCharacterOfLicensePlate</code></a></td>
-  <td><div class="block">
-  Last character of license plate in String format.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#lengthInCentimeters"
-  class="member-name-link"><code>lengthInCentimeters</code></a></td>
-  <td><div class="block">
-  Vehicle length in centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#occupancy"
-  class="member-name-link"><code>occupancy</code></a></td>
-  <td><div class="block">
-  Specifies the number of occupants in the vehicle, including driver, can
-  affect the vehicle's ability to use HOV/carpool restricted lanes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#payloadCapacityInKilograms"
-  class="member-name-link"><code>payloadCapacityInKilograms</code></a></td>
-  <td><div class="block">
-  Allowed payload capacity, including trailers, specified in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#tiresCount"
-  class="member-name-link"><code>tiresCount</code></a></td>
-  <td><div class="block">
-  The total number of tires the vehicle has, i.e., the tires on the base
-  vehicle and any attached trailers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"
-  class="member-name-link"><code>trailerAxleCount</code></a></td>
-  <td><div class="block">
-  Defines total number of axles across all the trailers attached to the
-  vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerCount"
-  class="member-name-link"><code>trailerCount</code></a></td>
-  <td><div class="block">
-  Defines number of trailers attached to the vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-truckcategory"
-  title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#truckCategory"
-  class="member-name-link"><code>truckCategory</code></a></td>
-  <td><div class="block">
-  Defines the truck category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype"
-  title="enum class in com.here.sdk.transport"><code>TruckType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#truckType"
-  class="member-name-link"><code>truckType</code></a></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.27.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory"
-  title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#tunnelCategory"
-  class="member-name-link"><code>tunnelCategory</code></a></td>
-  <td><div class="block">
-  Specifies the tunnel categories to restrict certain route links.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup"
-  title="class in com.here.sdk.transport"><code>WeightPerAxleGroup</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"
-  class="member-name-link"><code>weightPerAxleGroup</code></a></td>
-  <td><div class="block">
-  Allows specification of axle weights in a more fine-grained way than
-  weightPerAxleInKilograms .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"
-  class="member-name-link"><code>weightPerAxleInKilograms</code></a></td>
-  <td><div class="block">
-  Heaviest weight per axle, regardless of axle type or axle group.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#widthInCentimeters"
-  class="member-name-link"><code>widthInCentimeters</code></a></td>
-  <td><div class="block">
-  Vehicle width in centimeters.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"
+  class="member-name-link"><code>axleCount</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines total number of axles in the vehicle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms"
+  class="member-name-link"><code>currentWeightInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Current truck weight, including trailers and shipped goods currently
+  loaded, specified in kilograms.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#emptyWeightInKilograms"
+  class="member-name-link"><code>emptyWeightInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Empty weight of the vehicle without any load, excluding trailers,
+  specified in kilograms.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#engineSizeInCubicCentimeters"
+  class="member-name-link"><code>engineSizeInCubicCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Engine size of the scooter in cubic centimeters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms"
+  class="member-name-link"><code>grossWeightInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Gross truck weight, including trailers and shipped goods when loaded
+  at capacity, specified in kilograms.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#hazardousMaterials"
+  class="member-name-link"><code>hazardousMaterials</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Specifies a list of hazardous materials shipped in the vehicle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#heightInCentimeters"
+  class="member-name-link"><code>heightInCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Vehicle height in centimeters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#isCommercial"
+  class="member-name-link"><code>isCommercial</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Specifies whether the vehicle is a commercial or a non-commercial
+  vehicle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#isTruckLight"
+  class="member-name-link"><code>isTruckLight</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A flag indicating whether the truck is light enough to be classified
+  more as a car than a truck in Japan.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#kingpinToRearAxleDistanceInCentimeters"
+  class="member-name-link"><code>kingpinToRearAxleDistanceInCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the kingpin to rear axle distance, in centimeters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#lastCharacterOfLicensePlate"
+  class="member-name-link"><code>lastCharacterOfLicensePlate</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Last character of license plate in String format.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#lengthInCentimeters"
+  class="member-name-link"><code>lengthInCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Vehicle length in centimeters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#occupancy"
+  class="member-name-link"><code>occupancy</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies the number of occupants in the vehicle, including driver,
+  can affect the vehicle's ability to use HOV/carpool restricted lanes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#payloadCapacityInKilograms"
+  class="member-name-link"><code>payloadCapacityInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Allowed payload capacity, including trailers, specified in kilograms.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#tiresCount"
+  class="member-name-link"><code>tiresCount</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The total number of tires the vehicle has, i.e., the tires on the base
+  vehicle and any attached trailers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"
+  class="member-name-link"><code>trailerAxleCount</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines total number of axles across all the trailers attached to the
+  vehicle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerCount"
+  class="member-name-link"><code>trailerCount</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines number of trailers attached to the vehicle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TruckCategory`](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#truckCategory"
+  class="member-name-link"><code>truckCategory</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the truck category.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#truckType"
+  class="member-name-link"><code>truckType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.27.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TunnelCategory`](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#tunnelCategory"
+  class="member-name-link"><code>tunnelCategory</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Specifies the tunnel categories to restrict certain route links.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`WeightPerAxleGroup`](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"
+  class="member-name-link"><code>weightPerAxleGroup</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Allows specification of axle weights in a more fine-grained way than
+  weightPerAxleInKilograms .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"
+  class="member-name-link"><code>weightPerAxleInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Heaviest weight per axle, regardless of axle type or axle group.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#widthInCentimeters"
+  class="member-name-link"><code>widthInCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Vehicle width in centimeters.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -437,70 +877,100 @@ handling.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>VehicleSpecification()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      VehicleSpecification()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -549,9 +1019,11 @@ handling.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="heightInCentimeters" class="section detail">
+  - <div id="sdk-for-android-explore-heightInCentimeters"
+    class="section detail">
 
     ### heightInCentimeters
 
@@ -577,7 +1049,8 @@ handling.
 
     </div>
 
-  - <div id="widthInCentimeters" class="section detail">
+  - <div id="sdk-for-android-explore-widthInCentimeters"
+    class="section detail">
 
     ### widthInCentimeters
 
@@ -603,7 +1076,8 @@ handling.
 
     </div>
 
-  - <div id="lengthInCentimeters" class="section detail">
+  - <div id="sdk-for-android-explore-lengthInCentimeters"
+    class="section detail">
 
     ### lengthInCentimeters
 
@@ -629,7 +1103,7 @@ handling.
 
     </div>
 
-  - <div id="axleCount" class="section detail">
+  - <div id="sdk-for-android-explore-axleCount" class="section detail">
 
     ### axleCount
 
@@ -660,7 +1134,8 @@ handling.
 
     </div>
 
-  - <div id="trailerCount" class="section detail">
+  - <div id="sdk-for-android-explore-trailerCount"
+    class="section detail">
 
     ### trailerCount
 
@@ -685,7 +1160,7 @@ handling.
 
     </div>
 
-  - <div id="truckType" class="section detail">
+  - <div id="sdk-for-android-explore-truckType" class="section detail">
 
     ### truckType
 
@@ -722,7 +1197,8 @@ handling.
 
     </div>
 
-  - <div id="truckCategory" class="section detail">
+  - <div id="sdk-for-android-explore-truckCategory"
+    class="section detail">
 
     ### truckCategory
 
@@ -742,7 +1218,8 @@ handling.
 
     </div>
 
-  - <div id="isTruckLight" class="section detail">
+  - <div id="sdk-for-android-explore-isTruckLight"
+    class="section detail">
 
     ### isTruckLight
 
@@ -781,7 +1258,8 @@ handling.
 
     </div>
 
-  - <div id="payloadCapacityInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-payloadCapacityInKilograms"
+    class="section detail">
 
     ### payloadCapacityInKilograms
 
@@ -806,7 +1284,8 @@ handling.
 
     </div>
 
-  - <div id="trailerAxleCount" class="section detail">
+  - <div id="sdk-for-android-explore-trailerAxleCount"
+    class="section detail">
 
     ### trailerAxleCount
 
@@ -834,7 +1313,7 @@ handling.
 
     </div>
 
-  - <div id="kingpinToRearAxleDistanceInCentimeters"
+  - <div id="sdk-for-android-explore-kingpinToRearAxleDistanceInCentimeters"
     class="section detail">
 
     ### kingpinToRearAxleDistanceInCentimeters
@@ -860,7 +1339,8 @@ handling.
 
     </div>
 
-  - <div id="emptyWeightInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-emptyWeightInKilograms"
+    class="section detail">
 
     ### emptyWeightInKilograms
 
@@ -887,7 +1367,8 @@ handling.
 
     </div>
 
-  - <div id="grossWeightInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-grossWeightInKilograms"
+    class="section detail">
 
     ### grossWeightInKilograms
 
@@ -917,7 +1398,8 @@ handling.
 
     </div>
 
-  - <div id="currentWeightInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-currentWeightInKilograms"
+    class="section detail">
 
     ### currentWeightInKilograms
 
@@ -949,7 +1431,8 @@ handling.
 
     </div>
 
-  - <div id="weightPerAxleInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-weightPerAxleInKilograms"
+    class="section detail">
 
     ### weightPerAxleInKilograms
 
@@ -982,7 +1465,8 @@ handling.
 
     </div>
 
-  - <div id="weightPerAxleGroup" class="section detail">
+  - <div id="sdk-for-android-explore-weightPerAxleGroup"
+    class="section detail">
 
     ### weightPerAxleGroup
 
@@ -1012,7 +1496,8 @@ handling.
 
     </div>
 
-  - <div id="isCommercial" class="section detail">
+  - <div id="sdk-for-android-explore-isCommercial"
+    class="section detail">
 
     ### isCommercial
 
@@ -1036,7 +1521,8 @@ handling.
 
     </div>
 
-  - <div id="lastCharacterOfLicensePlate" class="section detail">
+  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+    class="section detail">
 
     ### lastCharacterOfLicensePlate
 
@@ -1059,7 +1545,8 @@ handling.
 
     </div>
 
-  - <div id="engineSizeInCubicCentimeters" class="section detail">
+  - <div id="sdk-for-android-explore-engineSizeInCubicCentimeters"
+    class="section detail">
 
     ### engineSizeInCubicCentimeters
 
@@ -1087,7 +1574,7 @@ handling.
 
     </div>
 
-  - <div id="tiresCount" class="section detail">
+  - <div id="sdk-for-android-explore-tiresCount" class="section detail">
 
     ### tiresCount
 
@@ -1112,7 +1599,8 @@ handling.
 
     </div>
 
-  - <div id="tunnelCategory" class="section detail">
+  - <div id="sdk-for-android-explore-tunnelCategory"
+    class="section detail">
 
     ### tunnelCategory
 
@@ -1136,7 +1624,8 @@ handling.
 
     </div>
 
-  - <div id="hazardousMaterials" class="section detail">
+  - <div id="sdk-for-android-explore-hazardousMaterials"
+    class="section detail">
 
     ### hazardousMaterials
 
@@ -1145,7 +1634,7 @@ handling.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")></span> <span class="element-name">hazardousMaterials</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 
@@ -1161,7 +1650,7 @@ handling.
 
     </div>
 
-  - <div id="occupancy" class="section detail">
+  - <div id="sdk-for-android-explore-occupancy" class="section detail">
 
     ### occupancy
 
@@ -1188,9 +1677,10 @@ handling.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### VehicleSpecification
 
@@ -1210,9 +1700,11 @@ handling.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -1236,7 +1728,7 @@ handling.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

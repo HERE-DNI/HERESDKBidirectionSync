@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.EnergyMix
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ without a deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,87 +50,164 @@ without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#energyProduct"
-  class="member-name-link"><code>energyProduct</code></a></td>
-  <td><div class="block">
-  Name of the energy suppliers product or plan.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-energysource"
-  title="class in com.here.sdk.search"><code>EnergySource</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#energySources"
-  class="member-name-link"><code>energySources</code></a></td>
-  <td><div class="block">
-  The list of energy sources.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact"
-  title="class in com.here.sdk.search"><code>EnvironmentalImpact</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#environmentalImpacts"
-  class="member-name-link"><code>environmentalImpacts</code></a></td>
-  <td><div class="block">
-  The list of environmental impacts from this energy mix.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#isGreenEnergy"
-  class="member-name-link"><code>isGreenEnergy</code></a></td>
-  <td><div class="block">
-  Boolean flag indicating if the energy is 100% from regenerative sources.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#supplier"
-  class="member-name-link"><code>supplier</code></a></td>
-  <td><div class="block">
-  Name of the energy supplier.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-energymix#energyProduct"
+  class="member-name-link"><code>energyProduct</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Name of the energy suppliers product or plan.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EnergySource`](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-energymix#energySources"
+  class="member-name-link"><code>energySources</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of energy sources.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EnvironmentalImpact`](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-energymix#environmentalImpacts"
+  class="member-name-link"><code>environmentalImpacts</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of environmental impacts from this energy mix.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-energymix#isGreenEnergy"
+  class="member-name-link"><code>isGreenEnergy</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Boolean flag indicating if the energy is 100% from regenerative
+  sources.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#supplier"
+  class="member-name-link"><code>supplier</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Name of the energy supplier.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -136,70 +215,100 @@ without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EnergyMix()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EnergyMix()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -248,9 +357,11 @@ without a deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="isGreenEnergy" class="section detail">
+  - <div id="sdk-for-android-explore-isGreenEnergy"
+    class="section detail">
 
     ### isGreenEnergy
 
@@ -269,7 +380,8 @@ without a deprecation process.
 
     </div>
 
-  - <div id="energySources" class="section detail">
+  - <div id="sdk-for-android-explore-energySources"
+    class="section detail">
 
     ### energySources
 
@@ -278,7 +390,7 @@ without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")></span> <span class="element-name">energySources</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")\></span> <span class="element-name">energySources</span>
 
     </div>
 
@@ -291,7 +403,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="supplier" class="section detail">
+  - <div id="sdk-for-android-explore-supplier" class="section detail">
 
     ### supplier
 
@@ -312,7 +424,8 @@ without a deprecation process.
 
     </div>
 
-  - <div id="energyProduct" class="section detail">
+  - <div id="sdk-for-android-explore-energyProduct"
+    class="section detail">
 
     ### energyProduct
 
@@ -333,7 +446,8 @@ without a deprecation process.
 
     </div>
 
-  - <div id="environmentalImpacts" class="section detail">
+  - <div id="sdk-for-android-explore-environmentalImpacts"
+    class="section detail">
 
     ### environmentalImpacts
 
@@ -342,7 +456,7 @@ without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")></span> <span class="element-name">environmentalImpacts</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")\></span> <span class="element-name">environmentalImpacts</span>
 
     </div>
 
@@ -356,9 +470,10 @@ without a deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EnergyMix
 
@@ -378,9 +493,11 @@ without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -404,7 +521,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.ElectricVehicleOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,79 +50,152 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications"
-  title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#batterySpecifications"
-  class="member-name-link"><code>batterySpecifications</code></a></td>
-  <td><div class="block">
-  Parameters that describe the electric vehicle's battery.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
-  title="class in com.here.sdk.routing"><code>EmpiricalConsumptionModel</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#empiricalConsumptionModel"
-  class="member-name-link"><code>empiricalConsumptionModel</code></a></td>
-  <td><div class="block">
-  Defines the empirical consumption model.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#ensureReachability"
-  class="member-name-link"><code>ensureReachability</code></a></td>
-  <td><div class="block">
-  Ensure that the vehicle does not run out of energy along the way.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences"
-  title="class in com.here.sdk.routing"><code>EVMobilityServiceProviderPreferences</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences"
-  class="member-name-link"><code>evMobilityServiceProviderPreferences</code></a></td>
-  <td><div class="block">
-  Defines the preferred E-Mobility Service Providers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
-  title="class in com.here.sdk.routing"><code>PhysicalConsumptionModel</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#physicalConsumptionModel"
-  class="member-name-link"><code>physicalConsumptionModel</code></a></td>
-  <td><div class="block">
-  Defines the physical consumption model.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`BatterySpecifications`](sdk-for-android-explore-com-here-sdk-routing-batteryspecifications "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#batterySpecifications"
+  class="member-name-link"><code>batterySpecifications</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Parameters that describe the electric vehicle's battery.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`EmpiricalConsumptionModel`](sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#empiricalConsumptionModel"
+  class="member-name-link"><code>empiricalConsumptionModel</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the empirical consumption model.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#ensureReachability"
+  class="member-name-link"><code>ensureReachability</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Ensure that the vehicle does not run out of energy along the way.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`EVMobilityServiceProviderPreferences`](sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences"
+  class="member-name-link"><code>evMobilityServiceProviderPreferences</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the preferred E-Mobility Service Providers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`PhysicalConsumptionModel`](sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#physicalConsumptionModel"
+  class="member-name-link"><code>physicalConsumptionModel</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines the physical consumption model.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -128,70 +203,100 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>ElectricVehicleOptions()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      ElectricVehicleOptions()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -240,9 +345,11 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="ensureReachability" class="section detail">
+  - <div id="sdk-for-android-explore-ensureReachability"
+    class="section detail">
 
     ### ensureReachability
 
@@ -273,7 +380,7 @@ deprecation process.
 
     </div>
 
-  - <div id="evMobilityServiceProviderPreferences"
+  - <div id="sdk-for-android-explore-evMobilityServiceProviderPreferences"
     class="section detail">
 
     ### evMobilityServiceProviderPreferences
@@ -300,7 +407,8 @@ deprecation process.
 
     </div>
 
-  - <div id="empiricalConsumptionModel" class="section detail">
+  - <div id="sdk-for-android-explore-empiricalConsumptionModel"
+    class="section detail">
 
     ### empiricalConsumptionModel
 
@@ -321,7 +429,8 @@ deprecation process.
 
     </div>
 
-  - <div id="physicalConsumptionModel" class="section detail">
+  - <div id="sdk-for-android-explore-physicalConsumptionModel"
+    class="section detail">
 
     ### physicalConsumptionModel
 
@@ -342,7 +451,8 @@ deprecation process.
 
     </div>
 
-  - <div id="batterySpecifications" class="section detail">
+  - <div id="sdk-for-android-explore-batterySpecifications"
+    class="section detail">
 
     ### batterySpecifications
 
@@ -364,9 +474,10 @@ deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### ElectricVehicleOptions
 
@@ -386,9 +497,11 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -412,7 +525,7 @@ deprecation process.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

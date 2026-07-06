@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.mapview.RoadShieldIconProperties
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Contains the information required to create a road shield image.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,87 +47,167 @@ Contains the information required to create a road shield image.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#countryCode"
-  class="member-name-link"><code>countryCode</code></a></td>
-  <td><div class="block">
-  The country code in ISO-3166-1 alpha-3 format, which will determine the
-  type of road shield.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeNumberName"
-  class="member-name-link"><code>routeNumberName</code></a></td>
-  <td><div class="block">
-  A string that is used to additionally determine the road shield's visual
-  representation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-routetype"
-  title="enum class in com.here.sdk.core"><code>RouteType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeType"
-  class="member-name-link"><code>routeType</code></a></td>
-  <td><div class="block">
-  The type of route indicating the significance of the road in a range
-  from 0 to 6.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText"
-  class="member-name-link"><code>shieldText</code></a></td>
-  <td><div class="block">
-  The text of the road-shield.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#stateCode"
-  class="member-name-link"><code>stateCode</code></a></td>
-  <td><div class="block">
-  The state code for the road.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#countryCode"
+  class="member-name-link"><code>countryCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The country code in ISO-3166-1 alpha-3 format, which will determine
+  the type of road shield.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeNumberName"
+  class="member-name-link"><code>routeNumberName</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A string that is used to additionally determine the road shield's
+  visual representation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RouteType`](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeType"
+  class="member-name-link"><code>routeType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The type of route indicating the significance of the road in a range
+  from 0 to 6.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText"
+  class="member-name-link"><code>shieldText</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The text of the road-shield.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#stateCode"
+  class="member-name-link"><code>stateCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The state code for the road.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -133,34 +215,46 @@ Contains the information required to create a road shield image.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RoadShieldIconProperties(RouteType routeType,
-   String countryCode,
-   String stateCode,
-   String routeNumberName,
-   String shieldText)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RoadShieldIconProperties(RouteType routeType,
+       String countryCode,
+       String stateCode,
+       String routeNumberName,
+       String shieldText)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -211,9 +305,10 @@ Contains the information required to create a road shield image.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="routeType" class="section detail">
+  - <div id="sdk-for-android-explore-routeType" class="section detail">
 
     ### routeType
 
@@ -234,7 +329,8 @@ Contains the information required to create a road shield image.
 
     </div>
 
-  - <div id="countryCode" class="section detail">
+  - <div id="sdk-for-android-explore-countryCode"
+    class="section detail">
 
     ### countryCode
 
@@ -256,7 +352,7 @@ Contains the information required to create a road shield image.
 
     </div>
 
-  - <div id="stateCode" class="section detail">
+  - <div id="sdk-for-android-explore-stateCode" class="section detail">
 
     ### stateCode
 
@@ -282,7 +378,8 @@ Contains the information required to create a road shield image.
 
     </div>
 
-  - <div id="routeNumberName" class="section detail">
+  - <div id="sdk-for-android-explore-routeNumberName"
+    class="section detail">
 
     ### routeNumberName
 
@@ -318,7 +415,7 @@ Contains the information required to create a road shield image.
 
     </div>
 
-  - <div id="shieldText" class="section detail">
+  - <div id="sdk-for-android-explore-shieldText" class="section detail">
 
     ### shieldText
 
@@ -343,9 +440,10 @@ Contains the information required to create a road shield image.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### RoadShieldIconProperties

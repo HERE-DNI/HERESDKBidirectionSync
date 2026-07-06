@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.PickMapContentResult
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ map scene.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -47,91 +49,130 @@ map scene.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>PickMapContentResult.TrafficIncidentResult</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>PickMapContentResult.TrafficIncidentResult</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Carries the result of picking a Carto traffic incident object.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-pickedplace"
-  title="class in com.here.sdk.core"><code>PickedPlace</code></a><code>&gt;</code></td>
-  <td><pre><code>getPickedPlaces()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`PickedPlace`](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPickedPlaces()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a list of picked places containing the POIs at the location of
   picking.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult"
-  title="class in com.here.sdk.mapview"><code>PickMapContentResult.TrafficIncidentResult</code></a><code>&gt;</code></td>
-  <td><pre><code>getTrafficIncidents()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`PickMapContentResult.TrafficIncidentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTrafficIncidents()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of traffic incidents at the location of picking.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -186,9 +227,11 @@ map scene.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getPickedPlaces()" class="section detail">
+  - <div id="sdk-for-android-explore-getPickedPlaces()"
+    class="section detail">
 
     ### getPickedPlaces
 
@@ -197,7 +240,7 @@ map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")></span> <span class="element-name">getPickedPlaces</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")\></span> <span class="element-name">getPickedPlaces</span>()
 
     </div>
 
@@ -214,7 +257,8 @@ map scene.
 
     </div>
 
-  - <div id="getTrafficIncidents()" class="section detail">
+  - <div id="sdk-for-android-explore-getTrafficIncidents()"
+    class="section detail">
 
     ### getTrafficIncidents
 
@@ -223,7 +267,7 @@ map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PickMapContentResult.TrafficIncidentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")></span> <span class="element-name">getTrafficIncidents</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PickMapContentResult.TrafficIncidentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")\></span> <span class="element-name">getTrafficIncidents</span>()
 
     </div>
 

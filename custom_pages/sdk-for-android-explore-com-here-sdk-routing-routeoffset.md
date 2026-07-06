@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.RouteOffset
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -43,7 +44,8 @@ retrieved from RouteRailwayCrossing.coordinates .
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -51,45 +53,81 @@ retrieved from RouteRailwayCrossing.coordinates .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoffset#offsetInMeters"
-  class="member-name-link"><code>offsetInMeters</code></a></td>
-  <td><div class="block">
-  Offset from the start of the indexed Section to the specified location
-  along the route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoffset#sectionIndex"
-  class="member-name-link"><code>sectionIndex</code></a></td>
-  <td><div class="block">
-  Index of the corresponding route Section .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoffset#offsetInMeters"
+  class="member-name-link"><code>offsetInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Offset from the start of the indexed Section to the specified location
+  along the route.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoffset#sectionIndex"
+  class="member-name-link"><code>sectionIndex</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Index of the corresponding route Section .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -97,31 +135,43 @@ retrieved from RouteRailwayCrossing.coordinates .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RouteOffset(int sectionIndex,
-   double offsetInMeters)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOffset(int sectionIndex,
+       double offsetInMeters)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -172,9 +222,11 @@ retrieved from RouteRailwayCrossing.coordinates .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="sectionIndex" class="section detail">
+  - <div id="sdk-for-android-explore-sectionIndex"
+    class="section detail">
 
     ### sectionIndex
 
@@ -193,7 +245,8 @@ retrieved from RouteRailwayCrossing.coordinates .
 
     </div>
 
-  - <div id="offsetInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-offsetInMeters"
+    class="section detail">
 
     ### offsetInMeters
 
@@ -215,9 +268,11 @@ retrieved from RouteRailwayCrossing.coordinates .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(int,double)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(int,double)"
+    class="section detail">
 
     ### RouteOffset
 

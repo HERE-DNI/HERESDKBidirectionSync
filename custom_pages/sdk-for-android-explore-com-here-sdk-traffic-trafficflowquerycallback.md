@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Functional Interface:  
 This is a functional interface and can therefore be used as the
@@ -45,40 +46,48 @@ success. It is null in case of an error.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onTrafficFlowFetched(TrafficQueryError queryError,
-   List&lt;TrafficFlow&gt; result)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onTrafficFlowFetched(TrafficQueryError queryError,
+       List<TrafficFlow> result)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Callback passed to following functions:
   TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions,
   TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCircle,
@@ -86,10 +95,10 @@ success. It is null in case of an error.
   TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions,
   TrafficFlowQueryCallback) The method will be called on the main thread
   when a search call has been completed.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -101,9 +110,10 @@ success. It is null in case of an error.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)"
+  - <div id="sdk-for-android-explore-onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)"
     class="section detail">
 
     ### onTrafficFlowFetched
@@ -114,7 +124,7 @@ success. It is null in case of an error.
     [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")> result)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")\> result)</span>
 
     </div>
 

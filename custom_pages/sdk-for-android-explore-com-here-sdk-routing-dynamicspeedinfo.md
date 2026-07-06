@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.DynamicSpeedInfo
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Provides estimated speed information.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,54 +47,105 @@ Provides estimated speed information.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond"
-  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  The speed in meters per second without taking traffic into
-  consideration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond"
-  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  The speed in meters per second considering traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds"
-  class="member-name-link"><code>turnTimeInSeconds</code></a></td>
-  <td><div class="block">
-  The time it takes to make a turn, represented in seconds.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond"
+  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The speed in meters per second without taking traffic into
+  consideration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond"
+  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The speed in meters per second considering traffic.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds"
+  class="member-name-link"><code>turnTimeInSeconds</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The time it takes to make a turn, represented in seconds.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -100,80 +153,125 @@ Provides estimated speed information.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>DynamicSpeedInfo(double baseSpeedInMetersPerSecond,
-   double trafficSpeedInMetersPerSecond,
-   int turnTimeInSeconds)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DynamicSpeedInfo(double baseSpeedInMetersPerSecond,
+       double trafficSpeedInMetersPerSecond,
+       int turnTimeInSeconds)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>calculateJamFactor()</code></pre></td>
-  <td><div class="block">
-  Calculates the traffic jam factor that shows the traffic condition in a
-  numeric way.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      calculateJamFactor()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Calculates the traffic jam factor that shows the traffic condition in
+  a numeric way.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -222,9 +320,11 @@ Provides estimated speed information.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="baseSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
+    class="section detail">
 
     ### baseSpeedInMetersPerSecond
 
@@ -243,7 +343,8 @@ Provides estimated speed information.
 
     </div>
 
-  - <div id="trafficSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond"
+    class="section detail">
 
     ### trafficSpeedInMetersPerSecond
 
@@ -261,7 +362,8 @@ Provides estimated speed information.
 
     </div>
 
-  - <div id="turnTimeInSeconds" class="section detail">
+  - <div id="sdk-for-android-explore-turnTimeInSeconds"
+    class="section detail">
 
     ### turnTimeInSeconds
 
@@ -281,9 +383,11 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(double,double,int)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(double,double,int)"
+    class="section detail">
 
     ### DynamicSpeedInfo
 
@@ -318,9 +422,11 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -344,7 +450,7 @@ Provides estimated speed information.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -366,7 +472,8 @@ Provides estimated speed information.
 
     </div>
 
-  - <div id="calculateJamFactor()" class="section detail">
+  - <div id="sdk-for-android-explore-calculateJamFactor()"
+    class="section detail">
 
     ### calculateJamFactor
 

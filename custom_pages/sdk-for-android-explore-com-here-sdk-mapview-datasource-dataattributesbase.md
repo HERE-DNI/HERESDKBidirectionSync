@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbas
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Known Implementing Classes:  
 [`DataAttributes`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource"),
@@ -35,134 +36,258 @@ process.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getAsString(String name)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getAsString(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the value of an attribute as a string or null if it is not
   contained.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>List</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
-  <td><pre><code>getAttributeNames()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getAttributeNames()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns a list of attribute names.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Boolean</code></a></td>
-  <td><pre><code>getBoolean(String name)</code></pre></td>
-  <td><div class="block">
-  Gets the value of a boolean attribute or null if it is not contained or
-  the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>Boolean</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getBoolean(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets the value of a boolean attribute or null if it is not contained
+  or the type doesn't match.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getDouble(String name)</code></pre></td>
-  <td><div class="block">
-  Gets the value of a double precision floating decimal attribute or null
-  if it is not contained or the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getDouble(String name)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets the value of a double precision floating decimal attribute or
+  null if it is not contained or the type doesn't match.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Float</code></a></td>
-  <td><pre><code>getFloat(String name)</code></pre></td>
-  <td><div class="block">
-  Gets the value of a single precision floating decimal attribute or null
-  if it is not contained or the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>Float</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getFloat(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets the value of a single precision floating decimal attribute or
+  null if it is not contained or the type doesn't match.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Long</code></a></td>
-  <td><pre><code>getInt64(String name)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Long</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getInt64(String name)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the value of a 64-bits integer attribute or null if it is not
   contained or the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getString(String name)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getString(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the value of a string attribute or null if it is not contained or
   the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributeValue</code></a></td>
-  <td><pre><code>getValue(String name)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getValue(String name)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the DataAttributeValue or null if it is not contained.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
-  title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a></td>
-  <td><pre><code>getValueType(String name)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`DataAttributeValue.ValueType`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getValueType(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns the value type of an attribute or null if it is not contained.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -174,9 +299,11 @@ process.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getAttributeNames()" class="section detail">
+  - <div id="sdk-for-android-explore-getAttributeNames()"
+    class="section detail">
 
     ### getAttributeNames
 
@@ -185,9 +312,9 @@ process.
     <span class="annotations">@NonNull
     </span><span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">getAttributeNames</span>()
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">getAttributeNames</span>()
 
     </div>
 
@@ -202,7 +329,8 @@ process.
 
     </div>
 
-  - <div id="getValueType(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getValueType(java.lang.String)"
+    class="section detail">
 
     ### getValueType
 
@@ -233,7 +361,8 @@ process.
 
     </div>
 
-  - <div id="getAsString(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getAsString(java.lang.String)"
+    class="section detail">
 
     ### getAsString
 
@@ -266,7 +395,8 @@ process.
 
     </div>
 
-  - <div id="getString(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getString(java.lang.String)"
+    class="section detail">
 
     ### getString
 
@@ -299,7 +429,8 @@ process.
 
     </div>
 
-  - <div id="getInt64(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getInt64(java.lang.String)"
+    class="section detail">
 
     ### getInt64
 
@@ -332,7 +463,8 @@ process.
 
     </div>
 
-  - <div id="getFloat(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getFloat(java.lang.String)"
+    class="section detail">
 
     ### getFloat
 
@@ -365,7 +497,8 @@ process.
 
     </div>
 
-  - <div id="getDouble(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
+    class="section detail">
 
     ### getDouble
 
@@ -398,7 +531,8 @@ process.
 
     </div>
 
-  - <div id="getBoolean(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getBoolean(java.lang.String)"
+    class="section detail">
 
     ### getBoolean
 
@@ -432,7 +566,8 @@ process.
 
     </div>
 
-  - <div id="getValue(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getValue(java.lang.String)"
+    class="section detail">
 
     ### getValue
 

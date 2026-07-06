@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapPolygon
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -45,7 +46,8 @@ specified in the GeoPolygon are ignored.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -53,179 +55,399 @@ specified in the GeoPolygon are ignored.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapPolygon(GeoPolygon geometry,
-   Color color)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapPolygon(GeoPolygon geometry,
+       Color color)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new MapPolygon instance with outline visualization disabled
   and containing the geometry passed in.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapPolygon(GeoPolygon geometry,
-   Color color,
-   Color outlineColor,
-   double outlineWidthInPixels)</code></pre></td>
-  <td><div class="block">
-  Creates a new MapPolygon instance with outline visualization enabled and
-  containing the geometry passed in.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  </div>
 
-  <div id="method-summary-table">
+  <div class="col-constructor-name odd-row-color">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+      MapPolygon(GeoPolygon geometry,
+       Color color,
+       Color outlineColor,
+       double outlineWidthInPixels)
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-last odd-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getDrawOrder()</code></pre></td>
-  <td><div class="block">
-  Gets the draw order of this map polygon relative to other map polygons.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getFillColor()</code></pre></td>
-  <td><div class="block">
+  <div class="block">
+
+  Creates a new MapPolygon instance with outline visualization enabled
+  and containing the geometry passed in.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDrawOrder()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the draw order of this map polygon relative to other map
+  polygons.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFillColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current color of the fill.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon"
-  title="class in com.here.sdk.core"><code>GeoPolygon</code></a></td>
-  <td><pre><code>getGeometry()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeometry()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current geometry of the polygon.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadata"
-  title="class in com.here.sdk.core"><code>Metadata</code></a></td>
-  <td><pre><code>getMetadata()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMetadata()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the Metadata instance attached to this polygon.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getOutlineColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOutlineColor()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the color of the polygon outline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getOutlineWidth()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOutlineWidth()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the outline width of the polygon in pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a><code>&gt;</code></td>
-  <td><pre><code>getVisibilityRanges()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVisibilityRanges()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of visibility ranges.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDrawOrder(int value)</code></pre></td>
-  <td><div class="block">
-  Sets the draw order of this map polygon relative to other map polygons.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setFillColor(Color value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDrawOrder(int value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the draw order of this map polygon relative to other map
+  polygons.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setFillColor(Color value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the current color of the fill.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setGeometry(GeoPolygon value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setGeometry(GeoPolygon value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a new geometry to update the appearance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMetadata(Metadata value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMetadata(Metadata value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the Metadata instance to be attached to this polygon.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOutlineColor(Color value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOutlineColor(Color value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the color of the polygon outline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOutlineWidth(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOutlineWidth(double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the outline width of the polygon in pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setVisibilityRanges(List&lt;MapMeasureRange&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setVisibilityRanges(List<MapMeasureRange> value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets visibility ranges for this map polygon.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -280,9 +502,10 @@ specified in the GeoPolygon are ignored.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapPolygon
@@ -321,7 +544,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)"
     class="section detail">
 
     ### MapPolygon
@@ -377,9 +600,11 @@ specified in the GeoPolygon are ignored.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getGeometry()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeometry()"
+    class="section detail">
 
     ### getGeometry
 
@@ -402,7 +627,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setGeometry(com.here.sdk.core.GeoPolygon)"
+  - <div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolygon)"
     class="section detail">
 
     ### setGeometry
@@ -435,7 +660,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getMetadata()" class="section detail">
+  - <div id="sdk-for-android-explore-getMetadata()"
+    class="section detail">
 
     ### getMetadata
 
@@ -457,7 +683,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setMetadata(com.here.sdk.core.Metadata)"
+  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -482,7 +708,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getFillColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getFillColor()"
+    class="section detail">
 
     ### getFillColor
 
@@ -504,7 +731,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setFillColor(com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-setFillColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setFillColor
@@ -530,7 +757,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getDrawOrder()" class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder()"
+    class="section detail">
 
     ### getDrawOrder
 
@@ -552,7 +780,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setDrawOrder(int)" class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+    class="section detail">
 
     ### setDrawOrder
 
@@ -580,7 +809,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getVisibilityRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+    class="section detail">
 
     ### getVisibilityRanges
 
@@ -589,7 +819,7 @@ specified in the GeoPolygon are ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -607,7 +837,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setVisibilityRanges(java.util.List)"
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -617,7 +847,7 @@ specified in the GeoPolygon are ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
@@ -642,7 +872,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getOutlineColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineColor()"
+    class="section detail">
 
     ### getOutlineColor
 
@@ -665,7 +896,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setOutlineColor(com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-setOutlineColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setOutlineColor
@@ -692,7 +923,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="getOutlineWidth()" class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineWidth()"
+    class="section detail">
 
     ### getOutlineWidth
 
@@ -714,7 +946,8 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="setOutlineWidth(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setOutlineWidth(double)"
+    class="section detail">
 
     ### setOutlineWidth
 

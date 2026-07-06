@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapLayerBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -83,7 +84,8 @@ assignment can be done for all types of content: point, line, polygon.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -91,56 +93,107 @@ assignment can be done for all types of content: point, line, polygon.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorCode</code></a></td>
-  <td><div class="block">
-  Describes a reason for failing to build a MapLayer .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorDetails</code></a></td>
-  <td><div class="block">
-  Describes the reason for failing to build a MapLayer .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationException</code></a></td>
-  <td><div class="block">
-  Thrown when failing to build a MapLayer .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Describes a reason for failing to build a MapLayer .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorDetails</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Describes the reason for failing to build a MapLayer .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationException</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Thrown when failing to build a MapLayer .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -148,145 +201,267 @@ assignment can be done for all types of content: point, line, polygon.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapLayerBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapLayerBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of the layer builder interface.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer"
-  title="class in com.here.sdk.mapview"><code>MapLayer</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayer`](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Constructs, registers and configures a new map layer showing specified
   content type according to the configured parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>forMap(HereMap targetMap)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      forMap(HereMap targetMap)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to display a layer in the given map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withDataSource(String dataSourceName,
-   MapContentType contentType)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withDataSource(String dataSourceName,
+       MapContentType contentType)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to use a data source with the given name as the
   source of data for the layer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withLoadPriority(double loadPriority)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withLoadPriority(double loadPriority)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to set the layer load priority.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withMapMeasureDependentStorageLevels(MapLayerMapMeasureDependentStorageLevels mapLayerMapMeasureDependentStorageLevels)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withMapMeasureDependentStorageLevels(MapLayerMapMeasureDependentStorageLevels mapLayerMapMeasureDependentStorageLevels)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Applies a mapping from the map measure to the storage level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withName(String name)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withName(String name)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures builder to use the given name as a layer name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withPriority(MapLayerPriority priority)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withPriority(MapLayerPriority priority)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to set the MapLayerPriority to be used by the
   layer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withStyle(Style style)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withStyle(Style style)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to use a style.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerBuilder</code></a></td>
-  <td><pre><code>withVisibilityRange(MapLayerVisibilityRange visibilityRange)</code></pre></td>
-  <td><div class="block">
-  Configures the builder to set the layer visible in the given zoom levels
-  range.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withVisibilityRange(MapLayerVisibilityRange visibilityRange)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Configures the builder to set the layer visible in the given zoom
+  levels range.
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -341,9 +516,10 @@ assignment can be done for all types of content: point, line, polygon.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapLayerBuilder
 
@@ -363,9 +539,11 @@ assignment can be done for all types of content: point, line, polygon.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withName(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-withName(java.lang.String)"
+    class="section detail">
 
     ### withName
 
@@ -396,7 +574,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)"
+  - <div id="sdk-for-android-explore-withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)"
     class="section detail">
 
     ### withDataSource
@@ -435,7 +613,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withStyle(com.here.sdk.mapview.Style)"
+  - <div id="sdk-for-android-explore-withStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### withStyle
@@ -470,7 +648,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="forMap(com.here.sdk.mapview.HereMap)"
+  - <div id="sdk-for-android-explore-forMap(com.here.sdk.mapview.HereMap)"
     class="section detail">
 
     ### forMap
@@ -500,7 +678,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withPriority(com.here.sdk.mapview.MapLayerPriority)"
+  - <div id="sdk-for-android-explore-withPriority(com.here.sdk.mapview.MapLayerPriority)"
     class="section detail">
 
     ### withPriority
@@ -530,7 +708,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)"
+  - <div id="sdk-for-android-explore-withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)"
     class="section detail">
 
     ### withVisibilityRange
@@ -562,7 +740,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)"
+  - <div id="sdk-for-android-explore-withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)"
     class="section detail">
 
     ### withMapMeasureDependentStorageLevels
@@ -603,7 +781,8 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="withLoadPriority(double)" class="section detail">
+  - <div id="sdk-for-android-explore-withLoadPriority(double)"
+    class="section detail">
 
     ### withLoadPriority
 
@@ -632,7 +811,7 @@ assignment can be done for all types of content: point, line, polygon.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

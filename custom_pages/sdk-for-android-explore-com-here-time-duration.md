@@ -15,7 +15,8 @@ java.lang.Object → com.here.time.Duration
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -33,7 +34,7 @@ class="external-link" title="class or interface in java.lang">Object</a>
 implements <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
 class="external-link"
-title="class or interface in java.lang">Comparable</a><[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")></span>
+title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")\></span>
 
 </div>
 
@@ -51,212 +52,540 @@ methods convert duration to a value expressed in desired unit of time.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>compareTo(Duration duration)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object o)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getNano()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>getSeconds()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofDays(long days)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      compareTo(Duration duration)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object o)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getNano()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSeconds()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofDays(long days)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of days.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofHours(long hours)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofHours(long hours)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofMillis(long milliseconds)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofMillis(long milliseconds)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of milliseconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofMinutes(long minutes)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofMinutes(long minutes)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofNanos(long nanoseconds)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofNanos(long nanoseconds)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of nanoseconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofSeconds(long seconds)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofSeconds(long seconds)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of seconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>ofSeconds(long seconds,
-   long nanoAdjustment)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      ofSeconds(long seconds,
+       long nanoAdjustment)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a duration representing specified number of seconds and an
   adjustment in nanoseconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toDays()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toDays()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to days.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toDaysPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toDaysPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Same as toDays() .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toHours()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toHours()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toHoursPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toHoursPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the hours part of this duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toMillis()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toMillis()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to milliseconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toMillisPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toMillisPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the milliseconds part of this duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toMinutes()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toMinutes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to minutes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toMinutesPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toMinutesPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the minutes part of this duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toNanos()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toNanos()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to nanoseconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toNanosPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toNanosPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the nanoseconds part of this duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><pre><code>toSeconds()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toSeconds()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this duration to seconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toSecondsPart()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toSecondsPart()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the seconds part of this duration.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -305,9 +634,10 @@ methods convert duration to a value expressed in desired unit of time.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getNano()" class="section detail">
+  - <div id="sdk-for-android-explore-getNano()" class="section detail">
 
     ### getNano
 
@@ -322,7 +652,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="getSeconds()" class="section detail">
+  - <div id="sdk-for-android-explore-getSeconds()"
+    class="section detail">
 
     ### getSeconds
 
@@ -337,7 +668,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofDays(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofDays(long)"
+    class="section detail">
 
     ### ofDays
 
@@ -375,7 +707,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofHours(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofHours(long)"
+    class="section detail">
 
     ### ofHours
 
@@ -413,7 +746,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofMinutes(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofMinutes(long)"
+    class="section detail">
 
     ### ofMinutes
 
@@ -451,7 +785,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofSeconds(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofSeconds(long)"
+    class="section detail">
 
     ### ofSeconds
 
@@ -476,7 +811,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofSeconds(long,long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofSeconds(long,long)"
+    class="section detail">
 
     ### ofSeconds
 
@@ -506,7 +842,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofMillis(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofMillis(long)"
+    class="section detail">
 
     ### ofMillis
 
@@ -531,7 +868,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="ofNanos(long)" class="section detail">
+  - <div id="sdk-for-android-explore-ofNanos(long)"
+    class="section detail">
 
     ### ofNanos
 
@@ -556,7 +894,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toNanos()" class="section detail">
+  - <div id="sdk-for-android-explore-toNanos()" class="section detail">
 
     ### toNanos
 
@@ -588,7 +926,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toNanosPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toNanosPart()"
+    class="section detail">
 
     ### toNanosPart
 
@@ -609,7 +948,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toMillis()" class="section detail">
+  - <div id="sdk-for-android-explore-toMillis()" class="section detail">
 
     ### toMillis
 
@@ -644,7 +983,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toMillisPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toMillisPart()"
+    class="section detail">
 
     ### toMillisPart
 
@@ -665,7 +1005,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toSeconds()" class="section detail">
+  - <div id="sdk-for-android-explore-toSeconds()"
+    class="section detail">
 
     ### toSeconds
 
@@ -688,7 +1029,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toSecondsPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toSecondsPart()"
+    class="section detail">
 
     ### toSecondsPart
 
@@ -709,7 +1051,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toMinutes()" class="section detail">
+  - <div id="sdk-for-android-explore-toMinutes()"
+    class="section detail">
 
     ### toMinutes
 
@@ -733,7 +1076,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toMinutesPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toMinutesPart()"
+    class="section detail">
 
     ### toMinutesPart
 
@@ -754,7 +1098,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toHours()" class="section detail">
+  - <div id="sdk-for-android-explore-toHours()" class="section detail">
 
     ### toHours
 
@@ -777,7 +1121,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toHoursPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toHoursPart()"
+    class="section detail">
 
     ### toHoursPart
 
@@ -798,7 +1143,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toDays()" class="section detail">
+  - <div id="sdk-for-android-explore-toDays()" class="section detail">
 
     ### toDays
 
@@ -822,7 +1167,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="toDaysPart()" class="section detail">
+  - <div id="sdk-for-android-explore-toDaysPart()"
+    class="section detail">
 
     ### toDaysPart
 
@@ -843,7 +1189,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="compareTo(com.here.time.Duration)" class="section detail">
+  - <div id="sdk-for-android-explore-compareTo(com.here.time.Duration)"
+    class="section detail">
 
     ### compareTo
 
@@ -865,7 +1212,8 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -889,7 +1237,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

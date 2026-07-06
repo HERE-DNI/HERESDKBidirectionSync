@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingerror"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<RoutingError>com.here.sdk.routing.RoutingError →
+java.lang.Enum\<RoutingError\>com.here.sdk.routing.RoutingError →
 java.lang.Enum → RoutingError → com.here.sdk.routing.RoutingError
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">RoutingError</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ route.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ route.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,275 +86,545 @@ route.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ACTIVE_MAP_UPDATE"
-  class="member-name-link"><code>ACTIVE_MAP_UPDATE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ACTIVE_MAP_UPDATE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route cannot be calculated due to active map update.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#AUTHENTICATION_FAILED"
-  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Routing operation is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_DESTINATION"
-  class="member-name-link"><code>COULD_NOT_MATCH_DESTINATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>COULD_NOT_MATCH_DESTINATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Destination waypoint could not be matched to a road network.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_ORIGIN"
-  class="member-name-link"><code>COULD_NOT_MATCH_ORIGIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>COULD_NOT_MATCH_ORIGIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Origin waypoint could not be matched to a road network.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#EXCEEDED_USAGE_LIMIT"
-  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Credentials exceeded the allowed requests limit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FAILED_ROUTE_HANDLE_CREATION"
-  class="member-name-link"><code>FAILED_ROUTE_HANDLE_CREATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FAILED_ROUTE_HANDLE_CREATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No RouteHandle was created.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FORBIDDEN"
-  class="member-name-link"><code>FORBIDDEN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FORBIDDEN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The provided credentials don't give access to the requested resource.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#HTTP_ERROR"
-  class="member-name-link"><code>HTTP_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HTTP_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A general network request error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#IMPORT_FAILED"
-  class="member-name-link"><code>IMPORT_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>IMPORT_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   No route section was found for imported waypoints.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INTERNAL_ERROR"
-  class="member-name-link"><code>INTERNAL_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INTERNAL_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Generic internal error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER"
-  class="member-name-link"><code>INVALID_PARAMETER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_PARAMETER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   An invalid input parameter.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ISOLINE_FOUND"
-  class="member-name-link"><code>NO_ISOLINE_FOUND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_ISOLINE_FOUND</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No isoline can be calculated for the given input.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_REACHABLE_CHARGING_STATION_FOUND"
-  class="member-name-link"><code>NO_REACHABLE_CHARGING_STATION_FOUND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_REACHABLE_CHARGING_STATION_FOUND</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Initial charge is not enough to reach any known charging stations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND"
-  class="member-name-link"><code>NO_ROUTE_FOUND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_ROUTE_FOUND</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No route can be calculated for the given input.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_HANDLE"
-  class="member-name-link"><code>NO_ROUTE_HANDLE</code></a></td>
-  <td><div class="block">
-  The route has no Route.getRouteHandle() , but it was used for a feature
-  that requires one.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>NO_ROUTE_HANDLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The route has no Route.getRouteHandle() , but it was used for a
+  feature that requires one.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The device has no internet connection.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OPERATION_CANCELLED"
-  class="member-name-link"><code>OPERATION_CANCELLED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OPERATION_CANCELLED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Operation cancelled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PARSING_ERROR"
-  class="member-name-link"><code>PARSING_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARSING_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Error while parsing route data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_AUTHENTICATION_FAILED"
-  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Proxy is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_SERVER_UNREACHABLE"
-  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Proxy server unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_CALCULATION_FAILED"
-  class="member-name-link"><code>ROUTE_CALCULATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROUTE_CALCULATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Calculation did not succeed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_LENGTH_LIMIT_EXCEEDED"
-  class="member-name-link"><code>ROUTE_LENGTH_LIMIT_EXCEEDED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROUTE_LENGTH_LIMIT_EXCEEDED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Distance between waypoints is too large for current options.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#SERVER_UNREACHABLE"
-  class="member-name-link"><code>SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Routing server is unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#TIMED_OUT"
-  class="member-name-link"><code>TIMED_OUT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TIMED_OUT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The request timed out.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-routingerror#VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
-  class="member-name-link"><code>VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</code></a></td>
-  <td><div class="block">
-  Route handle decoding failed due to forbidden segments for the specified
-  transport mode.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last even-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  Route handle decoding failed due to forbidden segments for the
+  specified transport mode.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror"
-  title="enum class in com.here.sdk.routing"><code>RoutingError</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror"
-  title="enum class in com.here.sdk.routing"><code>RoutingError</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -434,9 +707,11 @@ route.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="INTERNAL_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-INTERNAL_ERROR"
+    class="section detail">
 
     ### INTERNAL_ERROR
 
@@ -455,7 +730,8 @@ route.
 
     </div>
 
-  - <div id="INVALID_PARAMETER" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_PARAMETER"
+    class="section detail">
 
     ### INVALID_PARAMETER
 
@@ -474,7 +750,8 @@ route.
 
     </div>
 
-  - <div id="SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-SERVER_UNREACHABLE"
+    class="section detail">
 
     ### SERVER_UNREACHABLE
 
@@ -493,7 +770,7 @@ route.
 
     </div>
 
-  - <div id="HTTP_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
 
     ### HTTP_ERROR
 
@@ -512,7 +789,8 @@ route.
 
     </div>
 
-  - <div id="AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### AUTHENTICATION_FAILED
 
@@ -531,7 +809,7 @@ route.
 
     </div>
 
-  - <div id="FORBIDDEN" class="section detail">
+  - <div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
 
     ### FORBIDDEN
 
@@ -551,7 +829,8 @@ route.
 
     </div>
 
-  - <div id="EXCEEDED_USAGE_LIMIT" class="section detail">
+  - <div id="sdk-for-android-explore-EXCEEDED_USAGE_LIMIT"
+    class="section detail">
 
     ### EXCEEDED_USAGE_LIMIT
 
@@ -570,7 +849,8 @@ route.
 
     </div>
 
-  - <div id="PARSING_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-PARSING_ERROR"
+    class="section detail">
 
     ### PARSING_ERROR
 
@@ -591,7 +871,8 @@ route.
 
     </div>
 
-  - <div id="NO_ROUTE_FOUND" class="section detail">
+  - <div id="sdk-for-android-explore-NO_ROUTE_FOUND"
+    class="section detail">
 
     ### NO_ROUTE_FOUND
 
@@ -610,7 +891,7 @@ route.
 
     </div>
 
-  - <div id="TIMED_OUT" class="section detail">
+  - <div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
 
     ### TIMED_OUT
 
@@ -629,7 +910,7 @@ route.
 
     </div>
 
-  - <div id="OFFLINE" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -648,7 +929,8 @@ route.
 
     </div>
 
-  - <div id="NO_ISOLINE_FOUND" class="section detail">
+  - <div id="sdk-for-android-explore-NO_ISOLINE_FOUND"
+    class="section detail">
 
     ### NO_ISOLINE_FOUND
 
@@ -667,7 +949,8 @@ route.
 
     </div>
 
-  - <div id="NO_ROUTE_HANDLE" class="section detail">
+  - <div id="sdk-for-android-explore-NO_ROUTE_HANDLE"
+    class="section detail">
 
     ### NO_ROUTE_HANDLE
 
@@ -688,7 +971,8 @@ route.
 
     </div>
 
-  - <div id="OPERATION_CANCELLED" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATION_CANCELLED"
+    class="section detail">
 
     ### OPERATION_CANCELLED
 
@@ -707,7 +991,8 @@ route.
 
     </div>
 
-  - <div id="COULD_NOT_MATCH_DESTINATION" class="section detail">
+  - <div id="sdk-for-android-explore-COULD_NOT_MATCH_DESTINATION"
+    class="section detail">
 
     ### COULD_NOT_MATCH_DESTINATION
 
@@ -729,7 +1014,8 @@ route.
 
     </div>
 
-  - <div id="COULD_NOT_MATCH_ORIGIN" class="section detail">
+  - <div id="sdk-for-android-explore-COULD_NOT_MATCH_ORIGIN"
+    class="section detail">
 
     ### COULD_NOT_MATCH_ORIGIN
 
@@ -751,7 +1037,8 @@ route.
 
     </div>
 
-  - <div id="FAILED_ROUTE_HANDLE_CREATION" class="section detail">
+  - <div id="sdk-for-android-explore-FAILED_ROUTE_HANDLE_CREATION"
+    class="section detail">
 
     ### FAILED_ROUTE_HANDLE_CREATION
 
@@ -770,7 +1057,8 @@ route.
 
     </div>
 
-  - <div id="IMPORT_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-IMPORT_FAILED"
+    class="section detail">
 
     ### IMPORT_FAILED
 
@@ -789,7 +1077,7 @@ route.
 
     </div>
 
-  - <div id="NO_REACHABLE_CHARGING_STATION_FOUND"
+  - <div id="sdk-for-android-explore-NO_REACHABLE_CHARGING_STATION_FOUND"
     class="section detail">
 
     ### NO_REACHABLE_CHARGING_STATION_FOUND
@@ -809,7 +1097,8 @@ route.
 
     </div>
 
-  - <div id="ROUTE_CALCULATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-ROUTE_CALCULATION_FAILED"
+    class="section detail">
 
     ### ROUTE_CALCULATION_FAILED
 
@@ -828,7 +1117,8 @@ route.
 
     </div>
 
-  - <div id="ROUTE_LENGTH_LIMIT_EXCEEDED" class="section detail">
+  - <div id="sdk-for-android-explore-ROUTE_LENGTH_LIMIT_EXCEEDED"
+    class="section detail">
 
     ### ROUTE_LENGTH_LIMIT_EXCEEDED
 
@@ -847,7 +1137,7 @@ route.
 
     </div>
 
-  - <div id="VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
+  - <div id="sdk-for-android-explore-VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
     class="section detail">
 
     ### VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING
@@ -868,7 +1158,8 @@ route.
 
     </div>
 
-  - <div id="PROXY_AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### PROXY_AUTHENTICATION_FAILED
 
@@ -887,7 +1178,8 @@ route.
 
     </div>
 
-  - <div id="PROXY_SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
+    class="section detail">
 
     ### PROXY_SERVER_UNREACHABLE
 
@@ -906,7 +1198,8 @@ route.
 
     </div>
 
-  - <div id="ACTIVE_MAP_UPDATE" class="section detail">
+  - <div id="sdk-for-android-explore-ACTIVE_MAP_UPDATE"
+    class="section detail">
 
     ### ACTIVE_MAP_UPDATE
 
@@ -928,9 +1221,10 @@ route.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -954,7 +1248,8 @@ route.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

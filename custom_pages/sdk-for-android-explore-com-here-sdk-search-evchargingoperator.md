@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.EVChargingOperator
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -49,87 +51,167 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#eMobilityIDs"
-  class="member-name-link"><code>eMobilityIDs</code></a></td>
-  <td><div class="block">
-  e-Mobility IDs for the company.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-brandlogo"
-  title="class in com.here.sdk.core"><code>BrandLogo</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#logo"
-  class="member-name-link"><code>logo</code></a></td>
-  <td><div class="block">
-  Image link to the company's logo, if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#name"
-  class="member-name-link"><code>name</code></a></td>
-  <td><div class="block">
-  Name of the company.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#partnerID"
-  class="member-name-link"><code>partnerID</code></a></td>
-  <td><div class="block">
-  A unique ID for the company.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#website"
-  class="member-name-link"><code>website</code></a></td>
-  <td><div class="block">
-  Link to the company's website, if available.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#eMobilityIDs"
+  class="member-name-link"><code>eMobilityIDs</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  e-Mobility IDs for the company.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`BrandLogo`](sdk-for-android-explore-com-here-sdk-core-brandlogo "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#logo"
+  class="member-name-link"><code>logo</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Image link to the company's logo, if available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#name"
+  class="member-name-link"><code>name</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Name of the company.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#partnerID"
+  class="member-name-link"><code>partnerID</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A unique ID for the company.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator#website"
+  class="member-name-link"><code>website</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Link to the company's website, if available.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -137,70 +219,100 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EVChargingOperator()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EVChargingOperator()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -249,9 +361,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="name" class="section detail">
+  - <div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -272,7 +385,7 @@ deprecation process.
 
     </div>
 
-  - <div id="partnerID" class="section detail">
+  - <div id="sdk-for-android-explore-partnerID" class="section detail">
 
     ### partnerID
 
@@ -293,7 +406,7 @@ deprecation process.
 
     </div>
 
-  - <div id="website" class="section detail">
+  - <div id="sdk-for-android-explore-website" class="section detail">
 
     ### website
 
@@ -314,7 +427,7 @@ deprecation process.
 
     </div>
 
-  - <div id="logo" class="section detail">
+  - <div id="sdk-for-android-explore-logo" class="section detail">
 
     ### logo
 
@@ -333,7 +446,8 @@ deprecation process.
 
     </div>
 
-  - <div id="eMobilityIDs" class="section detail">
+  - <div id="sdk-for-android-explore-eMobilityIDs"
+    class="section detail">
 
     ### eMobilityIDs
 
@@ -342,9 +456,9 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">eMobilityIDs</span>
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">eMobilityIDs</span>
 
     </div>
 
@@ -359,9 +473,10 @@ deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVChargingOperator
 
@@ -381,9 +496,11 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -407,7 +524,7 @@ deprecation process.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

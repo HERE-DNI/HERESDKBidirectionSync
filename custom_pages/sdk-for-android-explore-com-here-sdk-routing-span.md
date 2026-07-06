@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.routing.Span
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,279 +39,596 @@ span usually has some geometry associated with it.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getBaseDuration()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBaseDuration()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the time duration necessary to traverse the span, using the speed
-  provided in getDynamicSpeedInfo() without taking into consideration the
-  delays caused by the traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  provided in getDynamicSpeedInfo() without taking into consideration
+  the delays caused by the traffic.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-accessattributes"
-  title="enum class in com.here.sdk.routing"><code>AccessAttributes</code></a><code>&gt;</code></td>
-  <td><pre><code>getCarAttributes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCarAttributes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The list of car access attributes on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getConsumptionInKilowattHours()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getConsumptionInKilowattHours()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the power consumption in kilowatt per hour necessary to traverse
   the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getCountryCode()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCountryCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the country code of the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getDuration()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDuration()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the time duration necessary to traverse the span, using the speed
   provided in getDynamicSpeedInfo() .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo"
-  title="class in com.here.sdk.routing"><code>DynamicSpeedInfo</code></a></td>
-  <td><pre><code>getDynamicSpeedInfo()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DynamicSpeedInfo`](sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDynamicSpeedInfo()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The dynamic speed information on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass"
-  title="enum class in com.here.sdk.routing"><code>FunctionalRoadClass</code></a></td>
-  <td><pre><code>getFunctionalRoadClass()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`FunctionalRoadClass`](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFunctionalRoadClass()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the functional road class of the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline"
-  title="class in com.here.sdk.core"><code>GeoPolyline</code></a></td>
-  <td><pre><code>getGeometry()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeometry()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the GeoPolyline object representing the polyline of this span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getLengthInMeters()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLengthInMeters()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the length of this span in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>List</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>&gt;</code></td>
-  <td><pre><code>getNoThroughRestrictionsIndexes()</code></pre></td>
-  <td><div class="block">
-  Get the list of indexes to Section.getNoThroughRestrictions() the parent
-  section owns.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getNoThroughRestrictionsIndexes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Get the list of indexes to Section.getNoThroughRestrictions() the
+  parent section owns.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>List</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>&gt;</code></td>
-  <td><pre><code>getNoticeIndexes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getNoticeIndexes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of indexes to Section.getSectionNotices() the parent
   section owns.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers"
-  title="class in com.here.sdk.routing"><code>LocalizedRoadNumbers</code></a></td>
-  <td><pre><code>getRoadNumbers()</code></pre></td>
-  <td><div class="block">
-  Gets the road numbers on the span enriched with information specific to
-  route numbers of a road such as I-10, US-50, or A3, and cardinal
-  direction, if available, and a road level classification ( RouteType ).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocalizedRoadNumbers`](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoadNumbers()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the road numbers on the span enriched with information specific
+  to route numbers of a road such as I-10, US-50, or A3, and cardinal
+  direction, if available, and a road level classification ( RouteType
+  ).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-accessattributes"
-  title="enum class in com.here.sdk.routing"><code>AccessAttributes</code></a><code>&gt;</code></td>
-  <td><pre><code>getScooterAttributes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getScooterAttributes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The list of scooter access attributes on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getSectionPolylineOffset()</code></pre></td>
-  <td><div class="block">
-  Gets the position of the span inside the section's geometry, given as an
-  offset.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference"
-  title="class in com.here.sdk.routing"><code>SegmentReference</code></a></td>
-  <td><pre><code>getSegmentReference()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSectionPolylineOffset()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the position of the span inside the section's geometry, given as
+  an offset.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSegmentReference()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the segment reference of this span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getShieldText(LocalizedRoadNumber roadNumber)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getShieldText(LocalizedRoadNumber roadNumber)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts full route number to the value to be displayed on the road
   shield.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getSpeedLimitInMetersPerSecond()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSpeedLimitInMetersPerSecond()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the speed limit in meters per second on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getStateCode()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getStateCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the state code of the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes"
-  title="enum class in com.here.sdk.routing"><code>StreetAttributes</code></a><code>&gt;</code></td>
-  <td><pre><code>getStreetAttributes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getStreetAttributes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The list of street attributes on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts"
-  title="class in com.here.sdk.core"><code>LocalizedTexts</code></a></td>
-  <td><pre><code>getStreetNames()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getStreetNames()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The street names on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>List</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>&gt;</code></td>
-  <td><pre><code>getTrafficIncidentIndexes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTrafficIncidentIndexes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The indexes of traffic incidents from the field
   Section.getTrafficIncidents() of the parent Section .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-accessattributes"
-  title="enum class in com.here.sdk.routing"><code>AccessAttributes</code></a><code>&gt;</code></td>
-  <td><pre><code>getTruckAttributes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTruckAttributes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The list of truck access attributes on the span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes"
-  title="enum class in com.here.sdk.routing"><code>WalkAttributes</code></a><code>&gt;</code></td>
-  <td><pre><code>getWalkAttributes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getWalkAttributes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The list of walk attributes on the span.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -365,9 +683,10 @@ span usually has some geometry associated with it.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
+  - <div id="sdk-for-android-explore-getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
     class="section detail">
 
     ### getShieldText
@@ -400,7 +719,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getGeometry()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeometry()"
+    class="section detail">
 
     ### getGeometry
 
@@ -424,7 +744,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getLengthInMeters()" class="section detail">
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
+    class="section detail">
 
     ### getLengthInMeters
 
@@ -445,7 +766,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getNoticeIndexes()" class="section detail">
+  - <div id="sdk-for-android-explore-getNoticeIndexes()"
+    class="section detail">
 
     ### getNoticeIndexes
 
@@ -454,10 +776,10 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoticeIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoticeIndexes</span>()
 
     </div>
 
@@ -482,7 +804,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getSegmentReference()" class="section detail">
+  - <div id="sdk-for-android-explore-getSegmentReference()"
+    class="section detail">
 
     ### getSegmentReference
 
@@ -504,7 +827,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getTrafficIncidentIndexes()" class="section detail">
+  - <div id="sdk-for-android-explore-getTrafficIncidentIndexes()"
+    class="section detail">
 
     ### getTrafficIncidentIndexes
 
@@ -513,10 +837,10 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getTrafficIncidentIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getTrafficIncidentIndexes</span>()
 
     </div>
 
@@ -547,7 +871,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getSectionPolylineOffset()" class="section detail">
+  - <div id="sdk-for-android-explore-getSectionPolylineOffset()"
+    class="section detail">
 
     ### getSectionPolylineOffset
 
@@ -576,7 +901,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getDynamicSpeedInfo()" class="section detail">
+  - <div id="sdk-for-android-explore-getDynamicSpeedInfo()"
+    class="section detail">
 
     ### getDynamicSpeedInfo
 
@@ -598,7 +924,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getStreetAttributes()" class="section detail">
+  - <div id="sdk-for-android-explore-getStreetAttributes()"
+    class="section detail">
 
     ### getStreetAttributes
 
@@ -607,7 +934,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getStreetAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
 
     </div>
 
@@ -622,7 +949,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getCarAttributes()" class="section detail">
+  - <div id="sdk-for-android-explore-getCarAttributes()"
+    class="section detail">
 
     ### getCarAttributes
 
@@ -631,7 +959,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getCarAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
 
     </div>
 
@@ -646,7 +974,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getTruckAttributes()" class="section detail">
+  - <div id="sdk-for-android-explore-getTruckAttributes()"
+    class="section detail">
 
     ### getTruckAttributes
 
@@ -655,7 +984,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getTruckAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
 
     </div>
 
@@ -670,7 +999,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getScooterAttributes()" class="section detail">
+  - <div id="sdk-for-android-explore-getScooterAttributes()"
+    class="section detail">
 
     ### getScooterAttributes
 
@@ -679,7 +1009,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getScooterAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
 
     </div>
 
@@ -694,7 +1024,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getWalkAttributes()" class="section detail">
+  - <div id="sdk-for-android-explore-getWalkAttributes()"
+    class="section detail">
 
     ### getWalkAttributes
 
@@ -703,7 +1034,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getWalkAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
 
     </div>
 
@@ -718,7 +1049,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getStreetNames()" class="section detail">
+  - <div id="sdk-for-android-explore-getStreetNames()"
+    class="section detail">
 
     ### getStreetNames
 
@@ -740,7 +1072,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getRoadNumbers()" class="section detail">
+  - <div id="sdk-for-android-explore-getRoadNumbers()"
+    class="section detail">
 
     ### getRoadNumbers
 
@@ -768,7 +1101,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getSpeedLimitInMetersPerSecond()" class="section detail">
+  - <div id="sdk-for-android-explore-getSpeedLimitInMetersPerSecond()"
+    class="section detail">
 
     ### getSpeedLimitInMetersPerSecond
 
@@ -792,7 +1126,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getConsumptionInKilowattHours()" class="section detail">
+  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+    class="section detail">
 
     ### getConsumptionInKilowattHours
 
@@ -818,7 +1153,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getFunctionalRoadClass()" class="section detail">
+  - <div id="sdk-for-android-explore-getFunctionalRoadClass()"
+    class="section detail">
 
     ### getFunctionalRoadClass
 
@@ -840,7 +1176,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getDuration()"
+    class="section detail">
 
     ### getDuration
 
@@ -871,7 +1208,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getBaseDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getBaseDuration()"
+    class="section detail">
 
     ### getBaseDuration
 
@@ -901,7 +1239,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getCountryCode()" class="section detail">
+  - <div id="sdk-for-android-explore-getCountryCode()"
+    class="section detail">
 
     ### getCountryCode
 
@@ -927,7 +1266,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getStateCode()" class="section detail">
+  - <div id="sdk-for-android-explore-getStateCode()"
+    class="section detail">
 
     ### getStateCode
 
@@ -961,7 +1301,8 @@ span usually has some geometry associated with it.
 
     </div>
 
-  - <div id="getNoThroughRestrictionsIndexes()" class="section detail">
+  - <div id="sdk-for-android-explore-getNoThroughRestrictionsIndexes()"
+    class="section detail">
 
     ### getNoThroughRestrictionsIndexes
 
@@ -970,10 +1311,10 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
 
     </div>
 

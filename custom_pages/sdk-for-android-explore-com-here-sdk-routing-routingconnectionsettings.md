@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.RoutingConnectionSettings
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ increment \* retry_count
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,76 +50,153 @@ increment \* retry_count
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#connectionTimeoutRetryIncrease"
-  class="member-name-link"><code>connectionTimeoutRetryIncrease</code></a></td>
-  <td><div class="block">
-  Defines the increase of the timeout for the transfer of data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialConnectionTimeout"
-  class="member-name-link"><code>initialConnectionTimeout</code></a></td>
-  <td><div class="block">
-  Defines the initial time out for connection to the backend.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialTransferTimeout"
-  class="member-name-link"><code>initialTransferTimeout</code></a></td>
-  <td><div class="block">
-  Defines the initial time out for data transfer from the backend.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#maxRetryCount"
-  class="member-name-link"><code>maxRetryCount</code></a></td>
-  <td><div class="block">
-  Defines the max amount of retries before the route request failes with
-  connection related error codes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#transferTimeoutRetryIncrease"
-  class="member-name-link"><code>transferTimeoutRetryIncrease</code></a></td>
-  <td><div class="block">
-  Defines the increase of the timeout for the connection.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#connectionTimeoutRetryIncrease"
+  class="member-name-link"><code>connectionTimeoutRetryIncrease</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines the increase of the timeout for the transfer of data.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialConnectionTimeout"
+  class="member-name-link"><code>initialConnectionTimeout</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the initial time out for connection to the backend.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialTransferTimeout"
+  class="member-name-link"><code>initialTransferTimeout</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines the initial time out for data transfer from the backend.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#maxRetryCount"
+  class="member-name-link"><code>maxRetryCount</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines the max amount of retries before the route request failes with
+  connection related error codes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#transferTimeoutRetryIncrease"
+  class="member-name-link"><code>transferTimeoutRetryIncrease</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines the increase of the timeout for the connection.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -125,70 +204,100 @@ increment \* retry_count
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RoutingConnectionSettings()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RoutingConnectionSettings()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -237,9 +346,11 @@ increment \* retry_count
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="initialConnectionTimeout" class="section detail">
+  - <div id="sdk-for-android-explore-initialConnectionTimeout"
+    class="section detail">
 
     ### initialConnectionTimeout
 
@@ -259,7 +370,8 @@ increment \* retry_count
 
     </div>
 
-  - <div id="connectionTimeoutRetryIncrease" class="section detail">
+  - <div id="sdk-for-android-explore-connectionTimeoutRetryIncrease"
+    class="section detail">
 
     ### connectionTimeoutRetryIncrease
 
@@ -279,7 +391,8 @@ increment \* retry_count
 
     </div>
 
-  - <div id="initialTransferTimeout" class="section detail">
+  - <div id="sdk-for-android-explore-initialTransferTimeout"
+    class="section detail">
 
     ### initialTransferTimeout
 
@@ -299,7 +412,8 @@ increment \* retry_count
 
     </div>
 
-  - <div id="transferTimeoutRetryIncrease" class="section detail">
+  - <div id="sdk-for-android-explore-transferTimeoutRetryIncrease"
+    class="section detail">
 
     ### transferTimeoutRetryIncrease
 
@@ -319,7 +433,8 @@ increment \* retry_count
 
     </div>
 
-  - <div id="maxRetryCount" class="section detail">
+  - <div id="sdk-for-android-explore-maxRetryCount"
+    class="section detail">
 
     ### maxRetryCount
 
@@ -341,9 +456,10 @@ increment \* retry_count
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RoutingConnectionSettings
 
@@ -363,9 +479,11 @@ increment \* retry_count
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -389,7 +507,7 @@ increment \* retry_count
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

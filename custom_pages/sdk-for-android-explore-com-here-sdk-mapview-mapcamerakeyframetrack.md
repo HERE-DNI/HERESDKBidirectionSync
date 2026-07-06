@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapCameraKeyframeTrack
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ single type.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -48,216 +50,401 @@ single type.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationerrorcode"
   class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack.InstantiationErrorCode</code></a></td>
-  <td><div class="block">
+  title="enum class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack.InstantiationErrorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Describes a reason for failing to create a MapCameraKeyframeTrack.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack.InstantiationException</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack.InstantiationException</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Thrown when a problem occurs while trying to create
   MapCameraKeyframeTrack .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
-  Deprecated Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>fieldOfView(List&lt;ScalarKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fieldOfView(List<ScalarKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera field-of-view keyframe track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe"
-  title="class in com.here.sdk.animation"><code>Anchor2DKeyframe</code></a><code>&gt;</code></td>
-  <td><pre><code>getAnchor2DKeyframes()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.util"><code>List</code></a>`<`[`Anchor2DKeyframe`](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAnchor2DKeyframes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe"
-  title="class in com.here.sdk.animation"><code>GeoCoordinatesKeyframe</code></a><code>&gt;</code></td>
-  <td><pre><code>getGeoCoordinatesKeyframes()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinatesKeyframe`](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeoCoordinatesKeyframes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe"
-  title="class in com.here.sdk.animation"><code>GeoOrientationKeyframe</code></a><code>&gt;</code></td>
-  <td><pre><code>getGeoOrientationKeyframes()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode"
-  title="enum class in com.here.sdk.animation"><code>KeyframeInterpolationMode</code></a></td>
-  <td><pre><code>getInterpolationMode()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoOrientationKeyframe`](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeoOrientationKeyframes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`KeyframeInterpolationMode`](sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getInterpolationMode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the interpolation mode for the between key frames in the track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe"
-  title="class in com.here.sdk.animation"><code>Point2DKeyframe</code></a><code>&gt;</code></td>
-  <td><pre><code>getPoint2DKeyframes()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.util"><code>List</code></a>`<`[`Point2DKeyframe`](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPoint2DKeyframes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
-  title="class in com.here.sdk.animation"><code>ScalarKeyframe</code></a><code>&gt;</code></td>
-  <td><pre><code>getScalarKeyframes()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>lookAtDistance(MapMeasure.Kind distanceKind,
-   List&lt;ScalarKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`ScalarKeyframe`](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getScalarKeyframes()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAtDistance(MapMeasure.Kind distanceKind,
+       List<ScalarKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera look-at distance keyframe track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>lookAtDistance(List&lt;ScalarKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      lookAtDistance(List<ScalarKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.27.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>lookAtOrientation(List&lt;GeoOrientationKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAtOrientation(List<GeoOrientationKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera look-at orientation keyframe track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>lookAtTarget(List&lt;GeoCoordinatesKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAtTarget(List<GeoCoordinatesKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera look-at target keyframe track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>normalizedPrincipalPoint(List&lt;Anchor2DKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      normalizedPrincipalPoint(List<Anchor2DKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera principal point keyframe track.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
-  title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a></td>
-  <td><pre><code>principalPoint(List&lt;Point2DKeyframe&gt; keyframes,
-   Easing easing,
-   KeyframeInterpolationMode interpolationMode)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraKeyframeTrack`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      principalPoint(List<Point2DKeyframe> keyframes,
+       Easing easing,
+       KeyframeInterpolationMode interpolationMode)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a map camera principal point keyframe track.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -312,9 +499,11 @@ single type.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getScalarKeyframes()" class="section detail">
+  - <div id="sdk-for-android-explore-getScalarKeyframes()"
+    class="section detail">
 
     ### getScalarKeyframes
 
@@ -323,7 +512,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getScalarKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getScalarKeyframes</span>()
 
     </div>
 
@@ -333,7 +522,8 @@ single type.
 
     </div>
 
-  - <div id="getPoint2DKeyframes()" class="section detail">
+  - <div id="sdk-for-android-explore-getPoint2DKeyframes()"
+    class="section detail">
 
     ### getPoint2DKeyframes
 
@@ -342,7 +532,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getPoint2DKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getPoint2DKeyframes</span>()
 
     </div>
 
@@ -352,7 +542,8 @@ single type.
 
     </div>
 
-  - <div id="getAnchor2DKeyframes()" class="section detail">
+  - <div id="sdk-for-android-explore-getAnchor2DKeyframes()"
+    class="section detail">
 
     ### getAnchor2DKeyframes
 
@@ -361,7 +552,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getAnchor2DKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getAnchor2DKeyframes</span>()
 
     </div>
 
@@ -371,7 +562,8 @@ single type.
 
     </div>
 
-  - <div id="getGeoCoordinatesKeyframes()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeoCoordinatesKeyframes()"
+    class="section detail">
 
     ### getGeoCoordinatesKeyframes
 
@@ -380,7 +572,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getGeoCoordinatesKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getGeoCoordinatesKeyframes</span>()
 
     </div>
 
@@ -390,7 +582,8 @@ single type.
 
     </div>
 
-  - <div id="getGeoOrientationKeyframes()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeoOrientationKeyframes()"
+    class="section detail">
 
     ### getGeoOrientationKeyframes
 
@@ -399,7 +592,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getGeoOrientationKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getGeoOrientationKeyframes</span>()
 
     </div>
 
@@ -409,7 +602,7 @@ single type.
 
     </div>
 
-  - <div id="lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtDistance
@@ -424,7 +617,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtDistance</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -486,7 +679,7 @@ single type.
 
     </div>
 
-  - <div id="lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtDistance
@@ -499,7 +692,7 @@ single type.
     [MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview") distanceKind,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -553,7 +746,7 @@ single type.
 
     </div>
 
-  - <div id="lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtTarget
@@ -565,7 +758,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtTarget</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -613,7 +806,7 @@ single type.
 
     </div>
 
-  - <div id="lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtOrientation
@@ -625,7 +818,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtOrientation</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -672,7 +865,7 @@ single type.
 
     </div>
 
-  - <div id="principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### principalPoint
@@ -684,7 +877,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">principalPoint</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -735,7 +928,7 @@ single type.
 
     </div>
 
-  - <div id="normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### normalizedPrincipalPoint
@@ -747,7 +940,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">normalizedPrincipalPoint</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -799,7 +992,7 @@ single type.
 
     </div>
 
-  - <div id="fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+  - <div id="sdk-for-android-explore-fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### fieldOfView
@@ -811,7 +1004,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">fieldOfView</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -858,7 +1051,8 @@ single type.
 
     </div>
 
-  - <div id="getInterpolationMode()" class="section detail">
+  - <div id="sdk-for-android-explore-getInterpolationMode()"
+    class="section detail">
 
     ### getInterpolationMode
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.engine.SDKOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ SDKNativeEngine .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -47,36 +49,57 @@ SDKNativeEngine .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock"
-  class="type-name-link"
-  title="enum class in com.here.sdk.core.engine"><code>SDKOptions.ActionOnCacheLock</code></a></td>
-  <td><div class="block">
-  Action on cache lock
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock"
+  class="type-name-link"
+  title="enum class in com.here.sdk.core.engine"><code>SDKOptions.ActionOnCacheLock</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Action on cache lock
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -84,223 +107,470 @@ SDKNativeEngine .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock"
-  title="enum class in com.here.sdk.core.engine"><code>SDKOptions.ActionOnCacheLock</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#actionOnCacheLock"
-  class="member-name-link"><code>actionOnCacheLock</code></a></td>
-  <td><div class="block">
-  Specifies action to perform when cache folder is locked by another
-  process.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
-  title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#authenticationMode"
-  class="member-name-link"><code>authenticationMode</code></a></td>
-  <td><div class="block">
-  Encapsulates Authentication method and parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#autoUpdateOfOnlineCache"
-  class="member-name-link"><code>autoUpdateOfOnlineCache</code></a></td>
-  <td><div class="block">
-  Parameter to enable automatic cache updates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#billingTag"
-  class="member-name-link"><code>billingTag</code></a></td>
-  <td><div class="block">
-  Internal to HERE SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cachePath"
-  class="member-name-link"><code>cachePath</code></a></td>
-  <td><div class="block">
-  Path to be used for caching purposes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cacheSizeInBytes"
-  class="member-name-link"><code>cacheSizeInBytes</code></a></td>
-  <td><div class="block">
-  Desired upper bound of application size in bytes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
-  title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#catalogConfigurations"
-  class="member-name-link"><code>catalogConfigurations</code></a></td>
-  <td><div class="block">
-  This field specifies how the SDKNativeEngine should access, use and
-  store data for different catalogs.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl"
-  title="enum class in com.here.sdk.core.engine"><code>EngineBaseURL</code></a><code>,</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-engineoptions"
-  title="class in com.here.sdk.core.engine"><code>EngineOptions</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customEngineOptions"
-  class="member-name-link"><code>customEngineOptions</code></a></td>
-  <td><div class="block">
-  Set custom options for SDK Engines.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadata"
-  title="class in com.here.sdk.core"><code>Metadata</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customOptions"
-  class="member-name-link"><code>customOptions</code></a></td>
-  <td><div class="block">
-  Options that define custom behavior for the HERE SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath"
-  class="member-name-link"><code>dataPath</code></a></td>
-  <td><div class="block">
-  Path used for storing application internal data, such as the offline
-  search index and other essential data required for proper functionality.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration"
-  title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration"
-  class="member-name-link"><code>layerConfiguration</code></a></td>
-  <td><div class="block">
-  Defines a list of data features that can be enabled / disabled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#lowMemoryMode"
-  class="member-name-link"><code>lowMemoryMode</code></a></td>
-  <td><div class="block">
-  If an application runs in a memory-constrained environment, enable this
-  option to reduce the HERE SDK's memory footprint.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
-  title="class in com.here.sdk.core.engine"><code>NetworkSettings</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#networkSettings"
-  class="member-name-link"><code>networkSettings</code></a></td>
-  <td><div class="block">
-  Network settings to use at the start.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#offlineMode"
-  class="member-name-link"><code>offlineMode</code></a></td>
-  <td><div class="block">
-  Sets offline mode for the HERE SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"
-  class="member-name-link"><code>persistentMapStoragePath</code></a></td>
-  <td><div class="block">
-  Path to store persistent map data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#politicalView"
-  class="member-name-link"><code>politicalView</code></a></td>
-  <td><div class="block">
-  Geopolitical view of a country, defined as a three letter country code
-  by ISO 3166-1 alpha-3.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#scope"
-  class="member-name-link"><code>scope</code></a></td>
-  <td><div class="block">
-  Optional project ID to set the project scope of the login session.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`SDKOptions.ActionOnCacheLock`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#actionOnCacheLock"
+  class="member-name-link"><code>actionOnCacheLock</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies action to perform when cache folder is locked by another
+  process.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#authenticationMode"
+  class="member-name-link"><code>authenticationMode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Encapsulates Authentication method and parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#autoUpdateOfOnlineCache"
+  class="member-name-link"><code>autoUpdateOfOnlineCache</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Parameter to enable automatic cache updates.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#billingTag"
+  class="member-name-link"><code>billingTag</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Internal to HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cachePath"
+  class="member-name-link"><code>cachePath</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Path to be used for caching purposes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cacheSizeInBytes"
+  class="member-name-link"><code>cacheSizeInBytes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Desired upper bound of application size in bytes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#catalogConfigurations"
+  class="member-name-link"><code>catalogConfigurations</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This field specifies how the SDKNativeEngine should access, use and
+  store data for different catalogs.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`[`EngineBaseURL`](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine")`,`[`EngineOptions`](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customEngineOptions"
+  class="member-name-link"><code>customEngineOptions</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Set custom options for SDK Engines.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customOptions"
+  class="member-name-link"><code>customOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Options that define custom behavior for the HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath"
+  class="member-name-link"><code>dataPath</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Path used for storing application internal data, such as the offline
+  search index and other essential data required for proper
+  functionality.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`LayerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration"
+  class="member-name-link"><code>layerConfiguration</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines a list of data features that can be enabled / disabled.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#lowMemoryMode"
+  class="member-name-link"><code>lowMemoryMode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  If an application runs in a memory-constrained environment, enable
+  this option to reduce the HERE SDK's memory footprint.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`NetworkSettings`](sdk-for-android-explore-com-here-sdk-core-engine-networksettings "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#networkSettings"
+  class="member-name-link"><code>networkSettings</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Network settings to use at the start.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#offlineMode"
+  class="member-name-link"><code>offlineMode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Sets offline mode for the HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"
+  class="member-name-link"><code>persistentMapStoragePath</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Path to store persistent map data.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#politicalView"
+  class="member-name-link"><code>politicalView</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Geopolitical view of a country, defined as a three letter country code
+  by ISO 3166-1 alpha-3.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#scope"
+  class="member-name-link"><code>scope</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional project ID to set the project scope of the login session.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -308,70 +578,100 @@ SDKNativeEngine .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SDKOptions(AuthenticationMode authenticationMode)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SDKOptions(AuthenticationMode authenticationMode)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Constructs a SDKOptions from authentication mode.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -420,9 +720,10 @@ SDKNativeEngine .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="scope" class="section detail">
+  - <div id="sdk-for-android-explore-scope" class="section detail">
 
     ### scope
 
@@ -444,7 +745,7 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="cachePath" class="section detail">
+  - <div id="sdk-for-android-explore-cachePath" class="section detail">
 
     ### cachePath
 
@@ -480,7 +781,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="cacheSizeInBytes" class="section detail">
+  - <div id="sdk-for-android-explore-cacheSizeInBytes"
+    class="section detail">
 
     ### cacheSizeInBytes
 
@@ -500,7 +802,7 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="dataPath" class="section detail">
+  - <div id="sdk-for-android-explore-dataPath" class="section detail">
 
     ### dataPath
 
@@ -553,7 +855,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="persistentMapStoragePath" class="section detail">
+  - <div id="sdk-for-android-explore-persistentMapStoragePath"
+    class="section detail">
 
     ### persistentMapStoragePath
 
@@ -597,7 +900,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="politicalView" class="section detail">
+  - <div id="sdk-for-android-explore-politicalView"
+    class="section detail">
 
     ### politicalView
 
@@ -624,7 +928,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="offlineMode" class="section detail">
+  - <div id="sdk-for-android-explore-offlineMode"
+    class="section detail">
 
     ### offlineMode
 
@@ -645,7 +950,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="layerConfiguration" class="section detail">
+  - <div id="sdk-for-android-explore-layerConfiguration"
+    class="section detail">
 
     ### layerConfiguration
 
@@ -690,7 +996,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="catalogConfigurations" class="section detail">
+  - <div id="sdk-for-android-explore-catalogConfigurations"
+    class="section detail">
 
     ### catalogConfigurations
 
@@ -699,7 +1006,7 @@ SDKNativeEngine .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")></span> <span class="element-name">catalogConfigurations</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")\></span> <span class="element-name">catalogConfigurations</span>
 
     </div>
 
@@ -717,7 +1024,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="autoUpdateOfOnlineCache" class="section detail">
+  - <div id="sdk-for-android-explore-autoUpdateOfOnlineCache"
+    class="section detail">
 
     ### autoUpdateOfOnlineCache
 
@@ -754,7 +1062,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="customEngineOptions" class="section detail">
+  - <div id="sdk-for-android-explore-customEngineOptions"
+    class="section detail">
 
     ### customEngineOptions
 
@@ -763,7 +1072,7 @@ SDKNativeEngine .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")></span> <span class="element-name">customEngineOptions</span>
+    class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")\></span> <span class="element-name">customEngineOptions</span>
 
     </div>
 
@@ -788,7 +1097,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="actionOnCacheLock" class="section detail">
+  - <div id="sdk-for-android-explore-actionOnCacheLock"
+    class="section detail">
 
     ### actionOnCacheLock
 
@@ -809,7 +1119,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="authenticationMode" class="section detail">
+  - <div id="sdk-for-android-explore-authenticationMode"
+    class="section detail">
 
     ### authenticationMode
 
@@ -828,7 +1139,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="networkSettings" class="section detail">
+  - <div id="sdk-for-android-explore-networkSettings"
+    class="section detail">
 
     ### networkSettings
 
@@ -848,7 +1160,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="lowMemoryMode" class="section detail">
+  - <div id="sdk-for-android-explore-lowMemoryMode"
+    class="section detail">
 
     ### lowMemoryMode
 
@@ -872,7 +1185,7 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="billingTag" class="section detail">
+  - <div id="sdk-for-android-explore-billingTag" class="section detail">
 
     ### billingTag
 
@@ -906,7 +1219,8 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="customOptions" class="section detail">
+  - <div id="sdk-for-android-explore-customOptions"
+    class="section detail">
 
     ### customOptions
 
@@ -933,9 +1247,10 @@ SDKNativeEngine .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.engine.AuthenticationMode)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.AuthenticationMode)"
     class="section detail">
 
     ### SDKOptions
@@ -963,9 +1278,11 @@ SDKNativeEngine .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -989,7 +1306,7 @@ SDKNativeEngine .
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -16,7 +16,8 @@ com.here.sdk.mapview.MapContext.MemoryManagementOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
@@ -43,7 +44,8 @@ change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -51,62 +53,111 @@ change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy"
-  title="enum class in com.here.sdk.mapview"><code>MapContext.MemoryManagementStrategy</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#memoryManagementStrategy"
-  class="member-name-link"><code>memoryManagementStrategy</code></a></td>
-  <td><div class="block">
-  The default setting MemoryManagementStrategy.DYNAMIC is suitable for
-  common cases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#tileCacheMemoryLimitInKiB"
-  class="member-name-link"><code>tileCacheMemoryLimitInKiB</code></a></td>
-  <td><div class="block">
-  Tile cache memory limit in kibibytes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#videoMemoryLimitInKiB"
-  class="member-name-link"><code>videoMemoryLimitInKiB</code></a></td>
-  <td><div class="block">
-  Target video memory limit in kibibytes.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`MapContext.MemoryManagementStrategy`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#memoryManagementStrategy"
+  class="member-name-link"><code>memoryManagementStrategy</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The default setting MemoryManagementStrategy.DYNAMIC is suitable for
+  common cases.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#tileCacheMemoryLimitInKiB"
+  class="member-name-link"><code>tileCacheMemoryLimitInKiB</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Tile cache memory limit in kibibytes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#videoMemoryLimitInKiB"
+  class="member-name-link"><code>videoMemoryLimitInKiB</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Target video memory limit in kibibytes.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -114,30 +165,42 @@ change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MemoryManagementOptions()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MemoryManagementOptions()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -188,9 +251,11 @@ change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="memoryManagementStrategy" class="section detail">
+  - <div id="sdk-for-android-explore-memoryManagementStrategy"
+    class="section detail">
 
     ### memoryManagementStrategy
 
@@ -217,7 +282,8 @@ change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="tileCacheMemoryLimitInKiB" class="section detail">
+  - <div id="sdk-for-android-explore-tileCacheMemoryLimitInKiB"
+    class="section detail">
 
     ### tileCacheMemoryLimitInKiB
 
@@ -242,7 +308,8 @@ change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="videoMemoryLimitInKiB" class="section detail">
+  - <div id="sdk-for-android-explore-videoMemoryLimitInKiB"
+    class="section detail">
 
     ### videoMemoryLimitInKiB
 
@@ -267,9 +334,10 @@ change for new releases without a deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MemoryManagementOptions
 

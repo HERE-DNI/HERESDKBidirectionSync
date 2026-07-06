@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitmode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TransitMode>com.here.sdk.routing.TransitMode →
+java.lang.Enum\<TransitMode\>com.here.sdk.routing.TransitMode →
 java.lang.Enum → TransitMode → com.here.sdk.routing.TransitMode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TransitMode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ Public transit mode
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ Public transit mode
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,193 +85,361 @@ Public transit mode
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#AERIAL"
-  class="member-name-link"><code>AERIAL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AERIAL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Aerial.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmode#BUS"
-  class="member-name-link"><code>BUS</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitmode#BUS"
+  class="member-name-link"><code>BUS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#BUS_RAPID"
-  class="member-name-link"><code>BUS_RAPID</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BUS_RAPID</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Bus rapid.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#CITY_TRAIN"
-  class="member-name-link"><code>CITY_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CITY_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   City train.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmode#FERRY"
-  class="member-name-link"><code>FERRY</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitmode#FERRY"
+  class="member-name-link"><code>FERRY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Ferry.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#FLIGHT"
-  class="member-name-link"><code>FLIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FLIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Flight.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#HIGH_SPEED_TRAIN"
-  class="member-name-link"><code>HIGH_SPEED_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HIGH_SPEED_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   High speed train.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#INCLINED"
-  class="member-name-link"><code>INCLINED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INCLINED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Inclined.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#INTER_REGIONAL_TRAIN"
-  class="member-name-link"><code>INTER_REGIONAL_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INTER_REGIONAL_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Inter regional train.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#INTERCITY_TRAIN"
-  class="member-name-link"><code>INTERCITY_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INTERCITY_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Intercity train.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#LIGHT_RAIL"
-  class="member-name-link"><code>LIGHT_RAIL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LIGHT_RAIL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Light rail.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#MONORAIL"
-  class="member-name-link"><code>MONORAIL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MONORAIL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Monorail.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#PRIVATE_BUS"
-  class="member-name-link"><code>PRIVATE_BUS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PRIVATE_BUS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Private bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#REGIONAL_TRAIN"
-  class="member-name-link"><code>REGIONAL_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>REGIONAL_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Regional train.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitmode#SUBWAY"
-  class="member-name-link"><code>SUBWAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SUBWAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Subway.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmode"
-  title="enum class in com.here.sdk.routing"><code>TransitMode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransitMode`](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmode"
-  title="enum class in com.here.sdk.routing"><code>TransitMode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransitMode`](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -351,9 +522,11 @@ Public transit mode
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="HIGH_SPEED_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-HIGH_SPEED_TRAIN"
+    class="section detail">
 
     ### HIGH_SPEED_TRAIN
 
@@ -372,7 +545,8 @@ Public transit mode
 
     </div>
 
-  - <div id="INTERCITY_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-INTERCITY_TRAIN"
+    class="section detail">
 
     ### INTERCITY_TRAIN
 
@@ -391,7 +565,8 @@ Public transit mode
 
     </div>
 
-  - <div id="INTER_REGIONAL_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-INTER_REGIONAL_TRAIN"
+    class="section detail">
 
     ### INTER_REGIONAL_TRAIN
 
@@ -410,7 +585,8 @@ Public transit mode
 
     </div>
 
-  - <div id="REGIONAL_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-REGIONAL_TRAIN"
+    class="section detail">
 
     ### REGIONAL_TRAIN
 
@@ -429,7 +605,7 @@ Public transit mode
 
     </div>
 
-  - <div id="CITY_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-CITY_TRAIN" class="section detail">
 
     ### CITY_TRAIN
 
@@ -448,7 +624,7 @@ Public transit mode
 
     </div>
 
-  - <div id="BUS" class="section detail">
+  - <div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -467,7 +643,7 @@ Public transit mode
 
     </div>
 
-  - <div id="FERRY" class="section detail">
+  - <div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -486,7 +662,7 @@ Public transit mode
 
     </div>
 
-  - <div id="SUBWAY" class="section detail">
+  - <div id="sdk-for-android-explore-SUBWAY" class="section detail">
 
     ### SUBWAY
 
@@ -505,7 +681,7 @@ Public transit mode
 
     </div>
 
-  - <div id="LIGHT_RAIL" class="section detail">
+  - <div id="sdk-for-android-explore-LIGHT_RAIL" class="section detail">
 
     ### LIGHT_RAIL
 
@@ -524,7 +700,8 @@ Public transit mode
 
     </div>
 
-  - <div id="PRIVATE_BUS" class="section detail">
+  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+    class="section detail">
 
     ### PRIVATE_BUS
 
@@ -543,7 +720,7 @@ Public transit mode
 
     </div>
 
-  - <div id="INCLINED" class="section detail">
+  - <div id="sdk-for-android-explore-INCLINED" class="section detail">
 
     ### INCLINED
 
@@ -562,7 +739,7 @@ Public transit mode
 
     </div>
 
-  - <div id="AERIAL" class="section detail">
+  - <div id="sdk-for-android-explore-AERIAL" class="section detail">
 
     ### AERIAL
 
@@ -581,7 +758,7 @@ Public transit mode
 
     </div>
 
-  - <div id="BUS_RAPID" class="section detail">
+  - <div id="sdk-for-android-explore-BUS_RAPID" class="section detail">
 
     ### BUS_RAPID
 
@@ -600,7 +777,7 @@ Public transit mode
 
     </div>
 
-  - <div id="MONORAIL" class="section detail">
+  - <div id="sdk-for-android-explore-MONORAIL" class="section detail">
 
     ### MONORAIL
 
@@ -619,7 +796,7 @@ Public transit mode
 
     </div>
 
-  - <div id="FLIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-FLIGHT" class="section detail">
 
     ### FLIGHT
 
@@ -640,9 +817,10 @@ Public transit mode
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -666,7 +844,8 @@ Public transit mode
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

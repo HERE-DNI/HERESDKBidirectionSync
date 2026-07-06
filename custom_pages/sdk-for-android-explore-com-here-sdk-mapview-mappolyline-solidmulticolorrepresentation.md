@@ -22,7 +22,8 @@ com.here.sdk.mapview.MapPolyline.SolidMultiColorRepresentation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
@@ -59,7 +60,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -69,7 +71,8 @@ deprecation process.
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -77,95 +80,139 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SolidMultiColorRepresentation(MapMeasureDependentRenderSize lineWidth,
-   LineCap capShape,
-   List&lt;Double&gt; colorStops,
-   List&lt;Long&gt; colorIndices,
-   List&lt;Color&gt; colors,
-   double gradientLength)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SolidMultiColorRepresentation(MapMeasureDependentRenderSize lineWidth,
+       LineCap capShape,
+       List<Double> colorStops,
+       List<Long> colorIndices,
+       List<Color> colors,
+       double gradientLength)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a representation for a multicolored line without an outline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SolidMultiColorRepresentation(MapMeasureDependentRenderSize lineWidth,
-   MapMeasureDependentRenderSize outlineWidth,
-   Color outlineColor,
-   LineCap capShape,
-   List&lt;Double&gt; colorStops,
-   List&lt;Long&gt; colorIndices,
-   List&lt;Color&gt; colors,
-   double gradientLength)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      SolidMultiColorRepresentation(MapMeasureDependentRenderSize lineWidth,
+       MapMeasureDependentRenderSize outlineWidth,
+       Color outlineColor,
+       LineCap capShape,
+       List<Double> colorStops,
+       List<Long> colorIndices,
+       List<Color> colors,
+       double gradientLength)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a representation for a multicolored line with an outline.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>setMultiColorGradientLength(double length)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMultiColorGradientLength(double length)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the multiple color segment gradient length.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>setMultiColors(List&lt;Double&gt; colorStops,
-   List&lt;Long&gt; colorIndices,
-   List&lt;Color&gt; colors)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMultiColors(List<Double> colorStops,
+       List<Long> colorIndices,
+       List<Color> colors)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets lists of colors and multiple color segment stops for the polyline
   to be colored in.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -220,9 +267,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)"
     class="section detail">
 
     ### SolidMultiColorRepresentation
@@ -235,17 +283,17 @@ deprecation process.
     [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors,
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors,
     double gradientLength)</span> throws
     <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -331,7 +379,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)"
     class="section detail">
 
     ### SolidMultiColorRepresentation
@@ -348,17 +396,17 @@ deprecation process.
     [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors,
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors,
     double gradientLength)</span> throws
     <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -457,9 +505,10 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setMultiColors(java.util.List,java.util.List,java.util.List)"
+  - <div id="sdk-for-android-explore-setMultiColors(java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### setMultiColors
@@ -469,17 +518,17 @@ deprecation process.
     <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">setMultiColors</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors)</span>
 
     </div>
 
@@ -524,7 +573,7 @@ deprecation process.
 
     </div>
 
-  - <div id="setMultiColorGradientLength(double)"
+  - <div id="sdk-for-android-explore-setMultiColorGradientLength(double)"
     class="section detail">
 
     ### setMultiColorGradientLength

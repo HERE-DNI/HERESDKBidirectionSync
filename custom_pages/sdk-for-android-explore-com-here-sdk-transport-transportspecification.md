@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.transport.TransportSpecification
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,7 +43,8 @@ RoutingOptions.transport_specification.transport_mode set.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -50,106 +52,232 @@ RoutingOptions.transport_specification.transport_mode set.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-bicyclebuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.BicycleBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a bicycle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-busbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.BusBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-carbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a car.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for pedestrian.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-privatebusbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.PrivateBusBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a private bus.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a scooter.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a taxi.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-truckbuilder"
-  class="type-name-link"
-  title="class in com.here.sdk.transport"><code>TransportSpecification.TruckBuilder</code></a></td>
-  <td><div class="block">
-  This class constructs a TransportSpecification for a truck.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-bicyclebuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.BicycleBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a bicycle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-busbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.BusBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a bus.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-carbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a car.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for pedestrian.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-privatebusbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.PrivateBusBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a private bus.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a scooter.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a taxi.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-truckbuilder"
+  class="type-name-link"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.TruckBuilder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This class constructs a TransportSpecification for a truck.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -157,81 +285,152 @@ RoutingOptions.transport_specification.transport_mode set.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification"
-  title="class in com.here.sdk.transport"><code>PedestrianSpecification</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#pedestrianSpecification"
-  class="member-name-link"><code>pedestrianSpecification</code></a></td>
-  <td><div class="block">
-  The pedestrian specification for the transport mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-scooterspecification"
-  title="class in com.here.sdk.transport"><code>ScooterSpecification</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#scooterSpecification"
-  class="member-name-link"><code>scooterSpecification</code></a></td>
-  <td><div class="block">
-  The scooter specification for the transport mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-taxispecification"
-  title="class in com.here.sdk.transport"><code>TaxiSpecification</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#taxiSpecification"
-  class="member-name-link"><code>taxiSpecification</code></a></td>
-  <td><div class="block">
-  The taxi specification for the transport mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportmode"
-  title="enum class in com.here.sdk.transport"><code>TransportMode</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#transportMode"
-  class="member-name-link"><code>transportMode</code></a></td>
-  <td><div class="block">
-  Transport mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#vehicleSpecification"
-  class="member-name-link"><code>vehicleSpecification</code></a></td>
-  <td><div class="block">
-  The vehicle specification for the transport mode.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`PedestrianSpecification`](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#pedestrianSpecification"
+  class="member-name-link"><code>pedestrianSpecification</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The pedestrian specification for the transport mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`ScooterSpecification`](sdk-for-android-explore-com-here-sdk-transport-scooterspecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#scooterSpecification"
+  class="member-name-link"><code>scooterSpecification</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The scooter specification for the transport mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`TaxiSpecification`](sdk-for-android-explore-com-here-sdk-transport-taxispecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#taxiSpecification"
+  class="member-name-link"><code>taxiSpecification</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The taxi specification for the transport mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#transportMode"
+  class="member-name-link"><code>transportMode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Transport mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#vehicleSpecification"
+  class="member-name-link"><code>vehicleSpecification</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The vehicle specification for the transport mode.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -239,70 +438,100 @@ RoutingOptions.transport_specification.transport_mode set.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TransportSpecification()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TransportSpecification()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -351,9 +580,11 @@ RoutingOptions.transport_specification.transport_mode set.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="transportMode" class="section detail">
+  - <div id="sdk-for-android-explore-transportMode"
+    class="section detail">
 
     ### transportMode
 
@@ -372,7 +603,8 @@ RoutingOptions.transport_specification.transport_mode set.
 
     </div>
 
-  - <div id="vehicleSpecification" class="section detail">
+  - <div id="sdk-for-android-explore-vehicleSpecification"
+    class="section detail">
 
     ### vehicleSpecification
 
@@ -392,7 +624,8 @@ RoutingOptions.transport_specification.transport_mode set.
 
     </div>
 
-  - <div id="pedestrianSpecification" class="section detail">
+  - <div id="sdk-for-android-explore-pedestrianSpecification"
+    class="section detail">
 
     ### pedestrianSpecification
 
@@ -412,7 +645,8 @@ RoutingOptions.transport_specification.transport_mode set.
 
     </div>
 
-  - <div id="taxiSpecification" class="section detail">
+  - <div id="sdk-for-android-explore-taxiSpecification"
+    class="section detail">
 
     ### taxiSpecification
 
@@ -432,7 +666,8 @@ RoutingOptions.transport_specification.transport_mode set.
 
     </div>
 
-  - <div id="scooterSpecification" class="section detail">
+  - <div id="sdk-for-android-explore-scooterSpecification"
+    class="section detail">
 
     ### scooterSpecification
 
@@ -454,9 +689,10 @@ RoutingOptions.transport_specification.transport_mode set.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransportSpecification
 
@@ -476,9 +712,11 @@ RoutingOptions.transport_specification.transport_mode set.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -502,7 +740,7 @@ RoutingOptions.transport_specification.transport_mode set.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

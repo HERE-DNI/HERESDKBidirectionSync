@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.routing.Route
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,185 +43,397 @@ necessary.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-route"
-  title="class in com.here.sdk.routing"><code>Route</code></a></td>
-  <td><pre><code>deserialize(byte[] routeData)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Route`](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      deserialize(byte[] routeData)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates route from the given binary data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geobox"
-  title="class in com.here.sdk.core"><code>GeoBox</code></a></td>
-  <td><pre><code>getBoundingBox()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBoundingBox()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the closest rectangular area where this route fits in.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getConsumptionInKilowattHours()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getConsumptionInKilowattHours()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets estimated net energy consumption (in kWh) if the transportation
   mode used for this route is an electric vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getDuration()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDuration()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the estimated time in seconds needed to travel along this route,
   including real-time traffic delays if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline"
-  title="class in com.here.sdk.core"><code>GeoPolyline</code></a></td>
-  <td><pre><code>getGeometry()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeometry()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the GeoPolyline object representing the polyline of this route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-languagecode"
-  title="enum class in com.here.sdk.core"><code>LanguageCode</code></a></td>
-  <td><pre><code>getLanguage()</code></pre></td>
-  <td><div class="block">
-  Gets the language requested for all textual information related to this
-  route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getLengthInMeters()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLanguage()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the language requested for all textual information related to
+  this route.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLengthInMeters()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the length of this route in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode"
-  title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a></td>
-  <td><pre><code>getOptimizationMode()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOptimizationMode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the optimization mode requested for route calculation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
-  title="class in com.here.sdk.routing"><code>RouteRailwayCrossing</code></a><code>&gt;</code></td>
-  <td><pre><code>getRailwayCrossings()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`RouteRailwayCrossing`](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRailwayCrossings()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets railway crossings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportmode"
-  title="enum class in com.here.sdk.transport"><code>TransportMode</code></a></td>
-  <td><pre><code>getRequestedTransportMode()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRequestedTransportMode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the transport mode requested for route calculation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle"
-  title="class in com.here.sdk.routing"><code>RouteHandle</code></a></td>
-  <td><pre><code>getRouteHandle()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRouteHandle()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the route handle of this route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routelabel"
-  title="class in com.here.sdk.routing"><code>RouteLabel</code></a><code>&gt;</code></td>
-  <td><pre><code>getRouteLabels()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`RouteLabel`](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRouteLabels()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets route labels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingoptions"
-  title="class in com.here.sdk.routing"><code>RoutingOptions</code></a></td>
-  <td><pre><code>getRoutingOptions()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RoutingOptions`](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoutingOptions()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the options used to calculate this route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-section"
-  title="class in com.here.sdk.routing"><code>Section</code></a><code>&gt;</code></td>
-  <td><pre><code>getSections()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSections()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the sections that make up this route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getTrafficDelay()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTrafficDelay()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the estimated time in seconds spent in traffic along this route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static byte[]</code></td>
-  <td><pre><code>serialize(Route route)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static byte[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      serialize(Route route)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Serializes given route to a binary data.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -275,9 +488,10 @@ necessary.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="serialize(com.here.sdk.routing.Route)"
+  - <div id="sdk-for-android-explore-serialize(com.here.sdk.routing.Route)"
     class="section detail">
 
     ### serialize
@@ -310,7 +524,8 @@ necessary.
 
     </div>
 
-  - <div id="deserialize(byte[])" class="section detail">
+  - <div id="sdk-for-android-explore-deserialize(byte[])"
+    class="section detail">
 
     ### deserialize
 
@@ -342,7 +557,8 @@ necessary.
 
     </div>
 
-  - <div id="getSections()" class="section detail">
+  - <div id="sdk-for-android-explore-getSections()"
+    class="section detail">
 
     ### getSections
 
@@ -351,7 +567,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")></span> <span class="element-name">getSections</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")\></span> <span class="element-name">getSections</span>()
 
     </div>
 
@@ -366,7 +582,8 @@ necessary.
 
     </div>
 
-  - <div id="getGeometry()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeometry()"
+    class="section detail">
 
     ### getGeometry
 
@@ -393,7 +610,8 @@ necessary.
 
     </div>
 
-  - <div id="getBoundingBox()" class="section detail">
+  - <div id="sdk-for-android-explore-getBoundingBox()"
+    class="section detail">
 
     ### getBoundingBox
 
@@ -415,7 +633,8 @@ necessary.
 
     </div>
 
-  - <div id="getLengthInMeters()" class="section detail">
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
+    class="section detail">
 
     ### getLengthInMeters
 
@@ -436,7 +655,8 @@ necessary.
 
     </div>
 
-  - <div id="getLanguage()" class="section detail">
+  - <div id="sdk-for-android-explore-getLanguage()"
+    class="section detail">
 
     ### getLanguage
 
@@ -460,7 +680,8 @@ necessary.
 
     </div>
 
-  - <div id="getOptimizationMode()" class="section detail">
+  - <div id="sdk-for-android-explore-getOptimizationMode()"
+    class="section detail">
 
     ### getOptimizationMode
 
@@ -482,7 +703,8 @@ necessary.
 
     </div>
 
-  - <div id="getRequestedTransportMode()" class="section detail">
+  - <div id="sdk-for-android-explore-getRequestedTransportMode()"
+    class="section detail">
 
     ### getRequestedTransportMode
 
@@ -504,7 +726,8 @@ necessary.
 
     </div>
 
-  - <div id="getConsumptionInKilowattHours()" class="section detail">
+  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+    class="section detail">
 
     ### getConsumptionInKilowattHours
 
@@ -532,7 +755,8 @@ necessary.
 
     </div>
 
-  - <div id="getRouteHandle()" class="section detail">
+  - <div id="sdk-for-android-explore-getRouteHandle()"
+    class="section detail">
 
     ### getRouteHandle
 
@@ -557,7 +781,8 @@ necessary.
 
     </div>
 
-  - <div id="getDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getDuration()"
+    class="section detail">
 
     ### getDuration
 
@@ -581,7 +806,8 @@ necessary.
 
     </div>
 
-  - <div id="getTrafficDelay()" class="section detail">
+  - <div id="sdk-for-android-explore-getTrafficDelay()"
+    class="section detail">
 
     ### getTrafficDelay
 
@@ -607,7 +833,8 @@ necessary.
 
     </div>
 
-  - <div id="getRoutingOptions()" class="section detail">
+  - <div id="sdk-for-android-explore-getRoutingOptions()"
+    class="section detail">
 
     ### getRoutingOptions
 
@@ -629,7 +856,8 @@ necessary.
 
     </div>
 
-  - <div id="getRailwayCrossings()" class="section detail">
+  - <div id="sdk-for-android-explore-getRailwayCrossings()"
+    class="section detail">
 
     ### getRailwayCrossings
 
@@ -638,7 +866,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")></span> <span class="element-name">getRailwayCrossings</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")\></span> <span class="element-name">getRailwayCrossings</span>()
 
     </div>
 
@@ -654,7 +882,8 @@ necessary.
 
     </div>
 
-  - <div id="getRouteLabels()" class="section detail">
+  - <div id="sdk-for-android-explore-getRouteLabels()"
+    class="section detail">
 
     ### getRouteLabels
 
@@ -663,7 +892,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")></span> <span class="element-name">getRouteLabels</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")\></span> <span class="element-name">getRouteLabels</span>()
 
     </div>
 

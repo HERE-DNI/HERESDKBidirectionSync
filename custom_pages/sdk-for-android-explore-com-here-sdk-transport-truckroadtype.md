@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-truckroadtype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TruckRoadType>com.here.sdk.transport.TruckRoadType →
+java.lang.Enum\<TruckRoadType\>com.here.sdk.transport.TruckRoadType →
 java.lang.Enum → TruckRoadType → com.here.sdk.transport.TruckRoadType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TruckRoadType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ Specifies Truck road type
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ Specifies Truck road type
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,169 +85,307 @@ Specifies Truck road type
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#A2"
-  class="member-name-link"><code>A2</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>A2</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A2 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#A4"
-  class="member-name-link"><code>A4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>A4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A4 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#B2"
-  class="member-name-link"><code>B2</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>B2</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   B2 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#B4"
-  class="member-name-link"><code>B4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>B4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   B4 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#BK1"
-  class="member-name-link"><code>BK1</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BK1</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   BK1 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#BK2"
-  class="member-name-link"><code>BK2</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BK2</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   BK2 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#BK3"
-  class="member-name-link"><code>BK3</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BK3</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   BK3 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#BK4"
-  class="member-name-link"><code>BK4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BK4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   BK4 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#C"
-  class="member-name-link"><code>C</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#C"
+  class="member-name-link"><code>C</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   C class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#D"
-  class="member-name-link"><code>D</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#D"
+  class="member-name-link"><code>D</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   D class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#ET2"
-  class="member-name-link"><code>ET2</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ET2</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   ET2 class truck road type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype#ET4"
-  class="member-name-link"><code>ET4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ET4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   ET4 class truck road type.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype"
-  title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype"
-  title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -327,9 +468,10 @@ Specifies Truck road type
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="ET4" class="section detail">
+  - <div id="sdk-for-android-explore-ET4" class="section detail">
 
     ### ET4
 
@@ -348,7 +490,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="ET2" class="section detail">
+  - <div id="sdk-for-android-explore-ET2" class="section detail">
 
     ### ET2
 
@@ -367,7 +509,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="A4" class="section detail">
+  - <div id="sdk-for-android-explore-A4" class="section detail">
 
     ### A4
 
@@ -386,7 +528,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="A2" class="section detail">
+  - <div id="sdk-for-android-explore-A2" class="section detail">
 
     ### A2
 
@@ -405,7 +547,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="B4" class="section detail">
+  - <div id="sdk-for-android-explore-B4" class="section detail">
 
     ### B4
 
@@ -424,7 +566,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="B2" class="section detail">
+  - <div id="sdk-for-android-explore-B2" class="section detail">
 
     ### B2
 
@@ -443,7 +585,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="C" class="section detail">
+  - <div id="sdk-for-android-explore-C" class="section detail">
 
     ### C
 
@@ -462,7 +604,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="D" class="section detail">
+  - <div id="sdk-for-android-explore-D" class="section detail">
 
     ### D
 
@@ -481,7 +623,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="BK1" class="section detail">
+  - <div id="sdk-for-android-explore-BK1" class="section detail">
 
     ### BK1
 
@@ -500,7 +642,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="BK2" class="section detail">
+  - <div id="sdk-for-android-explore-BK2" class="section detail">
 
     ### BK2
 
@@ -519,7 +661,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="BK3" class="section detail">
+  - <div id="sdk-for-android-explore-BK3" class="section detail">
 
     ### BK3
 
@@ -538,7 +680,7 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="BK4" class="section detail">
+  - <div id="sdk-for-android-explore-BK4" class="section detail">
 
     ### BK4
 
@@ -559,9 +701,10 @@ Specifies Truck road type
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -585,7 +728,8 @@ Specifies Truck road type
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

@@ -22,7 +22,8 @@ com.here.sdk.mapview.MapPolyline.DashImageRepresentation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
@@ -59,7 +60,8 @@ for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -69,7 +71,8 @@ for new releases without a deprecation process.
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -77,110 +80,177 @@ for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>DashImageRepresentation(MapMeasureDependentRenderSize dashLength,
-   MapMeasureDependentRenderSize dashWidth,
-   MapImage image)</code></pre></td>
-  <td><div class="block">
-  Creates a uniform dash pattern in which the length of a gap is the same
-  as the length of a dash.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DashImageRepresentation(MapMeasureDependentRenderSize dashLength,
-   MapMeasureDependentRenderSize gapLength,
-   MapMeasureDependentRenderSize dashWidth,
-   MapImage image)</code></pre></td>
-  <td><div class="block">
-  Creates a simple dash pattern in which the lengths of a dash and gap can
-  be different.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage"
-  title="class in com.here.sdk.mapview"><code>MapImage</code></a></td>
-  <td><pre><code>getDashImage()</code></pre></td>
-  <td><div class="block">
+      DashImageRepresentation(MapMeasureDependentRenderSize dashLength,
+       MapMeasureDependentRenderSize dashWidth,
+       MapImage image)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a uniform dash pattern in which the length of a gap is the
+  same as the length of a dash.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      DashImageRepresentation(MapMeasureDependentRenderSize dashLength,
+       MapMeasureDependentRenderSize gapLength,
+       MapMeasureDependentRenderSize dashWidth,
+       MapImage image)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a simple dash pattern in which the lengths of a dash and gap
+  can be different.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDashImage()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the image that is rendered in place of dash space.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getDashLength()</code></pre></td>
-  <td><div class="block">
-  Gets the map measure dependent length of a dash, to which image width is
-  stretched.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getDashWidth()</code></pre></td>
-  <td><div class="block">
-  Gets the map measure dependent width of a dash, to which image height is
-  stretched.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getGapLength()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDashLength()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the map measure dependent length of a dash, to which image width
+  is stretched.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDashWidth()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the map measure dependent width of a dash, to which image height
+  is stretched.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGapLength()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the map measure dependent length of a gap between dash images.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -235,9 +305,10 @@ for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### DashImageRepresentation
@@ -296,7 +367,7 @@ for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### DashImageRepresentation
@@ -363,9 +434,11 @@ for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getDashImage()" class="section detail">
+  - <div id="sdk-for-android-explore-getDashImage()"
+    class="section detail">
 
     ### getDashImage
 
@@ -388,7 +461,8 @@ for new releases without a deprecation process.
 
     </div>
 
-  - <div id="getDashLength()" class="section detail">
+  - <div id="sdk-for-android-explore-getDashLength()"
+    class="section detail">
 
     ### getDashLength
 
@@ -412,7 +486,8 @@ for new releases without a deprecation process.
 
     </div>
 
-  - <div id="getGapLength()" class="section detail">
+  - <div id="sdk-for-android-explore-getGapLength()"
+    class="section detail">
 
     ### getGapLength
 
@@ -434,7 +509,8 @@ for new releases without a deprecation process.
 
     </div>
 
-  - <div id="getDashWidth()" class="section detail">
+  - <div id="sdk-for-android-explore-getDashWidth()"
+    class="section detail">
 
     ### getDashWidth
 

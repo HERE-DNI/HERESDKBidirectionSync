@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.mapview.MapPickResult
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,68 +38,100 @@ A class representing a map pick result.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor"
-  title="class in com.here.sdk.mapview"><code>MapObjectDescriptor</code></a><code>&gt;</code></td>
-  <td><pre><code>getCustomLayerObjectDescriptors()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapObjectDescriptor`](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCustomLayerObjectDescriptors()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a list of map object descriptors representing picked objects from
   custom user data layers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult"
-  title="class in com.here.sdk.mapview"><code>PickMapContentResult</code></a></td>
-  <td><pre><code>getMapContent()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`PickMapContentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMapContent()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a picked map content result.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult"
-  title="class in com.here.sdk.mapview"><code>PickMapItemsResult</code></a></td>
-  <td><pre><code>getMapItems()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`PickMapItemsResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMapItems()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a picked map items result.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -153,9 +186,11 @@ A class representing a map pick result.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getMapItems()" class="section detail">
+  - <div id="sdk-for-android-explore-getMapItems()"
+    class="section detail">
 
     ### getMapItems
 
@@ -177,7 +212,8 @@ A class representing a map pick result.
 
     </div>
 
-  - <div id="getMapContent()" class="section detail">
+  - <div id="sdk-for-android-explore-getMapContent()"
+    class="section detail">
 
     ### getMapContent
 
@@ -199,7 +235,8 @@ A class representing a map pick result.
 
     </div>
 
-  - <div id="getCustomLayerObjectDescriptors()" class="section detail">
+  - <div id="sdk-for-android-explore-getCustomLayerObjectDescriptors()"
+    class="section detail">
 
     ### getCustomLayerObjectDescriptors
 
@@ -208,7 +245,7 @@ A class representing a map pick result.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapObjectDescriptor](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")></span> <span class="element-name">getCustomLayerObjectDescriptors</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapObjectDescriptor](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")\></span> <span class="element-name">getCustomLayerObjectDescriptors</span>()
 
     </div>
 

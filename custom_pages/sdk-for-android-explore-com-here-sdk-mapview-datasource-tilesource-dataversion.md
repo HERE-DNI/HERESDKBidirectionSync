@@ -16,7 +16,8 @@ com.here.sdk.mapview.datasource.TileSource.DataVersion
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing interface:  
 [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
@@ -41,7 +42,8 @@ Tile data version.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -49,44 +51,80 @@ Tile data version.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#majorVersion"
-  class="member-name-link"><code>majorVersion</code></a></td>
-  <td><div class="block">
-  Major version number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#minorVersion"
-  class="member-name-link"><code>minorVersion</code></a></td>
-  <td><div class="block">
-  Minor version number.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#majorVersion"
+  class="member-name-link"><code>majorVersion</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Major version number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#minorVersion"
+  class="member-name-link"><code>minorVersion</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Minor version number.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -94,31 +132,43 @@ Tile data version.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>DataVersion(int majorVersion,
-   int minorVersion)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataVersion(int majorVersion,
+       int minorVersion)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -169,9 +219,11 @@ Tile data version.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="majorVersion" class="section detail">
+  - <div id="sdk-for-android-explore-majorVersion"
+    class="section detail">
 
     ### majorVersion
 
@@ -190,7 +242,8 @@ Tile data version.
 
     </div>
 
-  - <div id="minorVersion" class="section detail">
+  - <div id="sdk-for-android-explore-minorVersion"
+    class="section detail">
 
     ### minorVersion
 
@@ -211,9 +264,11 @@ Tile data version.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(int,int)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(int,int)"
+    class="section detail">
 
     ### DataVersion
 

@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [IconProvider](sdk-for-android-explore-com-here-sdk-mapview-iconprovider "class in com.here.sdk.mapview")
@@ -42,46 +43,55 @@ after calling the createRoadShieldIcon() method.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onCreateIconReply(android.graphics.Bitmap bitmap,
-   String description,
-   IconProviderError error)</code></pre></td>
-  <td><div class="block">
-  Called when the image was created successfully or an error has occurred
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onCreateIconReply(android.graphics.Bitmap bitmap,
+       String description,
+       IconProviderError error)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called when the image was created successfully or an error has
+  occurred
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -93,9 +103,10 @@ after calling the createRoadShieldIcon() method.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)"
+  - <div id="sdk-for-android-explore-onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)"
     class="section detail">
 
     ### onCreateIconReply

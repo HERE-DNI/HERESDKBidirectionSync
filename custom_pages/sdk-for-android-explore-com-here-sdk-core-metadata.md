@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.core.Metadata
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ by the use of the CustomMetadataValue interface.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -48,164 +50,344 @@ by the use of the CustomMetadataValue interface.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Metadata()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Metadata()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of this class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue"
-  title="interface in com.here.sdk.core"><code>CustomMetadataValue</code></a></td>
-  <td><pre><code>getCustomValue(String key)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`CustomMetadataValue`](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCustomValue(String key)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Obtains an instance of the CustomMetadataValue class associated with a
   given key.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getDouble(String key)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDouble(String key)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Obtains a Double value associated with a given key.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getGeoCoordinates(String key)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeoCoordinates(String key)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Obtains a GeoCoordinates value associated with a given key.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><pre><code>getInteger(String key)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getInteger(String key)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Obtains an Integer value associated with a given key.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getString(String key)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getString(String key)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Obtains a String value associated with a given key.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadatatype"
-  title="enum class in com.here.sdk.core"><code>MetadataType</code></a></td>
-  <td><pre><code>getType(String key)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MetadataType`](sdk-for-android-explore-com-here-sdk-core-metadatatype "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getType(String key)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Determines the type of a metadata value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeValue(String key)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeValue(String key)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a metadata key and its associated value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setCustomValue(String key,
-   CustomMetadataValue value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomValue(String key,
+       CustomMetadataValue value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a key:value pair, where the value is a type derived from
   CustomMetadataValue.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDouble(String key,
-   double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDouble(String key,
+       double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a key:value pair, where the value is of type Double.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setGeoCoordinates(String key,
-   GeoCoordinates value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setGeoCoordinates(String key,
+       GeoCoordinates value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a key:value pair, where the value is of type GeoCoordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setInteger(String key,
-   int value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setInteger(String key,
+       int value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a key:value pair, where the value is of type Integer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setString(String key,
-   String value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setString(String key,
+       String value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a key:value pair, where the value is of type String.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -260,9 +442,10 @@ by the use of the CustomMetadataValue interface.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Metadata
 
@@ -282,9 +465,11 @@ by the use of the CustomMetadataValue interface.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getCustomValue(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getCustomValue(java.lang.String)"
+    class="section detail">
 
     ### getCustomValue
 
@@ -315,7 +500,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="getDouble(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
+    class="section detail">
 
     ### getDouble
 
@@ -347,7 +533,7 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="getGeoCoordinates(java.lang.String)"
+  - <div id="sdk-for-android-explore-getGeoCoordinates(java.lang.String)"
     class="section detail">
 
     ### getGeoCoordinates
@@ -378,7 +564,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="getInteger(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getInteger(java.lang.String)"
+    class="section detail">
 
     ### getInteger
 
@@ -411,7 +598,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="getString(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getString(java.lang.String)"
+    class="section detail">
 
     ### getString
 
@@ -443,7 +631,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="getType(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-getType(java.lang.String)"
+    class="section detail">
 
     ### getType
 
@@ -477,7 +666,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="removeValue(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-removeValue(java.lang.String)"
+    class="section detail">
 
     ### removeValue
 
@@ -503,7 +693,7 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="setCustomValue(java.lang.String,com.here.sdk.core.CustomMetadataValue)"
+  - <div id="sdk-for-android-explore-setCustomValue(java.lang.String,com.here.sdk.core.CustomMetadataValue)"
     class="section detail">
 
     ### setCustomValue
@@ -538,7 +728,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="setDouble(java.lang.String,double)" class="section detail">
+  - <div id="sdk-for-android-explore-setDouble(java.lang.String,double)"
+    class="section detail">
 
     ### setDouble
 
@@ -570,7 +761,7 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="setGeoCoordinates(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-setGeoCoordinates(java.lang.String,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setGeoCoordinates
@@ -605,7 +796,8 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="setInteger(java.lang.String,int)" class="section detail">
+  - <div id="sdk-for-android-explore-setInteger(java.lang.String,int)"
+    class="section detail">
 
     ### setInteger
 
@@ -637,7 +829,7 @@ by the use of the CustomMetadataValue interface.
 
     </div>
 
-  - <div id="setString(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-setString(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setString

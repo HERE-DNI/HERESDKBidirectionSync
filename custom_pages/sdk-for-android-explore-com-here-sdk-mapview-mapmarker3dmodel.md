@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapMarker3DModel
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -54,7 +55,8 @@ along with the mesh to MapMarker3DModel constructor.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -62,46 +64,82 @@ along with the mesh to MapMarker3DModel constructor.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapMarker3DModel.InstantiationErrorCode</code></a></td>
-  <td><div class="block">
-  Indicates the reason for a failure to create MapMarker3DModel .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapMarker3DModel.InstantiationException</code></a></td>
-  <td><div class="block">
-  Thrown when a problem occurs while trying to create MapMarker3DModel .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>MapMarker3DModel.InstantiationErrorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Indicates the reason for a failure to create MapMarker3DModel .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapMarker3DModel.InstantiationException</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Thrown when a problem occurs while trying to create MapMarker3DModel .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -109,66 +147,128 @@ along with the mesh to MapMarker3DModel constructor.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapMarker3DModel(Mesh mesh)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from a mesh.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3DModel(Mesh mesh,
-   String textureFilePath)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from mesh and texture.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3DModel(Mesh mesh,
-   String textureFilePath,
-   Color color)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from mesh, texture and color.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3DModel(String geometryFilePath)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from path to .obj file.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3DModel(String geometryFilePath,
-   String textureFilePath)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from path to .obj file and texture.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3DModel(String geometryFilePath,
-   String textureFilePath,
-   Color color)</code></pre></td>
-  <td><div class="block">
-  Creates a new 3D model from path to .obj file, texture and color.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker3DModel(Mesh mesh)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from a mesh.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker3DModel(Mesh mesh,
+       String textureFilePath)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from mesh and texture.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker3DModel(Mesh mesh,
+       String textureFilePath,
+       Color color)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from mesh, texture and color.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker3DModel(String geometryFilePath)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from path to .obj file.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker3DModel(String geometryFilePath,
+       String textureFilePath)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from path to .obj file and texture.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker3DModel(String geometryFilePath,
+       String textureFilePath,
+       Color color)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new 3D model from path to .obj file, texture and color.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -219,9 +319,10 @@ along with the mesh to MapMarker3DModel constructor.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,java.lang.String,com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -262,7 +363,7 @@ along with the mesh to MapMarker3DModel constructor.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -309,7 +410,7 @@ along with the mesh to MapMarker3DModel constructor.
 
     </div>
 
-  - <div id="<init>(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -343,7 +444,7 @@ along with the mesh to MapMarker3DModel constructor.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.Mesh,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -383,7 +484,8 @@ along with the mesh to MapMarker3DModel constructor.
 
     </div>
 
-  - <div id="<init>(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+    class="section detail">
 
     ### MapMarker3DModel
 
@@ -409,7 +511,8 @@ along with the mesh to MapMarker3DModel constructor.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.Mesh)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh)"
+    class="section detail">
 
     ### MapMarker3DModel
 

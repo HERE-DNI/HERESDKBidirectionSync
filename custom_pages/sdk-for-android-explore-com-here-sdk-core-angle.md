@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.core.Angle
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,70 +38,120 @@ Represents an angle independent of the unit of measurement.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-angle"
-  title="class in com.here.sdk.core"><code>Angle</code></a></td>
-  <td><pre><code>fromDegrees(double angle)</code></pre></td>
-  <td><div class="block">
-  Creates a new angle object based on the supplied angle value in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-angle"
-  title="class in com.here.sdk.core"><code>Angle</code></a></td>
-  <td><pre><code>fromRadians(double angle)</code></pre></td>
-  <td><div class="block">
-  Creates a new angle object based on the supplied angle value in radians.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getDegrees()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Angle`](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromDegrees(double angle)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates a new angle object based on the supplied angle value in
+  degrees.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Angle`](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromRadians(double angle)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates a new angle object based on the supplied angle value in
+  radians.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDegrees()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the value of this angle in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getRadians()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRadians()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the value of this angle in radians.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -155,9 +206,11 @@ Represents an angle independent of the unit of measurement.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="fromDegrees(double)" class="section detail">
+  - <div id="sdk-for-android-explore-fromDegrees(double)"
+    class="section detail">
 
     ### fromDegrees
 
@@ -186,7 +239,8 @@ Represents an angle independent of the unit of measurement.
 
     </div>
 
-  - <div id="fromRadians(double)" class="section detail">
+  - <div id="sdk-for-android-explore-fromRadians(double)"
+    class="section detail">
 
     ### fromRadians
 
@@ -215,7 +269,8 @@ Represents an angle independent of the unit of measurement.
 
     </div>
 
-  - <div id="getDegrees()" class="section detail">
+  - <div id="sdk-for-android-explore-getDegrees()"
+    class="section detail">
 
     ### getDegrees
 
@@ -236,7 +291,8 @@ Represents an angle independent of the unit of measurement.
 
     </div>
 
-  - <div id="getRadians()" class="section detail">
+  - <div id="sdk-for-android-explore-getRadians()"
+    class="section detail">
 
     ### getRadians
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.Color
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -47,113 +48,248 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>float</code></td>
-  <td><pre><code>alpha()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>float</code></td>
-  <td><pre><code>blue()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>float</code></td>
-  <td><pre><code>green()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>float</code></td>
-  <td><pre><code>red()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>toArgb()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `float`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      alpha()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `float`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      blue()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `float`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      green()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `float`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      red()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toArgb()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Converts this color to an ARGB color int.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>toString()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>valueOf(float red,
-   float green,
-   float blue)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      toString()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(float red,
+       float green,
+       float blue)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a new opaque color from individual RGB components.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>valueOf(float red,
-   float green,
-   float blue,
-   float alpha)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(float red,
+       float green,
+       float blue,
+       float alpha)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a new color from individual RGBA components.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>valueOf(int color)</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(int color)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -199,9 +335,11 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="valueOf(float,float,float)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(float,float,float)"
+    class="section detail">
 
     ### valueOf
 
@@ -238,7 +376,8 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="valueOf(float,float,float,float)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(float,float,float,float)"
+    class="section detail">
 
     ### valueOf
 
@@ -279,7 +418,8 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="valueOf(int)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(int)"
+    class="section detail">
 
     ### valueOf
 
@@ -300,7 +440,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="red()" class="section detail">
+  - <div id="sdk-for-android-explore-red()" class="section detail">
 
     ### red
 
@@ -315,7 +455,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="green()" class="section detail">
+  - <div id="sdk-for-android-explore-green()" class="section detail">
 
     ### green
 
@@ -330,7 +470,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="blue()" class="section detail">
+  - <div id="sdk-for-android-explore-blue()" class="section detail">
 
     ### blue
 
@@ -345,7 +485,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="alpha()" class="section detail">
+  - <div id="sdk-for-android-explore-alpha()" class="section detail">
 
     ### alpha
 
@@ -360,7 +500,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="toArgb()" class="section detail">
+  - <div id="sdk-for-android-explore-toArgb()" class="section detail">
 
     ### toArgb
 
@@ -382,7 +522,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="toString()" class="section detail">
+  - <div id="sdk-for-android-explore-toString()" class="section detail">
 
     ### toString
 
@@ -407,7 +547,8 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -431,7 +572,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

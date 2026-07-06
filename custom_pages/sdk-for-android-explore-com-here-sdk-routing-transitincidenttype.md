@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincidenttype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TransitIncidentType>com.here.sdk.routing.TransitIncidentType
+java.lang.Enum\<TransitIncidentType\>com.here.sdk.routing.TransitIncidentType
 → java.lang.Enum → TransitIncidentType →
 com.here.sdk.routing.TransitIncidentType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TransitIncidentType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ Transit incident type.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ Transit incident type.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,153 +86,273 @@ Transit incident type.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#ACCIDENT"
-  class="member-name-link"><code>ACCIDENT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ACCIDENT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Accident
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#CONSTRUCTION"
-  class="member-name-link"><code>CONSTRUCTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CONSTRUCTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Construction
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#DEMONSTRATION"
-  class="member-name-link"><code>DEMONSTRATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DEMONSTRATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Demostration
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#HOLIDAY"
-  class="member-name-link"><code>HOLIDAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HOLIDAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Holiday
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#MAINTENANCE"
-  class="member-name-link"><code>MAINTENANCE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MAINTENANCE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Maintenance
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#MEDICAL_EMERGENCY"
-  class="member-name-link"><code>MEDICAL_EMERGENCY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MEDICAL_EMERGENCY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Medical emergency
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#POLICE_ACTIVITY"
-  class="member-name-link"><code>POLICE_ACTIVITY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POLICE_ACTIVITY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Police activity
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#STRIKE"
-  class="member-name-link"><code>STRIKE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>STRIKE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Strike
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#TECHNICAL_PROBLEM"
-  class="member-name-link"><code>TECHNICAL_PROBLEM</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TECHNICAL_PROBLEM</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Technical problem.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype#WEATHER"
-  class="member-name-link"><code>WEATHER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>WEATHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Weather
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype"
-  title="enum class in com.here.sdk.routing"><code>TransitIncidentType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransitIncidentType`](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype"
-  title="enum class in com.here.sdk.routing"><code>TransitIncidentType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransitIncidentType`](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -312,9 +435,11 @@ Transit incident type.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="TECHNICAL_PROBLEM" class="section detail">
+  - <div id="sdk-for-android-explore-TECHNICAL_PROBLEM"
+    class="section detail">
 
     ### TECHNICAL_PROBLEM
 
@@ -333,7 +458,7 @@ Transit incident type.
 
     </div>
 
-  - <div id="STRIKE" class="section detail">
+  - <div id="sdk-for-android-explore-STRIKE" class="section detail">
 
     ### STRIKE
 
@@ -352,7 +477,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="DEMONSTRATION" class="section detail">
+  - <div id="sdk-for-android-explore-DEMONSTRATION"
+    class="section detail">
 
     ### DEMONSTRATION
 
@@ -371,7 +497,7 @@ Transit incident type.
 
     </div>
 
-  - <div id="ACCIDENT" class="section detail">
+  - <div id="sdk-for-android-explore-ACCIDENT" class="section detail">
 
     ### ACCIDENT
 
@@ -390,7 +516,7 @@ Transit incident type.
 
     </div>
 
-  - <div id="HOLIDAY" class="section detail">
+  - <div id="sdk-for-android-explore-HOLIDAY" class="section detail">
 
     ### HOLIDAY
 
@@ -409,7 +535,7 @@ Transit incident type.
 
     </div>
 
-  - <div id="WEATHER" class="section detail">
+  - <div id="sdk-for-android-explore-WEATHER" class="section detail">
 
     ### WEATHER
 
@@ -428,7 +554,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="MAINTENANCE" class="section detail">
+  - <div id="sdk-for-android-explore-MAINTENANCE"
+    class="section detail">
 
     ### MAINTENANCE
 
@@ -447,7 +574,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="CONSTRUCTION" class="section detail">
+  - <div id="sdk-for-android-explore-CONSTRUCTION"
+    class="section detail">
 
     ### CONSTRUCTION
 
@@ -466,7 +594,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="POLICE_ACTIVITY" class="section detail">
+  - <div id="sdk-for-android-explore-POLICE_ACTIVITY"
+    class="section detail">
 
     ### POLICE_ACTIVITY
 
@@ -485,7 +614,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="MEDICAL_EMERGENCY" class="section detail">
+  - <div id="sdk-for-android-explore-MEDICAL_EMERGENCY"
+    class="section detail">
 
     ### MEDICAL_EMERGENCY
 
@@ -506,9 +636,10 @@ Transit incident type.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -532,7 +663,8 @@ Transit incident type.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

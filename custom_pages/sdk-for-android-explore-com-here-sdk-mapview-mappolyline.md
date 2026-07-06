@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapPolyline
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ component of GeoPolyline 's vertices is ignored.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -47,79 +49,160 @@ component of GeoPolyline 's vertices is ignored.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapPolyline.DashImageRepresentation</code></a></td>
-  <td><div class="block">
-  Represents a dash pattern for the map polyline consisting of images
-  rendered with certain gaps from each other.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapPolyline.DashRepresentation</code></a></td>
-  <td><div class="block">
-  Represents a dash pattern for map polyline where the dash can be
-  rendered as a colored line and the gap can be either empty or colored.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a></td>
-  <td><div class="block">
-  Base class to represent the visual appearance of a MapPolyline .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidMultiColorRepresentation</code></a></td>
-  <td><div class="block">
-  Representation allows map polyline to be colored in multiple specified
-  color segments.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidRepresentation</code></a></td>
-  <td><div class="block">
-  Representation for a solid line without outline.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.DashImageRepresentation</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents a dash pattern for the map polyline consisting of images
+  rendered with certain gaps from each other.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.DashRepresentation</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents a dash pattern for map polyline where the dash can be
+  rendered as a colored line and the gap can be either empty or colored.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Base class to represent the visual appearance of a MapPolyline .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidMultiColorRepresentation</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Representation allows map polyline to be colored in multiple specified
+  color segments.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidRepresentation</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Representation for a solid line without outline.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -127,245 +210,583 @@ component of GeoPolyline 's vertices is ignored.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapPolyline(GeoPolyline geometry,
-   MapPolyline.Representation representation)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapPolyline(GeoPolyline geometry,
+       MapPolyline.Representation representation)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new MapPolyline instance with a specified visual
   representation.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>cancelAnimation(MapPolylineAnimation animation)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      cancelAnimation(MapPolylineAnimation animation)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Cancels single ongoing animation of this map polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getDrawOrder()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDrawOrder()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the draw order of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype"
-  title="enum class in com.here.sdk.mapview"><code>DrawOrderType</code></a></td>
-  <td><pre><code>getDrawOrderType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DrawOrderType`](sdk-for-android-explore-com-here-sdk-mapview-drawordertype "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDrawOrderType()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the draw order type of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline"
-  title="class in com.here.sdk.core"><code>GeoPolyline</code></a></td>
-  <td><pre><code>getGeometry()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeometry()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the geometry of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory"
-  title="enum class in com.here.sdk.mapview"><code>MapContentCategory</code></a><code>&gt;</code></td>
-  <td><pre><code>getMapContentCategoriesToBlock()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapContentCategory`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMapContentCategoriesToBlock()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets list of map content categories this polyline should block.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadata"
-  title="class in com.here.sdk.core"><code>Metadata</code></a></td>
-  <td><pre><code>getMetadata()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMetadata()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the Metadata instance attached to this polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getProgress()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProgress()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the progress of the polyline, 0 by default.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getProgressColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProgressColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the progress color of the polyline, opaque white by default.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getProgressGradientLength()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProgressGradientLength()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the maximum gradient length between MapPolyline.lineColor' and
   'MapPolyline.progressColor in zoom level dependent pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getProgressOutlineColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProgressOutlineColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the progress outline color of the polyline, opaque white by
   default.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a><code>&gt;</code></td>
-  <td><pre><code>getVisibilityRanges()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVisibilityRanges()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of visibility ranges.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDrawOrder(int value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDrawOrder(int value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the draw order of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDrawOrderType(DrawOrderType value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDrawOrderType(DrawOrderType value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the draw order type of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setGeometry(GeoPolyline value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setGeometry(GeoPolyline value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the geometry of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMapContentCategoriesToBlock(List&lt;MapContentCategory&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMapContentCategoriesToBlock(List<MapContentCategory> value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets list of map content categories this polyline should block.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMetadata(Metadata value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMetadata(Metadata value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the Metadata instance attached to this polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setProgress(double value)</code></pre></td>
-  <td><div class="block">
-  Sets the progress of the polyline from its starting point as a ratio of
-  its total length clamped to the range [0; 1].
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setProgressColor(Color value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProgress(double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the progress of the polyline from its starting point as a ratio
+  of its total length clamped to the range \[0; 1\].
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProgressColor(Color value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the progress color of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setProgressGradientLength(MapMeasureDependentRenderSize value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProgressGradientLength(MapMeasureDependentRenderSize value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the maximum gradient length between MapPolyline.lineColor' and
   'MapPolyline.progressColor in zoom level dependent pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setProgressOutlineColor(Color value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProgressOutlineColor(Color value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the progress outline color of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setRepresentation(MapPolyline.Representation representation)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setRepresentation(MapPolyline.Representation representation)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Changes the appearance of the MapPolyline instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setVisibilityRanges(List&lt;MapMeasureRange&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setVisibilityRanges(List<MapMeasureRange> value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets visibility ranges for this map polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>startAnimation(MapPolylineAnimation animation,
-   AnimationListener listener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      startAnimation(MapPolylineAnimation animation,
+       AnimationListener listener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Starts an animation of this map polyline.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -420,9 +841,10 @@ component of GeoPolyline 's vertices is ignored.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)"
     class="section detail">
 
     ### MapPolyline
@@ -461,9 +883,10 @@ component of GeoPolyline 's vertices is ignored.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)"
+  - <div id="sdk-for-android-explore-setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)"
     class="section detail">
 
     ### setRepresentation
@@ -488,7 +911,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)"
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -524,7 +947,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)"
+  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -552,7 +975,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getGeometry()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeometry()"
+    class="section detail">
 
     ### getGeometry
 
@@ -574,7 +998,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setGeometry(com.here.sdk.core.GeoPolyline)"
+  - <div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolyline)"
     class="section detail">
 
     ### setGeometry
@@ -600,7 +1024,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getMetadata()" class="section detail">
+  - <div id="sdk-for-android-explore-getMetadata()"
+    class="section detail">
 
     ### getMetadata
 
@@ -623,7 +1048,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setMetadata(com.here.sdk.core.Metadata)"
+  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -648,7 +1073,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getDrawOrder()" class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder()"
+    class="section detail">
 
     ### getDrawOrder
 
@@ -669,7 +1095,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setDrawOrder(int)" class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+    class="section detail">
 
     ### setDrawOrder
 
@@ -696,7 +1123,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getDrawOrderType()" class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrderType()"
+    class="section detail">
 
     ### getDrawOrderType
 
@@ -719,7 +1147,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setDrawOrderType(com.here.sdk.mapview.DrawOrderType)"
+  - <div id="sdk-for-android-explore-setDrawOrderType(com.here.sdk.mapview.DrawOrderType)"
     class="section detail">
 
     ### setDrawOrderType
@@ -759,7 +1187,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getVisibilityRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+    class="section detail">
 
     ### getVisibilityRanges
 
@@ -768,7 +1197,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -786,7 +1215,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setVisibilityRanges(java.util.List)"
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -796,7 +1225,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
@@ -821,7 +1250,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getProgress()" class="section detail">
+  - <div id="sdk-for-android-explore-getProgress()"
+    class="section detail">
 
     ### getProgress
 
@@ -843,7 +1273,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setProgress(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setProgress(double)"
+    class="section detail">
 
     ### setProgress
 
@@ -872,7 +1303,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getProgressColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getProgressColor()"
+    class="section detail">
 
     ### getProgressColor
 
@@ -894,7 +1326,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setProgressColor(com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-setProgressColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setProgressColor
@@ -919,7 +1351,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getProgressOutlineColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getProgressOutlineColor()"
+    class="section detail">
 
     ### getProgressOutlineColor
 
@@ -942,7 +1375,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setProgressOutlineColor(com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-setProgressOutlineColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setProgressOutlineColor
@@ -967,7 +1400,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getProgressGradientLength()" class="section detail">
+  - <div id="sdk-for-android-explore-getProgressGradientLength()"
+    class="section detail">
 
     ### getProgressGradientLength
 
@@ -992,7 +1426,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)"
+  - <div id="sdk-for-android-explore-setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)"
     class="section detail">
 
     ### setProgressGradientLength
@@ -1030,7 +1464,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getMapContentCategoriesToBlock()" class="section detail">
+  - <div id="sdk-for-android-explore-getMapContentCategoriesToBlock()"
+    class="section detail">
 
     ### getMapContentCategoriesToBlock
 
@@ -1039,7 +1474,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
 
     </div>
 
@@ -1056,7 +1491,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setMapContentCategoriesToBlock(java.util.List)"
+  - <div id="sdk-for-android-explore-setMapContentCategoriesToBlock(java.util.List)"
     class="section detail">
 
     ### setMapContentCategoriesToBlock
@@ -1066,7 +1501,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 

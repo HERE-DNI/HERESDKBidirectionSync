@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Known Implementing Classes:  
 [`MapSurface`](sdk-for-android-explore-com-here-sdk-mapview-mapsurface "class in com.here.sdk.mapview"),
@@ -32,7 +33,8 @@ Represents the available public API from MapView .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -40,197 +42,456 @@ Represents the available public API from MapView .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Interface</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Interface
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
   class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapViewBase.MapPickCallback</code></a></td>
-  <td><div class="block">
+  title="interface in com.here.sdk.mapview"><code>MapViewBase.MapPickCallback</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Callback for a pick request.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Abstract Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addLifecycleListener(MapViewLifecycleListener lifecycleListener)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      addLifecycleListener(MapViewLifecycleListener lifecycleListener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Adds a MapViewLifecycleListener to this map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-point2d"
-  title="class in com.here.sdk.core"><code>Point2D</code></a></td>
-  <td><pre><code>geoToViewCoordinates(GeoCoordinates geoCoordinates)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      geoToViewCoordinates(GeoCoordinates geoCoordinates)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Converts geographical coordinates to view coordinates (in pixels).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera"
-  title="class in com.here.sdk.mapview"><code>MapCamera</code></a></td>
-  <td><pre><code>getCamera()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`MapCamera`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getCamera()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the camera to control the view for the map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getFrameRate()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getFrameRate()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets maximum render frame rate in frames per second.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-gestures-gestures"
-  title="class in com.here.sdk.gestures"><code>Gestures</code></a></td>
-  <td><pre><code>getGestures()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`Gestures`](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getGestures()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the gestures control object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-heremap"
-  title="class in com.here.sdk.mapview"><code>HereMap</code></a></td>
-  <td><pre><code>getHereMap()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`HereMap`](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getHereMap()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the HereMap associated with this map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext"
-  title="class in com.here.sdk.mapview"><code>MapContext</code></a></td>
-  <td><pre><code>getMapContext()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`MapContext`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getMapContext()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the map context associated with this map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene"
-  title="class in com.here.sdk.mapview"><code>MapScene</code></a></td>
-  <td><pre><code>getMapScene()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`MapScene`](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getMapScene()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the map scene associated with this map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getPixelScale()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getPixelScale()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the pixel scale factor used by this MapView .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-size2d"
-  title="class in com.here.sdk.core"><code>Size2D</code></a></td>
-  <td><pre><code>getViewportSize()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getViewportSize()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the size of this map view in physical pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-size2d"
-  title="class in com.here.sdk.core"><code>Size2D</code></a></td>
-  <td><pre><code>getWatermarkSize()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getWatermarkSize()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns the watermark size in physical pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isValid()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      isValid()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns true if this instance is valid, false otherwise.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>pick(MapScene.MapPickFilter filter,
-   Rectangle2D viewArea,
-   MapViewBase.MapPickCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      pick(MapScene.MapPickFilter filter,
+       Rectangle2D viewArea,
+       MapViewBase.MapPickCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns all map content located inside the specified pick area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeLifecycleListener(MapViewLifecycleListener lifecycleListener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      removeLifecycleListener(MapViewLifecycleListener lifecycleListener)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Removes a MapViewLifecycleListener from this map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setFrameRate(int value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setFrameRate(int value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Sets maximum render frame rate in frames per second.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setWatermarkLocation(Anchor2D anchor,
-   Point2D offset)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setWatermarkLocation(Anchor2D anchor,
+       Point2D offset)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Sets the position of the HERE logo watermark within the map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>viewToGeoCoordinates(Point2D viewCoordinates)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      viewToGeoCoordinates(Point2D viewCoordinates)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Converts view coordinates (in pixels) to geographical coordinates.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -242,9 +503,10 @@ Represents the available public API from MapView .
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -283,7 +545,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -321,7 +583,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setWatermarkLocation
@@ -372,7 +634,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+  - <div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### addLifecycleListener
@@ -398,7 +660,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+  - <div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### removeLifecycleListener
@@ -425,7 +687,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+  - <div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
     class="section detail">
 
     ### pick
@@ -470,7 +732,7 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="isValid()" class="section detail">
+  - <div id="sdk-for-android-explore-isValid()" class="section detail">
 
     ### isValid
 
@@ -493,7 +755,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getCamera()" class="section detail">
+  - <div id="sdk-for-android-explore-getCamera()"
+    class="section detail">
 
     ### getCamera
 
@@ -515,7 +778,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getGestures()" class="section detail">
+  - <div id="sdk-for-android-explore-getGestures()"
+    class="section detail">
 
     ### getGestures
 
@@ -537,7 +801,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getMapScene()" class="section detail">
+  - <div id="sdk-for-android-explore-getMapScene()"
+    class="section detail">
 
     ### getMapScene
 
@@ -559,7 +824,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getMapContext()" class="section detail">
+  - <div id="sdk-for-android-explore-getMapContext()"
+    class="section detail">
 
     ### getMapContext
 
@@ -581,7 +847,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getHereMap()" class="section detail">
+  - <div id="sdk-for-android-explore-getHereMap()"
+    class="section detail">
 
     ### getHereMap
 
@@ -603,7 +870,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getViewportSize()" class="section detail">
+  - <div id="sdk-for-android-explore-getViewportSize()"
+    class="section detail">
 
     ### getViewportSize
 
@@ -628,7 +896,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getFrameRate()" class="section detail">
+  - <div id="sdk-for-android-explore-getFrameRate()"
+    class="section detail">
 
     ### getFrameRate
 
@@ -649,7 +918,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="setFrameRate(int)" class="section detail">
+  - <div id="sdk-for-android-explore-setFrameRate(int)"
+    class="section detail">
 
     ### setFrameRate
 
@@ -674,7 +944,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getPixelScale()" class="section detail">
+  - <div id="sdk-for-android-explore-getPixelScale()"
+    class="section detail">
 
     ### getPixelScale
 
@@ -701,7 +972,8 @@ Represents the available public API from MapView .
 
     </div>
 
-  - <div id="getWatermarkSize()" class="section detail">
+  - <div id="sdk-for-android-explore-getWatermarkSize()"
+    class="section detail">
 
     ### getWatermarkSize
 

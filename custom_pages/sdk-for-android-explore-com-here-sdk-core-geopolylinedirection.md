@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolylinedirection"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<GeoPolylineDirection>com.here.sdk.core.GeoPolylineDirection
+java.lang.Enum\<GeoPolylineDirection\>com.here.sdk.core.GeoPolylineDirection
 → java.lang.Enum → GeoPolylineDirection →
 com.here.sdk.core.GeoPolylineDirection
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">GeoPolylineDirection</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[GeoPolylineDirection](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[GeoPolylineDirection](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core")\></span>
 
 </div>
 
@@ -54,7 +55,8 @@ from the beginning or from the end of GeoPolyline.vertices .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -76,7 +78,8 @@ from the beginning or from the end of GeoPolyline.vertices .
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -84,89 +87,131 @@ from the beginning or from the end of GeoPolyline.vertices .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection#FROM_BEGINNING"
-  class="member-name-link"><code>FROM_BEGINNING</code></a></td>
-  <td><div class="block">
-  Identifies that the operation is from the first vertex to the last one.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>FROM_BEGINNING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Identifies that the operation is from the first vertex to the last
+  one.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection#FROM_END"
-  class="member-name-link"><code>FROM_END</code></a></td>
-  <td><div class="block">
-  Identifies that the operation is from the last vertex to the first one.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>FROM_END</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last odd-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  Identifies that the operation is from the last vertex to the first
+  one.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection"
-  title="enum class in com.here.sdk.core"><code>GeoPolylineDirection</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`GeoPolylineDirection`](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection"
-  title="enum class in com.here.sdk.core"><code>GeoPolylineDirection</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`GeoPolylineDirection`](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -249,9 +294,11 @@ from the beginning or from the end of GeoPolyline.vertices .
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="FROM_BEGINNING" class="section detail">
+  - <div id="sdk-for-android-explore-FROM_BEGINNING"
+    class="section detail">
 
     ### FROM_BEGINNING
 
@@ -271,7 +318,7 @@ from the beginning or from the end of GeoPolyline.vertices .
 
     </div>
 
-  - <div id="FROM_END" class="section detail">
+  - <div id="sdk-for-android-explore-FROM_END" class="section detail">
 
     ### FROM_END
 
@@ -293,9 +340,10 @@ from the beginning or from the end of GeoPolyline.vertices .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -319,7 +367,8 @@ from the beginning or from the end of GeoPolyline.vertices .
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapArrow
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -31,7 +32,7 @@ com.here.NativeBase → com.here.sdk.mapview.MapArrow
 
 A visual representation of an arrow on the map. It consists of a tail -
 a polyline with an arbitrary number of points - and a head at its end.
-The map arrows are only visible on zoom levels >= 13. Altitude
+The map arrows are only visible on zoom levels \>= 13. Altitude
 component of GeoPolyline 's vertices is ignored.
 
 </div>
@@ -40,7 +41,8 @@ component of GeoPolyline 's vertices is ignored.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -48,103 +50,163 @@ component of GeoPolyline 's vertices is ignored.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapArrow(GeoPolyline geometry,
-   double widthInPixels,
-   Color color)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapArrow(GeoPolyline geometry,
+       double widthInPixels,
+       Color color)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new MapArrow instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
   class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure"
-  title="class in com.here.sdk.mapview"><code>MapMeasure</code></a><code>,</code><a
+  title="class or interface in java.util"><code>Map</code></a>`<`[`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview")`,`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a><code>&gt;</code></td>
-  <td><pre><code>getMeasureDependentTailWidth()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMeasureDependentTailWidth()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the MapMeasure dependent arrow tail width in pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a><code>&gt;</code></td>
-  <td><pre><code>getVisibilityRanges()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVisibilityRanges()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of visibility ranges.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMeasureDependentTailWidth(Map&lt;MapMeasure,Double&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMeasureDependentTailWidth(Map<MapMeasure,Double> value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the MapMeasure dependent arrow tail width in pixels.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setVisibilityRanges(List&lt;MapMeasureRange&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setVisibilityRanges(List<MapMeasureRange> value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets visibility ranges for this map arrow.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -199,9 +261,10 @@ component of GeoPolyline 's vertices is ignored.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapArrow
@@ -242,9 +305,11 @@ component of GeoPolyline 's vertices is ignored.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getMeasureDependentTailWidth()" class="section detail">
+  - <div id="sdk-for-android-explore-getMeasureDependentTailWidth()"
+    class="section detail">
 
     ### getMeasureDependentTailWidth
 
@@ -253,9 +318,9 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
+    class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">getMeasureDependentTailWidth</span>()
+    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">getMeasureDependentTailWidth</span>()
 
     </div>
 
@@ -279,7 +344,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setMeasureDependentTailWidth(java.util.Map)"
+  - <div id="sdk-for-android-explore-setMeasureDependentTailWidth(java.util.Map)"
     class="section detail">
 
     ### setMeasureDependentTailWidth
@@ -289,9 +354,9 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMeasureDependentTailWidth</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
+    class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> value)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\> value)</span>
 
     </div>
 
@@ -323,7 +388,8 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="getVisibilityRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+    class="section detail">
 
     ### getVisibilityRanges
 
@@ -332,7 +398,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -353,7 +419,7 @@ component of GeoPolyline 's vertices is ignored.
 
     </div>
 
-  - <div id="setVisibilityRanges(java.util.List)"
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -363,7 +429,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 

@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapImageOverlay
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -48,7 +49,8 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -56,134 +58,265 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapImageOverlay(Point2D viewCoordinates,
-   MapImage image)</code></pre></td>
-  <td><div class="block">
-  Creates an instance of an overlay at given view coordinates, represented
-  by specified image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapImageOverlay(Point2D viewCoordinates,
-   MapImage image,
-   Anchor2D anchor)</code></pre></td>
-  <td><div class="block">
-  Creates an instance of an overlay at given view coordinates, represented
-  by specified image, with anchor point specifying how the image is
-  positioned relative to the overlay's view coordinates.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d"
-  title="class in com.here.sdk.core"><code>Anchor2D</code></a></td>
-  <td><pre><code>getAnchor()</code></pre></td>
-  <td><div class="block">
+      MapImageOverlay(Point2D viewCoordinates,
+       MapImage image)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates an instance of an overlay at given view coordinates,
+  represented by specified image.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapImageOverlay(Point2D viewCoordinates,
+       MapImage image,
+       Anchor2D anchor)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates an instance of an overlay at given view coordinates,
+  represented by specified image, with anchor point specifying how the
+  image is positioned relative to the overlay's view coordinates.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAnchor()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets current anchor point for the overlay image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getDrawOrder()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDrawOrder()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets draw order of this MapImageOverlay .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage"
-  title="class in com.here.sdk.mapview"><code>MapImage</code></a></td>
-  <td><pre><code>getImage()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getImage()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets currently used map image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-point2d"
-  title="class in com.here.sdk.core"><code>Point2D</code></a></td>
-  <td><pre><code>getViewCoordinates()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getViewCoordinates()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the view point in pixels on the map viewport where the overlay is
   drawn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAnchor(Anchor2D value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAnchor(Anchor2D value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets anchor point of the overlay image which specifies the position
   offset relative to the overlay's view coordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDrawOrder(int value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDrawOrder(int value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets draw order of this MapImageOverlay .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setImage(MapImage value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setImage(MapImage value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the image overlayed on map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setViewCoordinates(Point2D value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setViewCoordinates(Point2D value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the view point in pixels on the map viewport where the overlay is
   drawn.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -238,9 +371,10 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### MapImageOverlay
@@ -272,7 +406,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### MapImageOverlay
@@ -324,9 +458,11 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getViewCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getViewCoordinates()"
+    class="section detail">
 
     ### getViewCoordinates
 
@@ -350,7 +486,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="setViewCoordinates(com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-setViewCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setViewCoordinates
@@ -377,7 +513,8 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="getDrawOrder()" class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder()"
+    class="section detail">
 
     ### getDrawOrder
 
@@ -398,7 +535,8 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="setDrawOrder(int)" class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+    class="section detail">
 
     ### setDrawOrder
 
@@ -426,7 +564,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="getImage()" class="section detail">
+  - <div id="sdk-for-android-explore-getImage()" class="section detail">
 
     ### getImage
 
@@ -448,7 +586,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="setImage(com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### setImage
@@ -473,7 +611,8 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="getAnchor()" class="section detail">
+  - <div id="sdk-for-android-explore-getAnchor()"
+    class="section detail">
 
     ### getAnchor
 
@@ -496,7 +635,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="setAnchor(com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchor

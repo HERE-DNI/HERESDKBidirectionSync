@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.engine.SDKVersion
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,119 +50,260 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#backendConfig"
-  class="member-name-link"><code>backendConfig</code></a></td>
-  <td><div class="block">
-  Backend config
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#productVariant"
-  class="member-name-link"><code>productVariant</code></a></td>
-  <td><div class="block">
-  Product variant.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionBuild"
-  class="member-name-link"><code>versionBuild</code></a></td>
-  <td><div class="block">
-  Build number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionGeneration"
-  class="member-name-link"><code>versionGeneration</code></a></td>
-  <td><div class="block">
-  Generation number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMajor"
-  class="member-name-link"><code>versionMajor</code></a></td>
-  <td><div class="block">
-  Major version number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMinor"
-  class="member-name-link"><code>versionMinor</code></a></td>
-  <td><div class="block">
-  Minor version number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionName"
-  class="member-name-link"><code>versionName</code></a></td>
-  <td><div class="block">
-  Version information as string.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionPatch"
-  class="member-name-link"><code>versionPatch</code></a></td>
-  <td><div class="block">
-  Patch number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionTag"
-  class="member-name-link"><code>versionTag</code></a></td>
-  <td><div class="block">
-  Version tag.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#backendConfig"
+  class="member-name-link"><code>backendConfig</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Backend config
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#productVariant"
+  class="member-name-link"><code>productVariant</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Product variant.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionBuild"
+  class="member-name-link"><code>versionBuild</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Build number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionGeneration"
+  class="member-name-link"><code>versionGeneration</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Generation number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMajor"
+  class="member-name-link"><code>versionMajor</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Major version number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMinor"
+  class="member-name-link"><code>versionMinor</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Minor version number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionName"
+  class="member-name-link"><code>versionName</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Version information as string.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionPatch"
+  class="member-name-link"><code>versionPatch</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Patch number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionTag"
+  class="member-name-link"><code>versionTag</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Version tag.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -168,78 +311,108 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SDKVersion(String productVariant,
-   String versionName,
-   int versionGeneration,
-   int versionMajor,
-   int versionMinor,
-   int versionPatch,
-   int versionBuild,
-   String versionTag,
-   String backendConfig)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SDKVersion(String productVariant,
+       String versionName,
+       int versionGeneration,
+       int versionMajor,
+       int versionMinor,
+       int versionPatch,
+       int versionBuild,
+       String versionTag,
+       String backendConfig)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new SDK version instance from the provided parameter values.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -288,9 +461,11 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="productVariant" class="section detail">
+  - <div id="sdk-for-android-explore-productVariant"
+    class="section detail">
 
     ### productVariant
 
@@ -311,7 +486,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionName" class="section detail">
+  - <div id="sdk-for-android-explore-versionName"
+    class="section detail">
 
     ### versionName
 
@@ -332,7 +508,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionGeneration" class="section detail">
+  - <div id="sdk-for-android-explore-versionGeneration"
+    class="section detail">
 
     ### versionGeneration
 
@@ -350,7 +527,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionMajor" class="section detail">
+  - <div id="sdk-for-android-explore-versionMajor"
+    class="section detail">
 
     ### versionMajor
 
@@ -368,7 +546,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionMinor" class="section detail">
+  - <div id="sdk-for-android-explore-versionMinor"
+    class="section detail">
 
     ### versionMinor
 
@@ -386,7 +565,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionPatch" class="section detail">
+  - <div id="sdk-for-android-explore-versionPatch"
+    class="section detail">
 
     ### versionPatch
 
@@ -404,7 +584,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionBuild" class="section detail">
+  - <div id="sdk-for-android-explore-versionBuild"
+    class="section detail">
 
     ### versionBuild
 
@@ -422,7 +603,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="versionTag" class="section detail">
+  - <div id="sdk-for-android-explore-versionTag" class="section detail">
 
     ### versionTag
 
@@ -443,7 +624,8 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="backendConfig" class="section detail">
+  - <div id="sdk-for-android-explore-backendConfig"
+    class="section detail">
 
     ### backendConfig
 
@@ -466,9 +648,10 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,java.lang.String,int,int,int,int,int,java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,int,int,int,int,int,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### SDKVersion
@@ -540,9 +723,11 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -566,7 +751,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

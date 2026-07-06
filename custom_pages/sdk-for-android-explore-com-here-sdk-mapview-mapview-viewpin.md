@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
@@ -35,74 +36,140 @@ which only require static images, markers should be used.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d"
-  title="class in com.here.sdk.core"><code>Anchor2D</code></a></td>
-  <td><pre><code>getAnchorPoint()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getAnchorPoint()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets anchor point for this instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getGeoCoordinates()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getGeoCoordinates()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Returns the current GeoCoordinates on the map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAnchorPoint(Anchor2D anchorPoint)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setAnchorPoint(Anchor2D anchorPoint)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Sets an anchor point for this instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setGeoCoordinates(GeoCoordinates geoCoordinates)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setGeoCoordinates(GeoCoordinates geoCoordinates)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Sets the GeoCoordinates on the map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>unpin()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      unpin()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Removes the view from the MapView it was pinned to.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -114,9 +181,10 @@ which only require static images, markers should be used.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="unpin()" class="section detail">
+  - <div id="sdk-for-android-explore-unpin()" class="section detail">
 
     ### unpin
 
@@ -134,7 +202,8 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="getGeoCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getGeoCoordinates()"
+    class="section detail">
 
     ### getGeoCoordinates
 
@@ -155,7 +224,7 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="setGeoCoordinates(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-setGeoCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setGeoCoordinates
@@ -180,7 +249,7 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="setAnchorPoint(com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-setAnchorPoint(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchorPoint
@@ -209,7 +278,8 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="getAnchorPoint()" class="section detail">
+  - <div id="sdk-for-android-explore-getAnchorPoint()"
+    class="section detail">
 
     ### getAnchorPoint
 

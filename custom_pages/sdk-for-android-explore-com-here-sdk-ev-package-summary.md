@@ -11,73 +11,105 @@ package <span class="element-name">com.here.sdk.ev</span>
 
 <div class="section summary">
 
-- <div id="class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table two-column-summary">
 
-  All Classes and Interfaces
-  Classes
-  Enum Classes
+  <div class="table-header col-first">
+
+  Class
 
   </div>
 
-  <div id="class-summary.tabpanel" aria-labelledby="class-summary-tab0"
-  role="tabpanel">
+  <div class="table-header col-last">
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat"
-  title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></td>
-  <td><div class="block">
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVChargingConnectorFormat](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the format of the connector, whether it is a socket or a
   cable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
-  title="class in com.here.sdk.ev">EVChargingConnectorType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingConnectorType](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype "class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents the standardized type of the installed connector.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsecapability"
-  title="enum class in com.here.sdk.ev">EVSECapability</a></td>
-  <td><div class="block">
-  Represents the administrative functionality that an EVSE is capable of.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
-  title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVSECapability](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
+  Represents the administrative functionality that an EVSE is capable
+  of.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the payment support functionality on EVSE for ad-hoc
   customers (without pre-registration).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate"
-  title="enum class in com.here.sdk.ev">EVSEState</a></td>
-  <td><div class="block">
-  Indicates the current short-term status of the EVSE at the time given in
-  the modified property.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
+  Indicates the current short-term status of the EVSE at the time given
+  in the modified property.
+
+  </div>
+
+  </div>
 
   </div>
 

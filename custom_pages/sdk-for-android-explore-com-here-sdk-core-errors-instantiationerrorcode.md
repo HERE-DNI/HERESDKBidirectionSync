@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<InstantiationErrorCode>com.here.sdk.core.errors.InstantiationErrorCode
+java.lang.Enum\<InstantiationErrorCode\>com.here.sdk.core.errors.InstantiationErrorCode
 → java.lang.Enum → InstantiationErrorCode →
 com.here.sdk.core.errors.InstantiationErrorCode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ Instantiation error.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ Instantiation error.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,181 +86,331 @@ Instantiation error.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL"
-  class="member-name-link"><code>ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Access key contains illegal symbols.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL"
-  class="member-name-link"><code>ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Access key secret contains illegal symbols.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#CACHE_FOLDER_ACCESS_DENIED"
-  class="member-name-link"><code>CACHE_FOLDER_ACCESS_DENIED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CACHE_FOLDER_ACCESS_DENIED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Access to the specified cache folder is denied
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#DATA_FOLDER_ACCESS_DENIED"
-  class="member-name-link"><code>DATA_FOLDER_ACCESS_DENIED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DATA_FOLDER_ACCESS_DENIED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Access to the specified data folder is denied
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#FAILED"
-  class="member-name-link"><code>FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Instantiation attempt failed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#FAILED_TO_CREATE_ANALYTICS_SERVICE"
-  class="member-name-link"><code>FAILED_TO_CREATE_ANALYTICS_SERVICE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FAILED_TO_CREATE_ANALYTICS_SERVICE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Analytics service can not be created
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER"
-  class="member-name-link"><code>FAILED_TO_LOCK_CACHE_FOLDER</code></a></td>
-  <td><div class="block">
-  The cache folder for given access key id is locked by other instance of
-  SDKNativeEngine
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>FAILED_TO_LOCK_CACHE_FOLDER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The cache folder for given access key id is locked by other instance
+  of SDKNativeEngine
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#ILLEGAL_ARGUMENTS"
-  class="member-name-link"><code>ILLEGAL_ARGUMENTS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ILLEGAL_ARGUMENTS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Illegal arguments.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#INVALID_CATALOG_CONFIGURATION"
-  class="member-name-link"><code>INVALID_CATALOG_CONFIGURATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_CATALOG_CONFIGURATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   CatalogConfiguration contains invalid parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#LAYER_CONFIGURATION_MISMATCH"
-  class="member-name-link"><code>LAYER_CONFIGURATION_MISMATCH</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LAYER_CONFIGURATION_MISMATCH</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Please check SDKOptions.layerConfiguration against SDK modules
   configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED"
-  class="member-name-link"><code>PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Access to the specified persistent map storage folder is denied
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#SDK_ENGINE_ALREADY_DISPOSED"
-  class="member-name-link"><code>SDK_ENGINE_ALREADY_DISPOSED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SDK_ENGINE_ALREADY_DISPOSED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Instantiation attempt failed because the dispose() method from
   SDKNativeEngine was called already.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#SHARED_SDK_ENGINE_NOT_INSTANTIATED"
-  class="member-name-link"><code>SHARED_SDK_ENGINE_NOT_INSTANTIATED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SHARED_SDK_ENGINE_NOT_INSTANTIATED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Instantiation attempt failed because the shared SDK engine is not
   instantiated.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
-  title="enum class in com.here.sdk.core.errors"><code>InstantiationErrorCode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
-  title="enum class in com.here.sdk.core.errors"><code>InstantiationErrorCode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -340,9 +493,11 @@ Instantiation error.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="ILLEGAL_ARGUMENTS" class="section detail">
+  - <div id="sdk-for-android-explore-ILLEGAL_ARGUMENTS"
+    class="section detail">
 
     ### ILLEGAL_ARGUMENTS
 
@@ -361,7 +516,7 @@ Instantiation error.
 
     </div>
 
-  - <div id="FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-FAILED" class="section detail">
 
     ### FAILED
 
@@ -380,7 +535,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="SHARED_SDK_ENGINE_NOT_INSTANTIATED" class="section detail">
+  - <div id="sdk-for-android-explore-SHARED_SDK_ENGINE_NOT_INSTANTIATED"
+    class="section detail">
 
     ### SHARED_SDK_ENGINE_NOT_INSTANTIATED
 
@@ -400,7 +556,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="CACHE_FOLDER_ACCESS_DENIED" class="section detail">
+  - <div id="sdk-for-android-explore-CACHE_FOLDER_ACCESS_DENIED"
+    class="section detail">
 
     ### CACHE_FOLDER_ACCESS_DENIED
 
@@ -419,7 +576,7 @@ Instantiation error.
 
     </div>
 
-  - <div id="PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED"
+  - <div id="sdk-for-android-explore-PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED"
     class="section detail">
 
     ### PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED
@@ -439,7 +596,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="FAILED_TO_LOCK_CACHE_FOLDER" class="section detail">
+  - <div id="sdk-for-android-explore-FAILED_TO_LOCK_CACHE_FOLDER"
+    class="section detail">
 
     ### FAILED_TO_LOCK_CACHE_FOLDER
 
@@ -459,7 +617,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="FAILED_TO_CREATE_ANALYTICS_SERVICE" class="section detail">
+  - <div id="sdk-for-android-explore-FAILED_TO_CREATE_ANALYTICS_SERVICE"
+    class="section detail">
 
     ### FAILED_TO_CREATE_ANALYTICS_SERVICE
 
@@ -478,7 +637,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL" class="section detail">
+  - <div id="sdk-for-android-explore-ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL"
+    class="section detail">
 
     ### ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL
 
@@ -498,7 +658,7 @@ Instantiation error.
 
     </div>
 
-  - <div id="ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL"
+  - <div id="sdk-for-android-explore-ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL"
     class="section detail">
 
     ### ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL
@@ -519,7 +679,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="LAYER_CONFIGURATION_MISMATCH" class="section detail">
+  - <div id="sdk-for-android-explore-LAYER_CONFIGURATION_MISMATCH"
+    class="section detail">
 
     ### LAYER_CONFIGURATION_MISMATCH
 
@@ -539,7 +700,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="SDK_ENGINE_ALREADY_DISPOSED" class="section detail">
+  - <div id="sdk-for-android-explore-SDK_ENGINE_ALREADY_DISPOSED"
+    class="section detail">
 
     ### SDK_ENGINE_ALREADY_DISPOSED
 
@@ -559,7 +721,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="INVALID_CATALOG_CONFIGURATION" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_CATALOG_CONFIGURATION"
+    class="section detail">
 
     ### INVALID_CATALOG_CONFIGURATION
 
@@ -579,7 +742,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="DATA_FOLDER_ACCESS_DENIED" class="section detail">
+  - <div id="sdk-for-android-explore-DATA_FOLDER_ACCESS_DENIED"
+    class="section detail">
 
     ### DATA_FOLDER_ACCESS_DENIED
 
@@ -600,9 +764,10 @@ Instantiation error.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -626,7 +791,8 @@ Instantiation error.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

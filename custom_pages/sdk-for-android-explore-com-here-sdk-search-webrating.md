@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.WebRating
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Contains information about rating and a url to review.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,54 +47,101 @@ Contains information about rating and a url to review.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-webrating#average"
-  class="member-name-link"><code>average</code></a></td>
-  <td><div class="block">
-  Avarage value of all ratings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-webrating#count"
-  class="member-name-link"><code>count</code></a></td>
-  <td><div class="block">
-  Total number of ratings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-websource"
-  title="class in com.here.sdk.search"><code>WebSource</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-webrating#source"
-  class="member-name-link"><code>source</code></a></td>
-  <td><div class="block">
-  Detailed information about rating.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-webrating#average"
+  class="member-name-link"><code>average</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Avarage value of all ratings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-webrating#count"
+  class="member-name-link"><code>count</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Total number of ratings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`WebSource`](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-webrating#source"
+  class="member-name-link"><code>source</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Detailed information about rating.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -100,78 +149,118 @@ Contains information about rating and a url to review.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>WebRating()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>WebRating(int count,
-   double average,
-   WebSource source)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      WebRating()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      WebRating(int count,
+       double average,
+       WebSource source)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -220,9 +309,10 @@ Contains information about rating and a url to review.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="count" class="section detail">
+  - <div id="sdk-for-android-explore-count" class="section detail">
 
     ### count
 
@@ -240,7 +330,7 @@ Contains information about rating and a url to review.
 
     </div>
 
-  - <div id="average" class="section detail">
+  - <div id="sdk-for-android-explore-average" class="section detail">
 
     ### average
 
@@ -258,7 +348,7 @@ Contains information about rating and a url to review.
 
     </div>
 
-  - <div id="source" class="section detail">
+  - <div id="sdk-for-android-explore-source" class="section detail">
 
     ### source
 
@@ -279,9 +369,10 @@ Contains information about rating and a url to review.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(int,double,com.here.sdk.search.WebSource)"
+  - <div id="sdk-for-android-explore-<init>(int,double,com.here.sdk.search.WebSource)"
     class="section detail">
 
     ### WebRating
@@ -315,7 +406,7 @@ Contains information about rating and a url to review.
 
     </div>
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### WebRating
 
@@ -335,9 +426,11 @@ Contains information about rating and a url to review.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -361,7 +454,7 @@ Contains information about rating and a url to review.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

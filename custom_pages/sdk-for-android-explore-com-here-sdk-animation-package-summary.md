@@ -11,210 +11,365 @@ package <span class="element-name">com.here.sdk.animation</span>
 
 <div class="section summary">
 
-- <div id="class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table two-column-summary">
 
-  All Classes and Interfaces
-  Interfaces
-  Classes
-  Enum Classes
-  Exceptions
+  <div class="table-header col-first">
+
+  Class
 
   </div>
 
-  <div id="class-summary.tabpanel" aria-labelledby="class-summary-tab0"
-  role="tabpanel">
+  <div class="table-header col-last">
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe"
-  title="class in com.here.sdk.animation">Anchor2DKeyframe</a></td>
-  <td><div class="block">
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   An Anchor2D keyframe.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-animationlistener"
-  title="interface in com.here.sdk.animation">AnimationListener</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [AnimationListener](sdk-for-android-explore-com-here-sdk-animation-animationlistener "interface in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   A listener for animation events.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-animationstate"
-  title="enum class in com.here.sdk.animation">AnimationState</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [AnimationState](sdk-for-android-explore-com-here-sdk-animation-animationstate "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Describes the possible states of an animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-animation-easing"
-  title="class in com.here.sdk.animation">Easing</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Animation easing representing an easing function to be used during
   animations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [Easing.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Describes a reason for failing to create an Easing .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception"
-  title="class in com.here.sdk.animation">Easing.InstantiationException</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab5">
+
+  [Easing.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
   Thrown when a problem occurs while trying to create an Easing .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easingfunction"
-  title="enum class in com.here.sdk.animation">EasingFunction</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Animation easing functions.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe"
-  title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation
   duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe"
-  title="class in com.here.sdk.animation">GeoOrientationKeyframe</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   A GeoOrientationKeyframe consists of a GeoOrientation (camera
   orientation) and an animation duration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode"
-  title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [KeyframeInterpolationMode](sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies type of interpolation performed between keyframes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack"
-  title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Stores keyframes for interpolation of a map item property using a
   specific easing function and interpolation mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [MapItemKeyFrameTrack.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Describes a reason for failing to create a MapItemKeyFrameTrack .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception"
-  title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></td>
-  <td><div class="block">
-  Thrown when a problem occurs while trying to create MapItemKeyFrameTrack
-  .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation"
-  title="class in com.here.sdk.animation">MapMarkerAnimation</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab5">
+
+  [MapItemKeyFrameTrack.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
+  Thrown when a problem occurs while trying to create
+  MapItemKeyFrameTrack .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [MapMarkerAnimation](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   An animation that can be applied to the MapMarker object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [MapMarkerAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Describes a reason for failing to create a MapMarkerAnimation .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception"
-  title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></td>
-  <td><div class="block">
-  Thrown when a problem occurs while trying to create a MapMarkerAnimation
-  .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation"
-  title="class in com.here.sdk.animation">MapPolylineAnimation</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab5">
+
+  [MapMarkerAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
+  Thrown when a problem occurs while trying to create a
+  MapMarkerAnimation .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [MapPolylineAnimation](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   An animation that can be applied to the MapPolyline object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Describes a reason for failing to create a MapPolylineAnimation .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception"
-  title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab5">
+
+  [MapPolylineAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
   Thrown when a problem occurs while trying to create a
   MapPolylineAnimation .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe"
-  title="class in com.here.sdk.animation">Point2DKeyframe</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   A Point2D keyframe.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
-  title="class in com.here.sdk.animation">ScalarKeyframe</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   A ScalarKeyframe consists of a scalar value (e.g,: distance in meters)
   and an animation duration.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 

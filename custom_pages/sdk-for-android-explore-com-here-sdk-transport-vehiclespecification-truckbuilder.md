@@ -18,7 +18,8 @@ com.here.sdk.transport.VehicleSpecification.TruckBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
@@ -42,7 +43,8 @@ This class constructs a VehicleSpecification for a truck.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -50,268 +52,572 @@ This class constructs a VehicleSpecification for a truck.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TruckBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TruckBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance of this class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
-  Builds the VehicleSpecification object for TransportMode.TRUCK with the
-  specifications taken from the VehicleSpecification.TruckBuilder object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withAxleCount(int axleCount)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Builds the VehicleSpecification object for TransportMode.TRUCK with
+  the specifications taken from the VehicleSpecification.TruckBuilder
+  object.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withAxleCount(int axleCount)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle axle count.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withCurrentWeightInKilograms(int currentWeightInKilograms)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withCurrentWeightInKilograms(int currentWeightInKilograms)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle current weight in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withEmptyWeightInKilograms(int emptyWeightInKilograms)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withEmptyWeightInKilograms(int emptyWeightInKilograms)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle empty weight in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withEngineSizeInCubicCentimeters(int engineSizeInCubicCentimeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withEngineSizeInCubicCentimeters(int engineSizeInCubicCentimeters)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle engine size in cubic centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withGrossWeightInKilograms(int grossWeightInKilograms)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withGrossWeightInKilograms(int grossWeightInKilograms)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle gross weight in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withHazardousMaterials(List&lt;HazardousMaterial&gt; hazardousMaterials)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withHazardousMaterials(List<HazardousMaterial> hazardousMaterials)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the hazardous materials transported in the vehicle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withHeightInCentimeters(int heightInCentimeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withHeightInCentimeters(int heightInCentimeters)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle height in centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withIsCommercial(boolean isCommercial)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withIsCommercial(boolean isCommercial)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle is commercial flag.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withIsTruckLight(boolean isTruckLight)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withIsTruckLight(boolean isTruckLight)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle truck light flag.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withKingpinToRearAxleDistanceInCentimeters(int length)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withKingpinToRearAxleDistanceInCentimeters(int length)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle kingpin to rear axle distance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withLastCharacterOfLicensePlate(String lastCharacterOfLicensePlate)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withLastCharacterOfLicensePlate(String lastCharacterOfLicensePlate)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle last character of the license plate.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withLengthInCentimeters(int lengthInCentimeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withLengthInCentimeters(int lengthInCentimeters)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle length in centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withOccupancy(int occupancy)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withOccupancy(int occupancy)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle occupants number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withPayloadCapacityInKilograms(int payloadCapacityInKilograms)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withPayloadCapacityInKilograms(int payloadCapacityInKilograms)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle payload capacity in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withTiresCount(int tiresCount)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withTiresCount(int tiresCount)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle tires count.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withTrailerAxleCount(int trailerAxleCount)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withTrailerAxleCount(int trailerAxleCount)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle trailer axle count.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withTrailerCount(int trailerCount)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withTrailerCount(int trailerCount)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle trailer count.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withTruckCategory(TruckCategory truckCategory)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withTruckCategory(TruckCategory truckCategory)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle truck category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withTunnelCategory(TunnelCategory tunnelCategory)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withTunnelCategory(TunnelCategory tunnelCategory)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle tunnel category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withWeightPerAxleGroup(WeightPerAxleGroup weightPerAxleGroup)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withWeightPerAxleGroup(WeightPerAxleGroup weightPerAxleGroup)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle weight per axle group.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withWeightPerAxleInKilograms(int weightPerAxleInKilograms)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withWeightPerAxleInKilograms(int weightPerAxleInKilograms)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle weight per axle in kilograms.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a></td>
-  <td><pre><code>withWidthInCentimeters(int widthInCentimeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.TruckBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withWidthInCentimeters(int widthInCentimeters)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle width in centimeters.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -366,9 +672,10 @@ This class constructs a VehicleSpecification for a truck.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TruckBuilder
 
@@ -388,9 +695,11 @@ This class constructs a VehicleSpecification for a truck.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withHeightInCentimeters(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withHeightInCentimeters(int)"
+    class="section detail">
 
     ### withHeightInCentimeters
 
@@ -419,7 +728,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withWidthInCentimeters(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withWidthInCentimeters(int)"
+    class="section detail">
 
     ### withWidthInCentimeters
 
@@ -448,7 +758,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withLengthInCentimeters(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withLengthInCentimeters(int)"
+    class="section detail">
 
     ### withLengthInCentimeters
 
@@ -477,7 +788,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withAxleCount(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withAxleCount(int)"
+    class="section detail">
 
     ### withAxleCount
 
@@ -506,7 +818,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withKingpinToRearAxleDistanceInCentimeters(int)"
+  - <div id="sdk-for-android-explore-withKingpinToRearAxleDistanceInCentimeters(int)"
     class="section detail">
 
     ### withKingpinToRearAxleDistanceInCentimeters
@@ -536,7 +848,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withTrailerCount(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withTrailerCount(int)"
+    class="section detail">
 
     ### withTrailerCount
 
@@ -565,7 +878,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withTruckCategory(com.here.sdk.transport.TruckCategory)"
+  - <div id="sdk-for-android-explore-withTruckCategory(com.here.sdk.transport.TruckCategory)"
     class="section detail">
 
     ### withTruckCategory
@@ -596,7 +909,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withIsTruckLight(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-withIsTruckLight(boolean)"
+    class="section detail">
 
     ### withIsTruckLight
 
@@ -625,7 +939,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withPayloadCapacityInKilograms(int)"
+  - <div id="sdk-for-android-explore-withPayloadCapacityInKilograms(int)"
     class="section detail">
 
     ### withPayloadCapacityInKilograms
@@ -655,7 +969,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withTrailerAxleCount(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withTrailerAxleCount(int)"
+    class="section detail">
 
     ### withTrailerAxleCount
 
@@ -684,7 +999,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withGrossWeightInKilograms(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withGrossWeightInKilograms(int)"
+    class="section detail">
 
     ### withGrossWeightInKilograms
 
@@ -713,7 +1029,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withCurrentWeightInKilograms(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withCurrentWeightInKilograms(int)"
+    class="section detail">
 
     ### withCurrentWeightInKilograms
 
@@ -742,7 +1059,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withEmptyWeightInKilograms(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withEmptyWeightInKilograms(int)"
+    class="section detail">
 
     ### withEmptyWeightInKilograms
 
@@ -771,7 +1089,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withWeightPerAxleInKilograms(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withWeightPerAxleInKilograms(int)"
+    class="section detail">
 
     ### withWeightPerAxleInKilograms
 
@@ -800,7 +1119,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)"
+  - <div id="sdk-for-android-explore-withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)"
     class="section detail">
 
     ### withWeightPerAxleGroup
@@ -831,7 +1150,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withIsCommercial(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-withIsCommercial(boolean)"
+    class="section detail">
 
     ### withIsCommercial
 
@@ -860,7 +1180,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withLastCharacterOfLicensePlate(java.lang.String)"
+  - <div id="sdk-for-android-explore-withLastCharacterOfLicensePlate(java.lang.String)"
     class="section detail">
 
     ### withLastCharacterOfLicensePlate
@@ -894,7 +1214,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withEngineSizeInCubicCentimeters(int)"
+  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
     class="section detail">
 
     ### withEngineSizeInCubicCentimeters
@@ -924,7 +1244,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withTiresCount(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withTiresCount(int)"
+    class="section detail">
 
     ### withTiresCount
 
@@ -953,7 +1274,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withTunnelCategory(com.here.sdk.transport.TunnelCategory)"
+  - <div id="sdk-for-android-explore-withTunnelCategory(com.here.sdk.transport.TunnelCategory)"
     class="section detail">
 
     ### withTunnelCategory
@@ -984,7 +1305,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withHazardousMaterials(java.util.List)"
+  - <div id="sdk-for-android-explore-withHazardousMaterials(java.util.List)"
     class="section detail">
 
     ### withHazardousMaterials
@@ -995,7 +1316,7 @@ This class constructs a VehicleSpecification for a truck.
     </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TruckBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withHazardousMaterials</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")> hazardousMaterials)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\> hazardousMaterials)</span>
 
     </div>
 
@@ -1018,7 +1339,8 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="withOccupancy(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withOccupancy(int)"
+    class="section detail">
 
     ### withOccupancy
 
@@ -1047,7 +1369,7 @@ This class constructs a VehicleSpecification for a truck.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

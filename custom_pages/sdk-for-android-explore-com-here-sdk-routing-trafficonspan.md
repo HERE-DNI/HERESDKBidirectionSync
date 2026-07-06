@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.TrafficOnSpan
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Traffic information of a span along a route.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,122 +47,261 @@ Traffic information of a span along a route.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#baseSpeedInMetersPerSecond"
-  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  The speed, in meters per second, without taking traffic into
-  consideration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#consumptionInKilowattHours"
-  class="member-name-link"><code>consumptionInKilowattHours</code></a></td>
-  <td><div class="block">
-  The power consumption in kilowatt-hours (kWh) necessary to traverse the
-  span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#duration"
-  class="member-name-link"><code>duration</code></a></td>
-  <td><div class="block">
-  The time duration necessary to traverse the traffic span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#incidentIndices"
-  class="member-name-link"><code>incidentIndices</code></a></td>
-  <td><div class="block">
-  The indices of traffic incidents from the field
-  TrafficOnSection.trafficIncidents .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#jamFactor"
-  class="member-name-link"><code>jamFactor</code></a></td>
-  <td><div class="block">
-  The traffic jam factor shows the traffic condition in a numeric way.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#lengthInMeters"
-  class="member-name-link"><code>lengthInMeters</code></a></td>
-  <td><div class="block">
-  Length of the traffic span, in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficDelay"
-  class="member-name-link"><code>trafficDelay</code></a></td>
-  <td><div class="block">
-  The estimated extra time in seconds spent due to traffic delays along
-  this traffic span.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficSectionPolylineOffset"
-  class="member-name-link"><code>trafficSectionPolylineOffset</code></a></td>
-  <td><div class="block">
-  Index over TrafficOnSection.geometry where this span starts.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficSpeedInMetersPerSecond"
-  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  The speed, in meters per second, considering traffic.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#baseSpeedInMetersPerSecond"
+  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The speed, in meters per second, without taking traffic into
+  consideration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#consumptionInKilowattHours"
+  class="member-name-link"><code>consumptionInKilowattHours</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The power consumption in kilowatt-hours (kWh) necessary to traverse
+  the span.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#duration"
+  class="member-name-link"><code>duration</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The time duration necessary to traverse the traffic span.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#incidentIndices"
+  class="member-name-link"><code>incidentIndices</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The indices of traffic incidents from the field
+  TrafficOnSection.trafficIncidents .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#jamFactor"
+  class="member-name-link"><code>jamFactor</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The traffic jam factor shows the traffic condition in a numeric way.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#lengthInMeters"
+  class="member-name-link"><code>lengthInMeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Length of the traffic span, in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficDelay"
+  class="member-name-link"><code>trafficDelay</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The estimated extra time in seconds spent due to traffic delays along
+  this traffic span.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficSectionPolylineOffset"
+  class="member-name-link"><code>trafficSectionPolylineOffset</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Index over TrafficOnSection.geometry where this span starts.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-trafficonspan#trafficSpeedInMetersPerSecond"
+  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The speed, in meters per second, considering traffic.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -168,70 +309,100 @@ Traffic information of a span along a route.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TrafficOnSpan()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TrafficOnSpan()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -280,9 +451,11 @@ Traffic information of a span along a route.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="trafficSectionPolylineOffset" class="section detail">
+  - <div id="sdk-for-android-explore-trafficSectionPolylineOffset"
+    class="section detail">
 
     ### trafficSectionPolylineOffset
 
@@ -300,7 +473,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="lengthInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-lengthInMeters"
+    class="section detail">
 
     ### lengthInMeters
 
@@ -318,7 +492,7 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="duration" class="section detail">
+  - <div id="sdk-for-android-explore-duration" class="section detail">
 
     ### duration
 
@@ -339,7 +513,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="trafficDelay" class="section detail">
+  - <div id="sdk-for-android-explore-trafficDelay"
+    class="section detail">
 
     ### trafficDelay
 
@@ -360,7 +535,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="baseSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
+    class="section detail">
 
     ### baseSpeedInMetersPerSecond
 
@@ -379,7 +555,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="trafficSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond"
+    class="section detail">
 
     ### trafficSpeedInMetersPerSecond
 
@@ -397,7 +574,7 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="jamFactor" class="section detail">
+  - <div id="sdk-for-android-explore-jamFactor" class="section detail">
 
     ### jamFactor
 
@@ -418,7 +595,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="incidentIndices" class="section detail">
+  - <div id="sdk-for-android-explore-incidentIndices"
+    class="section detail">
 
     ### incidentIndices
 
@@ -427,10 +605,10 @@ Traffic information of a span along a route.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">incidentIndices</span>
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">incidentIndices</span>
 
     </div>
 
@@ -443,7 +621,8 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="consumptionInKilowattHours" class="section detail">
+  - <div id="sdk-for-android-explore-consumptionInKilowattHours"
+    class="section detail">
 
     ### consumptionInKilowattHours
 
@@ -467,9 +646,10 @@ Traffic information of a span along a route.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TrafficOnSpan
 
@@ -489,9 +669,11 @@ Traffic information of a span along a route.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -515,7 +697,7 @@ Traffic information of a span along a route.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

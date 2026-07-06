@@ -16,7 +16,8 @@ com.here.sdk.mapview.datasource.RasterDataSourceConfigurationUpdate
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ Configuration update for a RasterDataSource.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,69 +48,120 @@ Configuration update for a RasterDataSource.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Long</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#cacheDiskSize"
-  class="member-name-link"><code>cacheDiskSize</code></a></td>
-  <td><div class="block">
-  Optional update of the cache disk size, in bytes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Boolean</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#ignoreExpiredData"
-  class="member-name-link"><code>ignoreExpiredData</code></a></td>
-  <td><div class="block">
-  Optional update of the flag indicating whether expired data should be
-  ignored until refreshed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>,</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#providerHeaders"
-  class="member-name-link"><code>providerHeaders</code></a></td>
-  <td><div class="block">
-  Optional update of the provider headers.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Long</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#cacheDiskSize"
+  class="member-name-link"><code>cacheDiskSize</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional update of the cache disk size, in bytes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Boolean</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#ignoreExpiredData"
+  class="member-name-link"><code>ignoreExpiredData</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional update of the flag indicating whether expired data should be
+  ignored until refreshed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>`,`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate#providerHeaders"
+  class="member-name-link"><code>providerHeaders</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional update of the provider headers.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -116,32 +169,44 @@ Configuration update for a RasterDataSource.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RasterDataSourceConfigurationUpdate(Map&lt;String,String&gt; providerHeaders,
-   Boolean ignoreExpiredData,
-   Long cacheDiskSize)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RasterDataSourceConfigurationUpdate(Map<String,String> providerHeaders,
+       Boolean ignoreExpiredData,
+       Long cacheDiskSize)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -192,9 +257,11 @@ Configuration update for a RasterDataSource.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="providerHeaders" class="section detail">
+  - <div id="sdk-for-android-explore-providerHeaders"
+    class="section detail">
 
     ### providerHeaders
 
@@ -203,11 +270,11 @@ Configuration update for a RasterDataSource.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">providerHeaders</span>
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">providerHeaders</span>
 
     </div>
 
@@ -220,7 +287,8 @@ Configuration update for a RasterDataSource.
 
     </div>
 
-  - <div id="ignoreExpiredData" class="section detail">
+  - <div id="sdk-for-android-explore-ignoreExpiredData"
+    class="section detail">
 
     ### ignoreExpiredData
 
@@ -244,7 +312,8 @@ Configuration update for a RasterDataSource.
 
     </div>
 
-  - <div id="cacheDiskSize" class="section detail">
+  - <div id="sdk-for-android-explore-cacheDiskSize"
+    class="section detail">
 
     ### cacheDiskSize
 
@@ -268,9 +337,10 @@ Configuration update for a RasterDataSource.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.util.Map,java.lang.Boolean,java.lang.Long)"
+  - <div id="sdk-for-android-explore-<init>(java.util.Map,java.lang.Boolean,java.lang.Long)"
     class="section detail">
 
     ### RasterDataSourceConfigurationUpdate
@@ -280,11 +350,11 @@ Configuration update for a RasterDataSource.
     <span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfigurationUpdate</span><span class="parameters">(@Nullable
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> providerHeaders,
+    class="external-link" title="class or interface in java.lang">String</a>\> providerHeaders,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
     class="external-link"

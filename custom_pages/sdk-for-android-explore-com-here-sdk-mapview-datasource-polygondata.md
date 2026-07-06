@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.datasource.PolygonData
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 

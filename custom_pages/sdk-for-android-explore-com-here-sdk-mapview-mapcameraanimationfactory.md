@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapCameraAnimationFactory
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,124 +40,208 @@ over time.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>createAnimation(MapCameraKeyframeTrack track)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      createAnimation(MapCameraKeyframeTrack track)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation for a movement defined by the supplied
   track .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>createAnimation(MapCameraUpdate cameraUpdate,
-   Duration duration,
-   Easing easing)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      createAnimation(MapCameraUpdate cameraUpdate,
+       Duration duration,
+       Easing easing)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation to gradually update the camera properties
-  within a specified duration from its current values to the ones defined
-  in the cameraUpdate .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>createAnimation(List&lt;MapCameraKeyframeTrack&gt; tracks)</code></pre></td>
-  <td><div class="block">
-  Creates a MapCameraAnimation for a movement defined by the supplied list
-  of tracks .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>flyTo(GeoCoordinatesUpdate target,
-   double bowFactor,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
+  within a specified duration from its current values to the ones
+  defined in the cameraUpdate .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      createAnimation(List<MapCameraKeyframeTrack> tracks)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates a MapCameraAnimation for a movement defined by the supplied
+  list of tracks .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      flyTo(GeoCoordinatesUpdate target,
+       double bowFactor,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation to move the current map camera look-at
   coordinates to the new position along an adaptive ballistic curve.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>flyTo(GeoCoordinatesUpdate target,
-   GeoOrientationUpdate orientation,
-   double bowFactor,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      flyTo(GeoCoordinatesUpdate target,
+       GeoOrientationUpdate orientation,
+       double bowFactor,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation to move the current map camera look-at
   coordinates to the new position and orientation along an adaptive
   ballistic curve.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>flyTo(GeoCoordinatesUpdate target,
-   GeoOrientationUpdate orientation,
-   MapMeasure zoom,
-   double bowFactor,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      flyTo(GeoCoordinatesUpdate target,
+       GeoOrientationUpdate orientation,
+       MapMeasure zoom,
+       double bowFactor,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation to move the current map camera look-at
   coordinates to the new position and orientation along an adaptive
   ballistic curve.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation"
-  title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a></td>
-  <td><pre><code>flyTo(GeoCoordinatesUpdate target,
-   MapMeasure zoom,
-   double bowFactor,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      flyTo(GeoCoordinatesUpdate target,
+       MapMeasure zoom,
+       double bowFactor,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a MapCameraAnimation to move the current map camera look-at
   coordinates to the new position along an adaptive ballistic curve.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -211,9 +296,10 @@ over time.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
+  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
     class="section detail">
 
     ### createAnimation
@@ -262,7 +348,7 @@ over time.
 
     </div>
 
-  - <div id="createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
+  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
     class="section detail">
 
     ### createAnimation
@@ -293,7 +379,8 @@ over time.
 
     </div>
 
-  - <div id="createAnimation(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-createAnimation(java.util.List)"
+    class="section detail">
 
     ### createAnimation
 
@@ -304,7 +391,7 @@ over time.
     static</span> <span class="return-type">[MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")</span> <span class="element-name">createAnimation</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")> tracks)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")\> tracks)</span>
     throws
     <span class="exceptions">[MapCameraAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -345,7 +432,7 @@ over time.
 
     </div>
 
-  - <div id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -383,8 +470,8 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
-    (bowFactor < 0) the camera will fly. The highest (bowFactor = 1) or
+    A bow factor that specifies how high (bowFactor \> 0) or low
+    (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
     destination target. A bow factor of 0 does not change the camera's
@@ -405,7 +492,7 @@ over time.
 
     </div>
 
-  - <div id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -449,8 +536,8 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
-    (bowFactor < 0) the camera will fly. The highest (bowFactor = 1) or
+    A bow factor that specifies how high (bowFactor \> 0) or low
+    (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
     destination target. A bow factor of 0 does not change the camera's
@@ -471,7 +558,7 @@ over time.
 
     </div>
 
-  - <div id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -516,8 +603,8 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
-    (bowFactor < 0) the camera will fly. The highest (bowFactor = 1) or
+    A bow factor that specifies how high (bowFactor \> 0) or low
+    (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
     destination target. A bow factor of 0 does not affect the camera's
@@ -538,7 +625,7 @@ over time.
 
     </div>
 
-  - <div id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -589,8 +676,8 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
-    (bowFactor < 0) the camera will fly. The highest (bowFactor = 1) or
+    A bow factor that specifies how high (bowFactor \> 0) or low
+    (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
     destination target. A bow factor of 0 does not affect the camera's

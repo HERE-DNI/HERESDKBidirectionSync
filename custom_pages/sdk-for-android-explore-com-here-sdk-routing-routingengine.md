@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.routing.RoutingEngine
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 [`RoutingInterface`](sdk-for-android-explore-com-here-sdk-routing-routinginterface "interface in com.here.sdk.routing")
@@ -54,7 +55,8 @@ licence.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -62,603 +64,1224 @@ licence.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RoutingEngine()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RoutingEngine()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance of this class.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RoutingEngine(SDKNativeEngine sdkEngine)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of RoutingEngine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RoutingEngine(SDKNativeEngine sdkEngine,
-   RoutingConnectionSettings connectionSettings)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of RoutingEngine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RoutingEngine(RoutingConnectionSettings connectionSettings)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of RoutingEngine.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  </div>
 
-  <div id="method-summary-table">
+  <div class="col-constructor-name odd-row-color">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
-  Deprecated Methods
+      RoutingEngine(SDKNativeEngine sdkEngine)
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-last odd-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   BicycleOptions bicycleOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+  <div class="block">
+
+  Creates a new instance of RoutingEngine.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RoutingEngine(SDKNativeEngine sdkEngine,
+       RoutingConnectionSettings connectionSettings)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of RoutingEngine.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RoutingEngine(RoutingConnectionSettings connectionSettings)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance of RoutingEngine.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       BicycleOptions bicycleOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   BusOptions busOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       BusOptions busOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   CarOptions carOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       CarOptions carOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   EVCarOptions evCarOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       EVCarOptions evCarOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   EVTruckOptions evTruckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       EVTruckOptions evTruckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   PedestrianOptions pedestrianOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       PedestrianOptions pedestrianOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   PrivateBusOptions privateBusOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       PrivateBusOptions privateBusOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      calculateRoute(List<Waypoint> waypoints,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously calculates a route from one point to another, passing
   through the given waypoints in the given order.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   ScooterOptions scooterOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       ScooterOptions scooterOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   TaxiOptions taxiOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       TaxiOptions taxiOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateRoute(List&lt;Waypoint&gt; waypoints,
-   TruckOptions truckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      calculateRoute(List<Waypoint> waypoints,
+       TruckOptions truckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateTrafficOnRoute(Route route,
-   int lastTraveledSectionIndex,
-   int traveledDistanceOnLastSectionInMeters,
-   double currentChargeInKilowattHours,
-   CalculateTrafficOnRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      calculateTrafficOnRoute(Route route,
+       int lastTraveledSectionIndex,
+       int traveledDistanceOnLastSectionInMeters,
+       double currentChargeInKilowattHours,
+       CalculateTrafficOnRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously calculates the traffic along an EV car route starting
   from the index of the last traveled route section and an offset in
   meters from the last visited position on the section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateTrafficOnRoute(Route route,
-   int lastTraveledSectionIndex,
-   int traveledDistanceOnLastSectionInMeters,
-   CalculateTrafficOnRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      calculateTrafficOnRoute(Route route,
+       int lastTraveledSectionIndex,
+       int traveledDistanceOnLastSectionInMeters,
+       CalculateTrafficOnRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously calculates the traffic along a route starting from the
-  index of the last traveled route section and an offset (in meters) from
-  the last visited position on the section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>dispose()</code></pre></td>
-  <td><div class="block">
+  index of the last traveled route section and an offset (in meters)
+  from the last visited position on the section.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      dispose()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Cancels pending requests and closes the background worker thread.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(RouteHandle routeHandle,
-   RefreshRouteOptions refreshRouteOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(RouteHandle routeHandle,
+       RefreshRouteOptions refreshRouteOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(RouteHandle routeHandle,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      importRoute(RouteHandle routeHandle,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously recreates a route from the RouteHandle provided, i.e.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   BicycleOptions bicycleOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       BicycleOptions bicycleOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   BusOptions busOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       BusOptions busOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   CarOptions carOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       CarOptions carOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   EVCarOptions evCarOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       EVCarOptions evCarOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   EVTruckOptions evTruckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       EVTruckOptions evTruckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   PedestrianOptions pedestrianOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       PedestrianOptions pedestrianOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   PrivateBusOptions privateBusOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       PrivateBusOptions privateBusOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously creates a route from a sequence of geographic coordinates
-  very close to each other.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   ScooterOptions scooterOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      importRoute(List<Location> locations,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously creates a route from a sequence of geographic
+  coordinates very close to each other.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       ScooterOptions scooterOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   TaxiOptions taxiOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       TaxiOptions taxiOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   TruckOptions truckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       TruckOptions truckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   BicycleOptions bicycleOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       BicycleOptions bicycleOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   BusOptions busOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       BusOptions busOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   CarOptions carOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       CarOptions carOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   EVCarOptions evCarOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       EVCarOptions evCarOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   EVTruckOptions evTruckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       EVTruckOptions evTruckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   PedestrianOptions pedestrianOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       PedestrianOptions pedestrianOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   PrivateBusOptions privateBusOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       PrivateBusOptions privateBusOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously creates a route from a sequence of geographic coordinates
-  very close to each other.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   ScooterOptions scooterOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously creates a route from a sequence of geographic
+  coordinates very close to each other.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       ScooterOptions scooterOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   TaxiOptions taxiOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       TaxiOptions taxiOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>importRoute(List&lt;Location&gt; locations,
-   List&lt;RouteStop&gt; routeStops,
-   TruckOptions truckOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      importRoute(List<Location> locations,
+       List<RouteStop> routeStops,
+       TruckOptions truckOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>refreshRoute(RefreshRouteParameters refreshRouteParameters,
-   RoutingOptions routingOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously refreshes a previously calculated route from the provided
-  RouteHandle , updating the starting point and route metadata based on
-  RoutingOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>refreshRoute(RouteHandle routeHandle,
-   Waypoint startingPoint,
-   RefreshRouteOptions refreshRouteOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      refreshRoute(RefreshRouteParameters refreshRouteParameters,
+       RoutingOptions routingOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously refreshes a previously calculated route from the
+  provided RouteHandle , updating the starting point and route metadata
+  based on RoutingOptions .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      refreshRoute(RouteHandle routeHandle,
+       Waypoint startingPoint,
+       RefreshRouteOptions refreshRouteOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>refreshRoute(RouteHandle routeHandle,
-   Waypoint startingPoint,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      refreshRoute(RouteHandle routeHandle,
+       Waypoint startingPoint,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>refreshRoute(RouteHandle routeHandle,
-   Waypoint startingPoint,
-   Integer lastTraveledSectionIndex,
-   Integer traveledDistanceOnLastSectionInMeters,
-   RefreshRouteOptions refreshRouteOptions,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      refreshRoute(RouteHandle routeHandle,
+       Waypoint startingPoint,
+       Integer lastTraveledSectionIndex,
+       Integer traveledDistanceOnLastSectionInMeters,
+       RefreshRouteOptions refreshRouteOptions,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>refreshRoute(RouteHandle routeHandle,
-   Waypoint startingPoint,
-   Integer lastTraveledSectionIndex,
-   Integer traveledDistanceOnLastSectionInMeters,
-   RoutingOptions options,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      refreshRoute(RouteHandle routeHandle,
+       Waypoint startingPoint,
+       Integer lastTraveledSectionIndex,
+       Integer traveledDistanceOnLastSectionInMeters,
+       RoutingOptions options,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>returnToRoute(Route route,
-   Waypoint startingPoint,
-   int lastTraveledSectionIndex,
-   int traveledDistanceOnLastSectionInMeters,
-   CalculateRouteCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      returnToRoute(Route route,
+       Waypoint startingPoint,
+       int lastTraveledSectionIndex,
+       int traveledDistanceOnLastSectionInMeters,
+       CalculateRouteCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously calculates a new route that leads back to the original
   route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror"
-  title="enum class in com.here.sdk.routing"><code>RoutingError</code></a></td>
-  <td><pre><code>setCustomOption(String name,
-   String value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomOption(String name,
+       String value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a custom option for routing backend queries.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -713,9 +1336,10 @@ licence.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RoutingEngine
 
@@ -741,7 +1365,7 @@ licence.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### RoutingEngine
@@ -774,7 +1398,7 @@ licence.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.RoutingConnectionSettings)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### RoutingEngine
@@ -807,7 +1431,7 @@ licence.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### RoutingEngine
@@ -848,9 +1472,10 @@ licence.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -952,7 +1577,7 @@ licence.
 
     </div>
 
-  - <div id="refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1072,7 +1697,7 @@ licence.
 
     </div>
 
-  - <div id="refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1193,7 +1818,7 @@ licence.
 
     </div>
 
-  - <div id="refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1296,7 +1921,7 @@ licence.
 
     </div>
 
-  - <div id="refreshRoute(com.here.sdk.routing.RefreshRouteParameters,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RefreshRouteParameters,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1343,7 +1968,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1416,7 +2041,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1430,7 +2055,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -1494,7 +2119,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1508,10 +2133,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -1567,7 +2192,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `pedestrianOptions` -
@@ -1589,7 +2214,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1603,10 +2228,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -1662,7 +2287,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `bicycleOptions` -
@@ -1680,7 +2305,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1694,10 +2319,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -1753,7 +2378,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `scooterOptions` -
@@ -1775,7 +2400,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1789,7 +2414,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -1857,7 +2482,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1871,7 +2496,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -1935,7 +2560,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1949,7 +2574,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -2017,7 +2642,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2031,7 +2656,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -2095,7 +2720,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2109,7 +2734,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -2177,7 +2802,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2191,7 +2816,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -2255,7 +2880,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2269,7 +2894,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -2333,7 +2958,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2347,7 +2972,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -2414,7 +3039,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2428,7 +3053,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -2492,7 +3117,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2506,10 +3131,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -2565,7 +3190,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `carOptions` -
@@ -2583,7 +3208,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2597,10 +3222,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -2656,7 +3281,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `truckOptions` -
@@ -2674,7 +3299,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2688,10 +3313,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -2747,7 +3372,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `taxiOptions` -
@@ -2769,7 +3394,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2783,10 +3408,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -2842,7 +3467,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `busOptions` -
@@ -2860,7 +3485,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2874,10 +3499,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -2933,7 +3558,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `privateBusOptions` -
@@ -2951,7 +3576,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2965,10 +3590,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -3024,7 +3649,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `evCarOptions` -
@@ -3045,7 +3670,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3059,10 +3684,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -3118,7 +3743,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `evTruckOptions` -
@@ -3136,7 +3761,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3147,7 +3772,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -3196,7 +3821,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(java.util.List,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3207,10 +3832,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -3251,7 +3876,7 @@ licence.
     stop. An
     [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER)
     error is generated when the route stops list size is not in the
-    range \[1,locations.size()-2\], any of location_index is < 1 or
+    range \[1,locations.size()-2\], any of location_index is \< 1 or
     location_indexes are not unique.
 
     `options` -
@@ -3269,7 +3894,7 @@ licence.
 
     </div>
 
-  - <div id="importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3317,7 +3942,7 @@ licence.
 
     </div>
 
-  - <div id="calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
     class="section detail">
 
     ### calculateTrafficOnRoute
@@ -3376,7 +4001,7 @@ licence.
 
     </div>
 
-  - <div id="calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
     class="section detail">
 
     ### calculateTrafficOnRoute
@@ -3451,7 +4076,7 @@ licence.
 
     </div>
 
-  - <div id="setCustomOption(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setCustomOption
@@ -3499,7 +4124,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3510,7 +4135,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -3554,7 +4179,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3568,7 +4193,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -3628,7 +4253,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3642,7 +4267,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -3706,7 +4331,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3720,7 +4345,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -3780,7 +4405,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3794,7 +4419,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -3858,7 +4483,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3872,7 +4497,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -3936,7 +4561,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3950,7 +4575,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -4014,7 +4639,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4028,7 +4653,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -4088,7 +4713,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4102,7 +4727,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -4162,7 +4787,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4176,7 +4801,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -4236,7 +4861,7 @@ licence.
 
     </div>
 
-  - <div id="calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4250,7 +4875,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -4310,7 +4935,7 @@ licence.
 
     </div>
 
-  - <div id="returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)"
+  - <div id="sdk-for-android-explore-returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### returnToRoute
@@ -4406,7 +5031,7 @@ licence.
 
     </div>
 
-  - <div id="dispose()" class="section detail">
+  - <div id="sdk-for-android-explore-dispose()" class="section detail">
 
     ### dispose
 

@@ -30,7 +30,8 @@ navigate to specific declarations and summary pages, including: [All
 Packages](sdk-for-android-explore-allpackages-index), [All Classes and
 Interfaces](sdk-for-android-explore-allclasses-index)
 
-<div id="help-search" class="section help-section">
+<div id="sdk-for-android-explore-help-search"
+class="section help-section">
 
 ### Search
 
@@ -56,7 +57,7 @@ for a full description of search features.
 The following sections describe the different kinds of pages in this
 collection.
 
-<div id="overview" class="section help-section">
+<div id="sdk-for-android-explore-overview" class="section help-section">
 
 ### Overview
 
@@ -67,7 +68,7 @@ packages.
 
 </div>
 
-<div id="package" class="section help-section">
+<div id="sdk-for-android-explore-package" class="section help-section">
 
 ### Package
 
@@ -84,7 +85,7 @@ following categories:
 
 </div>
 
-<div id="class" class="section help-section">
+<div id="sdk-for-android-explore-class" class="section help-section">
 
 ### Class or Interface
 
@@ -132,7 +133,7 @@ logical groupings established by the programmer.
 
 </div>
 
-<div id="doc-file" class="section help-section">
+<div id="sdk-for-android-explore-doc-file" class="section help-section">
 
 ### Other Files
 
@@ -141,7 +142,7 @@ related to the declarations nearby.
 
 </div>
 
-<div id="tree" class="section help-section">
+<div id="sdk-for-android-explore-tree" class="section help-section">
 
 ### Tree (Class Hierarchy)
 
@@ -158,7 +159,8 @@ Interfaces do not inherit from `java.lang.Object`.
 
 </div>
 
-<div id="deprecated" class="section help-section">
+<div id="sdk-for-android-explore-deprecated"
+class="section help-section">
 
 ### Deprecated API
 
@@ -170,7 +172,8 @@ implementations.
 
 </div>
 
-<div id="constant-values" class="section help-section">
+<div id="sdk-for-android-explore-constant-values"
+class="section help-section">
 
 ### Constant Field Values
 
@@ -179,7 +182,8 @@ page lists the static final fields and their values.
 
 </div>
 
-<div id="serialized-form" class="section help-section">
+<div id="sdk-for-android-explore-serialized-form"
+class="section help-section">
 
 ### Serialized Form
 
@@ -192,7 +196,8 @@ section of the class description.
 
 </div>
 
-<div id="all-packages" class="section help-section">
+<div id="sdk-for-android-explore-all-packages"
+class="section help-section">
 
 ### All Packages
 
@@ -202,7 +207,8 @@ documentation.
 
 </div>
 
-<div id="all-classes" class="section help-section">
+<div id="sdk-for-android-explore-all-classes"
+class="section help-section">
 
 ### All Classes and Interfaces
 
@@ -214,7 +220,7 @@ classes.
 
 </div>
 
-<div id="index" class="section help-section">
+<div id="sdk-for-android-explore-index" class="section help-section">
 
 ### Index
 

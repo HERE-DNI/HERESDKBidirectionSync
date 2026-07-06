@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.IsolineOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Specifies options for isolines calculation.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -45,36 +47,57 @@ Specifies options for isolines calculation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
-  class="type-name-link"
-  title="class in com.here.sdk.routing"><code>IsolineOptions.Calculation</code></a></td>
-  <td><div class="block">
-  Specifies isoline parameters.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
+  class="type-name-link"
+  title="class in com.here.sdk.routing"><code>IsolineOptions.Calculation</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies isoline parameters.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -82,89 +105,176 @@ Specifies options for isolines calculation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
-  title="class in com.here.sdk.routing"><code>IsolineOptions.Calculation</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#calculationOptions"
-  class="member-name-link"><code>calculationOptions</code></a></td>
-  <td><div class="block">
-  Specifies isoline parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-caroptions"
-  title="class in com.here.sdk.routing"><code>CarOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#carOptions"
-  class="member-name-link"><code>carOptions</code></a></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-evcaroptions"
-  title="class in com.here.sdk.routing"><code>EVCarOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evCarOptions"
-  class="member-name-link"><code>evCarOptions</code></a></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
-  title="class in com.here.sdk.routing"><code>EVTruckOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evTruckOptions"
-  class="member-name-link"><code>evTruckOptions</code></a></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingoptions"
-  title="class in com.here.sdk.routing"><code>RoutingOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#routingOptions"
-  class="member-name-link"><code>routingOptions</code></a></td>
-  <td><div class="block">
-  Specifies options for calculation of isolines for any vehicle type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-truckoptions"
-  title="class in com.here.sdk.routing"><code>TruckOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#truckOptions"
-  class="member-name-link"><code>truckOptions</code></a></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`IsolineOptions.Calculation`](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#calculationOptions"
+  class="member-name-link"><code>calculationOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies isoline parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`CarOptions`](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#carOptions"
+  class="member-name-link"><code>carOptions</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`EVCarOptions`](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evCarOptions"
+  class="member-name-link"><code>evCarOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`EVTruckOptions`](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evTruckOptions"
+  class="member-name-link"><code>evTruckOptions</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RoutingOptions`](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#routingOptions"
+  class="member-name-link"><code>routingOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies options for calculation of isolines for any vehicle type.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TruckOptions`](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#truckOptions"
+  class="member-name-link"><code>truckOptions</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -172,60 +282,112 @@ Specifies options for isolines calculation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>IsolineOptions(IsolineOptions.Calculation calculationOptions,
-   CarOptions carOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineOptions(IsolineOptions.Calculation calculationOptions,
-   EVCarOptions evCarOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineOptions(IsolineOptions.Calculation calculationOptions,
-   EVTruckOptions evTruckOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineOptions(IsolineOptions.Calculation calculationOptions,
-   RoutingOptions routingOptions)</code></pre></td>
-  <td><div class="block">
-  Constructs options to calculate isolines from destination or origin,
-  with preferences for isoline calculation and routing options.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineOptions(IsolineOptions.Calculation calculationOptions,
-   TruckOptions truckOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated. Will be removed in v4.28.0.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      IsolineOptions(IsolineOptions.Calculation calculationOptions,
+       CarOptions carOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      IsolineOptions(IsolineOptions.Calculation calculationOptions,
+       EVCarOptions evCarOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      IsolineOptions(IsolineOptions.Calculation calculationOptions,
+       EVTruckOptions evTruckOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      IsolineOptions(IsolineOptions.Calculation calculationOptions,
+       RoutingOptions routingOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs options to calculate isolines from destination or origin,
+  with preferences for isoline calculation and routing options.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      IsolineOptions(IsolineOptions.Calculation calculationOptions,
+       TruckOptions truckOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.28.0.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -276,9 +438,11 @@ Specifies options for isolines calculation.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="calculationOptions" class="section detail">
+  - <div id="sdk-for-android-explore-calculationOptions"
+    class="section detail">
 
     ### calculationOptions
 
@@ -297,7 +461,7 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="carOptions" class="section detail">
+  - <div id="sdk-for-android-explore-carOptions" class="section detail">
 
     ### carOptions
 
@@ -332,7 +496,8 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="truckOptions" class="section detail">
+  - <div id="sdk-for-android-explore-truckOptions"
+    class="section detail">
 
     ### truckOptions
 
@@ -367,7 +532,8 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="evCarOptions" class="section detail">
+  - <div id="sdk-for-android-explore-evCarOptions"
+    class="section detail">
 
     ### evCarOptions
 
@@ -402,7 +568,8 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="evTruckOptions" class="section detail">
+  - <div id="sdk-for-android-explore-evTruckOptions"
+    class="section detail">
 
     ### evTruckOptions
 
@@ -437,7 +604,8 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="routingOptions" class="section detail">
+  - <div id="sdk-for-android-explore-routingOptions"
+    class="section detail">
 
     ### routingOptions
 
@@ -460,9 +628,10 @@ Specifies options for isolines calculation.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.CarOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.CarOptions)"
     class="section detail">
 
     ### IsolineOptions
@@ -511,7 +680,7 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.TruckOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.TruckOptions)"
     class="section detail">
 
     ### IsolineOptions
@@ -560,7 +729,7 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.EVCarOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.EVCarOptions)"
     class="section detail">
 
     ### IsolineOptions
@@ -610,7 +779,7 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.EVTruckOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.EVTruckOptions)"
     class="section detail">
 
     ### IsolineOptions
@@ -660,7 +829,7 @@ Specifies options for isolines calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.RoutingOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineOptions.Calculation,com.here.sdk.routing.RoutingOptions)"
     class="section detail">
 
     ### IsolineOptions

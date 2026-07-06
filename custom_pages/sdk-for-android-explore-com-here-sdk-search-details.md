@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.Details
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ opening hours and assigned categories.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,191 +48,362 @@ opening hours and assigned categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory"
-  title="class in com.here.sdk.search"><code>PlaceCategory</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#categories"
-  class="member-name-link"><code>categories</code></a></td>
-  <td><div class="block">
-  The list of categories assigned to this place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-contact"
-  title="class in com.here.sdk.search"><code>Contact</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#contacts"
-  class="member-name-link"><code>contacts</code></a></td>
-  <td><div class="block">
-  The list of contact information of the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-webeditorial"
-  title="class in com.here.sdk.search"><code>WebEditorial</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#editorials"
-  class="member-name-link"><code>editorials</code></a></td>
-  <td><div class="block">
-  The list of editorials associated with the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
-  title="class in com.here.sdk.search"><code>EVChargingLocation</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#evChargingLocation"
-  class="member-name-link"><code>evChargingLocation</code></a></td>
-  <td><div class="block">
-  Details about the EV charging station, if this place belongs to the EV
-  charging station category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool"
-  title="class in com.here.sdk.search"><code>EVChargingPool</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#evChargingPool"
-  class="member-name-link"><code>evChargingPool</code></a></td>
-  <td><div class="block">
-  EV charging pool details.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placefoodtype"
-  title="class in com.here.sdk.search"><code>PlaceFoodType</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#foodTypes"
-  class="member-name-link"><code>foodTypes</code></a></td>
-  <td><div class="block">
-  The list of food types assigned to this place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-fuelstation"
-  title="class in com.here.sdk.search"><code>FuelStation</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#fuelStation"
-  class="member-name-link"><code>fuelStation</code></a></td>
-  <td><div class="block">
-  Fuel station details.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-webimage"
-  title="class in com.here.sdk.search"><code>WebImage</code></a><code>&gt;</code></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-details#images"
-  class="member-name-link"><code>images</code></a></td>
-  <td><div class="block">
-  The list of images associated with the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-openinghours"
-  title="class in com.here.sdk.search"><code>OpeningHours</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#openingHours"
-  class="member-name-link"><code>openingHours</code></a></td>
-  <td><div class="block">
-  The list of opening hours information of the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails"
-  title="class in com.here.sdk.search"><code>POIPaymentDetails</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#payment"
-  class="member-name-link"><code>payment</code></a></td>
-  <td><div class="block">
-  Details about the payment options at the POI.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-webrating"
-  title="class in com.here.sdk.search"><code>WebRating</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#ratings"
-  class="member-name-link"><code>ratings</code></a></td>
-  <td><div class="block">
-  The list of ratings associated with the place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-supplierreference"
-  title="class in com.here.sdk.search"><code>SupplierReference</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#references"
-  class="member-name-link"><code>references</code></a></td>
-  <td><div class="block">
-  The list of supplier references to this place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-truckamenities"
-  title="class in com.here.sdk.search"><code>TruckAmenities</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-details#truckAmenities"
-  class="member-name-link"><code>truckAmenities</code></a></td>
-  <td><div class="block">
-  Additional information that is available only for places that contain
-  truck amenities.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#categories"
+  class="member-name-link"><code>categories</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of categories assigned to this place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Contact`](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#contacts"
+  class="member-name-link"><code>contacts</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of contact information of the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`WebEditorial`](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#editorials"
+  class="member-name-link"><code>editorials</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of editorials associated with the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`EVChargingLocation`](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-details#evChargingLocation"
+  class="member-name-link"><code>evChargingLocation</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Details about the EV charging station, if this place belongs to the EV
+  charging station category.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`EVChargingPool`](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-details#evChargingPool"
+  class="member-name-link"><code>evChargingPool</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  EV charging pool details.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceFoodType`](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#foodTypes"
+  class="member-name-link"><code>foodTypes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of food types assigned to this place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`FuelStation`](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-details#fuelStation"
+  class="member-name-link"><code>fuelStation</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Fuel station details.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`WebImage`](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#images"
+  class="member-name-link"><code>images</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of images associated with the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`OpeningHours`](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-details#openingHours"
+  class="member-name-link"><code>openingHours</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of opening hours information of the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`POIPaymentDetails`](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#payment"
+  class="member-name-link"><code>payment</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Details about the payment options at the POI.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`WebRating`](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#ratings"
+  class="member-name-link"><code>ratings</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of ratings associated with the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`SupplierReference`](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-details#references"
+  class="member-name-link"><code>references</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of supplier references to this place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`TruckAmenities`](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-details#truckAmenities"
+  class="member-name-link"><code>truckAmenities</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Additional information that is available only for places that contain
+  truck amenities.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -238,181 +411,284 @@ opening hours and assigned categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool,
-   TruckAmenities truckAmenities)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool,
-   TruckAmenities truckAmenities,
-   FuelStation fuelStation)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool,
-   TruckAmenities truckAmenities,
-   FuelStation fuelStation,
-   List&lt;PlaceFoodType&gt; foodTypes)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool,
-   TruckAmenities truckAmenities,
-   FuelStation fuelStation,
-   List&lt;PlaceFoodType&gt; foodTypes,
-   POIPaymentDetails payment)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Details(List&lt;Contact&gt; contacts,
-   List&lt;OpeningHours&gt; openingHours,
-   List&lt;PlaceCategory&gt; categories,
-   List&lt;WebImage&gt; images,
-   List&lt;WebEditorial&gt; editorials,
-   List&lt;WebRating&gt; ratings,
-   List&lt;SupplierReference&gt; references,
-   EVChargingPool evChargingPool,
-   TruckAmenities truckAmenities,
-   FuelStation fuelStation,
-   List&lt;PlaceFoodType&gt; foodTypes,
-   POIPaymentDetails payment,
-   EVChargingLocation evChargingLocation)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool,
+       TruckAmenities truckAmenities)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool,
+       TruckAmenities truckAmenities,
+       FuelStation fuelStation)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool,
+       TruckAmenities truckAmenities,
+       FuelStation fuelStation,
+       List<PlaceFoodType> foodTypes)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool,
+       TruckAmenities truckAmenities,
+       FuelStation fuelStation,
+       List<PlaceFoodType> foodTypes,
+       POIPaymentDetails payment)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Details(List<Contact> contacts,
+       List<OpeningHours> openingHours,
+       List<PlaceCategory> categories,
+       List<WebImage> images,
+       List<WebEditorial> editorials,
+       List<WebRating> ratings,
+       List<SupplierReference> references,
+       EVChargingPool evChargingPool,
+       TruckAmenities truckAmenities,
+       FuelStation fuelStation,
+       List<PlaceFoodType> foodTypes,
+       POIPaymentDetails payment,
+       EVChargingLocation evChargingLocation)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory"
-  title="class in com.here.sdk.search"><code>PlaceCategory</code></a><code>&gt;</code></td>
-  <td><pre><code>getPrimaryCategories()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPrimaryCategories()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of primary categories assigned to this place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -461,9 +737,10 @@ opening hours and assigned categories.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="contacts" class="section detail">
+  - <div id="sdk-for-android-explore-contacts" class="section detail">
 
     ### contacts
 
@@ -472,7 +749,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")></span> <span class="element-name">contacts</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\></span> <span class="element-name">contacts</span>
 
     </div>
 
@@ -485,7 +762,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="openingHours" class="section detail">
+  - <div id="sdk-for-android-explore-openingHours"
+    class="section detail">
 
     ### openingHours
 
@@ -494,7 +772,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")></span> <span class="element-name">openingHours</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\></span> <span class="element-name">openingHours</span>
 
     </div>
 
@@ -507,7 +785,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="categories" class="section detail">
+  - <div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -516,7 +794,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">categories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -528,7 +806,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="images" class="section detail">
+  - <div id="sdk-for-android-explore-images" class="section detail">
 
     ### images
 
@@ -537,7 +815,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")></span> <span class="element-name">images</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\></span> <span class="element-name">images</span>
 
     </div>
 
@@ -553,7 +831,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="editorials" class="section detail">
+  - <div id="sdk-for-android-explore-editorials" class="section detail">
 
     ### editorials
 
@@ -562,7 +840,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")></span> <span class="element-name">editorials</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\></span> <span class="element-name">editorials</span>
 
     </div>
 
@@ -578,7 +856,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="ratings" class="section detail">
+  - <div id="sdk-for-android-explore-ratings" class="section detail">
 
     ### ratings
 
@@ -587,7 +865,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")></span> <span class="element-name">ratings</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\></span> <span class="element-name">ratings</span>
 
     </div>
 
@@ -603,7 +881,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="references" class="section detail">
+  - <div id="sdk-for-android-explore-references" class="section detail">
 
     ### references
 
@@ -612,7 +890,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")></span> <span class="element-name">references</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\></span> <span class="element-name">references</span>
 
     </div>
 
@@ -627,7 +905,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="evChargingPool" class="section detail">
+  - <div id="sdk-for-android-explore-evChargingPool"
+    class="section detail">
 
     ### evChargingPool
 
@@ -657,7 +936,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="truckAmenities" class="section detail">
+  - <div id="sdk-for-android-explore-truckAmenities"
+    class="section detail">
 
     ### truckAmenities
 
@@ -695,7 +975,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="fuelStation" class="section detail">
+  - <div id="sdk-for-android-explore-fuelStation"
+    class="section detail">
 
     ### fuelStation
 
@@ -733,7 +1014,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="foodTypes" class="section detail">
+  - <div id="sdk-for-android-explore-foodTypes" class="section detail">
 
     ### foodTypes
 
@@ -742,7 +1023,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")></span> <span class="element-name">foodTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\></span> <span class="element-name">foodTypes</span>
 
     </div>
 
@@ -755,7 +1036,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="payment" class="section detail">
+  - <div id="sdk-for-android-explore-payment" class="section detail">
 
     ### payment
 
@@ -779,7 +1060,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="evChargingLocation" class="section detail">
+  - <div id="sdk-for-android-explore-evChargingLocation"
+    class="section detail">
 
     ### evChargingLocation
 
@@ -804,9 +1086,10 @@ opening hours and assigned categories.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### Details
@@ -816,25 +1099,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references)</span>
 
     </div>
 
@@ -899,7 +1182,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool)"
     class="section detail">
 
     ### Details
@@ -909,25 +1192,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool)</span>
 
@@ -1017,7 +1300,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities)"
     class="section detail">
 
     ### Details
@@ -1027,25 +1310,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool,
     @Nullable
@@ -1169,7 +1452,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation)"
     class="section detail">
 
     ### Details
@@ -1179,25 +1462,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool,
     @Nullable
@@ -1355,7 +1638,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List)"
     class="section detail">
 
     ### Details
@@ -1365,25 +1648,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool,
     @Nullable
@@ -1392,7 +1675,7 @@ opening hours and assigned categories.
     [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")> foodTypes)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes)</span>
 
     </div>
 
@@ -1549,7 +1832,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails)"
     class="section detail">
 
     ### Details
@@ -1559,25 +1842,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool,
     @Nullable
@@ -1586,7 +1869,7 @@ opening hours and assigned categories.
     [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")> foodTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes,
     @Nullable
     [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search") payment)</span>
 
@@ -1754,7 +2037,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails,com.here.sdk.search.EVChargingLocation)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails,com.here.sdk.search.EVChargingLocation)"
     class="section detail">
 
     ### Details
@@ -1764,25 +2047,25 @@ opening hours and assigned categories.
     <span class="modifiers">public</span> <span class="element-name">Details</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")> contacts,
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")> openingHours,
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")> images,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")> editorials,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")> ratings,
+    class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")> references,
+    class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references,
     @Nullable
     [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool,
     @Nullable
@@ -1791,7 +2074,7 @@ opening hours and assigned categories.
     [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")> foodTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes,
     @Nullable
     [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search") payment,
     @Nullable
@@ -1971,9 +2254,11 @@ opening hours and assigned categories.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -1997,7 +2282,7 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -2019,7 +2304,8 @@ opening hours and assigned categories.
 
     </div>
 
-  - <div id="getPrimaryCategories()" class="section detail">
+  - <div id="sdk-for-android-explore-getPrimaryCategories()"
+    class="section detail">
 
     ### getPrimaryCategories
 
@@ -2028,7 +2314,7 @@ opening hours and assigned categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">getPrimaryCategories</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">getPrimaryCategories</span>()
 
     </div>
 

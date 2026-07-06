@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.TextQuery.Area
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search")
@@ -40,7 +41,8 @@ Area to perform search on.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,85 +50,157 @@ Area to perform search on.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>final </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#areaCenter"
-  class="member-name-link"><code>areaCenter</code></a></td>
-  <td><div class="block">
-  Geographic coordinates of the center around which to provide the most
-  relevant places.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geobox"
-  title="class in com.here.sdk.core"><code>GeoBox</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#boxArea"
-  class="member-name-link"><code>boxArea</code></a></td>
-  <td><div class="block">
-  Geographic rectangle area in which to provide the most relevant places.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocircle"
-  title="class in com.here.sdk.core"><code>GeoCircle</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#circleArea"
-  class="member-name-link"><code>circleArea</code></a></td>
-  <td><div class="block">
-  Geographic circle area in which to provide the most relevant places.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocorridor"
-  title="class in com.here.sdk.core"><code>GeoCorridor</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#corridorArea"
-  class="member-name-link"><code>corridorArea</code></a></td>
-  <td><div class="block">
-  Geographic corridor area in which to provide the most relevant places.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-countrycode"
-  title="enum class in com.here.sdk.core"><code>CountryCode</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#countries"
-  class="member-name-link"><code>countries</code></a></td>
-  <td><div class="block">
-  A list of countries that the query is applied in.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#areaCenter"
+  class="member-name-link"><code>areaCenter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Geographic coordinates of the center around which to provide the most
+  relevant places.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `final `[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#boxArea"
+  class="member-name-link"><code>boxArea</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Geographic rectangle area in which to provide the most relevant
+  places.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final `[`GeoCircle`](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#circleArea"
+  class="member-name-link"><code>circleArea</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Geographic circle area in which to provide the most relevant places.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `final `[`GeoCorridor`](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#corridorArea"
+  class="member-name-link"><code>corridorArea</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Geographic corridor area in which to provide the most relevant places.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-textquery-area#countries"
+  class="member-name-link"><code>countries</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A list of countries that the query is applied in.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -134,96 +208,166 @@ Area to perform search on.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Area(GeoBox boxArea)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Area(GeoCircle circleArea)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Area(GeoCoordinates areaCenter)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Area(GeoCorridor corridorArea,
-   GeoCoordinates areaCenter)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Area(List&lt;CountryCode&gt; countries,
-   GeoCoordinates areaCenter)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      Area(GeoBox boxArea)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Area(GeoCircle circleArea)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Area(GeoCoordinates areaCenter)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Area(GeoCorridor corridorArea,
+       GeoCoordinates areaCenter)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Area(List<CountryCode> countries,
+       GeoCoordinates areaCenter)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -272,9 +416,10 @@ Area to perform search on.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="areaCenter" class="section detail">
+  - <div id="sdk-for-android-explore-areaCenter" class="section detail">
 
     ### areaCenter
 
@@ -297,7 +442,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="boxArea" class="section detail">
+  - <div id="sdk-for-android-explore-boxArea" class="section detail">
 
     ### boxArea
 
@@ -321,7 +466,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="circleArea" class="section detail">
+  - <div id="sdk-for-android-explore-circleArea" class="section detail">
 
     ### circleArea
 
@@ -345,7 +490,8 @@ Area to perform search on.
 
     </div>
 
-  - <div id="corridorArea" class="section detail">
+  - <div id="sdk-for-android-explore-corridorArea"
+    class="section detail">
 
     ### corridorArea
 
@@ -381,7 +527,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="countries" class="section detail">
+  - <div id="sdk-for-android-explore-countries" class="section detail">
 
     ### countries
 
@@ -391,7 +537,7 @@ Area to perform search on.
     </span><span class="modifiers">public
     final</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")></span> <span class="element-name">countries</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
 
     </div>
 
@@ -407,9 +553,10 @@ Area to perform search on.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Area
@@ -435,7 +582,8 @@ Area to perform search on.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoBox)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoBox)"
+    class="section detail">
 
     ### Area
 
@@ -462,7 +610,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCircle)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCircle)"
     class="section detail">
 
     ### Area
@@ -489,7 +637,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Area
@@ -536,7 +684,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="<init>(java.util.List,com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Area
@@ -546,7 +694,7 @@ Area to perform search on.
     <span class="modifiers">public</span> <span class="element-name">Area</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")> countries,
+    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\> countries,
     @NonNull
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
 
@@ -573,9 +721,11 @@ Area to perform search on.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -599,7 +749,7 @@ Area to perform search on.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

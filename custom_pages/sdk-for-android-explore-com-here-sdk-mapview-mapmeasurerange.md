@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.mapview.MapMeasureRange
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ A map measure range.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,55 +47,104 @@ A map measure range.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>final </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind"
-  title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#kind"
-  class="member-name-link"><code>kind</code></a></td>
-  <td><div class="block">
-  The kind of measure represented by value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#maximumValue"
-  class="member-name-link"><code>maximumValue</code></a></td>
-  <td><div class="block">
-  The maximum measure value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#minimumValue"
-  class="member-name-link"><code>minimumValue</code></a></td>
-  <td><div class="block">
-  The minimum measure value.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final `[`MapMeasure.Kind`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#kind"
+  class="member-name-link"><code>kind</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The kind of measure represented by value.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#maximumValue"
+  class="member-name-link"><code>maximumValue</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The maximum measure value.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#minimumValue"
+  class="member-name-link"><code>minimumValue</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The minimum measure value.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -101,72 +152,102 @@ A map measure range.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapMeasureRange(MapMeasure.Kind kind,
-   double minimumValue,
-   double maximumValue)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMeasureRange(MapMeasure.Kind kind,
+       double minimumValue,
+       double maximumValue)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Constructs a MapMeasureRange from the kind and range values.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -215,9 +296,10 @@ A map measure range.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="kind" class="section detail">
+  - <div id="sdk-for-android-explore-kind" class="section detail">
 
     ### kind
 
@@ -237,7 +319,8 @@ A map measure range.
 
     </div>
 
-  - <div id="minimumValue" class="section detail">
+  - <div id="sdk-for-android-explore-minimumValue"
+    class="section detail">
 
     ### minimumValue
 
@@ -256,7 +339,8 @@ A map measure range.
 
     </div>
 
-  - <div id="maximumValue" class="section detail">
+  - <div id="sdk-for-android-explore-maximumValue"
+    class="section detail">
 
     ### maximumValue
 
@@ -277,9 +361,10 @@ A map measure range.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasure.Kind,double,double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,double,double)"
     class="section detail">
 
     ### MapMeasureRange
@@ -315,9 +400,11 @@ A map measure range.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -341,7 +428,7 @@ A map measure range.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

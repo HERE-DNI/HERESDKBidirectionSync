@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.TransitIncident
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ Disruptions scale from delays to service cancellations.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,108 +48,215 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#description"
-  class="member-name-link"><code>description</code></a></td>
-  <td><div class="block">
-  A human readable description of the incident
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect"
-  title="enum class in com.here.sdk.routing"><code>TransitIncidentEffect</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#effect"
-  class="member-name-link"><code>effect</code></a></td>
-  <td><div class="block">
-  Effect of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#summary"
-  class="member-name-link"><code>summary</code></a></td>
-  <td><div class="block">
-  A human readable summary of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype"
-  title="enum class in com.here.sdk.routing"><code>TransitIncidentType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#type"
-  class="member-name-link"><code>type</code></a></td>
-  <td><div class="block">
-  Type of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#url"
-  class="member-name-link"><code>url</code></a></td>
-  <td><div class="block">
-  Link to the original incident published at the agency website.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validFrom"
-  class="member-name-link"><code>validFrom</code></a></td>
-  <td><div class="block">
-  Valid from.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validUntil"
-  class="member-name-link"><code>validUntil</code></a></td>
-  <td><div class="block">
-  Valid until.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#description"
+  class="member-name-link"><code>description</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A human readable description of the incident
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TransitIncidentEffect`](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#effect"
+  class="member-name-link"><code>effect</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Effect of the incident.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#summary"
+  class="member-name-link"><code>summary</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A human readable summary of the incident.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TransitIncidentType`](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#type"
+  class="member-name-link"><code>type</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Type of the incident.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#url"
+  class="member-name-link"><code>url</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Link to the original incident published at the agency website.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validFrom"
+  class="member-name-link"><code>validFrom</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Valid from.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validUntil"
+  class="member-name-link"><code>validUntil</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Valid until.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -155,76 +264,106 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TransitIncident(String summary,
-   String description,
-   TransitIncidentType type,
-   TransitIncidentEffect effect,
-   Date validFrom,
-   Date validUntil,
-   String url)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TransitIncident(String summary,
+       String description,
+       TransitIncidentType type,
+       TransitIncidentEffect effect,
+       Date validFrom,
+       Date validUntil,
+       String url)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -273,9 +412,10 @@ Disruptions scale from delays to service cancellations.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="summary" class="section detail">
+  - <div id="sdk-for-android-explore-summary" class="section detail">
 
     ### summary
 
@@ -296,7 +436,8 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="description" class="section detail">
+  - <div id="sdk-for-android-explore-description"
+    class="section detail">
 
     ### description
 
@@ -317,7 +458,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="type" class="section detail">
+  - <div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -336,7 +477,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="effect" class="section detail">
+  - <div id="sdk-for-android-explore-effect" class="section detail">
 
     ### effect
 
@@ -355,7 +496,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="validFrom" class="section detail">
+  - <div id="sdk-for-android-explore-validFrom" class="section detail">
 
     ### validFrom
 
@@ -376,7 +517,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="validUntil" class="section detail">
+  - <div id="sdk-for-android-explore-validUntil" class="section detail">
 
     ### validUntil
 
@@ -397,7 +538,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="url" class="section detail">
+  - <div id="sdk-for-android-explore-url" class="section detail">
 
     ### url
 
@@ -420,9 +561,10 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)"
     class="section detail">
 
     ### TransitIncident
@@ -491,9 +633,11 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -517,7 +661,7 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

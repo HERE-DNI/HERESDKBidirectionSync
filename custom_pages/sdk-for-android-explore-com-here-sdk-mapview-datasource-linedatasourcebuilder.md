@@ -18,7 +18,8 @@ com.here.sdk.mapview.datasource.LineDataSourceBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -49,96 +51,154 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>LineDataSourceBuilder(MapContext context)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LineDataSourceBuilder(MapContext context)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a data source builder instance in the given context.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource"
-  title="class in com.here.sdk.mapview.datasource"><code>LineDataSource</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LineDataSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Builds instance of LineDataSource.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>LineDataSourceBuilder</code></a></td>
-  <td><pre><code>withName(String dataSourceName)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withName(String dataSourceName)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to use the given name for data source.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>LineDataSourceBuilder</code></a></td>
-  <td><pre><code>withPolyline(LineData polyline)</code></pre></td>
-  <td><div class="block">
-  Configures the builder to insert the given polyline in the data source.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>LineDataSourceBuilder</code></a></td>
-  <td><pre><code>withPolylines(List&lt;LineData&gt; polylines)</code></pre></td>
-  <td><div class="block">
-  Configures the builder to insert the given polylines in the data source.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withPolyline(LineData polyline)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Configures the builder to insert the given polyline in the data
+  source.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withPolylines(List<LineData> polylines)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Configures the builder to insert the given polylines in the data
+  source.
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -193,9 +253,10 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapContext)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext)"
     class="section detail">
 
     ### LineDataSourceBuilder
@@ -222,9 +283,11 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withName(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-withName(java.lang.String)"
+    class="section detail">
 
     ### withName
 
@@ -254,7 +317,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="withPolyline(com.here.sdk.mapview.datasource.LineData)"
+  - <div id="sdk-for-android-explore-withPolyline(com.here.sdk.mapview.datasource.LineData)"
     class="section detail">
 
     ### withPolyline
@@ -284,7 +347,8 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="withPolylines(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-withPolylines(java.util.List)"
+    class="section detail">
 
     ### withPolylines
 
@@ -294,7 +358,7 @@ APIs may change for new releases without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")> polylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")\> polylines)</span>
 
     </div>
 
@@ -315,7 +379,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

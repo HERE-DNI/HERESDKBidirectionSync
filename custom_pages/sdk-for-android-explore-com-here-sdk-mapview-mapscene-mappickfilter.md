@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapScene.MapPickFilter
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
@@ -41,7 +42,8 @@ Filter for the map content to be picked.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -49,36 +51,57 @@ Filter for the map content to be picked.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapScene.MapPickFilter.ContentType</code></a></td>
-  <td><div class="block">
-  Type of the map content to be picked.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>MapScene.MapPickFilter.ContentType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Type of the map content to be picked.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -86,30 +109,42 @@ Filter for the map content to be picked.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapPickFilter(List&lt;MapScene.MapPickFilter.ContentType&gt; filter)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of MapScene.MapPickFilter .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapPickFilter(List<MapScene.MapPickFilter.ContentType> filter)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of MapScene.MapPickFilter .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -160,9 +195,11 @@ Filter for the map content to be picked.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+    class="section detail">
 
     ### MapPickFilter
 
@@ -171,7 +208,7 @@ Filter for the map content to be picked.
     <span class="modifiers">public</span> <span class="element-name">MapPickFilter</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")> filter)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")\> filter)</span>
 
     </div>
 

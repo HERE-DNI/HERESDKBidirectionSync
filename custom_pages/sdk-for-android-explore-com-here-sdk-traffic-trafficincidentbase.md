@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Known Implementing Classes:  
 [`PickMapContentResult.TrafficIncidentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview"),
@@ -33,86 +34,149 @@ TrafficIncident provides details about a traffic incident.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext"
-  title="class in com.here.sdk.core"><code>LocalizedText</code></a></td>
-  <td><pre><code>getDescription()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getDescription()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the human readable description of the incident, possibly with
   location information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
   class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><pre><code>getEndTime()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getEndTime()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Get the time until which the incident is valid, after this time the
   incident should not be considered.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentImpact</code></a></td>
-  <td><pre><code>getImpact()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`TrafficIncidentImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getImpact()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the impact of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
   class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><pre><code>getStartTime()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getStartTime()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the time from which the incident is valid, before this time the
   incident should not be considered.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentType</code></a></td>
-  <td><pre><code>getType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  [`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getType()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Gets the category of the incident.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -124,9 +188,11 @@ TrafficIncident provides details about a traffic incident.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getImpact()" class="section detail">
+  - <div id="sdk-for-android-explore-getImpact()"
+    class="section detail">
 
     ### getImpact
 
@@ -150,7 +216,7 @@ TrafficIncident provides details about a traffic incident.
 
     </div>
 
-  - <div id="getType()" class="section detail">
+  - <div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -174,7 +240,8 @@ TrafficIncident provides details about a traffic incident.
 
     </div>
 
-  - <div id="getDescription()" class="section detail">
+  - <div id="sdk-for-android-explore-getDescription()"
+    class="section detail">
 
     ### getDescription
 
@@ -201,7 +268,8 @@ TrafficIncident provides details about a traffic incident.
 
     </div>
 
-  - <div id="getStartTime()" class="section detail">
+  - <div id="sdk-for-android-explore-getStartTime()"
+    class="section detail">
 
     ### getStartTime
 
@@ -228,7 +296,8 @@ TrafficIncident provides details about a traffic incident.
 
     </div>
 
-  - <div id="getEndTime()" class="section detail">
+  - <div id="sdk-for-android-explore-getEndTime()"
+    class="section detail">
 
     ### getEndTime
 

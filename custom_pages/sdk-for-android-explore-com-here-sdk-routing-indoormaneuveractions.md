@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<IndoorManeuverActions>com.here.sdk.routing.IndoorManeuverActions
+java.lang.Enum\<IndoorManeuverActions\>com.here.sdk.routing.IndoorManeuverActions
 → java.lang.Enum → IndoorManeuverActions →
 com.here.sdk.routing.IndoorManeuverActions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">IndoorManeuverActions</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ Defines the types of actions for indoor maneuvers.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ Defines the types of actions for indoor maneuvers.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,201 +86,381 @@ Defines the types of actions for indoor maneuvers.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#ARRIVE"
-  class="member-name-link"><code>ARRIVE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ARRIVE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   End of the route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#CONTINUE_ON"
-  class="member-name-link"><code>CONTINUE_ON</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CONTINUE_ON</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Continue on the current path.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#DEPART"
-  class="member-name-link"><code>DEPART</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DEPART</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Start the route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#ENTER_ACTION"
-  class="member-name-link"><code>ENTER_ACTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ENTER_ACTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Enter a space or area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEAVE_ACTION"
-  class="member-name-link"><code>LEAVE_ACTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LEAVE_ACTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Leave a space or area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_EXIT"
-  class="member-name-link"><code>LEFT_EXIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LEFT_EXIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Exit to the left.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_TURN"
-  class="member-name-link"><code>LEFT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LEFT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Make a left turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_U_TURN"
-  class="member-name-link"><code>LEFT_U_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LEFT_U_TURN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Make a left U-turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEVEL_CHANGE_ACTION"
-  class="member-name-link"><code>LEVEL_CHANGE_ACTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LEVEL_CHANGE_ACTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Change level action (e.g., use stairs, elevator).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_EXIT"
-  class="member-name-link"><code>RIGHT_EXIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RIGHT_EXIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Exit to the right.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_TURN"
-  class="member-name-link"><code>RIGHT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RIGHT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Make a right turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_U_TURN"
-  class="member-name-link"><code>RIGHT_U_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RIGHT_U_TURN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Make a right U-turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SHARP_LEFT_TURN"
-  class="member-name-link"><code>SHARP_LEFT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SHARP_LEFT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Make a sharp left turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SHARP_RIGHT_TURN"
-  class="member-name-link"><code>SHARP_RIGHT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SHARP_RIGHT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Make a sharp right turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SLIGHT_LEFT_TURN"
-  class="member-name-link"><code>SLIGHT_LEFT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SLIGHT_LEFT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Make a slight left turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SLIGHT_RIGHT_TURN"
-  class="member-name-link"><code>SLIGHT_RIGHT_TURN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SLIGHT_RIGHT_TURN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Make a slight right turn.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
-  title="enum class in com.here.sdk.routing"><code>IndoorManeuverActions</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
-  title="enum class in com.here.sdk.routing"><code>IndoorManeuverActions</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -360,9 +543,10 @@ Defines the types of actions for indoor maneuvers.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="DEPART" class="section detail">
+  - <div id="sdk-for-android-explore-DEPART" class="section detail">
 
     ### DEPART
 
@@ -381,7 +565,7 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="ARRIVE" class="section detail">
+  - <div id="sdk-for-android-explore-ARRIVE" class="section detail">
 
     ### ARRIVE
 
@@ -400,7 +584,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="LEFT_U_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-LEFT_U_TURN"
+    class="section detail">
 
     ### LEFT_U_TURN
 
@@ -419,7 +604,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="SHARP_LEFT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-SHARP_LEFT_TURN"
+    class="section detail">
 
     ### SHARP_LEFT_TURN
 
@@ -438,7 +624,7 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="LEFT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-LEFT_TURN" class="section detail">
 
     ### LEFT_TURN
 
@@ -457,7 +643,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="SLIGHT_LEFT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-SLIGHT_LEFT_TURN"
+    class="section detail">
 
     ### SLIGHT_LEFT_TURN
 
@@ -476,7 +663,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="SLIGHT_RIGHT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-SLIGHT_RIGHT_TURN"
+    class="section detail">
 
     ### SLIGHT_RIGHT_TURN
 
@@ -495,7 +683,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="CONTINUE_ON" class="section detail">
+  - <div id="sdk-for-android-explore-CONTINUE_ON"
+    class="section detail">
 
     ### CONTINUE_ON
 
@@ -514,7 +703,7 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="RIGHT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-RIGHT_TURN" class="section detail">
 
     ### RIGHT_TURN
 
@@ -533,7 +722,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="SHARP_RIGHT_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-SHARP_RIGHT_TURN"
+    class="section detail">
 
     ### SHARP_RIGHT_TURN
 
@@ -552,7 +742,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="RIGHT_U_TURN" class="section detail">
+  - <div id="sdk-for-android-explore-RIGHT_U_TURN"
+    class="section detail">
 
     ### RIGHT_U_TURN
 
@@ -571,7 +762,7 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="LEFT_EXIT" class="section detail">
+  - <div id="sdk-for-android-explore-LEFT_EXIT" class="section detail">
 
     ### LEFT_EXIT
 
@@ -590,7 +781,7 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="RIGHT_EXIT" class="section detail">
+  - <div id="sdk-for-android-explore-RIGHT_EXIT" class="section detail">
 
     ### RIGHT_EXIT
 
@@ -609,7 +800,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="LEVEL_CHANGE_ACTION" class="section detail">
+  - <div id="sdk-for-android-explore-LEVEL_CHANGE_ACTION"
+    class="section detail">
 
     ### LEVEL_CHANGE_ACTION
 
@@ -628,7 +820,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="ENTER_ACTION" class="section detail">
+  - <div id="sdk-for-android-explore-ENTER_ACTION"
+    class="section detail">
 
     ### ENTER_ACTION
 
@@ -647,7 +840,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="LEAVE_ACTION" class="section detail">
+  - <div id="sdk-for-android-explore-LEAVE_ACTION"
+    class="section detail">
 
     ### LEAVE_ACTION
 
@@ -668,9 +862,10 @@ Defines the types of actions for indoor maneuvers.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -694,7 +889,8 @@ Defines the types of actions for indoor maneuvers.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

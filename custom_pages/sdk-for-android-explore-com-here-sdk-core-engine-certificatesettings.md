@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.engine.CertificateSettings
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,68 +47,120 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#certFileBlob"
-  class="member-name-link"><code>certFileBlob</code></a></td>
-  <td><div class="block">
-  The CA file as blob (https://curl.se/libcurl/c/CURLOPT_CAINFO_BLOB.html)
-  Binary data of PEM encoded content holding one or more certificates to
-  verify the HTTPS server with.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#clientCertFileBlob"
-  class="member-name-link"><code>clientCertFileBlob</code></a></td>
-  <td><div class="block">
-  The client certificate file as blob
-  (https://curl.se/libcurl/c/CURLOPT_SSLCERT_BLOB.html) The format must be
-  "P12" or "PEM" on OpenSSL.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#clientKeyFileBlob"
-  class="member-name-link"><code>clientKeyFileBlob</code></a></td>
-  <td><div class="block">
-  The client key certificate file as blob
-  (https://curl.se/libcurl/c/CURLOPT_SSLKEY_BLOB.html) Compatible with
-  OpenSSL.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#certFileBlob"
+  class="member-name-link"><code>certFileBlob</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The CA file as blob
+  (https://curl.se/libcurl/c/CURLOPT_CAINFO_BLOB.html) Binary data of
+  PEM encoded content holding one or more certificates to verify the
+  HTTPS server with.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#clientCertFileBlob"
+  class="member-name-link"><code>clientCertFileBlob</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The client certificate file as blob
+  (https://curl.se/libcurl/c/CURLOPT_SSLCERT_BLOB.html) The format must
+  be "P12" or "PEM" on OpenSSL.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings#clientKeyFileBlob"
+  class="member-name-link"><code>clientKeyFileBlob</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The client key certificate file as blob
+  (https://curl.se/libcurl/c/CURLOPT_SSLKEY_BLOB.html) Compatible with
+  OpenSSL.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -114,71 +168,101 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>CertificateSettings(String clientCertFileBlob,
-   String clientKeyFileBlob)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      CertificateSettings(String clientCertFileBlob,
+       String clientKeyFileBlob)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -227,9 +311,11 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="clientCertFileBlob" class="section detail">
+  - <div id="sdk-for-android-explore-clientCertFileBlob"
+    class="section detail">
 
     ### clientCertFileBlob
 
@@ -255,7 +341,8 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
     </div>
 
-  - <div id="clientKeyFileBlob" class="section detail">
+  - <div id="sdk-for-android-explore-clientKeyFileBlob"
+    class="section detail">
 
     ### clientKeyFileBlob
 
@@ -280,7 +367,8 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
     </div>
 
-  - <div id="certFileBlob" class="section detail">
+  - <div id="sdk-for-android-explore-certFileBlob"
+    class="section detail">
 
     ### certFileBlob
 
@@ -308,9 +396,10 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### CertificateSettings
@@ -355,9 +444,11 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -381,7 +472,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

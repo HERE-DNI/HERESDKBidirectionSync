@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.routing.IndoorSectionDetails
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,67 +39,99 @@ Provides additional details for an indoor Section .
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
-  title="class in com.here.sdk.routing"><code>IndoorRoutePlace</code></a></td>
-  <td><pre><code>getArrivalPlace()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`IndoorRoutePlace`](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getArrivalPlace()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the arrival place of the indoor section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
-  title="class in com.here.sdk.routing"><code>IndoorRoutePlace</code></a></td>
-  <td><pre><code>getDeparturePlace()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`IndoorRoutePlace`](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDeparturePlace()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the departure place of the indoor section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver"
-  title="class in com.here.sdk.routing"><code>IndoorManeuver</code></a><code>&gt;</code></td>
-  <td><pre><code>getIndoorManeuvers()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`IndoorManeuver`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuver "class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIndoorManeuvers()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of indoor maneuvers within this indoor section.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -153,9 +186,11 @@ Provides additional details for an indoor Section .
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getIndoorManeuvers()" class="section detail">
+  - <div id="sdk-for-android-explore-getIndoorManeuvers()"
+    class="section detail">
 
     ### getIndoorManeuvers
 
@@ -164,7 +199,7 @@ Provides additional details for an indoor Section .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[IndoorManeuver](sdk-for-android-explore-com-here-sdk-routing-indoormaneuver "class in com.here.sdk.routing")></span> <span class="element-name">getIndoorManeuvers</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[IndoorManeuver](sdk-for-android-explore-com-here-sdk-routing-indoormaneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getIndoorManeuvers</span>()
 
     </div>
 
@@ -179,7 +214,8 @@ Provides additional details for an indoor Section .
 
     </div>
 
-  - <div id="getDeparturePlace()" class="section detail">
+  - <div id="sdk-for-android-explore-getDeparturePlace()"
+    class="section detail">
 
     ### getDeparturePlace
 
@@ -201,7 +237,8 @@ Provides additional details for an indoor Section .
 
     </div>
 
-  - <div id="getArrivalPlace()" class="section detail">
+  - <div id="sdk-for-android-explore-getArrivalPlace()"
+    class="section detail">
 
     ### getArrivalPlace
 

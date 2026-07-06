@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.datasource.DataAttributeValue
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -49,36 +51,57 @@ new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a></td>
-  <td><div class="block">
-  Supported types of the data attribute values.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Supported types of the data attribute values.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -86,187 +109,381 @@ new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>DataAttributeValue(boolean value)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataAttributeValue(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a boolean data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      DataAttributeValue(double value)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a double precision floating decimal data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(float value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataAttributeValue(float value)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a single precision floating decimal data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(long value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      DataAttributeValue(long value)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a 64-bit integer data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(Color value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataAttributeValue(Color value)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a color data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(String value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      DataAttributeValue(String value)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a string data attribute value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>DataAttributeValue(List&lt;DataAttributeValue&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataAttributeValue(List<DataAttributeValue> value)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an aggregated data attribute value.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributeValue</code></a><code>&gt;</code></td>
-  <td><pre><code>getArray()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getArray()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the array value or null if the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getAsString()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAsString()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns a string representation of the contained value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Boolean</code></a></td>
-  <td><pre><code>getBoolean()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Boolean</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBoolean()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the boolean value or null if the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the color value or null if the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getDouble()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDouble()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the double precision floating decimal value or null if the type
   doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Float</code></a></td>
-  <td><pre><code>getFloat()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Float</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFloat()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the single precision floating decimal value or null if the type
   doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Long</code></a></td>
-  <td><pre><code>getInt64()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Long</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getInt64()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets 64-bits integer value or null if the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getString()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getString()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the string value or null if the type doesn't match.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
-  title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a></td>
-  <td><pre><code>getType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributeValue.ValueType`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getType()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the type of the value.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -321,9 +538,11 @@ new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -349,7 +568,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(long)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(long)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -372,7 +592,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(float)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(float)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -395,7 +616,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(double)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(double)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -418,7 +640,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(boolean)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -441,7 +664,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.Color)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Color)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -465,7 +689,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+    class="section detail">
 
     ### DataAttributeValue
 
@@ -474,7 +699,7 @@ new releases without a deprecation process.
     <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\> value)</span>
 
     </div>
 
@@ -493,9 +718,10 @@ new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getType()" class="section detail">
+  - <div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -517,7 +743,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getString()" class="section detail">
+  - <div id="sdk-for-android-explore-getString()"
+    class="section detail">
 
     ### getString
 
@@ -541,7 +768,7 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getInt64()" class="section detail">
+  - <div id="sdk-for-android-explore-getInt64()" class="section detail">
 
     ### getInt64
 
@@ -565,7 +792,7 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getFloat()" class="section detail">
+  - <div id="sdk-for-android-explore-getFloat()" class="section detail">
 
     ### getFloat
 
@@ -590,7 +817,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getDouble()" class="section detail">
+  - <div id="sdk-for-android-explore-getDouble()"
+    class="section detail">
 
     ### getDouble
 
@@ -615,7 +843,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getBoolean()" class="section detail">
+  - <div id="sdk-for-android-explore-getBoolean()"
+    class="section detail">
 
     ### getBoolean
 
@@ -640,7 +869,7 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getColor()" class="section detail">
 
     ### getColor
 
@@ -662,7 +891,7 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getArray()" class="section detail">
+  - <div id="sdk-for-android-explore-getArray()" class="section detail">
 
     ### getArray
 
@@ -671,7 +900,7 @@ new releases without a deprecation process.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")></span> <span class="element-name">getArray</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\></span> <span class="element-name">getArray</span>()
 
     </div>
 
@@ -686,7 +915,8 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="getAsString()" class="section detail">
+  - <div id="sdk-for-android-explore-getAsString()"
+    class="section detail">
 
     ### getAsString
 

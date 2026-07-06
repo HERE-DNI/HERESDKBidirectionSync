@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.search.EVChargingLocation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -52,228 +53,468 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup"
-  title="class in com.here.sdk.search"><code>EVChargingConnectorGroup</code></a><code>&gt;</code></td>
-  <td><pre><code>getConnectorGroups()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingConnectorGroup`](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getConnectorGroups()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the connector groups for the location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getCpoID()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCpoID()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the CPO's own ID for the location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator"
-  title="class in com.here.sdk.search"><code>EVChargingOperator</code></a><code>&gt;</code></td>
-  <td><pre><code>getEMobilityServiceProviders()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEMobilityServiceProviders()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of eMSPs with a roaming agreement enabling access to the
   EV charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-energymix"
-  title="class in com.here.sdk.search"><code>EnergyMix</code></a></td>
-  <td><pre><code>getEnergyMix()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`EnergyMix`](sdk-for-android-explore-com-here-sdk-search-energymix "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEnergyMix()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the details on the energy supplied at the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator"
-  title="class in com.here.sdk.search"><code>EVChargingOperator</code></a></td>
-  <td><pre><code>getEvChargingOperator()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvChargingOperator()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the operator of the charging point, if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator"
-  title="class in com.here.sdk.search"><code>EVChargingOperator</code></a></td>
-  <td><pre><code>getEvChargingSubOperator()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvChargingSubOperator()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the suboperator of the charging point, if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo"
-  title="class in com.here.sdk.search"><code>EVSEInfo</code></a><code>&gt;</code></td>
-  <td><pre><code>getEvses()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVSEInfo`](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvses()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of EVSEs at the charging station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype"
-  title="enum class in com.here.sdk.search"><code>FacilityType</code></a><code>&gt;</code></td>
-  <td><pre><code>getFacilityTypes()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFacilityTypes()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of facilities available at the charging location, for
   example hotel, wifi, parking lot etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getID()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getID()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the unique identifier of the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getName()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getName()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the display name of the charging location, if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
-  title="class in com.here.sdk.search"><code>EVChargingOpeningHours</code></a></td>
-  <td><pre><code>getOpeningHours()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`EVChargingOpeningHours`](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOpeningHours()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the times when the EVSEs at the charging location can be accessed
   for charging.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-parkingtype"
-  title="enum class in com.here.sdk.search"><code>ParkingType</code></a></td>
-  <td><pre><code>getParkingType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`ParkingType`](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getParkingType()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the type of parking at the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason"
-  title="enum class in com.here.sdk.search"><code>EVAccessRestrictionReason</code></a><code>&gt;</code></td>
-  <td><pre><code>getRestrictions()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVAccessRestrictionReason`](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRestrictions()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of restrictions.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory"
-  title="enum class in com.here.sdk.search"><code>EVChargingVehicleCategory</code></a><code>&gt;</code></td>
-  <td><pre><code>getSupportedVehicles()</code></pre></td>
-  <td><div class="block">
-  Gets the list of vehicle categories this charging location can support.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingVehicleCategory`](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSupportedVehicles()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of vehicle categories this charging location can
+  support.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getSupportPhoneNumber()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSupportPhoneNumber()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the phone number that EV drivers should call when need assistance
   at the charge location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariff"
-  title="class in com.here.sdk.search"><code>EVChargingTariff</code></a><code>&gt;</code></td>
-  <td><pre><code>getTariffs()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingTariff`](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTariffs()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of tariffs or price plans for the connectors of the
   charging station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getTimeZone()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTimeZone()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the time zone of the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction"
-  title="class in com.here.sdk.search"><code>EVChargingTruckRestriction</code></a></td>
-  <td><pre><code>getTruckRestrictions()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`EVChargingTruckRestriction`](sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTruckRestrictions()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the access restrictions for trucks and light commercial vehicles.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -328,9 +569,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getID()" class="section detail">
+  - <div id="sdk-for-android-explore-getID()" class="section detail">
 
     ### getID
 
@@ -354,7 +596,7 @@ deprecation process.
 
     </div>
 
-  - <div id="getName()" class="section detail">
+  - <div id="sdk-for-android-explore-getName()" class="section detail">
 
     ### getName
 
@@ -378,7 +620,7 @@ deprecation process.
 
     </div>
 
-  - <div id="getCpoID()" class="section detail">
+  - <div id="sdk-for-android-explore-getCpoID()" class="section detail">
 
     ### getCpoID
 
@@ -406,7 +648,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getEvChargingOperator()" class="section detail">
+  - <div id="sdk-for-android-explore-getEvChargingOperator()"
+    class="section detail">
 
     ### getEvChargingOperator
 
@@ -428,7 +671,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getEvChargingSubOperator()" class="section detail">
+  - <div id="sdk-for-android-explore-getEvChargingSubOperator()"
+    class="section detail">
 
     ### getEvChargingSubOperator
 
@@ -450,7 +694,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getEMobilityServiceProviders()" class="section detail">
+  - <div id="sdk-for-android-explore-getEMobilityServiceProviders()"
+    class="section detail">
 
     ### getEMobilityServiceProviders
 
@@ -459,7 +704,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")></span> <span class="element-name">getEMobilityServiceProviders</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")\></span> <span class="element-name">getEMobilityServiceProviders</span>()
 
     </div>
 
@@ -478,7 +723,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getFacilityTypes()" class="section detail">
+  - <div id="sdk-for-android-explore-getFacilityTypes()"
+    class="section detail">
 
     ### getFacilityTypes
 
@@ -487,7 +733,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")></span> <span class="element-name">getFacilityTypes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span> <span class="element-name">getFacilityTypes</span>()
 
     </div>
 
@@ -506,7 +752,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getParkingType()" class="section detail">
+  - <div id="sdk-for-android-explore-getParkingType()"
+    class="section detail">
 
     ### getParkingType
 
@@ -530,7 +777,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getEnergyMix()" class="section detail">
+  - <div id="sdk-for-android-explore-getEnergyMix()"
+    class="section detail">
 
     ### getEnergyMix
 
@@ -554,7 +802,7 @@ deprecation process.
 
     </div>
 
-  - <div id="getEvses()" class="section detail">
+  - <div id="sdk-for-android-explore-getEvses()" class="section detail">
 
     ### getEvses
 
@@ -563,7 +811,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")></span> <span class="element-name">getEvses</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")\></span> <span class="element-name">getEvses</span>()
 
     </div>
 
@@ -580,7 +828,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getTariffs()" class="section detail">
+  - <div id="sdk-for-android-explore-getTariffs()"
+    class="section detail">
 
     ### getTariffs
 
@@ -589,7 +838,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")></span> <span class="element-name">getTariffs</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")\></span> <span class="element-name">getTariffs</span>()
 
     </div>
 
@@ -613,7 +862,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getConnectorGroups()" class="section detail">
+  - <div id="sdk-for-android-explore-getConnectorGroups()"
+    class="section detail">
 
     ### getConnectorGroups
 
@@ -622,7 +872,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")></span> <span class="element-name">getConnectorGroups</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")\></span> <span class="element-name">getConnectorGroups</span>()
 
     </div>
 
@@ -640,7 +890,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getSupportedVehicles()" class="section detail">
+  - <div id="sdk-for-android-explore-getSupportedVehicles()"
+    class="section detail">
 
     ### getSupportedVehicles
 
@@ -649,7 +900,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")></span> <span class="element-name">getSupportedVehicles</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")\></span> <span class="element-name">getSupportedVehicles</span>()
 
     </div>
 
@@ -671,7 +922,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getTruckRestrictions()" class="section detail">
+  - <div id="sdk-for-android-explore-getTruckRestrictions()"
+    class="section detail">
 
     ### getTruckRestrictions
 
@@ -697,7 +949,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getOpeningHours()" class="section detail">
+  - <div id="sdk-for-android-explore-getOpeningHours()"
+    class="section detail">
 
     ### getOpeningHours
 
@@ -723,7 +976,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getRestrictions()" class="section detail">
+  - <div id="sdk-for-android-explore-getRestrictions()"
+    class="section detail">
 
     ### getRestrictions
 
@@ -732,7 +986,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")></span> <span class="element-name">getRestrictions</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">getRestrictions</span>()
 
     </div>
 
@@ -747,7 +1001,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getSupportPhoneNumber()" class="section detail">
+  - <div id="sdk-for-android-explore-getSupportPhoneNumber()"
+    class="section detail">
 
     ### getSupportPhoneNumber
 
@@ -775,7 +1030,8 @@ deprecation process.
 
     </div>
 
-  - <div id="getTimeZone()" class="section detail">
+  - <div id="sdk-for-android-explore-getTimeZone()"
+    class="section detail">
 
     ### getTimeZone
 

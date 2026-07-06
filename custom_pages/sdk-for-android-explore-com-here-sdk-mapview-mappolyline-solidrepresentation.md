@@ -22,7 +22,8 @@ com.here.sdk.mapview.MapPolyline.SolidRepresentation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
@@ -52,7 +53,8 @@ RenderSize.Unit.PIXELS is supported.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -62,7 +64,8 @@ RenderSize.Unit.PIXELS is supported.
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -70,114 +73,196 @@ RenderSize.Unit.PIXELS is supported.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
-   Color color,
-   LineCap capShape)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
+       Color color,
+       LineCap capShape)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a representation for a solid line without outline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
-   Color color,
-   MapMeasureDependentRenderSize outlineWidth,
-   Color outlineColor,
-   LineCap capShape)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
+       Color color,
+       MapMeasureDependentRenderSize outlineWidth,
+       Color outlineColor,
+       LineCap capShape)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a representation for a solid line with outline.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-linecap"
-  title="enum class in com.here.sdk.mapview"><code>LineCap</code></a></td>
-  <td><pre><code>getCapShape()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LineCap`](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCapShape()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the cap shape of the polyline and its outline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getLineColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLineColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the color of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getLineWidth()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLineWidth()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the map measure dependent polyline width.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getOutlineColor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOutlineColor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the color of outline of the polyline.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
-  <td><pre><code>getOutlineWidth()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOutlineWidth()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the map measure dependent polyline outline width.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -232,9 +317,10 @@ RenderSize.Unit.PIXELS is supported.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
     class="section detail">
 
     ### SolidRepresentation
@@ -290,7 +376,7 @@ RenderSize.Unit.PIXELS is supported.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
     class="section detail">
 
     ### SolidRepresentation
@@ -362,9 +448,11 @@ RenderSize.Unit.PIXELS is supported.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getLineWidth()" class="section detail">
+  - <div id="sdk-for-android-explore-getLineWidth()"
+    class="section detail">
 
     ### getLineWidth
 
@@ -393,7 +481,8 @@ RenderSize.Unit.PIXELS is supported.
 
     </div>
 
-  - <div id="getLineColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getLineColor()"
+    class="section detail">
 
     ### getLineColor
 
@@ -415,7 +504,8 @@ RenderSize.Unit.PIXELS is supported.
 
     </div>
 
-  - <div id="getOutlineWidth()" class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineWidth()"
+    class="section detail">
 
     ### getOutlineWidth
 
@@ -447,7 +537,8 @@ RenderSize.Unit.PIXELS is supported.
 
     </div>
 
-  - <div id="getOutlineColor()" class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineColor()"
+    class="section detail">
 
     ### getOutlineColor
 
@@ -469,7 +560,8 @@ RenderSize.Unit.PIXELS is supported.
 
     </div>
 
-  - <div id="getCapShape()" class="section detail">
+  - <div id="sdk-for-android-explore-getCapShape()"
+    class="section detail">
 
     ### getCapShape
 

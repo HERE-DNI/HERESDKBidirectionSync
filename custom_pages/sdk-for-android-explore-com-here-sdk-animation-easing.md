@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.animation.Easing
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ animations.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -46,46 +48,82 @@ animations.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.animation"><code>Easing.InstantiationErrorCode</code></a></td>
-  <td><div class="block">
-  Describes a reason for failing to create an Easing .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception"
-  class="type-name-link"
-  title="class in com.here.sdk.animation"><code>Easing.InstantiationException</code></a></td>
-  <td><div class="block">
-  Thrown when a problem occurs while trying to create an Easing .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.animation"><code>Easing.InstantiationErrorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Describes a reason for failing to create an Easing .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.animation"><code>Easing.InstantiationException</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Thrown when a problem occurs while trying to create an Easing .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -93,37 +131,59 @@ animations.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Easing(EasingFunction easingFunction)</code></pre></td>
-  <td><div class="block">
-  Creates an instance of Easing using a predefined easing function.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Easing(List&lt;Point2D&gt; points)</code></pre></td>
-  <td><div class="block">
-  Creates an instance of customized Easing using a specified number of
-  points describing an easing function.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Easing(EasingFunction easingFunction)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates an instance of Easing using a predefined easing function.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Easing(List<Point2D> points)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates an instance of customized Easing using a specified number of
+  points describing an easing function.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -174,9 +234,10 @@ animations.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.animation.EasingFunction)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.animation.EasingFunction)"
     class="section detail">
 
     ### Easing
@@ -201,7 +262,8 @@ animations.
 
     </div>
 
-  - <div id="<init>(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+    class="section detail">
 
     ### Easing
 
@@ -210,7 +272,7 @@ animations.
     <span class="modifiers">public</span> <span class="element-name">Easing</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")> points)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")\> points)</span>
     throws
     <span class="exceptions">[Easing.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")</span>
 
@@ -236,7 +298,7 @@ animations.
     must increase monotonically. There must be at least 2 data points
     specified. The first point's X value must be 0, the last point's X
     value must be 1. During an animation run for any given time value X'
-    from the animation engine that satisfies the relation X(i) < X' <
+    from the animation engine that satisfies the relation X(i) \< X' \<
     X(i+1) for the given X data points the corresponding Y' value will
     be calculated by linearly interpolating between Y(i) and Y(i+1) data
     points. The higher the sampling rate of the easing curve used for

@@ -18,7 +18,8 @@ com.here.sdk.transport.VehicleSpecification.ScooterBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
@@ -42,7 +43,8 @@ This class constructs a VehicleSpecification for a scooter.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -50,89 +52,132 @@ This class constructs a VehicleSpecification for a scooter.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>ScooterBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      ScooterBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance of this class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Builds the VehicleSpecification object for TransportMode.SCOOTER with
   the specifications taken from the VehicleSpecification.ScooterBuilder
   object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a></td>
-  <td><pre><code>withEngineSizeInCubicCentimeters(int engineSizeInCubicCentimeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withEngineSizeInCubicCentimeters(int engineSizeInCubicCentimeters)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle engine size in cubic centimeters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder"
-  title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a></td>
-  <td><pre><code>withOccupancy(int occupancy)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withOccupancy(int occupancy)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the vehicle occupants number.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -187,9 +232,10 @@ This class constructs a VehicleSpecification for a scooter.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### ScooterBuilder
 
@@ -209,9 +255,10 @@ This class constructs a VehicleSpecification for a scooter.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withEngineSizeInCubicCentimeters(int)"
+  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
     class="section detail">
 
     ### withEngineSizeInCubicCentimeters
@@ -241,7 +288,8 @@ This class constructs a VehicleSpecification for a scooter.
 
     </div>
 
-  - <div id="withOccupancy(int)" class="section detail">
+  - <div id="sdk-for-android-explore-withOccupancy(int)"
+    class="section detail">
 
     ### withOccupancy
 
@@ -270,7 +318,7 @@ This class constructs a VehicleSpecification for a scooter.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

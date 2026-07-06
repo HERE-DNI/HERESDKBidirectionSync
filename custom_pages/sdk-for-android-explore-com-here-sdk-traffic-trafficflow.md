@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.traffic.TrafficFlow
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 [`TrafficFlowBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")
@@ -49,122 +50,244 @@ releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getConfidence()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getConfidence()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the confidence field value which is normalized value between 0.0
   and 1.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getFreeFlowSpeedInMetersPerSecond()</code></pre></td>
-  <td><div class="block">
-  Gets the reference speed in meters per second along the roadway when no
-  traffic is present.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getJamFactor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFreeFlowSpeedInMetersPerSecond()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the reference speed in meters per second along the roadway when
+  no traffic is present.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getJamFactor()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a value for the amount of traffic on the roadway.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Short</code></a></td>
-  <td><pre><code>getJamTendency()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Short</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getJamTendency()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the jam tendency field value which denotes whether the congestion
   is increasing, decreasing, or constant.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability"
-  title="enum class in com.here.sdk.traffic"><code>JunctionsTraversability</code></a></td>
-  <td><pre><code>getJunctionsTraversability()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`JunctionsTraversability`](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getJunctionsTraversability()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the traversability of junctions along the affected road.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
-  title="class in com.here.sdk.traffic"><code>TrafficLocation</code></a></td>
-  <td><pre><code>getLocation()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TrafficLocation`](sdk-for-android-explore-com-here-sdk-traffic-trafficlocation "class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLocation()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the location of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getSpeedInMetersPerSecond()</code></pre></td>
-  <td><div class="block">
-  Gets the expected speed in meters per second along the roadway; will not
-  exceed the legal speed limit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSpeedInMetersPerSecond()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the expected speed in meters per second along the roadway; will
+  not exceed the legal speed limit.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getSpeedUncappedInMetersPerSecond()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSpeedUncappedInMetersPerSecond()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the expected speed in meters per second along the roadway.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-traversability"
-  title="enum class in com.here.sdk.traffic"><code>Traversability</code></a></td>
-  <td><pre><code>getTraversability()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Traversability`](sdk-for-android-explore-com-here-sdk-traffic-traversability "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTraversability()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the traversability of roadway.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -219,9 +342,11 @@ releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getLocation()" class="section detail">
+  - <div id="sdk-for-android-explore-getLocation()"
+    class="section detail">
 
     ### getLocation
 
@@ -243,7 +368,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getSpeedInMetersPerSecond()" class="section detail">
+  - <div id="sdk-for-android-explore-getSpeedInMetersPerSecond()"
+    class="section detail">
 
     ### getSpeedInMetersPerSecond
 
@@ -269,7 +395,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getSpeedUncappedInMetersPerSecond()"
+  - <div id="sdk-for-android-explore-getSpeedUncappedInMetersPerSecond()"
     class="section detail">
 
     ### getSpeedUncappedInMetersPerSecond
@@ -299,7 +425,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getJamTendency()" class="section detail">
+  - <div id="sdk-for-android-explore-getJamTendency()"
+    class="section detail">
 
     ### getJamTendency
 
@@ -329,7 +456,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getConfidence()" class="section detail">
+  - <div id="sdk-for-android-explore-getConfidence()"
+    class="section detail">
 
     ### getConfidence
 
@@ -346,9 +474,9 @@ releases without a deprecation process.
 
     Gets the confidence field value which is normalized value between
     0.0 and 1.0. It is a normalized value between 0.0 and 1.0 with the
-    following meaning: 0.7 < confidence <= 1.0 indicates real time
-    speeds 0.5 < confidence <= 0.7 indicates historical speeds 0.0 <
-    confidence <= 0.5 indicates speed limit This field can be used to
+    following meaning: 0.7 \< confidence \<= 1.0 indicates real time
+    speeds 0.5 \< confidence \<= 0.7 indicates historical speeds 0.0 \<
+    confidence \<= 0.5 indicates speed limit This field can be used to
     identify whether the data for a location is derived from real-time
     probe sources or historical information only. All confidence data
     0.71 and above is based on real-time information, where a confidence
@@ -364,7 +492,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getTraversability()" class="section detail">
+  - <div id="sdk-for-android-explore-getTraversability()"
+    class="section detail">
 
     ### getTraversability
 
@@ -386,7 +515,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getJunctionsTraversability()" class="section detail">
+  - <div id="sdk-for-android-explore-getJunctionsTraversability()"
+    class="section detail">
 
     ### getJunctionsTraversability
 
@@ -408,7 +538,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getFreeFlowSpeedInMetersPerSecond()"
+  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
     class="section detail">
 
     ### getFreeFlowSpeedInMetersPerSecond
@@ -436,7 +566,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="getJamFactor()" class="section detail">
+  - <div id="sdk-for-android-explore-getJamFactor()"
+    class="section detail">
 
     ### getJamFactor
 

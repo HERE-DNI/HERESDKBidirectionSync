@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.ChargingStation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Data for an electric vehicle charging station.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,95 +47,185 @@ Data for an electric vehicle charging station.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-nameid"
-  title="class in com.here.sdk.core"><code>NameID</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#brand"
-  class="member-name-link"><code>brand</code></a></td>
-  <td><div class="block">
-  Charging station brand.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-nameid"
-  title="class in com.here.sdk.core"><code>NameID</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#chargePointOperator"
-  class="member-name-link"><code>chargePointOperator</code></a></td>
-  <td><div class="block">
-  Charging station charge-point-operator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes"
-  title="class in com.here.sdk.routing"><code>ChargingConnectorAttributes</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#connectorAttributes"
-  class="member-name-link"><code>connectorAttributes</code></a></td>
-  <td><div class="block">
-  Details of the connector suggested to be used.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#id"
-  class="member-name-link"><code>id</code></a></td>
-  <td><div class="block">
-  Identifier of this charging station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-nameid"
-  title="class in com.here.sdk.core"><code>NameID</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#matchingEMobilityServiceProviders"
-  class="member-name-link"><code>matchingEMobilityServiceProviders</code></a></td>
-  <td><div class="block">
-  List of matched E-Mobility Service Providers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#name"
-  class="member-name-link"><code>name</code></a></td>
-  <td><div class="block">
-  Human readable name of this charging station.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#brand"
+  class="member-name-link"><code>brand</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Charging station brand.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#chargePointOperator"
+  class="member-name-link"><code>chargePointOperator</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Charging station charge-point-operator.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`ChargingConnectorAttributes`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#connectorAttributes"
+  class="member-name-link"><code>connectorAttributes</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Details of the connector suggested to be used.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#id"
+  class="member-name-link"><code>id</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Identifier of this charging station.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#matchingEMobilityServiceProviders"
+  class="member-name-link"><code>matchingEMobilityServiceProviders</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of matched E-Mobility Service Providers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#name"
+  class="member-name-link"><code>name</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Human readable name of this charging station.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -141,83 +233,123 @@ Data for an electric vehicle charging station.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>ChargingStation(String id,
-   String name,
-   ChargingConnectorAttributes connectorAttributes)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>ChargingStation(String id,
-   String name,
-   ChargingConnectorAttributes connectorAttributes,
-   NameID brand,
-   NameID chargePointOperator,
-   List&lt;NameID&gt; matchingEMobilityServiceProviders)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      ChargingStation(String id,
+       String name,
+       ChargingConnectorAttributes connectorAttributes)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      ChargingStation(String id,
+       String name,
+       ChargingConnectorAttributes connectorAttributes,
+       NameID brand,
+       NameID chargePointOperator,
+       List<NameID> matchingEMobilityServiceProviders)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -266,9 +398,10 @@ Data for an electric vehicle charging station.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="id" class="section detail">
+  - <div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -292,7 +425,7 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="name" class="section detail">
+  - <div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -314,7 +447,8 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="connectorAttributes" class="section detail">
+  - <div id="sdk-for-android-explore-connectorAttributes"
+    class="section detail">
 
     ### connectorAttributes
 
@@ -333,7 +467,7 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="brand" class="section detail">
+  - <div id="sdk-for-android-explore-brand" class="section detail">
 
     ### brand
 
@@ -353,7 +487,8 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="chargePointOperator" class="section detail">
+  - <div id="sdk-for-android-explore-chargePointOperator"
+    class="section detail">
 
     ### chargePointOperator
 
@@ -374,7 +509,8 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="matchingEMobilityServiceProviders" class="section detail">
+  - <div id="sdk-for-android-explore-matchingEMobilityServiceProviders"
+    class="section detail">
 
     ### matchingEMobilityServiceProviders
 
@@ -383,7 +519,7 @@ Data for an electric vehicle charging station.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")></span> <span class="element-name">matchingEMobilityServiceProviders</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")\></span> <span class="element-name">matchingEMobilityServiceProviders</span>
 
     </div>
 
@@ -405,9 +541,10 @@ Data for an electric vehicle charging station.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes)"
     class="section detail">
 
     ### ChargingStation
@@ -451,7 +588,7 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="<init>(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)"
     class="section detail">
 
     ### ChargingStation
@@ -473,7 +610,7 @@ Data for an electric vehicle charging station.
     [NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core") chargePointOperator,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")> matchingEMobilityServiceProviders)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")\> matchingEMobilityServiceProviders)</span>
 
     </div>
 
@@ -533,9 +670,11 @@ Data for an electric vehicle charging station.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -559,7 +698,7 @@ Data for an electric vehicle charging station.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

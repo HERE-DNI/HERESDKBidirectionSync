@@ -11,7 +11,7 @@ package <span class="element-name">com.here.time</span>
 
 <div class="section summary">
 
-- <div id="related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -19,13 +19,37 @@ package <span class="element-name">com.here.time</span>
 
   </div>
 
-  | Package                                                      | Description |
-  |--------------------------------------------------------------|-------------|
-  | [com.here](sdk-for-android-explore-com-here-package-summary) |             |
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Package
 
   </div>
 
-- <div id="class-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [com.here](sdk-for-android-explore-com-here-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="caption">
 
@@ -33,27 +57,37 @@ package <span class="element-name">com.here.time</span>
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time">Duration</a></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents duration in time (both positive and negative).
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
   </div>
 

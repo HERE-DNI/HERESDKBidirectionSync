@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.EVConsumptionModel
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,94 +50,175 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#ascentConsumptionInWattHoursPerMeter"
-  class="member-name-link"><code>ascentConsumptionInWattHoursPerMeter</code></a></td>
-  <td><div class="block">
-  Rate of energy consumed per meter rise in elevation (in Wh/m, i.e.,
-  Watt-hours per meter).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#auxiliaryConsumptionInWattHoursPerSecond"
-  class="member-name-link"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a></td>
-  <td><div class="block">
-  Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
-  (e.g., air conditioning, lights) per second of travel.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#descentRecoveryInWattHoursPerMeter"
-  class="member-name-link"><code>descentRecoveryInWattHoursPerMeter</code></a></td>
-  <td><div class="block">
-  Rate of energy recovered per meter fall in elevation (in Wh/m, i.e.,
-  Watt-hours per meter).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>,</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#freeFlowSpeedTable"
-  class="member-name-link"><code>freeFlowSpeedTable</code></a></td>
-  <td><div class="block">
-  Free flow speed table describes energy consumption when traveling at
-  constant speed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a><code>,</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#trafficSpeedTable"
-  class="member-name-link"><code>trafficSpeedTable</code></a></td>
-  <td><div class="block">
-  Traffic speed table describes energy consumption when traveling under
-  heavy traffic conditions, i.e.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#ascentConsumptionInWattHoursPerMeter"
+  class="member-name-link"><code>ascentConsumptionInWattHoursPerMeter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Rate of energy consumed per meter rise in elevation (in Wh/m, i.e.,
+  Watt-hours per meter).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#auxiliaryConsumptionInWattHoursPerSecond"
+  class="member-name-link"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
+  (e.g., air conditioning, lights) per second of travel.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#descentRecoveryInWattHoursPerMeter"
+  class="member-name-link"><code>descentRecoveryInWattHoursPerMeter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Rate of energy recovered per meter fall in elevation (in Wh/m, i.e.,
+  Watt-hours per meter).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>`,`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#freeFlowSpeedTable"
+  class="member-name-link"><code>freeFlowSpeedTable</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Free flow speed table describes energy consumption when traveling at
+  constant speed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>`,`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#trafficSpeedTable"
+  class="member-name-link"><code>trafficSpeedTable</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Traffic speed table describes energy consumption when traveling under
+  heavy traffic conditions, i.e.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -143,70 +226,100 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EVConsumptionModel()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EVConsumptionModel()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -255,9 +368,10 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="ascentConsumptionInWattHoursPerMeter"
+  - <div id="sdk-for-android-explore-ascentConsumptionInWattHoursPerMeter"
     class="section detail">
 
     ### ascentConsumptionInWattHoursPerMeter
@@ -277,7 +391,8 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     </div>
 
-  - <div id="descentRecoveryInWattHoursPerMeter" class="section detail">
+  - <div id="sdk-for-android-explore-descentRecoveryInWattHoursPerMeter"
+    class="section detail">
 
     ### descentRecoveryInWattHoursPerMeter
 
@@ -296,7 +411,8 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     </div>
 
-  - <div id="freeFlowSpeedTable" class="section detail">
+  - <div id="sdk-for-android-explore-freeFlowSpeedTable"
+    class="section detail">
 
     ### freeFlowSpeedTable
 
@@ -305,12 +421,12 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
     title="class or interface in java.lang">Integer</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">freeFlowSpeedTable</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">freeFlowSpeedTable</span>
 
     </div>
 
@@ -332,7 +448,8 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     </div>
 
-  - <div id="trafficSpeedTable" class="section detail">
+  - <div id="sdk-for-android-explore-trafficSpeedTable"
+    class="section detail">
 
     ### trafficSpeedTable
 
@@ -341,12 +458,12 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
     title="class or interface in java.lang">Integer</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">trafficSpeedTable</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">trafficSpeedTable</span>
 
     </div>
 
@@ -372,7 +489,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     </div>
 
-  - <div id="auxiliaryConsumptionInWattHoursPerSecond"
+  - <div id="sdk-for-android-explore-auxiliaryConsumptionInWattHoursPerSecond"
     class="section detail">
 
     ### auxiliaryConsumptionInWattHoursPerSecond
@@ -394,9 +511,10 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVConsumptionModel
 
@@ -416,9 +534,11 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -442,7 +562,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

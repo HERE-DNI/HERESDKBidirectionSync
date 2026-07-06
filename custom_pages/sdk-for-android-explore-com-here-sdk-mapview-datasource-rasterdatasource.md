@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.datasource.RasterDataSource
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -47,7 +48,8 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -55,125 +57,234 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RasterDataSource(MapContext context,
-   RasterDataSourceConfiguration configuration)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RasterDataSource(MapContext context,
+       RasterDataSourceConfiguration configuration)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a RasterDataSource instance with the provided data source
   configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RasterDataSource(MapContext context,
-   RasterDataSourceConfiguration configuration,
-   RasterDataSourceListener listener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RasterDataSource(MapContext context,
+       RasterDataSourceConfiguration configuration,
+       RasterDataSourceListener listener)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a RasterDataSource instance with the provided data source
   configuration and registers a listener.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RasterDataSource(MapContext context,
-   String name,
-   RasterTileSource tileSource)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RasterDataSource(MapContext context,
+       String name,
+       RasterTileSource tileSource)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a RasterDataSource instance with the provided raster tile
   source.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RasterDataSource(MapContext context,
-   String name,
-   RasterTileSource tileSource,
-   RasterDataSourceListener listener)</code></pre></td>
-  <td><div class="block">
-  Creates a RasterDataSource instance with the provided raster tile source
-  and registers a listener.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  </div>
 
-  <div id="method-summary-table">
+  <div class="col-constructor-name odd-row-color">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+      RasterDataSource(MapContext context,
+       String name,
+       RasterTileSource tileSource,
+       RasterDataSourceListener listener)
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-last odd-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addListener(RasterDataSourceListener listener)</code></pre></td>
-  <td><div class="block">
+  <div class="block">
+
+  Creates a RasterDataSource instance with the provided raster tile
+  source and registers a listener.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addListener(RasterDataSourceListener listener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Add listener for receiving state notifications.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>changeConfiguration(RasterDataSourceConfigurationUpdate configuration)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      changeConfiguration(RasterDataSourceConfigurationUpdate configuration)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Applies the configuration update to the data source.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>destroy()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      destroy()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Frees all internally used resources.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeListener(RasterDataSourceListener listener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeListener(RasterDataSourceListener listener)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Remove a listener from receiving state notifications.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeListeners()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeListeners()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Remove all listeners from receiving state notifications.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -228,9 +339,10 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration)"
     class="section detail">
 
     ### RasterDataSource
@@ -262,7 +374,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration,com.here.sdk.mapview.datasource.RasterDataSourceListener)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration,com.here.sdk.mapview.datasource.RasterDataSourceListener)"
     class="section detail">
 
     ### RasterDataSource
@@ -304,7 +416,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource)"
     class="section detail">
 
     ### RasterDataSource
@@ -345,7 +457,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource,com.here.sdk.mapview.datasource.RasterDataSourceListener)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource,com.here.sdk.mapview.datasource.RasterDataSourceListener)"
     class="section detail">
 
     ### RasterDataSource
@@ -399,9 +511,10 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="changeConfiguration(com.here.sdk.mapview.datasource.RasterDataSourceConfigurationUpdate)"
+  - <div id="sdk-for-android-explore-changeConfiguration(com.here.sdk.mapview.datasource.RasterDataSourceConfigurationUpdate)"
     class="section detail">
 
     ### changeConfiguration
@@ -428,7 +541,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="addListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"
+  - <div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"
     class="section detail">
 
     ### addListener
@@ -459,7 +572,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"
+  - <div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"
     class="section detail">
 
     ### removeListener
@@ -484,7 +597,8 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="removeListeners()" class="section detail">
+  - <div id="sdk-for-android-explore-removeListeners()"
+    class="section detail">
 
     ### removeListeners
 
@@ -502,7 +616,7 @@ MapContentType.RASTER_IMAGE) .forMap(map) .withName("rasterLayer")
 
     </div>
 
-  - <div id="destroy()" class="section detail">
+  - <div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

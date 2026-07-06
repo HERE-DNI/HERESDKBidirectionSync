@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapSceneLoadOptionsBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,7 +43,8 @@ without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -50,56 +52,107 @@ without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationErrorCode</code></a></td>
-  <td><div class="block">
-  Describes a reason for failing to build a MapSceneLoadOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrordetails"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationErrorDetails</code></a></td>
-  <td><div class="block">
-  Describes the reason for failing to build a MapSceneLoadOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationexception"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationException</code></a></td>
-  <td><div class="block">
-  Thrown when failing to build a MapSceneLoadOptions .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationErrorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Describes a reason for failing to build a MapSceneLoadOptions .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrordetails"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationErrorDetails</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Describes the reason for failing to build a MapSceneLoadOptions .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder.InstantiationException</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Thrown when failing to build a MapSceneLoadOptions .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -107,123 +160,218 @@ without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapSceneLoadOptionsBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapSceneLoadOptionsBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new builder instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptions`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Builds the MapSceneLoadOptions instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withConfigurationFile(String configurationFile)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withConfigurationFile(String configurationFile)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the configuration file path to load.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withDisabledFeatures(List&lt;String&gt; disabledFeatures)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withDisabledFeatures(List<String> disabledFeatures)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the features to disable in the new configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withEnabledFeatures(Map&lt;String,String&gt; enabledFeatures)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withEnabledFeatures(Map<String,String> enabledFeatures)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the features to enable in the new configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withMapScheme(MapScheme mapScheme)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withMapScheme(MapScheme mapScheme)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the map scheme to load.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withOverridingMapStyle(Style overridingMapStyle)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withOverridingMapStyle(Style overridingMapStyle)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the style to override what is defined in the scene configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
-  title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a></td>
-  <td><pre><code>withWatermarkStyle(WatermarkStyle watermarkStyle)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLoadOptionsBuilder`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withWatermarkStyle(WatermarkStyle watermarkStyle)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the watermark style.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -278,9 +426,10 @@ without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapSceneLoadOptionsBuilder
 
@@ -300,9 +449,10 @@ without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withMapScheme(com.here.sdk.mapview.MapScheme)"
+  - <div id="sdk-for-android-explore-withMapScheme(com.here.sdk.mapview.MapScheme)"
     class="section detail">
 
     ### withMapScheme
@@ -332,7 +482,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="withConfigurationFile(java.lang.String)"
+  - <div id="sdk-for-android-explore-withConfigurationFile(java.lang.String)"
     class="section detail">
 
     ### withConfigurationFile
@@ -364,7 +514,8 @@ without a deprecation process.
 
     </div>
 
-  - <div id="withEnabledFeatures(java.util.Map)" class="section detail">
+  - <div id="sdk-for-android-explore-withEnabledFeatures(java.util.Map)"
+    class="section detail">
 
     ### withEnabledFeatures
 
@@ -374,11 +525,11 @@ without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[MapSceneLoadOptionsBuilder](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withEnabledFeatures</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> enabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> enabledFeatures)</span>
 
     </div>
 
@@ -398,7 +549,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="withDisabledFeatures(java.util.List)"
+  - <div id="sdk-for-android-explore-withDisabledFeatures(java.util.List)"
     class="section detail">
 
     ### withDisabledFeatures
@@ -409,9 +560,9 @@ without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[MapSceneLoadOptionsBuilder](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withDisabledFeatures</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> disabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> disabledFeatures)</span>
 
     </div>
 
@@ -431,7 +582,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
+  - <div id="sdk-for-android-explore-withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
     class="section detail">
 
     ### withWatermarkStyle
@@ -460,7 +611,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="withOverridingMapStyle(com.here.sdk.mapview.Style)"
+  - <div id="sdk-for-android-explore-withOverridingMapStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### withOverridingMapStyle
@@ -490,7 +641,7 @@ without a deprecation process.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

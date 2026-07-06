@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.mapview.MapMarkerCluster.CounterStyle
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
@@ -41,7 +42,8 @@ count as a text.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -49,77 +51,156 @@ count as a text.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"
-  class="member-name-link"><code>aboveMaxText</code></a></td>
-  <td><div class="block">
-  String to display if there are more markers clustered than
-  maxCountNumber .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize"
-  class="member-name-link"><code>fontSize</code></a></td>
-  <td><div class="block">
-  Font size of counter.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"
-  class="member-name-link"><code>maxCountNumber</code></a></td>
-  <td><div class="block">
-  Maximal number of markers represented as exact number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d"
-  title="class in com.here.sdk.core"><code>Anchor2D</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor"
-  class="member-name-link"><code>textAnchor</code></a></td>
-  <td><div class="block">
-  Anchor of counter in regards to marker cluster image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor"
-  class="member-name-link"><code>textColor</code></a></td>
-  <td><div class="block">
-  Font color of counter.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"
+  class="member-name-link"><code>aboveMaxText</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  String to display if there are more markers clustered than
+  maxCountNumber .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize"
+  class="member-name-link"><code>fontSize</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Font size of counter.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"
+  class="member-name-link"><code>maxCountNumber</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Maximal number of markers represented as exact number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor"
+  class="member-name-link"><code>textAnchor</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Anchor of counter in regards to marker cluster image.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor"
+  class="member-name-link"><code>textColor</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Font color of counter.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -127,30 +208,42 @@ count as a text.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>CounterStyle()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      CounterStyle()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -201,9 +294,10 @@ count as a text.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="textColor" class="section detail">
+  - <div id="sdk-for-android-explore-textColor" class="section detail">
 
     ### textColor
 
@@ -222,7 +316,7 @@ count as a text.
 
     </div>
 
-  - <div id="fontSize" class="section detail">
+  - <div id="sdk-for-android-explore-fontSize" class="section detail">
 
     ### fontSize
 
@@ -240,7 +334,7 @@ count as a text.
 
     </div>
 
-  - <div id="textAnchor" class="section detail">
+  - <div id="sdk-for-android-explore-textAnchor" class="section detail">
 
     ### textAnchor
 
@@ -260,7 +354,8 @@ count as a text.
 
     </div>
 
-  - <div id="maxCountNumber" class="section detail">
+  - <div id="sdk-for-android-explore-maxCountNumber"
+    class="section detail">
 
     ### maxCountNumber
 
@@ -281,7 +376,8 @@ count as a text.
 
     </div>
 
-  - <div id="aboveMaxText" class="section detail">
+  - <div id="sdk-for-android-explore-aboveMaxText"
+    class="section detail">
 
     ### aboveMaxText
 
@@ -305,9 +401,10 @@ count as a text.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### CounterStyle
 

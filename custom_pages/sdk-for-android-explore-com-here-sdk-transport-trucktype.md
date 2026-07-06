@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-trucktype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TruckType>com.here.sdk.transport.TruckType →
+java.lang.Enum\<TruckType\>com.here.sdk.transport.TruckType →
 java.lang.Enum → TruckType → com.here.sdk.transport.TruckType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -42,7 +43,7 @@ title="class or interface in java.lang">@Deprecated</a>
 </span><span class="element-name type-name-label">TruckType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -68,7 +69,8 @@ Specifies the type of truck.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -90,7 +92,8 @@ Specifies the type of truck.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -98,103 +101,154 @@ Specifies the type of truck.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-trucktype#STRAIGHT"
-  class="member-name-link"><code>STRAIGHT</code></a></td>
-  <td><div class="block">
-  Deprecated.
+  class="member-name-link"><code>STRAIGHT</code></a>
+
   </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   A truck on a single frame with a permanently attached cargo area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-trucktype#TRACTOR"
-  class="member-name-link"><code>TRACTOR</code></a></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-trucktype#TRACTOR"
+  class="member-name-link"><code>TRACTOR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   A towing vehicle that can pull one or more semi-trailers (AKA
   semi-truck.)
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
-  Deprecated Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
-
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-trucktype"
-  title="enum class in com.here.sdk.transport"><code>TruckType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
   </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `[`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-trucktype"
-  title="enum class in com.here.sdk.transport"><code>TruckType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `[`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -277,9 +331,10 @@ Specifies the type of truck.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="STRAIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-STRAIGHT" class="section detail">
 
     ### STRAIGHT
 
@@ -304,7 +359,7 @@ Specifies the type of truck.
 
     </div>
 
-  - <div id="TRACTOR" class="section detail">
+  - <div id="sdk-for-android-explore-TRACTOR" class="section detail">
 
     ### TRACTOR
 
@@ -332,9 +387,10 @@ Specifies the type of truck.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -364,7 +420,8 @@ Specifies the type of truck.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

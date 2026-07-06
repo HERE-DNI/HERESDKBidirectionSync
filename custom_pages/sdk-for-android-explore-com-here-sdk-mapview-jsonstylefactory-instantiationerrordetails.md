@@ -16,7 +16,8 @@ com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorDetails
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [JsonStyleFactory](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory "class in com.here.sdk.mapview")
@@ -41,7 +42,8 @@ Describes the reason for failing to create a Style from a JSON source.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -49,49 +51,83 @@ Describes the reason for failing to create a Style from a JSON source.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode"
-  title="enum class in com.here.sdk.mapview"><code>JsonStyleFactory.InstantiationErrorCode</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#errorCode"
-  class="member-name-link"><code>errorCode</code></a></td>
-  <td><div class="block">
-  The error code.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#errorDescription"
-  class="member-name-link"><code>errorDescription</code></a></td>
-  <td><div class="block">
-  A description of the error, if available.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`JsonStyleFactory.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#errorCode"
+  class="member-name-link"><code>errorCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The error code.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#errorDescription"
+  class="member-name-link"><code>errorDescription</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A description of the error, if available.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -99,31 +135,43 @@ Describes the reason for failing to create a Style from a JSON source.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>InstantiationErrorDetails(JsonStyleFactory.InstantiationErrorCode errorCode,
-   String errorDescription)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      InstantiationErrorDetails(JsonStyleFactory.InstantiationErrorCode errorCode,
+       String errorDescription)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -174,9 +222,10 @@ Describes the reason for failing to create a Style from a JSON source.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="errorCode" class="section detail">
+  - <div id="sdk-for-android-explore-errorCode" class="section detail">
 
     ### errorCode
 
@@ -195,7 +244,8 @@ Describes the reason for failing to create a Style from a JSON source.
 
     </div>
 
-  - <div id="errorDescription" class="section detail">
+  - <div id="sdk-for-android-explore-errorDescription"
+    class="section detail">
 
     ### errorDescription
 
@@ -218,9 +268,10 @@ Describes the reason for failing to create a Style from a JSON source.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)"
     class="section detail">
 
     ### InstantiationErrorDetails

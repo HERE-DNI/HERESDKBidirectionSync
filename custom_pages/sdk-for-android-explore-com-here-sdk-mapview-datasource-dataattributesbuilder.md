@@ -18,7 +18,8 @@ com.here.sdk.mapview.datasource.DataAttributesBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,7 +42,8 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -49,129 +51,224 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>DataAttributesBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      DataAttributesBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a data attributes builder instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributes</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributes`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Builds instance of DataAttributes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       boolean value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   float value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       float value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   long value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       long value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   DataAttributeValue value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       DataAttributeValue value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
-  title="class in com.here.sdk.mapview.datasource"><code>DataAttributesBuilder</code></a></td>
-  <td><pre><code>with(String name,
-   String value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      with(String name,
+       String value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Configures the builder to add the given attribute.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -226,9 +323,10 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### DataAttributesBuilder
 
@@ -248,9 +346,10 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="with(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-with(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### with
@@ -288,7 +387,8 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="with(java.lang.String,long)" class="section detail">
+  - <div id="sdk-for-android-explore-with(java.lang.String,long)"
+    class="section detail">
 
     ### with
 
@@ -323,7 +423,8 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="with(java.lang.String,float)" class="section detail">
+  - <div id="sdk-for-android-explore-with(java.lang.String,float)"
+    class="section detail">
 
     ### with
 
@@ -358,7 +459,8 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="with(java.lang.String,double)" class="section detail">
+  - <div id="sdk-for-android-explore-with(java.lang.String,double)"
+    class="section detail">
 
     ### with
 
@@ -393,7 +495,8 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="with(java.lang.String,boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-with(java.lang.String,boolean)"
+    class="section detail">
 
     ### with
 
@@ -428,7 +531,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="with(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)"
+  - <div id="sdk-for-android-explore-with(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)"
     class="section detail">
 
     ### with
@@ -465,7 +568,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

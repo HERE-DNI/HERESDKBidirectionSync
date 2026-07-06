@@ -15,7 +15,8 @@ java.lang.Object → com.here.NativeBase
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Direct Known Subclasses:  
 [`Angle`](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core"),
@@ -179,7 +180,8 @@ methods if resource cleanup is necessary.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 

@@ -11,855 +11,1733 @@ package <span class="element-name">com.here.sdk.search</span>
 
 <div class="section summary">
 
-- <div id="class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table two-column-summary">
 
-  All Classes and Interfaces
-  Interfaces
-  Classes
-  Enum Classes
-  Exceptions
+  <div class="table-header col-first">
+
+  Class
 
   </div>
 
-  <div id="class-summary.tabpanel" aria-labelledby="class-summary-tab0"
-  role="tabpanel">
+  <div class="table-header col-last">
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-address"
-  title="class in com.here.sdk.search">Address</a></td>
-  <td><div class="block">
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Address](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Information about the address of a location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-addressquery"
-  title="class in com.here.sdk.search">AddressQuery</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [AddressQuery](sdk-for-android-explore-com-here-sdk-search-addressquery "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The options to specify an address query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-addresstype"
-  title="enum class in com.here.sdk.search">AddressType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [AddressType](sdk-for-android-explore-com-here-sdk-search-addresstype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Address type
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-areatype"
-  title="enum class in com.here.sdk.search">AreaType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents a type of area like country, state, city, county, etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-businessdetails"
-  title="class in com.here.sdk.search">BusinessDetails</a></td>
-  <td><div class="block">
-  Contains place details such as contacts, opening hours and some electro
-  vehicle info.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-categoryquery"
-  title="class in com.here.sdk.search">CategoryQuery</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [BusinessDetails](sdk-for-android-explore-com-here-sdk-search-businessdetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Contains place details such as contacts, opening hours and some
+  electro vehicle info.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [CategoryQuery](sdk-for-android-explore-com-here-sdk-search-categoryquery "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The options to specify a query by categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
-  title="class in com.here.sdk.search">CategoryQuery.Area</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [CategoryQuery.Area](sdk-for-android-explore-com-here-sdk-search-categoryquery-area "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Area to perform search on.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-contact"
-  title="class in com.here.sdk.search">Contact</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents contact information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-daterange"
-  title="class in com.here.sdk.search">DateRange</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [DateRange](sdk-for-android-explore-com-here-sdk-search-daterange "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents the date range when the tariff element is valid.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-dayofweek"
-  title="enum class in com.here.sdk.search">DayOfWeek</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [DayOfWeek](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the day of the week.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-details"
-  title="class in com.here.sdk.search">Details</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Details](sdk-for-android-explore-com-here-sdk-search-details "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains details of a specific place, such as contact information,
   opening hours and assigned categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-emailaddress"
-  title="class in com.here.sdk.search">EmailAddress</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EmailAddress](sdk-for-android-explore-com-here-sdk-search-emailaddress "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents data related to specific email address.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider"
-  title="class in com.here.sdk.search">EMobilityServiceProvider</a></td>
-  <td><div class="block">
-  eMSP (e-Mobility Service Provider) for which the EV station operator has
-  EV roaming agreements.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-energymix"
-  title="class in com.here.sdk.search">EnergyMix</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  eMSP (e-Mobility Service Provider) for which the EV station operator
+  has EV roaming agreements.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EnergyMix](sdk-for-android-explore-com-here-sdk-search-energymix "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents details on the energy supplied at the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-energysource"
-  title="class in com.here.sdk.search">EnergySource</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Energy source of EV charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype"
-  title="enum class in com.here.sdk.search">EnergySourceType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents energy source type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact"
-  title="class in com.here.sdk.search">EnvironmentalImpact</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents environmental impact for an environmental impact category.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory"
-  title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EnvironmentalImpactCategory](sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents environmental impacts category of the environmental impact
   for energy mix.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason"
-  title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the restriction reason of an EVChargingPool .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype"
-  title="enum class in com.here.sdk.search">EVAccessType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVAccessType](sdk-for-android-explore-com-here-sdk-search-evaccesstype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the accessibility level of an EVChargingPool .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
-  title="class in com.here.sdk.search">EVChargingConnector</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingConnector](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents a connector at the charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup"
-  title="class in com.here.sdk.search">EVChargingConnectorGroup</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents the connector group at the charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference"
-  title="class in com.here.sdk.search">EVChargingConnectorReference</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingConnectorReference](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents a pairing of an EVSE and its connector(s) that belong to a
   group.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange"
-  title="class in com.here.sdk.search">EVChargingDurationRange</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingDurationRange](sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Duration of the charging session when the tariff element is valid, in
   seconds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
-  title="class in com.here.sdk.search">EVChargingLocation</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   An electric vehicle (EV) charging location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evcharginglocationfeature"
-  title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVChargingLocationFeature](sdk-for-android-explore-com-here-sdk-search-evcharginglocationfeature "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Optional features that can be requested for EV charging locations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours"
-  title="class in com.here.sdk.search">EVChargingOpeningHours</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingOpeningHours](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents the times when the EVSEs at the charging location can be
   accessed for charging.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception"
-  title="class in com.here.sdk.search">EVChargingOpeningHoursException</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingOpeningHoursException](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents exceptions to the regular opening hours schedule for EV
   charging locations, such as special closures or extended hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule"
-  title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a></td>
-  <td><div class="block">
-  Opening hours schedule for EV charging locations, represented by a list
-  of days of the week during which the location is open in the given time
-  periods.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator"
-  title="class in com.here.sdk.search">EVChargingOperator</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingOpeningHoursSchedule](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Opening hours schedule for EV charging locations, represented by a
+  list of days of the week during which the location is open in the
+  given time periods.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents name and optionally other details about operator,
   suboperator, or e-Mobility service provider.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool"
-  title="class in com.here.sdk.search">EVChargingPool</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   A charging pool for electric vehicles is an area equipped with one or
   more charging stations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails"
-  title="class in com.here.sdk.search">EVChargingPoolDetails</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingPoolDetails](sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Electric vehicle charging pool details.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation"
-  title="class in com.here.sdk.search">EVChargingStation</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Group of connectors for electric vehicles (EVs), defined by a common
   charging connector type and maximum power level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariff"
-  title="class in com.here.sdk.search">EVChargingTariff</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Tariffs provide detailed pricing information for charging electric
   vehicles at a specific location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension"
-  title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVChargingTariffDimension](sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the dimension the price component, which determines what is
   being charged and how: time: Price per unit of time spent charging.
   energy: Price per unit of energy consumed during charging. flat:
   One-time fee charged per session. parking time: Price per unit of time
   not charging but parked at the charger.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelement"
-  title="class in com.here.sdk.search">EVChargingTariffElement</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingTariffElement](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelement "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents a tariff element, which defines how pricing is applied.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition"
-  title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingTariffElementCondition](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Condition that the charging session needs to meet to apply the tariff
   element.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent"
-  title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVChargingTariffPriceComponent](sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents the price component of an EV charging tariff.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffrequest"
-  title="class in com.here.sdk.search">EVChargingTariffRequest</a></td>
-  <td><div class="block">
-  Represents a search option to choose the eMSP or CPO whose tariff should
-  be included in the response.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtarifftype"
-  title="enum class in com.here.sdk.search">EVChargingTariffType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingTariffRequest](sdk-for-android-explore-com-here-sdk-search-evchargingtariffrequest "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Represents a search option to choose the eMSP or CPO whose tariff
+  should be included in the response.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVChargingTariffType](sdk-for-android-explore-com-here-sdk-search-evchargingtarifftype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents the tariff pricing model (adhoc, emsp, or cpo).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction"
-  title="class in com.here.sdk.search">EVChargingTruckRestriction</a></td>
-  <td><div class="block">
-  Represents access restrictions for trucks and light commercial vehicles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory"
-  title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a></td>
-  <td><div class="block">
-  Represents the category of the vehicle supported at the charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evse"
-  title="class in com.here.sdk.search">Evse</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVChargingTruckRestriction](sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Represents access restrictions for trucks and light commercial
+  vehicles.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
+  Represents the category of the vehicle supported at the charging
+  point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Charge Point Operator (CPO) ID uses the Electric Vehicle Supply
   Equipment ID (EVSE ID) for an exact identification of the charging
   infrastructure and charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback"
-  title="interface in com.here.sdk.search">EVSearchCallback</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method that will be called on the main thread when a search
   operation in EVSearchEngine has been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evsearchengine"
-  title="class in com.here.sdk.search">EVSearchEngine</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVSearchEngine](sdk-for-android-explore-com-here-sdk-search-evsearchengine "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The EVSearchEngine API provides detailed information about charging
   locations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evsearcherror"
-  title="enum class in com.here.sdk.search">EVSearchError</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies possible errors that EVSearchEngine may report.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
-  title="interface in com.here.sdk.search">EVSearchInterface</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [EVSearchInterface](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   Provides the interface for the EVSearchEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsearchoptions"
-  title="class in com.here.sdk.search">EVSearchOptions</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVSearchOptions](sdk-for-android-explore-com-here-sdk-search-evsearchoptions "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Encapsulates additional options that control the behavior of
   EVSearchEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evseconnector"
-  title="class in com.here.sdk.search">EVSEConnector</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [EVSEConnector](sdk-for-android-explore-com-here-sdk-search-evseconnector "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   EVSE connector.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evseinfo"
-  title="class in com.here.sdk.search">EVSEInfo</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents an EVSE at the charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evsestatus"
-  title="enum class in com.here.sdk.search">EVSEStatus</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [EVSEStatus](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   EVSE status
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-facilitytype"
-  title="enum class in com.here.sdk.search">FacilityType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents facility type available at the location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-fueladditive"
-  title="class in com.here.sdk.search">FuelAdditive</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [FuelAdditive](sdk-for-android-explore-com-here-sdk-search-fueladditive "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains fuel additive information for generic fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-fuelstation"
-  title="class in com.here.sdk.search">FuelStation</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains information about a specific fuel station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-genericfuel"
-  title="class in com.here.sdk.search">GenericFuel</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [GenericFuel](sdk-for-android-explore-com-here-sdk-search-genericfuel "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains generic fuel type info of fuel station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-geoplace"
-  title="class in com.here.sdk.search">GeoPlace</a></td>
-  <td><div class="block">
-  GeoPlace struct represents a location object: such as a country, a city,
-  a point of interest (POI) etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-highlighttype"
-  title="enum class in com.here.sdk.search">HighlightType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [GeoPlace](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  GeoPlace struct represents a location object: such as a country, a
+  city, a point of interest (POI) etc.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [HighlightType](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies members of Suggestion class to which input query can be
   matched.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-indexrange"
-  title="class in com.here.sdk.search">IndexRange</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Holds information to which part of the text, input query was matched.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-landlinephone"
-  title="class in com.here.sdk.search">LandlinePhone</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [LandlinePhone](sdk-for-android-explore-com-here-sdk-search-landlinephone "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents data related to specific landline phone number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-locationdetails"
-  title="class in com.here.sdk.search">LocationDetails</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [LocationDetails](sdk-for-android-explore-com-here-sdk-search-locationdetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains geographical info about location
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-mobilephone"
-  title="class in com.here.sdk.search">MobilePhone</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [MobilePhone](sdk-for-android-explore-com-here-sdk-search-mobilephone "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents data related to specific mobile phone number.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-openinghours"
-  title="class in com.here.sdk.search">OpeningHours</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents opening hours information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-parkingtype"
-  title="enum class in com.here.sdk.search">ParkingType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [ParkingType](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents parking type available at the location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-place"
-  title="class in com.here.sdk.search">Place</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents a location object, such as a country, a city, a point of
   interest (POI) etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placecategory"
-  title="class in com.here.sdk.search">PlaceCategory</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents a category of place with different levels of granularity.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placechain"
-  title="class in com.here.sdk.search">PlaceChain</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Parameters related to HERE Places chain system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placefilter"
-  title="class in com.here.sdk.search">PlaceFilter</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [PlaceFilter](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The filter options to specify a place.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
-  title="class in com.here.sdk.search">PlaceFilter.Ev</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [PlaceFilter.Ev](sdk-for-android-explore-com-here-sdk-search-placefilter-ev "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Constraints that are applicable on the places of category EV station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype"
-  title="class in com.here.sdk.search">PlaceFoodType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Parameters related to HERE Places cuisine system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placeidquery"
-  title="class in com.here.sdk.search">PlaceIdQuery</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [PlaceIdQuery](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The options to specify a Place id query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback"
-  title="interface in com.here.sdk.search">PlaceIdSearchCallback</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [PlaceIdSearchCallback](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method will be called on the main thread when a search by id call
   has been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended"
-  title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [PlaceIdSearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method will be called on the main thread when a search by id call
   has been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placeserializationerror"
-  title="enum class in com.here.sdk.search">PlaceSerializationError</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [PlaceSerializationError](sdk-for-android-explore-com-here-sdk-search-placeserializationerror "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Represents and error, which occurs during place serialization and
   deserialization routines.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placeserializationexception"
-  title="class in com.here.sdk.search">PlaceSerializationException</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab5">
+
+  [PlaceSerializationException](sdk-for-android-explore-com-here-sdk-search-placeserializationexception "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
   Place serialization exception
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placetype"
-  title="enum class in com.here.sdk.search">PlaceType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies place type of Place result from a search query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails"
-  title="class in com.here.sdk.search">POIPaymentDetails</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Details about the payment options at the POI.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
-  title="class in com.here.sdk.search">POIPaymentMethod</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [POIPaymentMethod](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Holds constants that represent payment methods.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-responsedetails"
-  title="class in com.here.sdk.search">ResponseDetails</a></td>
-  <td><div class="block">
-  Structure holding various information received with response to a query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-scheduledetails"
-  title="class in com.here.sdk.search">ScheduleDetails</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Structure holding various information received with response to a
+  query.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Encapsulates schedule details complying with the iCalendar
   specification: https://tools.ietf.org/html/rfc5545.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-searchcallback"
-  title="interface in com.here.sdk.search">SearchCallback</a></td>
-  <td><div class="block">
-  The method will be called on the main thread when a search call has been
-  completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended"
-  title="interface in com.here.sdk.search">SearchCallbackExtended</a></td>
-  <td><div class="block">
-  The method will be called on the main thread when a search call has been
-  completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-searchengine"
-  title="class in com.here.sdk.search">SearchEngine</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
+  The method will be called on the main thread when a search call has
+  been completed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
+  The method will be called on the main thread when a search call has
+  been completed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [SearchEngine](sdk-for-android-explore-com-here-sdk-search-searchengine "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The SearchEngine API unlocks the search, geocoding and suggesting
   capabilities of HERE services to provide developers with unmatched
   flexibility to create differentiating location-enabled applications.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-searcherror"
-  title="enum class in com.here.sdk.search">SearchError</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies possible errors that may result from a search query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-searchinterface"
-  title="interface in com.here.sdk.search">SearchInterface</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [SearchInterface](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   Provides the interface for the online and offline search engines.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-searchoptions"
-  title="class in com.here.sdk.search">SearchOptions</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Encapsulates options that control the behavior of search and suggest
   operations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-structuredquery"
-  title="class in com.here.sdk.search">StructuredQuery</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [StructuredQuery](sdk-for-android-explore-com-here-sdk-search-structuredquery "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The options to specify a structured query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements"
-  title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [StructuredQuery.AddressElements](sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Defines query address elements which will be used to build address
   hierarchy during searches.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype"
-  title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [StructuredQuery.ResultType](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies expected result type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-suggestcallback"
-  title="interface in com.here.sdk.search">SuggestCallback</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab1">
+
+  [SuggestCallback](sdk-for-android-explore-com-here-sdk-search-suggestcallback "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method will be called on the main thread when a suggest call has
   been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended"
-  title="interface in com.here.sdk.search">SuggestCallbackExtended</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab1">
+
+  [SuggestCallbackExtended](sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended "interface in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab1">
+
+  <div class="block">
+
   The method will be called on the main thread when a suggest call has
   been completed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-suggestion"
-  title="class in com.here.sdk.search">Suggestion</a></td>
-  <td><div class="block">
-  Suggestion is meant to provide relevant suggestions to partial queries,
-  like "restaur", "starbu", "eiffel".
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype"
-  title="enum class in com.here.sdk.search">SuggestionType</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [Suggestion](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Suggestion is meant to provide relevant suggestions to partial
+  queries, like "restaur", "starbu", "eiffel".
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab3">
+
+  [SuggestionType](sdk-for-android-explore-com-here-sdk-search-suggestiontype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Specifies the type of suggestion returned for query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-supplierreference"
-  title="class in com.here.sdk.search">SupplierReference</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Identifier of the place as provided by the supplier
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-textquery"
-  title="class in com.here.sdk.search">TextQuery</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   The options to specify a text query.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-textquery-area"
-  title="class in com.here.sdk.search">TextQuery.Area</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [TextQuery.Area](sdk-for-android-explore-com-here-sdk-search-textquery-area "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Area to perform search on.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange"
-  title="class in com.here.sdk.search">TimeOfDayRange</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [TimeOfDayRange](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Time period when the tariff element is valid, in local time.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-truckamenities"
-  title="class in com.here.sdk.search">TruckAmenities</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Truck amenities struct, represents availability (true/false) for each
-  feature, except shower_count - number of showers, if data is available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-truckfuel"
-  title="class in com.here.sdk.search">TruckFuel</a></td>
-  <td><div class="block">
+  feature, except shower_count - number of showers, if data is
+  available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [TruckFuel](sdk-for-android-explore-com-here-sdk-search-truckfuel "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains truck fuel type info of fuel station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-webdetails"
-  title="class in com.here.sdk.search">WebDetails</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [WebDetails](sdk-for-android-explore-com-here-sdk-search-webdetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains information about images, editorials, rating and a urls to
   them.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-webeditorial"
-  title="class in com.here.sdk.search">WebEditorial</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains information about editorial article and a link to it.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-webimage"
-  title="class in com.here.sdk.search">WebImage</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains image information and direct link to it.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-webrating"
-  title="class in com.here.sdk.search">WebRating</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Contains information about rating and a url to review.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-websiteaddress"
-  title="class in com.here.sdk.search">WebsiteAddress</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab2">
+
+  [WebsiteAddress](sdk-for-android-explore-com-here-sdk-search-websiteaddress "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
   Represents data related to specific website address
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-websource"
-  title="class in com.here.sdk.search">WebSource</a></td>
-  <td><div class="block">
-  Contains information about provider of the item and a direct link to the
-  item.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab2">
+
+  [WebSource](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab2">
+
+  <div class="block">
+
+  Contains information about provider of the item and a direct link to
+  the item.
+
+  </div>
+
+  </div>
 
   </div>
 

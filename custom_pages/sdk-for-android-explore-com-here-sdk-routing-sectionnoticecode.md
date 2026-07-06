@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<SectionNoticeCode>com.here.sdk.routing.SectionNoticeCode
+java.lang.Enum\<SectionNoticeCode\>com.here.sdk.routing.SectionNoticeCode
 → java.lang.Enum → SectionNoticeCode →
 com.here.sdk.routing.SectionNoticeCode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">SectionNoticeCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ new error situations.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ new error situations.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,399 +88,809 @@ new error situations.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#CHARGING_STOP_NOT_NEEDED"
-  class="member-name-link"><code>CHARGING_STOP_NOT_NEEDED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CHARGING_STOP_NOT_NEEDED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A charging stop was planned at the destination of this section, but it
   is no longer needed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_INTERMEDIATE"
-  class="member-name-link"><code>NO_INTERMEDIATE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_INTERMEDIATE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Information about intermediate stops is not available for a transit
   section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_SCHEDULE"
-  class="member-name-link"><code>NO_SCHEDULE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_SCHEDULE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   No schedule information is available for a transit section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_THROUGH_RESTRICTION"
-  class="member-name-link"><code>NO_THROUGH_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_THROUGH_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route goes through a road that does not allow through traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_CARPOOL"
-  class="member-name-link"><code>POTENTIAL_CARPOOL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POTENTIAL_CARPOOL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route utilizes a designated carpool lane, potentially subject to
   restrictions beyond the scheduled travel hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_TURN_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_TURN_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POTENTIAL_TURN_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route includes a turn that is potentially restricted and inaccessible
   beyond the scheduled travel hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_VEHICLE_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_VEHICLE_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POTENTIAL_VEHICLE_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route utilizes roads that are potentially off-limits to the specified
   vehicle profile beyond the scheduled travel hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_ZONE_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_ZONE_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POTENTIAL_ZONE_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route incorporates roads within zones, which are potentially not
   accessible beyond the scheduled travel hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SCHEDULED_TIMES"
-  class="member-name-link"><code>SCHEDULED_TIMES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SCHEDULED_TIMES</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   This transit section returned times which are scheduled times, even
   though delay information is available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SEASONAL_CLOSURE"
-  class="member-name-link"><code>SEASONAL_CLOSURE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SEASONAL_CLOSURE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route goes through seasonal closure.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SIMPLE_POLYLINE"
-  class="member-name-link"><code>SIMPLE_POLYLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SIMPLE_POLYLINE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   An accurate polyline is not available for this section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLL_TRANSPONDER"
-  class="member-name-link"><code>TOLL_TRANSPONDER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TOLL_TRANSPONDER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route goes through toll booth that requires transponder.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_TEMPORARILY_UNAVAILABLE"
-  class="member-name-link"><code>TOLLS_DATA_TEMPORARILY_UNAVAILABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TOLLS_DATA_TEMPORARILY_UNAVAILABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Tolls data was requested but is temporarily unavailable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_UNAVAILABLE"
-  class="member-name-link"><code>TOLLS_DATA_UNAVAILABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TOLLS_DATA_UNAVAILABLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Tolls data was requested but could not be calculated for this section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#UNWANTED_MODE"
-  class="member-name-link"><code>UNWANTED_MODE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>UNWANTED_MODE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   This transit section contains a transport mode that was explictly
   disabled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
-  class="member-name-link"><code>VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIFFICULT_TURNS"
-  class="member-name-link"><code>VIOLATED_AVOID_DIFFICULT_TURNS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_DIFFICULT_TURNS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid difficult turns.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIRT_ROAD"
-  class="member-name-link"><code>VIOLATED_AVOID_DIRT_ROAD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_DIRT_ROAD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_FERRY"
-  class="member-name-link"><code>VIOLATED_AVOID_FERRY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_FERRY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_PARK"
-  class="member-name-link"><code>VIOLATED_AVOID_PARK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_PARK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_RAIL_FERRY"
-  class="member-name-link"><code>VIOLATED_AVOID_RAIL_FERRY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_RAIL_FERRY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_SEASONAL_CLOSURE"
-  class="member-name-link"><code>VIOLATED_AVOID_SEASONAL_CLOSURE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_SEASONAL_CLOSURE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid seasonal closure.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_ROAD"
-  class="member-name-link"><code>VIOLATED_AVOID_TOLL_ROAD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_TOLL_ROAD</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_TRANSPONDER"
-  class="member-name-link"><code>VIOLATED_AVOID_TOLL_TRANSPONDER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_TOLL_TRANSPONDER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid toll booth that requires transponder.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TRUCK_ROAD_TYPE"
-  class="member-name-link"><code>VIOLATED_AVOID_TRUCK_ROAD_TYPE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_TRUCK_ROAD_TYPE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid restricted truck road types.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TUNNEL"
-  class="member-name-link"><code>VIOLATED_AVOID_TUNNEL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_TUNNEL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_U_TURNS"
-  class="member-name-link"><code>VIOLATED_AVOID_U_TURNS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_AVOID_U_TURNS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid u turns.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD"
-  class="member-name-link"><code>VIOLATED_BLOCKED_ROAD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_BLOCKED_ROAD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route uses roads blocked by traffic events or route did not manage to
   avoid the requested avoidBoundingBoxAreas or countries or segments .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CARPOOL"
-  class="member-name-link"><code>VIOLATED_CARPOOL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_CARPOOL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route did not manage to avoid user preference.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CHARGING_STATION_OPENING_HOURS"
-  class="member-name-link"><code>VIOLATED_CHARGING_STATION_OPENING_HOURS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_CHARGING_STATION_OPENING_HOURS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Charging at the charging station planned at the destination of this
   section falls outside of opening hours.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CRITICAL_RULE"
-  class="member-name-link"><code>VIOLATED_CRITICAL_RULE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_CRITICAL_RULE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route has violoated a non-detailed critical rule.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_EMERGENCY_GATE"
-  class="member-name-link"><code>VIOLATED_EMERGENCY_GATE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_EMERGENCY_GATE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route goes through an emergency gate.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_CS"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_CS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_CS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The route can not reach all charging stations on the route with the
   minimum required charge, as the initial charge was to low.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_DESTINATION"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_DESTINATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_DESTINATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The route can not reach the waypoint, as the there are not enough
   charging stops available or the initial charge was to low.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_FIRST_CS"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_FIRST_CS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_FIRST_CS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The route can not reach the first charging station with the minimum
   required charge, as the initial charge was to low.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_START_DIRECTION"
-  class="member-name-link"><code>VIOLATED_START_DIRECTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_START_DIRECTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Start direction of the route is not as requested.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_TURN_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_TURN_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_TURN_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route uses a time-restricted turn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_VEHICLE_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_VEHICLE_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_VEHICLE_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route uses a road which is forbidden for the given vehicle profile.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_ZONE_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_ZONE_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>VIOLATED_ZONE_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route uses a road which is part of restricted zoneCategories requested
   to be avoided by user.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode"
-  title="enum class in com.here.sdk.routing"><code>SectionNoticeCode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode"
-  title="enum class in com.here.sdk.routing"><code>SectionNoticeCode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -560,9 +973,11 @@ new error situations.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="VIOLATED_CRITICAL_RULE" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_CRITICAL_RULE"
+    class="section detail">
 
     ### VIOLATED_CRITICAL_RULE
 
@@ -582,7 +997,7 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
     class="section detail">
 
     ### VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY
@@ -603,7 +1018,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_TOLL_ROAD" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_ROAD"
+    class="section detail">
 
     ### VIOLATED_AVOID_TOLL_ROAD
 
@@ -623,7 +1039,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_FERRY" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_FERRY"
+    class="section detail">
 
     ### VIOLATED_AVOID_FERRY
 
@@ -643,7 +1060,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_TUNNEL" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TUNNEL"
+    class="section detail">
 
     ### VIOLATED_AVOID_TUNNEL
 
@@ -663,7 +1081,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_DIRT_ROAD" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_DIRT_ROAD"
+    class="section detail">
 
     ### VIOLATED_AVOID_DIRT_ROAD
 
@@ -683,7 +1102,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_RAIL_FERRY" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_RAIL_FERRY"
+    class="section detail">
 
     ### VIOLATED_AVOID_RAIL_FERRY
 
@@ -703,7 +1123,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_PARK" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_PARK"
+    class="section detail">
 
     ### VIOLATED_AVOID_PARK
 
@@ -723,7 +1144,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_BLOCKED_ROAD" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_BLOCKED_ROAD"
+    class="section detail">
 
     ### VIOLATED_BLOCKED_ROAD
 
@@ -744,7 +1166,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_START_DIRECTION" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_START_DIRECTION"
+    class="section detail">
 
     ### VIOLATED_START_DIRECTION
 
@@ -764,7 +1187,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_CARPOOL" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_CARPOOL"
+    class="section detail">
 
     ### VIOLATED_CARPOOL
 
@@ -784,7 +1208,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_TURN_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_TURN_RESTRICTION"
+    class="section detail">
 
     ### VIOLATED_TURN_RESTRICTION
 
@@ -804,7 +1229,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_VEHICLE_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_VEHICLE_RESTRICTION"
+    class="section detail">
 
     ### VIOLATED_VEHICLE_RESTRICTION
 
@@ -824,7 +1250,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_ZONE_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_ZONE_RESTRICTION"
+    class="section detail">
 
     ### VIOLATED_ZONE_RESTRICTION
 
@@ -844,7 +1271,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_U_TURNS" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_U_TURNS"
+    class="section detail">
 
     ### VIOLATED_AVOID_U_TURNS
 
@@ -864,7 +1292,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_EMERGENCY_GATE" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_EMERGENCY_GATE"
+    class="section detail">
 
     ### VIOLATED_EMERGENCY_GATE
 
@@ -884,7 +1313,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_SEASONAL_CLOSURE" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_SEASONAL_CLOSURE"
+    class="section detail">
 
     ### VIOLATED_AVOID_SEASONAL_CLOSURE
 
@@ -904,7 +1334,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_TRUCK_ROAD_TYPE" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TRUCK_ROAD_TYPE"
+    class="section detail">
 
     ### VIOLATED_AVOID_TRUCK_ROAD_TYPE
 
@@ -923,7 +1354,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_TOLL_TRANSPONDER" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_TRANSPONDER"
+    class="section detail">
 
     ### VIOLATED_AVOID_TOLL_TRANSPONDER
 
@@ -943,7 +1375,7 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_CHARGING_STATION_OPENING_HOURS"
+  - <div id="sdk-for-android-explore-VIOLATED_CHARGING_STATION_OPENING_HOURS"
     class="section detail">
 
     ### VIOLATED_CHARGING_STATION_OPENING_HOURS
@@ -965,7 +1397,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_AVOID_DIFFICULT_TURNS" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_AVOID_DIFFICULT_TURNS"
+    class="section detail">
 
     ### VIOLATED_AVOID_DIFFICULT_TURNS
 
@@ -985,7 +1418,8 @@ new error situations.
 
     </div>
 
-  - <div id="SEASONAL_CLOSURE" class="section detail">
+  - <div id="sdk-for-android-explore-SEASONAL_CLOSURE"
+    class="section detail">
 
     ### SEASONAL_CLOSURE
 
@@ -1004,7 +1438,8 @@ new error situations.
 
     </div>
 
-  - <div id="TOLL_TRANSPONDER" class="section detail">
+  - <div id="sdk-for-android-explore-TOLL_TRANSPONDER"
+    class="section detail">
 
     ### TOLL_TRANSPONDER
 
@@ -1024,7 +1459,8 @@ new error situations.
 
     </div>
 
-  - <div id="TOLLS_DATA_UNAVAILABLE" class="section detail">
+  - <div id="sdk-for-android-explore-TOLLS_DATA_UNAVAILABLE"
+    class="section detail">
 
     ### TOLLS_DATA_UNAVAILABLE
 
@@ -1044,7 +1480,8 @@ new error situations.
 
     </div>
 
-  - <div id="TOLLS_DATA_TEMPORARILY_UNAVAILABLE" class="section detail">
+  - <div id="sdk-for-android-explore-TOLLS_DATA_TEMPORARILY_UNAVAILABLE"
+    class="section detail">
 
     ### TOLLS_DATA_TEMPORARILY_UNAVAILABLE
 
@@ -1064,7 +1501,8 @@ new error situations.
 
     </div>
 
-  - <div id="CHARGING_STOP_NOT_NEEDED" class="section detail">
+  - <div id="sdk-for-android-explore-CHARGING_STOP_NOT_NEEDED"
+    class="section detail">
 
     ### CHARGING_STOP_NOT_NEEDED
 
@@ -1085,7 +1523,8 @@ new error situations.
 
     </div>
 
-  - <div id="NO_SCHEDULE" class="section detail">
+  - <div id="sdk-for-android-explore-NO_SCHEDULE"
+    class="section detail">
 
     ### NO_SCHEDULE
 
@@ -1106,7 +1545,8 @@ new error situations.
 
     </div>
 
-  - <div id="NO_INTERMEDIATE" class="section detail">
+  - <div id="sdk-for-android-explore-NO_INTERMEDIATE"
+    class="section detail">
 
     ### NO_INTERMEDIATE
 
@@ -1126,7 +1566,8 @@ new error situations.
 
     </div>
 
-  - <div id="UNWANTED_MODE" class="section detail">
+  - <div id="sdk-for-android-explore-UNWANTED_MODE"
+    class="section detail">
 
     ### UNWANTED_MODE
 
@@ -1147,7 +1588,8 @@ new error situations.
 
     </div>
 
-  - <div id="SCHEDULED_TIMES" class="section detail">
+  - <div id="sdk-for-android-explore-SCHEDULED_TIMES"
+    class="section detail">
 
     ### SCHEDULED_TIMES
 
@@ -1168,7 +1610,8 @@ new error situations.
 
     </div>
 
-  - <div id="SIMPLE_POLYLINE" class="section detail">
+  - <div id="sdk-for-android-explore-SIMPLE_POLYLINE"
+    class="section detail">
 
     ### SIMPLE_POLYLINE
 
@@ -1190,7 +1633,8 @@ new error situations.
 
     </div>
 
-  - <div id="POTENTIAL_CARPOOL" class="section detail">
+  - <div id="sdk-for-android-explore-POTENTIAL_CARPOOL"
+    class="section detail">
 
     ### POTENTIAL_CARPOOL
 
@@ -1211,7 +1655,8 @@ new error situations.
 
     </div>
 
-  - <div id="POTENTIAL_TURN_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-POTENTIAL_TURN_RESTRICTION"
+    class="section detail">
 
     ### POTENTIAL_TURN_RESTRICTION
 
@@ -1232,7 +1677,8 @@ new error situations.
 
     </div>
 
-  - <div id="POTENTIAL_VEHICLE_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-POTENTIAL_VEHICLE_RESTRICTION"
+    class="section detail">
 
     ### POTENTIAL_VEHICLE_RESTRICTION
 
@@ -1253,7 +1699,8 @@ new error situations.
 
     </div>
 
-  - <div id="POTENTIAL_ZONE_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-POTENTIAL_ZONE_RESTRICTION"
+    class="section detail">
 
     ### POTENTIAL_ZONE_RESTRICTION
 
@@ -1274,7 +1721,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_MIN_CHARGE_AT_FIRST_CS" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_FIRST_CS"
+    class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_FIRST_CS
 
@@ -1294,7 +1742,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_MIN_CHARGE_AT_CS" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_CS"
+    class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_CS
 
@@ -1314,7 +1763,8 @@ new error situations.
 
     </div>
 
-  - <div id="VIOLATED_MIN_CHARGE_AT_DESTINATION" class="section detail">
+  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_DESTINATION"
+    class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_DESTINATION
 
@@ -1334,7 +1784,8 @@ new error situations.
 
     </div>
 
-  - <div id="NO_THROUGH_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-NO_THROUGH_RESTRICTION"
+    class="section detail">
 
     ### NO_THROUGH_RESTRICTION
 
@@ -1355,9 +1806,10 @@ new error situations.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1381,7 +1833,8 @@ new error situations.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

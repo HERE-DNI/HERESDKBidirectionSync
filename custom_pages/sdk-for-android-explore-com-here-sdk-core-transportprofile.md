@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.TransportProfile
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -54,7 +55,8 @@ there can be bugs and unexpected behavior.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -62,54 +64,92 @@ there can be bugs and unexpected behavior.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile"
-  title="class in com.here.sdk.core"><code>PedestrianProfile</code></a></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`PedestrianProfile`](sdk-for-android-explore-com-here-sdk-core-pedestrianprofile "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-transportprofile#pedestrianProfile"
-  class="member-name-link"><code>pedestrianProfile</code></a></td>
-  <td><div class="block">
-  Deprecated.
+  class="member-name-link"><code>pedestrianProfile</code></a>
+
   </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Defines the pedestrian profile.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile"
-  title="class in com.here.sdk.transport"><code>VehicleProfile</code></a></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`VehicleProfile`](sdk-for-android-explore-com-here-sdk-transport-vehicleprofile "class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-transportprofile#vehicleProfile"
-  class="member-name-link"><code>vehicleProfile</code></a></td>
-  <td><div class="block">
-  Deprecated.
+  class="member-name-link"><code>vehicleProfile</code></a>
+
   </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
-  Defines the vehicle profile.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  Deprecated.
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="block">
+
+  Defines the vehicle profile.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -117,80 +157,118 @@ there can be bugs and unexpected behavior.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TransportProfile()</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
   </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TransportProfile()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
-  Deprecated Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated.
+
   </div>
-   </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td><div class="block">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated.
+
   </div>
-   </td>
-  </tr>
-  </tbody>
-  </table>
+
+   
+
+  </div>
 
   </div>
 
@@ -239,9 +317,11 @@ there can be bugs and unexpected behavior.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="pedestrianProfile" class="section detail">
+  - <div id="sdk-for-android-explore-pedestrianProfile"
+    class="section detail">
 
     ### pedestrianProfile
 
@@ -266,7 +346,8 @@ there can be bugs and unexpected behavior.
 
     </div>
 
-  - <div id="vehicleProfile" class="section detail">
+  - <div id="sdk-for-android-explore-vehicleProfile"
+    class="section detail">
 
     ### vehicleProfile
 
@@ -293,9 +374,10 @@ there can be bugs and unexpected behavior.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransportProfile
 
@@ -321,9 +403,11 @@ there can be bugs and unexpected behavior.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -353,7 +437,7 @@ there can be bugs and unexpected behavior.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

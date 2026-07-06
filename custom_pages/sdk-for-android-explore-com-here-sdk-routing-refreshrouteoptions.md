@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.routing.RefreshRouteOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -68,7 +69,8 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -76,123 +78,268 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(BicycleOptions bicycleOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
   </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(BicycleOptions bicycleOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with BicycleOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(BusOptions busOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteOptions(BusOptions busOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with BusOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(CarOptions carOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(CarOptions carOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with CarOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(EVCarOptions evCarOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteOptions(EVCarOptions evCarOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with EVCarOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(EVTruckOptions evTruckOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(EVTruckOptions evTruckOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with EVTruckOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(PedestrianOptions pedestrianOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteOptions(PedestrianOptions pedestrianOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with PedestrianOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(PrivateBusOptions privateBusOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(PrivateBusOptions privateBusOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with PrivateBusOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(ScooterOptions scooterOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteOptions(ScooterOptions scooterOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with ScooterOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(TaxiOptions taxiOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(TaxiOptions taxiOptions)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with TaxiOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(TruckOptions truckOptions)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteOptions(TruckOptions truckOptions)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Constructs a RefreshRouteOptions object with TruckOptions .
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteOptions(TransportMode transportMode)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteOptions(TransportMode transportMode)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
-  Constructs a RefreshRouteOptions object with TransportMode .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  Deprecated.
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="block">
+
+  Constructs a RefreshRouteOptions object with TransportMode .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -243,9 +390,10 @@ APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.transport.TransportMode)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.transport.TransportMode)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -276,7 +424,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.CarOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.CarOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -312,7 +460,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.TruckOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TruckOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -348,7 +496,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.PedestrianOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PedestrianOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -384,7 +532,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.ScooterOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.ScooterOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -420,7 +568,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.TaxiOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TaxiOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -456,7 +604,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.EVCarOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVCarOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -492,7 +640,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.EVTruckOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVTruckOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -528,7 +676,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.BicycleOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BicycleOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -564,7 +712,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.BusOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BusOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -600,7 +748,7 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.PrivateBusOptions)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PrivateBusOptions)"
     class="section detail">
 
     ### RefreshRouteOptions

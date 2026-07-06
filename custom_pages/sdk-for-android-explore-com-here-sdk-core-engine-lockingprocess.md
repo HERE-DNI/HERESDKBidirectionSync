@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.core.engine.LockingProcess
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,80 +41,132 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Concrete Methods
-  Deprecated Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>destroyLockingProcess(android.content.Context context,
-   SDKOptions sdkOptions,
-   long maxTimeoutInMilliseconds)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      destroyLockingProcess(android.content.Context context,
+       SDKOptions sdkOptions,
+       long maxTimeoutInMilliseconds)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Checks if cache folder is locked.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>destroyLockingProcess(SDKOptions sdkOptions,
-   long maxTimeoutInMilliseconds)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      destroyLockingProcess(SDKOptions sdkOptions,
+       long maxTimeoutInMilliseconds)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.27.0, use
   destroyLockingProcess(android.content.Context, SDKOptions, long)
   instead.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><pre><code>getLockingProcessId(android.content.Context context,
-   SDKOptions options)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getLockingProcessId(android.content.Context context,
+       SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the process ID (PID) that currently locks the map cache or the
   persistent map storage.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><pre><code>getLockingProcessId(SDKOptions options)</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      getLockingProcessId(SDKOptions options)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.27.0, use
   getLockingProcessId(android.content.Context, SDKOptions) instead.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -168,9 +221,10 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getLockingProcessId(com.here.sdk.core.engine.SDKOptions)"
+  - <div id="sdk-for-android-explore-getLockingProcessId(com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### getLockingProcessId
@@ -241,7 +295,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
     </div>
 
-  - <div id="getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+  - <div id="sdk-for-android-explore-getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### getLockingProcessId
@@ -298,7 +352,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
     </div>
 
-  - <div id="destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)"
+  - <div id="sdk-for-android-explore-destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)"
     class="section detail">
 
     ### destroyLockingProcess
@@ -362,7 +416,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
     </div>
 
-  - <div id="destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"
+  - <div id="sdk-for-android-explore-destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"
     class="section detail">
 
     ### destroyLockingProcess

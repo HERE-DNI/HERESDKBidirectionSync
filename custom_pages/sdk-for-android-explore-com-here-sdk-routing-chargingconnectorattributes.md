@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.ChargingConnectorAttributes
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ PostAction 's for charging.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,81 +48,158 @@ PostAction 's for charging.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype"
-  title="enum class in com.here.sdk.routing"><code>ChargingConnectorType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#connectorType"
-  class="member-name-link"><code>connectorType</code></a></td>
-  <td><div class="block">
-  Suggested connector for charging at this station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#currentInAmperes"
-  class="member-name-link"><code>currentInAmperes</code></a></td>
-  <td><div class="block">
-  Current of the suggested connector in Amperes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#powerInKilowatts"
-  class="member-name-link"><code>powerInKilowatts</code></a></td>
-  <td><div class="block">
-  Power supplied by the suggested connector in kW.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype"
-  title="enum class in com.here.sdk.routing"><code>ChargingSupplyType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#supplyType"
-  class="member-name-link"><code>supplyType</code></a></td>
-  <td><div class="block">
-  Supply type of the suggested connector.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#voltageInVolts"
-  class="member-name-link"><code>voltageInVolts</code></a></td>
-  <td><div class="block">
-  Voltage of the suggested connector in Volts.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`ChargingConnectorType`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#connectorType"
+  class="member-name-link"><code>connectorType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Suggested connector for charging at this station.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#currentInAmperes"
+  class="member-name-link"><code>currentInAmperes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Current of the suggested connector in Amperes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#powerInKilowatts"
+  class="member-name-link"><code>powerInKilowatts</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Power supplied by the suggested connector in kW.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`ChargingSupplyType`](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#supplyType"
+  class="member-name-link"><code>supplyType</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Supply type of the suggested connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes#voltageInVolts"
+  class="member-name-link"><code>voltageInVolts</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Voltage of the suggested connector in Volts.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -128,74 +207,104 @@ PostAction 's for charging.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>ChargingConnectorAttributes(double powerInKilowatts,
-   Double currentInAmperes,
-   Double voltageInVolts,
-   ChargingSupplyType supplyType,
-   ChargingConnectorType connectorType)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      ChargingConnectorAttributes(double powerInKilowatts,
+       Double currentInAmperes,
+       Double voltageInVolts,
+       ChargingSupplyType supplyType,
+       ChargingConnectorType connectorType)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -244,9 +353,11 @@ PostAction 's for charging.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="powerInKilowatts" class="section detail">
+  - <div id="sdk-for-android-explore-powerInKilowatts"
+    class="section detail">
 
     ### powerInKilowatts
 
@@ -264,7 +375,8 @@ PostAction 's for charging.
 
     </div>
 
-  - <div id="currentInAmperes" class="section detail">
+  - <div id="sdk-for-android-explore-currentInAmperes"
+    class="section detail">
 
     ### currentInAmperes
 
@@ -285,7 +397,8 @@ PostAction 's for charging.
 
     </div>
 
-  - <div id="voltageInVolts" class="section detail">
+  - <div id="sdk-for-android-explore-voltageInVolts"
+    class="section detail">
 
     ### voltageInVolts
 
@@ -306,7 +419,7 @@ PostAction 's for charging.
 
     </div>
 
-  - <div id="supplyType" class="section detail">
+  - <div id="sdk-for-android-explore-supplyType" class="section detail">
 
     ### supplyType
 
@@ -325,7 +438,8 @@ PostAction 's for charging.
 
     </div>
 
-  - <div id="connectorType" class="section detail">
+  - <div id="sdk-for-android-explore-connectorType"
+    class="section detail">
 
     ### connectorType
 
@@ -346,9 +460,10 @@ PostAction 's for charging.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(double,java.lang.Double,java.lang.Double,com.here.sdk.routing.ChargingSupplyType,com.here.sdk.routing.ChargingConnectorType)"
+  - <div id="sdk-for-android-explore-<init>(double,java.lang.Double,java.lang.Double,com.here.sdk.routing.ChargingSupplyType,com.here.sdk.routing.ChargingConnectorType)"
     class="section detail">
 
     ### ChargingConnectorAttributes
@@ -400,9 +515,11 @@ PostAction 's for charging.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -426,7 +543,7 @@ PostAction 's for charging.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

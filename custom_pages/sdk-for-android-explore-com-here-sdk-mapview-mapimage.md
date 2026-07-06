@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapImage
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -43,7 +44,8 @@ reduce the amount of needed memory.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -51,49 +53,81 @@ reduce the amount of needed memory.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapImage(byte[] pixelData,
-   ImageFormat imageFormat)</code></pre></td>
-  <td><div class="block">
-  Creates a new map image from the provided image data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapImage(byte[] imageData,
-   ImageFormat imageFormat,
-   long width,
-   long height)</code></pre></td>
-  <td><div class="block">
-  Creates a new map image from the provided image data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapImage(String filePath,
-   long width,
-   long height)</code></pre></td>
-  <td><div class="block">
-  Creates a new map image from the provided path to the SVG Tiny or PNG
-  image.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapImage(byte[] pixelData,
+       ImageFormat imageFormat)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new map image from the provided image data.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapImage(byte[] imageData,
+       ImageFormat imageFormat,
+       long width,
+       long height)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new map image from the provided image data.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapImage(String filePath,
+       long width,
+       long height)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new map image from the provided path to the SVG Tiny or PNG
+  image.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -144,9 +178,10 @@ reduce the amount of needed memory.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(byte[],com.here.sdk.mapview.ImageFormat)"
+  - <div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat)"
     class="section detail">
 
     ### MapImage
@@ -178,7 +213,7 @@ reduce the amount of needed memory.
 
     </div>
 
-  - <div id="<init>(byte[],com.here.sdk.mapview.ImageFormat,long,long)"
+  - <div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat,long,long)"
     class="section detail">
 
     ### MapImage
@@ -220,7 +255,8 @@ reduce the amount of needed memory.
 
     </div>
 
-  - <div id="<init>(java.lang.String,long,long)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,long,long)"
+    class="section detail">
 
     ### MapImage
 

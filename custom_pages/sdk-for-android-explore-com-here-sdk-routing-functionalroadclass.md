@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-functionalroadclass"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<FunctionalRoadClass>com.here.sdk.routing.FunctionalRoadClass
+java.lang.Enum\<FunctionalRoadClass\>com.here.sdk.routing.FunctionalRoadClass
 → java.lang.Enum → FunctionalRoadClass →
 com.here.sdk.routing.FunctionalRoadClass
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">FunctionalRoadClass</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[FunctionalRoadClass](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FunctionalRoadClass](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ Types of function road class.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ Types of function road class.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,115 +86,185 @@ Types of function road class.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_1"
-  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_1</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_1</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A road with high volume and maximum speed traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_2"
-  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_2</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_2</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A road with high volume and high speed traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_3"
-  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_3</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_3</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A road with high volume traffic.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_4"
-  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A road with high volume traffic at moderate speeds between
   neighborhoods.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_5"
-  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_5</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUNCTIONAL_ROAD_CLASS_5</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A road whose volume and traffic flow are below the level of any other
   functional class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass"
-  title="enum class in com.here.sdk.routing"><code>FunctionalRoadClass</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FunctionalRoadClass`](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass"
-  title="enum class in com.here.sdk.routing"><code>FunctionalRoadClass</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FunctionalRoadClass`](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -274,9 +347,11 @@ Types of function road class.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="FUNCTIONAL_ROAD_CLASS_1" class="section detail">
+  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_1"
+    class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_1
 
@@ -295,7 +370,8 @@ Types of function road class.
 
     </div>
 
-  - <div id="FUNCTIONAL_ROAD_CLASS_2" class="section detail">
+  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_2"
+    class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_2
 
@@ -314,7 +390,8 @@ Types of function road class.
 
     </div>
 
-  - <div id="FUNCTIONAL_ROAD_CLASS_3" class="section detail">
+  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_3"
+    class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_3
 
@@ -333,7 +410,8 @@ Types of function road class.
 
     </div>
 
-  - <div id="FUNCTIONAL_ROAD_CLASS_4" class="section detail">
+  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_4"
+    class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_4
 
@@ -353,7 +431,8 @@ Types of function road class.
 
     </div>
 
-  - <div id="FUNCTIONAL_ROAD_CLASS_5" class="section detail">
+  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_5"
+    class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_5
 
@@ -375,9 +454,10 @@ Types of function road class.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -401,7 +481,8 @@ Types of function road class.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

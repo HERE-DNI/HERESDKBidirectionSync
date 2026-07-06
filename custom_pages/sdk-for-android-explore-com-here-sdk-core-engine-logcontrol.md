@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.core.engine.LogControl
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,7 +43,8 @@ have an unexpected performance impact if called not at the right time.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -50,104 +52,192 @@ have an unexpected performance impact if called not at the right time.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception"
   class="type-name-link"
-  title="class in com.here.sdk.core.engine"><code>LogControl.InvalidPathException</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.core.engine"><code>LogControl.InvalidPathException</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Invalid file path exception.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>disableLoggingToConsole()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      disableLoggingToConsole()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Disables SDK logging messages to console.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>enableLoggingToConsole(LogLevel level)</code></pre></td>
-  <td><div class="block">
-  Enables SDK logging messages to console that can be viewed using logcat
-  tool.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>removeAppender()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      enableLoggingToConsole(LogLevel level)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Enables SDK logging messages to console that can be viewed using
+  logcat tool.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      removeAppender()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes previously added custom log appender.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>setAppender(LogLevel level,
-   LogAppender appender)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setAppender(LogLevel level,
+       LogAppender appender)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a custom log appender to receive log messages from the SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>setAppender(LogLevel level,
-   String path)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setAppender(LogLevel level,
+       String path)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a custom log appender that will write SDK log messages to a file.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -202,9 +292,10 @@ have an unexpected performance impact if called not at the right time.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)"
+  - <div id="sdk-for-android-explore-enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)"
     class="section detail">
 
     ### enableLoggingToConsole
@@ -231,7 +322,8 @@ have an unexpected performance impact if called not at the right time.
 
     </div>
 
-  - <div id="disableLoggingToConsole()" class="section detail">
+  - <div id="sdk-for-android-explore-disableLoggingToConsole()"
+    class="section detail">
 
     ### disableLoggingToConsole
 
@@ -251,7 +343,7 @@ have an unexpected performance impact if called not at the right time.
 
     </div>
 
-  - <div id="setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)"
+  - <div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)"
     class="section detail">
 
     ### setAppender
@@ -287,7 +379,7 @@ have an unexpected performance impact if called not at the right time.
 
     </div>
 
-  - <div id="setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)"
+  - <div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)"
     class="section detail">
 
     ### setAppender
@@ -334,7 +426,8 @@ have an unexpected performance impact if called not at the right time.
 
     </div>
 
-  - <div id="removeAppender()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAppender()"
+    class="section detail">
 
     ### removeAppender
 

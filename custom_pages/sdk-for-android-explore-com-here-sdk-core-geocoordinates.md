@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.GeoCoordinates
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Represents geographical coordinates in 3D space.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,56 +47,107 @@ Represents geographical coordinates in 3D space.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#altitude"
-  class="member-name-link"><code>altitude</code></a></td>
-  <td><div class="block">
-  Optional altitude in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#latitude"
-  class="member-name-link"><code>latitude</code></a></td>
-  <td><div class="block">
-  Latitude in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#longitude"
-  class="member-name-link"><code>longitude</code></a></td>
-  <td><div class="block">
-  Longitude in degrees.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#altitude"
+  class="member-name-link"><code>altitude</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional altitude in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#latitude"
+  class="member-name-link"><code>latitude</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Latitude in degrees.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates#longitude"
+  class="member-name-link"><code>longitude</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Longitude in degrees.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -102,109 +155,191 @@ Represents geographical coordinates in 3D space.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>GeoCoordinates(double latitude,
-   double longitude)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      GeoCoordinates(double latitude,
+       double longitude)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Constructs a GeoCoordinates from the provided latitude and longitude
   values.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>GeoCoordinates(double latitude,
-   double longitude,
-   double altitude)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      GeoCoordinates(double latitude,
+       double longitude,
+       double altitude)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Constructs a GeoCoordinates from the provided latitude, longitude and
   altitude values.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>distanceTo(GeoCoordinates point)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      distanceTo(GeoCoordinates point)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Computes distance (in meters) along the great circle between two
   coordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>fromString(String input)</code></pre></td>
-  <td><div class="block">
-  Constructs GeoCoordinates from the provided string in specified format.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>interpolate(GeoCoordinates towardCoords,
-   double factor)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromString(String input)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Constructs GeoCoordinates from the provided string in specified
+  format.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      interpolate(GeoCoordinates towardCoords,
+       double factor)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Computes the coordinates of the interpolated location along the great
   circle between the two coordinates.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -253,9 +388,10 @@ Represents geographical coordinates in 3D space.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="latitude" class="section detail">
+  - <div id="sdk-for-android-explore-latitude" class="section detail">
 
     ### latitude
 
@@ -274,7 +410,7 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="longitude" class="section detail">
+  - <div id="sdk-for-android-explore-longitude" class="section detail">
 
     ### longitude
 
@@ -293,7 +429,7 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="altitude" class="section detail">
+  - <div id="sdk-for-android-explore-altitude" class="section detail">
 
     ### altitude
 
@@ -320,9 +456,11 @@ Represents geographical coordinates in 3D space.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(double,double,double)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(double,double,double)"
+    class="section detail">
 
     ### GeoCoordinates
 
@@ -361,7 +499,8 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="<init>(double,double)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(double,double)"
+    class="section detail">
 
     ### GeoCoordinates
 
@@ -398,9 +537,11 @@ Represents geographical coordinates in 3D space.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -424,7 +565,7 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -446,7 +587,7 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="distanceTo(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-distanceTo(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### distanceTo
@@ -475,7 +616,7 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="interpolate(com.here.sdk.core.GeoCoordinates,double)"
+  - <div id="sdk-for-android-explore-interpolate(com.here.sdk.core.GeoCoordinates,double)"
     class="section detail">
 
     ### interpolate
@@ -516,7 +657,8 @@ Represents geographical coordinates in 3D space.
 
     </div>
 
-  - <div id="fromString(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-fromString(java.lang.String)"
+    class="section detail">
 
     ### fromString
 

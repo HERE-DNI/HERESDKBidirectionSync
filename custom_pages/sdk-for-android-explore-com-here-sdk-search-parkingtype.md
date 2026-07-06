@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-parkingtype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<ParkingType>com.here.sdk.search.ParkingType →
+java.lang.Enum\<ParkingType\>com.here.sdk.search.ParkingType →
 java.lang.Enum → ParkingType → com.here.sdk.search.ParkingType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">ParkingType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[ParkingType](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[ParkingType](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,122 +88,202 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#ALONG_MOTORWAY"
-  class="member-name-link"><code>ALONG_MOTORWAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ALONG_MOTORWAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A parking facility/rest area along a motorway, freeway, interstate,
   highway etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#ON_DRIVEWAY"
-  class="member-name-link"><code>ON_DRIVEWAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ON_DRIVEWAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The driveway of a house or building.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#ON_STREET"
-  class="member-name-link"><code>ON_STREET</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ON_STREET</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A public parking space along a street.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#PARKING_GARAGE"
-  class="member-name-link"><code>PARKING_GARAGE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARKING_GARAGE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Multi-story car park, mainly above ground.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#PARKING_LOT"
-  class="member-name-link"><code>PARKING_LOT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARKING_LOT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A cleared area that is intended for parking vehicles, i.e.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-parkingtype#UNDERGROUND_GARAGE"
-  class="member-name-link"><code>UNDERGROUND_GARAGE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>UNDERGROUND_GARAGE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Multi-story car park, mainly underground.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-parkingtype"
-  title="enum class in com.here.sdk.search"><code>ParkingType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`ParkingType`](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-parkingtype"
-  title="enum class in com.here.sdk.search"><code>ParkingType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`ParkingType`](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -283,9 +366,11 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="ALONG_MOTORWAY" class="section detail">
+  - <div id="sdk-for-android-explore-ALONG_MOTORWAY"
+    class="section detail">
 
     ### ALONG_MOTORWAY
 
@@ -305,7 +390,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PARKING_GARAGE" class="section detail">
+  - <div id="sdk-for-android-explore-PARKING_GARAGE"
+    class="section detail">
 
     ### PARKING_GARAGE
 
@@ -324,7 +410,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PARKING_LOT" class="section detail">
+  - <div id="sdk-for-android-explore-PARKING_LOT"
+    class="section detail">
 
     ### PARKING_LOT
 
@@ -344,7 +431,8 @@ deprecation process.
 
     </div>
 
-  - <div id="ON_DRIVEWAY" class="section detail">
+  - <div id="sdk-for-android-explore-ON_DRIVEWAY"
+    class="section detail">
 
     ### ON_DRIVEWAY
 
@@ -363,7 +451,7 @@ deprecation process.
 
     </div>
 
-  - <div id="ON_STREET" class="section detail">
+  - <div id="sdk-for-android-explore-ON_STREET" class="section detail">
 
     ### ON_STREET
 
@@ -382,7 +470,8 @@ deprecation process.
 
     </div>
 
-  - <div id="UNDERGROUND_GARAGE" class="section detail">
+  - <div id="sdk-for-android-explore-UNDERGROUND_GARAGE"
+    class="section detail">
 
     ### UNDERGROUND_GARAGE
 
@@ -403,9 +492,10 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -429,7 +519,8 @@ deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.RouteOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ The options to specify how the route will be calculated.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,134 +47,287 @@ The options to specify how the route will be calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#alternatives"
-  class="member-name-link"><code>alternatives</code></a></td>
-  <td><div class="block">
-  Maximum number of alternative routes that will be calculated, in
-  addition to the best one.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"
-  class="member-name-link"><code>arrivalTime</code></a></td>
-  <td><div class="block">
-  Optional time when travel is expected to end.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"
-  class="member-name-link"><code>departureTime</code></a></td>
-  <td><div class="block">
-  Optional time when travel is expected to start.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle"
-  class="member-name-link"><code>enableRouteHandle</code></a></td>
-  <td><div class="block">
-  A flag that indicates whether the resulting route should contain a
-  RouteHandle .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels"
-  class="member-name-link"><code>enableRouteLabels</code></a></td>
-  <td><div class="block">
-  Specifies whether route labels should be included in the route response.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableTolls"
-  class="member-name-link"><code>enableTolls</code></a></td>
-  <td><div class="block">
-  A flag that indicates whether the resulting route Section.getTolls()
-  properties should contain tolls data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode"
-  title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode"
-  class="member-name-link"><code>optimizationMode</code></a></td>
-  <td><div class="block">
-  The optimization mode to be used for route calculation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizeWaypointsOrder"
-  class="member-name-link"><code>optimizeWaypointsOrder</code></a></td>
-  <td><div class="block">
-  A flag that indicates whether the order of waypoints that is passed to
-  calculateRoute() should be optimized in the best order.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#speedCapInMetersPerSecond"
-  class="member-name-link"><code>speedCapInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  Specifies the maximum speed in meters per second, which the user wishes
-  not to exceed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode"
-  title="enum class in com.here.sdk.routing"><code>TrafficOptimizationMode</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"
-  class="member-name-link"><code>trafficOptimizationMode</code></a></td>
-  <td><div class="block">
-  The traffic optimization mode to be used for route calculation.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#alternatives"
+  class="member-name-link"><code>alternatives</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Maximum number of alternative routes that will be calculated, in
+  addition to the best one.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"
+  class="member-name-link"><code>arrivalTime</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional time when travel is expected to end.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"
+  class="member-name-link"><code>departureTime</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional time when travel is expected to start.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle"
+  class="member-name-link"><code>enableRouteHandle</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A flag that indicates whether the resulting route should contain a
+  RouteHandle .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels"
+  class="member-name-link"><code>enableRouteLabels</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies whether route labels should be included in the route
+  response.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableTolls"
+  class="member-name-link"><code>enableTolls</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A flag that indicates whether the resulting route Section.getTolls()
+  properties should contain tolls data.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode"
+  class="member-name-link"><code>optimizationMode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The optimization mode to be used for route calculation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizeWaypointsOrder"
+  class="member-name-link"><code>optimizeWaypointsOrder</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A flag that indicates whether the order of waypoints that is passed to
+  calculateRoute() should be optimized in the best order.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#speedCapInMetersPerSecond"
+  class="member-name-link"><code>speedCapInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies the maximum speed in meters per second, which the user
+  wishes not to exceed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TrafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"
+  class="member-name-link"><code>trafficOptimizationMode</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The traffic optimization mode to be used for route calculation.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -180,175 +335,305 @@ The options to specify how the route will be calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RouteOptions()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond,
-   boolean enableRouteHandle)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond,
-   boolean enableRouteHandle,
-   TrafficOptimizationMode trafficOptimizationMode)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond,
-   boolean enableRouteHandle,
-   TrafficOptimizationMode trafficOptimizationMode,
-   boolean enableTolls)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond,
-   boolean enableRouteHandle,
-   TrafficOptimizationMode trafficOptimizationMode,
-   boolean enableTolls,
-   boolean optimizeWaypointsOrder)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RouteOptions(OptimizationMode optimizationMode,
-   int alternatives,
-   Date departureTime,
-   Date arrivalTime,
-   Double speedCapInMetersPerSecond,
-   boolean enableRouteHandle,
-   TrafficOptimizationMode trafficOptimizationMode,
-   boolean enableTolls,
-   boolean optimizeWaypointsOrder,
-   boolean enableRouteLabels)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      RouteOptions()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond,
+       boolean enableRouteHandle)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond,
+       boolean enableRouteHandle,
+       TrafficOptimizationMode trafficOptimizationMode)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond,
+       boolean enableRouteHandle,
+       TrafficOptimizationMode trafficOptimizationMode,
+       boolean enableTolls)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond,
+       boolean enableRouteHandle,
+       TrafficOptimizationMode trafficOptimizationMode,
+       boolean enableTolls,
+       boolean optimizeWaypointsOrder)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteOptions(OptimizationMode optimizationMode,
+       int alternatives,
+       Date departureTime,
+       Date arrivalTime,
+       Double speedCapInMetersPerSecond,
+       boolean enableRouteHandle,
+       TrafficOptimizationMode trafficOptimizationMode,
+       boolean enableTolls,
+       boolean optimizeWaypointsOrder,
+       boolean enableRouteLabels)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -397,9 +682,11 @@ The options to specify how the route will be calculated.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="optimizationMode" class="section detail">
+  - <div id="sdk-for-android-explore-optimizationMode"
+    class="section detail">
 
     ### optimizationMode
 
@@ -419,7 +706,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="alternatives" class="section detail">
+  - <div id="sdk-for-android-explore-alternatives"
+    class="section detail">
 
     ### alternatives
 
@@ -444,7 +732,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="departureTime" class="section detail">
+  - <div id="sdk-for-android-explore-departureTime"
+    class="section detail">
 
     ### departureTime
 
@@ -474,7 +763,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="arrivalTime" class="section detail">
+  - <div id="sdk-for-android-explore-arrivalTime"
+    class="section detail">
 
     ### arrivalTime
 
@@ -504,7 +794,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="speedCapInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-speedCapInMetersPerSecond"
+    class="section detail">
 
     ### speedCapInMetersPerSecond
 
@@ -532,7 +823,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="enableRouteHandle" class="section detail">
+  - <div id="sdk-for-android-explore-enableRouteHandle"
+    class="section detail">
 
     ### enableRouteHandle
 
@@ -553,7 +845,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="trafficOptimizationMode" class="section detail">
+  - <div id="sdk-for-android-explore-trafficOptimizationMode"
+    class="section detail">
 
     ### trafficOptimizationMode
 
@@ -574,7 +867,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="enableTolls" class="section detail">
+  - <div id="sdk-for-android-explore-enableTolls"
+    class="section detail">
 
     ### enableTolls
 
@@ -600,7 +894,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="optimizeWaypointsOrder" class="section detail">
+  - <div id="sdk-for-android-explore-optimizeWaypointsOrder"
+    class="section detail">
 
     ### optimizeWaypointsOrder
 
@@ -630,7 +925,8 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="enableRouteLabels" class="section detail">
+  - <div id="sdk-for-android-explore-enableRouteLabels"
+    class="section detail">
 
     ### enableRouteLabels
 
@@ -652,9 +948,10 @@ The options to specify how the route will be calculated.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RouteOptions
 
@@ -672,7 +969,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode)"
     class="section detail">
 
     ### RouteOptions
@@ -699,7 +996,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int)"
     class="section detail">
 
     ### RouteOptions
@@ -738,7 +1035,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date)"
     class="section detail">
 
     ### RouteOptions
@@ -796,7 +1093,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)"
     class="section detail">
 
     ### RouteOptions
@@ -875,7 +1172,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)"
     class="section detail">
 
     ### RouteOptions
@@ -976,7 +1273,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1086,7 +1383,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)"
     class="section detail">
 
     ### RouteOptions
@@ -1204,7 +1501,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1339,7 +1636,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1510,7 +1807,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1690,9 +1987,11 @@ The options to specify how the route will be calculated.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -1716,7 +2015,7 @@ The options to specify how the route will be calculated.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

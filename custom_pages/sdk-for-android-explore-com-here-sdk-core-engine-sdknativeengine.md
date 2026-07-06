@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.core.engine.SDKNativeEngine
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -43,7 +44,8 @@ automatically set a shared instance.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -51,36 +53,57 @@ automatically set a shared instance.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy"
-  class="type-name-link"
-  title="enum class in com.here.sdk.core.engine"><code>SDKNativeEngine.PurgeMemoryStrategy</code></a></td>
-  <td><div class="block">
-  Enum representing a strategy to flush memory caches.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy"
+  class="type-name-link"
+  title="enum class in com.here.sdk.core.engine"><code>SDKNativeEngine.PurgeMemoryStrategy</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Enum representing a strategy to flush memory caches.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -88,233 +111,539 @@ automatically set a shared instance.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SDKNativeEngine(android.content.Context androidContext,
-   SDKOptions options)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SDKNativeEngine(android.content.Context androidContext,
+       SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Makes a new instance of SDKNativeEngine using supplied options.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>clearPersistentUsageStats()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearPersistentUsageStats()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Clear persistent storage for the HERE SDK UsageStats .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>clearUsageStatsCache()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearUsageStatsCache()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Clear cache for the HERE SDK UsageStats .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>dispose()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      dispose()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Stops pending requests and closes open files and databases .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>enableUsageStats(boolean enabled)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      enableUsageStats(boolean enabled)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Enable or disable UsageStats for the HERE SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>getDeviceId(DeviceIdCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDeviceId(DeviceIdCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The unique identifier assigned to the device for this application.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
-  title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a></td>
-  <td><pre><code>getOptions()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`SDKOptions`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOptions()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the options used by this instance of SDKNativeEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
-  title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a></td>
-  <td><pre><code>getParameterConfig()</code></pre></td>
-  <td><div class="block">
-  Gets the configuration for default values of parameters used in the HERE
-  SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`ParameterConfiguration`](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getParameterConfig()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the configuration for default values of parameters used in the
+  HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
   class="external-link"
-  title="class or interface in java.util"><code>Set</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature"
-  title="enum class in com.here.sdk.core.engine"><code>PassThroughFeature</code></a><code>&gt;</code></td>
-  <td><pre><code>getPassThroughFeatures()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>Set</code></a>`<`[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPassThroughFeatures()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the pass through features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings"
-  title="class in com.here.sdk.core.engine"><code>ProxySettings</code></a></td>
-  <td><pre><code>getProxySettings()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`ProxySettings`](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProxySettings()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current proxy settings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats"
-  title="class in com.here.sdk.core.engine"><code>UsageStats</code></a><code>&gt;</code></td>
-  <td><pre><code>getSdkUsageStats()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`UsageStats`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSdkUsageStats()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a list of usage statistics for all available HERE SDK features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
-  title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a></td>
-  <td><pre><code>getSharedInstance()</code></pre></td>
-  <td><div class="block">
-  Gets the shared instance of this SDK engine that can be accessed by any
-  HERE SDK module as the default engine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isOfflineMode()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SDKNativeEngine`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getSharedInstance()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the shared instance of this SDK engine that can be accessed by
+  any HERE SDK module as the default engine.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isOfflineMode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current offline mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>makeSharedInstance(android.content.Context androidContext,
-   SDKOptions options)</code></pre></td>
-  <td><div class="block">
-  Makes a new instance of this class using the supplied options and stores
-  it as shared instance see getSharedInstance() .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>purgeMemoryCaches(SDKNativeEngine.PurgeMemoryStrategy strategy)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      makeSharedInstance(android.content.Context androidContext,
+       SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Makes a new instance of this class using the supplied options and
+  stores it as shared instance see getSharedInstance() .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      purgeMemoryCaches(SDKNativeEngine.PurgeMemoryStrategy strategy)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Releases memory occupied by internal caches.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAccessKeySecret(String accessKeySecret)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAccessKeySecret(String accessKeySecret)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Overrides HERE SDK access key secret with new value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAccessScope(String scope)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAccessScope(String scope)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Overrides the token scope of the HERE SDK with new value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOfflineMode(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOfflineMode(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the offline mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>setParameterConfig(ParameterConfiguration value)</code></pre></td>
-  <td><div class="block">
-  Sets the configuration for default values of parameters used in the HERE
-  SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setPassThroughFeatures(Set&lt;PassThroughFeature&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setParameterConfig(ParameterConfiguration value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the configuration for default values of parameters used in the
+  HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setPassThroughFeatures(Set<PassThroughFeature> value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the pass through features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setProxySettings(ProxySettings value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProxySettings(ProxySettings value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the proxy settings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>setSharedInstance(SDKNativeEngine value)</code></pre></td>
-  <td><div class="block">
-  Sets the shared instance of this SDK engine that can be accessed by any
-  HERE SDK module as the default engine.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setSharedInstance(SDKNativeEngine value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the shared instance of this SDK engine that can be accessed by
+  any HERE SDK module as the default engine.
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -369,9 +698,10 @@ automatically set a shared instance.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+  - <div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### SDKNativeEngine
@@ -411,9 +741,10 @@ automatically set a shared instance.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setAccessKeySecret(java.lang.String)"
+  - <div id="sdk-for-android-explore-setAccessKeySecret(java.lang.String)"
     class="section detail">
 
     ### setAccessKeySecret
@@ -444,7 +775,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setAccessScope(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-setAccessScope(java.lang.String)"
+    class="section detail">
 
     ### setAccessScope
 
@@ -473,7 +805,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="dispose()" class="section detail">
+  - <div id="sdk-for-android-explore-dispose()" class="section detail">
 
     ### dispose
 
@@ -495,7 +827,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="enableUsageStats(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-enableUsageStats(boolean)"
+    class="section detail">
 
     ### enableUsageStats
 
@@ -524,7 +857,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+  - <div id="sdk-for-android-explore-makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### makeSharedInstance
@@ -569,7 +902,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="clearPersistentUsageStats()" class="section detail">
+  - <div id="sdk-for-android-explore-clearPersistentUsageStats()"
+    class="section detail">
 
     ### clearPersistentUsageStats
 
@@ -590,7 +924,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="clearUsageStatsCache()" class="section detail">
+  - <div id="sdk-for-android-explore-clearUsageStatsCache()"
+    class="section detail">
 
     ### clearUsageStatsCache
 
@@ -611,7 +946,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"
+  - <div id="sdk-for-android-explore-purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"
     class="section detail">
 
     ### purgeMemoryCaches
@@ -638,7 +973,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"
+  - <div id="sdk-for-android-explore-getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"
     class="section detail">
 
     ### getDeviceId
@@ -665,7 +1000,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getOptions()" class="section detail">
+  - <div id="sdk-for-android-explore-getOptions()"
+    class="section detail">
 
     ### getOptions
 
@@ -688,7 +1024,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getSharedInstance()" class="section detail">
+  - <div id="sdk-for-android-explore-getSharedInstance()"
+    class="section detail">
 
     ### getSharedInstance
 
@@ -714,7 +1051,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)"
+  - <div id="sdk-for-android-explore-setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### setSharedInstance
@@ -743,7 +1080,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="isOfflineMode()" class="section detail">
+  - <div id="sdk-for-android-explore-isOfflineMode()"
+    class="section detail">
 
     ### isOfflineMode
 
@@ -776,7 +1114,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setOfflineMode(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setOfflineMode(boolean)"
+    class="section detail">
 
     ### setOfflineMode
 
@@ -811,7 +1150,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getPassThroughFeatures()" class="section detail">
+  - <div id="sdk-for-android-explore-getPassThroughFeatures()"
+    class="section detail">
 
     ### getPassThroughFeatures
 
@@ -820,7 +1160,7 @@ automatically set a shared instance.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
-    class="external-link" title="class or interface in java.util">Set</a><[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">getPassThroughFeatures</span>()
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">getPassThroughFeatures</span>()
 
     </div>
 
@@ -844,7 +1184,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setPassThroughFeatures(java.util.Set)"
+  - <div id="sdk-for-android-explore-setPassThroughFeatures(java.util.Set)"
     class="section detail">
 
     ### setPassThroughFeatures
@@ -854,7 +1194,7 @@ automatically set a shared instance.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><span class="parameters">(@Nullable
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
-    class="external-link" title="class or interface in java.util">Set</a><[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")> value)</span>
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\> value)</span>
 
     </div>
 
@@ -880,7 +1220,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getParameterConfig()" class="section detail">
+  - <div id="sdk-for-android-explore-getParameterConfig()"
+    class="section detail">
 
     ### getParameterConfig
 
@@ -906,7 +1247,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setParameterConfig(com.here.sdk.core.ParameterConfiguration)"
+  - <div id="sdk-for-android-explore-setParameterConfig(com.here.sdk.core.ParameterConfiguration)"
     class="section detail">
 
     ### setParameterConfig
@@ -935,7 +1276,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getProxySettings()" class="section detail">
+  - <div id="sdk-for-android-explore-getProxySettings()"
+    class="section detail">
 
     ### getProxySettings
 
@@ -967,7 +1309,7 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="setProxySettings(com.here.sdk.core.engine.ProxySettings)"
+  - <div id="sdk-for-android-explore-setProxySettings(com.here.sdk.core.engine.ProxySettings)"
     class="section detail">
 
     ### setProxySettings
@@ -1001,7 +1343,8 @@ automatically set a shared instance.
 
     </div>
 
-  - <div id="getSdkUsageStats()" class="section detail">
+  - <div id="sdk-for-android-explore-getSdkUsageStats()"
+    class="section detail">
 
     ### getSdkUsageStats
 
@@ -1010,7 +1353,7 @@ automatically set a shared instance.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")></span> <span class="element-name">getSdkUsageStats</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")\></span> <span class="element-name">getSdkUsageStats</span>()
 
     </div>
 

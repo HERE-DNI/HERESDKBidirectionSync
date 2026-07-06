@@ -9,7 +9,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,74 +41,142 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Abstract Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onAttach(MapViewBase mapView)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onAttach(MapViewBase mapView)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Called when adding MapViewLifecycleListener to the map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onDestroy()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onDestroy()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Called when the map view to which this is attached to is destroyed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onDetach(MapViewBase mapView)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onDetach(MapViewBase mapView)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Called when removing MapViewLifecycleListener from the map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onPause()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onPause()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Called when the map view to which this MapViewLifecycleListener is
   attached to gets paused (usually when the app goes into background).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onResume()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onResume()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
   Called when the map view to which this MapViewLifecycleListener is
   attached to gets resumed (usually when the app goes into foreground).
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -119,9 +188,10 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="onAttach(com.here.sdk.mapview.MapViewBase)"
+  - <div id="sdk-for-android-explore-onAttach(com.here.sdk.mapview.MapViewBase)"
     class="section detail">
 
     ### onAttach
@@ -151,7 +221,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     </div>
 
-  - <div id="onDetach(com.here.sdk.mapview.MapViewBase)"
+  - <div id="sdk-for-android-explore-onDetach(com.here.sdk.mapview.MapViewBase)"
     class="section detail">
 
     ### onDetach
@@ -178,7 +248,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     </div>
 
-  - <div id="onPause()" class="section detail">
+  - <div id="sdk-for-android-explore-onPause()" class="section detail">
 
     ### onPause
 
@@ -199,7 +269,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     </div>
 
-  - <div id="onResume()" class="section detail">
+  - <div id="sdk-for-android-explore-onResume()" class="section detail">
 
     ### onResume
 
@@ -221,7 +291,8 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     </div>
 
-  - <div id="onDestroy()" class="section detail">
+  - <div id="sdk-for-android-explore-onDestroy()"
+    class="section detail">
 
     ### onDestroy
 

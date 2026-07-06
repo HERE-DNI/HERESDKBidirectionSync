@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.POIPaymentMethod
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,218 +50,464 @@ releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX"
-  class="member-name-link"><code>AMEX</code></a></td>
-  <td><div class="block">
-  American express credit card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL"
-  class="member-name-link"><code>AMPOL</code></a></td>
-  <td><div class="block">
-  Ampol app
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY"
-  class="member-name-link"><code>ANDROID_PAY</code></a></td>
-  <td><div class="block">
-  Android pay
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY"
-  class="member-name-link"><code>APPLE_PAY</code></a></td>
-  <td><div class="block">
-  Apple pay
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH"
-  class="member-name-link"><code>CASH</code></a></td>
-  <td><div class="block">
-  Cash
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE"
-  class="member-name-link"><code>CHEQUE</code></a></td>
-  <td><div class="block">
-  Cheque
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD"
-  class="member-name-link"><code>DEBIT_CARD</code></a></td>
-  <td><div class="block">
-  Debit card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB"
-  class="member-name-link"><code>DINERS_CLUB</code></a></td>
-  <td><div class="block">
-  Diners club credit card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER"
-  class="member-name-link"><code>DISCOVER</code></a></td>
-  <td><div class="block">
-  Discover credit card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV"
-  class="member-name-link"><code>DKV</code></a></td>
-  <td><div class="block">
-  DKV invoicing service
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING"
-  class="member-name-link"><code>FINANCING</code></a></td>
-  <td><div class="block">
-  Financing
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD"
-  class="member-name-link"><code>MASTERCARD</code></a></td>
-  <td><div class="block">
-  Mastercard credit card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS"
-  class="member-name-link"><code>MOTORPASS</code></a></td>
-  <td><div class="block">
-  Motorpass fuel card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL"
-  class="member-name-link"><code>PAYPAL</code></a></td>
-  <td><div class="block">
-  PayPal
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL"
-  class="member-name-link"><code>SHELL</code></a></td>
-  <td><div class="block">
-  Shell fuel card
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA"
-  class="member-name-link"><code>VISA</code></a></td>
-  <td><div class="block">
-  Visa credit card
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX"
+  class="member-name-link"><code>AMEX</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  American express credit card
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL"
+  class="member-name-link"><code>AMPOL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Ampol app
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY"
+  class="member-name-link"><code>ANDROID_PAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Android pay
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY"
+  class="member-name-link"><code>APPLE_PAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Apple pay
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH"
+  class="member-name-link"><code>CASH</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Cash
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE"
+  class="member-name-link"><code>CHEQUE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Cheque
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD"
+  class="member-name-link"><code>DEBIT_CARD</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Debit card
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB"
+  class="member-name-link"><code>DINERS_CLUB</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Diners club credit card
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER"
+  class="member-name-link"><code>DISCOVER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Discover credit card
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV"
+  class="member-name-link"><code>DKV</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  DKV invoicing service
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING"
+  class="member-name-link"><code>FINANCING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Financing
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD"
+  class="member-name-link"><code>MASTERCARD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Mastercard credit card
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS"
+  class="member-name-link"><code>MOTORPASS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Motorpass fuel card
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL"
+  class="member-name-link"><code>PAYPAL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  PayPal
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL"
+  class="member-name-link"><code>SHELL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Shell fuel card
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA"
+  class="member-name-link"><code>VISA</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Visa credit card
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -267,28 +515,38 @@ releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>POIPaymentMethod()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      POIPaymentMethod()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -339,9 +597,10 @@ releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="AMEX" class="section detail">
+  - <div id="sdk-for-android-explore-AMEX" class="section detail">
 
     ### AMEX
 
@@ -366,7 +625,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="AMPOL" class="section detail">
+  - <div id="sdk-for-android-explore-AMPOL" class="section detail">
 
     ### AMPOL
 
@@ -391,7 +650,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="ANDROID_PAY" class="section detail">
+  - <div id="sdk-for-android-explore-ANDROID_PAY"
+    class="section detail">
 
     ### ANDROID_PAY
 
@@ -416,7 +676,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="APPLE_PAY" class="section detail">
+  - <div id="sdk-for-android-explore-APPLE_PAY" class="section detail">
 
     ### APPLE_PAY
 
@@ -441,7 +701,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="CASH" class="section detail">
+  - <div id="sdk-for-android-explore-CASH" class="section detail">
 
     ### CASH
 
@@ -466,7 +726,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="CHEQUE" class="section detail">
+  - <div id="sdk-for-android-explore-CHEQUE" class="section detail">
 
     ### CHEQUE
 
@@ -491,7 +751,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="DEBIT_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
 
     ### DEBIT_CARD
 
@@ -516,7 +776,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="DINERS_CLUB" class="section detail">
+  - <div id="sdk-for-android-explore-DINERS_CLUB"
+    class="section detail">
 
     ### DINERS_CLUB
 
@@ -541,7 +802,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="DISCOVER" class="section detail">
+  - <div id="sdk-for-android-explore-DISCOVER" class="section detail">
 
     ### DISCOVER
 
@@ -566,7 +827,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="DKV" class="section detail">
+  - <div id="sdk-for-android-explore-DKV" class="section detail">
 
     ### DKV
 
@@ -591,7 +852,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="FINANCING" class="section detail">
+  - <div id="sdk-for-android-explore-FINANCING" class="section detail">
 
     ### FINANCING
 
@@ -616,7 +877,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="MASTERCARD" class="section detail">
+  - <div id="sdk-for-android-explore-MASTERCARD" class="section detail">
 
     ### MASTERCARD
 
@@ -641,7 +902,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="MOTORPASS" class="section detail">
+  - <div id="sdk-for-android-explore-MOTORPASS" class="section detail">
 
     ### MOTORPASS
 
@@ -666,7 +927,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="PAYPAL" class="section detail">
+  - <div id="sdk-for-android-explore-PAYPAL" class="section detail">
 
     ### PAYPAL
 
@@ -691,7 +952,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="SHELL" class="section detail">
+  - <div id="sdk-for-android-explore-SHELL" class="section detail">
 
     ### SHELL
 
@@ -716,7 +977,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="VISA" class="section detail">
+  - <div id="sdk-for-android-explore-VISA" class="section detail">
 
     ### VISA
 
@@ -743,9 +1004,10 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### POIPaymentMethod
 

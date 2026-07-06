@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapCameraUpdateFactory
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -51,267 +52,520 @@ indicates also the top-left corner of the map's viewport.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>compositeUpdate(List&lt;MapCameraUpdate&gt; mapCameraUpdates)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      compositeUpdate(List<MapCameraUpdate> mapCameraUpdates)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates a composite camera update from a list of camera updates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoBox target)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoBox target)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to look at the given geo-box, preserving current
   orientation and zooming at the center of viewport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoBox target,
-   GeoOrientationUpdate orientation,
-   Rectangle2D viewRectangle)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoBox target,
+       GeoOrientationUpdate orientation,
+       Rectangle2D viewRectangle)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Create an update to look at the given geo-box and fit it inside the
   given rectangle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoBox target,
-   Rectangle2D viewRectangle)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoBox target,
+       Rectangle2D viewRectangle)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to look at the given geo-box and fit it inside the
   given rectangle, preserving current orientation and zooming at the
   center of view rectangle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoCoordinatesUpdate target)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoCoordinatesUpdate target)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to position the map camera to look at the given
   target, preserving the current orientation at look-at target and map
   measure.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoCoordinatesUpdate target,
-   GeoOrientationUpdate orientation)</code></pre></td>
-  <td><div class="block">
-  Creates an update to position the map camera to look at the given target
-  with the given orientation preserving the current map measure (zoom
-  level/distance/scale) Any target or orientation sub-element value that
-  is not finite will be excluded from the update.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoCoordinatesUpdate target,
-   GeoOrientationUpdate orientation,
-   MapMeasure measure)</code></pre></td>
-  <td><div class="block">
-  Creates an update to position the map camera to look at the given target
-  with the given orientation and map measure.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoCoordinatesUpdate target,
-   GeoOrientationUpdate orientation,
-   List&lt;GeoCoordinates&gt; points,
-   Rectangle2D viewRectangle,
-   MapMeasure minMeasure,
-   MapMeasure maxMeasure)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoCoordinatesUpdate target,
+       GeoOrientationUpdate orientation)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to position the map camera to look at the given
+  target with the given orientation preserving the current map measure
+  (zoom level/distance/scale) Any target or orientation sub-element
+  value that is not finite will be excluded from the update.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoCoordinatesUpdate target,
+       GeoOrientationUpdate orientation,
+       MapMeasure measure)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to position the map camera to look at the given
+  target with the given orientation and map measure.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoCoordinatesUpdate target,
+       GeoOrientationUpdate orientation,
+       List<GeoCoordinates> points,
+       Rectangle2D viewRectangle,
+       MapMeasure minMeasure,
+       MapMeasure maxMeasure)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to position the camera to look at the given target
   with the given orientation and obeying map measure limits, so that the
   given geo locations are inside the given rectangle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(GeoCoordinatesUpdate target,
-   MapMeasure measure)</code></pre></td>
-  <td><div class="block">
-  Creates an update to position the map camera to look at the given target
-  with the given map measure preserving the current orientation at look-at
-  target.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookAt(List&lt;GeoCoordinates&gt; points,
-   Rectangle2D viewRectangle,
-   GeoOrientationUpdate orientation,
-   MapMeasure measureLimit)</code></pre></td>
-  <td><div class="block">
-  Create an update to look at the given geo locations and fit them inside
-  the given rectangle, in accordance with a map measure limit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookToMatch(GeoCoordinates geoPoint,
-   Point2D viewPoint)</code></pre></td>
-  <td><div class="block">
-  Creates an update to position the map camera to look at the map with the
-  given geo point located at the given view point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>lookToMatch(GeoCoordinates geoPoint,
-   Point2D viewPoint,
-   GeoOrientationUpdate orientation,
-   MapMeasure measure)</code></pre></td>
-  <td><div class="block">
-  Creates an update to position the map camera to look at the map with the
-  given orientation and map measure and with the given geo point located
-  at the given view point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>orbitBy(GeoOrientationUpdate delta,
-   Point2D origin)</code></pre></td>
-  <td><div class="block">
-  Creates an update to orbit map camera around a pixel origin by specified
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(GeoCoordinatesUpdate target,
+       MapMeasure measure)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to position the map camera to look at the given
+  target with the given map measure preserving the current orientation
+  at look-at target.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookAt(List<GeoCoordinates> points,
+       Rectangle2D viewRectangle,
+       GeoOrientationUpdate orientation,
+       MapMeasure measureLimit)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Create an update to look at the given geo locations and fit them
+  inside the given rectangle, in accordance with a map measure limit.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookToMatch(GeoCoordinates geoPoint,
+       Point2D viewPoint)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to position the map camera to look at the map with
+  the given geo point located at the given view point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      lookToMatch(GeoCoordinates geoPoint,
+       Point2D viewPoint,
+       GeoOrientationUpdate orientation,
+       MapMeasure measure)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to position the map camera to look at the map with
+  the given orientation and map measure and with the given geo point
+  located at the given view point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      orbitBy(GeoOrientationUpdate delta,
+       Point2D origin)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to orbit map camera around a pixel origin by
+  specified geodetic orientation delta.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      panBy(double xOffset,
+       double yOffset)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to pan map camera over the map by the specified
+  number of pixels in the x and y direction starting from current
+  principal point position.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      rotateBy(GeoOrientationUpdate delta)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to change map camera orientation by specified
   geodetic orientation delta.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>panBy(double xOffset,
-   double yOffset)</code></pre></td>
-  <td><div class="block">
-  Creates an update to pan map camera over the map by the specified number
-  of pixels in the x and y direction starting from current principal point
-  position.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>rotateBy(GeoOrientationUpdate delta)</code></pre></td>
-  <td><div class="block">
-  Creates an update to change map camera orientation by specified geodetic
-  orientation delta.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>setNormalizedPrincipalPoint(Anchor2D principalPoint)</code></pre></td>
-  <td><div class="block">
-  Creates an update to change the map camera's principal point (where the
-  view vector intersects the image plane - default is (0.5, 0.5)).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>setPrincipalPoint(Point2D principalPoint)</code></pre></td>
-  <td><div class="block">
-  Creates an update to change the map camera's principal point (where the
-  view vector intersects the image plane - default is the center of the
-  view).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>setVerticalFieldOfView(double verticalFieldOfView)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setNormalizedPrincipalPoint(Anchor2D principalPoint)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to change the map camera's principal point (where
+  the view vector intersects the image plane - default is (0.5, 0.5)).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setPrincipalPoint(Point2D principalPoint)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates an update to change the map camera's principal point (where
+  the view vector intersects the image plane - default is the center of
+  the view).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setVerticalFieldOfView(double verticalFieldOfView)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to change the vertical field of view of the map
   camera.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>zoomBy(double factor,
-   Point2D origin)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      zoomBy(double factor,
+       Point2D origin)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to zoom map camera by a given factor preserving a
   given focus point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate"
-  title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a></td>
-  <td><pre><code>zoomTo(double zoomLevel)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraUpdate`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      zoomTo(double zoomLevel)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Creates an update to move map camera's viewpoint to a particular zoom
   level by adjusting its position.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -366,9 +620,10 @@ indicates also the top-left corner of the map's viewport.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinatesUpdate)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate)"
     class="section detail">
 
     ### lookAt
@@ -404,7 +659,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### lookAt
@@ -446,7 +701,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -489,7 +744,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -538,7 +793,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookToMatch
@@ -600,7 +855,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### lookToMatch
@@ -649,7 +904,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -661,7 +916,7 @@ indicates also the top-left corner of the map's viewport.
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">lookAt</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> points,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -727,7 +982,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapMeasure,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapMeasure,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -742,7 +997,7 @@ indicates also the top-left corner of the map's viewport.
     [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> points,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -826,7 +1081,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -881,7 +1136,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.Rectangle2D)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -930,7 +1185,8 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoBox)" class="section detail">
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox)"
+    class="section detail">
 
     ### lookAt
 
@@ -964,7 +1220,8 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="panBy(double,double)" class="section detail">
+  - <div id="sdk-for-android-explore-panBy(double,double)"
+    class="section detail">
 
     ### panBy
 
@@ -999,7 +1256,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### orbitBy
@@ -1042,7 +1299,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="rotateBy(com.here.sdk.core.GeoOrientationUpdate)"
+  - <div id="sdk-for-android-explore-rotateBy(com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### rotateBy
@@ -1077,7 +1334,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="zoomBy(double,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### zoomBy
@@ -1118,7 +1375,8 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="zoomTo(double)" class="section detail">
+  - <div id="sdk-for-android-explore-zoomTo(double)"
+    class="section detail">
 
     ### zoomTo
 
@@ -1148,7 +1406,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="setPrincipalPoint(com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1182,7 +1440,7 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setNormalizedPrincipalPoint
@@ -1216,7 +1474,8 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="setVerticalFieldOfView(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setVerticalFieldOfView(double)"
+    class="section detail">
 
     ### setVerticalFieldOfView
 
@@ -1247,7 +1506,8 @@ indicates also the top-left corner of the map's viewport.
 
     </div>
 
-  - <div id="compositeUpdate(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-compositeUpdate(java.util.List)"
+    class="section detail">
 
     ### compositeUpdate
 
@@ -1258,7 +1518,7 @@ indicates also the top-left corner of the map's viewport.
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">compositeUpdate</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")> mapCameraUpdates)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")\> mapCameraUpdates)</span>
     throws
     <span class="exceptions">[MapCameraUpdate.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception "class in com.here.sdk.mapview")</span>
 

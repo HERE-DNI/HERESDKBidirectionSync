@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearcherror"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<EVSearchError>com.here.sdk.search.EVSearchError →
+java.lang.Enum\<EVSearchError\>com.here.sdk.search.EVSearchError →
 java.lang.Enum → EVSearchError → com.here.sdk.search.EVSearchError
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSearchError</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,201 +88,381 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#AUTHENTICATION_FAILED"
-  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   EVCP3 operation is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#BAD_REQUEST"
-  class="member-name-link"><code>BAD_REQUEST</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BAD_REQUEST</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Something wrong or missing in the request.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#EMPTY_IDS"
-  class="member-name-link"><code>EMPTY_IDS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EMPTY_IDS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Empty list of IDs passed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#EXCEEDED_USAGE_LIMIT"
-  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Credentials exceeded the allowed requests limit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#HTTP_ERROR"
-  class="member-name-link"><code>HTTP_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HTTP_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A general network request error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#INTERNAL_ERROR"
-  class="member-name-link"><code>INTERNAL_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INTERNAL_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Generic internal error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#INVALID_ID"
-  class="member-name-link"><code>INVALID_ID</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_ID</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   At least one empty or invalid ID passed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#NO_RESULTS_FOUND"
-  class="member-name-link"><code>NO_RESULTS_FOUND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_RESULTS_FOUND</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No results found.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The device has no internet connection.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OPERATION_CANCELLED"
-  class="member-name-link"><code>OPERATION_CANCELLED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OPERATION_CANCELLED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The request was cancelled (usually by the user).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OPERATION_FAILED"
-  class="member-name-link"><code>OPERATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OPERATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Search operation failed due to some reason.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PARSING_ERROR"
-  class="member-name-link"><code>PARSING_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARSING_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   EVCP3 backend returns result with unexpected json schema.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PROXY_AUTHENTICATION_FAILED"
-  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Proxy is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PROXY_SERVER_UNREACHABLE"
-  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Proxy server unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#SERVER_UNREACHABLE"
-  class="member-name-link"><code>SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   EVCP3 server is unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#TIMED_OUT"
-  class="member-name-link"><code>TIMED_OUT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TIMED_OUT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The request timed out.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsearcherror"
-  title="enum class in com.here.sdk.search"><code>EVSearchError</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSearchError`](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsearcherror"
-  title="enum class in com.here.sdk.search"><code>EVSearchError</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSearchError`](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -362,9 +545,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="EMPTY_IDS" class="section detail">
+  - <div id="sdk-for-android-explore-EMPTY_IDS" class="section detail">
 
     ### EMPTY_IDS
 
@@ -383,7 +567,7 @@ deprecation process.
 
     </div>
 
-  - <div id="INVALID_ID" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_ID" class="section detail">
 
     ### INVALID_ID
 
@@ -402,7 +586,8 @@ deprecation process.
 
     </div>
 
-  - <div id="BAD_REQUEST" class="section detail">
+  - <div id="sdk-for-android-explore-BAD_REQUEST"
+    class="section detail">
 
     ### BAD_REQUEST
 
@@ -421,7 +606,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PARSING_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-PARSING_ERROR"
+    class="section detail">
 
     ### PARSING_ERROR
 
@@ -440,7 +626,8 @@ deprecation process.
 
     </div>
 
-  - <div id="INTERNAL_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-INTERNAL_ERROR"
+    class="section detail">
 
     ### INTERNAL_ERROR
 
@@ -459,7 +646,8 @@ deprecation process.
 
     </div>
 
-  - <div id="SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-SERVER_UNREACHABLE"
+    class="section detail">
 
     ### SERVER_UNREACHABLE
 
@@ -478,7 +666,7 @@ deprecation process.
 
     </div>
 
-  - <div id="HTTP_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
 
     ### HTTP_ERROR
 
@@ -497,7 +685,8 @@ deprecation process.
 
     </div>
 
-  - <div id="AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### AUTHENTICATION_FAILED
 
@@ -516,7 +705,8 @@ deprecation process.
 
     </div>
 
-  - <div id="EXCEEDED_USAGE_LIMIT" class="section detail">
+  - <div id="sdk-for-android-explore-EXCEEDED_USAGE_LIMIT"
+    class="section detail">
 
     ### EXCEEDED_USAGE_LIMIT
 
@@ -535,7 +725,7 @@ deprecation process.
 
     </div>
 
-  - <div id="TIMED_OUT" class="section detail">
+  - <div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
 
     ### TIMED_OUT
 
@@ -554,7 +744,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OFFLINE" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -573,7 +763,8 @@ deprecation process.
 
     </div>
 
-  - <div id="OPERATION_CANCELLED" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATION_CANCELLED"
+    class="section detail">
 
     ### OPERATION_CANCELLED
 
@@ -592,7 +783,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PROXY_AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### PROXY_AUTHENTICATION_FAILED
 
@@ -611,7 +803,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PROXY_SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
+    class="section detail">
 
     ### PROXY_SERVER_UNREACHABLE
 
@@ -630,7 +823,8 @@ deprecation process.
 
     </div>
 
-  - <div id="NO_RESULTS_FOUND" class="section detail">
+  - <div id="sdk-for-android-explore-NO_RESULTS_FOUND"
+    class="section detail">
 
     ### NO_RESULTS_FOUND
 
@@ -649,7 +843,8 @@ deprecation process.
 
     </div>
 
-  - <div id="OPERATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATION_FAILED"
+    class="section detail">
 
     ### OPERATION_FAILED
 
@@ -670,9 +865,10 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -696,7 +892,8 @@ deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

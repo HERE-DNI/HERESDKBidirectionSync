@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<LayerConfiguration.Feature>com.here.sdk.core.engine.LayerConfiguration.Feature
+java.lang.Enum\<LayerConfiguration.Feature\>com.here.sdk.core.engine.LayerConfiguration.Feature
 → java.lang.Enum → LayerConfiguration.Feature →
 com.here.sdk.core.engine.LayerConfiguration.Feature
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -44,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">LayerConfiguration.Feature</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -76,7 +77,8 @@ might have overlapping sets of enabled layer groups.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -98,7 +100,8 @@ might have overlapping sets of enabled layer groups.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -106,272 +109,532 @@ might have overlapping sets of enabled layer groups.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#ADAS"
-  class="member-name-link"><code>ADAS</code></a></td>
-  <td><div class="block">
-  Map data which provides ADAS information which includes slope, elevation
-  and curvature information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ADAS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Map data which provides ADAS information which includes slope,
+  elevation and curvature information.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAIL_RENDERING"
-  class="member-name-link"><code>DETAIL_RENDERING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DETAIL_RENDERING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Additional rendering details like buildings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAILED_TERRAIN"
-  class="member-name-link"><code>DETAILED_TERRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DETAILED_TERRAIN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that provides detailed topography information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EHORIZON"
-  class="member-name-link"><code>EHORIZON</code></a></td>
-  <td><div class="block">
-  Map data which provides information about the parts of foreign segments
-  in a tile, where a foreign segment is a segment that is stored in
-  another tile but intersects the current tile.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>EHORIZON</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Map data which provides information about the parts of foreign
+  segments in a tile, where a foreign segment is a segment that is
+  stored in another tile but intersects the current tile.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV"
-  class="member-name-link"><code>EV</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EV</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Offline map data for EVChargingStation .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES"
-  class="member-name-link"><code>FUEL_STATION_ATTRIBUTES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUEL_STATION_ATTRIBUTES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Enables fuel attributes to be returned by Offline Search engine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_16X9"
-  class="member-name-link"><code>JUNCTION_SIGN_16X9</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>JUNCTION_SIGN_16X9</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that provides junction sign images with aspect ratio 16x9.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X4"
-  class="member-name-link"><code>JUNCTION_SIGN_3X4</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>JUNCTION_SIGN_3X4</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that provides junction sign images with aspect ratio 3x4.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X5"
-  class="member-name-link"><code>JUNCTION_SIGN_3X5</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>JUNCTION_SIGN_3X5</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that provides junction sign images with aspect ratio 3x5.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_4X3"
-  class="member-name-link"><code>JUNCTION_SIGN_4X3</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>JUNCTION_SIGN_4X3</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that provides junction sign images with aspect ratio 4x3.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_5X3"
-  class="member-name-link"><code>JUNCTION_SIGN_5X3</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>JUNCTION_SIGN_5X3</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that provides junction sign images with aspect ratio 5x3.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_16X9"
-  class="member-name-link"><code>JUNCTION_VIEW_16X9</code></a></td>
-  <td><div class="block">
-  Map data that provides junction view images and assets with aspect ratio
-  16x9.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>JUNCTION_VIEW_16X9</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Map data that provides junction view images and assets with aspect
+  ratio 16x9.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_3X4"
-  class="member-name-link"><code>JUNCTION_VIEW_3X4</code></a></td>
-  <td><div class="block">
-  Map data that provides junction view images and assets with aspect ratio
-  3x4.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>JUNCTION_VIEW_3X4</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Map data that provides junction view images and assets with aspect
+  ratio 3x4.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#LANDMARKS_3D"
-  class="member-name-link"><code>LANDMARKS_3D</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LANDMARKS_3D</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that is used to render 3D landmarks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION"
-  class="member-name-link"><code>NAVIGATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NAVIGATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that is used for map matching during navigation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_BUS_ROUTING"
-  class="member-name-link"><code>OFFLINE_BUS_ROUTING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE_BUS_ROUTING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that is used to calculate bus routes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_ROUTING"
-  class="member-name-link"><code>OFFLINE_ROUTING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE_ROUTING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that is used to calculate routes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH"
-  class="member-name-link"><code>OFFLINE_SEARCH</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE_SEARCH</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that is used to search.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL"
-  class="member-name-link"><code>OFFLINE_SEARCH_GLOBAL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE_SEARCH_GLOBAL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data used for global search indexing.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RDS_TRAFFIC"
-  class="member-name-link"><code>RDS_TRAFFIC</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RDS_TRAFFIC</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that provides traffic broadcast functionality using RDS-TMC
   format.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING"
-  class="member-name-link"><code>RENDERING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RENDERING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A basic set of rendering features such as carto POIs.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TERRAIN"
-  class="member-name-link"><code>TERRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TERRAIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Map data that provides topography information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRUCK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Map data that is used to calculate truck routes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES"
-  class="member-name-link"><code>TRUCK_SERVICE_ATTRIBUTES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRUCK_SERVICE_ATTRIBUTES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Enables truck related attributes to be returned by Offline Search
   engine.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
-  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
-  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -454,9 +717,11 @@ might have overlapping sets of enabled layer groups.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="DETAIL_RENDERING" class="section detail">
+  - <div id="sdk-for-android-explore-DETAIL_RENDERING"
+    class="section detail">
 
     ### DETAIL_RENDERING
 
@@ -481,7 +746,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="NAVIGATION" class="section detail">
+  - <div id="sdk-for-android-explore-NAVIGATION" class="section detail">
 
     ### NAVIGATION
 
@@ -506,7 +771,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="OFFLINE_SEARCH" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE_SEARCH"
+    class="section detail">
 
     ### OFFLINE_SEARCH
 
@@ -528,7 +794,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="OFFLINE_SEARCH_GLOBAL" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE_SEARCH_GLOBAL"
+    class="section detail">
 
     ### OFFLINE_SEARCH_GLOBAL
 
@@ -578,7 +845,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="OFFLINE_ROUTING" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE_ROUTING"
+    class="section detail">
 
     ### OFFLINE_ROUTING
 
@@ -603,7 +871,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="RENDERING" class="section detail">
+  - <div id="sdk-for-android-explore-RENDERING" class="section detail">
 
     ### RENDERING
 
@@ -626,7 +894,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="TRUCK" class="section detail">
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -654,7 +922,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="LANDMARKS_3D" class="section detail">
+  - <div id="sdk-for-android-explore-LANDMARKS_3D"
+    class="section detail">
 
     ### LANDMARKS_3D
 
@@ -683,7 +952,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="EV" class="section detail">
+  - <div id="sdk-for-android-explore-EV" class="section detail">
 
     ### EV
 
@@ -704,7 +973,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="TRUCK_SERVICE_ATTRIBUTES" class="section detail">
+  - <div id="sdk-for-android-explore-TRUCK_SERVICE_ATTRIBUTES"
+    class="section detail">
 
     ### TRUCK_SERVICE_ATTRIBUTES
 
@@ -725,7 +995,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="FUEL_STATION_ATTRIBUTES" class="section detail">
+  - <div id="sdk-for-android-explore-FUEL_STATION_ATTRIBUTES"
+    class="section detail">
 
     ### FUEL_STATION_ATTRIBUTES
 
@@ -746,7 +1017,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="OFFLINE_BUS_ROUTING" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE_BUS_ROUTING"
+    class="section detail">
 
     ### OFFLINE_BUS_ROUTING
 
@@ -768,7 +1040,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_VIEW_3X4" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_VIEW_3X4"
+    class="section detail">
 
     ### JUNCTION_VIEW_3X4
 
@@ -791,7 +1064,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_VIEW_16X9" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_VIEW_16X9"
+    class="section detail">
 
     ### JUNCTION_VIEW_16X9
 
@@ -815,7 +1089,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_SIGN_3X4" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_3X4"
+    class="section detail">
 
     ### JUNCTION_SIGN_3X4
 
@@ -836,7 +1111,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_SIGN_3X5" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_3X5"
+    class="section detail">
 
     ### JUNCTION_SIGN_3X5
 
@@ -857,7 +1133,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_SIGN_4X3" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_4X3"
+    class="section detail">
 
     ### JUNCTION_SIGN_4X3
 
@@ -878,7 +1155,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_SIGN_5X3" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_5X3"
+    class="section detail">
 
     ### JUNCTION_SIGN_5X3
 
@@ -899,7 +1177,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="JUNCTION_SIGN_16X9" class="section detail">
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_16X9"
+    class="section detail">
 
     ### JUNCTION_SIGN_16X9
 
@@ -920,7 +1199,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="TERRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-TERRAIN" class="section detail">
 
     ### TERRAIN
 
@@ -948,7 +1227,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="DETAILED_TERRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-DETAILED_TERRAIN"
+    class="section detail">
 
     ### DETAILED_TERRAIN
 
@@ -969,7 +1249,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="ADAS" class="section detail">
+  - <div id="sdk-for-android-explore-ADAS" class="section detail">
 
     ### ADAS
 
@@ -990,7 +1270,7 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="EHORIZON" class="section detail">
+  - <div id="sdk-for-android-explore-EHORIZON" class="section detail">
 
     ### EHORIZON
 
@@ -1013,7 +1293,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="RDS_TRAFFIC" class="section detail">
+  - <div id="sdk-for-android-explore-RDS_TRAFFIC"
+    class="section detail">
 
     ### RDS_TRAFFIC
 
@@ -1038,9 +1319,10 @@ might have overlapping sets of enabled layer groups.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1064,7 +1346,8 @@ might have overlapping sets of enabled layer groups.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

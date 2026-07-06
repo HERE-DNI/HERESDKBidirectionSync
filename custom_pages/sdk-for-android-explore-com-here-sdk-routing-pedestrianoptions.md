@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.PedestrianOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -53,7 +54,8 @@ All the options to specify how a pedestrian route should be calculated.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -61,81 +63,154 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions"
-  title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`AvoidanceOptions`](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#avoidanceOptions"
-  class="member-name-link"><code>avoidanceOptions</code></a></td>
-  <td><div class="block">
-  Deprecated.
+  class="member-name-link"><code>avoidanceOptions</code></a>
+
   </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Options to specify restrictions for route calculations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions"
-  title="class in com.here.sdk.routing"><code>RouteOptions</code></a></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`RouteOptions`](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#routeOptions"
-  class="member-name-link"><code>routeOptions</code></a></td>
-  <td><div class="block">
-  Deprecated.
+  class="member-name-link"><code>routeOptions</code></a>
+
   </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Specifies the common route calculation options.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
-  title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#textOptions"
-  class="member-name-link"><code>textOptions</code></a></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#textOptions"
+  class="member-name-link"><code>textOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Customize textual content returned from the route calculation, such as
   localization, format, and unit system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#walkSpeedInMetersPerSecond"
-  class="member-name-link"><code>walkSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  Deprecated.
+
   </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions#walkSpeedInMetersPerSecond"
+  class="member-name-link"><code>walkSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Specifies the speed that will be used by the service as the walking
   speed for pedestrian routing in meters per second.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -143,93 +218,146 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>PedestrianOptions()</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
   </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      PedestrianOptions()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
   <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
-  Deprecated Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
   </div>
-   </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions"
-  title="class in com.here.sdk.routing"><code>PedestrianOptions</code></a></td>
-  <td><pre><code>fromDefaultParameterConfiguration()</code></pre></td>
-  <td><div class="block">
-  Deprecated.
+
+  <div class="table-header col-second">
+
+  Method
+
   </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
   <div class="block">
-  Returns PedestrianOptions instance with default values used in SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td><div class="block">
+
   Deprecated.
+
   </div>
-   </td>
-  </tr>
-  </tbody>
-  </table>
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `[`PedestrianOptions`](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      fromDefaultParameterConfiguration()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
+  Deprecated.
+
+  </div>
+
+  <div class="block">
+
+  Returns PedestrianOptions instance with default values used in SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
+  Deprecated.
+
+  </div>
+
+   
+
+  </div>
 
   </div>
 
@@ -278,9 +406,11 @@ All the options to specify how a pedestrian route should be calculated.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="routeOptions" class="section detail">
+  - <div id="sdk-for-android-explore-routeOptions"
+    class="section detail">
 
     ### routeOptions
 
@@ -305,7 +435,8 @@ All the options to specify how a pedestrian route should be calculated.
 
     </div>
 
-  - <div id="textOptions" class="section detail">
+  - <div id="sdk-for-android-explore-textOptions"
+    class="section detail">
 
     ### textOptions
 
@@ -331,7 +462,8 @@ All the options to specify how a pedestrian route should be calculated.
 
     </div>
 
-  - <div id="avoidanceOptions" class="section detail">
+  - <div id="sdk-for-android-explore-avoidanceOptions"
+    class="section detail">
 
     ### avoidanceOptions
 
@@ -357,7 +489,8 @@ All the options to specify how a pedestrian route should be calculated.
 
     </div>
 
-  - <div id="walkSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-walkSpeedInMetersPerSecond"
+    class="section detail">
 
     ### walkSpeedInMetersPerSecond
 
@@ -388,9 +521,10 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### PedestrianOptions
 
@@ -416,9 +550,11 @@ All the options to specify how a pedestrian route should be calculated.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -448,7 +584,7 @@ All the options to specify how a pedestrian route should be calculated.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -476,7 +612,7 @@ All the options to specify how a pedestrian route should be calculated.
 
     </div>
 
-  - <div id="fromDefaultParameterConfiguration()"
+  - <div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
     class="section detail">
 
     ### fromDefaultParameterConfiguration

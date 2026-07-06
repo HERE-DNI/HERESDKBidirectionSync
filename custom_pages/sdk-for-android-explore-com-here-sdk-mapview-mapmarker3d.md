@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapMarker3D
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -74,7 +75,8 @@ to face any direction.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -82,242 +84,572 @@ to face any direction.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapMarker3D(GeoCoordinates at,
-   MapImage image,
-   double scale,
-   RenderSize.Unit unit)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker3D(GeoCoordinates at,
+       MapImage image,
+       double scale,
+       RenderSize.Unit unit)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a flat marker from provided map image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3D(GeoCoordinates at,
-   MapMarker3DModel model)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker3D(GeoCoordinates at,
+       MapMarker3DModel model)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates an instance of a 3D marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3D(GeoCoordinates at,
-   MapMarker3DModel model,
-   double scale)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker3D(GeoCoordinates at,
+       MapMarker3DModel model,
+       double scale)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of a 3D marker with scale factor.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker3D(GeoCoordinates at,
-   MapMarker3DModel model,
-   double scale,
-   RenderSize.Unit unit)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker3D(GeoCoordinates at,
+       MapMarker3DModel model,
+       double scale,
+       RenderSize.Unit unit)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a new 3D marker at given world coordinates, using the supplied
   3D model.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getBearing()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBearing()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the bearing of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getCoordinates()</code></pre></td>
-  <td><div class="block">
-  Gets the 3D marker's position on the map corresponding to the origin of
-  the 3D marker model coordinate system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadata"
-  title="class in com.here.sdk.core"><code>Metadata</code></a></td>
-  <td><pre><code>getMetadata()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCoordinates()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the 3D marker's position on the map corresponding to the origin
+  of the 3D marker model coordinate system.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMetadata()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the Metadata instance attached to this 3D marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getOpacity()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOpacity()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an opacity factor which specifies the translucency of a 3D map
   marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getPitch()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPitch()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the pitch of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getRoll()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoll()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the roll of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getScale()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getScale()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the scale factor applied to the 3D model before rendering.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a><code>&gt;</code></td>
-  <td><pre><code>getVisibilityRanges()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVisibilityRanges()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of visibility ranges.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isDepthCheckEnabled()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isDepthCheckEnabled()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns true if depth check is enabled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isRenderInternalsEnabled()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isRenderInternalsEnabled()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns a flag indicating whether to render internal geometry of a 3D
   marker occluded by its front facing polygons.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setBearing(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setBearing(double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the bearing of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setCoordinates(GeoCoordinates value)</code></pre></td>
-  <td><div class="block">
-  Sets the 3D marker's position on the map corresponding to the origin of
-  the 3D marker model coordinate system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDepthCheckEnabled(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCoordinates(GeoCoordinates value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the 3D marker's position on the map corresponding to the origin
+  of the 3D marker model coordinate system.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDepthCheckEnabled(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Set whether the depth of the 3D marker's vertices is considered during
   rendering.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMetadata(Metadata value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMetadata(Metadata value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the Metadata instance attached to this 3D marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOpacity(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOpacity(double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets an opacity factor which specifies the translucency of a 3D map
   marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setPitch(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setPitch(double value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the pitch of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setRenderInternalsEnabled(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setRenderInternalsEnabled(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a flag indicating whether to render internal geometry of a 3D
   marker occluded by its front facing polygons.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setRoll(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setRoll(double value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the roll of the 3D model in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setScale(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setScale(double value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the scale factor, to be applied to the 3D model before rendering.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setVisibilityRanges(List&lt;MapMeasureRange&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setVisibilityRanges(List<MapMeasureRange> value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets visibility ranges for this 3D marker.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -372,9 +704,10 @@ to face any direction.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)"
     class="section detail">
 
     ### MapMarker3D
@@ -410,7 +743,7 @@ to face any direction.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)"
     class="section detail">
 
     ### MapMarker3D
@@ -474,7 +807,7 @@ to face any direction.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)"
     class="section detail">
 
     ### MapMarker3D
@@ -517,7 +850,7 @@ to face any direction.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)"
     class="section detail">
 
     ### MapMarker3D
@@ -579,9 +912,11 @@ to face any direction.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getCoordinates()"
+    class="section detail">
 
     ### getCoordinates
 
@@ -607,7 +942,7 @@ to face any direction.
 
     </div>
 
-  - <div id="setCoordinates(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-setCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setCoordinates
@@ -636,7 +971,8 @@ to face any direction.
 
     </div>
 
-  - <div id="getMetadata()" class="section detail">
+  - <div id="sdk-for-android-explore-getMetadata()"
+    class="section detail">
 
     ### getMetadata
 
@@ -661,7 +997,7 @@ to face any direction.
 
     </div>
 
-  - <div id="setMetadata(com.here.sdk.core.Metadata)"
+  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -688,7 +1024,8 @@ to face any direction.
 
     </div>
 
-  - <div id="getBearing()" class="section detail">
+  - <div id="sdk-for-android-explore-getBearing()"
+    class="section detail">
 
     ### getBearing
 
@@ -712,7 +1049,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setBearing(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setBearing(double)"
+    class="section detail">
 
     ### setBearing
 
@@ -738,7 +1076,7 @@ to face any direction.
 
     </div>
 
-  - <div id="getRoll()" class="section detail">
+  - <div id="sdk-for-android-explore-getRoll()" class="section detail">
 
     ### getRoll
 
@@ -765,7 +1103,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setRoll(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setRoll(double)"
+    class="section detail">
 
     ### setRoll
 
@@ -794,7 +1133,7 @@ to face any direction.
 
     </div>
 
-  - <div id="getPitch()" class="section detail">
+  - <div id="sdk-for-android-explore-getPitch()" class="section detail">
 
     ### getPitch
 
@@ -820,7 +1159,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setPitch(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setPitch(double)"
+    class="section detail">
 
     ### setPitch
 
@@ -848,7 +1188,7 @@ to face any direction.
 
     </div>
 
-  - <div id="getScale()" class="section detail">
+  - <div id="sdk-for-android-explore-getScale()" class="section detail">
 
     ### getScale
 
@@ -869,7 +1209,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setScale(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setScale(double)"
+    class="section detail">
 
     ### setScale
 
@@ -893,7 +1234,8 @@ to face any direction.
 
     </div>
 
-  - <div id="isDepthCheckEnabled()" class="section detail">
+  - <div id="sdk-for-android-explore-isDepthCheckEnabled()"
+    class="section detail">
 
     ### isDepthCheckEnabled
 
@@ -922,7 +1264,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setDepthCheckEnabled(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setDepthCheckEnabled(boolean)"
+    class="section detail">
 
     ### setDepthCheckEnabled
 
@@ -953,7 +1296,8 @@ to face any direction.
 
     </div>
 
-  - <div id="isRenderInternalsEnabled()" class="section detail">
+  - <div id="sdk-for-android-explore-isRenderInternalsEnabled()"
+    class="section detail">
 
     ### isRenderInternalsEnabled
 
@@ -982,7 +1326,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setRenderInternalsEnabled(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setRenderInternalsEnabled(boolean)"
+    class="section detail">
 
     ### setRenderInternalsEnabled
 
@@ -1013,7 +1358,8 @@ to face any direction.
 
     </div>
 
-  - <div id="getOpacity()" class="section detail">
+  - <div id="sdk-for-android-explore-getOpacity()"
+    class="section detail">
 
     ### getOpacity
 
@@ -1038,7 +1384,8 @@ to face any direction.
 
     </div>
 
-  - <div id="setOpacity(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setOpacity(double)"
+    class="section detail">
 
     ### setOpacity
 
@@ -1066,7 +1413,8 @@ to face any direction.
 
     </div>
 
-  - <div id="getVisibilityRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+    class="section detail">
 
     ### getVisibilityRanges
 
@@ -1075,7 +1423,7 @@ to face any direction.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1096,7 +1444,7 @@ to face any direction.
 
     </div>
 
-  - <div id="setVisibilityRanges(java.util.List)"
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -1106,7 +1454,7 @@ to face any direction.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 

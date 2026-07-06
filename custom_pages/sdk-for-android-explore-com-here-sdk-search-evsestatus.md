@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsestatus"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<EVSEStatus>com.here.sdk.search.EVSEStatus →
+java.lang.Enum\<EVSEStatus\>com.here.sdk.search.EVSEStatus →
 java.lang.Enum → EVSEStatus → com.here.sdk.search.EVSEStatus
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSEStatus</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[EVSEStatus](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEStatus](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ EVSE status
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ EVSE status
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,131 +85,219 @@ EVSE status
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsestatus#AVAILABLE"
-  class="member-name-link"><code>AVAILABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AVAILABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE is able to start a new charging session.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OCCUPIED"
-  class="member-name-link"><code>OCCUPIED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCCUPIED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The EVSE is in use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OFFLINE"
+  class="member-name-link"><code>OFFLINE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   No status information available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OTHER"
-  class="member-name-link"><code>OTHER</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OTHER"
+  class="member-name-link"><code>OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No status information available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsestatus#OUT_OF_SERVICE"
-  class="member-name-link"><code>OUT_OF_SERVICE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OUT_OF_SERVICE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE is currently out of order.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsestatus#RESERVED"
-  class="member-name-link"><code>RESERVED</code></a></td>
-  <td><div class="block">
-  The EVSE has been reserved for a particular EV driver and is unavailable
-  for other drivers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>RESERVED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The EVSE has been reserved for a particular EV driver and is
+  unavailable for other drivers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-evsestatus#UNAVAILABLE"
-  class="member-name-link"><code>UNAVAILABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>UNAVAILABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE is not available because of a physical barrier, for example a
   car.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsestatus"
-  title="enum class in com.here.sdk.search"><code>EVSEStatus</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEStatus`](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evsestatus"
-  title="enum class in com.here.sdk.search"><code>EVSEStatus</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEStatus`](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -289,9 +380,10 @@ EVSE status
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="AVAILABLE" class="section detail">
+  - <div id="sdk-for-android-explore-AVAILABLE" class="section detail">
 
     ### AVAILABLE
 
@@ -310,7 +402,7 @@ EVSE status
 
     </div>
 
-  - <div id="OCCUPIED" class="section detail">
+  - <div id="sdk-for-android-explore-OCCUPIED" class="section detail">
 
     ### OCCUPIED
 
@@ -329,7 +421,7 @@ EVSE status
 
     </div>
 
-  - <div id="OFFLINE" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -348,7 +440,7 @@ EVSE status
 
     </div>
 
-  - <div id="OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -367,7 +459,8 @@ EVSE status
 
     </div>
 
-  - <div id="OUT_OF_SERVICE" class="section detail">
+  - <div id="sdk-for-android-explore-OUT_OF_SERVICE"
+    class="section detail">
 
     ### OUT_OF_SERVICE
 
@@ -386,7 +479,7 @@ EVSE status
 
     </div>
 
-  - <div id="RESERVED" class="section detail">
+  - <div id="sdk-for-android-explore-RESERVED" class="section detail">
 
     ### RESERVED
 
@@ -406,7 +499,8 @@ EVSE status
 
     </div>
 
-  - <div id="UNAVAILABLE" class="section detail">
+  - <div id="sdk-for-android-explore-UNAVAILABLE"
+    class="section detail">
 
     ### UNAVAILABLE
 
@@ -428,9 +522,10 @@ EVSE status
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -454,7 +549,8 @@ EVSE status
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.routing.IsolineRoutingEngine
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ connection.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -48,100 +50,161 @@ connection.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>IsolineRoutingEngine()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      IsolineRoutingEngine()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance of this class.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineRoutingEngine(SDKNativeEngine sdkEngine)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      IsolineRoutingEngine(SDKNativeEngine sdkEngine)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates a new instance of IsolineRoutingEngine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineRoutingEngine(SDKNativeEngine sdkEngine,
-   RoutingConnectionSettings connectionSettings)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of RoutingEngine.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>IsolineRoutingEngine(RoutingConnectionSettings connectionSettings)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance of RoutingEngine.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  </div>
 
-  <div id="method-summary-table">
+  <div class="col-constructor-name even-row-color">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+      IsolineRoutingEngine(SDKNativeEngine sdkEngine,
+       RoutingConnectionSettings connectionSettings)
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-last even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
-  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
-  <td><pre><code>calculateIsoline(Waypoint center,
-   IsolineOptions isolineOptions,
-   CalculateIsolineCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously calculates isolines to indicate the reachable area from a
-  center point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror"
-  title="enum class in com.here.sdk.routing"><code>RoutingError</code></a></td>
-  <td><pre><code>setCustomOption(String name,
-   String value)</code></pre></td>
-  <td><div class="block">
+  <div class="block">
+
+  Creates a new instance of RoutingEngine.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      IsolineRoutingEngine(RoutingConnectionSettings connectionSettings)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance of RoutingEngine.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      calculateIsoline(Waypoint center,
+       IsolineOptions isolineOptions,
+       CalculateIsolineCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously calculates isolines to indicate the reachable area from
+  a center point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomOption(String name,
+       String value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets a custom option for routing backend queries.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -196,9 +259,10 @@ connection.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### IsolineRoutingEngine
 
@@ -224,7 +288,7 @@ connection.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.RoutingConnectionSettings)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -257,7 +321,7 @@ connection.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -296,7 +360,7 @@ connection.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -331,9 +395,10 @@ connection.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)"
+  - <div id="sdk-for-android-explore-calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)"
     class="section detail">
 
     ### calculateIsoline
@@ -381,7 +446,7 @@ connection.
 
     </div>
 
-  - <div id="setCustomOption(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setCustomOption

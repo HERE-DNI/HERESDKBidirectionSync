@@ -11,7 +11,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
 <div class="section summary">
 
-- <div id="related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -19,58 +19,119 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   </div>
 
-  | Package | Description |
-  |----|----|
-  | [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary) |   |
-  | [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary) |   |
-  | [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary) |   |
-  | [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary) |   |
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Package
 
   </div>
 
-- <div id="class-summary">
+  <div class="table-header col-last">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Classes and Interfaces
-  Enum Classes
-  Exceptions
+  Description
 
   </div>
 
-  <div id="class-summary.tabpanel" aria-labelledby="class-summary-tab0"
-  role="tabpanel">
+  <div class="col-first even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
-  title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></td>
-  <td><div class="block">
+  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-class-summary">
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  [InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
   Instantiation error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception"
-  title="class in com.here.sdk.core.errors">InstantiationErrorException</a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab5">
+
+  [InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
   Instantiation error.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 

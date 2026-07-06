@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.AngleRange
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -44,7 +45,8 @@ possible inputs.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -52,43 +54,78 @@ possible inputs.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-anglerange#extent"
-  class="member-name-link"><code>extent</code></a></td>
-  <td><div class="block">
-  The angle range extent, running clockwise, in degrees from start.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>final double</code></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anglerange#start"
-  class="member-name-link"><code>start</code></a></td>
-  <td><div class="block">
-  Start angle, running clockwise, in degrees from north.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-anglerange#extent"
+  class="member-name-link"><code>extent</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The angle range extent, running clockwise, in degrees from start.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `final double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-anglerange#start"
+  class="member-name-link"><code>start</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Start angle, running clockwise, in degrees from north.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -96,123 +133,233 @@ possible inputs.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>AngleRange()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      AngleRange()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Constructs a range covering a full circle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>AngleRange(double start,
-   double extent)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      AngleRange(double start,
+       double extent)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Constructs an AngleRange from the provided start and extent angles.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>closestInRange(double angleClockwiseInDegreesFromNorth)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      closestInRange(double angleClockwiseInDegreesFromNorth)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Get the angle that is closest to the given one and in range.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-anglerange"
-  title="class in com.here.sdk.core"><code>AngleRange</code></a></td>
-  <td><pre><code>fromDirectionDegreesClockwise(double center,
-   double extent)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromDirectionDegreesClockwise(double center,
+       double extent)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Constructs an AngleRange from the provided center angle defining the
-  direction and an angular width to extent the range by 50% clockwise and
-  50% counter-clockwise from its center angle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-anglerange"
-  title="class in com.here.sdk.core"><code>AngleRange</code></a></td>
-  <td><pre><code>fromMinMaxDegreesClockwise(double min,
-   double max)</code></pre></td>
-  <td><div class="block">
+  direction and an angular width to extent the range by 50% clockwise
+  and 50% counter-clockwise from its center angle.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromMinMaxDegreesClockwise(double min,
+       double max)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Constructs an AngleRange from the provided minimum and maximum angles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>inRange(double angleClockwiseInDegreesFromNorth)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      inRange(double angleClockwiseInDegreesFromNorth)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Check if a given angle in degrees, clockwise from north is in range or
   not.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>max()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      max()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Get the maximum angle defined by the range in degrees, clockwise from
-  north, normalized to [0,360).
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  north, normalized to \[0,360).
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -261,9 +408,10 @@ possible inputs.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="start" class="section detail">
+  - <div id="sdk-for-android-explore-start" class="section detail">
 
     ### start
 
@@ -283,7 +431,7 @@ possible inputs.
 
     </div>
 
-  - <div id="extent" class="section detail">
+  - <div id="sdk-for-android-explore-extent" class="section detail">
 
     ### extent
 
@@ -305,9 +453,11 @@ possible inputs.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(double,double)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(double,double)"
+    class="section detail">
 
     ### AngleRange
 
@@ -338,7 +488,7 @@ possible inputs.
 
     </div>
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### AngleRange
 
@@ -358,9 +508,11 @@ possible inputs.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -384,7 +536,7 @@ possible inputs.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -406,7 +558,7 @@ possible inputs.
 
     </div>
 
-  - <div id="fromMinMaxDegreesClockwise(double,double)"
+  - <div id="sdk-for-android-explore-fromMinMaxDegreesClockwise(double,double)"
     class="section detail">
 
     ### fromMinMaxDegreesClockwise
@@ -444,7 +596,7 @@ possible inputs.
 
     </div>
 
-  - <div id="fromDirectionDegreesClockwise(double,double)"
+  - <div id="sdk-for-android-explore-fromDirectionDegreesClockwise(double,double)"
     class="section detail">
 
     ### fromDirectionDegreesClockwise
@@ -486,7 +638,8 @@ possible inputs.
 
     </div>
 
-  - <div id="inRange(double)" class="section detail">
+  - <div id="sdk-for-android-explore-inRange(double)"
+    class="section detail">
 
     ### inRange
 
@@ -513,7 +666,8 @@ possible inputs.
 
     </div>
 
-  - <div id="closestInRange(double)" class="section detail">
+  - <div id="sdk-for-android-explore-closestInRange(double)"
+    class="section detail">
 
     ### closestInRange
 
@@ -544,7 +698,7 @@ possible inputs.
 
     </div>
 
-  - <div id="max()" class="section detail">
+  - <div id="sdk-for-android-explore-max()" class="section detail">
 
     ### max
 

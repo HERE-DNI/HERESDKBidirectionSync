@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapLayerPriorityBuilder
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -93,7 +94,8 @@ assignment can be done for all types of data: points, lines, polygons.
 
 <div class="section summary">
 
-- <div id="constructor-summary" class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -101,149 +103,271 @@ assignment can be done for all types of data: points, lines, polygons.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapLayerPriorityBuilder()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapLayerPriorityBuilder()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of the layer priority builder interface.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a></td>
-  <td><pre><code>build()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Constructs a MapLayerPriority.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>inGroup(String group)</code></pre></td>
-  <td><div class="block">
-  Sets the group for which a priority could be defined with the next call
-  to the functions renderedFirst|Last|BeforeLayer|AfterLayer .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedAfterLayer(String referenceLayer)</code></pre></td>
-  <td><div class="block">
-  Sets the priority as rendered after the last one from the referenceLayer
-  and its categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedAfterLayer(String referenceLayer,
-   String referenceCategory)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      inGroup(String group)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the group for which a priority could be defined with the next
+  call to the functions renderedFirst\|Last\|BeforeLayer\|AfterLayer .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedAfterLayer(String referenceLayer)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the priority as rendered after the last one from the
+  referenceLayer and its categories.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedAfterLayer(String referenceLayer,
+       String referenceCategory)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the priority as rendered after the referenceCategory of the
   referenceLayer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedBeforeLayer(String referenceLayer)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedBeforeLayer(String referenceLayer)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the priority as rendered before the first one from the
   referenceLayer and its categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedBeforeLayer(String referenceLayer,
-   String referenceCategory)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedBeforeLayer(String referenceLayer,
+       String referenceCategory)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the priority as rendered before the referenceCategory of the
   referenceLayer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedFirst()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedFirst()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the priority as rendered before all layers and categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>renderedLast()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      renderedLast()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the priority as rendered after all layers and categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
-  title="class in com.here.sdk.mapview"><code>MapLayerPriorityBuilder</code></a></td>
-  <td><pre><code>withCategory(String category)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withCategory(String category)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the layer category for which a priority could be defined with the
-  next call to the functions renderedFirst|Last|BeforeLayer|AfterLayer .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  next call to the functions
+  renderedFirst\|Last\|BeforeLayer\|AfterLayer .
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -298,9 +422,10 @@ assignment can be done for all types of data: points, lines, polygons.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapLayerPriorityBuilder
 
@@ -320,9 +445,11 @@ assignment can be done for all types of data: points, lines, polygons.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="withCategory(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-withCategory(java.lang.String)"
+    class="section detail">
 
     ### withCategory
 
@@ -357,7 +484,8 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="inGroup(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-inGroup(java.lang.String)"
+    class="section detail">
 
     ### inGroup
 
@@ -404,7 +532,8 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedFirst()" class="section detail">
+  - <div id="sdk-for-android-explore-renderedFirst()"
+    class="section detail">
 
     ### renderedFirst
 
@@ -439,7 +568,8 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedLast()" class="section detail">
+  - <div id="sdk-for-android-explore-renderedLast()"
+    class="section detail">
 
     ### renderedLast
 
@@ -474,7 +604,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedBeforeLayer(java.lang.String)"
+  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -521,7 +651,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedBeforeLayer(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -577,7 +707,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedAfterLayer(java.lang.String)"
+  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -624,7 +754,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="renderedAfterLayer(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -680,7 +810,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
     </div>
 
-  - <div id="build()" class="section detail">
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

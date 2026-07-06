@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.core.engine.SDKLogger
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,76 +40,142 @@ logging functions.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>error(String tag,
-   String message)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      error(String tag,
+       String message)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   convenient function to print a message with log level ERROR and tag.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>fatal(String tag,
-   String message)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fatal(String tag,
+       String message)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   convenient function to print a message with log level FATAL and tag.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>info(String tag,
-   String message)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      info(String tag,
+       String message)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   convenient function to print a message with log level INFO and tag.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>log(LogLevel level,
-   String tag,
-   String message)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static void</code></td>
-  <td><pre><code>warn(String tag,
-   String message)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      log(LogLevel level,
+       String tag,
+       String message)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      warn(String tag,
+       String message)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   convenient function to print a message with log level WARNING and tag.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -163,9 +230,10 @@ logging functions.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### log
@@ -199,7 +267,7 @@ logging functions.
 
     </div>
 
-  - <div id="info(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-info(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### info
@@ -234,7 +302,7 @@ logging functions.
 
     </div>
 
-  - <div id="warn(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-warn(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### warn
@@ -270,7 +338,7 @@ logging functions.
 
     </div>
 
-  - <div id="error(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-error(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### error
@@ -305,7 +373,7 @@ logging functions.
 
     </div>
 
-  - <div id="fatal(java.lang.String,java.lang.String)"
+  - <div id="sdk-for-android-explore-fatal(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### fatal

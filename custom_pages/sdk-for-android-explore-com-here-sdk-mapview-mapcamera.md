@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapCamera
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -70,8 +71,8 @@ within the map display. Distance vs zoom-level vs scale Map camera
 distance , zoom-level and scale determine how much of the world is
 visible on the HERE map. Distance , zoom-level and scale are directly
 connected and changing one will automatically change the others as well
-(except for distance / scale changes that map to zoom-level values < 0
-or > 23). distance : the distance from the camera to the look-at target
+(except for distance / scale changes that map to zoom-level values \< 0
+or \> 23). distance : the distance from the camera to the look-at target
 on the surface of the Earth, in meters zoom-level : the map zoom level,
 in the range \[0, 3\]. The relation between the width of the equator in
 logical pixels w and the zoom level z is: w = 256 \* 2^(z) scale : the
@@ -118,7 +119,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -126,288 +128,699 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback"
   class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapCamera.DryCameraUpdateCallback</code></a></td>
-  <td><div class="block">
+  title="interface in com.here.sdk.mapview"><code>MapCamera.DryCameraUpdateCallback</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Used to report back results of dry update application to camera.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapCamera.FarPlaneConfiguration</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapCamera.FarPlaneConfiguration</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Far plane distance configuration for a zoom level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapCamera.State</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapCamera.State</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Encapsulates state of the camera.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addListener(MapCameraListener listener)</code></pre></td>
-  <td><div class="block">
-  Adds a listener to this camera that will be notified on the main thread
-  every time the map is redrawn with new camera parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>applyUpdate(MapCameraUpdate cameraUpdate)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addListener(MapCameraListener listener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Adds a listener to this camera that will be notified on the main
+  thread every time the map is redrawn with new camera parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      applyUpdate(MapCameraUpdate cameraUpdate)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Applies camera update to the map camera.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>cancelAnimation(MapCameraAnimation cameraAnimation)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      cancelAnimation(MapCameraAnimation cameraAnimation)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Cancels an ongoing camera animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>cancelAnimations()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      cancelAnimations()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Cancels any ongoing camera animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>dryApplyUpdate(MapCameraUpdate cameraUpdate,
-   MapCamera.DryCameraUpdateCallback callback)</code></pre></td>
-  <td><div class="block">
-  Computes result of applying camera update without changing state of the
-  map camera.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geobox"
-  title="class in com.here.sdk.core"><code>GeoBox</code></a></td>
-  <td><pre><code>getBoundingBox()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      dryApplyUpdate(MapCameraUpdate cameraUpdate,
+       MapCamera.DryCameraUpdateCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Computes result of applying camera update without changing state of
+  the map camera.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBoundingBox()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current visible map area encompassed in a GeoBox.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
-  title="class in com.here.sdk.mapview"><code>MapCameraLimits</code></a></td>
-  <td><pre><code>getLimits()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapCameraLimits`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLimits()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a MapCameraLimits instance that controls limits for the camera
   settings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-point2d"
-  title="class in com.here.sdk.core"><code>Point2D</code></a></td>
-  <td><pre><code>getPrincipalPoint()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPrincipalPoint()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the pixel point that determines where the target is placed within
   the map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
-  title="class in com.here.sdk.mapview"><code>MapCamera.State</code></a></td>
-  <td><pre><code>getState()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapCamera.State`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getState()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets state of the camera that reflects what is currently drawn inside
   the map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>lookAt(GeoBox target,
-   GeoOrientationUpdate orientation)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      lookAt(GeoBox target,
+       GeoOrientationUpdate orientation)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at the specified geodetic area.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>lookAt(GeoBox target,
-   GeoOrientationUpdate orientation,
-   Rectangle2D viewRectangle)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      lookAt(GeoBox target,
+       GeoOrientationUpdate orientation,
+       Rectangle2D viewRectangle)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at the specified geodetic area and pass a
-  rectangle which specifies where the area should appear inside of the map
-  view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>lookAt(GeoCoordinates target)</code></pre></td>
-  <td><div class="block">
+  rectangle which specifies where the area should appear inside of the
+  map view.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      lookAt(GeoCoordinates target)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at a new geodetic target, while preserving the
   current orientation and distance to the target.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>lookAt(GeoCoordinates target,
-   GeoOrientationUpdate orientation,
-   MapMeasure zoom)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      lookAt(GeoCoordinates target,
+       GeoOrientationUpdate orientation,
+       MapMeasure zoom)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at the geodetic target with the given zoom and
   orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>lookAt(GeoCoordinates target,
-   MapMeasure zoom)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      lookAt(GeoCoordinates target,
+       MapMeasure zoom)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at the geodetic target with the given zoom.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>orbitBy(GeoOrientationUpdate delta,
-   Point2D origin)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      orbitBy(GeoOrientationUpdate delta,
+       Point2D origin)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Orbits the camera around a specified view point by increasing tilt and
   bearing by specified delta values.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeListener(MapCameraListener observer)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeListener(MapCameraListener observer)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes the listener from the camera.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeListeners()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeListeners()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all registered listeners.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDistanceToTarget(double distanceInMeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDistanceToTarget(double distanceInMeters)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Makes the camera look at current target from certain distance
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setFarPlaneConfiguration(Map&lt;Double,MapCamera.FarPlaneConfiguration&gt; configs)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setFarPlaneConfiguration(Map<Double,MapCamera.FarPlaneConfiguration> configs)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets far plane distance configs per zoom level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOrientationAtTarget(GeoOrientationUpdate orientation)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOrientationAtTarget(GeoOrientationUpdate orientation)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Changes camera orientation in relation to target location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setPrincipalPoint(Point2D value)</code></pre></td>
-  <td><div class="block">
-  Sets the pixel point that determines where the target appears within the
-  map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>startAnimation(MapCameraAnimation cameraAnimation)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setPrincipalPoint(Point2D value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the pixel point that determines where the target appears within
+  the map view.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      startAnimation(MapCameraAnimation cameraAnimation)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Starts a given camera animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>startAnimation(MapCameraAnimation cameraAnimation,
-   AnimationListener animationListener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      startAnimation(MapCameraAnimation cameraAnimation,
+       AnimationListener animationListener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Starts a given camera animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>zoomBy(double factor,
-   Point2D origin)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      zoomBy(double factor,
+       Point2D origin)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Zooms in or out by a specified factor.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>zoomTo(double zoomLevel)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      zoomTo(double zoomLevel)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Zooms to the specified zoom level.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -462,9 +875,10 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="setFarPlaneConfiguration(java.util.Map)"
+  - <div id="sdk-for-android-explore-setFarPlaneConfiguration(java.util.Map)"
     class="section detail">
 
     ### setFarPlaneConfiguration
@@ -474,9 +888,9 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFarPlaneConfiguration</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")> configs)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")\> configs)</span>
 
     </div>
 
@@ -489,9 +903,9 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     minDistance1, t) Effective far plane for the current frame is:
     farPlaneInMeters = max( minDistance(z), distanceToTargetInMeters \*
     distanceFactor(z) ) Sample Configuration (balanced
-    quality/performance, tune per zoom level): 14.4 ->
-    FarPlaneConfiguration(1.3) 18.34 -> FarPlaneConfiguration(2.0)
-    19.60 -> FarPlaneConfiguration(1.3) minDistanceInMeters remains
+    quality/performance, tune per zoom level): 14.4 -\>
+    FarPlaneConfiguration(1.3) 18.34 -\> FarPlaneConfiguration(2.0)
+    19.60 -\> FarPlaneConfiguration(1.3) minDistanceInMeters remains
     default in this case. Passing an empty map clears the per-zoom
     override and restores the default behavior. Non-finite zoom levels
     or values are ignored. Distance factors are clamped to 0.1 to 10.0.
@@ -506,7 +920,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="addListener(com.here.sdk.mapview.MapCameraListener)"
+  - <div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### addListener
@@ -533,7 +947,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="removeListener(com.here.sdk.mapview.MapCameraListener)"
+  - <div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### removeListener
@@ -559,7 +973,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="removeListeners()" class="section detail">
+  - <div id="sdk-for-android-explore-removeListeners()"
+    class="section detail">
 
     ### removeListeners
 
@@ -577,7 +992,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
+  - <div id="sdk-for-android-explore-applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
     class="section detail">
 
     ### applyUpdate
@@ -604,7 +1019,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
+  - <div id="sdk-for-android-explore-dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
     class="section detail">
 
     ### dryApplyUpdate
@@ -639,7 +1054,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### startAnimation
@@ -670,7 +1085,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -709,7 +1124,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -735,7 +1150,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="cancelAnimations()" class="section detail">
+  - <div id="sdk-for-android-explore-cancelAnimations()"
+    class="section detail">
 
     ### cancelAnimations
 
@@ -754,7 +1170,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### orbitBy
@@ -786,7 +1202,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="zoomBy(double,com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### zoomBy
@@ -829,7 +1245,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="zoomTo(double)" class="section detail">
+  - <div id="sdk-for-android-explore-zoomTo(double)"
+    class="section detail">
 
     ### zoomTo
 
@@ -856,7 +1273,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### lookAt
@@ -885,7 +1302,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -920,7 +1337,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -964,7 +1381,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### lookAt
@@ -999,7 +1416,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -1045,7 +1462,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="setDistanceToTarget(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setDistanceToTarget(double)"
+    class="section detail">
 
     ### setDistanceToTarget
 
@@ -1070,7 +1488,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
+  - <div id="sdk-for-android-explore-setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### setOrientationAtTarget
@@ -1095,7 +1513,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="getState()" class="section detail">
+  - <div id="sdk-for-android-explore-getState()" class="section detail">
 
     ### getState
 
@@ -1119,7 +1537,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="getPrincipalPoint()" class="section detail">
+  - <div id="sdk-for-android-explore-getPrincipalPoint()"
+    class="section detail">
 
     ### getPrincipalPoint
 
@@ -1150,7 +1569,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="setPrincipalPoint(com.here.sdk.core.Point2D)"
+  - <div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1169,8 +1588,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     target coordinates at the new principal point. By default, the
     principal point is located at the center of the map view. It is set
     in pixels relative to the map view's origin top-left (0, 0). Values
-    outside the map view's dimensions (x < 0 \|\| x > width, y < 0
-    \|\| y > height) will be rejected silently and the current
+    outside the map view's dimensions (x \< 0 \|\| x \> width, y \< 0
+    \|\| y \> height) will be rejected silently and the current
     principal point is kept. The value of the principal point is
     adjusted when the dimensions of the map view change, so that it
     stays in the same point relative to width and height. Meaning that
@@ -1192,7 +1611,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="getBoundingBox()" class="section detail">
+  - <div id="sdk-for-android-explore-getBoundingBox()"
+    class="section detail">
 
     ### getBoundingBox
 
@@ -1224,7 +1644,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 
     </div>
 
-  - <div id="getLimits()" class="section detail">
+  - <div id="sdk-for-android-explore-getLimits()"
+    class="section detail">
 
     ### getLimits
 

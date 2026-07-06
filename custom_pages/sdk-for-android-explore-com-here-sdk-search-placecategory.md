@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.search.PlaceCategory
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ This class also defines a set of most commonly used categories.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,943 +48,2032 @@ This class also defines a set of most commonly used categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION"
-  class="member-name-link"><code>ACCOMMODATION</code></a></td>
-  <td><div class="block">
-  Top level category for places offering lodging accommodations, dwellings
-  or similar living quarters to travellers, such as hotels, motels,
-  resorts, cruise ships and campgrounds.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL"
-  class="member-name-link"><code>ACCOMMODATION_HOTEL_MOTEL</code></a></td>
-  <td><div class="block">
-  A business that provides lodging or temporary living quarters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING"
-  class="member-name-link"><code>ACCOMMODATION_LODGING</code></a></td>
-  <td><div class="block">
-  A business that provides lodging to the public generally without room
-  service.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS"
-  class="member-name-link"><code>AREAS_AND_BUILDINGS</code></a></td>
-  <td><div class="block">
-  Top level category for places that are owned, operated or managed by
-  municipalities, such as cities, towns, villages, boroughs and shires.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
-  class="member-name-link"><code>AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</code></a></td>
-  <td><div class="block">
-  Outdoor areas or complexes with designations for specific businesses or
-  interests.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
-  class="member-name-link"><code>AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</code></a></td>
-  <td><div class="block">
-  Areas and buildings designated for residential or office use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES"
-  class="member-name-link"><code>BUSINESS_AND_COMMERCIAL_SERVICES</code></a></td>
-  <td><div class="block">
-  Businesses that provide a service or product for use by other
-  businesses.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES"
-  class="member-name-link"><code>BUSINESS_AND_CONSUMER_SERVICES</code></a></td>
-  <td><div class="block">
-  An organization that provides consumer services for a variety of
-  products for used by the public.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES</code></a></td>
-  <td><div class="block">
-  Top level category for places that provide professional services to
-  other businesses, such as printing, photocopying, graphic design,
-  marketing, advertising and other general business services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_ATM</code></a></td>
-  <td><div class="block">
-  A computer terminal that allows bank customers to deposit, withdraw, or
-  transfer funds without the assistance of a bank teller.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_BANKING</code></a></td>
-  <td><div class="block">
-  Businesses that specialize in the maintenance, lending, exchange, or
-  issuance of money.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_DEALER_SALES</code></a></td>
-  <td><div class="block">
-  Businesses that sell new automobiles and motorcycles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_RENTAL</code></a></td>
-  <td><div class="block">
-  Businesses that rent or lease automobiles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</code></a></td>
-  <td><div class="block">
-  Businesses that provide automotive repair services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</code></a></td>
-  <td><div class="block">
-  Businesses that provide communication services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a></td>
-  <td><div class="block">
-  Businesses that provide recharging services for electric vehicles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_FUELING_STATION</code></a></td>
-  <td><div class="block">
-  Businesses that sell fuel for vehicles, such as petrol, electricity etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_INDUSTRY</code></a></td>
-  <td><div class="block">
-  Businesses that employ people in and around the city in which it is
-  located.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_MONEY_CASH</code></a></td>
-  <td><div class="block">
-  Businesses that provide money related services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a></td>
-  <td><div class="block">
-  Businesses that sell fuel, oil, and other motoring supplies.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</code></a></td>
-  <td><div class="block">
-  Municipal emergency services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_POST_OFFICE</code></a></td>
-  <td><div class="block">
-  An office or station that receives, sorts, dispatches and delivers mail
-  to a specific area or region.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_TOURIST_INFORMATION</code></a></td>
-  <td><div class="block">
-  Businesses that provide a variety of information for visiting tourists,
-  such as event schedules, lodging/accommodations, restaurants,
-  attractions and more.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
-  class="member-name-link"><code>BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</code></a></td>
-  <td><div class="block">
-  Business that sell or service trucks and tractor trailers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK"
-  class="member-name-link"><code>EAT_AND_DRINK</code></a></td>
-  <td><div class="block">
-  Top level category for places where food or beverages are prepared or
-  served.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA"
-  class="member-name-link"><code>EAT_AND_DRINK_COFFEE_TEA</code></a></td>
-  <td><div class="block">
-  An establishment that sells drinks, such as coffee and tea, as well as
-  refreshments.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT"
-  class="member-name-link"><code>EAT_AND_DRINK_RESTAURANT</code></a></td>
-  <td><div class="block">
-  An establishment that prepares and serves refreshments and prepared
-  meals.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES"
-  class="member-name-link"><code>FACILITIES</code></a></td>
-  <td><div class="block">
-  Top level category for places associated with specialized facilities,
-  such as sports venues, government buildings, health care centers and
-  other types of facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION"
-  class="member-name-link"><code>FACILITIES_EDUCATION</code></a></td>
-  <td><div class="block">
-  Facilities that are used for educational purposes including training,
-  coaching, universities and more.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES"
-  class="member-name-link"><code>FACILITIES_EVENT_SPACES</code></a></td>
-  <td><div class="block">
-  An area or facility used for the hosting of fairs and conventions.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY"
-  class="member-name-link"><code>FACILITIES_GOVERNMENT_COMMUNITTY</code></a></td>
-  <td><div class="block">
-  A Place where government services are provided.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE"
-  class="member-name-link"><code>FACILITIES_HOSPITAL_HEALTHCARE</code></a></td>
-  <td><div class="block">
-  Facilities that include dental offices, hospitals, nursing homes and
-  other health care-related services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY"
-  class="member-name-link"><code>FACILITIES_LIBRARY</code></a></td>
-  <td><div class="block">
-  Facilities that offer books, periodicals, audio, video and other
-  material for public use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER"
-  class="member-name-link"><code>FACILITIES_OTHER</code></a></td>
-  <td><div class="block">
-  Facilities with miscellaneous uses such as Clubhouses, Offices, and
-  Registration Offices.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING"
-  class="member-name-link"><code>FACILITIES_PARKING</code></a></td>
-  <td><div class="block">
-  Area or building used for parking cars.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL"
-  class="member-name-link"><code>FACILITIES_SCHOOL</code></a></td>
-  <td><div class="block">
-  Educational facilities that include primary schools, secondary schools
-  and more.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS"
-  class="member-name-link"><code>FACILITIES_VENUE_SPORTS</code></a></td>
-  <td><div class="block">
-  A facility used for individual and team sports including recreational
-  sports.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA"
-  class="member-name-link"><code>GOING_OUT_CINEMA</code></a></td>
-  <td><div class="block">
-  An establishment that shows movies through screen projection.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT"
-  class="member-name-link"><code>GOING_OUT_ENTERTAINMENT</code></a></td>
-  <td><div class="block">
-  Top level category for places commonly associated with entertainment,
-  such as bars, cinemas, theatres, casinos and night clubs.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING"
-  class="member-name-link"><code>GOING_OUT_GAMBLING_LOTTERY_BETTING</code></a></td>
-  <td><div class="block">
-  An establishment that provides gambling entertainment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE"
-  class="member-name-link"><code>GOING_OUT_NIGHTLIFE</code></a></td>
-  <td><div class="block">
-  An establishment that provides evening entertainment and usually serves
-  alcoholic beverages.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE"
-  class="member-name-link"><code>GOING_OUT_THEATRE_MUSIC_CULTURE</code></a></td>
-  <td><div class="block">
-  An establishment where various types of performing arts are presented.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR"
-  class="member-name-link"><code>LEISURE_AND_OUTDOOR</code></a></td>
-  <td><div class="block">
-  Top level category for places that are designated for sports,
-  recreation, parking, beaches and other leisure and outdoor activities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER"
-  class="member-name-link"><code>LEISURE_OTHER</code></a></td>
-  <td><div class="block">
-  A park that contains rides and/or other entertainment which may be based
-  on a central theme.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION"
-  class="member-name-link"><code>LEISURE_OUTDOOR_RECREATION</code></a></td>
-  <td><div class="block">
-  Public land preserved and maintained for recreational use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL</code></a></td>
-  <td><div class="block">
-  Top level category for natural or man-made areas of regional importance,
-  such as bodies of water, mountains, forested areas and other geographic
-  areas.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</code></a></td>
-  <td><div class="block">
-  A natural and geographical feature of the earth's surface that is
-  covered with water, such as a lake, river, stream or ocean.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</code></a></td>
-  <td><div class="block">
-  A dense growth of trees, open uncultivated land or other large masses of
-  vegetation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</code></a></td>
-  <td><div class="block">
-  A natural and geographical feature that is higher than the surrounding
-  land.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_OTHER</code></a></td>
-  <td><div class="block">
-  A feature not classified as a Body of Water, Mountain or Hill, Undersea
-  Feature, or Forest, Heath or Other Vegetation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
-  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</code></a></td>
-  <td><div class="block">
-  A natural or artificial feature that is below sea level.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING"
-  class="member-name-link"><code>SHOPPING</code></a></td>
-  <td><div class="block">
-  Top level category for places where consumer goods are commonly sold,
-  such as clothing stores, grocery stores, hardware stores and other types
-  of shopping centers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE"
-  class="member-name-link"><code>SHOPPING_BOOKSTORE</code></a></td>
-  <td><div class="block">
-  A business that sells books, magazines and other reading material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES"
-  class="member-name-link"><code>SHOPPING_CLOTHING_AND_ACCESORIES</code></a></td>
-  <td><div class="block">
-  A business that sells apparel items, garments or fashion accessories for
-  men, women, and children.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS"
-  class="member-name-link"><code>SHOPPING_CONSUMER_GOODS</code></a></td>
-  <td><div class="block">
-  A business that sells a variety of products targeted to consumers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE"
-  class="member-name-link"><code>SHOPPING_CONVENIENCE_STORE</code></a></td>
-  <td><div class="block">
-  An establishment that sells groceries, candy, toiletries, soft drinks,
-  tobacco products, newspapers and other products.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE"
-  class="member-name-link"><code>SHOPPING_DEPARTMENT_STORE</code></a></td>
-  <td><div class="block">
-  A business that sells a wide variety of merchandise that is organized by
-  product or service departments.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY"
-  class="member-name-link"><code>SHOPPING_DRUGSTORE_PHARMACY</code></a></td>
-  <td><div class="block">
-  A business that sells medications, toiletry items and other retail
-  cosmetics.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS"
-  class="member-name-link"><code>SHOPPING_ELECTRONICS</code></a></td>
-  <td><div class="block">
-  A business that sells consumer electronics and electronic entertainment
-  equipment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK"
-  class="member-name-link"><code>SHOPPING_FOOD_AND_DRINK</code></a></td>
-  <td><div class="block">
-  A business that sells specialty products of a particular type of food or
-  beverage.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY"
-  class="member-name-link"><code>SHOPPING_HAIR_AND_BEAUTY</code></a></td>
-  <td><div class="block">
-  A business that provides hair styling and personal appearance services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN"
-  class="member-name-link"><code>SHOPPING_HARDWARE_HOUSE_GARDEN</code></a></td>
-  <td><div class="block">
-  A business that sells crafts, gardening, remodeling, or decorating items
-  for the home.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX"
-  class="member-name-link"><code>SHOPPING_MALL_COMPLEX</code></a></td>
-  <td><div class="block">
-  A complex of businesses that are co-located and share common services.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS"
-  class="member-name-link"><code>SIGHTS_AND_MUSEUMS</code></a></td>
-  <td><div class="block">
-  Top level category for places of special interest, such as common
-  tourist attractions, museums and places of worship.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION"
-  class="member-name-link"><code>SIGHTS_LANDMARK_ATTRACTION</code></a></td>
-  <td><div class="block">
-  A designated area of special interest to tourists.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM"
-  class="member-name-link"><code>SIGHTS_MUSEUM</code></a></td>
-  <td><div class="block">
-  An establishment dedicated to the preservation and exhibition of
-  artistic, historical, or scientific artifacts.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE"
-  class="member-name-link"><code>SIGHTS_RELIGIOUS_PLACE</code></a></td>
-  <td><div class="block">
-  An establishment special religious significance or where religious
-  services are held.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT"
-  class="member-name-link"><code>TRANSPORT</code></a></td>
-  <td><div class="block">
-  Top level category for places commonly associated with pedestrian and
-  cargo transport facilities, including airports, rail yards and seaports.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT"
-  class="member-name-link"><code>TRANSPORT_AIRPORT</code></a></td>
-  <td><div class="block">
-  A designated area that serves various aspects of aviation related
-  sports, including gliders, recreational aircraft and model airplanes.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO"
-  class="member-name-link"><code>TRANSPORT_CARGO</code></a></td>
-  <td><div class="block">
-  A facility that handles some aspect of the transportation of cargo
-  freight.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC"
-  class="member-name-link"><code>TRANSPORT_PUBLIC</code></a></td>
-  <td><div class="block">
-  A facility for travelers who are travelling between stops on public
-  transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA"
-  class="member-name-link"><code>TRANSPORT_REST_AREA</code></a></td>
-  <td><div class="block">
-  An establishment along a motorway (controlled access road) that provides
-  restrooms and parking.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION"
+  class="member-name-link"><code>ACCOMMODATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top level category for places offering lodging accommodations,
+  dwellings or similar living quarters to travellers, such as hotels,
+  motels, resorts, cruise ships and campgrounds.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL"
+  class="member-name-link"><code>ACCOMMODATION_HOTEL_MOTEL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A business that provides lodging or temporary living quarters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING"
+  class="member-name-link"><code>ACCOMMODATION_LODGING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that provides lodging to the public generally without room
+  service.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for places that are owned, operated or managed by
+  municipalities, such as cities, towns, villages, boroughs and shires.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Outdoor areas or complexes with designations for specific businesses
+  or interests.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Areas and buildings designated for residential or office use.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_COMMERCIAL_SERVICES</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that provide a service or product for use by other
+  businesses.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_CONSUMER_SERVICES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An organization that provides consumer services for a variety of
+  products for used by the public.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top level category for places that provide professional services to
+  other businesses, such as printing, photocopying, graphic design,
+  marketing, advertising and other general business services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_ATM</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A computer terminal that allows bank customers to deposit, withdraw,
+  or transfer funds without the assistance of a bank teller.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_BANKING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that specialize in the maintenance, lending, exchange, or
+  issuance of money.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_DEALER_SALES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Businesses that sell new automobiles and motorcycles.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_RENTAL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that rent or lease automobiles.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Businesses that provide automotive repair services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that provide communication services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Businesses that provide recharging services for electric vehicles.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_FUELING_STATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that sell fuel for vehicles, such as petrol, electricity
+  etc.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_INDUSTRY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Businesses that employ people in and around the city in which it is
+  located.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_MONEY_CASH</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that provide money related services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Businesses that sell fuel, oil, and other motoring supplies.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Municipal emergency services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_POST_OFFICE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An office or station that receives, sorts, dispatches and delivers
+  mail to a specific area or region.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_TOURIST_INFORMATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Businesses that provide a variety of information for visiting
+  tourists, such as event schedules, lodging/accommodations,
+  restaurants, attractions and more.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Business that sell or service trucks and tractor trailers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK"
+  class="member-name-link"><code>EAT_AND_DRINK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top level category for places where food or beverages are prepared or
+  served.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA"
+  class="member-name-link"><code>EAT_AND_DRINK_COFFEE_TEA</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment that sells drinks, such as coffee and tea, as well as
+  refreshments.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT"
+  class="member-name-link"><code>EAT_AND_DRINK_RESTAURANT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  An establishment that prepares and serves refreshments and prepared
+  meals.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES"
+  class="member-name-link"><code>FACILITIES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for places associated with specialized facilities,
+  such as sports venues, government buildings, health care centers and
+  other types of facilities.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION"
+  class="member-name-link"><code>FACILITIES_EDUCATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Facilities that are used for educational purposes including training,
+  coaching, universities and more.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES"
+  class="member-name-link"><code>FACILITIES_EVENT_SPACES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An area or facility used for the hosting of fairs and conventions.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY"
+  class="member-name-link"><code>FACILITIES_GOVERNMENT_COMMUNITTY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A Place where government services are provided.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE"
+  class="member-name-link"><code>FACILITIES_HOSPITAL_HEALTHCARE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Facilities that include dental offices, hospitals, nursing homes and
+  other health care-related services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY"
+  class="member-name-link"><code>FACILITIES_LIBRARY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Facilities that offer books, periodicals, audio, video and other
+  material for public use.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER"
+  class="member-name-link"><code>FACILITIES_OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Facilities with miscellaneous uses such as Clubhouses, Offices, and
+  Registration Offices.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING"
+  class="member-name-link"><code>FACILITIES_PARKING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Area or building used for parking cars.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL"
+  class="member-name-link"><code>FACILITIES_SCHOOL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Educational facilities that include primary schools, secondary schools
+  and more.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS"
+  class="member-name-link"><code>FACILITIES_VENUE_SPORTS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A facility used for individual and team sports including recreational
+  sports.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA"
+  class="member-name-link"><code>GOING_OUT_CINEMA</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment that shows movies through screen projection.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT"
+  class="member-name-link"><code>GOING_OUT_ENTERTAINMENT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top level category for places commonly associated with entertainment,
+  such as bars, cinemas, theatres, casinos and night clubs.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING"
+  class="member-name-link"><code>GOING_OUT_GAMBLING_LOTTERY_BETTING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment that provides gambling entertainment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE"
+  class="member-name-link"><code>GOING_OUT_NIGHTLIFE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  An establishment that provides evening entertainment and usually
+  serves alcoholic beverages.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE"
+  class="member-name-link"><code>GOING_OUT_THEATRE_MUSIC_CULTURE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment where various types of performing arts are presented.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR"
+  class="member-name-link"><code>LEISURE_AND_OUTDOOR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top level category for places that are designated for sports,
+  recreation, parking, beaches and other leisure and outdoor activities.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER"
+  class="member-name-link"><code>LEISURE_OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A park that contains rides and/or other entertainment which may be
+  based on a central theme.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION"
+  class="member-name-link"><code>LEISURE_OUTDOOR_RECREATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Public land preserved and maintained for recreational use.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for natural or man-made areas of regional
+  importance, such as bodies of water, mountains, forested areas and
+  other geographic areas.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A natural and geographical feature of the earth's surface that is
+  covered with water, such as a lake, river, stream or ocean.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A dense growth of trees, open uncultivated land or other large masses
+  of vegetation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A natural and geographical feature that is higher than the surrounding
+  land.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A feature not classified as a Body of Water, Mountain or Hill,
+  Undersea Feature, or Forest, Heath or Other Vegetation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A natural or artificial feature that is below sea level.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING"
+  class="member-name-link"><code>SHOPPING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for places where consumer goods are commonly sold,
+  such as clothing stores, grocery stores, hardware stores and other
+  types of shopping centers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE"
+  class="member-name-link"><code>SHOPPING_BOOKSTORE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that sells books, magazines and other reading material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES"
+  class="member-name-link"><code>SHOPPING_CLOTHING_AND_ACCESORIES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A business that sells apparel items, garments or fashion accessories
+  for men, women, and children.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS"
+  class="member-name-link"><code>SHOPPING_CONSUMER_GOODS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that sells a variety of products targeted to consumers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE"
+  class="member-name-link"><code>SHOPPING_CONVENIENCE_STORE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment that sells groceries, candy, toiletries, soft drinks,
+  tobacco products, newspapers and other products.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE"
+  class="member-name-link"><code>SHOPPING_DEPARTMENT_STORE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that sells a wide variety of merchandise that is organized
+  by product or service departments.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY"
+  class="member-name-link"><code>SHOPPING_DRUGSTORE_PHARMACY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A business that sells medications, toiletry items and other retail
+  cosmetics.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS"
+  class="member-name-link"><code>SHOPPING_ELECTRONICS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that sells consumer electronics and electronic
+  entertainment equipment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK"
+  class="member-name-link"><code>SHOPPING_FOOD_AND_DRINK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A business that sells specialty products of a particular type of food
+  or beverage.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY"
+  class="member-name-link"><code>SHOPPING_HAIR_AND_BEAUTY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A business that provides hair styling and personal appearance
+  services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN"
+  class="member-name-link"><code>SHOPPING_HARDWARE_HOUSE_GARDEN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A business that sells crafts, gardening, remodeling, or decorating
+  items for the home.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX"
+  class="member-name-link"><code>SHOPPING_MALL_COMPLEX</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A complex of businesses that are co-located and share common services.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS"
+  class="member-name-link"><code>SIGHTS_AND_MUSEUMS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for places of special interest, such as common
+  tourist attractions, museums and places of worship.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION"
+  class="member-name-link"><code>SIGHTS_LANDMARK_ATTRACTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A designated area of special interest to tourists.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM"
+  class="member-name-link"><code>SIGHTS_MUSEUM</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment dedicated to the preservation and exhibition of
+  artistic, historical, or scientific artifacts.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE"
+  class="member-name-link"><code>SIGHTS_RELIGIOUS_PLACE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  An establishment special religious significance or where religious
+  services are held.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT"
+  class="member-name-link"><code>TRANSPORT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Top level category for places commonly associated with pedestrian and
+  cargo transport facilities, including airports, rail yards and
+  seaports.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT"
+  class="member-name-link"><code>TRANSPORT_AIRPORT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A designated area that serves various aspects of aviation related
+  sports, including gliders, recreational aircraft and model airplanes.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO"
+  class="member-name-link"><code>TRANSPORT_CARGO</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A facility that handles some aspect of the transportation of cargo
+  freight.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC"
+  class="member-name-link"><code>TRANSPORT_PUBLIC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A facility for travelers who are travelling between stops on public
+  transport.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA"
+  class="member-name-link"><code>TRANSPORT_REST_AREA</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An establishment along a motorway (controlled access road) that
+  provides restrooms and parking.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -990,80 +2081,114 @@ This class also defines a set of most commonly used categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>PlaceCategory(String id)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      PlaceCategory(String id)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance of this class.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getId()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getId()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the place category ID.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getName()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getName()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the localised place category name.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -1118,9 +2243,11 @@ This class also defines a set of most commonly used categories.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="EAT_AND_DRINK" class="section detail">
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK"
+    class="section detail">
 
     ### EAT_AND_DRINK
 
@@ -1146,7 +2273,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="EAT_AND_DRINK_RESTAURANT" class="section detail">
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK_RESTAURANT"
+    class="section detail">
 
     ### EAT_AND_DRINK_RESTAURANT
 
@@ -1172,7 +2300,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="EAT_AND_DRINK_COFFEE_TEA" class="section detail">
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK_COFFEE_TEA"
+    class="section detail">
 
     ### EAT_AND_DRINK_COFFEE_TEA
 
@@ -1198,7 +2327,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="GOING_OUT_ENTERTAINMENT" class="section detail">
+  - <div id="sdk-for-android-explore-GOING_OUT_ENTERTAINMENT"
+    class="section detail">
 
     ### GOING_OUT_ENTERTAINMENT
 
@@ -1225,7 +2355,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="GOING_OUT_NIGHTLIFE" class="section detail">
+  - <div id="sdk-for-android-explore-GOING_OUT_NIGHTLIFE"
+    class="section detail">
 
     ### GOING_OUT_NIGHTLIFE
 
@@ -1251,7 +2382,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="GOING_OUT_CINEMA" class="section detail">
+  - <div id="sdk-for-android-explore-GOING_OUT_CINEMA"
+    class="section detail">
 
     ### GOING_OUT_CINEMA
 
@@ -1276,7 +2408,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="GOING_OUT_THEATRE_MUSIC_CULTURE" class="section detail">
+  - <div id="sdk-for-android-explore-GOING_OUT_THEATRE_MUSIC_CULTURE"
+    class="section detail">
 
     ### GOING_OUT_THEATRE_MUSIC_CULTURE
 
@@ -1302,7 +2435,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="GOING_OUT_GAMBLING_LOTTERY_BETTING" class="section detail">
+  - <div id="sdk-for-android-explore-GOING_OUT_GAMBLING_LOTTERY_BETTING"
+    class="section detail">
 
     ### GOING_OUT_GAMBLING_LOTTERY_BETTING
 
@@ -1327,7 +2461,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SIGHTS_AND_MUSEUMS" class="section detail">
+  - <div id="sdk-for-android-explore-SIGHTS_AND_MUSEUMS"
+    class="section detail">
 
     ### SIGHTS_AND_MUSEUMS
 
@@ -1353,7 +2488,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SIGHTS_LANDMARK_ATTRACTION" class="section detail">
+  - <div id="sdk-for-android-explore-SIGHTS_LANDMARK_ATTRACTION"
+    class="section detail">
 
     ### SIGHTS_LANDMARK_ATTRACTION
 
@@ -1378,7 +2514,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SIGHTS_MUSEUM" class="section detail">
+  - <div id="sdk-for-android-explore-SIGHTS_MUSEUM"
+    class="section detail">
 
     ### SIGHTS_MUSEUM
 
@@ -1404,7 +2541,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SIGHTS_RELIGIOUS_PLACE" class="section detail">
+  - <div id="sdk-for-android-explore-SIGHTS_RELIGIOUS_PLACE"
+    class="section detail">
 
     ### SIGHTS_RELIGIOUS_PLACE
 
@@ -1430,7 +2568,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL" class="section detail">
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL"
+    class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL
 
@@ -1457,7 +2596,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER
@@ -1484,7 +2623,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL
@@ -1511,7 +2650,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE
@@ -1537,7 +2676,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION
@@ -1564,7 +2703,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="NATURAL_AND_GEOGRAPHICAL_OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_OTHER"
+    class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_OTHER
 
@@ -1590,7 +2730,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="TRANSPORT" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSPORT" class="section detail">
 
     ### TRANSPORT
 
@@ -1617,7 +2757,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="TRANSPORT_AIRPORT" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSPORT_AIRPORT"
+    class="section detail">
 
     ### TRANSPORT_AIRPORT
 
@@ -1644,7 +2785,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="TRANSPORT_PUBLIC" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSPORT_PUBLIC"
+    class="section detail">
 
     ### TRANSPORT_PUBLIC
 
@@ -1670,7 +2812,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="TRANSPORT_CARGO" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSPORT_CARGO"
+    class="section detail">
 
     ### TRANSPORT_CARGO
 
@@ -1696,7 +2839,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="TRANSPORT_REST_AREA" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSPORT_REST_AREA"
+    class="section detail">
 
     ### TRANSPORT_REST_AREA
 
@@ -1722,7 +2866,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="ACCOMMODATION" class="section detail">
+  - <div id="sdk-for-android-explore-ACCOMMODATION"
+    class="section detail">
 
     ### ACCOMMODATION
 
@@ -1749,7 +2894,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="ACCOMMODATION_HOTEL_MOTEL" class="section detail">
+  - <div id="sdk-for-android-explore-ACCOMMODATION_HOTEL_MOTEL"
+    class="section detail">
 
     ### ACCOMMODATION_HOTEL_MOTEL
 
@@ -1774,7 +2920,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="ACCOMMODATION_LODGING" class="section detail">
+  - <div id="sdk-for-android-explore-ACCOMMODATION_LODGING"
+    class="section detail">
 
     ### ACCOMMODATION_LODGING
 
@@ -1800,7 +2947,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="LEISURE_AND_OUTDOOR" class="section detail">
+  - <div id="sdk-for-android-explore-LEISURE_AND_OUTDOOR"
+    class="section detail">
 
     ### LEISURE_AND_OUTDOOR
 
@@ -1827,7 +2975,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="LEISURE_OUTDOOR_RECREATION" class="section detail">
+  - <div id="sdk-for-android-explore-LEISURE_OUTDOOR_RECREATION"
+    class="section detail">
 
     ### LEISURE_OUTDOOR_RECREATION
 
@@ -1852,7 +3001,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="LEISURE_OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-LEISURE_OTHER"
+    class="section detail">
 
     ### LEISURE_OTHER
 
@@ -1878,7 +3028,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING" class="section detail">
 
     ### SHOPPING
 
@@ -1905,7 +3055,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_CONVENIENCE_STORE" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_CONVENIENCE_STORE"
+    class="section detail">
 
     ### SHOPPING_CONVENIENCE_STORE
 
@@ -1931,7 +3082,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_MALL_COMPLEX" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_MALL_COMPLEX"
+    class="section detail">
 
     ### SHOPPING_MALL_COMPLEX
 
@@ -1957,7 +3109,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_DEPARTMENT_STORE" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_DEPARTMENT_STORE"
+    class="section detail">
 
     ### SHOPPING_DEPARTMENT_STORE
 
@@ -1983,7 +3136,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_FOOD_AND_DRINK" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_FOOD_AND_DRINK"
+    class="section detail">
 
     ### SHOPPING_FOOD_AND_DRINK
 
@@ -2009,7 +3163,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_DRUGSTORE_PHARMACY" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_DRUGSTORE_PHARMACY"
+    class="section detail">
 
     ### SHOPPING_DRUGSTORE_PHARMACY
 
@@ -2035,7 +3190,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_ELECTRONICS" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_ELECTRONICS"
+    class="section detail">
 
     ### SHOPPING_ELECTRONICS
 
@@ -2061,7 +3217,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_HARDWARE_HOUSE_GARDEN" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_HARDWARE_HOUSE_GARDEN"
+    class="section detail">
 
     ### SHOPPING_HARDWARE_HOUSE_GARDEN
 
@@ -2087,7 +3244,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_BOOKSTORE" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_BOOKSTORE"
+    class="section detail">
 
     ### SHOPPING_BOOKSTORE
 
@@ -2112,7 +3270,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_CLOTHING_AND_ACCESORIES" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_CLOTHING_AND_ACCESORIES"
+    class="section detail">
 
     ### SHOPPING_CLOTHING_AND_ACCESORIES
 
@@ -2138,7 +3297,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_CONSUMER_GOODS" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_CONSUMER_GOODS"
+    class="section detail">
 
     ### SHOPPING_CONSUMER_GOODS
 
@@ -2163,7 +3323,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="SHOPPING_HAIR_AND_BEAUTY" class="section detail">
+  - <div id="sdk-for-android-explore-SHOPPING_HAIR_AND_BEAUTY"
+    class="section detail">
 
     ### SHOPPING_HAIR_AND_BEAUTY
 
@@ -2190,7 +3351,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES
 
@@ -2217,7 +3379,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_BANKING" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_BANKING"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_BANKING
 
@@ -2243,7 +3406,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_ATM" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_ATM"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_ATM
 
@@ -2269,7 +3433,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_MONEY_CASH" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_MONEY_CASH"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_MONEY_CASH
 
@@ -2294,7 +3459,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA
@@ -2320,7 +3485,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_COMMERCIAL_SERVICES" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_COMMERCIAL_SERVICES"
+    class="section detail">
 
     ### BUSINESS_AND_COMMERCIAL_SERVICES
 
@@ -2346,7 +3512,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_INDUSTRY" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_INDUSTRY"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_INDUSTRY
 
@@ -2372,7 +3539,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY
@@ -2398,7 +3565,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_CONSUMER_SERVICES" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_CONSUMER_SERVICES"
+    class="section detail">
 
     ### BUSINESS_AND_CONSUMER_SERVICES
 
@@ -2424,7 +3592,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_POST_OFFICE" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POST_OFFICE"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_POST_OFFICE
 
@@ -2450,7 +3619,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TOURIST_INFORMATION
@@ -2478,7 +3647,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_FUELING_STATION"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_FUELING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_FUELING_STATION
@@ -2505,7 +3674,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION
@@ -2531,7 +3700,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_EV_CHARGING_STATION
@@ -2557,7 +3726,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_DEALER_SALES
@@ -2583,7 +3752,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES
@@ -2609,7 +3778,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_CAR_RENTAL" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_RENTAL"
+    class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_RENTAL
 
@@ -2634,7 +3804,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER
@@ -2660,7 +3830,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES" class="section detail">
 
     ### FACILITIES
 
@@ -2687,7 +3857,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_HOSPITAL_HEALTHCARE" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_HOSPITAL_HEALTHCARE"
+    class="section detail">
 
     ### FACILITIES_HOSPITAL_HEALTHCARE
 
@@ -2713,7 +3884,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_GOVERNMENT_COMMUNITTY" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_GOVERNMENT_COMMUNITTY"
+    class="section detail">
 
     ### FACILITIES_GOVERNMENT_COMMUNITTY
 
@@ -2738,7 +3910,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_EDUCATION" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_EDUCATION"
+    class="section detail">
 
     ### FACILITIES_EDUCATION
 
@@ -2764,7 +3937,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_SCHOOL" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_SCHOOL"
+    class="section detail">
 
     ### FACILITIES_SCHOOL
 
@@ -2790,7 +3964,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_LIBRARY" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_LIBRARY"
+    class="section detail">
 
     ### FACILITIES_LIBRARY
 
@@ -2816,7 +3991,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_EVENT_SPACES" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_EVENT_SPACES"
+    class="section detail">
 
     ### FACILITIES_EVENT_SPACES
 
@@ -2841,7 +4017,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_PARKING" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_PARKING"
+    class="section detail">
 
     ### FACILITIES_PARKING
 
@@ -2866,7 +4043,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_VENUE_SPORTS" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_VENUE_SPORTS"
+    class="section detail">
 
     ### FACILITIES_VENUE_SPORTS
 
@@ -2892,7 +4070,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="FACILITIES_OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-FACILITIES_OTHER"
+    class="section detail">
 
     ### FACILITIES_OTHER
 
@@ -2918,7 +4097,8 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="AREAS_AND_BUILDINGS" class="section detail">
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS"
+    class="section detail">
 
     ### AREAS_AND_BUILDINGS
 
@@ -2945,7 +4125,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX
@@ -2972,7 +4152,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE
@@ -3000,9 +4180,11 @@ This class also defines a set of most commonly used categories.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+    class="section detail">
 
     ### PlaceCategory
 
@@ -3048,9 +4230,10 @@ This class also defines a set of most commonly used categories.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getId()" class="section detail">
+  - <div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -3074,7 +4257,7 @@ This class also defines a set of most commonly used categories.
 
     </div>
 
-  - <div id="getName()" class="section detail">
+  - <div id="sdk-for-android-explore-getName()" class="section detail">
 
     ### getName
 

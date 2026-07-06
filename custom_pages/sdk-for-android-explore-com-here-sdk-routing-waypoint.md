@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.Waypoint
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Represents a waypoint, used as input for route calculation.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,186 +47,390 @@ Represents a waypoint, used as input for route calculation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop"
-  title="class in com.here.sdk.routing"><code>ChargingStop</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#chargingStop"
-  class="member-name-link"><code>chargingStop</code></a></td>
-  <td><div class="block">
-  Specifies of a user-planned charging stop.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#coordinates"
-  class="member-name-link"><code>coordinates</code></a></td>
-  <td><div class="block">
-  The waypoint's geographic coordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#currentWeightChangeInKilograms"
-  class="member-name-link"><code>currentWeightChangeInKilograms</code></a></td>
-  <td><div class="block">
-  Changes the value of vehicle[currentWeight] by this value.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#displayLocation"
-  class="member-name-link"><code>displayLocation</code></a></td>
-  <td><div class="block">
-  Optional coordinates to indicate physical location of the Points of
-  Interest (PoI).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#duration"
-  class="member-name-link"><code>duration</code></a></td>
-  <td><div class="block">
-  The duration in seconds that should be spent at a waypoint of type
-  WaypointType.STOPOVER .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#headingInDegrees"
-  class="member-name-link"><code>headingInDegrees</code></a></td>
-  <td><div class="block">
-  Optional heading angle referenced by true North, clockwise specifying
-  the direction of travel.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet"
-  title="enum class in com.here.sdk.routing"><code>MatchSideOfStreet</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#matchSideOfStreet"
-  class="member-name-link"><code>matchSideOfStreet</code></a></td>
-  <td><div class="block">
-  Specifies how the location set by sideOfStreetHint should be handled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#minCourseDistanceInMeters"
-  class="member-name-link"><code>minCourseDistanceInMeters</code></a></td>
-  <td><div class="block">
-  Optional distance in meters during which the user wants to avoid taking
-  actions.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#nameHint"
-  class="member-name-link"><code>nameHint</code></a></td>
-  <td><div class="block">
-  Optional name hint causes the router to look for the place with the most
-  similar name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#onRoadThresholdInMeters"
-  class="member-name-link"><code>onRoadThresholdInMeters</code></a></td>
-  <td><div class="block">
-  Optional threshold allows specifying a distance within which the
-  waypoint could be considered as being on a
-  highway/bridge/tunnel/sliproad.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference"
-  title="class in com.here.sdk.routing"><code>SegmentReference</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#segmentHint"
-  class="member-name-link"><code>segmentHint</code></a></td>
-  <td><div class="block">
-  Optional segment hint causes the router to try and match to the
-  specified segment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#sideOfStreetHint"
-  class="member-name-link"><code>sideOfStreetHint</code></a></td>
-  <td><div class="block">
-  Optional coordinates to indicate which side of the street should be used
-  to reach the waypoint.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#transitRadiusInMeters"
-  class="member-name-link"><code>transitRadiusInMeters</code></a></td>
-  <td><div class="block">
-  The maximum allowed distance from the waypoint that the calculated route
-  may pass through.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype"
-  title="enum class in com.here.sdk.routing"><code>WaypointType</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#type"
-  class="member-name-link"><code>type</code></a></td>
-  <td><div class="block">
-  Defines how a waypoint should be considered for route calculation.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`ChargingStop`](sdk-for-android-explore-com-here-sdk-routing-chargingstop "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#chargingStop"
+  class="member-name-link"><code>chargingStop</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies of a user-planned charging stop.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#coordinates"
+  class="member-name-link"><code>coordinates</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The waypoint's geographic coordinates.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#currentWeightChangeInKilograms"
+  class="member-name-link"><code>currentWeightChangeInKilograms</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Changes the value of vehicle\[currentWeight\] by this value.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#displayLocation"
+  class="member-name-link"><code>displayLocation</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional coordinates to indicate physical location of the Points of
+  Interest (PoI).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#duration"
+  class="member-name-link"><code>duration</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The duration in seconds that should be spent at a waypoint of type
+  WaypointType.STOPOVER .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#headingInDegrees"
+  class="member-name-link"><code>headingInDegrees</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional heading angle referenced by true North, clockwise specifying
+  the direction of travel.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`MatchSideOfStreet`](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#matchSideOfStreet"
+  class="member-name-link"><code>matchSideOfStreet</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies how the location set by sideOfStreetHint should be handled.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#minCourseDistanceInMeters"
+  class="member-name-link"><code>minCourseDistanceInMeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional distance in meters during which the user wants to avoid
+  taking actions.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#nameHint"
+  class="member-name-link"><code>nameHint</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional name hint causes the router to look for the place with the
+  most similar name.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#onRoadThresholdInMeters"
+  class="member-name-link"><code>onRoadThresholdInMeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional threshold allows specifying a distance within which the
+  waypoint could be considered as being on a
+  highway/bridge/tunnel/sliproad.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#segmentHint"
+  class="member-name-link"><code>segmentHint</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Optional segment hint causes the router to try and match to the
+  specified segment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#sideOfStreetHint"
+  class="member-name-link"><code>sideOfStreetHint</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional coordinates to indicate which side of the street should be
+  used to reach the waypoint.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#transitRadiusInMeters"
+  class="member-name-link"><code>transitRadiusInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The maximum allowed distance from the waypoint that the calculated
+  route may pass through.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`WaypointType`](sdk-for-android-explore-com-here-sdk-routing-waypointtype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#type"
+  class="member-name-link"><code>type</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Defines how a waypoint should be considered for route calculation.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -232,95 +438,145 @@ Represents a waypoint, used as input for route calculation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Waypoint(GeoCoordinates coordinates)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Waypoint(GeoCoordinates coordinates,
-   WaypointType type,
-   int transitRadiusInMeters,
-   Double headingInDegrees,
-   GeoCoordinates sideOfStreetHint,
-   Integer minCourseDistanceInMeters,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>Waypoint(GeoCoordinates coordinates,
-   WaypointType type,
-   int transitRadiusInMeters,
-   Double headingInDegrees,
-   GeoCoordinates sideOfStreetHint,
-   Integer minCourseDistanceInMeters,
-   String nameHint,
-   Duration duration)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      Waypoint(GeoCoordinates coordinates)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      Waypoint(GeoCoordinates coordinates,
+       WaypointType type,
+       int transitRadiusInMeters,
+       Double headingInDegrees,
+       GeoCoordinates sideOfStreetHint,
+       Integer minCourseDistanceInMeters,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      Waypoint(GeoCoordinates coordinates,
+       WaypointType type,
+       int transitRadiusInMeters,
+       Double headingInDegrees,
+       GeoCoordinates sideOfStreetHint,
+       Integer minCourseDistanceInMeters,
+       String nameHint,
+       Duration duration)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -369,9 +625,11 @@ Represents a waypoint, used as input for route calculation.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="coordinates" class="section detail">
+  - <div id="sdk-for-android-explore-coordinates"
+    class="section detail">
 
     ### coordinates
 
@@ -390,7 +648,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="type" class="section detail">
+  - <div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -410,7 +668,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="transitRadiusInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-transitRadiusInMeters"
+    class="section detail">
 
     ### transitRadiusInMeters
 
@@ -436,7 +695,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="headingInDegrees" class="section detail">
+  - <div id="sdk-for-android-explore-headingInDegrees"
+    class="section detail">
 
     ### headingInDegrees
 
@@ -464,7 +724,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="sideOfStreetHint" class="section detail">
+  - <div id="sdk-for-android-explore-sideOfStreetHint"
+    class="section detail">
 
     ### sideOfStreetHint
 
@@ -488,7 +749,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="displayLocation" class="section detail">
+  - <div id="sdk-for-android-explore-displayLocation"
+    class="section detail">
 
     ### displayLocation
 
@@ -512,7 +774,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="minCourseDistanceInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-minCourseDistanceInMeters"
+    class="section detail">
 
     ### minCourseDistanceInMeters
 
@@ -537,7 +800,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="nameHint" class="section detail">
+  - <div id="sdk-for-android-explore-nameHint" class="section detail">
 
     ### nameHint
 
@@ -561,7 +824,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="matchSideOfStreet" class="section detail">
+  - <div id="sdk-for-android-explore-matchSideOfStreet"
+    class="section detail">
 
     ### matchSideOfStreet
 
@@ -582,7 +846,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="duration" class="section detail">
+  - <div id="sdk-for-android-explore-duration" class="section detail">
 
     ### duration
 
@@ -604,7 +868,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="segmentHint" class="section detail">
+  - <div id="sdk-for-android-explore-segmentHint"
+    class="section detail">
 
     ### segmentHint
 
@@ -629,7 +894,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="onRoadThresholdInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-onRoadThresholdInMeters"
+    class="section detail">
 
     ### onRoadThresholdInMeters
 
@@ -656,7 +922,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="chargingStop" class="section detail">
+  - <div id="sdk-for-android-explore-chargingStop"
+    class="section detail">
 
     ### chargingStop
 
@@ -681,7 +948,8 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="currentWeightChangeInKilograms" class="section detail">
+  - <div id="sdk-for-android-explore-currentWeightChangeInKilograms"
+    class="section detail">
 
     ### currentWeightChangeInKilograms
 
@@ -717,9 +985,10 @@ Represents a waypoint, used as input for route calculation.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Waypoint
@@ -744,7 +1013,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)"
     class="section detail">
 
     ### Waypoint
@@ -838,7 +1107,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)"
     class="section detail">
 
     ### Waypoint
@@ -945,9 +1214,11 @@ Represents a waypoint, used as input for route calculation.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -971,7 +1242,7 @@ Represents a waypoint, used as input for route calculation.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

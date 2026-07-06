@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.HereMap
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,61 +42,98 @@ representation style is described through a configuration.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapIdleListener(MapIdleListener listener)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapIdleListener(MapIdleListener listener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a listener for receiving idle state notifications and notifies it
   of the current state.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-style"
-  title="class in com.here.sdk.mapview"><code>Style</code></a></td>
-  <td><pre><code>getStyle()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Style`](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getStyle()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the style that the map uses to customize the visual appearance of
   rendered features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapIdleListener(MapIdleListener listener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapIdleListener(MapIdleListener listener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a listener from receiving idle state notifications.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -150,9 +188,10 @@ representation style is described through a configuration.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="addMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+  - <div id="sdk-for-android-explore-addMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
     class="section detail">
 
     ### addMapIdleListener
@@ -182,7 +221,7 @@ representation style is described through a configuration.
 
     </div>
 
-  - <div id="removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+  - <div id="sdk-for-android-explore-removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
     class="section detail">
 
     ### removeMapIdleListener
@@ -207,7 +246,7 @@ representation style is described through a configuration.
 
     </div>
 
-  - <div id="getStyle()" class="section detail">
+  - <div id="sdk-for-android-explore-getStyle()" class="section detail">
 
     ### getStyle
 

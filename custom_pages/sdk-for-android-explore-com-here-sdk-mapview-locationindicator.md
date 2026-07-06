@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.LocationIndicator
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -53,7 +54,8 @@ the new perspective.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -61,47 +63,83 @@ the new perspective.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.IndicatorStyle</code></a></td>
-  <td><div class="block">
-  The predefined styles for the location indicator which are pedestrian
-  and navigation mode.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.MarkerType</code></a></td>
-  <td><div class="block">
-  Enum to identify different types of markers of the location indicator.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.IndicatorStyle</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The predefined styles for the location indicator which are pedestrian
+  and navigation mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.MarkerType</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Enum to identify different types of markers of the location indicator.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -109,215 +147,493 @@ the new perspective.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>LocationIndicator()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LocationIndicator()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of LocationIndicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>LocationIndicator(MapViewBase mapView)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      LocationIndicator(MapViewBase mapView)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates an instance of LocationIndicator and adds it to provided
   MapViewBase .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
-  Deprecated Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>disable()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      disable()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   This function removes LocationIndicator from map view.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>enable(MapViewBase mapView)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      enable(MapViewBase mapView)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Enables LocationIndicator for provided MapViewBase .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
-  title="class in com.here.sdk.core"><code>Color</code></a></td>
-  <td><pre><code>getHaloColor(LocationIndicator.IndicatorStyle style)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getHaloColor(LocationIndicator.IndicatorStyle style)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Retrieves the color of the accuracy indicator halo for the requested
   IndicatorStyle.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle"
-  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.IndicatorStyle</code></a></td>
-  <td><pre><code>getLocationIndicatorStyle()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocationIndicator.IndicatorStyle`](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLocationIndicatorStyle()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns visual style of location indicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity"
-  title="class in com.here.sdk.mapview"><code>MaterialReflectivity</code></a></td>
-  <td><pre><code>getMaterialReflectivity()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MaterialReflectivity`](sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMaterialReflectivity()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Retrieves the material reflectivity applied to all markers of location
   indicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getOpacity()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOpacity()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current opacity of the location indicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isAccuracyVisualized()</code></pre></td>
-  <td><div class="block">
-  Returns whether Location.horizontalAccuracyInMeters is used to scale the
-  accuracy indicator halo.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isActive()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isAccuracyVisualized()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns whether Location.horizontalAccuracyInMeters is used to scale
+  the accuracy indicator halo.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isActive()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns true if active version of the location indicator is shown or
   false when inactive version is shown.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAccuracyVisualized(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAccuracyVisualized(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets whether Location.horizontalAccuracyInMeters is used to scale the
   accuracy indicator halo.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setActive(boolean value)</code></pre></td>
-  <td><div class="block">
-  Sets whether the active or inactive version of location indicator is to
-  be shown.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setHaloColor(LocationIndicator.IndicatorStyle style,
-   Color color)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setActive(boolean value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets whether the active or inactive version of location indicator is
+  to be shown.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setHaloColor(LocationIndicator.IndicatorStyle style,
+       Color color)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the color of the accuracy indicator halo for a given style.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setLocationIndicatorStyle(LocationIndicator.IndicatorStyle value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setLocationIndicatorStyle(LocationIndicator.IndicatorStyle value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the visual style of location indicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMarker3dModel(MapMarker3DModel model,
-   double scale,
-   LocationIndicator.MarkerType type)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+      setMarker3dModel(MapMarker3DModel model,
+       double scale,
+       LocationIndicator.MarkerType type)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
   Deprecated. Will be removed in v4.27.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMarker3dModel(MapMarker3DModel model,
-   double scale,
-   LocationIndicator.MarkerType type,
-   RenderSize.Unit renderSizeUnit)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMarker3dModel(MapMarker3DModel model,
+       double scale,
+       LocationIndicator.MarkerType type,
+       RenderSize.Unit renderSizeUnit)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the MapMarker3DModel asset to be displayed as location indicator
   for a specified type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMaterialReflectivity(MaterialReflectivity value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMaterialReflectivity(MaterialReflectivity value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the material reflectivity properties for all markers of location
   indicator including its halo.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOpacity(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOpacity(double value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the opacity of the location indicator.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>updateLocation(Location location)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      updateLocation(Location location)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Updates the indicator to a new location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>updateLocation(Location location,
-   MapCameraUpdate cameraUpdate)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      updateLocation(Location location,
+       MapCameraUpdate cameraUpdate)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Updates the indicator to a new location and applies a camera update at
   the same time.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -372,9 +688,10 @@ the new perspective.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### LocationIndicator
 
@@ -392,7 +709,7 @@ the new perspective.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.mapview.MapViewBase)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapViewBase)"
     class="section detail">
 
     ### LocationIndicator
@@ -422,9 +739,10 @@ the new perspective.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="enable(com.here.sdk.mapview.MapViewBase)"
+  - <div id="sdk-for-android-explore-enable(com.here.sdk.mapview.MapViewBase)"
     class="section detail">
 
     ### enable
@@ -455,7 +773,7 @@ the new perspective.
 
     </div>
 
-  - <div id="disable()" class="section detail">
+  - <div id="sdk-for-android-explore-disable()" class="section detail">
 
     ### disable
 
@@ -475,7 +793,7 @@ the new perspective.
 
     </div>
 
-  - <div id="updateLocation(com.here.sdk.core.Location)"
+  - <div id="sdk-for-android-explore-updateLocation(com.here.sdk.core.Location)"
     class="section detail">
 
     ### updateLocation
@@ -503,7 +821,7 @@ the new perspective.
 
     </div>
 
-  - <div id="updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"
+  - <div id="sdk-for-android-explore-updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"
     class="section detail">
 
     ### updateLocation
@@ -538,7 +856,7 @@ the new perspective.
 
     </div>
 
-  - <div id="setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)"
+  - <div id="sdk-for-android-explore-setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)"
     class="section detail">
 
     ### setMarker3dModel
@@ -607,7 +925,7 @@ the new perspective.
 
     </div>
 
-  - <div id="setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)"
+  - <div id="sdk-for-android-explore-setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)"
     class="section detail">
 
     ### setMarker3dModel
@@ -678,7 +996,7 @@ the new perspective.
 
     </div>
 
-  - <div id="setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)"
+  - <div id="sdk-for-android-explore-setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)"
     class="section detail">
 
     ### setHaloColor
@@ -712,7 +1030,7 @@ the new perspective.
 
     </div>
 
-  - <div id="getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
+  - <div id="sdk-for-android-explore-getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
     class="section detail">
 
     ### getHaloColor
@@ -746,7 +1064,8 @@ the new perspective.
 
     </div>
 
-  - <div id="isAccuracyVisualized()" class="section detail">
+  - <div id="sdk-for-android-explore-isAccuracyVisualized()"
+    class="section detail">
 
     ### isAccuracyVisualized
 
@@ -770,7 +1089,8 @@ the new perspective.
 
     </div>
 
-  - <div id="setAccuracyVisualized(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setAccuracyVisualized(boolean)"
+    class="section detail">
 
     ### setAccuracyVisualized
 
@@ -814,7 +1134,8 @@ the new perspective.
 
     </div>
 
-  - <div id="getLocationIndicatorStyle()" class="section detail">
+  - <div id="sdk-for-android-explore-getLocationIndicatorStyle()"
+    class="section detail">
 
     ### getLocationIndicatorStyle
 
@@ -837,7 +1158,7 @@ the new perspective.
 
     </div>
 
-  - <div id="setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
+  - <div id="sdk-for-android-explore-setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
     class="section detail">
 
     ### setLocationIndicatorStyle
@@ -863,7 +1184,7 @@ the new perspective.
 
     </div>
 
-  - <div id="isActive()" class="section detail">
+  - <div id="sdk-for-android-explore-isActive()" class="section detail">
 
     ### isActive
 
@@ -886,7 +1207,8 @@ the new perspective.
 
     </div>
 
-  - <div id="setActive(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setActive(boolean)"
+    class="section detail">
 
     ### setActive
 
@@ -912,7 +1234,8 @@ the new perspective.
 
     </div>
 
-  - <div id="getOpacity()" class="section detail">
+  - <div id="sdk-for-android-explore-getOpacity()"
+    class="section detail">
 
     ### getOpacity
 
@@ -936,7 +1259,8 @@ the new perspective.
 
     </div>
 
-  - <div id="setOpacity(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setOpacity(double)"
+    class="section detail">
 
     ### setOpacity
 
@@ -963,7 +1287,8 @@ the new perspective.
 
     </div>
 
-  - <div id="getMaterialReflectivity()" class="section detail">
+  - <div id="sdk-for-android-explore-getMaterialReflectivity()"
+    class="section detail">
 
     ### getMaterialReflectivity
 
@@ -994,7 +1319,7 @@ the new perspective.
 
     </div>
 
-  - <div id="setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)"
+  - <div id="sdk-for-android-explore-setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)"
     class="section detail">
 
     ### setMaterialReflectivity

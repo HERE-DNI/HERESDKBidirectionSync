@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.RefreshRouteParameters
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ from a specific location on it.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,71 +48,135 @@ from a specific location on it.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle"
-  title="class in com.here.sdk.routing"><code>RouteHandle</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#routeHandle"
-  class="member-name-link"><code>routeHandle</code></a></td>
-  <td><div class="block">
-  The route handle holding the route to be refreshed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-waypoint"
-  title="class in com.here.sdk.routing"><code>Waypoint</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#startingPoint"
-  class="member-name-link"><code>startingPoint</code></a></td>
-  <td><div class="block">
-  Identify the new starting point of the route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#startingSectionIndex"
-  class="member-name-link"><code>startingSectionIndex</code></a></td>
-  <td><div class="block">
-  Indicates the index of the last traveled route section.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#traveledDistanceOnStartingSectionInMeters"
-  class="member-name-link"><code>traveledDistanceOnStartingSectionInMeters</code></a></td>
-  <td><div class="block">
-  Provides an indication on how much of the starting section is already
-  traveled.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#routeHandle"
+  class="member-name-link"><code>routeHandle</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The route handle holding the route to be refreshed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Waypoint`](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#startingPoint"
+  class="member-name-link"><code>startingPoint</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Identify the new starting point of the route.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#startingSectionIndex"
+  class="member-name-link"><code>startingSectionIndex</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Indicates the index of the last traveled route section.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#traveledDistanceOnStartingSectionInMeters"
+  class="member-name-link"><code>traveledDistanceOnStartingSectionInMeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Provides an indication on how much of the starting section is already
+  traveled.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -118,91 +184,141 @@ from a specific location on it.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RefreshRouteParameters(RouteHandle routeHandle,
-   int startingSectionIndex,
-   int traveledDistanceOnStartingSectionInMeters)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteParameters(RouteHandle routeHandle,
+       int startingSectionIndex,
+       int traveledDistanceOnStartingSectionInMeters)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Create a new instance of RefreshRouteParameters with the point on the
   section of the route as a new starting point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteParameters(RouteHandle routeHandle,
-   Waypoint startingPoint)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RefreshRouteParameters(RouteHandle routeHandle,
+       Waypoint startingPoint)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Create a new instance of RefreshRouteParameters with the new starting
   point on the route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RefreshRouteParameters(RouteHandle routeHandle,
-   Waypoint startingPoint,
-   int startingSectionIndex,
-   int traveledDistanceOnStartingSectionInMeters)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RefreshRouteParameters(RouteHandle routeHandle,
+       Waypoint startingPoint,
+       int startingSectionIndex,
+       int traveledDistanceOnStartingSectionInMeters)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Create a new instance of RefreshRouteParameters with the new starting
   point and the section position on the route.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -251,9 +367,11 @@ from a specific location on it.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="routeHandle" class="section detail">
+  - <div id="sdk-for-android-explore-routeHandle"
+    class="section detail">
 
     ### routeHandle
 
@@ -272,7 +390,8 @@ from a specific location on it.
 
     </div>
 
-  - <div id="startingPoint" class="section detail">
+  - <div id="sdk-for-android-explore-startingPoint"
+    class="section detail">
 
     ### startingPoint
 
@@ -306,7 +425,8 @@ from a specific location on it.
 
     </div>
 
-  - <div id="startingSectionIndex" class="section detail">
+  - <div id="sdk-for-android-explore-startingSectionIndex"
+    class="section detail">
 
     ### startingSectionIndex
 
@@ -332,7 +452,7 @@ from a specific location on it.
 
     </div>
 
-  - <div id="traveledDistanceOnStartingSectionInMeters"
+  - <div id="sdk-for-android-explore-traveledDistanceOnStartingSectionInMeters"
     class="section detail">
 
     ### traveledDistanceOnStartingSectionInMeters
@@ -360,9 +480,10 @@ from a specific location on it.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -394,7 +515,7 @@ from a specific location on it.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.RouteHandle,int,int)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -431,7 +552,7 @@ from a specific location on it.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -476,9 +597,11 @@ from a specific location on it.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -502,7 +625,7 @@ from a specific location on it.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

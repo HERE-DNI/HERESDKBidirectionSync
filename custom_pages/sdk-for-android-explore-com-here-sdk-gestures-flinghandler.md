@@ -16,7 +16,8 @@ java.lang.Object → com.here.NativeBasecom.here.sdk.gestures.FlingHandler
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,45 +40,53 @@ float) . Subsequently, velocity decays exponentially.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>onFling(float velocityX,
-   float velocityY)</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      onFling(float velocityX,
+       float velocityY)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   To be called to trigger fling gesture handling.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -132,9 +141,11 @@ float) . Subsequently, velocity decays exponentially.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="onFling(float,float)" class="section detail">
+  - <div id="sdk-for-android-explore-onFling(float,float)"
+    class="section detail">
 
     ### onFling
 
@@ -154,13 +165,13 @@ float) . Subsequently, velocity decays exponentially.
     Parameters:  
     `velocityX` -
 
-    Velocity of fling in pixels per second along the x axis. Values > 0
-    are interpreted as fling left and values < 0 as fling right.
+    Velocity of fling in pixels per second along the x axis. Values \> 0
+    are interpreted as fling left and values \< 0 as fling right.
 
     `velocityY` -
 
-    Velocity of fling in pixels per second along the y axis. Values > 0
-    are interpreted as fling up and values < 0 as fling down.
+    Velocity of fling in pixels per second along the y axis. Values \> 0
+    are interpreted as fling up and values \< 0 as fling down.
 
     </div>
 

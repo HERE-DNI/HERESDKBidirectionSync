@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.ChargingStop
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,7 +43,8 @@ them, the route calculation will fail as an invalid parameter error.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -50,86 +52,178 @@ them, the route calculation will fail as an invalid parameter error.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#currentInAmperes"
-  class="member-name-link"><code>currentInAmperes</code></a></td>
-  <td><div class="block">
-  The value of rated current of the connector (in A).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#maxDuration"
-  class="member-name-link"><code>maxDuration</code></a></td>
-  <td><div class="block">
-  The maximum duration the user plans to charge at the station, including
-  BatterySpecifications.chargingSetupDuration .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#minDuration"
-  class="member-name-link"><code>minDuration</code></a></td>
-  <td><div class="block">
-  The minimum duration the user expects to charge at the station,
-  including BatterySpecifications.chargingSetupDuration .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#powerInKilowatts"
-  class="member-name-link"><code>powerInKilowatts</code></a></td>
-  <td><div class="block">
-  The value of rated power of the connector (in kW).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype"
-  title="enum class in com.here.sdk.routing"><code>ChargingSupplyType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#supplyType"
-  class="member-name-link"><code>supplyType</code></a></td>
-  <td><div class="block">
-  Supply type of the suggested connector.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#voltageInVolts"
-  class="member-name-link"><code>voltageInVolts</code></a></td>
-  <td><div class="block">
-  The value of rated voltage of the connector (in V).
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#currentInAmperes"
+  class="member-name-link"><code>currentInAmperes</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The value of rated current of the connector (in A).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#maxDuration"
+  class="member-name-link"><code>maxDuration</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The maximum duration the user plans to charge at the station,
+  including BatterySpecifications.chargingSetupDuration .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#minDuration"
+  class="member-name-link"><code>minDuration</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The minimum duration the user expects to charge at the station,
+  including BatterySpecifications.chargingSetupDuration .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#powerInKilowatts"
+  class="member-name-link"><code>powerInKilowatts</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The value of rated power of the connector (in kW).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`ChargingSupplyType`](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#supplyType"
+  class="member-name-link"><code>supplyType</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Supply type of the suggested connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#voltageInVolts"
+  class="member-name-link"><code>voltageInVolts</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The value of rated voltage of the connector (in V).
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -137,81 +231,121 @@ them, the route calculation will fail as an invalid parameter error.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>ChargingStop()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>ChargingStop(double powerInKilowatts,
-   double currentInAmperes,
-   double voltageInVolts,
-   ChargingSupplyType supplyType,
-   Duration minDuration,
-   Duration maxDuration)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      ChargingStop()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      ChargingStop(double powerInKilowatts,
+       double currentInAmperes,
+       double voltageInVolts,
+       ChargingSupplyType supplyType,
+       Duration minDuration,
+       Duration maxDuration)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -260,9 +394,11 @@ them, the route calculation will fail as an invalid parameter error.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="powerInKilowatts" class="section detail">
+  - <div id="sdk-for-android-explore-powerInKilowatts"
+    class="section detail">
 
     ### powerInKilowatts
 
@@ -280,7 +416,8 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="currentInAmperes" class="section detail">
+  - <div id="sdk-for-android-explore-currentInAmperes"
+    class="section detail">
 
     ### currentInAmperes
 
@@ -298,7 +435,8 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="voltageInVolts" class="section detail">
+  - <div id="sdk-for-android-explore-voltageInVolts"
+    class="section detail">
 
     ### voltageInVolts
 
@@ -316,7 +454,7 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="supplyType" class="section detail">
+  - <div id="sdk-for-android-explore-supplyType" class="section detail">
 
     ### supplyType
 
@@ -335,7 +473,8 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="minDuration" class="section detail">
+  - <div id="sdk-for-android-explore-minDuration"
+    class="section detail">
 
     ### minDuration
 
@@ -358,7 +497,8 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="maxDuration" class="section detail">
+  - <div id="sdk-for-android-explore-maxDuration"
+    class="section detail">
 
     ### maxDuration
 
@@ -383,9 +523,10 @@ them, the route calculation will fail as an invalid parameter error.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### ChargingStop
 
@@ -403,7 +544,7 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="<init>(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-<init>(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)"
     class="section detail">
 
     ### ChargingStop
@@ -465,9 +606,11 @@ them, the route calculation will fail as an invalid parameter error.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -491,7 +634,7 @@ them, the route calculation will fail as an invalid parameter error.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

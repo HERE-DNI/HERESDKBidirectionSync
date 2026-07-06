@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-powertype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<PowerType>com.here.sdk.core.PowerType → java.lang.Enum
+java.lang.Enum\<PowerType\>com.here.sdk.core.PowerType → java.lang.Enum
 → PowerType → com.here.sdk.core.PowerType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">PowerType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")\></span>
 
 </div>
 
@@ -54,7 +55,8 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -76,7 +78,8 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -84,113 +87,180 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-powertype#AC1PHASE"
-  class="member-name-link"><code>AC1PHASE</code></a></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype#AC1PHASE"
+  class="member-name-link"><code>AC1PHASE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Alternating current, single phase.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-powertype#AC2PHASE"
-  class="member-name-link"><code>AC2PHASE</code></a></td>
-  <td><div class="block">
-  Alternating current, two phases, only two of the three available phases
-  connected.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype#AC2PHASE"
+  class="member-name-link"><code>AC2PHASE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Alternating current, two phases, only two of the three available
+  phases connected.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-powertype#AC2PHASESPLIT"
-  class="member-name-link"><code>AC2PHASESPLIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AC2PHASESPLIT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Alternating current, two phases using split phase system.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-powertype#AC3PHASE"
-  class="member-name-link"><code>AC3PHASE</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype#AC3PHASE"
+  class="member-name-link"><code>AC3PHASE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Alternating current, three phases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-powertype#DC"
-  class="member-name-link"><code>DC</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype#DC"
+  class="member-name-link"><code>DC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Direct current.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-powertype"
-  title="enum class in com.here.sdk.core"><code>PowerType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`PowerType`](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-powertype"
-  title="enum class in com.here.sdk.core"><code>PowerType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`PowerType`](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -273,9 +343,10 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="AC1PHASE" class="section detail">
+  - <div id="sdk-for-android-explore-AC1PHASE" class="section detail">
 
     ### AC1PHASE
 
@@ -294,7 +365,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="AC2PHASE" class="section detail">
+  - <div id="sdk-for-android-explore-AC2PHASE" class="section detail">
 
     ### AC2PHASE
 
@@ -314,7 +385,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="AC2PHASESPLIT" class="section detail">
+  - <div id="sdk-for-android-explore-AC2PHASESPLIT"
+    class="section detail">
 
     ### AC2PHASESPLIT
 
@@ -333,7 +405,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="AC3PHASE" class="section detail">
+  - <div id="sdk-for-android-explore-AC3PHASE" class="section detail">
 
     ### AC3PHASE
 
@@ -352,7 +424,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="DC" class="section detail">
+  - <div id="sdk-for-android-explore-DC" class="section detail">
 
     ### DC
 
@@ -373,9 +445,10 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -399,7 +472,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

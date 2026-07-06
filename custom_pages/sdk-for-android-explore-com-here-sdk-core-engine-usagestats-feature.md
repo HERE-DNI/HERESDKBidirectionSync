@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<UsageStats.Feature>com.here.sdk.core.engine.UsageStats.Feature
+java.lang.Enum\<UsageStats.Feature\>com.here.sdk.core.engine.UsageStats.Feature
 → java.lang.Enum → UsageStats.Feature →
 com.here.sdk.core.engine.UsageStats.Feature
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -44,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">UsageStats.Feature</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -58,7 +59,8 @@ Represents the feature enum associated with the gathered usage stats.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -80,7 +82,8 @@ Represents the feature enum associated with the gathered usage stats.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -88,260 +91,481 @@ Represents the feature enum associated with the gathered usage stats.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#DETAILED_RENDERING"
-  class="member-name-link"><code>DETAILED_RENDERING</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the LayerConfiguration.Feature.DETAIL_RENDERING layer configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>DETAILED_RENDERING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the LayerConfiguration.Feature.DETAIL_RENDERING layer
+  configuration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_RENDERING"
-  class="member-name-link"><code>EV_RENDERING</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the "ev_charging_station_rendering_premium" layer group, enabled with
-  LayerConfiguration.Feature.EV .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>EV_RENDERING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the "ev_charging_station_rendering_premium" layer group, enabled
+  with LayerConfiguration.Feature.EV .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_SEARCH"
-  class="member-name-link"><code>EV_SEARCH</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the "ev_charging_station_search_premium" layer group, enabled with
+  class="member-name-link"><code>EV_SEARCH</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the "ev_charging_station_search_premium" layer group, enabled with
   LayerConfiguration.Feature.EV .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#NAVIGATION"
-  class="member-name-link"><code>NAVIGATION</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the "adas", "ehorizon", "interop", "isa" OCM layers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>NAVIGATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the "adas", "ehorizon", "interop", "isa" OCM layers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#OTHER"
-  class="member-name-link"><code>OTHER</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for feature that doesn't fit into
-  other categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>OTHER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for feature that doesn't fit
+  into other categories.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#PLACES"
-  class="member-name-link"><code>PLACES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PLACES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Represents network traffic statistics for places search.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#POSITIONING"
-  class="member-name-link"><code>POSITIONING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POSITIONING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Represents network traffic statistics for Here Positioning.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RDS_TRAFFIC"
-  class="member-name-link"><code>RDS_TRAFFIC</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the LayerConfiguration.Feature.RDS_TRAFFIC layer configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>RDS_TRAFFIC</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the LayerConfiguration.Feature.RDS_TRAFFIC layer configuration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RENDERING"
-  class="member-name-link"><code>RENDERING</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the LayerConfiguration.Feature.RENDERING layer configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>RENDERING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the LayerConfiguration.Feature.RENDERING layer configuration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTER"
-  class="member-name-link"><code>ROUTER</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the RoutingEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ROUTER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the RoutingEngine .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTING"
-  class="member-name-link"><code>ROUTING</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the following layer configurations:
+  class="member-name-link"><code>ROUTING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the following layer configurations:
   LayerConfiguration.Feature.OFFLINE_ROUTING
-  LayerConfiguration.Feature.OFFLINE_BUS_ROUTING Counted when data for the
-  corresponding layer is requested by the application by performing one of
-  the following actions: Pan the map view to areas that have not been
-  cached, prefetched or installed before. Use MapDownloader to download
-  and install a Region . Prefetch map data into the map cache with the
-  RoutePrefetcher for areas that have not been cached, prefetched or
-  installed before.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  LayerConfiguration.Feature.OFFLINE_BUS_ROUTING Counted when data for
+  the corresponding layer is requested by the application by performing
+  one of the following actions: Pan the map view to areas that have not
+  been cached, prefetched or installed before. Use MapDownloader to
+  download and install a Region . Prefetch map data into the map cache
+  with the RoutePrefetcher for areas that have not been cached,
+  prefetched or installed before.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SATELLITES"
-  class="member-name-link"><code>SATELLITES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SATELLITES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Represents network traffic statistics to show satellite map scheme.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH"
-  class="member-name-link"><code>SEARCH</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the "search", "ev_charging_station_search_premium",
+  class="member-name-link"><code>SEARCH</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the "search", "ev_charging_station_search_premium",
   "fueling_station_premium" OCM layers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE"
-  class="member-name-link"><code>SEARCH_ONLINE</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the SearchEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>SEARCH_ONLINE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the SearchEngine .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC"
-  class="member-name-link"><code>TRAFFIC</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the calls of TrafficEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>TRAFFIC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the calls of TrafficEngine .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC_VECTOR_TILES"
-  class="member-name-link"><code>TRAFFIC_VECTOR_TILES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRAFFIC_VECTOR_TILES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Represents network traffic statistics for traffic vector tiles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT"
-  class="member-name-link"><code>TRANSIT</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the "transit" OCM layer.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>TRANSIT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the "transit" OCM layer.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT_ROUTING_ENGINE"
-  class="member-name-link"><code>TRANSIT_ROUTING_ENGINE</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the TransitRoutingEngine .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>TRANSIT_ROUTING_ENGINE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the TransitRoutingEngine .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the LayerConfiguration.Feature.TRUCK layer configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>TRUCK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Represents network traffic statistics for online usage corresponding
+  to the LayerConfiguration.Feature.TRUCK layer configuration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#VECTOR_TILES"
-  class="member-name-link"><code>VECTOR_TILES</code></a></td>
-  <td><div class="block">
-  Represents network traffic statistics for online usage corresponding to
-  the vector tiles.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>VECTOR_TILES</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last odd-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  Represents network traffic statistics for online usage corresponding
+  to the vector tiles.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
-  title="enum class in com.here.sdk.core.engine"><code>UsageStats.Feature</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
-  title="enum class in com.here.sdk.core.engine"><code>UsageStats.Feature</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -424,9 +648,11 @@ Represents the feature enum associated with the gathered usage stats.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="DETAILED_RENDERING" class="section detail">
+  - <div id="sdk-for-android-explore-DETAILED_RENDERING"
+    class="section detail">
 
     ### DETAILED_RENDERING
 
@@ -455,7 +681,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="EV_RENDERING" class="section detail">
+  - <div id="sdk-for-android-explore-EV_RENDERING"
+    class="section detail">
 
     ### EV_RENDERING
 
@@ -486,7 +713,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="EV_SEARCH" class="section detail">
+  - <div id="sdk-for-android-explore-EV_SEARCH" class="section detail">
 
     ### EV_SEARCH
 
@@ -517,7 +744,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="NAVIGATION" class="section detail">
+  - <div id="sdk-for-android-explore-NAVIGATION" class="section detail">
 
     ### NAVIGATION
 
@@ -555,7 +782,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="PLACES" class="section detail">
+  - <div id="sdk-for-android-explore-PLACES" class="section detail">
 
     ### PLACES
 
@@ -575,7 +802,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="RDS_TRAFFIC" class="section detail">
+  - <div id="sdk-for-android-explore-RDS_TRAFFIC"
+    class="section detail">
 
     ### RDS_TRAFFIC
 
@@ -604,7 +832,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="RENDERING" class="section detail">
+  - <div id="sdk-for-android-explore-RENDERING" class="section detail">
 
     ### RENDERING
 
@@ -633,7 +861,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="ROUTER" class="section detail">
+  - <div id="sdk-for-android-explore-ROUTER" class="section detail">
 
     ### ROUTER
 
@@ -676,7 +904,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="ROUTING" class="section detail">
+  - <div id="sdk-for-android-explore-ROUTING" class="section detail">
 
     ### ROUTING
 
@@ -707,7 +935,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="SATELLITES" class="section detail">
+  - <div id="sdk-for-android-explore-SATELLITES" class="section detail">
 
     ### SATELLITES
 
@@ -728,7 +956,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="SEARCH" class="section detail">
+  - <div id="sdk-for-android-explore-SEARCH" class="section detail">
 
     ### SEARCH
 
@@ -756,7 +984,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="SEARCH_ONLINE" class="section detail">
+  - <div id="sdk-for-android-explore-SEARCH_ONLINE"
+    class="section detail">
 
     ### SEARCH_ONLINE
 
@@ -783,7 +1012,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="TRANSIT" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSIT" class="section detail">
 
     ### TRANSIT
 
@@ -810,7 +1039,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="TRANSIT_ROUTING_ENGINE" class="section detail">
+  - <div id="sdk-for-android-explore-TRANSIT_ROUTING_ENGINE"
+    class="section detail">
 
     ### TRANSIT_ROUTING_ENGINE
 
@@ -831,7 +1061,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="TRAFFIC" class="section detail">
+  - <div id="sdk-for-android-explore-TRAFFIC" class="section detail">
 
     ### TRAFFIC
 
@@ -853,7 +1083,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="TRAFFIC_VECTOR_TILES" class="section detail">
+  - <div id="sdk-for-android-explore-TRAFFIC_VECTOR_TILES"
+    class="section detail">
 
     ### TRAFFIC_VECTOR_TILES
 
@@ -874,7 +1105,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="TRUCK" class="section detail">
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -903,7 +1134,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="VECTOR_TILES" class="section detail">
+  - <div id="sdk-for-android-explore-VECTOR_TILES"
+    class="section detail">
 
     ### VECTOR_TILES
 
@@ -926,7 +1158,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -947,7 +1179,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="POSITIONING" class="section detail">
+  - <div id="sdk-for-android-explore-POSITIONING"
+    class="section detail">
 
     ### POSITIONING
 
@@ -970,9 +1203,10 @@ Represents the feature enum associated with the gathered usage stats.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -996,7 +1230,8 @@ Represents the feature enum associated with the gathered usage stats.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

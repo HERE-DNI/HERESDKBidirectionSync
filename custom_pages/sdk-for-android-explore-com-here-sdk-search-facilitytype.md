@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-facilitytype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<FacilityType>com.here.sdk.search.FacilityType →
+java.lang.Enum\<FacilityType\>com.here.sdk.search.FacilityType →
 java.lang.Enum → FacilityType → com.here.sdk.search.FacilityType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">FacilityType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,281 +88,555 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#AIRPORT"
-  class="member-name-link"><code>AIRPORT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AIRPORT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   An airport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BIKE_SHARING"
-  class="member-name-link"><code>BIKE_SHARING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BIKE_SHARING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A bike/e-bike/e-scooter sharing location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUS_STOP"
-  class="member-name-link"><code>BUS_STOP</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BUS_STOP</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A bus stop.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUSINESS"
-  class="member-name-link"><code>BUSINESS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BUSINESS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Business facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CAFE"
-  class="member-name-link"><code>CAFE</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CAFE"
+  class="member-name-link"><code>CAFE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A place to have a coffee or other drinks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CARPOOL_PARKING"
-  class="member-name-link"><code>CARPOOL_PARKING</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CARPOOL_PARKING</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A parking lot for carpooling.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#EDUCATION"
-  class="member-name-link"><code>EDUCATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EDUCATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Educational facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FINANCE"
-  class="member-name-link"><code>FINANCE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FINANCE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Financial facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FUEL_STATION"
-  class="member-name-link"><code>FUEL_STATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FUEL_STATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A fuel station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HEALTH"
-  class="member-name-link"><code>HEALTH</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HEALTH</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Health facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HOTEL"
-  class="member-name-link"><code>HOTEL</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HOTEL"
+  class="member-name-link"><code>HOTEL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A place to stay overnight.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MALL"
-  class="member-name-link"><code>MALL</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MALL"
+  class="member-name-link"><code>MALL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A shopping mall.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#METRO_STATION"
-  class="member-name-link"><code>METRO_STATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>METRO_STATION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A metro station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MUSEUM"
-  class="member-name-link"><code>MUSEUM</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MUSEUM</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A museum or other cultural facility.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#NATURE"
-  class="member-name-link"><code>NATURE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NATURE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Located in, or close to, a park, nature reserve etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#PARKING_LOT"
-  class="member-name-link"><code>PARKING_LOT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARKING_LOT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A parking lot.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RECREATION_AREA"
-  class="member-name-link"><code>RECREATION_AREA</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RECREATION_AREA</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A place for recreation, like a park, beach etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RESTAURANT"
-  class="member-name-link"><code>RESTAURANT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RESTAURANT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A place to eat.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SERVICE"
-  class="member-name-link"><code>SERVICE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SERVICE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Service facilities.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SPORT"
-  class="member-name-link"><code>SPORT</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SPORT"
+  class="member-name-link"><code>SPORT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Sport facilities: gym, field etc.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#STORE"
-  class="member-name-link"><code>STORE</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#STORE"
+  class="member-name-link"><code>STORE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A store.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SUPERMARKET"
-  class="member-name-link"><code>SUPERMARKET</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SUPERMARKET</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A place to buy groceries.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TAXI_STAND"
-  class="member-name-link"><code>TAXI_STAND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TAXI_STAND</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A taxi stand.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAIN_STATION"
-  class="member-name-link"><code>TRAIN_STATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRAIN_STATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A train station.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAM_STOP"
-  class="member-name-link"><code>TRAM_STOP</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRAM_STOP</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   A tram stop.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#WIFI"
-  class="member-name-link"><code>WIFI</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#WIFI"
+  class="member-name-link"><code>WIFI</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Wifi or other type of internet available.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype"
-  title="enum class in com.here.sdk.search"><code>FacilityType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-facilitytype"
-  title="enum class in com.here.sdk.search"><code>FacilityType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -442,9 +719,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="HOTEL" class="section detail">
+  - <div id="sdk-for-android-explore-HOTEL" class="section detail">
 
     ### HOTEL
 
@@ -463,7 +741,7 @@ deprecation process.
 
     </div>
 
-  - <div id="RESTAURANT" class="section detail">
+  - <div id="sdk-for-android-explore-RESTAURANT" class="section detail">
 
     ### RESTAURANT
 
@@ -482,7 +760,7 @@ deprecation process.
 
     </div>
 
-  - <div id="CAFE" class="section detail">
+  - <div id="sdk-for-android-explore-CAFE" class="section detail">
 
     ### CAFE
 
@@ -501,7 +779,7 @@ deprecation process.
 
     </div>
 
-  - <div id="MALL" class="section detail">
+  - <div id="sdk-for-android-explore-MALL" class="section detail">
 
     ### MALL
 
@@ -520,7 +798,8 @@ deprecation process.
 
     </div>
 
-  - <div id="SUPERMARKET" class="section detail">
+  - <div id="sdk-for-android-explore-SUPERMARKET"
+    class="section detail">
 
     ### SUPERMARKET
 
@@ -539,7 +818,7 @@ deprecation process.
 
     </div>
 
-  - <div id="SPORT" class="section detail">
+  - <div id="sdk-for-android-explore-SPORT" class="section detail">
 
     ### SPORT
 
@@ -558,7 +837,8 @@ deprecation process.
 
     </div>
 
-  - <div id="RECREATION_AREA" class="section detail">
+  - <div id="sdk-for-android-explore-RECREATION_AREA"
+    class="section detail">
 
     ### RECREATION_AREA
 
@@ -577,7 +857,7 @@ deprecation process.
 
     </div>
 
-  - <div id="NATURE" class="section detail">
+  - <div id="sdk-for-android-explore-NATURE" class="section detail">
 
     ### NATURE
 
@@ -596,7 +876,7 @@ deprecation process.
 
     </div>
 
-  - <div id="MUSEUM" class="section detail">
+  - <div id="sdk-for-android-explore-MUSEUM" class="section detail">
 
     ### MUSEUM
 
@@ -615,7 +895,8 @@ deprecation process.
 
     </div>
 
-  - <div id="BIKE_SHARING" class="section detail">
+  - <div id="sdk-for-android-explore-BIKE_SHARING"
+    class="section detail">
 
     ### BIKE_SHARING
 
@@ -634,7 +915,7 @@ deprecation process.
 
     </div>
 
-  - <div id="BUS_STOP" class="section detail">
+  - <div id="sdk-for-android-explore-BUS_STOP" class="section detail">
 
     ### BUS_STOP
 
@@ -653,7 +934,7 @@ deprecation process.
 
     </div>
 
-  - <div id="TAXI_STAND" class="section detail">
+  - <div id="sdk-for-android-explore-TAXI_STAND" class="section detail">
 
     ### TAXI_STAND
 
@@ -672,7 +953,7 @@ deprecation process.
 
     </div>
 
-  - <div id="TRAM_STOP" class="section detail">
+  - <div id="sdk-for-android-explore-TRAM_STOP" class="section detail">
 
     ### TRAM_STOP
 
@@ -691,7 +972,8 @@ deprecation process.
 
     </div>
 
-  - <div id="METRO_STATION" class="section detail">
+  - <div id="sdk-for-android-explore-METRO_STATION"
+    class="section detail">
 
     ### METRO_STATION
 
@@ -710,7 +992,8 @@ deprecation process.
 
     </div>
 
-  - <div id="TRAIN_STATION" class="section detail">
+  - <div id="sdk-for-android-explore-TRAIN_STATION"
+    class="section detail">
 
     ### TRAIN_STATION
 
@@ -729,7 +1012,7 @@ deprecation process.
 
     </div>
 
-  - <div id="AIRPORT" class="section detail">
+  - <div id="sdk-for-android-explore-AIRPORT" class="section detail">
 
     ### AIRPORT
 
@@ -748,7 +1031,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PARKING_LOT" class="section detail">
+  - <div id="sdk-for-android-explore-PARKING_LOT"
+    class="section detail">
 
     ### PARKING_LOT
 
@@ -767,7 +1051,8 @@ deprecation process.
 
     </div>
 
-  - <div id="CARPOOL_PARKING" class="section detail">
+  - <div id="sdk-for-android-explore-CARPOOL_PARKING"
+    class="section detail">
 
     ### CARPOOL_PARKING
 
@@ -786,7 +1071,8 @@ deprecation process.
 
     </div>
 
-  - <div id="FUEL_STATION" class="section detail">
+  - <div id="sdk-for-android-explore-FUEL_STATION"
+    class="section detail">
 
     ### FUEL_STATION
 
@@ -805,7 +1091,7 @@ deprecation process.
 
     </div>
 
-  - <div id="WIFI" class="section detail">
+  - <div id="sdk-for-android-explore-WIFI" class="section detail">
 
     ### WIFI
 
@@ -824,7 +1110,7 @@ deprecation process.
 
     </div>
 
-  - <div id="BUSINESS" class="section detail">
+  - <div id="sdk-for-android-explore-BUSINESS" class="section detail">
 
     ### BUSINESS
 
@@ -843,7 +1129,7 @@ deprecation process.
 
     </div>
 
-  - <div id="EDUCATION" class="section detail">
+  - <div id="sdk-for-android-explore-EDUCATION" class="section detail">
 
     ### EDUCATION
 
@@ -862,7 +1148,7 @@ deprecation process.
 
     </div>
 
-  - <div id="FINANCE" class="section detail">
+  - <div id="sdk-for-android-explore-FINANCE" class="section detail">
 
     ### FINANCE
 
@@ -881,7 +1167,7 @@ deprecation process.
 
     </div>
 
-  - <div id="HEALTH" class="section detail">
+  - <div id="sdk-for-android-explore-HEALTH" class="section detail">
 
     ### HEALTH
 
@@ -900,7 +1186,7 @@ deprecation process.
 
     </div>
 
-  - <div id="SERVICE" class="section detail">
+  - <div id="sdk-for-android-explore-SERVICE" class="section detail">
 
     ### SERVICE
 
@@ -919,7 +1205,7 @@ deprecation process.
 
     </div>
 
-  - <div id="STORE" class="section detail">
+  - <div id="sdk-for-android-explore-STORE" class="section detail">
 
     ### STORE
 
@@ -940,9 +1226,10 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -966,7 +1253,8 @@ deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

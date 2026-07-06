@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapScene
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -83,7 +84,8 @@ need to be added to the map.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -91,376 +93,972 @@ need to be added to the map.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static interface </code></td>
-  <td><a
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback"
   class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a></td>
-  <td><div class="block">
-  Called on the main thread after loadScene() method finishes loading the
-  scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
+  title="interface in com.here.sdk.mapview"><code>MapScene.LoadSceneCallback</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Called on the main thread after loadScene() method finishes loading
+  the scene.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter"
   class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapScene.MapPickFilter</code></a></td>
-  <td><div class="block">
+  title="class in com.here.sdk.mapview"><code>MapScene.MapPickFilter</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Filter for the map content to be picked.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapArrow(MapArrow mapArrow)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapArrow(MapArrow mapArrow)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map arrow to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapImageOverlay(MapImageOverlay overlay)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapImageOverlay(MapImageOverlay overlay)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map image overlay to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapMarker(MapMarker marker)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapMarker(MapMarker marker)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map marker to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapMarker3d(MapMarker3D marker)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapMarker3d(MapMarker3D marker)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a 3D map marker to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapMarkerCluster(MapMarkerCluster cluster)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapMarkerCluster(MapMarkerCluster cluster)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map marker cluster to the map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapMarkers(List&lt;MapMarker&gt; markers)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapMarkers(List<MapMarker> markers)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds multiple map markers to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapMarkers3d(List&lt;MapMarker3D&gt; markers)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapMarkers3d(List<MapMarker3D> markers)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds multiple 3D map markers to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapPolygon(MapPolygon mapPolygon)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapPolygon(MapPolygon mapPolygon)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map polygon to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapPolygons(List&lt;MapPolygon&gt; mapPolygons)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapPolygons(List<MapPolygon> mapPolygons)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds multiple map polygons to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapPolyline(MapPolyline mapPolyline)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapPolyline(MapPolyline mapPolyline)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds a map polyline to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>addMapPolylines(List&lt;MapPolyline&gt; mapPolylines)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMapPolylines(List<MapPolyline> mapPolylines)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Adds map polylines to this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>disableFeatures(List&lt;String&gt; features)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      disableFeatures(List<String> features)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Disables specified map features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>enableFeatures(Map&lt;String,String&gt; features)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      enableFeatures(Map<String,String> features)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Enables specified map features.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
   class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>Map</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>,</code><a
+  title="class or interface in java.lang"><code>String</code></a>`,`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
-  <td><pre><code>getActiveFeatures()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getActiveFeatures()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets map features that are currently active.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
-  title="class in com.here.sdk.mapview"><code>MapSceneLights</code></a></td>
-  <td><pre><code>getLights()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapSceneLights`](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLights()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a MapSceneLights instance that controls lights present in the
   scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
   class="external-link"
-  title="class or interface in java.util"><code>Map</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>Map</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>,</code><a
+  title="class or interface in java.lang"><code>String</code></a>`,`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  title="class or interface in java.util"><code>List</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;&gt;</code></td>
-  <td><pre><code>getSupportedFeatures()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>`>>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSupportedFeatures()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets features and all of their modes supported by the currently loaded
   scene configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>loadScene(MapSceneLoadOptions options,
-   MapScene.LoadSceneCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      loadScene(MapSceneLoadOptions options,
+       MapScene.LoadSceneCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously loads a map scene using MapSceneLoadOptions.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>loadScene(MapScheme mapScheme,
-   MapScene.LoadSceneCallback callback)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      loadScene(MapScheme mapScheme,
+       MapScene.LoadSceneCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously loads a map scene described by a specified map scheme.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>loadScene(String configurationFile,
-   MapScene.LoadSceneCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously loads a map scene described by a specified file in one of
-  the supported formats.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>loadScene(String configurationFile,
-   WatermarkStyle watermarkStyle,
-   MapScene.LoadSceneCallback callback)</code></pre></td>
-  <td><div class="block">
-  Asynchronously loads a map scene described by a specified file in one of
-  the supported formats.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>reloadScene()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      loadScene(String configurationFile,
+       MapScene.LoadSceneCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously loads a map scene described by a specified file in one
+  of the supported formats.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      loadScene(String configurationFile,
+       WatermarkStyle watermarkStyle,
+       MapScene.LoadSceneCallback callback)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Asynchronously loads a map scene described by a specified file in one
+  of the supported formats.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      reloadScene()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Asynchronously reloads the current map scene from file.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeAllMapItems()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAllMapItems()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all map objects from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeAllMapMarkers()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAllMapMarkers()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all map markers from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeAllMapMarkers3d()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAllMapMarkers3d()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all 3D map markers from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeAllMapPolygons()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAllMapPolygons()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all map polygons from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeAllMapPolylines()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAllMapPolylines()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes all map polylines from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapArrow(MapArrow mapArrow)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapArrow(MapArrow mapArrow)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map arrow from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapImageOverlay(MapImageOverlay overlay)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapImageOverlay(MapImageOverlay overlay)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map image overlay from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapMarker(MapMarker marker)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapMarker(MapMarker marker)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map marker from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapMarker3d(MapMarker3D marker)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapMarker3d(MapMarker3D marker)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a 3D map marker from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapMarkerCluster(MapMarkerCluster cluster)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapMarkerCluster(MapMarkerCluster cluster)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map marker cluster from the map.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapMarkers(List&lt;MapMarker&gt; markers)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapMarkers(List<MapMarker> markers)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes multiple map markers from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapMarkers3d(List&lt;MapMarker3D&gt; markers)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapMarkers3d(List<MapMarker3D> markers)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes multiple 3D map markers from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapPolygon(MapPolygon mapPolygon)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapPolygon(MapPolygon mapPolygon)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map polygon from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapPolygons(List&lt;MapPolygon&gt; mapPolygons)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapPolygons(List<MapPolygon> mapPolygons)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes multiple map polygon from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapPolyline(MapPolyline mapPolyline)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapPolyline(MapPolyline mapPolyline)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes a map polyline from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>removeMapPolylines(List&lt;MapPolyline&gt; mapPolylines)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMapPolylines(List<MapPolyline> mapPolylines)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Removes map polylines from this map scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setLayerVisibility(String layerName,
-   VisibilityState visibility)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setLayerVisibility(String layerName,
+       VisibilityState visibility)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Immediately changes the visibility of a specified map layer.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -515,9 +1113,10 @@ need to be added to the map.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+  - <div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -559,7 +1158,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="loadScene(java.lang.String,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+  - <div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -604,7 +1203,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="loadScene(java.lang.String,com.here.sdk.mapview.WatermarkStyle,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+  - <div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.WatermarkStyle,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -657,7 +1256,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+  - <div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -709,7 +1308,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapPolyline(com.here.sdk.mapview.MapPolyline)"
+  - <div id="sdk-for-android-explore-addMapPolyline(com.here.sdk.mapview.MapPolyline)"
     class="section detail">
 
     ### addMapPolyline
@@ -734,7 +1333,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapPolylines(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-addMapPolylines(java.util.List)"
+    class="section detail">
 
     ### addMapPolylines
 
@@ -743,7 +1343,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")> mapPolylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
 
     </div>
 
@@ -767,7 +1367,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapPolyline(com.here.sdk.mapview.MapPolyline)"
+  - <div id="sdk-for-android-explore-removeMapPolyline(com.here.sdk.mapview.MapPolyline)"
     class="section detail">
 
     ### removeMapPolyline
@@ -792,7 +1392,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapPolylines(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-removeMapPolylines(java.util.List)"
+    class="section detail">
 
     ### removeMapPolylines
 
@@ -801,7 +1402,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")> mapPolylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
 
     </div>
 
@@ -818,7 +1419,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeAllMapPolylines()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAllMapPolylines()"
+    class="section detail">
 
     ### removeAllMapPolylines
 
@@ -836,7 +1438,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapArrow(com.here.sdk.mapview.MapArrow)"
+  - <div id="sdk-for-android-explore-addMapArrow(com.here.sdk.mapview.MapArrow)"
     class="section detail">
 
     ### addMapArrow
@@ -868,7 +1470,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapArrow(com.here.sdk.mapview.MapArrow)"
+  - <div id="sdk-for-android-explore-removeMapArrow(com.here.sdk.mapview.MapArrow)"
     class="section detail">
 
     ### removeMapArrow
@@ -893,7 +1495,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapMarker(com.here.sdk.mapview.MapMarker)"
+  - <div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### addMapMarker
@@ -920,7 +1522,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapMarkers(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
+    class="section detail">
 
     ### addMapMarkers
 
@@ -929,7 +1532,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -955,7 +1558,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapMarker(com.here.sdk.mapview.MapMarker)"
+  - <div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### removeMapMarker
@@ -982,7 +1585,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapMarkers(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
+    class="section detail">
 
     ### removeMapMarkers
 
@@ -991,7 +1595,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -1010,7 +1614,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeAllMapMarkers()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAllMapMarkers()"
+    class="section detail">
 
     ### removeAllMapMarkers
 
@@ -1028,7 +1633,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
+  - <div id="sdk-for-android-explore-addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
     class="section detail">
 
     ### addMapMarkerCluster
@@ -1056,7 +1661,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
+  - <div id="sdk-for-android-explore-removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
     class="section detail">
 
     ### removeMapMarkerCluster
@@ -1082,7 +1687,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
+  - <div id="sdk-for-android-explore-addMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
     class="section detail">
 
     ### addMapMarker3d
@@ -1115,7 +1720,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapMarkers3d(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-addMapMarkers3d(java.util.List)"
+    class="section detail">
 
     ### addMapMarkers3d
 
@@ -1124,7 +1730,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers3d</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -1149,7 +1755,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
+  - <div id="sdk-for-android-explore-removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
     class="section detail">
 
     ### removeMapMarker3d
@@ -1175,7 +1781,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapMarkers3d(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-removeMapMarkers3d(java.util.List)"
+    class="section detail">
 
     ### removeMapMarkers3d
 
@@ -1184,7 +1791,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers3d</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -1202,7 +1809,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeAllMapMarkers3d()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAllMapMarkers3d()"
+    class="section detail">
 
     ### removeAllMapMarkers3d
 
@@ -1220,7 +1828,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapPolygon(com.here.sdk.mapview.MapPolygon)"
+  - <div id="sdk-for-android-explore-addMapPolygon(com.here.sdk.mapview.MapPolygon)"
     class="section detail">
 
     ### addMapPolygon
@@ -1252,7 +1860,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapPolygons(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-addMapPolygons(java.util.List)"
+    class="section detail">
 
     ### addMapPolygons
 
@@ -1261,7 +1870,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")> mapPolygons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
 
     </div>
 
@@ -1285,7 +1894,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapPolygon(com.here.sdk.mapview.MapPolygon)"
+  - <div id="sdk-for-android-explore-removeMapPolygon(com.here.sdk.mapview.MapPolygon)"
     class="section detail">
 
     ### removeMapPolygon
@@ -1310,7 +1919,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapPolygons(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-removeMapPolygons(java.util.List)"
+    class="section detail">
 
     ### removeMapPolygons
 
@@ -1319,7 +1929,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygons</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")> mapPolygons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
 
     </div>
 
@@ -1336,7 +1946,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeAllMapPolygons()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAllMapPolygons()"
+    class="section detail">
 
     ### removeAllMapPolygons
 
@@ -1354,7 +1965,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
+  - <div id="sdk-for-android-explore-addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
     class="section detail">
 
     ### addMapImageOverlay
@@ -1380,7 +1991,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
+  - <div id="sdk-for-android-explore-removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
     class="section detail">
 
     ### removeMapImageOverlay
@@ -1406,7 +2017,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="removeAllMapItems()" class="section detail">
+  - <div id="sdk-for-android-explore-removeAllMapItems()"
+    class="section detail">
 
     ### removeAllMapItems
 
@@ -1426,7 +2038,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"
+  - <div id="sdk-for-android-explore-setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"
     class="section detail">
 
     ### setLayerVisibility
@@ -1459,7 +2071,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getActiveFeatures()" class="section detail">
+  - <div id="sdk-for-android-explore-getActiveFeatures()"
+    class="section detail">
 
     ### getActiveFeatures
 
@@ -1468,11 +2081,11 @@ need to be added to the map.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">getActiveFeatures</span>()
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">getActiveFeatures</span>()
 
     </div>
 
@@ -1492,7 +2105,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getSupportedFeatures()" class="section detail">
+  - <div id="sdk-for-android-explore-getSupportedFeatures()"
+    class="section detail">
 
     ### getSupportedFeatures
 
@@ -1501,13 +2115,13 @@ need to be added to the map.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>>></span> <span class="element-name">getSupportedFeatures</span>()
+    class="external-link" title="class or interface in java.lang">String</a>\>\></span> <span class="element-name">getSupportedFeatures</span>()
 
     </div>
 
@@ -1525,7 +2139,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="enableFeatures(java.util.Map)" class="section detail">
+  - <div id="sdk-for-android-explore-enableFeatures(java.util.Map)"
+    class="section detail">
 
     ### enableFeatures
 
@@ -1534,11 +2149,11 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enableFeatures</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a><<a
+    class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> features)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> features)</span>
 
     </div>
 
@@ -1564,7 +2179,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="disableFeatures(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-disableFeatures(java.util.List)"
+    class="section detail">
 
     ### disableFeatures
 
@@ -1573,9 +2189,9 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">disableFeatures</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> features)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> features)</span>
 
     </div>
 
@@ -1598,7 +2214,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="reloadScene()" class="section detail">
+  - <div id="sdk-for-android-explore-reloadScene()"
+    class="section detail">
 
     ### reloadScene
 
@@ -1622,7 +2239,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getLights()" class="section detail">
+  - <div id="sdk-for-android-explore-getLights()"
+    class="section detail">
 
     ### getLights
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.SegmentReference
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,94 +50,188 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Long</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#localId"
-  class="member-name-link"><code>localId</code></a></td>
-  <td><div class="block">
-  Local ID of the segment inside the OCM tile.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetEnd"
-  class="member-name-link"><code>offsetEnd</code></a></td>
-  <td><div class="block">
-  The end offset is a non-negative number between 0 and 1, representing
-  the end of the referenced range using a proportion of the length of the
-  segment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetStart"
-  class="member-name-link"><code>offsetStart</code></a></td>
-  <td><div class="block">
-  The start offset is a non-negative number between 0 and 1, representing
-  the start of the referenced range using a proportion of the length of
-  the segment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#segmentId"
-  class="member-name-link"><code>segmentId</code></a></td>
-  <td><div class="block">
-  Topology segment id representing a unique identifier within the HERE
-  platform catalogs.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#tilePartitionId"
-  class="member-name-link"><code>tilePartitionId</code></a></td>
-  <td><div class="block">
-  HERE tile partition id (Morton-encoding + level indicator) of the
-  segment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-traveldirection"
-  title="enum class in com.here.sdk.routing"><code>TravelDirection</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#travelDirection"
-  class="member-name-link"><code>travelDirection</code></a></td>
-  <td><div class="block">
-  Travel direction of the segment.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Long</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#localId"
+  class="member-name-link"><code>localId</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Local ID of the segment inside the OCM tile.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetEnd"
+  class="member-name-link"><code>offsetEnd</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The end offset is a non-negative number between 0 and 1, representing
+  the end of the referenced range using a proportion of the length of
+  the segment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetStart"
+  class="member-name-link"><code>offsetStart</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The start offset is a non-negative number between 0 and 1,
+  representing the start of the referenced range using a proportion of
+  the length of the segment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#segmentId"
+  class="member-name-link"><code>segmentId</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Topology segment id representing a unique identifier within the HERE
+  platform catalogs.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#tilePartitionId"
+  class="member-name-link"><code>tilePartitionId</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  HERE tile partition id (Morton-encoding + level indicator) of the
+  segment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TravelDirection`](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#travelDirection"
+  class="member-name-link"><code>travelDirection</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Travel direction of the segment.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -143,132 +239,234 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>SegmentReference()</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId,
-   TravelDirection travelDirection)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId,
-   TravelDirection travelDirection,
-   double offsetStart)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId,
-   TravelDirection travelDirection,
-   double offsetStart,
-   double offsetEnd)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId,
-   TravelDirection travelDirection,
-   double offsetStart,
-   double offsetEnd,
-   long tilePartitionId)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>SegmentReference(String segmentId,
-   TravelDirection travelDirection,
-   double offsetStart,
-   double offsetEnd,
-   long tilePartitionId,
-   Long localId)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference"
-  title="class in com.here.sdk.routing"><code>SegmentReference</code></a></td>
-  <td><pre><code>fromString(String segmentRef)</code></pre></td>
-  <td><div class="block">
-  Returns an instance of this struct from a string if it's well-formatted,
-  null otherwise.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      SegmentReference()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      SegmentReference(String segmentId)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SegmentReference(String segmentId,
+       TravelDirection travelDirection)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      SegmentReference(String segmentId,
+       TravelDirection travelDirection,
+       double offsetStart)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SegmentReference(String segmentId,
+       TravelDirection travelDirection,
+       double offsetStart,
+       double offsetEnd)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      SegmentReference(String segmentId,
+       TravelDirection travelDirection,
+       double offsetStart,
+       double offsetEnd,
+       long tilePartitionId)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SegmentReference(String segmentId,
+       TravelDirection travelDirection,
+       double offsetStart,
+       double offsetEnd,
+       long tilePartitionId,
+       Long localId)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromString(String segmentRef)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns an instance of this struct from a string if it's
+  well-formatted, null otherwise.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -317,9 +515,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="segmentId" class="section detail">
+  - <div id="sdk-for-android-explore-segmentId" class="section detail">
 
     ### segmentId
 
@@ -341,7 +540,8 @@ deprecation process.
 
     </div>
 
-  - <div id="travelDirection" class="section detail">
+  - <div id="sdk-for-android-explore-travelDirection"
+    class="section detail">
 
     ### travelDirection
 
@@ -360,7 +560,8 @@ deprecation process.
 
     </div>
 
-  - <div id="offsetStart" class="section detail">
+  - <div id="sdk-for-android-explore-offsetStart"
+    class="section detail">
 
     ### offsetStart
 
@@ -382,7 +583,7 @@ deprecation process.
 
     </div>
 
-  - <div id="offsetEnd" class="section detail">
+  - <div id="sdk-for-android-explore-offsetEnd" class="section detail">
 
     ### offsetEnd
 
@@ -404,7 +605,8 @@ deprecation process.
 
     </div>
 
-  - <div id="tilePartitionId" class="section detail">
+  - <div id="sdk-for-android-explore-tilePartitionId"
+    class="section detail">
 
     ### tilePartitionId
 
@@ -423,7 +625,7 @@ deprecation process.
 
     </div>
 
-  - <div id="localId" class="section detail">
+  - <div id="sdk-for-android-explore-localId" class="section detail">
 
     ### localId
 
@@ -446,9 +648,10 @@ deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### SegmentReference
 
@@ -466,7 +669,8 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+    class="section detail">
 
     ### SegmentReference
 
@@ -493,7 +697,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.routing.TravelDirection)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection)"
     class="section detail">
 
     ### SegmentReference
@@ -527,7 +731,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double)"
     class="section detail">
 
     ### SegmentReference
@@ -570,7 +774,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)"
     class="section detail">
 
     ### SegmentReference
@@ -621,7 +825,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)"
     class="section detail">
 
     ### SegmentReference
@@ -677,7 +881,7 @@ deprecation process.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)"
     class="section detail">
 
     ### SegmentReference
@@ -742,9 +946,11 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -768,7 +974,7 @@ deprecation process.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -790,7 +996,8 @@ deprecation process.
 
     </div>
 
-  - <div id="fromString(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-fromString(java.lang.String)"
+    class="section detail">
 
     ### fromString
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.engine.LayerConfiguration
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -64,7 +65,8 @@ in implicitlyPrefetchedFeatures() .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -72,37 +74,58 @@ in implicitlyPrefetchedFeatures() .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static enum </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
-  class="type-name-link"
-  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a></td>
-  <td><div class="block">
-  Defines a list of possible map data features that can be enabled /
-  disabled.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
+  class="type-name-link"
+  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines a list of possible map data features that can be enabled /
+  disabled.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -110,56 +133,88 @@ in implicitlyPrefetchedFeatures() .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
-  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration#enabledFeatures"
-  class="member-name-link"><code>enabledFeatures</code></a></td>
-  <td><div class="block">
-  Specifies feature configuration for enabling list of features enabled
-  for map download.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature"
-  title="enum class in com.here.sdk.core.engine"><code>LayerConfiguration.Feature</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration#implicitlyPrefetchedFeatures"
-  class="member-name-link"><code>implicitlyPrefetchedFeatures</code></a></td>
-  <td><div class="block">
-  Specifies the list of features enabled for implicit and explicit map
-  prefetch.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration#enabledFeatures"
+  class="member-name-link"><code>enabledFeatures</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies feature configuration for enabling list of features enabled
+  for map download.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration#implicitlyPrefetchedFeatures"
+  class="member-name-link"><code>implicitlyPrefetchedFeatures</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Specifies the list of features enabled for implicit and explicit map
+  prefetch.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -167,85 +222,135 @@ in implicitlyPrefetchedFeatures() .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>LayerConfiguration()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LayerConfiguration()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Initializes enabled_features , implicitly_prefetched_features and
   on_demand_implicitly_prefetched_features with it's default values.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>LayerConfiguration(List&lt;LayerConfiguration.Feature&gt; enabledFeatures)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      LayerConfiguration(List<LayerConfiguration.Feature> enabledFeatures)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Initializes both, enabled_features and implicitly_prefetched_features
   with value passed to constructor.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>LayerConfiguration(List&lt;LayerConfiguration.Feature&gt; enabledFeatures,
-   List&lt;LayerConfiguration.Feature&gt; implicitlyPrefetchedFeatures)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LayerConfiguration(List<LayerConfiguration.Feature> enabledFeatures,
+       List<LayerConfiguration.Feature> implicitlyPrefetchedFeatures)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -294,9 +399,11 @@ in implicitlyPrefetchedFeatures() .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="enabledFeatures" class="section detail">
+  - <div id="sdk-for-android-explore-enabledFeatures"
+    class="section detail">
 
     ### enabledFeatures
 
@@ -305,7 +412,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">enabledFeatures</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">enabledFeatures</span>
 
     </div>
 
@@ -319,7 +426,8 @@ in implicitlyPrefetchedFeatures() .
 
     </div>
 
-  - <div id="implicitlyPrefetchedFeatures" class="section detail">
+  - <div id="sdk-for-android-explore-implicitlyPrefetchedFeatures"
+    class="section detail">
 
     ### implicitlyPrefetchedFeatures
 
@@ -328,7 +436,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">implicitlyPrefetchedFeatures</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">implicitlyPrefetchedFeatures</span>
 
     </div>
 
@@ -357,9 +465,11 @@ in implicitlyPrefetchedFeatures() .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.util.List)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+    class="section detail">
 
     ### LayerConfiguration
 
@@ -368,7 +478,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> enabledFeatures)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> enabledFeatures)</span>
 
     </div>
 
@@ -387,7 +497,7 @@ in implicitlyPrefetchedFeatures() .
 
     </div>
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### LayerConfiguration
 
@@ -406,7 +516,7 @@ in implicitlyPrefetchedFeatures() .
 
     </div>
 
-  - <div id="<init>(java.util.List,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List)"
     class="section detail">
 
     ### LayerConfiguration
@@ -416,10 +526,10 @@ in implicitlyPrefetchedFeatures() .
     <span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> enabledFeatures,
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> enabledFeatures,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> implicitlyPrefetchedFeatures)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> implicitlyPrefetchedFeatures)</span>
 
     </div>
 
@@ -461,9 +571,11 @@ in implicitlyPrefetchedFeatures() .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -487,7 +599,7 @@ in implicitlyPrefetchedFeatures() .
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

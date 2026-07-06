@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.core.engine.CatalogVersionHint
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -45,58 +46,77 @@ and persistent storage should be cleaned.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Static Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
-  title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a></td>
-  <td><pre><code>latest(boolean ignoreCachedData)</code></pre></td>
-  <td><div class="block">
-  This static method can be called when you are interested in getting the
-  most latest version of a catalog when initializing the HERE SDK with
-  SDKOptions where you can specify the catalog(s) you want to use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
-  title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a></td>
-  <td><pre><code>specific(long version)</code></pre></td>
-  <td><div class="block">
-  This static method is used when you are interested in a specific version
-  of a catalog, that you want to specify manually.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      latest(boolean ignoreCachedData)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  This static method can be called when you are interested in getting
+  the most latest version of a catalog when initializing the HERE SDK
+  with SDKOptions where you can specify the catalog(s) you want to use.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      specific(long version)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  This static method is used when you are interested in a specific
+  version of a catalog, that you want to specify manually.
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -151,9 +171,11 @@ and persistent storage should be cleaned.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="specific(long)" class="section detail">
+  - <div id="sdk-for-android-explore-specific(long)"
+    class="section detail">
 
     ### specific
 
@@ -189,7 +211,8 @@ and persistent storage should be cleaned.
 
     </div>
 
-  - <div id="latest(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-latest(boolean)"
+    class="section detail">
 
     ### latest
 

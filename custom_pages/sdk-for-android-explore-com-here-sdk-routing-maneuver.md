@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.routing.Maneuver
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -41,175 +42,401 @@ attribute.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction"
-  title="enum class in com.here.sdk.routing"><code>ManeuverAction</code></a></td>
-  <td><pre><code>getAction()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`ManeuverAction`](sdk-for-android-explore-com-here-sdk-routing-maneuveraction "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAction()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the maneuver action.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getCoordinates()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCoordinates()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the geographic coordinates where the maneuver is located.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getCountryCode()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCountryCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the country code of the maneuver position.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getDuration()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDuration()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the estimated time in seconds needed to perform the maneuver.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts"
-  title="class in com.here.sdk.core"><code>LocalizedTexts</code></a></td>
-  <td><pre><code>getExitSignTexts()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getExitSignTexts()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the textual attributes of the exit sign.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts"
-  title="class in com.here.sdk.core"><code>LocalizedTexts</code></a></td>
-  <td><pre><code>getIntersectionNames()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIntersectionNames()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the textual attributes of the intersection.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getLengthInMeters()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLengthInMeters()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the length of the maneuver in meters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts"
-  title="class in com.here.sdk.routing"><code>RoadTexts</code></a></td>
-  <td><pre><code>getNextRoadTexts()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RoadTexts`](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getNextRoadTexts()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the textual attributes of the next road containing the
-  corresponding road name(s) and road number(s) after the maneuver point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getOffset()</code></pre></td>
-  <td><div class="block">
-  Gets the index over Section.getGeometry() where the maneuver is located.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts"
-  title="class in com.here.sdk.routing"><code>RoadTexts</code></a></td>
-  <td><pre><code>getRoadTexts()</code></pre></td>
-  <td><div class="block">
+  corresponding road name(s) and road number(s) after the maneuver
+  point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOffset()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index over Section.getGeometry() where the maneuver is
+  located.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`RoadTexts`](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoadTexts()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the textual attributes of the current road containing road names,
   road numbers and signpost direction (towards) information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getRoundaboutAngleInDegrees()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoundaboutAngleInDegrees()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   The angle is estimated between the incoming and outgoing route parts
   before entering the actual roundabout.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getSectionIndex()</code></pre></td>
-  <td><div class="block">
-  Gets the index over Route.getSections() indicating the section to which
-  the maneuver belongs to.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-signpost"
-  title="class in com.here.sdk.routing"><code>Signpost</code></a></td>
-  <td><pre><code>getSignpost()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSectionIndex()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index over Route.getSections() indicating the section to
+  which the maneuver belongs to.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Signpost`](sdk-for-android-explore-com-here-sdk-routing-signpost "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSignpost()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets Signpost object.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getSpanIndex()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSpanIndex()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the index over Section.getSpans() indicating the first span after
   the maneuver point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getText()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getText()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the maneuver instruction.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><pre><code>getTurnAngleInDegrees()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTurnAngleInDegrees()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the angle of the turn component of the maneuver.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -264,9 +491,11 @@ attribute.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getAction()" class="section detail">
+  - <div id="sdk-for-android-explore-getAction()"
+    class="section detail">
 
     ### getAction
 
@@ -288,7 +517,8 @@ attribute.
 
     </div>
 
-  - <div id="getCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getCoordinates()"
+    class="section detail">
 
     ### getCoordinates
 
@@ -310,7 +540,8 @@ attribute.
 
     </div>
 
-  - <div id="getOffset()" class="section detail">
+  - <div id="sdk-for-android-explore-getOffset()"
+    class="section detail">
 
     ### getOffset
 
@@ -337,7 +568,8 @@ attribute.
 
     </div>
 
-  - <div id="getCountryCode()" class="section detail">
+  - <div id="sdk-for-android-explore-getCountryCode()"
+    class="section detail">
 
     ### getCountryCode
 
@@ -363,7 +595,8 @@ attribute.
 
     </div>
 
-  - <div id="getExitSignTexts()" class="section detail">
+  - <div id="sdk-for-android-explore-getExitSignTexts()"
+    class="section detail">
 
     ### getExitSignTexts
 
@@ -389,7 +622,8 @@ attribute.
 
     </div>
 
-  - <div id="getLengthInMeters()" class="section detail">
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
+    class="section detail">
 
     ### getLengthInMeters
 
@@ -410,7 +644,8 @@ attribute.
 
     </div>
 
-  - <div id="getRoadTexts()" class="section detail">
+  - <div id="sdk-for-android-explore-getRoadTexts()"
+    class="section detail">
 
     ### getRoadTexts
 
@@ -436,7 +671,8 @@ attribute.
 
     </div>
 
-  - <div id="getNextRoadTexts()" class="section detail">
+  - <div id="sdk-for-android-explore-getNextRoadTexts()"
+    class="section detail">
 
     ### getNextRoadTexts
 
@@ -462,7 +698,8 @@ attribute.
 
     </div>
 
-  - <div id="getSignpost()" class="section detail">
+  - <div id="sdk-for-android-explore-getSignpost()"
+    class="section detail">
 
     ### getSignpost
 
@@ -486,7 +723,8 @@ attribute.
 
     </div>
 
-  - <div id="getIntersectionNames()" class="section detail">
+  - <div id="sdk-for-android-explore-getIntersectionNames()"
+    class="section detail">
 
     ### getIntersectionNames
 
@@ -511,7 +749,7 @@ attribute.
 
     </div>
 
-  - <div id="getText()" class="section detail">
+  - <div id="sdk-for-android-explore-getText()" class="section detail">
 
     ### getText
 
@@ -541,7 +779,8 @@ attribute.
 
     </div>
 
-  - <div id="getSectionIndex()" class="section detail">
+  - <div id="sdk-for-android-explore-getSectionIndex()"
+    class="section detail">
 
     ### getSectionIndex
 
@@ -568,7 +807,8 @@ attribute.
 
     </div>
 
-  - <div id="getSpanIndex()" class="section detail">
+  - <div id="sdk-for-android-explore-getSpanIndex()"
+    class="section detail">
 
     ### getSpanIndex
 
@@ -599,7 +839,8 @@ attribute.
 
     </div>
 
-  - <div id="getDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getDuration()"
+    class="section detail">
 
     ### getDuration
 
@@ -621,7 +862,8 @@ attribute.
 
     </div>
 
-  - <div id="getTurnAngleInDegrees()" class="section detail">
+  - <div id="sdk-for-android-explore-getTurnAngleInDegrees()"
+    class="section detail">
 
     ### getTurnAngleInDegrees
 
@@ -651,7 +893,8 @@ attribute.
 
     </div>
 
-  - <div id="getRoundaboutAngleInDegrees()" class="section detail">
+  - <div id="sdk-for-android-explore-getRoundaboutAngleInDegrees()"
+    class="section detail">
 
     ### getRoundaboutAngleInDegrees
 

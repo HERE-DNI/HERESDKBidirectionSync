@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.EVChargingPool
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -43,7 +44,8 @@ SDKOptions.layerConfiguration .
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -51,129 +53,243 @@ SDKOptions.layerConfiguration .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype"
-  title="enum class in com.here.sdk.search"><code>EVAccessType</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#access"
-  class="member-name-link"><code>access</code></a></td>
-  <td><div class="block">
-  The accessibility level of the charging pool, or null if unknown.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason"
-  title="enum class in com.here.sdk.search"><code>EVAccessRestrictionReason</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#accessRestrictionReasons"
-  class="member-name-link"><code>accessRestrictionReasons</code></a></td>
-  <td><div class="block">
-  Contains the list of reasons for restriction.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation"
-  title="class in com.here.sdk.search"><code>EVChargingStation</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#chargingStations"
-  class="member-name-link"><code>chargingStations</code></a></td>
-  <td><div class="block">
-  List of charging stations.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#cpoId"
-  class="member-name-link"><code>cpoId</code></a></td>
-  <td><div class="block">
-  CPO (Charge Point Operator) id for charging pool.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails"
-  title="class in com.here.sdk.search"><code>EVChargingPoolDetails</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#details"
-  class="member-name-link"><code>details</code></a></td>
-  <td><div class="block">
-  EV charging station attributes details.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider"
-  title="class in com.here.sdk.search"><code>EMobilityServiceProvider</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#eMobilityServiceProviders"
-  class="member-name-link"><code>eMobilityServiceProviders</code></a></td>
-  <td><div class="block">
-  List of e-Mobility Service Providers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evse"
-  title="class in com.here.sdk.search"><code>Evse</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#evseInfo"
-  class="member-name-link"><code>evseInfo</code></a></td>
-  <td><div class="block">
-  Charge Point Operator (CPO) ID uses the Electric Vehicle Supply
-  Equipment ID (EVSE ID) for an exact identification of the charging
-  infrastructure and charging point.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#id"
-  class="member-name-link"><code>id</code></a></td>
-  <td><div class="block">
-  HERE ID of the charging pool.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`EVAccessType`](sdk-for-android-explore-com-here-sdk-search-evaccesstype "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#access"
+  class="member-name-link"><code>access</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The accessibility level of the charging pool, or null if unknown.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVAccessRestrictionReason`](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#accessRestrictionReasons"
+  class="member-name-link"><code>accessRestrictionReasons</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Contains the list of reasons for restriction.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingStation`](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#chargingStations"
+  class="member-name-link"><code>chargingStations</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of charging stations.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#cpoId"
+  class="member-name-link"><code>cpoId</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  CPO (Charge Point Operator) id for charging pool.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`EVChargingPoolDetails`](sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#details"
+  class="member-name-link"><code>details</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  EV charging station attributes details.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EMobilityServiceProvider`](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#eMobilityServiceProviders"
+  class="member-name-link"><code>eMobilityServiceProviders</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of e-Mobility Service Providers.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Evse`](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#evseInfo"
+  class="member-name-link"><code>evseInfo</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Charge Point Operator (CPO) ID uses the Electric Vehicle Supply
+  Equipment ID (EVSE ID) for an exact identification of the charging
+  infrastructure and charging point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool#id"
+  class="member-name-link"><code>id</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  HERE ID of the charging pool.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -181,72 +297,102 @@ SDKOptions.layerConfiguration .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EVChargingPool(List&lt;EVChargingStation&gt; chargingStations,
-   List&lt;EMobilityServiceProvider&gt; eMobilityServiceProviders,
-   List&lt;EVAccessRestrictionReason&gt; accessRestrictionReasons)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EVChargingPool(List<EVChargingStation> chargingStations,
+       List<EMobilityServiceProvider> eMobilityServiceProviders,
+       List<EVAccessRestrictionReason> accessRestrictionReasons)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -295,9 +441,11 @@ SDKOptions.layerConfiguration .
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="chargingStations" class="section detail">
+  - <div id="sdk-for-android-explore-chargingStations"
+    class="section detail">
 
     ### chargingStations
 
@@ -306,7 +454,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")></span> <span class="element-name">chargingStations</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\></span> <span class="element-name">chargingStations</span>
 
     </div>
 
@@ -318,7 +466,8 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="eMobilityServiceProviders" class="section detail">
+  - <div id="sdk-for-android-explore-eMobilityServiceProviders"
+    class="section detail">
 
     ### eMobilityServiceProviders
 
@@ -327,7 +476,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")></span> <span class="element-name">eMobilityServiceProviders</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\></span> <span class="element-name">eMobilityServiceProviders</span>
 
     </div>
 
@@ -340,7 +489,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="access" class="section detail">
+  - <div id="sdk-for-android-explore-access" class="section detail">
 
     ### access
 
@@ -359,7 +508,8 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="accessRestrictionReasons" class="section detail">
+  - <div id="sdk-for-android-explore-accessRestrictionReasons"
+    class="section detail">
 
     ### accessRestrictionReasons
 
@@ -368,7 +518,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")></span> <span class="element-name">accessRestrictionReasons</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">accessRestrictionReasons</span>
 
     </div>
 
@@ -381,7 +531,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="details" class="section detail">
+  - <div id="sdk-for-android-explore-details" class="section detail">
 
     ### details
 
@@ -403,7 +553,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="id" class="section detail">
+  - <div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -424,7 +574,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="cpoId" class="section detail">
+  - <div id="sdk-for-android-explore-cpoId" class="section detail">
 
     ### cpoId
 
@@ -446,7 +596,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="evseInfo" class="section detail">
+  - <div id="sdk-for-android-explore-evseInfo" class="section detail">
 
     ### evseInfo
 
@@ -455,7 +605,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")></span> <span class="element-name">evseInfo</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")\></span> <span class="element-name">evseInfo</span>
 
     </div>
 
@@ -472,9 +622,10 @@ SDKOptions.layerConfiguration .
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.util.List,java.util.List,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### EVChargingPool
@@ -484,13 +635,13 @@ SDKOptions.layerConfiguration .
     <span class="modifiers">public</span> <span class="element-name">EVChargingPool</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")> chargingStations,
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\> chargingStations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")> eMobilityServiceProviders,
+    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\> eMobilityServiceProviders,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")> accessRestrictionReasons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\> accessRestrictionReasons)</span>
 
     </div>
 
@@ -520,9 +671,11 @@ SDKOptions.layerConfiguration .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -546,7 +699,7 @@ SDKOptions.layerConfiguration .
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

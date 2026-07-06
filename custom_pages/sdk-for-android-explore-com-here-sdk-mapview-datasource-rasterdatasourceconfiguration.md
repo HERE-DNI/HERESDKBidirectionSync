@@ -16,7 +16,8 @@ com.here.sdk.mapview.datasource.RasterDataSourceConfiguration
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ the configuration.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -47,46 +49,82 @@ the configuration.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Cache</code></a></td>
-  <td><div class="block">
-  Configuration of a local data cache.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Provider</code></a></td>
-  <td><div class="block">
-  Configuration of a data provider.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Cache</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Configuration of a local data cache.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Provider</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Configuration of a data provider.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -94,70 +132,132 @@ the configuration.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache"
-  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Cache</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#cache"
-  class="member-name-link"><code>cache</code></a></td>
-  <td><div class="block">
-  Local cache configuration.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#ignoreExpiredData"
-  class="member-name-link"><code>ignoreExpiredData</code></a></td>
-  <td><div class="block">
-  A flag indicating whether expired data should be ignored until
-  refreshed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#name"
-  class="member-name-link"><code>name</code></a></td>
-  <td><div class="block">
-  The unique name of the data source.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider"
-  title="class in com.here.sdk.mapview.datasource"><code>RasterDataSourceConfiguration.Provider</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#provider"
-  class="member-name-link"><code>provider</code></a></td>
-  <td><div class="block">
-  Data provider configuration.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RasterDataSourceConfiguration.Cache`](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#cache"
+  class="member-name-link"><code>cache</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Local cache configuration.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#ignoreExpiredData"
+  class="member-name-link"><code>ignoreExpiredData</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A flag indicating whether expired data should be ignored until
+  refreshed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#name"
+  class="member-name-link"><code>name</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The unique name of the data source.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`RasterDataSourceConfiguration.Provider`](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#provider"
+  class="member-name-link"><code>provider</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Data provider configuration.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -165,41 +265,63 @@ the configuration.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RasterDataSourceConfiguration(String name,
-   RasterDataSourceConfiguration.Provider provider,
-   RasterDataSourceConfiguration.Cache cache)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>RasterDataSourceConfiguration(String name,
-   RasterDataSourceConfiguration.Provider provider,
-   RasterDataSourceConfiguration.Cache cache,
-   boolean ignoreExpiredData)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RasterDataSourceConfiguration(String name,
+       RasterDataSourceConfiguration.Provider provider,
+       RasterDataSourceConfiguration.Cache cache)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      RasterDataSourceConfiguration(String name,
+       RasterDataSourceConfiguration.Provider provider,
+       RasterDataSourceConfiguration.Cache cache,
+       boolean ignoreExpiredData)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -250,9 +372,10 @@ the configuration.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="name" class="section detail">
+  - <div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -273,7 +396,7 @@ the configuration.
 
     </div>
 
-  - <div id="provider" class="section detail">
+  - <div id="sdk-for-android-explore-provider" class="section detail">
 
     ### provider
 
@@ -292,7 +415,7 @@ the configuration.
 
     </div>
 
-  - <div id="cache" class="section detail">
+  - <div id="sdk-for-android-explore-cache" class="section detail">
 
     ### cache
 
@@ -311,7 +434,8 @@ the configuration.
 
     </div>
 
-  - <div id="ignoreExpiredData" class="section detail">
+  - <div id="sdk-for-android-explore-ignoreExpiredData"
+    class="section detail">
 
     ### ignoreExpiredData
 
@@ -332,9 +456,10 @@ the configuration.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
     class="section detail">
 
     ### RasterDataSourceConfiguration
@@ -373,7 +498,7 @@ the configuration.
 
     </div>
 
-  - <div id="<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
     class="section detail">
 
     ### RasterDataSourceConfiguration

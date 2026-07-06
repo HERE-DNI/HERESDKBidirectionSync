@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.TransitRouteOptions
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -38,7 +39,8 @@ calculated.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -46,128 +48,263 @@ calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#alternatives"
-  class="member-name-link"><code>alternatives</code></a></td>
-  <td><div class="block">
-  Number of alternative routes to return aside from the optimal route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#arrivalTime"
-  class="member-name-link"><code>arrivalTime</code></a></td>
-  <td><div class="block">
-  Optional time when travel is expected to end.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#changes"
-  class="member-name-link"><code>changes</code></a></td>
-  <td><div class="block">
-  Maximum number of changes or transfers allowed in a route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#departureTime"
-  class="member-name-link"><code>departureTime</code></a></td>
-  <td><div class="block">
-  Optional time when travel is expected to start.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmodefilter"
-  title="enum class in com.here.sdk.routing"><code>TransitModeFilter</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter"
-  class="member-name-link"><code>modeFilter</code></a></td>
-  <td><div class="block">
-  Defines inclusion or exclusion of transit modes for route calculation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitmode"
-  title="enum class in com.here.sdk.routing"><code>TransitMode</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modes"
-  class="member-name-link"><code>modes</code></a></td>
-  <td><div class="block">
-  This list is used to determine which transit modes should be used for
-  route calculation, modeFilter specifies whether this list is an
-  inclusion or an exclusion.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianMaxDistanceInMeters"
-  class="member-name-link"><code>pedestrianMaxDistanceInMeters</code></a></td>
-  <td><div class="block">
-  Maximum allowed walking distance in meters (e.g.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianSpeedInMetersPerSecond"
-  class="member-name-link"><code>pedestrianSpeedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  Walking speed in meters per second.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
-  title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#textOptions"
-  class="member-name-link"><code>textOptions</code></a></td>
-  <td><div class="block">
-  Customize textual content returned from the route calculation, such as
-  localization, format, and unit system.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#alternatives"
+  class="member-name-link"><code>alternatives</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Number of alternative routes to return aside from the optimal route.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#arrivalTime"
+  class="member-name-link"><code>arrivalTime</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional time when travel is expected to end.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#changes"
+  class="member-name-link"><code>changes</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Maximum number of changes or transfers allowed in a route.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#departureTime"
+  class="member-name-link"><code>departureTime</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional time when travel is expected to start.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`TransitModeFilter`](sdk-for-android-explore-com-here-sdk-routing-transitmodefilter "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter"
+  class="member-name-link"><code>modeFilter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Defines inclusion or exclusion of transit modes for route calculation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`TransitMode`](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modes"
+  class="member-name-link"><code>modes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  This list is used to determine which transit modes should be used for
+  route calculation, modeFilter specifies whether this list is an
+  inclusion or an exclusion.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianMaxDistanceInMeters"
+  class="member-name-link"><code>pedestrianMaxDistanceInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Maximum allowed walking distance in meters (e.g.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianSpeedInMetersPerSecond"
+  class="member-name-link"><code>pedestrianSpeedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Walking speed in meters per second.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#textOptions"
+  class="member-name-link"><code>textOptions</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Customize textual content returned from the route calculation, such as
+  localization, format, and unit system.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -175,80 +312,122 @@ calculated.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TransitRouteOptions()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TransitRouteOptions()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
-  title="class in com.here.sdk.routing"><code>TransitRouteOptions</code></a></td>
-  <td><pre><code>fromDefaultParameterConfiguration()</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransitRouteOptions`](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      fromDefaultParameterConfiguration()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns TransitRouteOptions instance with default values used in SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -297,9 +476,11 @@ calculated.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="departureTime" class="section detail">
+  - <div id="sdk-for-android-explore-departureTime"
+    class="section detail">
 
     ### departureTime
 
@@ -321,7 +502,8 @@ calculated.
 
     </div>
 
-  - <div id="arrivalTime" class="section detail">
+  - <div id="sdk-for-android-explore-arrivalTime"
+    class="section detail">
 
     ### arrivalTime
 
@@ -342,7 +524,8 @@ calculated.
 
     </div>
 
-  - <div id="alternatives" class="section detail">
+  - <div id="sdk-for-android-explore-alternatives"
+    class="section detail">
 
     ### alternatives
 
@@ -362,7 +545,7 @@ calculated.
 
     </div>
 
-  - <div id="changes" class="section detail">
+  - <div id="sdk-for-android-explore-changes" class="section detail">
 
     ### changes
 
@@ -386,7 +569,7 @@ calculated.
 
     </div>
 
-  - <div id="modeFilter" class="section detail">
+  - <div id="sdk-for-android-explore-modeFilter" class="section detail">
 
     ### modeFilter
 
@@ -406,7 +589,7 @@ calculated.
 
     </div>
 
-  - <div id="modes" class="section detail">
+  - <div id="sdk-for-android-explore-modes" class="section detail">
 
     ### modes
 
@@ -415,7 +598,7 @@ calculated.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")></span> <span class="element-name">modes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")\></span> <span class="element-name">modes</span>
 
     </div>
 
@@ -433,7 +616,8 @@ calculated.
 
     </div>
 
-  - <div id="pedestrianSpeedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-pedestrianSpeedInMetersPerSecond"
+    class="section detail">
 
     ### pedestrianSpeedInMetersPerSecond
 
@@ -455,7 +639,8 @@ calculated.
 
     </div>
 
-  - <div id="pedestrianMaxDistanceInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-pedestrianMaxDistanceInMeters"
+    class="section detail">
 
     ### pedestrianMaxDistanceInMeters
 
@@ -475,7 +660,8 @@ calculated.
 
     </div>
 
-  - <div id="textOptions" class="section detail">
+  - <div id="sdk-for-android-explore-textOptions"
+    class="section detail">
 
     ### textOptions
 
@@ -497,9 +683,10 @@ calculated.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransitRouteOptions
 
@@ -519,9 +706,11 @@ calculated.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -545,7 +734,7 @@ calculated.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -567,7 +756,7 @@ calculated.
 
     </div>
 
-  - <div id="fromDefaultParameterConfiguration()"
+  - <div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
     class="section detail">
 
     ### fromDefaultParameterConfiguration

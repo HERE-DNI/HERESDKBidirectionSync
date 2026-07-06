@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscheme"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<MapScheme>com.here.sdk.mapview.MapScheme →
+java.lang.Enum\<MapScheme\>com.here.sdk.mapview.MapScheme →
 java.lang.Enum → MapScheme → com.here.sdk.mapview.MapScheme
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">MapScheme</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,212 +85,385 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_DAY"
-  class="member-name-link"><code>HYBRID_DAY</code></a></td>
-  <td><div class="block">
-  Day version of hybrid scheme combining satellite data with vector street
-  network, map labels and POI information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>HYBRID_DAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Day version of hybrid scheme combining satellite data with vector
+  street network, map labels and POI information.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_NIGHT"
-  class="member-name-link"><code>HYBRID_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HYBRID_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Night version of hybrid scheme combining satellite data with vector
   street network, map labels and POI information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_DAY"
-  class="member-name-link"><code>LITE_DAY</code></a></td>
-  <td><div class="block">
-  The day version of lite scheme is a simplified version of the NORMAL_DAY
-  , featuring fewer map elements and a more limited color palette.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>LITE_DAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The day version of lite scheme is a simplified version of the
+  NORMAL_DAY , featuring fewer map elements and a more limited color
+  palette.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_DAY"
-  class="member-name-link"><code>LITE_HYBRID_DAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LITE_HYBRID_DAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The day version of lite hybrid scheme is a simplified version of the
   HYBRID_DAY , featuring fewer map elements and a more limited color
   palette.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_NIGHT"
-  class="member-name-link"><code>LITE_HYBRID_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LITE_HYBRID_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The night version of lite hybrid scheme is a simplified version of the
   HYBRID_NIGHT , featuring fewer map elements and a more limited color
   palette.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_NIGHT"
-  class="member-name-link"><code>LITE_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LITE_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The night version of lite scheme is a simplified version of the
   NORMAL_NIGHT , featuring fewer map elements and a more limited color
   palette.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_DAY"
-  class="member-name-link"><code>LOGISTICS_DAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LOGISTICS_DAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The day version of the logistics map scheme catering to the needs of
   dispatchers, fleet managers and delivery drivers, highlighting and
   featuring map elements relevant to logistics use cases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_DAY"
-  class="member-name-link"><code>LOGISTICS_HYBRID_DAY</code></a></td>
-  <td><div class="block">
-  The day version of the logistics hybrid map scheme catering to the needs
-  of dispatchers, fleet managers and delivery drivers, highlighting and
-  featuring map elements relevant to logistics use cases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>LOGISTICS_HYBRID_DAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The day version of the logistics hybrid map scheme catering to the
+  needs of dispatchers, fleet managers and delivery drivers,
+  highlighting and featuring map elements relevant to logistics use
+  cases.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_NIGHT"
-  class="member-name-link"><code>LOGISTICS_HYBRID_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LOGISTICS_HYBRID_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The night version of the logistics hybrid map scheme catering to the
-  needs of dispatchers, fleet managers and delivery drivers, highlighting
-  and featuring map elements relevant to logistics use cases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  needs of dispatchers, fleet managers and delivery drivers,
+  highlighting and featuring map elements relevant to logistics use
+  cases.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_NIGHT"
-  class="member-name-link"><code>LOGISTICS_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LOGISTICS_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The night version of the logistics map scheme catering to the needs of
   dispatchers, fleet managers and delivery drivers, highlighting and
   featuring map elements relevant to logistics use cases.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_DAY"
-  class="member-name-link"><code>NORMAL_DAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NORMAL_DAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Normal map for day.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_NIGHT"
-  class="member-name-link"><code>NORMAL_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NORMAL_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Normal map for night.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_DAY"
-  class="member-name-link"><code>ROAD_NETWORK_DAY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROAD_NETWORK_DAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The day version of a scheme highlighting roads without showing other
   content such as labels or buildings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_NIGHT"
-  class="member-name-link"><code>ROAD_NETWORK_NIGHT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROAD_NETWORK_NIGHT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The night version of a scheme highlighting roads without showing other
   content such as labels or buildings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#SATELLITE"
-  class="member-name-link"><code>SATELLITE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SATELLITE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Satellite imagery.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme"
-  title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapScheme`](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme"
-  title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapScheme`](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -370,9 +546,10 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="NORMAL_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-NORMAL_DAY" class="section detail">
 
     ### NORMAL_DAY
 
@@ -391,7 +568,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="NORMAL_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-NORMAL_NIGHT"
+    class="section detail">
 
     ### NORMAL_NIGHT
 
@@ -410,7 +588,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="SATELLITE" class="section detail">
+  - <div id="sdk-for-android-explore-SATELLITE" class="section detail">
 
     ### SATELLITE
 
@@ -429,7 +607,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="HYBRID_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-HYBRID_DAY" class="section detail">
 
     ### HYBRID_DAY
 
@@ -449,7 +627,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="HYBRID_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-HYBRID_NIGHT"
+    class="section detail">
 
     ### HYBRID_NIGHT
 
@@ -469,7 +648,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LITE_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-LITE_DAY" class="section detail">
 
     ### LITE_DAY
 
@@ -490,7 +669,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LITE_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-LITE_NIGHT" class="section detail">
 
     ### LITE_NIGHT
 
@@ -511,7 +690,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LITE_HYBRID_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-LITE_HYBRID_DAY"
+    class="section detail">
 
     ### LITE_HYBRID_DAY
 
@@ -532,7 +712,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LITE_HYBRID_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-LITE_HYBRID_NIGHT"
+    class="section detail">
 
     ### LITE_HYBRID_NIGHT
 
@@ -553,7 +734,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LOGISTICS_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-LOGISTICS_DAY"
+    class="section detail">
 
     ### LOGISTICS_DAY
 
@@ -574,7 +756,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LOGISTICS_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-LOGISTICS_NIGHT"
+    class="section detail">
 
     ### LOGISTICS_NIGHT
 
@@ -595,7 +778,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LOGISTICS_HYBRID_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_DAY"
+    class="section detail">
 
     ### LOGISTICS_HYBRID_DAY
 
@@ -617,7 +801,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="LOGISTICS_HYBRID_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_NIGHT"
+    class="section detail">
 
     ### LOGISTICS_HYBRID_NIGHT
 
@@ -639,7 +824,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="ROAD_NETWORK_DAY" class="section detail">
+  - <div id="sdk-for-android-explore-ROAD_NETWORK_DAY"
+    class="section detail">
 
     ### ROAD_NETWORK_DAY
 
@@ -662,7 +848,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="ROAD_NETWORK_NIGHT" class="section detail">
+  - <div id="sdk-for-android-explore-ROAD_NETWORK_NIGHT"
+    class="section detail">
 
     ### ROAD_NETWORK_NIGHT
 
@@ -687,9 +874,10 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -713,7 +901,8 @@ Represents the preconfigured map schemes bundled with the SDK.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

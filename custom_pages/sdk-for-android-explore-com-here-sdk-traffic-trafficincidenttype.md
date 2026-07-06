@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TrafficIncidentType>com.here.sdk.traffic.TrafficIncidentType
+java.lang.Enum\<TrafficIncidentType\>com.here.sdk.traffic.TrafficIncidentType
 → java.lang.Enum → TrafficIncidentType →
 com.here.sdk.traffic.TrafficIncidentType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TrafficIncidentType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\></span>
 
 </div>
 
@@ -53,7 +54,8 @@ Category of a traffic incident.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -75,7 +77,8 @@ Category of a traffic incident.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -83,172 +86,312 @@ Category of a traffic incident.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#ACCIDENT"
-  class="member-name-link"><code>ACCIDENT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ACCIDENT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Traffic accident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#CONGESTION"
-  class="member-name-link"><code>CONGESTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CONGESTION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Traffic congestion.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#CONSTRUCTION"
-  class="member-name-link"><code>CONSTRUCTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CONSTRUCTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Construction work.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#DISABLED_VEHICLE"
-  class="member-name-link"><code>DISABLED_VEHICLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DISABLED_VEHICLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Overturned or broken down vehicle(s) on the road.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#LANE_RESTRICTION"
-  class="member-name-link"><code>LANE_RESTRICTION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LANE_RESTRICTION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Lane restriction.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#MASS_TRANSIT"
-  class="member-name-link"><code>MASS_TRANSIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MASS_TRANSIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Incident involving mass transit such as rail or subway.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#OTHER"
-  class="member-name-link"><code>OTHER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OTHER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The incident is known but it does't fit into any of the other
   categories.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#PLANNED_EVENT"
-  class="member-name-link"><code>PLANNED_EVENT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PLANNED_EVENT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Incident involving activities such as sport events or festivals.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#ROAD_CLOSURE"
-  class="member-name-link"><code>ROAD_CLOSURE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROAD_CLOSURE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Road closure.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#ROAD_HAZARD"
-  class="member-name-link"><code>ROAD_HAZARD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ROAD_HAZARD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Dangerous obstruction on the road such as downed tree or traffic light
   out.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#UNKNOWN"
-  class="member-name-link"><code>UNKNOWN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>UNKNOWN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The incident type is not provided by the traffic incidents supplier or
   not recognized by HERE SDK.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#WEATHER"
-  class="member-name-link"><code>WEATHER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>WEATHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Adverse weather conditions.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -331,9 +474,10 @@ Category of a traffic incident.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="ACCIDENT" class="section detail">
+  - <div id="sdk-for-android-explore-ACCIDENT" class="section detail">
 
     ### ACCIDENT
 
@@ -352,7 +496,7 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="CONGESTION" class="section detail">
+  - <div id="sdk-for-android-explore-CONGESTION" class="section detail">
 
     ### CONGESTION
 
@@ -371,7 +515,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="CONSTRUCTION" class="section detail">
+  - <div id="sdk-for-android-explore-CONSTRUCTION"
+    class="section detail">
 
     ### CONSTRUCTION
 
@@ -390,7 +535,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="DISABLED_VEHICLE" class="section detail">
+  - <div id="sdk-for-android-explore-DISABLED_VEHICLE"
+    class="section detail">
 
     ### DISABLED_VEHICLE
 
@@ -409,7 +555,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="MASS_TRANSIT" class="section detail">
+  - <div id="sdk-for-android-explore-MASS_TRANSIT"
+    class="section detail">
 
     ### MASS_TRANSIT
 
@@ -428,7 +575,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="PLANNED_EVENT" class="section detail">
+  - <div id="sdk-for-android-explore-PLANNED_EVENT"
+    class="section detail">
 
     ### PLANNED_EVENT
 
@@ -447,7 +595,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="ROAD_HAZARD" class="section detail">
+  - <div id="sdk-for-android-explore-ROAD_HAZARD"
+    class="section detail">
 
     ### ROAD_HAZARD
 
@@ -467,7 +616,7 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="WEATHER" class="section detail">
+  - <div id="sdk-for-android-explore-WEATHER" class="section detail">
 
     ### WEATHER
 
@@ -486,7 +635,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="ROAD_CLOSURE" class="section detail">
+  - <div id="sdk-for-android-explore-ROAD_CLOSURE"
+    class="section detail">
 
     ### ROAD_CLOSURE
 
@@ -505,7 +655,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="LANE_RESTRICTION" class="section detail">
+  - <div id="sdk-for-android-explore-LANE_RESTRICTION"
+    class="section detail">
 
     ### LANE_RESTRICTION
 
@@ -524,7 +675,7 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -544,7 +695,7 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="UNKNOWN" class="section detail">
+  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -566,9 +717,10 @@ Category of a traffic incident.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -592,7 +744,8 @@ Category of a traffic incident.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

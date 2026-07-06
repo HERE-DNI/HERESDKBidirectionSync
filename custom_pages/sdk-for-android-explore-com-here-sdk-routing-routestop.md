@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.RouteStop
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -42,7 +43,8 @@ the Navigate licence.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -50,45 +52,80 @@ the Navigate licence.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>int</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routestop#locationIndex"
-  class="member-name-link"><code>locationIndex</code></a></td>
-  <td><div class="block">
-  Index of location, used for route stop.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-routestop#stopDuration"
-  class="member-name-link"><code>stopDuration</code></a></td>
-  <td><div class="block">
-  Time that will be spent on route stop.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routestop#locationIndex"
+  class="member-name-link"><code>locationIndex</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Index of location, used for route stop.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-routestop#stopDuration"
+  class="member-name-link"><code>stopDuration</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Time that will be spent on route stop.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -96,30 +133,42 @@ the Navigate licence.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>RouteStop(int locationIndex)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      RouteStop(int locationIndex)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -170,9 +219,11 @@ the Navigate licence.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="locationIndex" class="section detail">
+  - <div id="sdk-for-android-explore-locationIndex"
+    class="section detail">
 
     ### locationIndex
 
@@ -184,14 +235,15 @@ the Navigate licence.
 
     <div class="block">
 
-    Index of location, used for route stop. Index should be >= 1, which
+    Index of location, used for route stop. Index should be \>= 1, which
     prevents user from using origin location as route stop.
 
     </div>
 
     </div>
 
-  - <div id="stopDuration" class="section detail">
+  - <div id="sdk-for-android-explore-stopDuration"
+    class="section detail">
 
     ### stopDuration
 
@@ -212,9 +264,11 @@ the Navigate licence.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(int)" class="section detail">
+  - <div id="sdk-for-android-explore-<init>(int)"
+    class="section detail">
 
     ### RouteStop
 
@@ -233,7 +287,7 @@ the Navigate licence.
     Parameters:  
     `locationIndex` -
 
-    Index of location, used for route stop. Index should be >= 1, which
+    Index of location, used for route stop. Index should be \>= 1, which
     prevents user from using origin location as route stop.
 
     </div>

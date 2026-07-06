@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.routing.TollFare
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -44,7 +45,8 @@ stable.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -52,96 +54,185 @@ stable.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#currency"
-  class="member-name-link"><code>currency</code></a></td>
-  <td><div class="block">
-  The currency in which the toll is to be paid in ISO 4217 format, e.g.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-tollfarepass"
-  title="class in com.here.sdk.routing"><code>TollFarePass</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#pass"
-  class="member-name-link"><code>pass</code></a></td>
-  <td><div class="block">
-  Specifies whether this TollFare is a multi-travel pass, and its
-  characteristics.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
-  title="enum class in com.here.sdk.routing"><code>PaymentMethod</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#paymentMethods"
-  class="member-name-link"><code>paymentMethods</code></a></td>
-  <td><div class="block">
-  The list of accepted payment methods like cash and credit card.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#price"
-  class="member-name-link"><code>price</code></a></td>
-  <td><div class="block">
-  The amount of the toll be paid.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-timerule"
-  title="class in com.here.sdk.core"><code>TimeRule</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#timeRule"
-  class="member-name-link"><code>timeRule</code></a></td>
-  <td><div class="block">
-  The time domain when this fare is valid.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#transponders"
-  class="member-name-link"><code>transponders</code></a></td>
-  <td><div class="block">
-  The list of available transponders.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#currency"
+  class="member-name-link"><code>currency</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The currency in which the toll is to be paid in ISO 4217 format, e.g.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`TollFarePass`](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#pass"
+  class="member-name-link"><code>pass</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Specifies whether this TollFare is a multi-travel pass, and its
+  characteristics.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PaymentMethod`](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#paymentMethods"
+  class="member-name-link"><code>paymentMethods</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The list of accepted payment methods like cash and credit card.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#price"
+  class="member-name-link"><code>price</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The amount of the toll be paid.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`TimeRule`](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#timeRule"
+  class="member-name-link"><code>timeRule</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The time domain when this fare is valid.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#transponders"
+  class="member-name-link"><code>transponders</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The list of available transponders.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -149,102 +240,162 @@ stable.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>TollFare(String currency,
-   double price,
-   List&lt;PaymentMethod&gt; paymentMethods)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>TollFare(String currency,
-   double price,
-   List&lt;PaymentMethod&gt; paymentMethods,
-   TimeRule timeRule)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>TollFare(String currency,
-   double price,
-   List&lt;PaymentMethod&gt; paymentMethods,
-   TimeRule timeRule,
-   List&lt;String&gt; transponders)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>TollFare(String currency,
-   double price,
-   List&lt;PaymentMethod&gt; paymentMethods,
-   TimeRule timeRule,
-   List&lt;String&gt; transponders,
-   TollFarePass pass)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      TollFare(String currency,
+       double price,
+       List<PaymentMethod> paymentMethods)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      TollFare(String currency,
+       double price,
+       List<PaymentMethod> paymentMethods,
+       TimeRule timeRule)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TollFare(String currency,
+       double price,
+       List<PaymentMethod> paymentMethods,
+       TimeRule timeRule,
+       List<String> transponders)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      TollFare(String currency,
+       double price,
+       List<PaymentMethod> paymentMethods,
+       TimeRule timeRule,
+       List<String> transponders,
+       TollFarePass pass)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -293,9 +444,10 @@ stable.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="currency" class="section detail">
+  - <div id="sdk-for-android-explore-currency" class="section detail">
 
     ### currency
 
@@ -317,7 +469,7 @@ stable.
 
     </div>
 
-  - <div id="price" class="section detail">
+  - <div id="sdk-for-android-explore-price" class="section detail">
 
     ### price
 
@@ -335,7 +487,8 @@ stable.
 
     </div>
 
-  - <div id="paymentMethods" class="section detail">
+  - <div id="sdk-for-android-explore-paymentMethods"
+    class="section detail">
 
     ### paymentMethods
 
@@ -344,7 +497,7 @@ stable.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")></span> <span class="element-name">paymentMethods</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span> <span class="element-name">paymentMethods</span>
 
     </div>
 
@@ -356,7 +509,7 @@ stable.
 
     </div>
 
-  - <div id="timeRule" class="section detail">
+  - <div id="sdk-for-android-explore-timeRule" class="section detail">
 
     ### timeRule
 
@@ -378,7 +531,8 @@ stable.
 
     </div>
 
-  - <div id="transponders" class="section detail">
+  - <div id="sdk-for-android-explore-transponders"
+    class="section detail">
 
     ### transponders
 
@@ -387,9 +541,9 @@ stable.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">transponders</span>
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">transponders</span>
 
     </div>
 
@@ -401,7 +555,7 @@ stable.
 
     </div>
 
-  - <div id="pass" class="section detail">
+  - <div id="sdk-for-android-explore-pass" class="section detail">
 
     ### pass
 
@@ -423,9 +577,10 @@ stable.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(java.lang.String,double,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List)"
     class="section detail">
 
     ### TollFare
@@ -438,7 +593,7 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods)</span>
 
     </div>
 
@@ -464,7 +619,7 @@ stable.
 
     </div>
 
-  - <div id="<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)"
     class="section detail">
 
     ### TollFare
@@ -477,7 +632,7 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule)</span>
 
@@ -513,7 +668,7 @@ stable.
 
     </div>
 
-  - <div id="<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)"
     class="section detail">
 
     ### TollFare
@@ -526,14 +681,14 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> transponders)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
 
     </div>
 
@@ -571,7 +726,7 @@ stable.
 
     </div>
 
-  - <div id="<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)"
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)"
     class="section detail">
 
     ### TollFare
@@ -584,14 +739,14 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><<a
+    class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> transponders,
+    class="external-link" title="class or interface in java.lang">String</a>\> transponders,
     @Nullable
     [TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing") pass)</span>
 
@@ -639,9 +794,11 @@ stable.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -665,7 +822,7 @@ stable.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

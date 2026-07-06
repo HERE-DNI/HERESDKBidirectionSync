@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searcherror"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<SearchError>com.here.sdk.search.SearchError →
+java.lang.Enum\<SearchError\>com.here.sdk.search.SearchError →
 java.lang.Enum → SearchError → com.here.sdk.search.SearchError
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">SearchError</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ Specifies possible errors that may result from a search query.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ Specifies possible errors that may result from a search query.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,282 +85,562 @@ Specifies possible errors that may result from a search query.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#AUTHENTICATION_FAILED"
-  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Search operation is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#BAD_REQUEST"
-  class="member-name-link"><code>BAD_REQUEST</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BAD_REQUEST</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Bad network request
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#EXCEEDED_USAGE_LIMIT"
-  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Credentials exceeded the allowed requests limit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#FILTER_EMPTY"
-  class="member-name-link"><code>FILTER_EMPTY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FILTER_EMPTY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Filter is empty
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#FILTER_TOO_LONG"
-  class="member-name-link"><code>FILTER_TOO_LONG</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FILTER_TOO_LONG</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Filter is too long, max.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN"
-  class="member-name-link"><code>FORBIDDEN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FORBIDDEN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The credentials given do not provide access to the resource requested.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#HTTP_ERROR"
-  class="member-name-link"><code>HTTP_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HTTP_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Network request error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#INVALID_AREA"
-  class="member-name-link"><code>INVALID_AREA</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_AREA</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Box or circle area of query is invalid
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#INVALID_CORRIDOR_POLYLINE"
-  class="member-name-link"><code>INVALID_CORRIDOR_POLYLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_CORRIDOR_POLYLINE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Corridor area polyline size is less than 2 points
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#INVALID_CUSTOM_OPTION_FORMAT"
-  class="member-name-link"><code>INVALID_CUSTOM_OPTION_FORMAT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_CUSTOM_OPTION_FORMAT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Custom options are set in an invalid format in the query
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#INVALID_TRUCK_CLASS"
-  class="member-name-link"><code>INVALID_TRUCK_CLASS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_TRUCK_CLASS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Light truck class is passed in the filter
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#INVALID_URL"
-  class="member-name-link"><code>INVALID_URL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>INVALID_URL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Url is invalid
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#LAYERS_NOT_DOWNLOADED"
-  class="member-name-link"><code>LAYERS_NOT_DOWNLOADED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>LAYERS_NOT_DOWNLOADED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Downloaded regions missing
   LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL feature.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#MAP_NOT_READY"
-  class="member-name-link"><code>MAP_NOT_READY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MAP_NOT_READY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Offline map data is incomplete for the requested operation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#MAX_ITEMS_OUT_OF_RANGE"
-  class="member-name-link"><code>MAX_ITEMS_OUT_OF_RANGE</code></a></td>
-  <td><div class="block">
-  Should be in the range [1, 100].
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>MAX_ITEMS_OUT_OF_RANGE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Should be in the range \[1, 100\].
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#NO_RESULTS_FOUND"
-  class="member-name-link"><code>NO_RESULTS_FOUND</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>NO_RESULTS_FOUND</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No results found.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OFFLINE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The device does not have an internet connection.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#OPERATION_CANCELLED"
-  class="member-name-link"><code>OPERATION_CANCELLED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OPERATION_CANCELLED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Operation cancelled.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#OPERATION_FAILED"
-  class="member-name-link"><code>OPERATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OPERATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Operation failed due to an internal error.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#PARSING_ERROR"
-  class="member-name-link"><code>PARSING_ERROR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PARSING_ERROR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Error while parsing response data.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#PROXY_AUTHENTICATION_FAILED"
-  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Proxy is not authenticated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#PROXY_SERVER_UNREACHABLE"
-  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Proxy server unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#QUERY_EMPTY"
-  class="member-name-link"><code>QUERY_EMPTY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>QUERY_EMPTY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Empty query
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#QUERY_TOO_LONG"
-  class="member-name-link"><code>QUERY_TOO_LONG</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>QUERY_TOO_LONG</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Query is too long, max.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#SERVER_UNREACHABLE"
-  class="member-name-link"><code>SERVER_UNREACHABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Server unreachable.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-search-searcherror#TIMED_OUT"
-  class="member-name-link"><code>TIMED_OUT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TIMED_OUT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The request timed out.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-searcherror"
-  title="enum class in com.here.sdk.search"><code>SearchError</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-search-searcherror"
-  title="enum class in com.here.sdk.search"><code>SearchError</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -440,9 +723,11 @@ Specifies possible errors that may result from a search query.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### AUTHENTICATION_FAILED
 
@@ -461,7 +746,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="MAX_ITEMS_OUT_OF_RANGE" class="section detail">
+  - <div id="sdk-for-android-explore-MAX_ITEMS_OUT_OF_RANGE"
+    class="section detail">
 
     ### MAX_ITEMS_OUT_OF_RANGE
 
@@ -480,7 +766,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="PARSING_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-PARSING_ERROR"
+    class="section detail">
 
     ### PARSING_ERROR
 
@@ -499,7 +786,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="NO_RESULTS_FOUND" class="section detail">
+  - <div id="sdk-for-android-explore-NO_RESULTS_FOUND"
+    class="section detail">
 
     ### NO_RESULTS_FOUND
 
@@ -518,7 +806,7 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="HTTP_ERROR" class="section detail">
+  - <div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
 
     ### HTTP_ERROR
 
@@ -537,7 +825,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-SERVER_UNREACHABLE"
+    class="section detail">
 
     ### SERVER_UNREACHABLE
 
@@ -556,7 +845,7 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="FORBIDDEN" class="section detail">
+  - <div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
 
     ### FORBIDDEN
 
@@ -576,7 +865,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="EXCEEDED_USAGE_LIMIT" class="section detail">
+  - <div id="sdk-for-android-explore-EXCEEDED_USAGE_LIMIT"
+    class="section detail">
 
     ### EXCEEDED_USAGE_LIMIT
 
@@ -595,7 +885,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="OPERATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATION_FAILED"
+    class="section detail">
 
     ### OPERATION_FAILED
 
@@ -614,7 +905,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="OPERATION_CANCELLED" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATION_CANCELLED"
+    class="section detail">
 
     ### OPERATION_CANCELLED
 
@@ -633,7 +925,7 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="TIMED_OUT" class="section detail">
+  - <div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
 
     ### TIMED_OUT
 
@@ -652,7 +944,7 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="OFFLINE" class="section detail">
+  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -671,7 +963,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="QUERY_TOO_LONG" class="section detail">
+  - <div id="sdk-for-android-explore-QUERY_TOO_LONG"
+    class="section detail">
 
     ### QUERY_TOO_LONG
 
@@ -690,7 +983,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="FILTER_TOO_LONG" class="section detail">
+  - <div id="sdk-for-android-explore-FILTER_TOO_LONG"
+    class="section detail">
 
     ### FILTER_TOO_LONG
 
@@ -709,7 +1003,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="PROXY_AUTHENTICATION_FAILED" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
+    class="section detail">
 
     ### PROXY_AUTHENTICATION_FAILED
 
@@ -728,7 +1023,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="PROXY_SERVER_UNREACHABLE" class="section detail">
+  - <div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
+    class="section detail">
 
     ### PROXY_SERVER_UNREACHABLE
 
@@ -747,7 +1043,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="QUERY_EMPTY" class="section detail">
+  - <div id="sdk-for-android-explore-QUERY_EMPTY"
+    class="section detail">
 
     ### QUERY_EMPTY
 
@@ -766,7 +1063,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="INVALID_AREA" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_AREA"
+    class="section detail">
 
     ### INVALID_AREA
 
@@ -785,7 +1083,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="FILTER_EMPTY" class="section detail">
+  - <div id="sdk-for-android-explore-FILTER_EMPTY"
+    class="section detail">
 
     ### FILTER_EMPTY
 
@@ -804,7 +1103,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="INVALID_CORRIDOR_POLYLINE" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_CORRIDOR_POLYLINE"
+    class="section detail">
 
     ### INVALID_CORRIDOR_POLYLINE
 
@@ -823,7 +1123,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="INVALID_URL" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_URL"
+    class="section detail">
 
     ### INVALID_URL
 
@@ -842,7 +1143,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="INVALID_CUSTOM_OPTION_FORMAT" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_CUSTOM_OPTION_FORMAT"
+    class="section detail">
 
     ### INVALID_CUSTOM_OPTION_FORMAT
 
@@ -861,7 +1163,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="INVALID_TRUCK_CLASS" class="section detail">
+  - <div id="sdk-for-android-explore-INVALID_TRUCK_CLASS"
+    class="section detail">
 
     ### INVALID_TRUCK_CLASS
 
@@ -880,7 +1183,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="BAD_REQUEST" class="section detail">
+  - <div id="sdk-for-android-explore-BAD_REQUEST"
+    class="section detail">
 
     ### BAD_REQUEST
 
@@ -899,7 +1203,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="MAP_NOT_READY" class="section detail">
+  - <div id="sdk-for-android-explore-MAP_NOT_READY"
+    class="section detail">
 
     ### MAP_NOT_READY
 
@@ -922,7 +1227,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="LAYERS_NOT_DOWNLOADED" class="section detail">
+  - <div id="sdk-for-android-explore-LAYERS_NOT_DOWNLOADED"
+    class="section detail">
 
     ### LAYERS_NOT_DOWNLOADED
 
@@ -948,9 +1254,10 @@ Specifies possible errors that may result from a search query.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -974,7 +1281,8 @@ Specifies possible errors that may result from a search query.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.mapview.MapFeatures
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -40,7 +41,8 @@ constants representing feature modes.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,161 +50,332 @@ constants representing feature modes.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION"
-  class="member-name-link"><code>AMBIENT_OCCLUSION</code></a></td>
-  <td><div class="block">
-  Ambient occlusion effect for 3D geometries (extruded buildings and
-  landmarks).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS"
-  class="member-name-link"><code>BUILDING_FOOTPRINTS</code></a></td>
-  <td><div class="block">
-  The 2D footprint of buildings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES"
-  class="member-name-link"><code>CONGESTION_ZONES</code></a></td>
-  <td><div class="block">
-  City areas designated as congestion zones (or congestion charge zones),
-  which impose fees on entering such areas.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES"
-  class="member-name-link"><code>ENVIRONMENTAL_ZONES</code></a></td>
-  <td><div class="block">
-  City areas designated as environmental zones, which empose limitations
-  on the type of vehicles that are allowed to enter such areas.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS"
-  class="member-name-link"><code>EXTRUDED_BUILDINGS</code></a></td>
-  <td><div class="block">
-  Simple 3D representation of buildings.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES"
-  class="member-name-link"><code>LOW_SPEED_ZONES</code></a></td>
-  <td><div class="block">
-  City areas designated as low speed zones.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS"
-  class="member-name-link"><code>ROAD_EXIT_LABELS</code></a></td>
-  <td><div class="block">
-  Show or hide road exit labels, if available.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS"
-  class="member-name-link"><code>SHADOWS</code></a></td>
-  <td><div class="block">
-  Shadows for all building types (extruded buildings and landmarks).
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW"
-  class="member-name-link"><code>TRAFFIC_FLOW</code></a></td>
-  <td><div class="block">
-  Traffic flow speed.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS"
-  class="member-name-link"><code>TRAFFIC_INCIDENTS</code></a></td>
-  <td><div class="block">
-  Traffic incidents.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static final </code><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS"
-  class="member-name-link"><code>TRAFFIC_LIGHTS</code></a></td>
-  <td><div class="block">
-  Traffic lights.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION"
+  class="member-name-link"><code>AMBIENT_OCCLUSION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Ambient occlusion effect for 3D geometries (extruded buildings and
+  landmarks).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS"
+  class="member-name-link"><code>BUILDING_FOOTPRINTS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The 2D footprint of buildings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES"
+  class="member-name-link"><code>CONGESTION_ZONES</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  City areas designated as congestion zones (or congestion charge
+  zones), which impose fees on entering such areas.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES"
+  class="member-name-link"><code>ENVIRONMENTAL_ZONES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  City areas designated as environmental zones, which empose limitations
+  on the type of vehicles that are allowed to enter such areas.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS"
+  class="member-name-link"><code>EXTRUDED_BUILDINGS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Simple 3D representation of buildings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES"
+  class="member-name-link"><code>LOW_SPEED_ZONES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  City areas designated as low speed zones.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS"
+  class="member-name-link"><code>ROAD_EXIT_LABELS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Show or hide road exit labels, if available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS"
+  class="member-name-link"><code>SHADOWS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Shadows for all building types (extruded buildings and landmarks).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW"
+  class="member-name-link"><code>TRAFFIC_FLOW</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Traffic flow speed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS"
+  class="member-name-link"><code>TRAFFIC_INCIDENTS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Traffic incidents.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS"
+  class="member-name-link"><code>TRAFFIC_LIGHTS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Traffic lights.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -210,28 +383,38 @@ constants representing feature modes.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapFeatures()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapFeatures()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -282,9 +465,11 @@ constants representing feature modes.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="EXTRUDED_BUILDINGS" class="section detail">
+  - <div id="sdk-for-android-explore-EXTRUDED_BUILDINGS"
+    class="section detail">
 
     ### EXTRUDED_BUILDINGS
 
@@ -317,7 +502,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="BUILDING_FOOTPRINTS" class="section detail">
+  - <div id="sdk-for-android-explore-BUILDING_FOOTPRINTS"
+    class="section detail">
 
     ### BUILDING_FOOTPRINTS
 
@@ -350,7 +536,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="TRAFFIC_FLOW" class="section detail">
+  - <div id="sdk-for-android-explore-TRAFFIC_FLOW"
+    class="section detail">
 
     ### TRAFFIC_FLOW
 
@@ -388,7 +575,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="TRAFFIC_INCIDENTS" class="section detail">
+  - <div id="sdk-for-android-explore-TRAFFIC_INCIDENTS"
+    class="section detail">
 
     ### TRAFFIC_INCIDENTS
 
@@ -422,7 +610,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="TRAFFIC_LIGHTS" class="section detail">
+  - <div id="sdk-for-android-explore-TRAFFIC_LIGHTS"
+    class="section detail">
 
     ### TRAFFIC_LIGHTS
 
@@ -451,7 +640,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="ENVIRONMENTAL_ZONES" class="section detail">
+  - <div id="sdk-for-android-explore-ENVIRONMENTAL_ZONES"
+    class="section detail">
 
     ### ENVIRONMENTAL_ZONES
 
@@ -482,7 +672,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="CONGESTION_ZONES" class="section detail">
+  - <div id="sdk-for-android-explore-CONGESTION_ZONES"
+    class="section detail">
 
     ### CONGESTION_ZONES
 
@@ -512,7 +703,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="LOW_SPEED_ZONES" class="section detail">
+  - <div id="sdk-for-android-explore-LOW_SPEED_ZONES"
+    class="section detail">
 
     ### LOW_SPEED_ZONES
 
@@ -542,7 +734,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="ROAD_EXIT_LABELS" class="section detail">
+  - <div id="sdk-for-android-explore-ROAD_EXIT_LABELS"
+    class="section detail">
 
     ### ROAD_EXIT_LABELS
 
@@ -576,7 +769,7 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="SHADOWS" class="section detail">
+  - <div id="sdk-for-android-explore-SHADOWS" class="section detail">
 
     ### SHADOWS
 
@@ -614,7 +807,8 @@ constants representing feature modes.
 
     </div>
 
-  - <div id="AMBIENT_OCCLUSION" class="section detail">
+  - <div id="sdk-for-android-explore-AMBIENT_OCCLUSION"
+    class="section detail">
 
     ### AMBIENT_OCCLUSION
 
@@ -653,9 +847,10 @@ constants representing feature modes.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapFeatures
 

@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.CategoryQuery
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ The options to specify a query by categories.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -45,36 +47,56 @@ The options to specify a query by categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
-  class="type-name-link"
-  title="class in com.here.sdk.search"><code>CategoryQuery.Area</code></a></td>
-  <td><div class="block">
-  Area to perform search on.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="field-summary" class="section field-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
+  class="type-name-link"
+  title="class in com.here.sdk.search"><code>CategoryQuery.Area</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Area to perform search on.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -82,143 +104,268 @@ The options to specify a query by categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
-  title="class in com.here.sdk.search"><code>CategoryQuery.Area</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#area"
-  class="member-name-link"><code>area</code></a></td>
-  <td><div class="block">
-  Area in which to provide the most relevant places.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory"
-  title="class in com.here.sdk.search"><code>PlaceCategory</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#categories"
-  class="member-name-link"><code>categories</code></a></td>
-  <td><div class="block">
-  List of categories to be included.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placecategory"
-  title="class in com.here.sdk.search"><code>PlaceCategory</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeCategories"
-  class="member-name-link"><code>excludeCategories</code></a></td>
-  <td><div class="block">
-  List of categories and subcategories to be excluded.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placechain"
-  title="class in com.here.sdk.search"><code>PlaceChain</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeChains"
-  class="member-name-link"><code>excludeChains</code></a></td>
-  <td><div class="block">
-  List of chains to be excluded.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placefoodtype"
-  title="class in com.here.sdk.search"><code>PlaceFoodType</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeFoodTypes"
-  class="member-name-link"><code>excludeFoodTypes</code></a></td>
-  <td><div class="block">
-  List of food types to be excluded.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#filter"
-  class="member-name-link"><code>filter</code></a></td>
-  <td><div class="block">
-  Full-text filter on POI names/titles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placechain"
-  title="class in com.here.sdk.search"><code>PlaceChain</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#includeChains"
-  class="member-name-link"><code>includeChains</code></a></td>
-  <td><div class="block">
-  List of chains to be included.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-placefoodtype"
-  title="class in com.here.sdk.search"><code>PlaceFoodType</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#includeFoodTypes"
-  class="member-name-link"><code>includeFoodTypes</code></a></td>
-  <td><div class="block">
-  List of food types to be included.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-placefilter"
-  title="class in com.here.sdk.search"><code>PlaceFilter</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#placeFilter"
-  class="member-name-link"><code>placeFilter</code></a></td>
-  <td><div class="block">
-  The filter options to specify a place in query.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`CategoryQuery.Area`](sdk-for-android-explore-com-here-sdk-search-categoryquery-area "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery#area"
+  class="member-name-link"><code>area</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Area in which to provide the most relevant places.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#categories"
+  class="member-name-link"><code>categories</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of categories to be included.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeCategories"
+  class="member-name-link"><code>excludeCategories</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of categories and subcategories to be excluded.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceChain`](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeChains"
+  class="member-name-link"><code>excludeChains</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of chains to be excluded.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceFoodType`](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#excludeFoodTypes"
+  class="member-name-link"><code>excludeFoodTypes</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of food types to be excluded.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#filter"
+  class="member-name-link"><code>filter</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Full-text filter on POI names/titles.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceChain`](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#includeChains"
+  class="member-name-link"><code>includeChains</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of chains to be included.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PlaceFoodType`](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#includeFoodTypes"
+  class="member-name-link"><code>includeFoodTypes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of food types to be included.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`PlaceFilter`](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery#placeFilter"
+  class="member-name-link"><code>placeFilter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The filter options to specify a place in query.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -226,94 +373,154 @@ The options to specify a query by categories.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>CategoryQuery(PlaceCategory category,
-   CategoryQuery.Area area)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>CategoryQuery(PlaceCategory category,
-   String filter,
-   CategoryQuery.Area area)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>CategoryQuery(List&lt;PlaceCategory&gt; categories,
-   CategoryQuery.Area area)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>CategoryQuery(List&lt;PlaceCategory&gt; categories,
-   String filter,
-   CategoryQuery.Area area)</code></pre></td>
-  <td><div class="block">
-  Constructs a new instance of this class from provided parameters.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      CategoryQuery(PlaceCategory category,
+       CategoryQuery.Area area)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      CategoryQuery(PlaceCategory category,
+       String filter,
+       CategoryQuery.Area area)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      CategoryQuery(List<PlaceCategory> categories,
+       CategoryQuery.Area area)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      CategoryQuery(List<PlaceCategory> categories,
+       String filter,
+       CategoryQuery.Area area)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Constructs a new instance of this class from provided parameters.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -362,9 +569,10 @@ The options to specify a query by categories.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="categories" class="section detail">
+  - <div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -373,7 +581,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">categories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -388,7 +596,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="excludeCategories" class="section detail">
+  - <div id="sdk-for-android-explore-excludeCategories"
+    class="section detail">
 
     ### excludeCategories
 
@@ -397,7 +606,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">excludeCategories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">excludeCategories</span>
 
     </div>
 
@@ -415,7 +624,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="includeChains" class="section detail">
+  - <div id="sdk-for-android-explore-includeChains"
+    class="section detail">
 
     ### includeChains
 
@@ -424,7 +634,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")></span> <span class="element-name">includeChains</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")\></span> <span class="element-name">includeChains</span>
 
     </div>
 
@@ -439,7 +649,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="excludeChains" class="section detail">
+  - <div id="sdk-for-android-explore-excludeChains"
+    class="section detail">
 
     ### excludeChains
 
@@ -448,7 +659,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")></span> <span class="element-name">excludeChains</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")\></span> <span class="element-name">excludeChains</span>
 
     </div>
 
@@ -465,7 +676,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="includeFoodTypes" class="section detail">
+  - <div id="sdk-for-android-explore-includeFoodTypes"
+    class="section detail">
 
     ### includeFoodTypes
 
@@ -474,7 +686,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")></span> <span class="element-name">includeFoodTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\></span> <span class="element-name">includeFoodTypes</span>
 
     </div>
 
@@ -489,7 +701,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="excludeFoodTypes" class="section detail">
+  - <div id="sdk-for-android-explore-excludeFoodTypes"
+    class="section detail">
 
     ### excludeFoodTypes
 
@@ -498,7 +711,7 @@ The options to specify a query by categories.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")></span> <span class="element-name">excludeFoodTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\></span> <span class="element-name">excludeFoodTypes</span>
 
     </div>
 
@@ -515,7 +728,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="filter" class="section detail">
+  - <div id="sdk-for-android-explore-filter" class="section detail">
 
     ### filter
 
@@ -538,7 +751,8 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="placeFilter" class="section detail">
+  - <div id="sdk-for-android-explore-placeFilter"
+    class="section detail">
 
     ### placeFilter
 
@@ -558,7 +772,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="area" class="section detail">
+  - <div id="sdk-for-android-explore-area" class="section detail">
 
     ### area
 
@@ -579,9 +793,10 @@ The options to specify a query by categories.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -612,7 +827,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,com.here.sdk.search.CategoryQuery.Area)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -622,7 +837,7 @@ The options to specify a query by categories.
     <span class="modifiers">public</span> <span class="element-name">CategoryQuery</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull
     [CategoryQuery.Area](sdk-for-android-explore-com-here-sdk-search-categoryquery-area "class in com.here.sdk.search") area)</span>
 
@@ -645,7 +860,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -684,7 +899,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="<init>(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
+  - <div id="sdk-for-android-explore-<init>(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -694,7 +909,7 @@ The options to specify a query by categories.
     <span class="modifiers">public</span> <span class="element-name">CategoryQuery</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories,
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a> filter,
@@ -727,9 +942,11 @@ The options to specify a query by categories.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -753,7 +970,7 @@ The options to specify a query by categories.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

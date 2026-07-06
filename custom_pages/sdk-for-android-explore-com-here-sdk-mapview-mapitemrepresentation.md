@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapItemRepresentation
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Direct Known Subclasses:  
 [`MapPolyline.Representation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")
@@ -41,7 +42,8 @@ Base class to represent visual style of particular map items.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 

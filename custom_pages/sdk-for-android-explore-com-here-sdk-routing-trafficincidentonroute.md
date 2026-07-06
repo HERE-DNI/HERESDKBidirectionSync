@@ -17,7 +17,8 @@ com.here.NativeBase → com.here.sdk.routing.TrafficIncidentOnRoute
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
@@ -47,96 +48,174 @@ incident can take some place out of the built route.
 
 <div class="section summary">
 
-- <div id="method-summary" class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
-  <div id="method-summary-table">
+  <div id="sdk-for-android-explore-method-summary-table">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+  <div class="summary-table three-column-summary">
 
-  All Methods
-  Instance Methods
-  Concrete Methods
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="table-header col-second">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext"
-  title="class in com.here.sdk.core"><code>LocalizedText</code></a></td>
-  <td><pre><code>getDescription()</code></pre></td>
-  <td><div class="block">
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDescription()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the human readable description of the incident, possibly with
   location information.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
   class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><pre><code>getEndTime()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEndTime()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Get the time until which the incident is valid, after this time the
   incident should not be considered.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getId()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getId()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the unique current identifier for a traffic incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentImpact</code></a></td>
-  <td><pre><code>getImpact()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TrafficIncidentImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getImpact()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the impact of the incident.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
   class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><pre><code>getStartTime()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getStartTime()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the time from which the incident is valid, before this time the
   incident should not be considered.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
-  title="enum class in com.here.sdk.traffic"><code>TrafficIncidentType</code></a></td>
-  <td><pre><code>getType()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getType()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the category of the incident.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -191,9 +270,10 @@ incident can take some place out of the built route.
 
 <div class="section details">
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="getId()" class="section detail">
+  - <div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -220,7 +300,8 @@ incident can take some place out of the built route.
 
     </div>
 
-  - <div id="getImpact()" class="section detail">
+  - <div id="sdk-for-android-explore-getImpact()"
+    class="section detail">
 
     ### getImpact
 
@@ -248,7 +329,7 @@ incident can take some place out of the built route.
 
     </div>
 
-  - <div id="getType()" class="section detail">
+  - <div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -276,7 +357,8 @@ incident can take some place out of the built route.
 
     </div>
 
-  - <div id="getDescription()" class="section detail">
+  - <div id="sdk-for-android-explore-getDescription()"
+    class="section detail">
 
     ### getDescription
 
@@ -307,7 +389,8 @@ incident can take some place out of the built route.
 
     </div>
 
-  - <div id="getStartTime()" class="section detail">
+  - <div id="sdk-for-android-explore-getStartTime()"
+    class="section detail">
 
     ### getStartTime
 
@@ -338,7 +421,8 @@ incident can take some place out of the built route.
 
     </div>
 
-  - <div id="getEndTime()" class="section detail">
+  - <div id="sdk-for-android-explore-getEndTime()"
+    class="section detail">
 
     ### getEndTime
 

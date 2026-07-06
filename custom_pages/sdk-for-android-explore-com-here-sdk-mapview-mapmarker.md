@@ -16,7 +16,8 @@ com.here.NativeBase → com.here.sdk.mapview.MapMarker
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -63,7 +64,8 @@ need to be added to the map.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="caption">
 
@@ -71,36 +73,57 @@ need to be added to the map.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Class</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static final class </code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></td>
-  <td><div class="block">
-  Styling options for the text of a MapMarker .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final class `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Styling options for the text of a MapMarker .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -108,284 +131,689 @@ need to be added to the map.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>MapMarker(GeoCoordinates coordinates,
-   MapImage image)</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker(GeoCoordinates coordinates,
+       MapImage image)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates an instance of a marker at given coordinates, represented by
   specified image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker(GeoCoordinates coordinates,
-   MapImage image,
-   Anchor2D anchor)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name odd-row-color">
+
+      MapMarker(GeoCoordinates coordinates,
+       MapImage image,
+       Anchor2D anchor)
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Creates an instance of a marker at given coordinates, represented by
   specified image, with anchor point specifying how the image is
   positioned relative to the marker's coordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><pre><code>MapMarker(GeoCoordinates coordinates,
-   MapImage image,
-   String text)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMarker(GeoCoordinates coordinates,
+       MapImage image,
+       String text)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a MapMarker instance at given coordinates with specified image
   and text and a default text style.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>cancelAnimation(MapMarkerAnimation animation)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      cancelAnimation(MapMarkerAnimation animation)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Cancels single ongoing animation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d"
-  title="class in com.here.sdk.core"><code>Anchor2D</code></a></td>
-  <td><pre><code>getAnchor()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAnchor()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets current anchor point for the marker image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><pre><code>getCoordinates()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCoordinates()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the point on the map where the marker is drawn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>getDrawOrder()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDrawOrder()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets draw order of this marker relative to other markers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><pre><code>getFadeDuration()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFadeDuration()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current duration of a fade-in effect on marker addition to a
   scene or a fade-out effect on marker removal from a scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage"
-  title="class in com.here.sdk.mapview"><code>MapImage</code></a></td>
-  <td><pre><code>getImage()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getImage()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets currently used map image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-metadata"
-  title="class in com.here.sdk.core"><code>Metadata</code></a></td>
-  <td><pre><code>getMetadata()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getMetadata()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the Metadata instance attached to this marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>double</code></td>
-  <td><pre><code>getOpacity()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOpacity()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the current opacity of the marker image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
   class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><pre><code>getText()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getText()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the text drawn on the map by the MapMarker .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
-  title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></td>
-  <td><pre><code>getTextStyle()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  [`MapMarker.TextStyle`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle "class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTextStyle()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets a copy of the TextStyle currently in use by the MapMarker .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
-  title="class in com.here.sdk.mapview"><code>MapMeasureRange</code></a><code>&gt;</code></td>
-  <td><pre><code>getVisibilityRanges()</code></pre></td>
-  <td><div class="block">
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVisibilityRanges()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Gets the list of visibility ranges.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isOverlapAllowed()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isOverlapAllowed()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns true if the marker allows overlap with other markers, false
   otherwise.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>isTextOptional()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isTextOptional()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns true if the marker allows text to be hidden, false otherwise.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setAnchor(Anchor2D value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAnchor(Anchor2D value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets anchor point of the marker image which specifies the position
   offset relative to the marker's coordinates.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setCoordinates(GeoCoordinates value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCoordinates(GeoCoordinates value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the point on the map where the marker is drawn.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setDrawOrder(int value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setDrawOrder(int value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets draw order of this marker relative to other markers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setFadeDuration(Duration value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setFadeDuration(Duration value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets duration of a fade-in effect on marker addition to a scene or a
   fade-out effect on marker removal from a scene.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setImage(MapImage value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setImage(MapImage value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets map image used to represent the marker on screen.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setMetadata(Metadata value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMetadata(Metadata value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the Metadata instance attached to this marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOpacity(double value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOpacity(double value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the opacity of the marker image.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setOverlapAllowed(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOverlapAllowed(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets whether the marker is allowed to overlap with other markers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setText(String value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setText(String value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the text to be drawn on the map by the MapMarker .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setTextOptional(boolean value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTextOptional(boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets whether the marker is allowed to appear without text.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setTextStyle(MapMarker.TextStyle value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTextStyle(MapMarker.TextStyle value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets the TextStyle to be used by the MapMarker .
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>setVisibilityRanges(List&lt;MapMeasureRange&gt; value)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setVisibilityRanges(List<MapMeasureRange> value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Sets visibility ranges for this map marker.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>void</code></td>
-  <td><pre><code>startAnimation(MapMarkerAnimation animation,
-   AnimationListener animationListener)</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      startAnimation(MapMarkerAnimation animation,
+       AnimationListener animationListener)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
   Starts animation of this map marker according to provided
   MapMarkerAnimation .
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -440,9 +868,10 @@ need to be added to the map.
 
 <div class="section details">
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### MapMarker
@@ -475,7 +904,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)"
     class="section detail">
 
     ### MapMarker
@@ -515,7 +944,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### MapMarker
@@ -566,9 +995,10 @@ need to be added to the map.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -606,7 +1036,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)"
+  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -633,7 +1063,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getCoordinates()" class="section detail">
+  - <div id="sdk-for-android-explore-getCoordinates()"
+    class="section detail">
 
     ### getCoordinates
 
@@ -655,7 +1086,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setCoordinates(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-setCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setCoordinates
@@ -681,7 +1112,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getMetadata()" class="section detail">
+  - <div id="sdk-for-android-explore-getMetadata()"
+    class="section detail">
 
     ### getMetadata
 
@@ -705,7 +1137,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setMetadata(com.here.sdk.core.Metadata)"
+  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -731,7 +1163,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="isOverlapAllowed()" class="section detail">
+  - <div id="sdk-for-android-explore-isOverlapAllowed()"
+    class="section detail">
 
     ### isOverlapAllowed
 
@@ -753,7 +1186,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setOverlapAllowed(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setOverlapAllowed(boolean)"
+    class="section detail">
 
     ### setOverlapAllowed
 
@@ -781,7 +1215,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="isTextOptional()" class="section detail">
+  - <div id="sdk-for-android-explore-isTextOptional()"
+    class="section detail">
 
     ### isTextOptional
 
@@ -804,7 +1239,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setTextOptional(boolean)" class="section detail">
+  - <div id="sdk-for-android-explore-setTextOptional(boolean)"
+    class="section detail">
 
     ### setTextOptional
 
@@ -832,7 +1268,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getDrawOrder()" class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder()"
+    class="section detail">
 
     ### getDrawOrder
 
@@ -854,7 +1291,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setDrawOrder(int)" class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+    class="section detail">
 
     ### setDrawOrder
 
@@ -882,7 +1320,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getImage()" class="section detail">
+  - <div id="sdk-for-android-explore-getImage()" class="section detail">
 
     ### getImage
 
@@ -904,7 +1342,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setImage(com.here.sdk.mapview.MapImage)"
+  - <div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### setImage
@@ -929,7 +1367,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getAnchor()" class="section detail">
+  - <div id="sdk-for-android-explore-getAnchor()"
+    class="section detail">
 
     ### getAnchor
 
@@ -952,7 +1391,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setAnchor(com.here.sdk.core.Anchor2D)"
+  - <div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchor
@@ -987,7 +1426,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getOpacity()" class="section detail">
+  - <div id="sdk-for-android-explore-getOpacity()"
+    class="section detail">
 
     ### getOpacity
 
@@ -1010,7 +1450,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setOpacity(double)" class="section detail">
+  - <div id="sdk-for-android-explore-setOpacity(double)"
+    class="section detail">
 
     ### setOpacity
 
@@ -1038,7 +1479,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getFadeDuration()" class="section detail">
+  - <div id="sdk-for-android-explore-getFadeDuration()"
+    class="section detail">
 
     ### getFadeDuration
 
@@ -1062,7 +1504,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setFadeDuration(com.here.time.Duration)"
+  - <div id="sdk-for-android-explore-setFadeDuration(com.here.time.Duration)"
     class="section detail">
 
     ### setFadeDuration
@@ -1097,7 +1539,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getText()" class="section detail">
+  - <div id="sdk-for-android-explore-getText()" class="section detail">
 
     ### getText
 
@@ -1122,7 +1564,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setText(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-setText(java.lang.String)"
+    class="section detail">
 
     ### setText
 
@@ -1149,7 +1592,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getTextStyle()" class="section detail">
+  - <div id="sdk-for-android-explore-getTextStyle()"
+    class="section detail">
 
     ### getTextStyle
 
@@ -1171,7 +1615,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)"
+  - <div id="sdk-for-android-explore-setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)"
     class="section detail">
 
     ### setTextStyle
@@ -1196,7 +1640,8 @@ need to be added to the map.
 
     </div>
 
-  - <div id="getVisibilityRanges()" class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+    class="section detail">
 
     ### getVisibilityRanges
 
@@ -1205,7 +1650,7 @@ need to be added to the map.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1223,7 +1668,7 @@ need to be added to the map.
 
     </div>
 
-  - <div id="setVisibilityRanges(java.util.List)"
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -1233,7 +1678,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 

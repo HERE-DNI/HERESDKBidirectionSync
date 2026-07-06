@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.search.EVSEInfo
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -39,7 +40,8 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -47,161 +49,322 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsecapability"
-  title="enum class in com.here.sdk.ev"><code>EVSECapability</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#capabilities"
-  class="member-name-link"><code>capabilities</code></a></td>
-  <td><div class="block">
-  Capabilities of the EVSE.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
-  title="class in com.here.sdk.search"><code>EVChargingConnector</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#connectors"
-  class="member-name-link"><code>connectors</code></a></td>
-  <td><div class="block">
-  List of available connectors on the EVSE.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#coordinates"
-  class="member-name-link"><code>coordinates</code></a></td>
-  <td><div class="block">
-  The geographic coordinates of the EVSE.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#evseID"
-  class="member-name-link"><code>evseID</code></a></td>
-  <td><div class="block">
-  Identifier compliant with the EVSE ID from eMI3 standard version V1.0.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#floorLevel"
-  class="member-name-link"><code>floorLevel</code></a></td>
-  <td><div class="block">
-  Floor level on which the EVSE is located.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#id"
-  class="member-name-link"><code>id</code></a></td>
-  <td><div class="block">
-  Human-readable globally unique identifier for the EVSE.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#lastUpdated"
-  class="member-name-link"><code>lastUpdated</code></a></td>
-  <td><div class="block">
-  Timestamp when the status of this EVSE was last updated.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
-  title="enum class in com.here.sdk.ev"><code>EVSEPaymentSupport</code></a><code>&gt;</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#paymentSupports"
-  class="member-name-link"><code>paymentSupports</code></a></td>
-  <td><div class="block">
-  List of payment support functionalities on EVSE for ad-hoc customers
-  (without pre-registration).
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#physicalReference"
-  class="member-name-link"><code>physicalReference</code></a></td>
-  <td><div class="block">
-  A number or string printed on the outside of the EVSE for visual
-  identification.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate"
-  title="enum class in com.here.sdk.ev"><code>EVSEState</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#status"
-  class="member-name-link"><code>status</code></a></td>
-  <td><div class="block">
-  Status of the EVSE.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#uid"
-  class="member-name-link"><code>uid</code></a></td>
-  <td><div class="block">
-  Uniquely identifies the EVSE within the CPOs platform (and suboperator
-  platforms).
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVSECapability`](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#capabilities"
+  class="member-name-link"><code>capabilities</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Capabilities of the EVSE.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingConnector`](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#connectors"
+  class="member-name-link"><code>connectors</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of available connectors on the EVSE.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#coordinates"
+  class="member-name-link"><code>coordinates</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The geographic coordinates of the EVSE.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#evseID"
+  class="member-name-link"><code>evseID</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Identifier compliant with the EVSE ID from eMI3 standard version V1.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#floorLevel"
+  class="member-name-link"><code>floorLevel</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Floor level on which the EVSE is located.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#id"
+  class="member-name-link"><code>id</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Human-readable globally unique identifier for the EVSE.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#lastUpdated"
+  class="member-name-link"><code>lastUpdated</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Timestamp when the status of this EVSE was last updated.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`EVSEPaymentSupport`](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#paymentSupports"
+  class="member-name-link"><code>paymentSupports</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  List of payment support functionalities on EVSE for ad-hoc customers
+  (without pre-registration).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evseinfo#physicalReference"
+  class="member-name-link"><code>physicalReference</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A number or string printed on the outside of the EVSE for visual
+  identification.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#status"
+  class="member-name-link"><code>status</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Status of the EVSE.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#uid"
+  class="member-name-link"><code>uid</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Uniquely identifies the EVSE within the CPOs platform (and suboperator
+  platforms).
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -209,70 +372,100 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>EVSEInfo()</code></pre></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EVSEInfo()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -321,9 +514,10 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="uid" class="section detail">
+  - <div id="sdk-for-android-explore-uid" class="section detail">
 
     ### uid
 
@@ -348,7 +542,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="id" class="section detail">
+  - <div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -369,7 +563,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="evseID" class="section detail">
+  - <div id="sdk-for-android-explore-evseID" class="section detail">
 
     ### evseID
 
@@ -391,7 +585,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="status" class="section detail">
+  - <div id="sdk-for-android-explore-status" class="section detail">
 
     ### status
 
@@ -410,7 +604,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="lastUpdated" class="section detail">
+  - <div id="sdk-for-android-explore-lastUpdated"
+    class="section detail">
 
     ### lastUpdated
 
@@ -431,7 +626,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="connectors" class="section detail">
+  - <div id="sdk-for-android-explore-connectors" class="section detail">
 
     ### connectors
 
@@ -440,7 +635,7 @@ Related APIs may change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVChargingConnector](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")></span> <span class="element-name">connectors</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnector](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")\></span> <span class="element-name">connectors</span>
 
     </div>
 
@@ -453,7 +648,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="capabilities" class="section detail">
+  - <div id="sdk-for-android-explore-capabilities"
+    class="section detail">
 
     ### capabilities
 
@@ -462,7 +658,7 @@ Related APIs may change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVSECapability](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")></span> <span class="element-name">capabilities</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVSECapability](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")\></span> <span class="element-name">capabilities</span>
 
     </div>
 
@@ -474,7 +670,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="floorLevel" class="section detail">
+  - <div id="sdk-for-android-explore-floorLevel" class="section detail">
 
     ### floorLevel
 
@@ -495,7 +691,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="physicalReference" class="section detail">
+  - <div id="sdk-for-android-explore-physicalReference"
+    class="section detail">
 
     ### physicalReference
 
@@ -517,7 +714,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="coordinates" class="section detail">
+  - <div id="sdk-for-android-explore-coordinates"
+    class="section detail">
 
     ### coordinates
 
@@ -536,7 +734,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="paymentSupports" class="section detail">
+  - <div id="sdk-for-android-explore-paymentSupports"
+    class="section detail">
 
     ### paymentSupports
 
@@ -545,7 +744,7 @@ Related APIs may change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a><[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")></span> <span class="element-name">paymentSupports</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")\></span> <span class="element-name">paymentSupports</span>
 
     </div>
 
@@ -560,9 +759,10 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>()" class="section detail">
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVSEInfo
 
@@ -582,9 +782,11 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -608,7 +810,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

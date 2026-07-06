@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<HazardousMaterial>com.here.sdk.transport.HazardousMaterial
+java.lang.Enum\<HazardousMaterial\>com.here.sdk.transport.HazardousMaterial
 → java.lang.Enum → HazardousMaterial →
 com.here.sdk.transport.HazardousMaterial
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">HazardousMaterial</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -54,7 +55,8 @@ shipped by the truck.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -76,7 +78,8 @@ shipped by the truck.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -84,161 +87,291 @@ shipped by the truck.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#COMBUSTIBLE"
-  class="member-name-link"><code>COMBUSTIBLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>COMBUSTIBLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Combustible material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#CORROSIVE"
-  class="member-name-link"><code>CORROSIVE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CORROSIVE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Corrosive material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#EXPLOSIVE"
-  class="member-name-link"><code>EXPLOSIVE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EXPLOSIVE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Explosive material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#FLAMMABLE"
-  class="member-name-link"><code>FLAMMABLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FLAMMABLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Flammable material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#GAS"
-  class="member-name-link"><code>GAS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>GAS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Gas.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#HARMFUL_TO_WATER"
-  class="member-name-link"><code>HARMFUL_TO_WATER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HARMFUL_TO_WATER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Materials that are harmful to water.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#ORGANIC"
-  class="member-name-link"><code>ORGANIC</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ORGANIC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Organic material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#OTHER"
-  class="member-name-link"><code>OTHER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Any other hazardous material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISON"
-  class="member-name-link"><code>POISON</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POISON</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Poisonous material.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISONOUS_INHALATION"
-  class="member-name-link"><code>POISONOUS_INHALATION</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>POISONOUS_INHALATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Materials that are poisonous upon inhalation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#RADIOACTIVE"
-  class="member-name-link"><code>RADIOACTIVE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RADIOACTIVE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Radioactive material.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
-  title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
-  title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -321,9 +454,10 @@ shipped by the truck.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="EXPLOSIVE" class="section detail">
+  - <div id="sdk-for-android-explore-EXPLOSIVE" class="section detail">
 
     ### EXPLOSIVE
 
@@ -342,7 +476,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="GAS" class="section detail">
+  - <div id="sdk-for-android-explore-GAS" class="section detail">
 
     ### GAS
 
@@ -361,7 +495,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="FLAMMABLE" class="section detail">
+  - <div id="sdk-for-android-explore-FLAMMABLE" class="section detail">
 
     ### FLAMMABLE
 
@@ -380,7 +514,8 @@ shipped by the truck.
 
     </div>
 
-  - <div id="COMBUSTIBLE" class="section detail">
+  - <div id="sdk-for-android-explore-COMBUSTIBLE"
+    class="section detail">
 
     ### COMBUSTIBLE
 
@@ -399,7 +534,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="ORGANIC" class="section detail">
+  - <div id="sdk-for-android-explore-ORGANIC" class="section detail">
 
     ### ORGANIC
 
@@ -418,7 +553,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="POISON" class="section detail">
+  - <div id="sdk-for-android-explore-POISON" class="section detail">
 
     ### POISON
 
@@ -437,7 +572,8 @@ shipped by the truck.
 
     </div>
 
-  - <div id="RADIOACTIVE" class="section detail">
+  - <div id="sdk-for-android-explore-RADIOACTIVE"
+    class="section detail">
 
     ### RADIOACTIVE
 
@@ -456,7 +592,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="CORROSIVE" class="section detail">
+  - <div id="sdk-for-android-explore-CORROSIVE" class="section detail">
 
     ### CORROSIVE
 
@@ -475,7 +611,8 @@ shipped by the truck.
 
     </div>
 
-  - <div id="POISONOUS_INHALATION" class="section detail">
+  - <div id="sdk-for-android-explore-POISONOUS_INHALATION"
+    class="section detail">
 
     ### POISONOUS_INHALATION
 
@@ -494,7 +631,8 @@ shipped by the truck.
 
     </div>
 
-  - <div id="HARMFUL_TO_WATER" class="section detail">
+  - <div id="sdk-for-android-explore-HARMFUL_TO_WATER"
+    class="section detail">
 
     ### HARMFUL_TO_WATER
 
@@ -513,7 +651,7 @@ shipped by the truck.
 
     </div>
 
-  - <div id="OTHER" class="section detail">
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -534,9 +672,10 @@ shipped by the truck.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -560,7 +699,8 @@ shipped by the truck.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

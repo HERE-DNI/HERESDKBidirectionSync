@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<SectionTransportMode>com.here.sdk.routing.SectionTransportMode
+java.lang.Enum\<SectionTransportMode\>com.here.sdk.routing.SectionTransportMode
 → java.lang.Enum → SectionTransportMode →
 com.here.sdk.routing.SectionTransportMode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -39,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">SectionTransportMode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ example, a car route may have a section having ferry transport mode.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ example, a car route may have a section having ferry transport mode.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,161 +88,291 @@ example, a car route may have a section having ferry transport mode.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BICYCLE"
-  class="member-name-link"><code>BICYCLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BICYCLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Bicycle mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BUS"
-  class="member-name-link"><code>BUS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BUS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Bus mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR"
-  class="member-name-link"><code>CAR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Car mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR_SHUTTLE_TRAIN"
-  class="member-name-link"><code>CAR_SHUTTLE_TRAIN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAR_SHUTTLE_TRAIN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Mode of transport representing a shuttle train for cars.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#FERRY"
-  class="member-name-link"><code>FERRY</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>FERRY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Ferry mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PEDESTRIAN"
-  class="member-name-link"><code>PEDESTRIAN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PEDESTRIAN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Pedestrian mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PRIVATE_BUS"
-  class="member-name-link"><code>PRIVATE_BUS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PRIVATE_BUS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Private bus mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PUBLIC_TRANSIT"
-  class="member-name-link"><code>PUBLIC_TRANSIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PUBLIC_TRANSIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   A section with this mode is part of a public transit route.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#SCOOTER"
-  class="member-name-link"><code>SCOOTER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SCOOTER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Scooter mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TAXI"
-  class="member-name-link"><code>TAXI</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TAXI</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Taxi mode of transport.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRUCK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Truck mode of transport.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
-  title="enum class in com.here.sdk.routing"><code>SectionTransportMode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SectionTransportMode`](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
-  title="enum class in com.here.sdk.routing"><code>SectionTransportMode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`SectionTransportMode`](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -322,9 +455,10 @@ example, a car route may have a section having ferry transport mode.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="CAR" class="section detail">
+  - <div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -343,7 +477,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="TRUCK" class="section detail">
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -362,7 +496,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="PEDESTRIAN" class="section detail">
+  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -381,7 +515,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="FERRY" class="section detail">
+  - <div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -400,7 +534,8 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="CAR_SHUTTLE_TRAIN" class="section detail">
+  - <div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
+    class="section detail">
 
     ### CAR_SHUTTLE_TRAIN
 
@@ -419,7 +554,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="SCOOTER" class="section detail">
+  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -438,7 +573,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="BICYCLE" class="section detail">
+  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -457,7 +592,8 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="PUBLIC_TRANSIT" class="section detail">
+  - <div id="sdk-for-android-explore-PUBLIC_TRANSIT"
+    class="section detail">
 
     ### PUBLIC_TRANSIT
 
@@ -478,7 +614,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="TAXI" class="section detail">
+  - <div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -497,7 +633,7 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="BUS" class="section detail">
+  - <div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -518,7 +654,8 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="PRIVATE_BUS" class="section detail">
+  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+    class="section detail">
 
     ### PRIVATE_BUS
 
@@ -541,9 +678,10 @@ example, a car route may have a section having ferry transport mode.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -567,7 +705,8 @@ example, a car route may have a section having ferry transport mode.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

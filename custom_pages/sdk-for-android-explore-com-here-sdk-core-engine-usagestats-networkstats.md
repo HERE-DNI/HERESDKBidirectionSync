@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.engine.UsageStats.NetworkStats
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 Enclosing class:  
 [UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")
@@ -40,7 +41,8 @@ Provides network statistics in bytes per method.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -48,65 +50,131 @@ Provides network statistics in bytes per method.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#methodCall"
-  class="member-name-link"><code>methodCall</code></a></td>
-  <td><div class="block">
-  Name or description of the method being called.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#receivedBytes"
-  class="member-name-link"><code>receivedBytes</code></a></td>
-  <td><div class="block">
-  Number of bytes received from the network.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#requestCounter"
-  class="member-name-link"><code>requestCounter</code></a></td>
-  <td><div class="block">
-  Amount of calls for particular family of methodCall.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>long</code></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#sentBytes"
-  class="member-name-link"><code>sentBytes</code></a></td>
-  <td><div class="block">
-  Number of bytes sent over the network.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#methodCall"
+  class="member-name-link"><code>methodCall</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Name or description of the method being called.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#receivedBytes"
+  class="member-name-link"><code>receivedBytes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Number of bytes received from the network.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#requestCounter"
+  class="member-name-link"><code>requestCounter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Amount of calls for particular family of methodCall.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#sentBytes"
+  class="member-name-link"><code>sentBytes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Number of bytes sent over the network.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -114,33 +182,45 @@ Provides network statistics in bytes per method.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>NetworkStats(long sentBytes,
-   long receivedBytes,
-   String methodCall,
-   long requestCounter)</code></pre></td>
-  <td><div class="block">
-  Creates a new instance.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      NetworkStats(long sentBytes,
+       long receivedBytes,
+       String methodCall,
+       long requestCounter)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
 
   <div class="inherited-list">
 
@@ -191,9 +271,10 @@ Provides network statistics in bytes per method.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="sentBytes" class="section detail">
+  - <div id="sdk-for-android-explore-sentBytes" class="section detail">
 
     ### sentBytes
 
@@ -211,7 +292,8 @@ Provides network statistics in bytes per method.
 
     </div>
 
-  - <div id="receivedBytes" class="section detail">
+  - <div id="sdk-for-android-explore-receivedBytes"
+    class="section detail">
 
     ### receivedBytes
 
@@ -229,7 +311,7 @@ Provides network statistics in bytes per method.
 
     </div>
 
-  - <div id="methodCall" class="section detail">
+  - <div id="sdk-for-android-explore-methodCall" class="section detail">
 
     ### methodCall
 
@@ -250,7 +332,8 @@ Provides network statistics in bytes per method.
 
     </div>
 
-  - <div id="requestCounter" class="section detail">
+  - <div id="sdk-for-android-explore-requestCounter"
+    class="section detail">
 
     ### requestCounter
 
@@ -275,9 +358,10 @@ Provides network statistics in bytes per method.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(long,long,java.lang.String,long)"
+  - <div id="sdk-for-android-explore-<init>(long,long,java.lang.String,long)"
     class="section detail">
 
     ### NetworkStats

@@ -11,12 +11,13 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsestate"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → java.lang.Enum<EVSEState>com.here.sdk.ev.EVSEState
+java.lang.Object → java.lang.Enum\<EVSEState\>com.here.sdk.ev.EVSEState
 → java.lang.Enum → EVSEState → com.here.sdk.ev.EVSEState
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -37,7 +38,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSEState</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")\></span>
 
 </div>
 
@@ -61,7 +62,8 @@ releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -83,7 +85,8 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -91,136 +94,233 @@ releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate#AVAILABLE"
-  class="member-name-link"><code>AVAILABLE</code></a></td>
-  <td><div class="block">
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#AVAILABLE"
+  class="member-name-link"><code>AVAILABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE/connector is able to start a new charging session.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#BLOCKED"
-  class="member-name-link"><code>BLOCKED</code></a></td>
-  <td><div class="block">
-  The EVSE/connector is not accessible because of a physical barrier, i.e.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#CHARGING"
-  class="member-name-link"><code>CHARGING</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#BLOCKED"
+  class="member-name-link"><code>BLOCKED</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The EVSE/connector is not accessible because of a physical barrier,
+  i.e.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#CHARGING"
+  class="member-name-link"><code>CHARGING</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE/connector is in use.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate#INOPERATIVE"
-  class="member-name-link"><code>INOPERATIVE</code></a></td>
-  <td><div class="block">
-  The EVSE/connector is temporarily not available for use, but not broken
-  or defect.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OPERATIONAL"
-  class="member-name-link"><code>OPERATIONAL</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#INOPERATIVE"
+  class="member-name-link"><code>INOPERATIVE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The EVSE/connector is temporarily not available for use, but not
+  broken or defect.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OPERATIONAL"
+  class="member-name-link"><code>OPERATIONAL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE/connector was operational when checked the last time, but the
   actual latest status is not available at the moment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OUT_OF_ORDER"
-  class="member-name-link"><code>OUT_OF_ORDER</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OUT_OF_ORDER"
+  class="member-name-link"><code>OUT_OF_ORDER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The EVSE/connector is currently out of order.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#RESERVED"
-  class="member-name-link"><code>RESERVED</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#RESERVED"
+  class="member-name-link"><code>RESERVED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The EVSE/connector is reserved for a particular EV driver and is
   unavailable for other drivers.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#UNKNOWN"
-  class="member-name-link"><code>UNKNOWN</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate#UNKNOWN"
+  class="member-name-link"><code>UNKNOWN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   No status information available or the EVSE/connector is offline.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate"
-  title="enum class in com.here.sdk.ev"><code>EVSEState</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsestate"
-  title="enum class in com.here.sdk.ev"><code>EVSEState</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -303,9 +403,10 @@ releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="UNKNOWN" class="section detail">
+  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -324,7 +425,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="AVAILABLE" class="section detail">
+  - <div id="sdk-for-android-explore-AVAILABLE" class="section detail">
 
     ### AVAILABLE
 
@@ -343,7 +444,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="BLOCKED" class="section detail">
+  - <div id="sdk-for-android-explore-BLOCKED" class="section detail">
 
     ### BLOCKED
 
@@ -363,7 +464,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="CHARGING" class="section detail">
+  - <div id="sdk-for-android-explore-CHARGING" class="section detail">
 
     ### CHARGING
 
@@ -382,7 +483,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="INOPERATIVE" class="section detail">
+  - <div id="sdk-for-android-explore-INOPERATIVE"
+    class="section detail">
 
     ### INOPERATIVE
 
@@ -402,7 +504,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="OUT_OF_ORDER" class="section detail">
+  - <div id="sdk-for-android-explore-OUT_OF_ORDER"
+    class="section detail">
 
     ### OUT_OF_ORDER
 
@@ -421,7 +524,7 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="RESERVED" class="section detail">
+  - <div id="sdk-for-android-explore-RESERVED" class="section detail">
 
     ### RESERVED
 
@@ -441,7 +544,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="OPERATIONAL" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATIONAL"
+    class="section detail">
 
     ### OPERATIONAL
 
@@ -463,9 +567,10 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -489,7 +594,8 @@ releases without a deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

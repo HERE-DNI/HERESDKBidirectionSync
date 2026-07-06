@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-fueltype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<FuelType>com.here.sdk.transport.FuelType →
+java.lang.Enum\<FuelType\>com.here.sdk.transport.FuelType →
 java.lang.Enum → FuelType → com.here.sdk.transport.FuelType
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">FuelType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,313 +88,625 @@ deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#BIO_DIESEL"
-  class="member-name-link"><code>BIO_DIESEL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BIO_DIESEL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Bio-Diesel fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#CNG"
-  class="member-name-link"><code>CNG</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#CNG"
+  class="member-name-link"><code>CNG</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Compressed natural gas fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL"
-  class="member-name-link"><code>DIESEL</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL"
+  class="member-name-link"><code>DIESEL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Diesel fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL_WITH_ADDITIVES"
-  class="member-name-link"><code>DIESEL_WITH_ADDITIVES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DIESEL_WITH_ADDITIVES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Diesel with additives fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E10"
-  class="member-name-link"><code>E10</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E10"
+  class="member-name-link"><code>E10</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   10% Ethanol and 90% Gasoline fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E20"
-  class="member-name-link"><code>E20</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E20"
+  class="member-name-link"><code>E20</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   20% Ethanol and 80% Gasoline fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E85"
-  class="member-name-link"><code>E85</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E85"
+  class="member-name-link"><code>E85</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   85% Ethanol and 15% Gasoline fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL"
-  class="member-name-link"><code>ETHANOL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ETHANOL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Ethanol fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL_WITH_ADDITIVES"
-  class="member-name-link"><code>ETHANOL_WITH_ADDITIVES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>ETHANOL_WITH_ADDITIVES</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Ethanol with additives fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_91"
-  class="member-name-link"><code>GASOHOL_91</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>GASOHOL_91</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Gasohol 91 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_95"
-  class="member-name-link"><code>GASOHOL_95</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>GASOHOL_95</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Gasohol 95 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOLINE"
-  class="member-name-link"><code>GASOLINE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>GASOLINE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Gasoline fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HVO"
-  class="member-name-link"><code>HVO</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HVO"
+  class="member-name-link"><code>HVO</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Hydrotreated vegetable oil fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HYDROGEN"
-  class="member-name-link"><code>HYDROGEN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>HYDROGEN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Hydrogen fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LNG"
-  class="member-name-link"><code>LNG</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LNG"
+  class="member-name-link"><code>LNG</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Liquefied natural gas fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LPG"
-  class="member-name-link"><code>LPG</code></a></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LPG"
+  class="member-name-link"><code>LPG</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Liquified petroleum gas fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#MIDGRADE"
-  class="member-name-link"><code>MIDGRADE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MIDGRADE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Midgrade fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_100"
-  class="member-name-link"><code>OCTANE_100</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_100</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Octane 100 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_87"
-  class="member-name-link"><code>OCTANE_87</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_87</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Octane 87 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_89"
-  class="member-name-link"><code>OCTANE_89</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_89</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Octane 89 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_90"
-  class="member-name-link"><code>OCTANE_90</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_90</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Octane 90 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_91"
-  class="member-name-link"><code>OCTANE_91</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_91</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Octane 91 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_92"
-  class="member-name-link"><code>OCTANE_92</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_92</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Octane 92 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_93"
-  class="member-name-link"><code>OCTANE_93</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_93</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Octane 93 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_95"
-  class="member-name-link"><code>OCTANE_95</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_95</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Octane 95 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_98"
-  class="member-name-link"><code>OCTANE_98</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>OCTANE_98</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Octane 98 fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM"
-  class="member-name-link"><code>PREMIUM</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PREMIUM</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Premium fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM_WITH_ADDITIVES"
-  class="member-name-link"><code>PREMIUM_WITH_ADDITIVES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PREMIUM_WITH_ADDITIVES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Premium with additives fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR"
-  class="member-name-link"><code>REGULAR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>REGULAR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Regular fuel type.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR_WITH_ADDITIVES"
-  class="member-name-link"><code>REGULAR_WITH_ADDITIVES</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>REGULAR_WITH_ADDITIVES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Regular with additives fuel type.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype"
-  title="enum class in com.here.sdk.transport"><code>FuelType</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-fueltype"
-  title="enum class in com.here.sdk.transport"><code>FuelType</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -474,9 +789,10 @@ deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="DIESEL" class="section detail">
+  - <div id="sdk-for-android-explore-DIESEL" class="section detail">
 
     ### DIESEL
 
@@ -495,7 +811,7 @@ deprecation process.
 
     </div>
 
-  - <div id="LPG" class="section detail">
+  - <div id="sdk-for-android-explore-LPG" class="section detail">
 
     ### LPG
 
@@ -514,7 +830,7 @@ deprecation process.
 
     </div>
 
-  - <div id="BIO_DIESEL" class="section detail">
+  - <div id="sdk-for-android-explore-BIO_DIESEL" class="section detail">
 
     ### BIO_DIESEL
 
@@ -533,7 +849,7 @@ deprecation process.
 
     </div>
 
-  - <div id="CNG" class="section detail">
+  - <div id="sdk-for-android-explore-CNG" class="section detail">
 
     ### CNG
 
@@ -552,7 +868,8 @@ deprecation process.
 
     </div>
 
-  - <div id="DIESEL_WITH_ADDITIVES" class="section detail">
+  - <div id="sdk-for-android-explore-DIESEL_WITH_ADDITIVES"
+    class="section detail">
 
     ### DIESEL_WITH_ADDITIVES
 
@@ -571,7 +888,7 @@ deprecation process.
 
     </div>
 
-  - <div id="E10" class="section detail">
+  - <div id="sdk-for-android-explore-E10" class="section detail">
 
     ### E10
 
@@ -590,7 +907,7 @@ deprecation process.
 
     </div>
 
-  - <div id="E20" class="section detail">
+  - <div id="sdk-for-android-explore-E20" class="section detail">
 
     ### E20
 
@@ -609,7 +926,7 @@ deprecation process.
 
     </div>
 
-  - <div id="E85" class="section detail">
+  - <div id="sdk-for-android-explore-E85" class="section detail">
 
     ### E85
 
@@ -628,7 +945,7 @@ deprecation process.
 
     </div>
 
-  - <div id="ETHANOL" class="section detail">
+  - <div id="sdk-for-android-explore-ETHANOL" class="section detail">
 
     ### ETHANOL
 
@@ -647,7 +964,8 @@ deprecation process.
 
     </div>
 
-  - <div id="ETHANOL_WITH_ADDITIVES" class="section detail">
+  - <div id="sdk-for-android-explore-ETHANOL_WITH_ADDITIVES"
+    class="section detail">
 
     ### ETHANOL_WITH_ADDITIVES
 
@@ -666,7 +984,7 @@ deprecation process.
 
     </div>
 
-  - <div id="GASOLINE" class="section detail">
+  - <div id="sdk-for-android-explore-GASOLINE" class="section detail">
 
     ### GASOLINE
 
@@ -685,7 +1003,7 @@ deprecation process.
 
     </div>
 
-  - <div id="GASOHOL_91" class="section detail">
+  - <div id="sdk-for-android-explore-GASOHOL_91" class="section detail">
 
     ### GASOHOL_91
 
@@ -704,7 +1022,7 @@ deprecation process.
 
     </div>
 
-  - <div id="GASOHOL_95" class="section detail">
+  - <div id="sdk-for-android-explore-GASOHOL_95" class="section detail">
 
     ### GASOHOL_95
 
@@ -723,7 +1041,7 @@ deprecation process.
 
     </div>
 
-  - <div id="HVO" class="section detail">
+  - <div id="sdk-for-android-explore-HVO" class="section detail">
 
     ### HVO
 
@@ -742,7 +1060,7 @@ deprecation process.
 
     </div>
 
-  - <div id="HYDROGEN" class="section detail">
+  - <div id="sdk-for-android-explore-HYDROGEN" class="section detail">
 
     ### HYDROGEN
 
@@ -761,7 +1079,7 @@ deprecation process.
 
     </div>
 
-  - <div id="LNG" class="section detail">
+  - <div id="sdk-for-android-explore-LNG" class="section detail">
 
     ### LNG
 
@@ -780,7 +1098,7 @@ deprecation process.
 
     </div>
 
-  - <div id="MIDGRADE" class="section detail">
+  - <div id="sdk-for-android-explore-MIDGRADE" class="section detail">
 
     ### MIDGRADE
 
@@ -799,7 +1117,7 @@ deprecation process.
 
     </div>
 
-  - <div id="PREMIUM" class="section detail">
+  - <div id="sdk-for-android-explore-PREMIUM" class="section detail">
 
     ### PREMIUM
 
@@ -818,7 +1136,8 @@ deprecation process.
 
     </div>
 
-  - <div id="PREMIUM_WITH_ADDITIVES" class="section detail">
+  - <div id="sdk-for-android-explore-PREMIUM_WITH_ADDITIVES"
+    class="section detail">
 
     ### PREMIUM_WITH_ADDITIVES
 
@@ -837,7 +1156,7 @@ deprecation process.
 
     </div>
 
-  - <div id="REGULAR" class="section detail">
+  - <div id="sdk-for-android-explore-REGULAR" class="section detail">
 
     ### REGULAR
 
@@ -856,7 +1175,8 @@ deprecation process.
 
     </div>
 
-  - <div id="REGULAR_WITH_ADDITIVES" class="section detail">
+  - <div id="sdk-for-android-explore-REGULAR_WITH_ADDITIVES"
+    class="section detail">
 
     ### REGULAR_WITH_ADDITIVES
 
@@ -875,7 +1195,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_87" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_87" class="section detail">
 
     ### OCTANE_87
 
@@ -894,7 +1214,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_89" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_89" class="section detail">
 
     ### OCTANE_89
 
@@ -913,7 +1233,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_90" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_90" class="section detail">
 
     ### OCTANE_90
 
@@ -932,7 +1252,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_91" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_91" class="section detail">
 
     ### OCTANE_91
 
@@ -951,7 +1271,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_92" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_92" class="section detail">
 
     ### OCTANE_92
 
@@ -970,7 +1290,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_93" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_93" class="section detail">
 
     ### OCTANE_93
 
@@ -989,7 +1309,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_95" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_95" class="section detail">
 
     ### OCTANE_95
 
@@ -1008,7 +1328,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_98" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_98" class="section detail">
 
     ### OCTANE_98
 
@@ -1027,7 +1347,7 @@ deprecation process.
 
     </div>
 
-  - <div id="OCTANE_100" class="section detail">
+  - <div id="sdk-for-android-explore-OCTANE_100" class="section detail">
 
     ### OCTANE_100
 
@@ -1048,9 +1368,10 @@ deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1074,7 +1395,8 @@ deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

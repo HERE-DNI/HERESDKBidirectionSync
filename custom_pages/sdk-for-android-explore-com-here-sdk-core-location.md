@@ -15,7 +15,8 @@ java.lang.Object → com.here.sdk.core.Location
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 <div class="type-signature">
 
@@ -37,7 +38,8 @@ Describes a location in the world at a given time.
 
 <div class="section summary">
 
-- <div id="field-summary" class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary"
+  class="section field-summary">
 
   <div class="caption">
 
@@ -45,173 +47,366 @@ Describes a location in the world at a given time.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Field</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#bearingAccuracyInDegrees"
-  class="member-name-link"><code>bearingAccuracyInDegrees</code></a></td>
-  <td><div class="block">
-  Estimated bearing accuracy for this location, in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#bearingInDegrees"
-  class="member-name-link"><code>bearingInDegrees</code></a></td>
-  <td><div class="block">
-  Bearing (also known as course) is the device's horizontal direction of
-  travel.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
-  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#coordinates"
-  class="member-name-link"><code>coordinates</code></a></td>
-  <td><div class="block">
-  The geographic coordinates of the location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#gnssTime"
-  class="member-name-link"><code>gnssTime</code></a></td>
-  <td><div class="block">
-  Optional gnss time at which the location was determined.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#horizontalAccuracyInMeters"
-  class="member-name-link"><code>horizontalAccuracyInMeters</code></a></td>
-  <td><div class="block">
-  The estimated horizontal accuracy.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-locationtechnology"
-  title="enum class in com.here.sdk.core"><code>LocationTechnology</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#locationTechnology"
-  class="member-name-link"><code>locationTechnology</code></a></td>
-  <td><div class="block">
-  Optional technology or provider of this location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#pitchInDegrees"
-  class="member-name-link"><code>pitchInDegrees</code></a></td>
-  <td><div class="block">
-  Pitch of this location, in degrees.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-locationsource"
-  title="enum class in com.here.sdk.core"><code>LocationSource</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-location#source"
-  class="member-name-link"><code>source</code></a></td>
-  <td><div class="block">
-  Optional source of this location.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#speedAccuracyInMetersPerSecond"
-  class="member-name-link"><code>speedAccuracyInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  Estimated speed accuracy of this location, in meters per second.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#speedInMetersPerSecond"
-  class="member-name-link"><code>speedInMetersPerSecond</code></a></td>
-  <td><div class="block">
-  Current speed of the device.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a></td>
-  <td><a href="sdk-for-android-explore-com-here-sdk-core-location#time"
-  class="member-name-link"><code>time</code></a></td>
-  <td><div class="block">
-  The time at which the location was determined.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a href="sdk-for-android-explore-com-here-time-duration"
-  title="class in com.here.time"><code>Duration</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#timestampSinceBoot"
-  class="member-name-link"><code>timestampSinceBoot</code></a></td>
-  <td><div class="block">
-  The time at which the location was determined, relative to device boot
-  time.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a></td>
-  <td><a
-  href="sdk-for-android-explore-com-here-sdk-core-location#verticalAccuracyInMeters"
-  class="member-name-link"><code>verticalAccuracyInMeters</code></a></td>
-  <td><div class="block">
-  Estimated vertical accuracy.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
 
   </div>
 
-- <div id="constructor-summary" class="section constructor-summary">
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#bearingAccuracyInDegrees"
+  class="member-name-link"><code>bearingAccuracyInDegrees</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Estimated bearing accuracy for this location, in degrees.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#bearingInDegrees"
+  class="member-name-link"><code>bearingInDegrees</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Bearing (also known as course) is the device's horizontal direction of
+  travel.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-location#coordinates"
+  class="member-name-link"><code>coordinates</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The geographic coordinates of the location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-location#gnssTime"
+  class="member-name-link"><code>gnssTime</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional gnss time at which the location was determined.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#horizontalAccuracyInMeters"
+  class="member-name-link"><code>horizontalAccuracyInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The estimated horizontal accuracy.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`LocationTechnology`](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#locationTechnology"
+  class="member-name-link"><code>locationTechnology</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional technology or provider of this location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#pitchInDegrees"
+  class="member-name-link"><code>pitchInDegrees</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Pitch of this location, in degrees.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`LocationSource`](sdk-for-android-explore-com-here-sdk-core-locationsource "enum class in com.here.sdk.core")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-location#source"
+  class="member-name-link"><code>source</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Optional source of this location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#speedAccuracyInMetersPerSecond"
+  class="member-name-link"><code>speedAccuracyInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Estimated speed accuracy of this location, in meters per second.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#speedInMetersPerSecond"
+  class="member-name-link"><code>speedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Current speed of the device.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-explore-com-here-sdk-core-location#time"
+  class="member-name-link"><code>time</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The time at which the location was determined.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#timestampSinceBoot"
+  class="member-name-link"><code>timestampSinceBoot</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The time at which the location was determined, relative to device boot
+  time.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-location#verticalAccuracyInMeters"
+  class="member-name-link"><code>verticalAccuracyInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Estimated vertical accuracy.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-constructor-summary"
+  class="section constructor-summary">
 
   <div class="caption">
 
@@ -219,70 +414,101 @@ Describes a location in the world at a given time.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Constructor</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><pre><code>Location(GeoCoordinates coordinates)</code></pre></td>
-  <td><div class="block">
-  Creates a new Location instance from the provided GeoCoordinates value.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="table-header col-last">
 
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Instance Methods
-  Concrete Methods
+  Description
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  <div class="col-constructor-name even-row-color">
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>boolean</code></td>
-  <td><pre><code>equals(Object obj)</code></pre></td>
-  <td> </td>
-  </tr>
-  <tr>
-  <td><code>int</code></td>
-  <td><pre><code>hashCode()</code></pre></td>
-  <td> </td>
-  </tr>
-  </tbody>
-  </table>
+      Location(GeoCoordinates coordinates)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new Location instance from the provided GeoCoordinates
+  value.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals(Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
 
   </div>
 
@@ -331,9 +557,11 @@ Describes a location in the world at a given time.
 
 <div class="section details">
 
-- <div id="field-detail" class="section field-details">
+- <div id="sdk-for-android-explore-field-detail"
+  class="section field-details">
 
-  - <div id="coordinates" class="section detail">
+  - <div id="sdk-for-android-explore-coordinates"
+    class="section detail">
 
     ### coordinates
 
@@ -352,7 +580,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="bearingInDegrees" class="section detail">
+  - <div id="sdk-for-android-explore-bearingInDegrees"
+    class="section detail">
 
     ### bearingInDegrees
 
@@ -379,7 +608,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="speedInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-speedInMetersPerSecond"
+    class="section detail">
 
     ### speedInMetersPerSecond
 
@@ -401,7 +631,7 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="time" class="section detail">
+  - <div id="sdk-for-android-explore-time" class="section detail">
 
     ### time
 
@@ -422,7 +652,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="horizontalAccuracyInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-horizontalAccuracyInMeters"
+    class="section detail">
 
     ### horizontalAccuracyInMeters
 
@@ -444,7 +675,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="verticalAccuracyInMeters" class="section detail">
+  - <div id="sdk-for-android-explore-verticalAccuracyInMeters"
+    class="section detail">
 
     ### verticalAccuracyInMeters
 
@@ -470,7 +702,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="bearingAccuracyInDegrees" class="section detail">
+  - <div id="sdk-for-android-explore-bearingAccuracyInDegrees"
+    class="section detail">
 
     ### bearingAccuracyInDegrees
 
@@ -492,7 +725,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="speedAccuracyInMetersPerSecond" class="section detail">
+  - <div id="sdk-for-android-explore-speedAccuracyInMetersPerSecond"
+    class="section detail">
 
     ### speedAccuracyInMetersPerSecond
 
@@ -514,7 +748,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="timestampSinceBoot" class="section detail">
+  - <div id="sdk-for-android-explore-timestampSinceBoot"
+    class="section detail">
 
     ### timestampSinceBoot
 
@@ -537,7 +772,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="locationTechnology" class="section detail">
+  - <div id="sdk-for-android-explore-locationTechnology"
+    class="section detail">
 
     ### locationTechnology
 
@@ -557,7 +793,7 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="source" class="section detail">
+  - <div id="sdk-for-android-explore-source" class="section detail">
 
     ### source
 
@@ -577,7 +813,7 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="gnssTime" class="section detail">
+  - <div id="sdk-for-android-explore-gnssTime" class="section detail">
 
     ### gnssTime
 
@@ -598,7 +834,8 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="pitchInDegrees" class="section detail">
+  - <div id="sdk-for-android-explore-pitchInDegrees"
+    class="section detail">
 
     ### pitchInDegrees
 
@@ -622,9 +859,10 @@ Describes a location in the world at a given time.
 
   </div>
 
-- <div id="constructor-detail" class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail"
+  class="section constructor-details">
 
-  - <div id="<init>(com.here.sdk.core.GeoCoordinates)"
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Location
@@ -653,9 +891,11 @@ Describes a location in the world at a given time.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="equals(java.lang.Object)" class="section detail">
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+    class="section detail">
 
     ### equals
 
@@ -679,7 +919,7 @@ Describes a location in the world at a given time.
 
     </div>
 
-  - <div id="hashCode()" class="section detail">
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportmode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<TransportMode>com.here.sdk.transport.TransportMode →
+java.lang.Enum\<TransportMode\>com.here.sdk.transport.TransportMode →
 java.lang.Enum → TransportMode → com.here.sdk.transport.TransportMode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TransportMode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -52,7 +53,8 @@ Specifies the mode of transport used for route calculalation.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -74,7 +76,8 @@ Specifies the mode of transport used for route calculalation.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -82,146 +85,256 @@ Specifies the mode of transport used for route calculalation.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#BICYCLE"
-  class="member-name-link"><code>BICYCLE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BICYCLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route calculation for bicycles.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#BUS"
-  class="member-name-link"><code>BUS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>BUS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Route calculation for buses.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR"
-  class="member-name-link"><code>CAR</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAR</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The calculated route is optimized for cars.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#PEDESTRIAN"
-  class="member-name-link"><code>PEDESTRIAN</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PEDESTRIAN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The calculated route is optimized for pedestrians.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#PRIVATE_BUS"
-  class="member-name-link"><code>PRIVATE_BUS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PRIVATE_BUS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Route calculation for private buses.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#PUBLIC_TRANSIT"
-  class="member-name-link"><code>PUBLIC_TRANSIT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PUBLIC_TRANSIT</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The calculated route is optimized for public transit.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER"
-  class="member-name-link"><code>SCOOTER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SCOOTER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The calculated route is optimized for scooters.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TAXI"
-  class="member-name-link"><code>TAXI</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TAXI</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   The taxi transport mode takes into account tax restricted streets as
   well as streets reserved for exclusive taxi access.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>TRUCK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   The calculated route is optimized for trucks.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
-
-  <div id="method-summary-table">
-
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  </div>
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportmode"
-  title="enum class in com.here.sdk.transport"><code>TransportMode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-transport-transportmode"
-  title="enum class in com.here.sdk.transport"><code>TransportMode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -304,9 +417,10 @@ Specifies the mode of transport used for route calculalation.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="CAR" class="section detail">
+  - <div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -325,7 +439,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="TRUCK" class="section detail">
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -346,7 +460,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="PEDESTRIAN" class="section detail">
+  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -369,7 +483,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="SCOOTER" class="section detail">
+  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -388,7 +502,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="BICYCLE" class="section detail">
+  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -407,7 +521,8 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="PUBLIC_TRANSIT" class="section detail">
+  - <div id="sdk-for-android-explore-PUBLIC_TRANSIT"
+    class="section detail">
 
     ### PUBLIC_TRANSIT
 
@@ -429,7 +544,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="TAXI" class="section detail">
+  - <div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -455,7 +570,7 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="BUS" class="section detail">
+  - <div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -476,7 +591,8 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="PRIVATE_BUS" class="section detail">
+  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+    class="section detail">
 
     ### PRIVATE_BUS
 
@@ -499,9 +615,10 @@ Specifies the mode of transport used for route calculalation.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -525,7 +642,8 @@ Specifies the mode of transport used for route calculalation.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

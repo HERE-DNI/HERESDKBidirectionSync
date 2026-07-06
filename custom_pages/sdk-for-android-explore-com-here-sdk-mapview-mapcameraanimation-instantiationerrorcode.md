@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<MapCameraAnimation.InstantiationErrorCode>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
+java.lang.Enum\<MapCameraAnimation.InstantiationErrorCode\>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 → java.lang.Enum → MapCameraAnimation.InstantiationErrorCode →
 com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -44,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
 
 </div>
 
@@ -59,7 +60,8 @@ MapCameraAnimation .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -81,7 +83,8 @@ MapCameraAnimation .
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -89,246 +92,468 @@ MapCameraAnimation .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Camera's look-at distance is already modified by an earlier track that
   modifies camera's orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Camera's look-at distance is already modified by an earlier track that
   modifies camera's position.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Camera's look-at orientation is already modified by an earlier track
   that modifies camera's orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Camera's look-at orientation is already modified by an earlier track
   that modifies camera's position.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Camera's look-at target is already modified by an earlier track that
   modifies camera's orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Camera's look-at target is already modified by an earlier track that
   modifies camera's position.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
-  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Camera's orientation is already modified by an earlier track that
   modifies camera's look-at distance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Camera's orientation is already modified by an earlier track that
   modifies camera's look-at orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a></td>
-  <td><div class="block">
-  Camera's position is already modified by an earlier track that modifies
-  camera's look-at distance.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Camera's position is already modified by an earlier track that
+  modifies camera's look-at distance.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a></td>
-  <td><div class="block">
-  Camera's position is already modified by an earlier track that modifies
-  camera's look-at orientation.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Camera's position is already modified by an earlier track that
+  modifies camera's look-at orientation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</code></a></td>
-  <td><div class="block">
-  Camera's position is already modified by an earlier track that modifies
-  camera's look-at target.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Camera's position is already modified by an earlier track that
+  modifies camera's look-at target.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#EMPTY_TRACK_LIST"
-  class="member-name-link"><code>EMPTY_TRACK_LIST</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>EMPTY_TRACK_LIST</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   List of keyframe tracks is empty.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera field-of-view tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera focal length tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera look-at distance
   tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera look-at orientation
   tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</code></a></td>
-  <td><div class="block">
-  List of keyframe tracks contains multiple camera look-at target tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of keyframe tracks contains multiple camera look-at target
+  tracks.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_ORIENTATION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_ORIENTATION_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_ORIENTATION_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera orientation tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_POSITION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_POSITION_TRACKS</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MULTIPLE_CAMERA_POSITION_TRACKS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   List of keyframe tracks contains multiple camera position tracks.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</code></a></td>
-  <td><div class="block">
-  List of keyframe tracks contains multiple camera principal point tracks.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last odd-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  List of keyframe tracks contains multiple camera principal point
+  tracks.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode"
-  title="enum class in com.here.sdk.mapview"><code>MapCameraAnimation.InstantiationErrorCode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode"
-  title="enum class in com.here.sdk.mapview"><code>MapCameraAnimation.InstantiationErrorCode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -411,9 +636,11 @@ MapCameraAnimation .
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="EMPTY_TRACK_LIST" class="section detail">
+  - <div id="sdk-for-android-explore-EMPTY_TRACK_LIST"
+    class="section detail">
 
     ### EMPTY_TRACK_LIST
 
@@ -432,7 +659,8 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_POSITION_TRACKS" class="section detail">
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_POSITION_TRACKS"
+    class="section detail">
 
     ### MULTIPLE_CAMERA_POSITION_TRACKS
 
@@ -451,7 +679,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK
@@ -472,7 +700,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -493,7 +721,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -514,7 +742,8 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_ORIENTATION_TRACKS" class="section detail">
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_ORIENTATION_TRACKS"
+    class="section detail">
 
     ### MULTIPLE_CAMERA_ORIENTATION_TRACKS
 
@@ -533,7 +762,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -554,7 +783,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -575,7 +804,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS
@@ -596,7 +825,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -617,7 +846,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -638,7 +867,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS
@@ -659,7 +888,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -680,7 +909,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -701,7 +930,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS
@@ -722,7 +951,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -743,7 +972,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -764,7 +993,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS
@@ -785,7 +1014,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS
@@ -806,7 +1035,7 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS
@@ -829,9 +1058,10 @@ MapCameraAnimation .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -855,7 +1085,8 @@ MapCameraAnimation .
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

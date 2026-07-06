@@ -12,12 +12,13 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<EVSEPaymentSupport>com.here.sdk.ev.EVSEPaymentSupport →
+java.lang.Enum\<EVSEPaymentSupport\>com.here.sdk.ev.EVSEPaymentSupport →
 java.lang.Enum → EVSEPaymentSupport → com.here.sdk.ev.EVSEPaymentSupport
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -38,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSEPaymentSupport</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")\></span>
 
 </div>
 
@@ -55,7 +56,8 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -77,7 +79,8 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -85,217 +88,407 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#AUTH_BY_CAR_AUTOCHARGE"
-  class="member-name-link"><code>AUTH_BY_CAR_AUTOCHARGE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>AUTH_BY_CAR_AUTOCHARGE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Autocharge enables drivers to plug in and charge up instantly using
   automatic EV-to-charging station authentication technology.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#AUTH_BY_CAR_PLUG_AND_CHARGE"
-  class="member-name-link"><code>AUTH_BY_CAR_PLUG_AND_CHARGE</code></a></td>
-  <td><div class="block">
-  ISO 15118 Plug&amp;Charge enables drivers to plug in and charge up
+  class="member-name-link"><code>AUTH_BY_CAR_PLUG_AND_CHARGE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  ISO 15118 Plug&Charge enables drivers to plug in and charge up
   instantly using automatic EV-to-charging station authentication
   technology.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CHIP_CARD"
-  class="member-name-link"><code>CHIP_CARD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CHIP_CARD</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   EVSE has a payment terminal that supports chip cards.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CONTACTLESS_CARD"
-  class="member-name-link"><code>CONTACTLESS_CARD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CONTACTLESS_CARD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   EVSE has a payment terminal that supports contactless cards.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CREDIT_CARD"
-  class="member-name-link"><code>CREDIT_CARD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>CREDIT_CARD</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   EVSE has a payment terminal that makes it possible to pay for charging
   using a credit card.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#DEBIT_CARD"
-  class="member-name-link"><code>DEBIT_CARD</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>DEBIT_CARD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   EVSE has a payment terminal that makes it possible to pay for charging
   using a debit card.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#MOBILE_PAYMENT"
-  class="member-name-link"><code>MOBILE_PAYMENT</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>MOBILE_PAYMENT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Used with OPERATOR_APP , ONLINE_APPLE_PAY , ONLINE_PAYPAL ,
   ONLINE_CREDIT_CARD , ONLINE_GOOGLE_PAY , ONLINE_BANK_PAYMENT ,
   TERMINAL_SMS , TERMINAL_QR_CODE , and CONTACTLESS_CARD .
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_APPLE_PAY"
-  class="member-name-link"><code>ONLINE_APPLE_PAY</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with Apple Pay.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ONLINE_APPLE_PAY</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with Apple Pay.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_BANK_PAYMENT"
-  class="member-name-link"><code>ONLINE_BANK_PAYMENT</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with online bank payment.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ONLINE_BANK_PAYMENT</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with online bank payment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_CREDIT_CARD"
-  class="member-name-link"><code>ONLINE_CREDIT_CARD</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with credit card online.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ONLINE_CREDIT_CARD</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with credit card online.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_GOOGLE_PAY"
-  class="member-name-link"><code>ONLINE_GOOGLE_PAY</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with Google Pay.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ONLINE_GOOGLE_PAY</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with Google Pay.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_PAYPAL"
-  class="member-name-link"><code>ONLINE_PAYPAL</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with PayPal.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>ONLINE_PAYPAL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with PayPal.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#OPERATOR_APP"
-  class="member-name-link"><code>OPERATOR_APP</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with charge point operator application on mobile
+  class="member-name-link"><code>OPERATOR_APP</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Authenticate & pay with charge point operator application on mobile
   phone.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#PED_TERMINAL"
-  class="member-name-link"><code>PED_TERMINAL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>PED_TERMINAL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   EVSE has a payment terminal with a pin-code entry device.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#RFID_READER"
-  class="member-name-link"><code>RFID_READER</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>RFID_READER</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Charging at this EVSE can be authorized with an RFID token.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_QR_CODE"
-  class="member-name-link"><code>TERMINAL_QR_CODE</code></a></td>
-  <td><div class="block">
-  Initiate authentication &amp; payment with QR code on the terminal.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>TERMINAL_QR_CODE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Initiate authentication & payment with QR code on the terminal.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_SMS"
-  class="member-name-link"><code>TERMINAL_SMS</code></a></td>
-  <td><div class="block">
-  Authenticate &amp; pay with SMS on the terminal.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>TERMINAL_SMS</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last even-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  Authenticate & pay with SMS on the terminal.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
-  title="enum class in com.here.sdk.ev"><code>EVSEPaymentSupport</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEPaymentSupport`](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
-  title="enum class in com.here.sdk.ev"><code>EVSEPaymentSupport</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`EVSEPaymentSupport`](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -378,9 +571,10 @@ Related APIs may change for new releases without a deprecation process.
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="CHIP_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-CHIP_CARD" class="section detail">
 
     ### CHIP_CARD
 
@@ -399,7 +593,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="CONTACTLESS_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-CONTACTLESS_CARD"
+    class="section detail">
 
     ### CONTACTLESS_CARD
 
@@ -418,7 +613,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="CREDIT_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-CREDIT_CARD"
+    class="section detail">
 
     ### CREDIT_CARD
 
@@ -438,7 +634,7 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="DEBIT_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
 
     ### DEBIT_CARD
 
@@ -458,7 +654,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="PED_TERMINAL" class="section detail">
+  - <div id="sdk-for-android-explore-PED_TERMINAL"
+    class="section detail">
 
     ### PED_TERMINAL
 
@@ -477,7 +674,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="RFID_READER" class="section detail">
+  - <div id="sdk-for-android-explore-RFID_READER"
+    class="section detail">
 
     ### RFID_READER
 
@@ -496,7 +694,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="AUTH_BY_CAR_PLUG_AND_CHARGE" class="section detail">
+  - <div id="sdk-for-android-explore-AUTH_BY_CAR_PLUG_AND_CHARGE"
+    class="section detail">
 
     ### AUTH_BY_CAR_PLUG_AND_CHARGE
 
@@ -517,7 +716,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="AUTH_BY_CAR_AUTOCHARGE" class="section detail">
+  - <div id="sdk-for-android-explore-AUTH_BY_CAR_AUTOCHARGE"
+    class="section detail">
 
     ### AUTH_BY_CAR_AUTOCHARGE
 
@@ -537,7 +737,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="ONLINE_APPLE_PAY" class="section detail">
+  - <div id="sdk-for-android-explore-ONLINE_APPLE_PAY"
+    class="section detail">
 
     ### ONLINE_APPLE_PAY
 
@@ -556,7 +757,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="ONLINE_PAYPAL" class="section detail">
+  - <div id="sdk-for-android-explore-ONLINE_PAYPAL"
+    class="section detail">
 
     ### ONLINE_PAYPAL
 
@@ -575,7 +777,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="ONLINE_CREDIT_CARD" class="section detail">
+  - <div id="sdk-for-android-explore-ONLINE_CREDIT_CARD"
+    class="section detail">
 
     ### ONLINE_CREDIT_CARD
 
@@ -594,7 +797,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="ONLINE_GOOGLE_PAY" class="section detail">
+  - <div id="sdk-for-android-explore-ONLINE_GOOGLE_PAY"
+    class="section detail">
 
     ### ONLINE_GOOGLE_PAY
 
@@ -613,7 +817,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="ONLINE_BANK_PAYMENT" class="section detail">
+  - <div id="sdk-for-android-explore-ONLINE_BANK_PAYMENT"
+    class="section detail">
 
     ### ONLINE_BANK_PAYMENT
 
@@ -632,7 +837,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="TERMINAL_QR_CODE" class="section detail">
+  - <div id="sdk-for-android-explore-TERMINAL_QR_CODE"
+    class="section detail">
 
     ### TERMINAL_QR_CODE
 
@@ -651,7 +857,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="TERMINAL_SMS" class="section detail">
+  - <div id="sdk-for-android-explore-TERMINAL_SMS"
+    class="section detail">
 
     ### TERMINAL_SMS
 
@@ -670,7 +877,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="OPERATOR_APP" class="section detail">
+  - <div id="sdk-for-android-explore-OPERATOR_APP"
+    class="section detail">
 
     ### OPERATOR_APP
 
@@ -690,7 +898,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="MOBILE_PAYMENT" class="section detail">
+  - <div id="sdk-for-android-explore-MOBILE_PAYMENT"
+    class="section detail">
 
     ### MOBILE_PAYMENT
 
@@ -715,9 +924,10 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -741,7 +951,8 @@ Related APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 

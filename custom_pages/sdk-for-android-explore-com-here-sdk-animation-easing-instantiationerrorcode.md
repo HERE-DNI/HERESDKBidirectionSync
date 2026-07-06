@@ -12,13 +12,14 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorc
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum<Easing.InstantiationErrorCode>com.here.sdk.animation.Easing.InstantiationErrorCode
+java.lang.Enum\<Easing.InstantiationErrorCode\>com.here.sdk.animation.Easing.InstantiationErrorCode
 → java.lang.Enum → Easing.InstantiationErrorCode →
 com.here.sdk.animation.Easing.InstantiationErrorCode
 
 </div>
 
-<div id="class-description" class="section class-description">
+<div id="sdk-for-android-explore-class-description"
+class="section class-description">
 
 All Implemented Interfaces:  
 <a
@@ -44,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">Easing.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a><[Easing.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[Easing.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")\></span>
 
 </div>
 
@@ -58,7 +59,8 @@ Describes a reason for failing to create an Easing .
 
 <div class="section summary">
 
-- <div id="nested-class-summary" class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary"
+  class="section nested-class-summary">
 
   <div class="inherited-list">
 
@@ -80,7 +82,8 @@ Describes a reason for failing to create an Easing .
 
   </div>
 
-- <div id="enum-constant-summary" class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary"
+  class="section constants-summary">
 
   <div class="caption">
 
@@ -88,118 +91,188 @@ Describes a reason for failing to create an Easing .
 
   </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Enum Constant</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><a
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINT_COUNT_TOO_SMALL"
-  class="member-name-link"><code>SAMPLED_DATA_POINT_COUNT_TOO_SMALL</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SAMPLED_DATA_POINT_COUNT_TOO_SMALL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Number of sampled data points in the list that defines an easing
   function is too small (i.e.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID"
-  class="member-name-link"><code>SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</code></a></td>
-  <td><div class="block">
-  Invalid first value of X in the list of sampled data points that define
-  an easing function.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  class="member-name-link"><code>SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Invalid first value of X in the list of sampled data points that
+  define an easing function.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID"
-  class="member-name-link"><code>SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
   Invalid last value of X in the list of sampled data points that define
   an easing function.
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE"
-  class="member-name-link"><code>SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</code></a></td>
-  <td><div class="block">
+  class="member-name-link"><code>SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
   Sampled data point X values that define an easing function are out of
-  range [0, 1].
-  </div></td>
-  </tr>
-  <tr>
-  <td><a
+  range \[0, 1\].
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a
   href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUES_NON_MONOTONIC"
-  class="member-name-link"><code>SAMPLED_DATA_X_VALUES_NON_MONOTONIC</code></a></td>
-  <td><div class="block">
-  Sampled data point X values in the list that defines an easing function
-  don't increase monotonically.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+  class="member-name-link"><code>SAMPLED_DATA_X_VALUES_NON_MONOTONIC</code></a>
 
   </div>
 
-- <div id="method-summary" class="section method-summary">
+  <div class="col-last even-row-color">
 
-  <div id="method-summary-table">
+  <div class="block">
 
-  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
-
-  All Methods
-  Static Methods
-  Concrete Methods
+  Sampled data point X values in the list that defines an easing
+  function don't increase monotonically.
 
   </div>
 
-  <div id="method-summary-table.tabpanel"
-  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+  </div>
 
-  <table>
-  <colgroup>
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  <col style="width: 33%" />
-  </colgroup>
-  <thead>
-  <tr>
-  <th>Modifier and Type</th>
-  <th>Method</th>
-  <th>Description</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation"><code>Easing.InstantiationErrorCode</code></a></td>
-  <td><pre><code>valueOf(String name)</code></pre></td>
-  <td><div class="block">
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-explore-method-summary"
+  class="section method-summary">
+
+  <div id="sdk-for-android-explore-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Easing.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf(String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns the enum constant of this class with the specified name.
-  </div></td>
-  </tr>
-  <tr>
-  <td><code>static </code><a
-  href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode"
-  title="enum class in com.here.sdk.animation"><code>Easing.InstantiationErrorCode</code></a><code>[]</code></td>
-  <td><pre><code>values()</code></pre></td>
-  <td><div class="block">
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `[`Easing.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
   Returns an array containing the constants of this enum class, in the
   order they are declared.
-  </div></td>
-  </tr>
-  </tbody>
-  </table>
+
+  </div>
+
+  </div>
 
   </div>
 
@@ -282,9 +355,11 @@ Describes a reason for failing to create an Easing .
 
 <div class="section details">
 
-- <div id="enum-constant-detail" class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail"
+  class="section constant-details">
 
-  - <div id="SAMPLED_DATA_POINT_COUNT_TOO_SMALL" class="section detail">
+  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINT_COUNT_TOO_SMALL"
+    class="section detail">
 
     ### SAMPLED_DATA_POINT_COUNT_TOO_SMALL
 
@@ -304,7 +379,7 @@ Describes a reason for failing to create an Easing .
 
     </div>
 
-  - <div id="SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID"
+  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID"
     class="section detail">
 
     ### SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID
@@ -325,7 +400,7 @@ Describes a reason for failing to create an Easing .
 
     </div>
 
-  - <div id="SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID"
+  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID"
     class="section detail">
 
     ### SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID
@@ -346,7 +421,8 @@ Describes a reason for failing to create an Easing .
 
     </div>
 
-  - <div id="SAMPLED_DATA_X_VALUE_OUT_OF_RANGE" class="section detail">
+  - <div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUE_OUT_OF_RANGE"
+    class="section detail">
 
     ### SAMPLED_DATA_X_VALUE_OUT_OF_RANGE
 
@@ -366,7 +442,7 @@ Describes a reason for failing to create an Easing .
 
     </div>
 
-  - <div id="SAMPLED_DATA_X_VALUES_NON_MONOTONIC"
+  - <div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUES_NON_MONOTONIC"
     class="section detail">
 
     ### SAMPLED_DATA_X_VALUES_NON_MONOTONIC
@@ -389,9 +465,10 @@ Describes a reason for failing to create an Easing .
 
   </div>
 
-- <div id="method-detail" class="section method-details">
+- <div id="sdk-for-android-explore-method-detail"
+  class="section method-details">
 
-  - <div id="values()" class="section detail">
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -415,7 +492,8 @@ Describes a reason for failing to create an Easing .
 
     </div>
 
-  - <div id="valueOf(java.lang.String)" class="section detail">
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+    class="section detail">
 
     ### valueOf
 
