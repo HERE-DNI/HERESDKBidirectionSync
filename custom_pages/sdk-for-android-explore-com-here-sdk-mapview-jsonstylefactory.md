@@ -288,7 +288,6 @@ deprecation process.
 
     Throws:  
     [`JsonStyleFactory.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates failure to create
     [`Style`](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")

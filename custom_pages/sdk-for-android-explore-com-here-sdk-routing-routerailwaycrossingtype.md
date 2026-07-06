@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<RouteRailwayCrossingType\>com.here.sdk.routing.RouteRailwayCrossingType
+java.lang.Enum\<RouteRailwayCrossingType>com.here.sdk.routing.RouteRailwayCrossingType
 → java.lang.Enum → RouteRailwayCrossingType →
 com.here.sdk.routing.RouteRailwayCrossingType
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">RouteRailwayCrossingType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[RouteRailwayCrossingType](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[RouteRailwayCrossingType](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype "enum class in com.here.sdk.routing")></span>
 
 </div>
 

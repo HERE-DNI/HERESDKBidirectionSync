@@ -375,7 +375,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">rangeValues</span>
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">rangeValues</span>
 
     </div>
 
@@ -481,7 +481,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
+    title="class or interface in java.lang">Integer</a>> rangeValues)</span>
 
     </div>
 
@@ -510,7 +510,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    title="class or interface in java.lang">Integer</a>> rangeValues,
     @NonNull
     [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
 
@@ -545,7 +545,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    title="class or interface in java.lang">Integer</a>> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode)</span>
 
@@ -580,7 +580,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    title="class or interface in java.lang">Integer</a>> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode,
     @Nullable <a

@@ -208,7 +208,7 @@ Filter for the map content to be picked.
     <span class="modifiers">public</span> <span class="element-name">MapPickFilter</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")\> filter)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")> filter)</span>
 
     </div>
 

@@ -634,7 +634,7 @@ latitude of the northEastCorner .
     static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">containing</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> geoCoordinates)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> geoCoordinates)</span>
 
     </div>
 
@@ -699,7 +699,7 @@ latitude of the northEastCorner .
     static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">envelopeGeoBoxes</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")> geoBoxes)</span>
 
     </div>
 
@@ -759,7 +759,7 @@ latitude of the northEastCorner .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
     [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
 
     </div>
@@ -798,10 +798,10 @@ latitude of the northEastCorner .
     </span><span class="modifiers">public
     static</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")> geoBoxes)</span>
 
     </div>
 
@@ -936,7 +936,6 @@ latitude of the northEastCorner .
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Instantiation error.
 

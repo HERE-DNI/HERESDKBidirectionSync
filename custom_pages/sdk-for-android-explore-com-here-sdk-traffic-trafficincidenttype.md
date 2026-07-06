@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TrafficIncidentType\>com.here.sdk.traffic.TrafficIncidentType
+java.lang.Enum\<TrafficIncidentType>com.here.sdk.traffic.TrafficIncidentType
 → java.lang.Enum → TrafficIncidentType →
 com.here.sdk.traffic.TrafficIncidentType
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TrafficIncidentType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")></span>
 
 </div>
 

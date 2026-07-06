@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedve
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TrafficIncident.RestrictedVehicleCategory\>com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory
+java.lang.Enum\<TrafficIncident.RestrictedVehicleCategory>com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory
 → java.lang.Enum → TrafficIncident.RestrictedVehicleCategory →
 com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">TrafficIncident.RestrictedVehicleCategory</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")></span>
 
 </div>
 

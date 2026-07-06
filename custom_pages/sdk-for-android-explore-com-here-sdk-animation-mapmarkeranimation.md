@@ -252,7 +252,6 @@ An animation that can be applied to the MapMarker object.
 
     Throws:  
     [`MapMarkerAnimation.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception "class in com.here.sdk.animation")
-    -
 
     If the specified keyframe track cannot be used to create animation
     of a

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-err
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TranslucentMapLayerGroup.ErrorCode\>com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode
+java.lang.Enum\<TranslucentMapLayerGroup.ErrorCode>com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode
 → java.lang.Enum → TranslucentMapLayerGroup.ErrorCode →
 com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">TranslucentMapLayerGroup.ErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TranslucentMapLayerGroup.ErrorCode](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TranslucentMapLayerGroup.ErrorCode](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

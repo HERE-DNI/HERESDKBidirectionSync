@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TollOptions.EmissionType\>com.here.sdk.routing.TollOptions.EmissionType
+java.lang.Enum\<TollOptions.EmissionType>com.here.sdk.routing.TollOptions.EmissionType
 → java.lang.Enum → TollOptions.EmissionType →
 com.here.sdk.routing.TollOptions.EmissionType
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">TollOptions.EmissionType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TollOptions.EmissionType](sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TollOptions.EmissionType](sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype "enum class in com.here.sdk.routing")></span>
 
 </div>
 

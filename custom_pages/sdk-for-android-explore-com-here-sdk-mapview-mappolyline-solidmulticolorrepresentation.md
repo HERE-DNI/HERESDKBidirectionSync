@@ -285,15 +285,15 @@ deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors,
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors,
     double gradientLength)</span> throws
     <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -373,7 +373,6 @@ deprecation process.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 
@@ -398,15 +397,15 @@ deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors,
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors,
     double gradientLength)</span> throws
     <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -497,7 +496,6 @@ deprecation process.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 
@@ -520,15 +518,15 @@ deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> colorStops,
+    class="external-link" title="class or interface in java.lang">Double</a>> colorStops,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a>\> colorIndices,
+    class="external-link" title="class or interface in java.lang">Long</a>> colorIndices,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")\> colors)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")> colors)</span>
 
     </div>
 

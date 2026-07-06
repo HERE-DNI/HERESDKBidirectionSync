@@ -381,7 +381,7 @@ change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOpeningHoursSchedule](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule "class in com.here.sdk.search")\></span> <span class="element-name">regularSchedule</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOpeningHoursSchedule](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule "class in com.here.sdk.search")></span> <span class="element-name">regularSchedule</span>
 
     </div>
 
@@ -402,7 +402,7 @@ change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOpeningHoursException](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception "class in com.here.sdk.search")\></span> <span class="element-name">exceptions</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOpeningHoursException](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception "class in com.here.sdk.search")></span> <span class="element-name">exceptions</span>
 
     </div>
 

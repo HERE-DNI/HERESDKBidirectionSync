@@ -260,7 +260,7 @@ Signpost information.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[SignpostLabel](sdk-for-android-explore-com-here-sdk-routing-signpostlabel "class in com.here.sdk.routing")\></span> <span class="element-name">labels</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[SignpostLabel](sdk-for-android-explore-com-here-sdk-routing-signpostlabel "class in com.here.sdk.routing")></span> <span class="element-name">labels</span>
 
     </div>
 
@@ -287,7 +287,7 @@ Signpost information.
     <span class="modifiers">public</span> <span class="element-name">Signpost</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[SignpostLabel](sdk-for-android-explore-com-here-sdk-routing-signpostlabel "class in com.here.sdk.routing")\> labels)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[SignpostLabel](sdk-for-android-explore-com-here-sdk-routing-signpostlabel "class in com.here.sdk.routing")> labels)</span>
 
     </div>
 

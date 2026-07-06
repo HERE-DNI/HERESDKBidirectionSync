@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapContentCategory\>com.here.sdk.mapview.MapContentCategory
+java.lang.Enum\<MapContentCategory>com.here.sdk.mapview.MapContentCategory
 → java.lang.Enum → MapContentCategory →
 com.here.sdk.mapview.MapContentCategory
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">MapContentCategory</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

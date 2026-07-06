@@ -397,7 +397,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -451,7 +451,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -521,7 +521,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -595,7 +595,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -665,7 +665,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -739,7 +739,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -813,7 +813,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -887,7 +887,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -957,7 +957,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -1027,7 +1027,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -1097,7 +1097,7 @@ possible, though unlikely, deadlock on destruction.
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull

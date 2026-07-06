@@ -236,7 +236,7 @@ spread enough not to be grouped.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\></span> <span class="element-name">markers</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")></span> <span class="element-name">markers</span>
 
     </div>
 
@@ -283,7 +283,7 @@ spread enough not to be grouped.
     <span class="modifiers">public</span> <span class="element-name">Grouping</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers,
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers,
     @NonNull
     [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview") parent)</span>
 

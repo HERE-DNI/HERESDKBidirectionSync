@@ -1359,7 +1359,6 @@ licence.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -1392,7 +1391,6 @@ licence.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -1425,7 +1423,6 @@ licence.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -1464,7 +1461,6 @@ licence.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -2055,7 +2051,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -2133,10 +2129,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -2228,10 +2224,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -2319,10 +2315,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -2414,7 +2410,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -2496,7 +2492,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -2574,7 +2570,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -2656,7 +2652,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -2734,7 +2730,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -2816,7 +2812,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -2894,7 +2890,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -2972,7 +2968,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -3053,7 +3049,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -3131,10 +3127,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -3222,10 +3218,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -3313,10 +3309,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -3408,10 +3404,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -3499,10 +3495,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -3590,10 +3586,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -3684,10 +3680,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -3772,7 +3768,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -3832,10 +3828,10 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">importRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")\> locations,
+    class="external-link" title="class or interface in java.util">List</a>\<[Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")> locations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")\> routeStops,
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteStop](sdk-for-android-explore-com-here-sdk-routing-routestop "class in com.here.sdk.routing")> routeStops,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -4135,7 +4131,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -4193,7 +4189,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -4267,7 +4263,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -4345,7 +4341,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -4419,7 +4415,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -4497,7 +4493,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -4575,7 +4571,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -4653,7 +4649,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -4727,7 +4723,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -4801,7 +4797,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -4875,7 +4871,7 @@ licence.
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")> waypoints,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull

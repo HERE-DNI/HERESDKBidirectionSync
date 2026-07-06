@@ -113,7 +113,7 @@ at the same time - or not null at the same time.
     [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")> places)</span>
 
     </div>
 

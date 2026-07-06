@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-countrycode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<CountryCode\>com.here.sdk.core.CountryCode →
+java.lang.Enum\<CountryCode>com.here.sdk.core.CountryCode →
 java.lang.Enum → CountryCode → com.here.sdk.core.CountryCode
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">CountryCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")></span>
 
 </div>
 

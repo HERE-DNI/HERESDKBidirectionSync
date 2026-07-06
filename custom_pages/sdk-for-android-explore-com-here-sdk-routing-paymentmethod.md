@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-paymentmethod"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<PaymentMethod\>com.here.sdk.routing.PaymentMethod →
+java.lang.Enum\<PaymentMethod>com.here.sdk.routing.PaymentMethod →
 java.lang.Enum → PaymentMethod → com.here.sdk.routing.PaymentMethod
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">PaymentMethod</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")></span>
 
 </div>
 

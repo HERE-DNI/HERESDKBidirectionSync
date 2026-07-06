@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<ProxySettings.ProxyType\>com.here.sdk.core.engine.ProxySettings.ProxyType
+java.lang.Enum\<ProxySettings.ProxyType>com.here.sdk.core.engine.ProxySettings.ProxyType
 → java.lang.Enum → ProxySettings.ProxyType →
 com.here.sdk.core.engine.ProxySettings.ProxyType
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">ProxySettings.ProxyType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[ProxySettings.ProxyType](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[ProxySettings.ProxyType](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine")></span>
 
 </div>
 

@@ -235,7 +235,7 @@ the Navigate licence.
 
     <div class="block">
 
-    Index of location, used for route stop. Index should be \>= 1, which
+    Index of location, used for route stop. Index should be >= 1, which
     prevents user from using origin location as route stop.
 
     </div>
@@ -287,7 +287,7 @@ the Navigate licence.
     Parameters:  
     `locationIndex` -
 
-    Index of location, used for route stop. Index should be \>= 1, which
+    Index of location, used for route stop. Index should be >= 1, which
     prevents user from using origin location as route stop.
 
     </div>

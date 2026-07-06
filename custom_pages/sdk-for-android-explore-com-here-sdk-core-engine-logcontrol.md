@@ -419,7 +419,6 @@ have an unexpected performance impact if called not at the right time.
 
     Throws:  
     [`LogControl.InvalidPathException`](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine")
-    -
 
     [`LogControl.InvalidPathException`](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine")
     Indicates that the file path is invalid or not writeable.

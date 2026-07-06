@@ -318,7 +318,7 @@ APIs may change for new releases without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")\></span> <span class="element-name">networkStats</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")></span> <span class="element-name">networkStats</span>
 
     </div>
 
@@ -365,7 +365,7 @@ APIs may change for new releases without a deprecation process.
     <span class="modifiers">public</span> <span class="element-name">UsageStats</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")\> networkStats,
+    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")> networkStats,
     @NonNull
     [UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine") feature)</span>
 

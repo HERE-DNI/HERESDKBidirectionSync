@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-imageformat"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<ImageFormat\>com.here.sdk.mapview.ImageFormat →
+java.lang.Enum\<ImageFormat>com.here.sdk.mapview.ImageFormat →
 java.lang.Enum → ImageFormat → com.here.sdk.mapview.ImageFormat
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">ImageFormat</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[ImageFormat](sdk-for-android-explore-com-here-sdk-mapview-imageformat "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[ImageFormat](sdk-for-android-explore-com-here-sdk-mapview-imageformat "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

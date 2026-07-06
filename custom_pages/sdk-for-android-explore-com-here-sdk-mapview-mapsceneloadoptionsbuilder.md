@@ -529,7 +529,7 @@ without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> enabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> enabledFeatures)</span>
 
     </div>
 
@@ -562,7 +562,7 @@ without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> disabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> disabledFeatures)</span>
 
     </div>
 
@@ -665,7 +665,6 @@ without a deprecation process.
 
     Throws:  
     [`MapSceneLoadOptionsBuilder.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 

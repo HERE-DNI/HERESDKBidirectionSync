@@ -643,7 +643,7 @@ deprecation process.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">tariffIndexes</span>
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">tariffIndexes</span>
 
     </div>
 

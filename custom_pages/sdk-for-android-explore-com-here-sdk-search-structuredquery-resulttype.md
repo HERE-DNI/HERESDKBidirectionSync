@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<StructuredQuery.ResultType\>com.here.sdk.search.StructuredQuery.ResultType
+java.lang.Enum\<StructuredQuery.ResultType>com.here.sdk.search.StructuredQuery.ResultType
 → java.lang.Enum → StructuredQuery.ResultType →
 com.here.sdk.search.StructuredQuery.ResultType
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">StructuredQuery.ResultType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[StructuredQuery.ResultType](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[StructuredQuery.ResultType](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")></span>
 
 </div>
 

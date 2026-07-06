@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TollOptions.VehicleCategory\>com.here.sdk.routing.TollOptions.VehicleCategory
+java.lang.Enum\<TollOptions.VehicleCategory>com.here.sdk.routing.TollOptions.VehicleCategory
 → java.lang.Enum → TollOptions.VehicleCategory →
 com.here.sdk.routing.TollOptions.VehicleCategory
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">TollOptions.VehicleCategory</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TollOptions.VehicleCategory](sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TollOptions.VehicleCategory](sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory "enum class in com.here.sdk.routing")></span>
 
 </div>
 

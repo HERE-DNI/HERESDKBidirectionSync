@@ -115,7 +115,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
     [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> result)</span>
 
     </div>
 

@@ -357,7 +357,7 @@ Related APIs may change for new releases without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[PolygonDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPolygons</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")\> polygon)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")> polygon)</span>
 
     </div>
 

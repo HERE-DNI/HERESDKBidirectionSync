@@ -336,7 +336,7 @@ Options used for initialization of map view
     Initial loading background color that will be shown between
     rendering the first frame without a scene loaded and before
     rendering the first frame after a scene is loaded.If not set, it
-    will default to \#D3D3D3. Alpha value gets ignored and is assumed as
+    will default to #D3D3D3. Alpha value gets ignored and is assumed as
     1.0.
 
     </div>

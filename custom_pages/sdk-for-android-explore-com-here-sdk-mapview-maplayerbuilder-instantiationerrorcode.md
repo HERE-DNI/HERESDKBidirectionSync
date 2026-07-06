@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiatio
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapLayerBuilder.InstantiationErrorCode\>com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode
+java.lang.Enum\<MapLayerBuilder.InstantiationErrorCode>com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode
 → java.lang.Enum → MapLayerBuilder.InstantiationErrorCode →
 com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapLayerBuilder.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapLayerBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapLayerBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

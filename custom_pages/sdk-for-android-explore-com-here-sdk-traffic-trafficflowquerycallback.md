@@ -124,7 +124,7 @@ success. It is null in case of an error.
     [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")\> result)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")> result)</span>
 
     </div>
 

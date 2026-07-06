@@ -1006,7 +1006,7 @@ SDKNativeEngine .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")\></span> <span class="element-name">catalogConfigurations</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")></span> <span class="element-name">catalogConfigurations</span>
 
     </div>
 
@@ -1072,7 +1072,7 @@ SDKNativeEngine .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")\></span> <span class="element-name">customEngineOptions</span>
+    class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")></span> <span class="element-name">customEngineOptions</span>
 
     </div>
 

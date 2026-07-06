@@ -401,7 +401,7 @@ determines the preferred language of the results.
     </span><span class="modifiers">public
     final</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")></span> <span class="element-name">countries</span>
 
     </div>
 
@@ -469,7 +469,7 @@ determines the preferred language of the results.
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\> countries)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")> countries)</span>
 
     </div>
 

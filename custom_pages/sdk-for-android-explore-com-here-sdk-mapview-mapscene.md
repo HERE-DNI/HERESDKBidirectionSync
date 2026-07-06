@@ -1343,7 +1343,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")> mapPolylines)</span>
 
     </div>
 
@@ -1402,7 +1402,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")> mapPolylines)</span>
 
     </div>
 
@@ -1532,7 +1532,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
 
     </div>
 
@@ -1595,7 +1595,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
 
     </div>
 
@@ -1730,7 +1730,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers3d</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")> markers)</span>
 
     </div>
 
@@ -1791,7 +1791,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers3d</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")> markers)</span>
 
     </div>
 
@@ -1870,7 +1870,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")> mapPolygons)</span>
 
     </div>
 
@@ -1929,7 +1929,7 @@ need to be added to the map.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygons</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")> mapPolygons)</span>
 
     </div>
 
@@ -2085,7 +2085,7 @@ need to be added to the map.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">getActiveFeatures</span>()
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">getActiveFeatures</span>()
 
     </div>
 
@@ -2121,7 +2121,7 @@ need to be added to the map.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\>\></span> <span class="element-name">getSupportedFeatures</span>()
+    class="external-link" title="class or interface in java.lang">String</a>>></span> <span class="element-name">getSupportedFeatures</span>()
 
     </div>
 
@@ -2153,7 +2153,7 @@ need to be added to the map.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> features)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> features)</span>
 
     </div>
 
@@ -2191,7 +2191,7 @@ need to be added to the map.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> features)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> features)</span>
 
     </div>
 

@@ -274,7 +274,7 @@ Configuration update for a RasterDataSource.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">providerHeaders</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">providerHeaders</span>
 
     </div>
 
@@ -354,7 +354,7 @@ Configuration update for a RasterDataSource.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> providerHeaders,
+    class="external-link" title="class or interface in java.lang">String</a>> providerHeaders,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
     class="external-link"

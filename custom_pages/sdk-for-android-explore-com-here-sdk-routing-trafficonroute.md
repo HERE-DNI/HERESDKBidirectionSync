@@ -352,7 +352,7 @@ portion of the route is omitted.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficOnSection](sdk-for-android-explore-com-here-sdk-routing-trafficonsection "class in com.here.sdk.routing")\></span> <span class="element-name">trafficSections</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficOnSection](sdk-for-android-explore-com-here-sdk-routing-trafficonsection "class in com.here.sdk.routing")></span> <span class="element-name">trafficSections</span>
 
     </div>
 

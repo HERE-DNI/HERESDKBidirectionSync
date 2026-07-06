@@ -337,7 +337,7 @@ prioritization.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">high</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">high</span>
 
     </div>
 
@@ -361,7 +361,7 @@ prioritization.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">medium</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">medium</span>
 
     </div>
 
@@ -385,7 +385,7 @@ prioritization.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">low</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">low</span>
 
     </div>
 

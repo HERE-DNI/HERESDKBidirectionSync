@@ -347,7 +347,7 @@ Represents opening hours information.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">text</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">text</span>
 
     </div>
 
@@ -390,7 +390,7 @@ Represents opening hours information.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")\></span> <span class="element-name">scheduleDetailsList</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")></span> <span class="element-name">scheduleDetailsList</span>
 
     </div>
 
@@ -411,7 +411,7 @@ Represents opening hours information.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -441,13 +441,13 @@ Represents opening hours information.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> text,
+    class="external-link" title="class or interface in java.lang">String</a>> text,
     boolean isOpen, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")\> scheduleDetailsList,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")> scheduleDetailsList,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories)</span>
 
     </div>
 

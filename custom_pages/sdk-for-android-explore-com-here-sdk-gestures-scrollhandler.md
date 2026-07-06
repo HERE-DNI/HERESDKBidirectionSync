@@ -164,12 +164,12 @@ This class handles scroll events by panning the map accordingly.
     Parameters:  
     `translationX` -
 
-    Translation along x axis in pixels. Values \> 0 are interpreted as
+    Translation along x axis in pixels. Values > 0 are interpreted as
     translation left and values \< 0 as translation right.
 
     `translationY` -
 
-    Translation along y axis in pixels. Values \> 0 are interpreted as
+    Translation along y axis in pixels. Values > 0 are interpreted as
     translation up and values \< 0 as translation down.
 
     </div>

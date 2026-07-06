@@ -72,7 +72,7 @@ distance , zoom-level and scale determine how much of the world is
 visible on the HERE map. Distance , zoom-level and scale are directly
 connected and changing one will automatically change the others as well
 (except for distance / scale changes that map to zoom-level values \< 0
-or \> 23). distance : the distance from the camera to the look-at target
+or > 23). distance : the distance from the camera to the look-at target
 on the surface of the Earth, in meters zoom-level : the map zoom level,
 in the range \[0, 3\]. The relation between the width of the equator in
 logical pixels w and the zoom level z is: w = 256 \* 2^(z) scale : the
@@ -890,7 +890,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")\> configs)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")> configs)</span>
 
     </div>
 
@@ -903,9 +903,9 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     minDistance1, t) Effective far plane for the current frame is:
     farPlaneInMeters = max( minDistance(z), distanceToTargetInMeters \*
     distanceFactor(z) ) Sample Configuration (balanced
-    quality/performance, tune per zoom level): 14.4 -\>
-    FarPlaneConfiguration(1.3) 18.34 -\> FarPlaneConfiguration(2.0)
-    19.60 -\> FarPlaneConfiguration(1.3) minDistanceInMeters remains
+    quality/performance, tune per zoom level): 14.4 ->
+    FarPlaneConfiguration(1.3) 18.34 -> FarPlaneConfiguration(2.0)
+    19.60 -> FarPlaneConfiguration(1.3) minDistanceInMeters remains
     default in this case. Passing an empty map clears the per-zoom
     override and restores the default behavior. Non-finite zoom levels
     or values are ignored. Distance factors are clamped to 0.1 to 10.0.
@@ -1588,8 +1588,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     target coordinates at the new principal point. By default, the
     principal point is located at the center of the map view. It is set
     in pixels relative to the map view's origin top-left (0, 0). Values
-    outside the map view's dimensions (x \< 0 \|\| x \> width, y \< 0
-    \|\| y \> height) will be rejected silently and the current
+    outside the map view's dimensions (x \< 0 \|\| x > width, y \< 0
+    \|\| y > height) will be rejected silently and the current
     principal point is kept. The value of the principal point is
     adjusted when the dimensions of the map view change, so that it
     stays in the same point relative to width and height. Meaning that

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabeltype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<RouteLabelType\>com.here.sdk.routing.RouteLabelType →
+java.lang.Enum\<RouteLabelType>com.here.sdk.routing.RouteLabelType →
 java.lang.Enum → RouteLabelType → com.here.sdk.routing.RouteLabelType
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">RouteLabelType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[RouteLabelType](sdk-for-android-explore-com-here-sdk-routing-routelabeltype "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[RouteLabelType](sdk-for-android-explore-com-here-sdk-routing-routelabeltype "enum class in com.here.sdk.routing")></span>
 
 </div>
 

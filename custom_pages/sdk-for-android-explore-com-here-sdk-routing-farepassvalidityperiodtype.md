@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<FarePassValidityPeriodType\>com.here.sdk.routing.FarePassValidityPeriodType
+java.lang.Enum\<FarePassValidityPeriodType>com.here.sdk.routing.FarePassValidityPeriodType
 → java.lang.Enum → FarePassValidityPeriodType →
 com.here.sdk.routing.FarePassValidityPeriodType
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">FarePassValidityPeriodType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[FarePassValidityPeriodType](sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FarePassValidityPeriodType](sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype "enum class in com.here.sdk.routing")></span>
 
 </div>
 

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-powertype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<PowerType\>com.here.sdk.core.PowerType → java.lang.Enum
+java.lang.Enum\<PowerType>com.here.sdk.core.PowerType → java.lang.Enum
 → PowerType → com.here.sdk.core.PowerType
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">PowerType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")></span>
 
 </div>
 

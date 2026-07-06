@@ -235,7 +235,6 @@ that can be used with other HERE services.
 
     Throws:  
     [`AuthenticationException`](sdk-for-android-explore-com-here-sdk-core-authenticationexception "class in com.here.sdk.core")
-    -
 
     Authentication exception that describes the error.
 

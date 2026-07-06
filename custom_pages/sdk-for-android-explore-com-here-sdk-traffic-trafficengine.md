@@ -382,7 +382,6 @@ SDKNativeEngine.getPassThroughFeatures()
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -415,7 +414,6 @@ SDKNativeEngine.getPassThroughFeatures()
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 

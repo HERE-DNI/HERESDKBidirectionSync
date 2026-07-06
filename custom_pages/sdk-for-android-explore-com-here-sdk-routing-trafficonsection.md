@@ -364,7 +364,7 @@ Traffic information on a section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">geometry</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")></span> <span class="element-name">geometry</span>
 
     </div>
 
@@ -386,7 +386,7 @@ Traffic information on a section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficOnSpan](sdk-for-android-explore-com-here-sdk-routing-trafficonspan "class in com.here.sdk.routing")\></span> <span class="element-name">trafficSpans</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficOnSpan](sdk-for-android-explore-com-here-sdk-routing-trafficonspan "class in com.here.sdk.routing")></span> <span class="element-name">trafficSpans</span>
 
     </div>
 
@@ -408,7 +408,7 @@ Traffic information on a section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")\></span> <span class="element-name">trafficIncidents</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")></span> <span class="element-name">trafficIncidents</span>
 
     </div>
 

@@ -327,7 +327,7 @@ Represents data related to specific landline phone number.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -377,7 +377,7 @@ Represents data related to specific landline phone number.
     class="external-link" title="class or interface in java.lang">String</a> phoneNumber,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")> categories)</span>
 
     </div>
 

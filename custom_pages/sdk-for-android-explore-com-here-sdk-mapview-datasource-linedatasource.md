@@ -353,7 +353,7 @@ deprecation process.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")\> lines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")> lines)</span>
 
     </div>
 

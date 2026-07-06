@@ -366,7 +366,7 @@ The options to specify how incidents should be queried.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\></span> <span class="element-name">typeFilter</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")></span> <span class="element-name">typeFilter</span>
 
     </div>
 
@@ -389,7 +389,7 @@ The options to specify how incidents should be queried.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")\></span> <span class="element-name">impactFilter</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")></span> <span class="element-name">impactFilter</span>
 
     </div>
 

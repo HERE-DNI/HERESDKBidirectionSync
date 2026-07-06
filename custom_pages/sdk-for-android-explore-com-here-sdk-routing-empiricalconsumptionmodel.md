@@ -436,7 +436,7 @@ deprecation process.
     class="external-link"
     title="class or interface in java.lang">Integer</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">freeFlowSpeedTable</span>
+    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">freeFlowSpeedTable</span>
 
     </div>
 
@@ -473,7 +473,7 @@ deprecation process.
     class="external-link"
     title="class or interface in java.lang">Integer</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">trafficSpeedTable</span>
+    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">trafficSpeedTable</span>
 
     </div>
 

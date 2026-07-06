@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-cardinaldirection"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<CardinalDirection\>com.here.sdk.core.CardinalDirection →
+java.lang.Enum\<CardinalDirection>com.here.sdk.core.CardinalDirection →
 java.lang.Enum → CardinalDirection → com.here.sdk.core.CardinalDirection
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">CardinalDirection</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[CardinalDirection](sdk-for-android-explore-com-here-sdk-core-cardinaldirection "enum class in com.here.sdk.core")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[CardinalDirection](sdk-for-android-explore-com-here-sdk-core-cardinaldirection "enum class in com.here.sdk.core")></span>
 
 </div>
 

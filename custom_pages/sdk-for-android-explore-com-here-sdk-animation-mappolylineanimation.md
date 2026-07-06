@@ -252,7 +252,6 @@ An animation that can be applied to the MapPolyline object.
 
     Throws:  
     [`MapPolylineAnimation.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception "class in com.here.sdk.animation")
-    -
 
     If the specified keyframe track cannot be used to create animation
     of a

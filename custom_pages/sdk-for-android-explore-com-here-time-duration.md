@@ -34,7 +34,7 @@ class="external-link" title="class or interface in java.lang">Object</a>
 implements <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
 class="external-link"
-title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")\></span>
+title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")></span>
 
 </div>
 

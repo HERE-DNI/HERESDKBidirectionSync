@@ -114,7 +114,7 @@ in case of an error.
     [RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing") routingError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")\> routeList)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")> routeList)</span>
 
     </div>
 

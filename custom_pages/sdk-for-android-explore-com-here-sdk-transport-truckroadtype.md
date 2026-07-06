@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-truckroadtype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TruckRoadType\>com.here.sdk.transport.TruckRoadType →
+java.lang.Enum\<TruckRoadType>com.here.sdk.transport.TruckRoadType →
 java.lang.Enum → TruckRoadType → com.here.sdk.transport.TruckRoadType
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TruckRoadType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")></span>
 
 </div>
 

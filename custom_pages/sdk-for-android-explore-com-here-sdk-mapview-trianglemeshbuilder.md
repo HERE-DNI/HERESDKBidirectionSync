@@ -175,7 +175,7 @@ Builder for a single triangle.
     <div class="block">
 
     Adds texture coordinates to a triangle. Coordinates are specified as
-    with \<0,0\> representing the bottom-left and \<1,1\> upper-right
+    with \<0,0> representing the bottom-left and \<1,1> upper-right
     corner.
 
     </div>

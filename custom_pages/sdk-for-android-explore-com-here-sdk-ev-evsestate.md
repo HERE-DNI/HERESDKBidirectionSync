@@ -11,7 +11,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsestate"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → java.lang.Enum\<EVSEState\>com.here.sdk.ev.EVSEState
+java.lang.Object → java.lang.Enum\<EVSEState>com.here.sdk.ev.EVSEState
 → java.lang.Enum → EVSEState → com.here.sdk.ev.EVSEState
 
 </div>
@@ -38,7 +38,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSEState</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")></span>
 
 </div>
 

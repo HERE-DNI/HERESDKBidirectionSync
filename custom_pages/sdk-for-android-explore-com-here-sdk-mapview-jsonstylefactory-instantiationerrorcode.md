@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<JsonStyleFactory.InstantiationErrorCode\>com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode
+java.lang.Enum\<JsonStyleFactory.InstantiationErrorCode>com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode
 → java.lang.Enum → JsonStyleFactory.InstantiationErrorCode →
 com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">JsonStyleFactory.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[JsonStyleFactory.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[JsonStyleFactory.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

@@ -404,7 +404,6 @@ along with the mesh to MapMarker3DModel constructor.
 
     Throws:  
     [`MapMarker3DModel.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -478,7 +477,6 @@ along with the mesh to MapMarker3DModel constructor.
 
     Throws:  
     [`MapMarker3DModel.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 

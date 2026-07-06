@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapMeasureDependentRenderSize.InstantiationErrorCode\>com.here.sdk.mapview.MapMeasureDependentRenderSize.InstantiationErrorCode
+java.lang.Enum\<MapMeasureDependentRenderSize.InstantiationErrorCode>com.here.sdk.mapview.MapMeasureDependentRenderSize.InstantiationErrorCode
 → java.lang.Enum → MapMeasureDependentRenderSize.InstantiationErrorCode
 →
 com.here.sdk.mapview.MapMeasureDependentRenderSize.InstantiationErrorCode
@@ -46,7 +46,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapMeasureDependentRenderSize.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMeasureDependentRenderSize.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMeasureDependentRenderSize.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

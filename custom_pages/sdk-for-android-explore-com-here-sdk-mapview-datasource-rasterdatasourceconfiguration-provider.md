@@ -387,7 +387,7 @@ Configuration of a data provider.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">storageLevels</span>
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">storageLevels</span>
 
     </div>
 
@@ -441,7 +441,7 @@ Configuration of a data provider.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">headers</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">headers</span>
 
     </div>
 
@@ -475,14 +475,14 @@ Configuration of a data provider.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> storageLevels,
+    title="class or interface in java.lang">Integer</a>> storageLevels,
     boolean hasAlphaChannel, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> headers)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> headers)</span>
 
     </div>
 
@@ -543,7 +543,7 @@ Configuration of a data provider.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\> storageLevels)</span>
+    title="class or interface in java.lang">Integer</a>> storageLevels)</span>
 
     </div>
 

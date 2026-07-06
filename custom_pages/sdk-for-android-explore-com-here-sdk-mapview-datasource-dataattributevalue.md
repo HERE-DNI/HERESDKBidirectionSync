@@ -699,7 +699,7 @@ new releases without a deprecation process.
     <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")> value)</span>
 
     </div>
 
@@ -900,7 +900,7 @@ new releases without a deprecation process.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\></span> <span class="element-name">getArray</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")></span> <span class="element-name">getArray</span>()
 
     </div>
 

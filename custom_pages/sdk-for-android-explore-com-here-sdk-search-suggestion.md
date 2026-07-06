@@ -284,7 +284,7 @@ focused search.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[HighlightType](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")\>\></span> <span class="element-name">getHighlights</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")>></span> <span class="element-name">getHighlights</span>()
 
     </div>
 

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<RenderSize.Unit\>com.here.sdk.mapview.RenderSize.Unit →
+java.lang.Enum\<RenderSize.Unit>com.here.sdk.mapview.RenderSize.Unit →
 java.lang.Enum → RenderSize.Unit → com.here.sdk.mapview.RenderSize.Unit
 
 </div>
@@ -44,7 +44,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">RenderSize.Unit</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

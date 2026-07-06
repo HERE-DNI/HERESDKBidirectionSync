@@ -466,7 +466,7 @@ Represents a render size, described as map measure dependent values.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">sizes</span>
+    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">sizes</span>
 
     </div>
 
@@ -503,7 +503,7 @@ Represents a render size, described as map measure dependent values.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> sizes)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>> sizes)</span>
     throws
     <span class="exceptions">[MapMeasureDependentRenderSize.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -532,7 +532,6 @@ Represents a render size, described as map measure dependent values.
 
     Throws:  
     [`MapMeasureDependentRenderSize.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Instantiation error if `sizes` map is empty or contains negative
     keys or values.
@@ -573,7 +572,6 @@ Represents a render size, described as map measure dependent values.
 
     Throws:  
     [`MapMeasureDependentRenderSize.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Instantiation error if `size` is negative.
 

@@ -361,7 +361,6 @@ for new releases without a deprecation process.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 
@@ -426,7 +425,6 @@ for new releases without a deprecation process.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 

@@ -512,7 +512,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getScalarKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getScalarKeyframes</span>()
 
     </div>
 
@@ -532,7 +532,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getPoint2DKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getPoint2DKeyframes</span>()
 
     </div>
 
@@ -552,7 +552,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getAnchor2DKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getAnchor2DKeyframes</span>()
 
     </div>
 
@@ -572,7 +572,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getGeoCoordinatesKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getGeoCoordinatesKeyframes</span>()
 
     </div>
 
@@ -592,7 +592,7 @@ single type.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")\></span> <span class="element-name">getGeoOrientationKeyframes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")></span> <span class="element-name">getGeoOrientationKeyframes</span>()
 
     </div>
 
@@ -617,7 +617,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtDistance</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -673,7 +673,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -692,7 +691,7 @@ single type.
     [MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview") distanceKind,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -740,7 +739,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -758,7 +756,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtTarget</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -800,7 +798,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -818,7 +815,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">lookAtOrientation</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -859,7 +856,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -877,7 +873,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">principalPoint</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -922,7 +918,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -940,7 +935,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">normalizedPrincipalPoint</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -986,7 +981,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -1004,7 +998,7 @@ single type.
     static</span> <span class="return-type">[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")</span> <span class="element-name">fieldOfView</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -1045,7 +1039,6 @@ single type.
 
     Throws:  
     [`MapCameraKeyframeTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 

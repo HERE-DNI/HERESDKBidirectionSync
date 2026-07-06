@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiati
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapMarker3DModel.InstantiationErrorCode\>com.here.sdk.mapview.MapMarker3DModel.InstantiationErrorCode
+java.lang.Enum\<MapMarker3DModel.InstantiationErrorCode>com.here.sdk.mapview.MapMarker3DModel.InstantiationErrorCode
 → java.lang.Enum → MapMarker3DModel.InstantiationErrorCode →
 com.here.sdk.mapview.MapMarker3DModel.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapMarker3DModel.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarker3DModel.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarker3DModel.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

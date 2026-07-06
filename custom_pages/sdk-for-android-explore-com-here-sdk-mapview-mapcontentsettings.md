@@ -312,7 +312,7 @@ instance is created.
     static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\> trafficIncidents)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")> trafficIncidents)</span>
 
     </div>
 
@@ -403,7 +403,6 @@ instance is created.
 
     Throws:  
     [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")
-    -
 
     [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")
     indicates what went wrong.

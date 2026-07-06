@@ -358,7 +358,7 @@ APIs may change for new releases without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPolylines</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")\> polylines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")> polylines)</span>
 
     </div>
 

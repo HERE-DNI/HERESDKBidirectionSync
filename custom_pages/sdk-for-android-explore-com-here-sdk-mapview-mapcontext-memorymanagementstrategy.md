@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagements
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapContext.MemoryManagementStrategy\>com.here.sdk.mapview.MapContext.MemoryManagementStrategy
+java.lang.Enum\<MapContext.MemoryManagementStrategy>com.here.sdk.mapview.MapContext.MemoryManagementStrategy
 → java.lang.Enum → MapContext.MemoryManagementStrategy →
 com.here.sdk.mapview.MapContext.MemoryManagementStrategy
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapContext.MemoryManagementStrategy</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapContext.MemoryManagementStrategy](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapContext.MemoryManagementStrategy](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instant
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapMarkerAnimation.InstantiationErrorCode\>com.here.sdk.animation.MapMarkerAnimation.InstantiationErrorCode
+java.lang.Enum\<MapMarkerAnimation.InstantiationErrorCode>com.here.sdk.animation.MapMarkerAnimation.InstantiationErrorCode
 → java.lang.Enum → MapMarkerAnimation.InstantiationErrorCode →
 com.here.sdk.animation.MapMarkerAnimation.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapMarkerAnimation.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarkerAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode "enum class in com.here.sdk.animation")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarkerAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode "enum class in com.here.sdk.animation")></span>
 
 </div>
 

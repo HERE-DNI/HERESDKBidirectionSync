@@ -165,12 +165,12 @@ float) . Subsequently, velocity decays exponentially.
     Parameters:  
     `velocityX` -
 
-    Velocity of fling in pixels per second along the x axis. Values \> 0
+    Velocity of fling in pixels per second along the x axis. Values > 0
     are interpreted as fling left and values \< 0 as fling right.
 
     `velocityY` -
 
-    Velocity of fling in pixels per second along the y axis. Values \> 0
+    Velocity of fling in pixels per second along the y axis. Values > 0
     are interpreted as fling up and values \< 0 as fling down.
 
     </div>

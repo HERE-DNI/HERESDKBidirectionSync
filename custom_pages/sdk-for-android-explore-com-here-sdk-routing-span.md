@@ -779,7 +779,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoticeIndexes</span>()
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoticeIndexes</span>()
 
     </div>
 
@@ -840,7 +840,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getTrafficIncidentIndexes</span>()
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getTrafficIncidentIndexes</span>()
 
     </div>
 
@@ -934,7 +934,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getStreetAttributes</span>()
 
     </div>
 
@@ -959,7 +959,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getCarAttributes</span>()
 
     </div>
 
@@ -984,7 +984,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getTruckAttributes</span>()
 
     </div>
 
@@ -1009,7 +1009,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getScooterAttributes</span>()
 
     </div>
 
@@ -1034,7 +1034,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getWalkAttributes</span>()
 
     </div>
 
@@ -1314,7 +1314,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
 
     </div>
 

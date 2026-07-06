@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<HazardousMaterial\>com.here.sdk.transport.HazardousMaterial
+java.lang.Enum\<HazardousMaterial>com.here.sdk.transport.HazardousMaterial
 → java.lang.Enum → HazardousMaterial →
 com.here.sdk.transport.HazardousMaterial
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">HazardousMaterial</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")></span>
 
 </div>
 

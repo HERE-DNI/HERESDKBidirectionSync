@@ -370,7 +370,7 @@ this area.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">boundingBoxExceptionAreas</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")></span> <span class="element-name">boundingBoxExceptionAreas</span>
 
     </div>
 
@@ -392,7 +392,7 @@ this area.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">polygonExceptionAreas</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")></span> <span class="element-name">polygonExceptionAreas</span>
 
     </div>
 
@@ -414,7 +414,7 @@ this area.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")\></span> <span class="element-name">corridorExceptionAreas</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")></span> <span class="element-name">corridorExceptionAreas</span>
 
     </div>
 

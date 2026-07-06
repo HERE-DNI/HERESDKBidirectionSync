@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<LocationIndicator.MarkerType\>com.here.sdk.mapview.LocationIndicator.MarkerType
+java.lang.Enum\<LocationIndicator.MarkerType>com.here.sdk.mapview.LocationIndicator.MarkerType
 → java.lang.Enum → LocationIndicator.MarkerType →
 com.here.sdk.mapview.LocationIndicator.MarkerType
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">LocationIndicator.MarkerType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[LocationIndicator.MarkerType](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LocationIndicator.MarkerType](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

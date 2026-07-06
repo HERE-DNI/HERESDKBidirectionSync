@@ -117,7 +117,7 @@ isoline is calculated.
     [RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing") routingError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Isoline](sdk-for-android-explore-com-here-sdk-routing-isoline "class in com.here.sdk.routing")\> isolines)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Isoline](sdk-for-android-explore-com-here-sdk-routing-isoline "class in com.here.sdk.routing")> isolines)</span>
 
     </div>
 

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TransitDepartureStatus\>com.here.sdk.routing.TransitDepartureStatus
+java.lang.Enum\<TransitDepartureStatus>com.here.sdk.routing.TransitDepartureStatus
 → java.lang.Enum → TransitDepartureStatus →
 com.here.sdk.routing.TransitDepartureStatus
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TransitDepartureStatus</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitDepartureStatus](sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus "enum class in com.here.sdk.routing")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitDepartureStatus](sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus "enum class in com.here.sdk.routing")></span>
 
 </div>
 

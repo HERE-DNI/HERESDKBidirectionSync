@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtechnology"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<LocationTechnology\>com.here.sdk.core.LocationTechnology
+java.lang.Enum\<LocationTechnology>com.here.sdk.core.LocationTechnology
 → java.lang.Enum → LocationTechnology →
 com.here.sdk.core.LocationTechnology
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">LocationTechnology</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[LocationTechnology](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LocationTechnology](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")></span>
 
 </div>
 

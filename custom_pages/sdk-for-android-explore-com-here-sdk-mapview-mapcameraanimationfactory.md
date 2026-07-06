@@ -391,7 +391,7 @@ over time.
     static</span> <span class="return-type">[MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")</span> <span class="element-name">createAnimation</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")\> tracks)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")> tracks)</span>
     throws
     <span class="exceptions">[MapCameraAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -426,7 +426,6 @@ over time.
 
     Throws:  
     [`MapCameraAnimation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 
@@ -470,7 +469,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor \> 0) or low
+    A bow factor that specifies how high (bowFactor > 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -536,7 +535,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor \> 0) or low
+    A bow factor that specifies how high (bowFactor > 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -603,7 +602,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor \> 0) or low
+    A bow factor that specifies how high (bowFactor > 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -676,7 +675,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor \> 0) or low
+    A bow factor that specifies how high (bowFactor > 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and

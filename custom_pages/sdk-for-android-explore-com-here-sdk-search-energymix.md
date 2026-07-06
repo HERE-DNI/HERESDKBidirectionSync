@@ -390,7 +390,7 @@ without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")\></span> <span class="element-name">energySources</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")></span> <span class="element-name">energySources</span>
 
     </div>
 
@@ -456,7 +456,7 @@ without a deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")\></span> <span class="element-name">environmentalImpacts</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")></span> <span class="element-name">environmentalImpacts</span>
 
     </div>
 

@@ -886,7 +886,7 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">chargingCurve</span>
+    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">chargingCurve</span>
 
     </div>
 
@@ -919,7 +919,7 @@ Parameters related to the electric vehicle's battery.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\></span> <span class="element-name">connectorTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")></span> <span class="element-name">connectorTypes</span>
 
     </div>
 
@@ -1266,7 +1266,7 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve)</span>
 
     </div>
 
@@ -1343,10 +1343,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes)</span>
 
     </div>
 
@@ -1430,10 +1430,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours)</span>
 
     </div>
@@ -1527,10 +1527,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours)</span>
@@ -1643,10 +1643,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours,
@@ -1769,10 +1769,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours,
@@ -1903,10 +1903,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours,
@@ -2046,10 +2046,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours,
@@ -2197,10 +2197,10 @@ Parameters related to the electric vehicle's battery.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> chargingCurve,
+    class="external-link" title="class or interface in java.lang">Double</a>> chargingCurve,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\> connectorTypes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")> connectorTypes,
     double minChargeAtChargingStationInKilowattHours, @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a> minChargeAtFirstChargingStationInKilowattHours,

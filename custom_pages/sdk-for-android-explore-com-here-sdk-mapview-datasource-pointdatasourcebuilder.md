@@ -355,7 +355,7 @@ APIs may change for new releases without a deprecation process.
     </span><span class="modifiers">public</span> <span class="return-type">[PointDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPoints</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")\> points)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")> points)</span>
 
     </div>
 

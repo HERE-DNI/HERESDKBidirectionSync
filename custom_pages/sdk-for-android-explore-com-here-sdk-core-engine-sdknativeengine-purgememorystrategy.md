@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgemem
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<SDKNativeEngine.PurgeMemoryStrategy\>com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy
+java.lang.Enum\<SDKNativeEngine.PurgeMemoryStrategy>com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy
 → java.lang.Enum → SDKNativeEngine.PurgeMemoryStrategy →
 com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">SDKNativeEngine.PurgeMemoryStrategy</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")></span>
 
 </div>
 

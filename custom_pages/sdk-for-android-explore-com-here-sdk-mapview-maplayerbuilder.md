@@ -839,7 +839,6 @@ assignment can be done for all types of content: point, line, polygon.
 
     Throws:  
     [`MapLayerBuilder.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 

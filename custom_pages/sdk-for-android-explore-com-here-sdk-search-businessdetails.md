@@ -314,7 +314,7 @@ vehicle info.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\></span> <span class="element-name">contacts</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")></span> <span class="element-name">contacts</span>
 
     </div>
 
@@ -336,7 +336,7 @@ vehicle info.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\></span> <span class="element-name">openingHours</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")></span> <span class="element-name">openingHours</span>
 
     </div>
 

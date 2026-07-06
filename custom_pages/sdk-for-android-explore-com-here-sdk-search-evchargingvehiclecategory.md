@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<EVChargingVehicleCategory\>com.here.sdk.search.EVChargingVehicleCategory
+java.lang.Enum\<EVChargingVehicleCategory>com.here.sdk.search.EVChargingVehicleCategory
 → java.lang.Enum → EVChargingVehicleCategory →
 com.here.sdk.search.EVChargingVehicleCategory
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVChargingVehicleCategory</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")></span>
 
 </div>
 

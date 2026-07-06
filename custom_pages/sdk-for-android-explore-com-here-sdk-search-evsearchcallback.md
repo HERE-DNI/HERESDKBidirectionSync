@@ -114,7 +114,7 @@ deprecation process.
     [EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search") error,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")\> chargingLocations)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")> chargingLocations)</span>
 
     </div>
 

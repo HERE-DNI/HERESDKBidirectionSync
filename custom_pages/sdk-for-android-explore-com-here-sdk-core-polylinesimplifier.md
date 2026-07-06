@@ -275,7 +275,6 @@ RoutePrefetcher.prefetchGeoCorridor .
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -297,7 +296,7 @@ RoutePrefetcher.prefetchGeoCorridor .
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">simplify</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> polyline,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> polyline,
     @NonNull
     [PolylineSimplifier.Options](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options "class in com.here.sdk.core") simplificationParameters,
     @NonNull

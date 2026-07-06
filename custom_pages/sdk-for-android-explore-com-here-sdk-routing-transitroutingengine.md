@@ -253,7 +253,6 @@ possible, though unlikely, deadlock on destruction.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -286,7 +285,6 @@ possible, though unlikely, deadlock on destruction.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 

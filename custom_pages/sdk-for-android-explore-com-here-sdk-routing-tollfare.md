@@ -497,7 +497,7 @@ stable.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span> <span class="element-name">paymentMethods</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")></span> <span class="element-name">paymentMethods</span>
 
     </div>
 
@@ -543,7 +543,7 @@ stable.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">transponders</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">transponders</span>
 
     </div>
 
@@ -593,7 +593,7 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods)</span>
 
     </div>
 
@@ -632,7 +632,7 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule)</span>
 
@@ -681,14 +681,14 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
+    class="external-link" title="class or interface in java.lang">String</a>> transponders)</span>
 
     </div>
 
@@ -739,14 +739,14 @@ stable.
     class="external-link" title="class or interface in java.lang">String</a> currency,
     double price, @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
+    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")> paymentMethods,
     @Nullable
     [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> transponders,
+    class="external-link" title="class or interface in java.lang">String</a>> transponders,
     @Nullable
     [TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing") pass)</span>
 

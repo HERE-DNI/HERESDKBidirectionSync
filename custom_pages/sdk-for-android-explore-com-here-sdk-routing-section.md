@@ -679,7 +679,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Span](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")\></span> <span class="element-name">getSpans</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Span](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")></span> <span class="element-name">getSpans</span>()
 
     </div>
 
@@ -706,7 +706,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Maneuver](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getManeuvers</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Maneuver](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")></span> <span class="element-name">getManeuvers</span>()
 
     </div>
 
@@ -891,7 +891,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PreAction](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPreActions</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PreAction](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")></span> <span class="element-name">getPreActions</span>()
 
     </div>
 
@@ -918,7 +918,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PostAction](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPostActions</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PostAction](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")></span> <span class="element-name">getPostActions</span>()
 
     </div>
 
@@ -945,7 +945,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[SectionNotice](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")\></span> <span class="element-name">getSectionNotices</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[SectionNotice](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")></span> <span class="element-name">getSectionNotices</span>()
 
     </div>
 
@@ -1055,7 +1055,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Toll](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")\></span> <span class="element-name">getTolls</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Toll](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")></span> <span class="element-name">getTolls</span>()
 
     </div>
 
@@ -1093,7 +1093,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")\></span> <span class="element-name">getTrafficIncidents</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")></span> <span class="element-name">getTrafficIncidents</span>()
 
     </div>
 
@@ -1170,7 +1170,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PassThroughWaypoint](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")\></span> <span class="element-name">getPassthroughWaypoints</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PassThroughWaypoint](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")></span> <span class="element-name">getPassthroughWaypoints</span>()
 
     </div>
 
@@ -1195,7 +1195,7 @@ reject the route if deemed necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")\></span> <span class="element-name">getNoThroughRestrictions</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")></span> <span class="element-name">getNoThroughRestrictions</span>()
 
     </div>
 

@@ -733,7 +733,6 @@ automatically set a shared instance.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -896,7 +895,6 @@ automatically set a shared instance.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -1160,7 +1158,7 @@ automatically set a shared instance.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
-    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">getPassThroughFeatures</span>()
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">getPassThroughFeatures</span>()
 
     </div>
 
@@ -1194,7 +1192,7 @@ automatically set a shared instance.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><span class="parameters">(@Nullable
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
-    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\> value)</span>
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")> value)</span>
 
     </div>
 
@@ -1353,7 +1351,7 @@ automatically set a shared instance.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")\></span> <span class="element-name">getSdkUsageStats</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")></span> <span class="element-name">getSdkUsageStats</span>()
 
     </div>
 

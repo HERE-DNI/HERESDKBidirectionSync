@@ -440,7 +440,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorReference](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference "class in com.here.sdk.search")\></span> <span class="element-name">connectors</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorReference](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference "class in com.here.sdk.search")></span> <span class="element-name">connectors</span>
 
     </div>
 
@@ -514,7 +514,7 @@ deprecation process.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">tariffIndexes</span>
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">tariffIndexes</span>
 
     </div>
 

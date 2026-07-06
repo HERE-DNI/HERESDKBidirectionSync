@@ -245,7 +245,7 @@ A class representing a map pick result.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapObjectDescriptor](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")\></span> <span class="element-name">getCustomLayerObjectDescriptors</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapObjectDescriptor](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")></span> <span class="element-name">getCustomLayerObjectDescriptors</span>()
 
     </div>
 

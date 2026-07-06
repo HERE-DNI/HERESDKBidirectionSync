@@ -819,7 +819,7 @@ specified in the GeoPolygon are ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -847,7 +847,7 @@ specified in the GeoPolygon are ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
 
     </div>
 

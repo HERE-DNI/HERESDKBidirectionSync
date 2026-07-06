@@ -881,7 +881,7 @@ maximum allowed height value.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenHazardousGoods</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")></span> <span class="element-name">forbiddenHazardousGoods</span>
 
     </div>
 
@@ -991,7 +991,7 @@ maximum allowed height value.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenTruckRoadTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")></span> <span class="element-name">forbiddenTruckRoadTypes</span>
 
     </div>
 

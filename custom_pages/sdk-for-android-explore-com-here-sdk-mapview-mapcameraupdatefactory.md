@@ -916,7 +916,7 @@ indicates also the top-left corner of the map's viewport.
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">lookAt</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -997,7 +997,7 @@ indicates also the top-left corner of the map's viewport.
     [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -1518,7 +1518,7 @@ indicates also the top-left corner of the map's viewport.
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">compositeUpdate</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")\> mapCameraUpdates)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")> mapCameraUpdates)</span>
     throws
     <span class="exceptions">[MapCameraUpdate.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -1546,7 +1546,6 @@ indicates also the top-left corner of the map's viewport.
 
     Throws:  
     [`MapCameraUpdate.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     Indicates an instantiation issue.
 

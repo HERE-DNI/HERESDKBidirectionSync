@@ -32,7 +32,7 @@ class="section class-description">
 
 A visual representation of an arrow on the map. It consists of a tail -
 a polyline with an arbitrary number of points - and a head at its end.
-The map arrows are only visible on zoom levels \>= 13. Altitude
+The map arrows are only visible on zoom levels >= 13. Altitude
 component of GeoPolyline 's vertices is ignored.
 
 </div>
@@ -320,7 +320,7 @@ component of GeoPolyline 's vertices is ignored.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">getMeasureDependentTailWidth</span>()
+    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">getMeasureDependentTailWidth</span>()
 
     </div>
 
@@ -356,7 +356,7 @@ component of GeoPolyline 's vertices is ignored.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> value)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>> value)</span>
 
     </div>
 
@@ -398,7 +398,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -429,7 +429,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
 
     </div>
 

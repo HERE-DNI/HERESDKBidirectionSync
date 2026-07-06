@@ -412,7 +412,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">enabledFeatures</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">enabledFeatures</span>
 
     </div>
 
@@ -436,7 +436,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">implicitlyPrefetchedFeatures</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span> <span class="element-name">implicitlyPrefetchedFeatures</span>
 
     </div>
 
@@ -478,7 +478,7 @@ in implicitlyPrefetchedFeatures() .
     <span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> enabledFeatures)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> enabledFeatures)</span>
 
     </div>
 
@@ -526,10 +526,10 @@ in implicitlyPrefetchedFeatures() .
     <span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> enabledFeatures,
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> enabledFeatures,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\> implicitlyPrefetchedFeatures)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")> implicitlyPrefetchedFeatures)</span>
 
     </div>
 

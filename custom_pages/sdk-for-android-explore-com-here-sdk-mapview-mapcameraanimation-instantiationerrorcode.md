@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapCameraAnimation.InstantiationErrorCode\>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
+java.lang.Enum\<MapCameraAnimation.InstantiationErrorCode>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 → java.lang.Enum → MapCameraAnimation.InstantiationErrorCode →
 com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

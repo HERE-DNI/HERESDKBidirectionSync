@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapSceneLights.Category\>com.here.sdk.mapview.MapSceneLights.Category
+java.lang.Enum\<MapSceneLights.Category>com.here.sdk.mapview.MapSceneLights.Category
 → java.lang.Enum → MapSceneLights.Category →
 com.here.sdk.mapview.MapSceneLights.Category
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapSceneLights.Category</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

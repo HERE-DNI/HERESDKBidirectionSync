@@ -267,7 +267,7 @@ MapPolylineAnimation .
     static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">moveTo</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -303,7 +303,6 @@ MapPolylineAnimation .
 
     Throws:  
     [`MapItemKeyFrameTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")
-    -
 
     If the supplied keyframe list is empty or first keyframe duration is
     not 0.
@@ -322,7 +321,7 @@ MapPolylineAnimation .
     static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">polylineProgress</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -359,7 +358,6 @@ MapPolylineAnimation .
 
     Throws:  
     [`MapItemKeyFrameTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")
-    -
 
     If the supplied keyframe list is empty or first keyframe duration is
     not 0.

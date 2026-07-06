@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-insta
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapPolylineAnimation.InstantiationErrorCode\>com.here.sdk.animation.MapPolylineAnimation.InstantiationErrorCode
+java.lang.Enum\<MapPolylineAnimation.InstantiationErrorCode>com.here.sdk.animation.MapPolylineAnimation.InstantiationErrorCode
 → java.lang.Enum → MapPolylineAnimation.InstantiationErrorCode →
 com.here.sdk.animation.MapPolylineAnimation.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapPolylineAnimation.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")></span>
 
 </div>
 

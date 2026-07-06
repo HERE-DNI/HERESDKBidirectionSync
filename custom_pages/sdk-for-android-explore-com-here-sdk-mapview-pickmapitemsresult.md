@@ -255,7 +255,7 @@ Carries results from the picking of map items on the map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarkerCluster.Grouping](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping "class in com.here.sdk.mapview")\></span> <span class="element-name">getClusteredMarkers</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarkerCluster.Grouping](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping "class in com.here.sdk.mapview")></span> <span class="element-name">getClusteredMarkers</span>()
 
     </div>
 
@@ -282,7 +282,7 @@ Carries results from the picking of map items on the map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\></span> <span class="element-name">getMarkers</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")></span> <span class="element-name">getMarkers</span>()
 
     </div>
 
@@ -307,7 +307,7 @@ Carries results from the picking of map items on the map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\></span> <span class="element-name">getMarkers3d</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")></span> <span class="element-name">getMarkers3d</span>()
 
     </div>
 
@@ -332,7 +332,7 @@ Carries results from the picking of map items on the map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\></span> <span class="element-name">getPolylines</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")></span> <span class="element-name">getPolylines</span>()
 
     </div>
 
@@ -357,7 +357,7 @@ Carries results from the picking of map items on the map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\></span> <span class="element-name">getPolygons</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")></span> <span class="element-name">getPolygons</span>()
 
     </div>
 

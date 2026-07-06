@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placemen
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapMarker.TextStyle.Placement\>com.here.sdk.mapview.MapMarker.TextStyle.Placement
+java.lang.Enum\<MapMarker.TextStyle.Placement>com.here.sdk.mapview.MapMarker.TextStyle.Placement
 → java.lang.Enum → MapMarker.TextStyle.Placement →
 com.here.sdk.mapview.MapMarker.TextStyle.Placement
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapMarker.TextStyle.Placement</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

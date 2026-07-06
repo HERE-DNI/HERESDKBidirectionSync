@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<LayerConfiguration.Feature\>com.here.sdk.core.engine.LayerConfiguration.Feature
+java.lang.Enum\<LayerConfiguration.Feature>com.here.sdk.core.engine.LayerConfiguration.Feature
 → java.lang.Enum → LayerConfiguration.Feature →
 com.here.sdk.core.engine.LayerConfiguration.Feature
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">LayerConfiguration.Feature</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span>
 
 </div>
 

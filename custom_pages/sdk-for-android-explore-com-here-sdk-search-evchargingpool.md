@@ -454,7 +454,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\></span> <span class="element-name">chargingStations</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")></span> <span class="element-name">chargingStations</span>
 
     </div>
 
@@ -476,7 +476,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\></span> <span class="element-name">eMobilityServiceProviders</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")></span> <span class="element-name">eMobilityServiceProviders</span>
 
     </div>
 
@@ -518,7 +518,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">accessRestrictionReasons</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")></span> <span class="element-name">accessRestrictionReasons</span>
 
     </div>
 
@@ -605,7 +605,7 @@ SDKOptions.layerConfiguration .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")\></span> <span class="element-name">evseInfo</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")></span> <span class="element-name">evseInfo</span>
 
     </div>
 
@@ -635,13 +635,13 @@ SDKOptions.layerConfiguration .
     <span class="modifiers">public</span> <span class="element-name">EVChargingPool</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\> chargingStations,
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")> chargingStations,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\> eMobilityServiceProviders,
+    class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")> eMobilityServiceProviders,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\> accessRestrictionReasons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")> accessRestrictionReasons)</span>
 
     </div>
 

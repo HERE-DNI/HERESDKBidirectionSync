@@ -710,7 +710,7 @@ TrafficIncident provides details about a traffic incident.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getCodes</span>()
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getCodes</span>()
 
     </div>
 
@@ -815,7 +815,7 @@ TrafficIncident provides details about a traffic incident.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"),[TrafficIncident.VehicleRestriction](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")\></span> <span class="element-name">getVehicleRestrictions</span>()
+    class="external-link" title="class or interface in java.util">Map</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"),[TrafficIncident.VehicleRestriction](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")></span> <span class="element-name">getVehicleRestrictions</span>()
 
     </div>
 

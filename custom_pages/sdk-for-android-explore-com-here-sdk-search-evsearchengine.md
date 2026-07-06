@@ -255,7 +255,6 @@ Related APIs may change for new releases without a deprecation process.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -288,7 +287,6 @@ Related APIs may change for new releases without a deprecation process.
 
     Throws:  
     [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
-    -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -338,7 +336,7 @@ Related APIs may change for new releases without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> ids,
+    class="external-link" title="class or interface in java.lang">String</a>> ids,
     @NonNull
     [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
 

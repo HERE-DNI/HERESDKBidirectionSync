@@ -370,7 +370,6 @@ RenderSize.Unit.PIXELS is supported.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 
@@ -440,7 +439,6 @@ RenderSize.Unit.PIXELS is supported.
 
     Throws:  
     [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
-    -
 
     In case of invalid input parameters.
 

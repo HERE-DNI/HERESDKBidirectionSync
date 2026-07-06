@@ -567,7 +567,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")\></span> <span class="element-name">getSections</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")></span> <span class="element-name">getSections</span>()
 
     </div>
 
@@ -866,7 +866,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")\></span> <span class="element-name">getRailwayCrossings</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")></span> <span class="element-name">getRailwayCrossings</span>()
 
     </div>
 
@@ -892,7 +892,7 @@ necessary.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")\></span> <span class="element-name">getRouteLabels</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")></span> <span class="element-name">getRouteLabels</span>()
 
     </div>
 

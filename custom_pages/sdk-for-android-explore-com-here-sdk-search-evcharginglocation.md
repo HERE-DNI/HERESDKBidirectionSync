@@ -704,7 +704,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")\></span> <span class="element-name">getEMobilityServiceProviders</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")></span> <span class="element-name">getEMobilityServiceProviders</span>()
 
     </div>
 
@@ -733,7 +733,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span> <span class="element-name">getFacilityTypes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")></span> <span class="element-name">getFacilityTypes</span>()
 
     </div>
 
@@ -811,7 +811,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")\></span> <span class="element-name">getEvses</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")></span> <span class="element-name">getEvses</span>()
 
     </div>
 
@@ -838,7 +838,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")\></span> <span class="element-name">getTariffs</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")></span> <span class="element-name">getTariffs</span>()
 
     </div>
 
@@ -872,7 +872,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")\></span> <span class="element-name">getConnectorGroups</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")></span> <span class="element-name">getConnectorGroups</span>()
 
     </div>
 
@@ -900,7 +900,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")\></span> <span class="element-name">getSupportedVehicles</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")></span> <span class="element-name">getSupportedVehicles</span>()
 
     </div>
 
@@ -986,7 +986,7 @@ deprecation process.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">getRestrictions</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")></span> <span class="element-name">getRestrictions</span>()
 
     </div>
 

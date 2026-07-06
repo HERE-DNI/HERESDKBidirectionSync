@@ -318,7 +318,7 @@ releases without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">connectorIDs</span>
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">connectorIDs</span>
 
     </div>
 

@@ -240,7 +240,7 @@ map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")\></span> <span class="element-name">getPickedPlaces</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")></span> <span class="element-name">getPickedPlaces</span>()
 
     </div>
 
@@ -267,7 +267,7 @@ map scene.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PickMapContentResult.TrafficIncidentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")\></span> <span class="element-name">getTrafficIncidents</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[PickMapContentResult.TrafficIncidentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")></span> <span class="element-name">getTrafficIncidents</span>()
 
     </div>
 

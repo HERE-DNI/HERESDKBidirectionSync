@@ -312,7 +312,7 @@ different languages.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")\></span> <span class="element-name">items</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")></span> <span class="element-name">items</span>
 
     </div>
 
@@ -415,7 +415,7 @@ different languages.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Locale.html"
-    class="external-link" title="class or interface in java.util">Locale</a>\> locales)</span>
+    class="external-link" title="class or interface in java.util">Locale</a>> locales)</span>
 
     </div>
 

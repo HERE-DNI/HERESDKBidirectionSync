@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maperror"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapError\>com.here.sdk.mapview.MapError → java.lang.Enum
+java.lang.Enum\<MapError>com.here.sdk.mapview.MapError → java.lang.Enum
 → MapError → com.here.sdk.mapview.MapError
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">MapError</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapError](sdk-for-android-explore-com-here-sdk-mapview-maperror "enum class in com.here.sdk.mapview")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapError](sdk-for-android-explore-com-here-sdk-mapview-maperror "enum class in com.here.sdk.mapview")></span>
 
 </div>
 

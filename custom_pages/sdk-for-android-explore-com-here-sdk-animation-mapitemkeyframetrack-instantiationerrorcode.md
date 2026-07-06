@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-insta
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapItemKeyFrameTrack.InstantiationErrorCode\>com.here.sdk.animation.MapItemKeyFrameTrack.InstantiationErrorCode
+java.lang.Enum\<MapItemKeyFrameTrack.InstantiationErrorCode>com.here.sdk.animation.MapItemKeyFrameTrack.InstantiationErrorCode
 → java.lang.Enum → MapItemKeyFrameTrack.InstantiationErrorCode →
 com.here.sdk.animation.MapItemKeyFrameTrack.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapItemKeyFrameTrack.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapItemKeyFrameTrack.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode "enum class in com.here.sdk.animation")\></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapItemKeyFrameTrack.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode "enum class in com.here.sdk.animation")></span>
 
 </div>
 

@@ -272,7 +272,7 @@ animations.
     <span class="modifiers">public</span> <span class="element-name">Easing</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")\> points)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")> points)</span>
     throws
     <span class="exceptions">[Easing.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")</span>
 
@@ -309,7 +309,6 @@ animations.
 
     Throws:  
     [`Easing.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")
-    -
 
     Instantiation error in case of invalid input parameters.
 

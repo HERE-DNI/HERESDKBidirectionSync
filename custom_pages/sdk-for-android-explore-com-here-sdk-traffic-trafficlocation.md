@@ -388,7 +388,7 @@ The location reference to the traffic incident.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")\></span> <span class="element-name">additionalPolylines</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")></span> <span class="element-name">additionalPolylines</span>
 
     </div>
 
@@ -437,7 +437,7 @@ The location reference to the traffic incident.
     [GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") polyline,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")\> additionalPolylines,
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")> additionalPolylines,
     int lengthInMeters)</span>
 
     </div>

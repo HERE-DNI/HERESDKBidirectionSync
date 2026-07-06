@@ -276,7 +276,7 @@ by setting IsolineOptions.Calculation.maxPoints .
     [MapMatchedCoordinates](sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates "class in com.here.sdk.routing") center,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\> polygons)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")> polygons)</span>
 
     </div>
 
@@ -397,7 +397,7 @@ by setting IsolineOptions.Calculation.maxPoints .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">getPolygons</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")></span> <span class="element-name">getPolygons</span>()
 
     </div>
 
