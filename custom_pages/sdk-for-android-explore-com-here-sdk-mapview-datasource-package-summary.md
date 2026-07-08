@@ -3,6 +3,10 @@ title: "com.here.sdk.mapview.datasource (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package
@@ -10,8 +14,7 @@ package
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -48,7 +51,8 @@ package
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -918,6 +922,4 @@ package
   </div>
 
   </div>
-
-</div>
 

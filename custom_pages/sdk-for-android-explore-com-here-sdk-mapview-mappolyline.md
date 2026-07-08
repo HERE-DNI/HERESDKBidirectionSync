@@ -3,16 +3,21 @@ title: "MapPolyline (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.mapview.MapPolyline →
-com.here.NativeBase → com.here.sdk.mapview.MapPolyline
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapPolyline →
+com.here.NativeBase com.here.sdk.mapview.MapPolyline →
+com.here.sdk.mapview.MapPolyline
 
 </div>
 
@@ -38,8 +43,7 @@ component of GeoPolyline 's vertices is ignored.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -76,7 +80,10 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapPolyline.DashImageRepresentation</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.DashImageRepresentation</code></a>
 
   </div>
 
@@ -99,7 +106,10 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapPolyline.DashRepresentation</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.DashRepresentation</code></a>
 
   </div>
 
@@ -122,7 +132,10 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>
 
   </div>
 
@@ -144,7 +157,10 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapPolyline.SolidMultiColorRepresentation</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidMultiColorRepresentation</code></a>
 
   </div>
 
@@ -167,7 +183,10 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapPolyline.SolidRepresentation</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapPolyline.SolidRepresentation</code></a>
 
   </div>
 
@@ -184,7 +203,8 @@ component of GeoPolyline 's vertices is ignored.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -209,8 +229,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-constructor-name even-row-color">
 
-      MapPolyline(GeoPolyline geometry,
-       MapPolyline.Representation representation)
+      MapPolyline ( GeoPolyline geometry, MapPolyline.Representation representation)
 
   </div>
 
@@ -228,7 +247,8 @@ component of GeoPolyline 's vertices is ignored.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -261,7 +281,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      cancelAnimation(MapPolylineAnimation animation)
+      cancelAnimation ( MapPolylineAnimation animation)
 
   </div>
 
@@ -283,7 +303,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDrawOrder()
+      getDrawOrder ()
 
   </div>
 
@@ -305,7 +325,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDrawOrderType()
+      getDrawOrderType ()
 
   </div>
 
@@ -327,7 +347,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGeometry()
+      getGeometry ()
 
   </div>
 
@@ -343,13 +363,16 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapContentCategory`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapContentCategory`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMapContentCategoriesToBlock()
+      getMapContentCategoriesToBlock ()
 
   </div>
 
@@ -371,7 +394,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMetadata()
+      getMetadata ()
 
   </div>
 
@@ -393,7 +416,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getProgress()
+      getProgress ()
 
   </div>
 
@@ -415,7 +438,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getProgressColor()
+      getProgressColor ()
 
   </div>
 
@@ -437,7 +460,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getProgressGradientLength()
+      getProgressGradientLength ()
 
   </div>
 
@@ -460,7 +483,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getProgressOutlineColor()
+      getProgressOutlineColor ()
 
   </div>
 
@@ -477,13 +500,16 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getVisibilityRanges()
+      getVisibilityRanges ()
 
   </div>
 
@@ -505,7 +531,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setDrawOrder(int value)
+      setDrawOrder (int value)
 
   </div>
 
@@ -527,7 +553,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setDrawOrderType(DrawOrderType value)
+      setDrawOrderType ( DrawOrderType value)
 
   </div>
 
@@ -549,7 +575,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setGeometry(GeoPolyline value)
+      setGeometry ( GeoPolyline value)
 
   </div>
 
@@ -571,7 +597,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setMapContentCategoriesToBlock(List<MapContentCategory> value)
+      setMapContentCategoriesToBlock ( List < MapContentCategory > value)
 
   </div>
 
@@ -593,7 +619,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setMetadata(Metadata value)
+      setMetadata ( Metadata value)
 
   </div>
 
@@ -615,7 +641,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setProgress(double value)
+      setProgress (double value)
 
   </div>
 
@@ -638,7 +664,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setProgressColor(Color value)
+      setProgressColor ( Color value)
 
   </div>
 
@@ -660,7 +686,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setProgressGradientLength(MapMeasureDependentRenderSize value)
+      setProgressGradientLength ( MapMeasureDependentRenderSize value)
 
   </div>
 
@@ -683,7 +709,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setProgressOutlineColor(Color value)
+      setProgressOutlineColor ( Color value)
 
   </div>
 
@@ -705,7 +731,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setRepresentation(MapPolyline.Representation representation)
+      setRepresentation ( MapPolyline.Representation representation)
 
   </div>
 
@@ -727,7 +753,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setVisibilityRanges(List<MapMeasureRange> value)
+      setVisibilityRanges ( List < MapMeasureRange > value)
 
   </div>
 
@@ -749,8 +775,7 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      startAnimation(MapPolylineAnimation animation,
-       AnimationListener listener)
+      startAnimation ( MapPolylineAnimation animation, AnimationListener listener)
 
   </div>
 
@@ -770,20 +795,55 @@ component of GeoPolyline 's vertices is ignored.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoPolyline-com-here-sdk-mapview-MapPolyline-Representation"
     class="section detail">
 
     ### MapPolyline
@@ -821,9 +881,11 @@ component of GeoPolyline 's vertices is ignored.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)"
+
+  - <div id="sdk-for-android-explore-setRepresentation-com-here-sdk-mapview-MapPolyline-Representation"
     class="section detail">
 
     ### setRepresentation
@@ -847,7 +909,8 @@ component of GeoPolyline 's vertices is ignored.
     The representation describing a new appearance of the `MapPolyline`.
 
     </div>
-<div id="sdk-for-android-explore-startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)"
+
+  - <div id="sdk-for-android-explore-startAnimation-com-here-sdk-animation-MapPolylineAnimation-com-here-sdk-animation-AnimationListener"
     class="section detail">
 
     ### startAnimation
@@ -882,7 +945,8 @@ component of GeoPolyline 's vertices is ignored.
     completion or cancellation.
 
     </div>
-<div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)"
+
+  - <div id="sdk-for-android-explore-cancelAnimation-com-here-sdk-animation-MapPolylineAnimation"
     class="section detail">
 
     ### cancelAnimation
@@ -909,7 +973,8 @@ component of GeoPolyline 's vertices is ignored.
     The animation to cancel
 
     </div>
-<div id="sdk-for-android-explore-getGeometry()"
+
+  - <div id="sdk-for-android-explore-getGeometry"
     class="section detail">
 
     ### getGeometry
@@ -931,7 +996,8 @@ component of GeoPolyline 's vertices is ignored.
     The list of vertices that represent the geometry of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolyline)"
+
+  - <div id="sdk-for-android-explore-setGeometry-com-here-sdk-core-GeoPolyline"
     class="section detail">
 
     ### setGeometry
@@ -956,7 +1022,8 @@ component of GeoPolyline 's vertices is ignored.
     The list of vertices that represent the geometry of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-getMetadata()"
+
+  - <div id="sdk-for-android-explore-getMetadata"
     class="section detail">
 
     ### getMetadata
@@ -979,7 +1046,8 @@ component of GeoPolyline 's vertices is ignored.
     The `Metadata` instance attached to this polyline.
 
     </div>
-<div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
+
+  - <div id="sdk-for-android-explore-setMetadata-com-here-sdk-core-Metadata"
     class="section detail">
 
     ### setMetadata
@@ -1003,7 +1071,8 @@ component of GeoPolyline 's vertices is ignored.
     The `Metadata` instance attached to this polyline.
 
     </div>
-<div id="sdk-for-android-explore-getDrawOrder()"
+
+  - <div id="sdk-for-android-explore-getDrawOrder"
     class="section detail">
 
     ### getDrawOrder
@@ -1024,7 +1093,8 @@ component of GeoPolyline 's vertices is ignored.
     The draw order of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-setDrawOrder(int)"
+
+  - <div id="sdk-for-android-explore-setDrawOrder-int"
     class="section detail">
 
     ### setDrawOrder
@@ -1051,7 +1121,8 @@ component of GeoPolyline 's vertices is ignored.
     The draw order of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-getDrawOrderType()"
+
+  - <div id="sdk-for-android-explore-getDrawOrderType"
     class="section detail">
 
     ### getDrawOrderType
@@ -1074,7 +1145,8 @@ component of GeoPolyline 's vertices is ignored.
     The draw order type of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-setDrawOrderType(com.here.sdk.mapview.DrawOrderType)"
+
+  - <div id="sdk-for-android-explore-setDrawOrderType-com-here-sdk-mapview-DrawOrderType"
     class="section detail">
 
     ### setDrawOrderType
@@ -1113,7 +1185,8 @@ component of GeoPolyline 's vertices is ignored.
     The draw order type of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-getVisibilityRanges()"
+
+  - <div id="sdk-for-android-explore-getVisibilityRanges"
     class="section detail">
 
     ### getVisibilityRanges
@@ -1121,7 +1194,9 @@ component of GeoPolyline 's vertices is ignored.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1138,7 +1213,8 @@ component of GeoPolyline 's vertices is ignored.
     inside these map measure ranges.
 
     </div>
-<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+
+  - <div id="sdk-for-android-explore-setVisibilityRanges-java-util-List"
     class="section detail">
 
     ### setVisibilityRanges
@@ -1146,7 +1222,9 @@ component of GeoPolyline 's vertices is ignored.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
@@ -1170,7 +1248,8 @@ component of GeoPolyline 's vertices is ignored.
     inside these map measure ranges.
 
     </div>
-<div id="sdk-for-android-explore-getProgress()"
+
+  - <div id="sdk-for-android-explore-getProgress"
     class="section detail">
 
     ### getProgress
@@ -1192,7 +1271,8 @@ component of GeoPolyline 's vertices is ignored.
     total length clamped to the range \[0, 1\].
 
     </div>
-<div id="sdk-for-android-explore-setProgress(double)"
+
+  - <div id="sdk-for-android-explore-setProgress-double"
     class="section detail">
 
     ### setProgress
@@ -1221,7 +1301,8 @@ component of GeoPolyline 's vertices is ignored.
     total length clamped to the range \[0, 1\].
 
     </div>
-<div id="sdk-for-android-explore-getProgressColor()"
+
+  - <div id="sdk-for-android-explore-getProgressColor"
     class="section detail">
 
     ### getProgressColor
@@ -1243,7 +1324,8 @@ component of GeoPolyline 's vertices is ignored.
     The color used for the progress part of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-setProgressColor(com.here.sdk.core.Color)"
+
+  - <div id="sdk-for-android-explore-setProgressColor-com-here-sdk-core-Color"
     class="section detail">
 
     ### setProgressColor
@@ -1267,7 +1349,8 @@ component of GeoPolyline 's vertices is ignored.
     The color used for the progress part of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-getProgressOutlineColor()"
+
+  - <div id="sdk-for-android-explore-getProgressOutlineColor"
     class="section detail">
 
     ### getProgressOutlineColor
@@ -1290,7 +1373,8 @@ component of GeoPolyline 's vertices is ignored.
     The color used for outline of the progress part of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-setProgressOutlineColor(com.here.sdk.core.Color)"
+
+  - <div id="sdk-for-android-explore-setProgressOutlineColor-com-here-sdk-core-Color"
     class="section detail">
 
     ### setProgressOutlineColor
@@ -1314,7 +1398,8 @@ component of GeoPolyline 's vertices is ignored.
     The color used for outline of the progress part of the polyline.
 
     </div>
-<div id="sdk-for-android-explore-getProgressGradientLength()"
+
+  - <div id="sdk-for-android-explore-getProgressGradientLength"
     class="section detail">
 
     ### getProgressGradientLength
@@ -1339,7 +1424,8 @@ component of GeoPolyline 's vertices is ignored.
     level dependent pixels.
 
     </div>
-<div id="sdk-for-android-explore-setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)"
+
+  - <div id="sdk-for-android-explore-setProgressGradientLength-com-here-sdk-mapview-MapMeasureDependentRenderSize"
     class="section detail">
 
     ### setProgressGradientLength
@@ -1376,7 +1462,8 @@ component of GeoPolyline 's vertices is ignored.
     level dependent pixels.
 
     </div>
-<div id="sdk-for-android-explore-getMapContentCategoriesToBlock()"
+
+  - <div id="sdk-for-android-explore-getMapContentCategoriesToBlock"
     class="section detail">
 
     ### getMapContentCategoriesToBlock
@@ -1384,7 +1471,9 @@ component of GeoPolyline 's vertices is ignored.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
 
     </div>
 
@@ -1400,7 +1489,8 @@ component of GeoPolyline 's vertices is ignored.
     List of map content categories this polyline should block.
 
     </div>
-<div id="sdk-for-android-explore-setMapContentCategoriesToBlock(java.util.List)"
+
+  - <div id="sdk-for-android-explore-setMapContentCategoriesToBlock-java-util-List"
     class="section detail">
 
     ### setMapContentCategoriesToBlock
@@ -1408,7 +1498,9 @@ component of GeoPolyline 's vertices is ignored.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
@@ -1429,6 +1521,4 @@ component of GeoPolyline 's vertices is ignored.
     </div>
 
   </div>
-
-</div>
 

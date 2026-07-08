@@ -3,16 +3,21 @@ title: "TrafficEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.traffic.TrafficEngine
-→ com.here.NativeBase → com.here.sdk.traffic.TrafficEngine
+java.lang.Object com.here.NativeBase com.here.sdk.traffic.TrafficEngine
+→ com.here.NativeBase com.here.sdk.traffic.TrafficEngine →
+com.here.sdk.traffic.TrafficEngine
 
 </div>
 
@@ -48,8 +53,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -74,7 +78,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-constructor-name even-row-color">
 
-      TrafficEngine()
+      TrafficEngine ()
 
   </div>
 
@@ -90,7 +94,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-constructor-name odd-row-color">
 
-      TrafficEngine(SDKNativeEngine sdkEngine)
+      TrafficEngine ( SDKNativeEngine sdkEngine)
 
   </div>
 
@@ -107,7 +111,8 @@ SDKNativeEngine.getPassThroughFeatures()
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -140,9 +145,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      lookupIncident(String originalId,
-       TrafficIncidentLookupOptions lookupOptions,
-       TrafficIncidentLookupCallback callback)
+      lookupIncident ( String originalId, TrafficIncidentLookupOptions lookupOptions, TrafficIncidentLookupCallback callback)
 
   </div>
 
@@ -164,9 +167,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForFlow(GeoBox boxArea,
-       TrafficFlowQueryOptions queryOptions,
-       TrafficFlowQueryCallback callback)
+      queryForFlow ( GeoBox boxArea, TrafficFlowQueryOptions queryOptions, TrafficFlowQueryCallback callback)
 
   </div>
 
@@ -189,9 +190,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForFlow(GeoCircle circleArea,
-       TrafficFlowQueryOptions queryOptions,
-       TrafficFlowQueryCallback callback)
+      queryForFlow ( GeoCircle circleArea, TrafficFlowQueryOptions queryOptions, TrafficFlowQueryCallback callback)
 
   </div>
 
@@ -213,9 +212,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForFlow(GeoCorridor corridorArea,
-       TrafficFlowQueryOptions queryOptions,
-       TrafficFlowQueryCallback callback)
+      queryForFlow ( GeoCorridor corridorArea, TrafficFlowQueryOptions queryOptions, TrafficFlowQueryCallback callback)
 
   </div>
 
@@ -237,9 +234,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForIncidents(GeoBox boxArea,
-       TrafficIncidentsQueryOptions queryOptions,
-       TrafficIncidentsQueryCallback callback)
+      queryForIncidents ( GeoBox boxArea, TrafficIncidentsQueryOptions queryOptions, TrafficIncidentsQueryCallback callback)
 
   </div>
 
@@ -262,9 +257,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForIncidents(GeoCircle circleArea,
-       TrafficIncidentsQueryOptions queryOptions,
-       TrafficIncidentsQueryCallback callback)
+      queryForIncidents ( GeoCircle circleArea, TrafficIncidentsQueryOptions queryOptions, TrafficIncidentsQueryCallback callback)
 
   </div>
 
@@ -287,9 +280,7 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      queryForIncidents(GeoCorridor corridorArea,
-       TrafficIncidentsQueryOptions queryOptions,
-       TrafficIncidentsQueryCallback callback)
+      queryForIncidents ( GeoCorridor corridorArea, TrafficIncidentsQueryOptions queryOptions, TrafficIncidentsQueryCallback callback)
 
   </div>
 
@@ -310,20 +301,55 @@ SDKNativeEngine.getPassThroughFeatures()
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### TrafficEngine
 
@@ -347,7 +373,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine"
     class="section detail">
 
     ### TrafficEngine
@@ -380,9 +407,11 @@ SDKNativeEngine.getPassThroughFeatures()
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForIncidents-com-here-sdk-core-GeoBox-com-here-sdk-traffic-TrafficIncidentsQueryOptions-com-here-sdk-traffic-TrafficIncidentsQueryCallback"
     class="section detail">
 
     ### queryForIncidents
@@ -424,7 +453,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForIncidents-com-here-sdk-core-GeoCircle-com-here-sdk-traffic-TrafficIncidentsQueryOptions-com-here-sdk-traffic-TrafficIncidentsQueryCallback"
     class="section detail">
 
     ### queryForIncidents
@@ -466,7 +496,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForIncidents-com-here-sdk-core-GeoCorridor-com-here-sdk-traffic-TrafficIncidentsQueryOptions-com-here-sdk-traffic-TrafficIncidentsQueryCallback"
     class="section detail">
 
     ### queryForIncidents
@@ -517,7 +548,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"
+
+  - <div id="sdk-for-android-explore-lookupIncident-java-lang-String-com-here-sdk-traffic-TrafficIncidentLookupOptions-com-here-sdk-traffic-TrafficIncidentLookupCallback"
     class="section detail">
 
     ### lookupIncident
@@ -526,7 +558,9 @@ SDKNativeEngine.getPassThroughFeatures()
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">lookupIncident</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> originalId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> originalId,
     @NonNull
     [TrafficIncidentLookupOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions "class in com.here.sdk.traffic") lookupOptions,
     @NonNull
@@ -559,7 +593,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForFlow-com-here-sdk-core-GeoBox-com-here-sdk-traffic-TrafficFlowQueryOptions-com-here-sdk-traffic-TrafficFlowQueryCallback"
     class="section detail">
 
     ### queryForFlow
@@ -602,7 +637,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForFlow-com-here-sdk-core-GeoCircle-com-here-sdk-traffic-TrafficFlowQueryOptions-com-here-sdk-traffic-TrafficFlowQueryCallback"
     class="section detail">
 
     ### queryForFlow
@@ -646,7 +682,8 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+
+  - <div id="sdk-for-android-explore-queryForFlow-com-here-sdk-core-GeoCorridor-com-here-sdk-traffic-TrafficFlowQueryOptions-com-here-sdk-traffic-TrafficFlowQueryCallback"
     class="section detail">
 
     ### queryForFlow
@@ -698,6 +735,4 @@ SDKNativeEngine.getPassThroughFeatures()
     </div>
 
   </div>
-
-</div>
 

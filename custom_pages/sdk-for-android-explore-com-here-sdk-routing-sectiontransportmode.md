@@ -3,17 +3,21 @@ title: "SectionTransportMode (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-java.lang.Enum\<SectionTransportMode\>com.here.sdk.routing.SectionTransportMode
-→ java.lang.Enum → SectionTransportMode →
+java.lang.Object java.lang.Enum \< SectionTransportMode \>
+com.here.sdk.routing.SectionTransportMode → java.lang.Enum \<
+SectionTransportMode \> com.here.sdk.routing.SectionTransportMode →
 com.here.sdk.routing.SectionTransportMode
 
 </div>
@@ -22,14 +26,25 @@ com.here.sdk.routing.SectionTransportMode
 class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SectionTransportMode`](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")`>`,
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SectionTransportMode`](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">SectionTransportMode</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")\></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -43,19 +58,37 @@ example, a car route may have a section having ferry transport mode.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+  ## Nested classes/interfaces inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
+
+  ## Enum Constant Summary
 
   <div class="caption">
 
@@ -79,7 +112,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BICYCLE" class="member-name-link"><code>BICYCLE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BICYCLE"
+  class="member-name-link"><code>BICYCLE</code></a>
 
   </div>
 
@@ -95,7 +130,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BUS" class="member-name-link"><code>BUS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BUS"
+  class="member-name-link"><code>BUS</code></a>
 
   </div>
 
@@ -111,7 +148,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR" class="member-name-link"><code>CAR</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR"
+  class="member-name-link"><code>CAR</code></a>
 
   </div>
 
@@ -127,7 +166,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR_SHUTTLE_TRAIN" class="member-name-link"><code>CAR_SHUTTLE_TRAIN</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR_SHUTTLE_TRAIN"
+  class="member-name-link"><code>CAR_SHUTTLE_TRAIN</code></a>
 
   </div>
 
@@ -143,7 +184,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#FERRY" class="member-name-link"><code>FERRY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#FERRY"
+  class="member-name-link"><code>FERRY</code></a>
 
   </div>
 
@@ -159,7 +202,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PEDESTRIAN" class="member-name-link"><code>PEDESTRIAN</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PEDESTRIAN"
+  class="member-name-link"><code>PEDESTRIAN</code></a>
 
   </div>
 
@@ -175,7 +220,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PRIVATE_BUS" class="member-name-link"><code>PRIVATE_BUS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PRIVATE_BUS"
+  class="member-name-link"><code>PRIVATE_BUS</code></a>
 
   </div>
 
@@ -191,7 +238,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PUBLIC_TRANSIT" class="member-name-link"><code>PUBLIC_TRANSIT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PUBLIC_TRANSIT"
+  class="member-name-link"><code>PUBLIC_TRANSIT</code></a>
 
   </div>
 
@@ -207,7 +256,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#SCOOTER" class="member-name-link"><code>SCOOTER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#SCOOTER"
+  class="member-name-link"><code>SCOOTER</code></a>
 
   </div>
 
@@ -223,7 +274,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TAXI" class="member-name-link"><code>TAXI</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TAXI"
+  class="member-name-link"><code>TAXI</code></a>
 
   </div>
 
@@ -239,7 +292,9 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TRUCK" class="member-name-link"><code>TRUCK</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TRUCK"
+  class="member-name-link"><code>TRUCK</code></a>
 
   </div>
 
@@ -256,7 +311,8 @@ example, a car route may have a section having ferry transport mode.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -289,7 +345,7 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      valueOf(String name)
+      valueOf ( String name)
 
   </div>
 
@@ -311,7 +367,7 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      values()
+      values ()
 
   </div>
 
@@ -332,28 +388,85 @@ example, a car route may have a section having ferry transport mode.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-CAR" class="section detail">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -371,7 +484,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRUCK" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -389,7 +503,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
+
+  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -407,7 +522,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FERRY" class="section detail">
+
+  - <div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -425,7 +541,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
+
+  - <div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
     class="section detail">
 
     ### CAR_SHUTTLE_TRAIN
@@ -444,7 +561,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SCOOTER" class="section detail">
+
+  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -462,7 +580,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BICYCLE" class="section detail">
+
+  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -480,7 +599,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PUBLIC_TRANSIT"
+
+  - <div id="sdk-for-android-explore-PUBLIC_TRANSIT"
     class="section detail">
 
     ### PUBLIC_TRANSIT
@@ -501,7 +621,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TAXI" class="section detail">
+
+  - <div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -519,7 +640,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BUS" class="section detail">
+
+  - <div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -539,7 +661,8 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PRIVATE_BUS"
+
+  - <div id="sdk-for-android-explore-PRIVATE_BUS"
     class="section detail">
 
     ### PRIVATE_BUS
@@ -562,9 +685,11 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values" class="section detail">
 
     ### values
 
@@ -587,7 +712,8 @@ example, a car route may have a section having ferry transport mode.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
     class="section detail">
 
     ### valueOf
@@ -595,7 +721,9 @@ example, a car route may have a section having ferry transport mode.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -615,15 +743,19 @@ example, a car route may have a section having ferry transport mode.
     the enum constant with the specified name
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
 
   </div>
-
-</div>
 

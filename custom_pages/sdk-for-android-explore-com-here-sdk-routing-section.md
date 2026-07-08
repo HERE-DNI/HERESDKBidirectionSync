@@ -3,16 +3,21 @@ title: "Section (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-section"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.routing.Section →
-com.here.NativeBase → com.here.sdk.routing.Section
+java.lang.Object com.here.NativeBase com.here.sdk.routing.Section →
+com.here.NativeBase com.here.sdk.routing.Section →
+com.here.sdk.routing.Section
 
 </div>
 
@@ -41,8 +46,7 @@ reject the route if deemed necessary.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -75,7 +79,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getArrivalLocationTime()
+      getArrivalLocationTime ()
 
   </div>
 
@@ -97,7 +101,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getArrivalPlace()
+      getArrivalPlace ()
 
   </div>
 
@@ -119,7 +123,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getBoundingBox()
+      getBoundingBox ()
 
   </div>
 
@@ -135,13 +139,16 @@ reject the route if deemed necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getConsumptionInKilowattHours()
+      getConsumptionInKilowattHours ()
 
   </div>
 
@@ -164,7 +171,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDepartureLocationTime()
+      getDepartureLocationTime ()
 
   </div>
 
@@ -186,7 +193,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDeparturePlace()
+      getDeparturePlace ()
 
   </div>
 
@@ -208,7 +215,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDuration()
+      getDuration ()
 
   </div>
 
@@ -231,7 +238,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGeometry()
+      getGeometry ()
 
   </div>
 
@@ -253,7 +260,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getIndoorSectionDetails()
+      getIndoorSectionDetails ()
 
   </div>
 
@@ -275,7 +282,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLengthInMeters()
+      getLengthInMeters ()
 
   </div>
 
@@ -291,13 +298,16 @@ reject the route if deemed necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Maneuver`](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Maneuver`](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getManeuvers()
+      getManeuvers ()
 
   </div>
 
@@ -313,13 +323,16 @@ reject the route if deemed necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`ViolatedRestriction`](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`ViolatedRestriction`](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getNoThroughRestrictions()
+      getNoThroughRestrictions ()
 
   </div>
 
@@ -335,13 +348,16 @@ reject the route if deemed necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PassThroughWaypoint`](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PassThroughWaypoint`](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPassthroughWaypoints()
+      getPassthroughWaypoints ()
 
   </div>
 
@@ -357,13 +373,16 @@ reject the route if deemed necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PostAction`](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PostAction`](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPostActions()
+      getPostActions ()
 
   </div>
 
@@ -380,13 +399,16 @@ reject the route if deemed necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PreAction`](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`PreAction`](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPreActions()
+      getPreActions ()
 
   </div>
 
@@ -403,13 +425,16 @@ reject the route if deemed necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`SectionNotice`](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`SectionNotice`](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSectionNotices()
+      getSectionNotices ()
 
   </div>
 
@@ -432,7 +457,7 @@ reject the route if deemed necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSectionTransportMode()
+      getSectionTransportMode ()
 
   </div>
 
@@ -448,13 +473,16 @@ reject the route if deemed necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Span`](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Span`](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSpans()
+      getSpans ()
 
   </div>
 
@@ -470,13 +498,16 @@ reject the route if deemed necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Toll`](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Toll`](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTolls()
+      getTolls ()
 
   </div>
 
@@ -498,7 +529,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTrafficDelay()
+      getTrafficDelay ()
 
   </div>
 
@@ -515,13 +546,16 @@ reject the route if deemed necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTrafficIncidents()
+      getTrafficIncidents ()
 
   </div>
 
@@ -543,7 +577,7 @@ reject the route if deemed necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTransitDetails()
+      getTransitDetails ()
 
   </div>
 
@@ -563,20 +597,55 @@ reject the route if deemed necessary.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getGeometry()"
+
+  - <div id="sdk-for-android-explore-getGeometry"
     class="section detail">
 
     ### getGeometry
@@ -601,14 +670,17 @@ reject the route if deemed necessary.
     object representing the polyline of this section.
 
     </div>
-<div id="sdk-for-android-explore-getSpans()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getSpans" class="section detail">
 
     ### getSpans
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Span](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")\></span> <span class="element-name">getSpans</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Span](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")\></span> <span class="element-name">getSpans</span>()
 
     </div>
 
@@ -624,7 +696,8 @@ reject the route if deemed necessary.
     that constitute this section.
 
     </div>
-<div id="sdk-for-android-explore-getManeuvers()"
+
+  - <div id="sdk-for-android-explore-getManeuvers"
     class="section detail">
 
     ### getManeuvers
@@ -632,7 +705,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Maneuver](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getManeuvers</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Maneuver](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getManeuvers</span>()
 
     </div>
 
@@ -646,7 +721,8 @@ reject the route if deemed necessary.
     The maneuvers for this section.
 
     </div>
-<div id="sdk-for-android-explore-getBoundingBox()"
+
+  - <div id="sdk-for-android-explore-getBoundingBox"
     class="section detail">
 
     ### getBoundingBox
@@ -668,7 +744,8 @@ reject the route if deemed necessary.
     The closest rectangular area where this section fits in.
 
     </div>
-<div id="sdk-for-android-explore-getLengthInMeters()"
+
+  - <div id="sdk-for-android-explore-getLengthInMeters"
     class="section detail">
 
     ### getLengthInMeters
@@ -689,7 +766,8 @@ reject the route if deemed necessary.
     The length of this section in meters.
 
     </div>
-<div id="sdk-for-android-explore-getSectionTransportMode()"
+
+  - <div id="sdk-for-android-explore-getSectionTransportMode"
     class="section detail">
 
     ### getSectionTransportMode
@@ -711,7 +789,8 @@ reject the route if deemed necessary.
     The transport mode of this section.
 
     </div>
-<div id="sdk-for-android-explore-getDeparturePlace()"
+
+  - <div id="sdk-for-android-explore-getDeparturePlace"
     class="section detail">
 
     ### getDeparturePlace
@@ -733,7 +812,8 @@ reject the route if deemed necessary.
     Describes the departure place.
 
     </div>
-<div id="sdk-for-android-explore-getArrivalPlace()"
+
+  - <div id="sdk-for-android-explore-getArrivalPlace"
     class="section detail">
 
     ### getArrivalPlace
@@ -755,7 +835,8 @@ reject the route if deemed necessary.
     The arrival place.
 
     </div>
-<div id="sdk-for-android-explore-getDepartureLocationTime()"
+
+  - <div id="sdk-for-android-explore-getDepartureLocationTime"
     class="section detail">
 
     ### getDepartureLocationTime
@@ -777,7 +858,8 @@ reject the route if deemed necessary.
     The departure location time of this section.
 
     </div>
-<div id="sdk-for-android-explore-getArrivalLocationTime()"
+
+  - <div id="sdk-for-android-explore-getArrivalLocationTime"
     class="section detail">
 
     ### getArrivalLocationTime
@@ -799,7 +881,8 @@ reject the route if deemed necessary.
     The arrival location time of this section.
 
     </div>
-<div id="sdk-for-android-explore-getPreActions()"
+
+  - <div id="sdk-for-android-explore-getPreActions"
     class="section detail">
 
     ### getPreActions
@@ -807,7 +890,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PreAction](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPreActions</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[PreAction](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPreActions</span>()
 
     </div>
 
@@ -823,7 +908,8 @@ reject the route if deemed necessary.
     beginning of the section.
 
     </div>
-<div id="sdk-for-android-explore-getPostActions()"
+
+  - <div id="sdk-for-android-explore-getPostActions"
     class="section detail">
 
     ### getPostActions
@@ -831,7 +917,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PostAction](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPostActions</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[PostAction](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPostActions</span>()
 
     </div>
 
@@ -847,7 +935,8 @@ reject the route if deemed necessary.
     the section.
 
     </div>
-<div id="sdk-for-android-explore-getSectionNotices()"
+
+  - <div id="sdk-for-android-explore-getSectionNotices"
     class="section detail">
 
     ### getSectionNotices
@@ -855,7 +944,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SectionNotice](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")\></span> <span class="element-name">getSectionNotices</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[SectionNotice](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")\></span> <span class="element-name">getSectionNotices</span>()
 
     </div>
 
@@ -879,7 +970,8 @@ reject the route if deemed necessary.
     notices carefully before proceeding.
 
     </div>
-<div id="sdk-for-android-explore-getIndoorSectionDetails()"
+
+  - <div id="sdk-for-android-explore-getIndoorSectionDetails"
     class="section detail">
 
     ### getIndoorSectionDetails
@@ -901,7 +993,8 @@ reject the route if deemed necessary.
     Indoor routing section information.
 
     </div>
-<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+
+  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -909,7 +1002,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
 
     </div>
 
@@ -927,7 +1022,8 @@ reject the route if deemed necessary.
     negative due to energy recuperation.
 
     </div>
-<div id="sdk-for-android-explore-getTransitDetails()"
+
+  - <div id="sdk-for-android-explore-getTransitDetails"
     class="section detail">
 
     ### getTransitDetails
@@ -950,14 +1046,17 @@ reject the route if deemed necessary.
     route.
 
     </div>
-<div id="sdk-for-android-explore-getTolls()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getTolls" class="section detail">
 
     ### getTolls
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Toll](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")\></span> <span class="element-name">getTolls</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Toll](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")\></span> <span class="element-name">getTolls</span>()
 
     </div>
 
@@ -984,7 +1083,8 @@ reject the route if deemed necessary.
     All the tolls for this section.
 
     </div>
-<div id="sdk-for-android-explore-getTrafficIncidents()"
+
+  - <div id="sdk-for-android-explore-getTrafficIncidents"
     class="section detail">
 
     ### getTrafficIncidents
@@ -992,7 +1092,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")\></span> <span class="element-name">getTrafficIncidents</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")\></span> <span class="element-name">getTrafficIncidents</span>()
 
     </div>
 
@@ -1006,7 +1108,8 @@ reject the route if deemed necessary.
     The list of traffic incidents that are found on the section.
 
     </div>
-<div id="sdk-for-android-explore-getDuration()"
+
+  - <div id="sdk-for-android-explore-getDuration"
     class="section detail">
 
     ### getDuration
@@ -1030,7 +1133,8 @@ reject the route if deemed necessary.
     including real-time traffic delays if available.
 
     </div>
-<div id="sdk-for-android-explore-getTrafficDelay()"
+
+  - <div id="sdk-for-android-explore-getTrafficDelay"
     class="section detail">
 
     ### getTrafficDelay
@@ -1056,7 +1160,8 @@ reject the route if deemed necessary.
     traversed faster than usual.
 
     </div>
-<div id="sdk-for-android-explore-getPassthroughWaypoints()"
+
+  - <div id="sdk-for-android-explore-getPassthroughWaypoints"
     class="section detail">
 
     ### getPassthroughWaypoints
@@ -1064,7 +1169,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PassThroughWaypoint](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")\></span> <span class="element-name">getPassthroughWaypoints</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[PassThroughWaypoint](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")\></span> <span class="element-name">getPassthroughWaypoints</span>()
 
     </div>
 
@@ -1078,7 +1185,8 @@ reject the route if deemed necessary.
     The list of passthrough waypoints in this section.
 
     </div>
-<div id="sdk-for-android-explore-getNoThroughRestrictions()"
+
+  - <div id="sdk-for-android-explore-getNoThroughRestrictions"
     class="section detail">
 
     ### getNoThroughRestrictions
@@ -1086,7 +1194,9 @@ reject the route if deemed necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")\></span> <span class="element-name">getNoThroughRestrictions</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")\></span> <span class="element-name">getNoThroughRestrictions</span>()
 
     </div>
 
@@ -1107,6 +1217,4 @@ reject the route if deemed necessary.
     </div>
 
   </div>
-
-</div>
 

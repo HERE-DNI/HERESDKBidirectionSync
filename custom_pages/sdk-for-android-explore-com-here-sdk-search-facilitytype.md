@@ -3,17 +3,21 @@ title: "FacilityType (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-facilitytype"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-java.lang.Enum\<FacilityType\>com.here.sdk.search.FacilityType →
-java.lang.Enum → FacilityType → com.here.sdk.search.FacilityType
+java.lang.Object java.lang.Enum \< FacilityType \>
+com.here.sdk.search.FacilityType → java.lang.Enum \< FacilityType \>
+com.here.sdk.search.FacilityType → com.here.sdk.search.FacilityType
 
 </div>
 
@@ -21,14 +25,25 @@ java.lang.Enum → FacilityType → com.here.sdk.search.FacilityType
 class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")`>`,
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">FacilityType</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -43,19 +58,37 @@ deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+  ## Nested classes/interfaces inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
+
+  ## Enum Constant Summary
 
   <div class="caption">
 
@@ -79,7 +112,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#AIRPORT" class="member-name-link"><code>AIRPORT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#AIRPORT"
+  class="member-name-link"><code>AIRPORT</code></a>
 
   </div>
 
@@ -95,7 +130,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BIKE_SHARING" class="member-name-link"><code>BIKE_SHARING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BIKE_SHARING"
+  class="member-name-link"><code>BIKE_SHARING</code></a>
 
   </div>
 
@@ -111,7 +148,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUS_STOP" class="member-name-link"><code>BUS_STOP</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUS_STOP"
+  class="member-name-link"><code>BUS_STOP</code></a>
 
   </div>
 
@@ -127,7 +166,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUSINESS" class="member-name-link"><code>BUSINESS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#BUSINESS"
+  class="member-name-link"><code>BUSINESS</code></a>
 
   </div>
 
@@ -143,7 +184,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CAFE" class="member-name-link"><code>CAFE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CAFE"
+  class="member-name-link"><code>CAFE</code></a>
 
   </div>
 
@@ -159,7 +201,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CARPOOL_PARKING" class="member-name-link"><code>CARPOOL_PARKING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#CARPOOL_PARKING"
+  class="member-name-link"><code>CARPOOL_PARKING</code></a>
 
   </div>
 
@@ -175,7 +219,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#EDUCATION" class="member-name-link"><code>EDUCATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#EDUCATION"
+  class="member-name-link"><code>EDUCATION</code></a>
 
   </div>
 
@@ -191,7 +237,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FINANCE" class="member-name-link"><code>FINANCE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FINANCE"
+  class="member-name-link"><code>FINANCE</code></a>
 
   </div>
 
@@ -207,7 +255,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FUEL_STATION" class="member-name-link"><code>FUEL_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#FUEL_STATION"
+  class="member-name-link"><code>FUEL_STATION</code></a>
 
   </div>
 
@@ -223,7 +273,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HEALTH" class="member-name-link"><code>HEALTH</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HEALTH"
+  class="member-name-link"><code>HEALTH</code></a>
 
   </div>
 
@@ -239,7 +291,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HOTEL" class="member-name-link"><code>HOTEL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#HOTEL"
+  class="member-name-link"><code>HOTEL</code></a>
 
   </div>
 
@@ -255,7 +308,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MALL" class="member-name-link"><code>MALL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MALL"
+  class="member-name-link"><code>MALL</code></a>
 
   </div>
 
@@ -271,7 +325,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#METRO_STATION" class="member-name-link"><code>METRO_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#METRO_STATION"
+  class="member-name-link"><code>METRO_STATION</code></a>
 
   </div>
 
@@ -287,7 +343,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MUSEUM" class="member-name-link"><code>MUSEUM</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#MUSEUM"
+  class="member-name-link"><code>MUSEUM</code></a>
 
   </div>
 
@@ -303,7 +361,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#NATURE" class="member-name-link"><code>NATURE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#NATURE"
+  class="member-name-link"><code>NATURE</code></a>
 
   </div>
 
@@ -319,7 +379,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#PARKING_LOT" class="member-name-link"><code>PARKING_LOT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#PARKING_LOT"
+  class="member-name-link"><code>PARKING_LOT</code></a>
 
   </div>
 
@@ -335,7 +397,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RECREATION_AREA" class="member-name-link"><code>RECREATION_AREA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RECREATION_AREA"
+  class="member-name-link"><code>RECREATION_AREA</code></a>
 
   </div>
 
@@ -351,7 +415,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RESTAURANT" class="member-name-link"><code>RESTAURANT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#RESTAURANT"
+  class="member-name-link"><code>RESTAURANT</code></a>
 
   </div>
 
@@ -367,7 +433,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SERVICE" class="member-name-link"><code>SERVICE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SERVICE"
+  class="member-name-link"><code>SERVICE</code></a>
 
   </div>
 
@@ -383,7 +451,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SPORT" class="member-name-link"><code>SPORT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SPORT"
+  class="member-name-link"><code>SPORT</code></a>
 
   </div>
 
@@ -399,7 +468,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#STORE" class="member-name-link"><code>STORE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#STORE"
+  class="member-name-link"><code>STORE</code></a>
 
   </div>
 
@@ -415,7 +485,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SUPERMARKET" class="member-name-link"><code>SUPERMARKET</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#SUPERMARKET"
+  class="member-name-link"><code>SUPERMARKET</code></a>
 
   </div>
 
@@ -431,7 +503,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TAXI_STAND" class="member-name-link"><code>TAXI_STAND</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TAXI_STAND"
+  class="member-name-link"><code>TAXI_STAND</code></a>
 
   </div>
 
@@ -447,7 +521,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAIN_STATION" class="member-name-link"><code>TRAIN_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAIN_STATION"
+  class="member-name-link"><code>TRAIN_STATION</code></a>
 
   </div>
 
@@ -463,7 +539,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAM_STOP" class="member-name-link"><code>TRAM_STOP</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-facilitytype#TRAM_STOP"
+  class="member-name-link"><code>TRAM_STOP</code></a>
 
   </div>
 
@@ -479,7 +557,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#WIFI" class="member-name-link"><code>WIFI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype#WIFI"
+  class="member-name-link"><code>WIFI</code></a>
 
   </div>
 
@@ -496,7 +575,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -529,7 +609,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      valueOf(String name)
+      valueOf ( String name)
 
   </div>
 
@@ -551,7 +631,7 @@ deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      values()
+      values ()
 
   </div>
 
@@ -572,28 +652,85 @@ deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-HOTEL" class="section detail">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-explore-HOTEL" class="section detail">
 
     ### HOTEL
 
@@ -611,7 +748,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RESTAURANT" class="section detail">
+
+  - <div id="sdk-for-android-explore-RESTAURANT" class="section detail">
 
     ### RESTAURANT
 
@@ -629,7 +767,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAFE" class="section detail">
+
+  - <div id="sdk-for-android-explore-CAFE" class="section detail">
 
     ### CAFE
 
@@ -647,7 +786,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MALL" class="section detail">
+
+  - <div id="sdk-for-android-explore-MALL" class="section detail">
 
     ### MALL
 
@@ -665,7 +805,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SUPERMARKET"
+
+  - <div id="sdk-for-android-explore-SUPERMARKET"
     class="section detail">
 
     ### SUPERMARKET
@@ -684,7 +825,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SPORT" class="section detail">
+
+  - <div id="sdk-for-android-explore-SPORT" class="section detail">
 
     ### SPORT
 
@@ -702,7 +844,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RECREATION_AREA"
+
+  - <div id="sdk-for-android-explore-RECREATION_AREA"
     class="section detail">
 
     ### RECREATION_AREA
@@ -721,7 +864,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NATURE" class="section detail">
+
+  - <div id="sdk-for-android-explore-NATURE" class="section detail">
 
     ### NATURE
 
@@ -739,7 +883,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MUSEUM" class="section detail">
+
+  - <div id="sdk-for-android-explore-MUSEUM" class="section detail">
 
     ### MUSEUM
 
@@ -757,7 +902,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BIKE_SHARING"
+
+  - <div id="sdk-for-android-explore-BIKE_SHARING"
     class="section detail">
 
     ### BIKE_SHARING
@@ -776,7 +922,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BUS_STOP" class="section detail">
+
+  - <div id="sdk-for-android-explore-BUS_STOP" class="section detail">
 
     ### BUS_STOP
 
@@ -794,7 +941,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TAXI_STAND" class="section detail">
+
+  - <div id="sdk-for-android-explore-TAXI_STAND" class="section detail">
 
     ### TAXI_STAND
 
@@ -812,7 +960,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRAM_STOP" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRAM_STOP" class="section detail">
 
     ### TRAM_STOP
 
@@ -830,7 +979,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-METRO_STATION"
+
+  - <div id="sdk-for-android-explore-METRO_STATION"
     class="section detail">
 
     ### METRO_STATION
@@ -849,7 +999,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRAIN_STATION"
+
+  - <div id="sdk-for-android-explore-TRAIN_STATION"
     class="section detail">
 
     ### TRAIN_STATION
@@ -868,7 +1019,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AIRPORT" class="section detail">
+
+  - <div id="sdk-for-android-explore-AIRPORT" class="section detail">
 
     ### AIRPORT
 
@@ -886,7 +1038,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PARKING_LOT"
+
+  - <div id="sdk-for-android-explore-PARKING_LOT"
     class="section detail">
 
     ### PARKING_LOT
@@ -905,7 +1058,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CARPOOL_PARKING"
+
+  - <div id="sdk-for-android-explore-CARPOOL_PARKING"
     class="section detail">
 
     ### CARPOOL_PARKING
@@ -924,7 +1078,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FUEL_STATION"
+
+  - <div id="sdk-for-android-explore-FUEL_STATION"
     class="section detail">
 
     ### FUEL_STATION
@@ -943,7 +1098,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-WIFI" class="section detail">
+
+  - <div id="sdk-for-android-explore-WIFI" class="section detail">
 
     ### WIFI
 
@@ -961,7 +1117,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS" class="section detail">
+
+  - <div id="sdk-for-android-explore-BUSINESS" class="section detail">
 
     ### BUSINESS
 
@@ -979,7 +1136,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EDUCATION" class="section detail">
+
+  - <div id="sdk-for-android-explore-EDUCATION" class="section detail">
 
     ### EDUCATION
 
@@ -997,7 +1155,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FINANCE" class="section detail">
+
+  - <div id="sdk-for-android-explore-FINANCE" class="section detail">
 
     ### FINANCE
 
@@ -1015,7 +1174,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HEALTH" class="section detail">
+
+  - <div id="sdk-for-android-explore-HEALTH" class="section detail">
 
     ### HEALTH
 
@@ -1033,7 +1193,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SERVICE" class="section detail">
+
+  - <div id="sdk-for-android-explore-SERVICE" class="section detail">
 
     ### SERVICE
 
@@ -1051,7 +1212,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-STORE" class="section detail">
+
+  - <div id="sdk-for-android-explore-STORE" class="section detail">
 
     ### STORE
 
@@ -1071,9 +1233,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values" class="section detail">
 
     ### values
 
@@ -1096,7 +1260,8 @@ deprecation process.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
     class="section detail">
 
     ### valueOf
@@ -1104,7 +1269,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1124,15 +1291,19 @@ deprecation process.
     the enum constant with the specified name
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
 
   </div>
-
-</div>
 

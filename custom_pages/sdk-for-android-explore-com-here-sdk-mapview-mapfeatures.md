@@ -3,15 +3,20 @@ title: "MapFeatures (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.mapview.MapFeatures
+java.lang.Object com.here.sdk.mapview.MapFeatures →
+com.here.sdk.mapview.MapFeatures
 
 </div>
 
@@ -22,23 +27,25 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">MapFeatures</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
 Holds constants for map features, to be used with
-MapScene.enableFeatures(java.util.Map ) and
-MapScene.disableFeatures(java.util.List ) . See MapFeatureModes for
-constants representing feature modes.
+MapScene.enableFeatures(java.util.Map\<java.lang.String,
+java.lang.String\>) and
+MapScene.disableFeatures(java.util.List\<java.lang.String\>) . See
+MapFeatureModes for constants representing feature modes.
 
 </div>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -69,13 +76,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION" class="member-name-link"><code>AMBIENT_OCCLUSION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION"
+  class="member-name-link"><code>AMBIENT_OCCLUSION</code></a>
 
   </div>
 
@@ -92,13 +104,18 @@ constants representing feature modes.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS" class="member-name-link"><code>BUILDING_FOOTPRINTS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS"
+  class="member-name-link"><code>BUILDING_FOOTPRINTS</code></a>
 
   </div>
 
@@ -114,13 +131,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES" class="member-name-link"><code>CONGESTION_ZONES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES"
+  class="member-name-link"><code>CONGESTION_ZONES</code></a>
 
   </div>
 
@@ -137,13 +159,18 @@ constants representing feature modes.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES" class="member-name-link"><code>ENVIRONMENTAL_ZONES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES"
+  class="member-name-link"><code>ENVIRONMENTAL_ZONES</code></a>
 
   </div>
 
@@ -160,13 +187,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS" class="member-name-link"><code>EXTRUDED_BUILDINGS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS"
+  class="member-name-link"><code>EXTRUDED_BUILDINGS</code></a>
 
   </div>
 
@@ -182,13 +214,18 @@ constants representing feature modes.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES" class="member-name-link"><code>LOW_SPEED_ZONES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES"
+  class="member-name-link"><code>LOW_SPEED_ZONES</code></a>
 
   </div>
 
@@ -204,13 +241,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS" class="member-name-link"><code>ROAD_EXIT_LABELS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS"
+  class="member-name-link"><code>ROAD_EXIT_LABELS</code></a>
 
   </div>
 
@@ -226,13 +268,18 @@ constants representing feature modes.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS" class="member-name-link"><code>SHADOWS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS"
+  class="member-name-link"><code>SHADOWS</code></a>
 
   </div>
 
@@ -248,13 +295,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW" class="member-name-link"><code>TRAFFIC_FLOW</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW"
+  class="member-name-link"><code>TRAFFIC_FLOW</code></a>
 
   </div>
 
@@ -270,13 +322,18 @@ constants representing feature modes.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS" class="member-name-link"><code>TRAFFIC_INCIDENTS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS"
+  class="member-name-link"><code>TRAFFIC_INCIDENTS</code></a>
 
   </div>
 
@@ -292,13 +349,18 @@ constants representing feature modes.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS" class="member-name-link"><code>TRAFFIC_LIGHTS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS"
+  class="member-name-link"><code>TRAFFIC_LIGHTS</code></a>
 
   </div>
 
@@ -315,7 +377,8 @@ constants representing feature modes.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -340,7 +403,7 @@ constants representing feature modes.
 
   <div class="col-constructor-name even-row-color">
 
-      MapFeatures()
+      MapFeatures ()
 
   </div>
 
@@ -353,25 +416,61 @@ constants representing feature modes.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-EXTRUDED_BUILDINGS"
+
+  - <div id="sdk-for-android-explore-EXTRUDED_BUILDINGS"
     class="section detail">
 
     ### EXTRUDED_BUILDINGS
@@ -379,7 +478,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EXTRUDED_BUILDINGS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EXTRUDED_BUILDINGS</span>
 
     </div>
 
@@ -402,7 +503,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS)
 
     </div>
-<div id="sdk-for-android-explore-BUILDING_FOOTPRINTS"
+
+  - <div id="sdk-for-android-explore-BUILDING_FOOTPRINTS"
     class="section detail">
 
     ### BUILDING_FOOTPRINTS
@@ -410,7 +512,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUILDING_FOOTPRINTS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUILDING_FOOTPRINTS</span>
 
     </div>
 
@@ -433,7 +537,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS)
 
     </div>
-<div id="sdk-for-android-explore-TRAFFIC_FLOW"
+
+  - <div id="sdk-for-android-explore-TRAFFIC_FLOW"
     class="section detail">
 
     ### TRAFFIC_FLOW
@@ -441,7 +546,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW</span>
 
     </div>
 
@@ -469,7 +576,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW)
 
     </div>
-<div id="sdk-for-android-explore-TRAFFIC_INCIDENTS"
+
+  - <div id="sdk-for-android-explore-TRAFFIC_INCIDENTS"
     class="section detail">
 
     ### TRAFFIC_INCIDENTS
@@ -477,7 +585,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_INCIDENTS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_INCIDENTS</span>
 
     </div>
 
@@ -501,7 +611,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS)
 
     </div>
-<div id="sdk-for-android-explore-TRAFFIC_LIGHTS"
+
+  - <div id="sdk-for-android-explore-TRAFFIC_LIGHTS"
     class="section detail">
 
     ### TRAFFIC_LIGHTS
@@ -509,7 +620,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_LIGHTS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_LIGHTS</span>
 
     </div>
 
@@ -528,7 +641,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS)
 
     </div>
-<div id="sdk-for-android-explore-ENVIRONMENTAL_ZONES"
+
+  - <div id="sdk-for-android-explore-ENVIRONMENTAL_ZONES"
     class="section detail">
 
     ### ENVIRONMENTAL_ZONES
@@ -536,7 +650,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ENVIRONMENTAL_ZONES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ENVIRONMENTAL_ZONES</span>
 
     </div>
 
@@ -557,7 +673,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES)
 
     </div>
-<div id="sdk-for-android-explore-CONGESTION_ZONES"
+
+  - <div id="sdk-for-android-explore-CONGESTION_ZONES"
     class="section detail">
 
     ### CONGESTION_ZONES
@@ -565,7 +682,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CONGESTION_ZONES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CONGESTION_ZONES</span>
 
     </div>
 
@@ -585,7 +704,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES)
 
     </div>
-<div id="sdk-for-android-explore-LOW_SPEED_ZONES"
+
+  - <div id="sdk-for-android-explore-LOW_SPEED_ZONES"
     class="section detail">
 
     ### LOW_SPEED_ZONES
@@ -593,7 +713,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LOW_SPEED_ZONES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LOW_SPEED_ZONES</span>
 
     </div>
 
@@ -613,7 +735,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES)
 
     </div>
-<div id="sdk-for-android-explore-ROAD_EXIT_LABELS"
+
+  - <div id="sdk-for-android-explore-ROAD_EXIT_LABELS"
     class="section detail">
 
     ### ROAD_EXIT_LABELS
@@ -621,7 +744,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ROAD_EXIT_LABELS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ROAD_EXIT_LABELS</span>
 
     </div>
 
@@ -645,14 +770,17 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS)
 
     </div>
-<div id="sdk-for-android-explore-SHADOWS" class="section detail">
+
+  - <div id="sdk-for-android-explore-SHADOWS" class="section detail">
 
     ### SHADOWS
 
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span>
 
     </div>
 
@@ -680,7 +808,8 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS)
 
     </div>
-<div id="sdk-for-android-explore-AMBIENT_OCCLUSION"
+
+  - <div id="sdk-for-android-explore-AMBIENT_OCCLUSION"
     class="section detail">
 
     ### AMBIENT_OCCLUSION
@@ -688,7 +817,9 @@ constants representing feature modes.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION</span>
 
     </div>
 
@@ -717,9 +848,11 @@ constants representing feature modes.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### MapFeatures
 
@@ -732,6 +865,4 @@ constants representing feature modes.
     </div>
 
   </div>
-
-</div>
 

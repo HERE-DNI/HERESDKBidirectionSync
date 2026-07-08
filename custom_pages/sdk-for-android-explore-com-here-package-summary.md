@@ -3,14 +3,17 @@ title: "com.here (API Reference)"
 slug: "sdk-for-android-explore-com-here-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -47,7 +50,8 @@ package <span class="element-name">com.here</span>
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="caption">
 
@@ -89,6 +93,4 @@ package <span class="element-name">com.here</span>
   </div>
 
   </div>
-
-</div>
 

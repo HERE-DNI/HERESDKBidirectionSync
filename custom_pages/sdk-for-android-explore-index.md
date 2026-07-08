@@ -3,15 +3,20 @@ title: "Overview (API Reference)"
 slug: "sdk-for-android-explore-index"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="block">
 
 Browse the latest API Reference for the HERE SDK for Android (Explore),
 Version 4.26.0.0.278965 Release For the terms and conditions covering
-this documentation, see the HERE Documentation License . Be sure to
-check out our User Guide including a Get Started tutorial that shows how
-to integrate the HERE SDK into your own apps with a few simple steps. We
-love feedback. Please contact us for any questions, suggestions or
-improvements. Thank you for using the HERE SDK.
+this documentation, see the HERE Documentation License . More
+Documentation Resources Be sure to check out our User Guide including a
+Get Started tutorial that shows how to integrate the HERE SDK into your
+own apps with a few simple steps. Get in Touch We love feedback. Please
+contact us for any questions, suggestions or improvements. Thank you for
+using the HERE SDK.
 
 </div>
 

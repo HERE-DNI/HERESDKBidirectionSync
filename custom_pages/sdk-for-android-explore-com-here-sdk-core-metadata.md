@@ -3,16 +3,21 @@ title: "Metadata (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-metadata"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.core.Metadata →
-com.here.NativeBase → com.here.sdk.core.Metadata
+java.lang.Object com.here.NativeBase com.here.sdk.core.Metadata →
+com.here.NativeBase com.here.sdk.core.Metadata →
+com.here.sdk.core.Metadata
 
 </div>
 
@@ -39,8 +44,7 @@ by the use of the CustomMetadataValue interface.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -65,7 +69,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-constructor-name even-row-color">
 
-      Metadata()
+      Metadata ()
 
   </div>
 
@@ -82,7 +86,8 @@ by the use of the CustomMetadataValue interface.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -115,7 +120,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCustomValue(String key)
+      getCustomValue ( String key)
 
   </div>
 
@@ -132,13 +137,16 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDouble(String key)
+      getDouble ( String key)
 
   </div>
 
@@ -160,7 +168,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGeoCoordinates(String key)
+      getGeoCoordinates ( String key)
 
   </div>
 
@@ -176,13 +184,16 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getInteger(String key)
+      getInteger ( String key)
 
   </div>
 
@@ -198,13 +209,16 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getString(String key)
+      getString ( String key)
 
   </div>
 
@@ -226,7 +240,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getType(String key)
+      getType ( String key)
 
   </div>
 
@@ -248,7 +262,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      removeValue(String key)
+      removeValue ( String key)
 
   </div>
 
@@ -270,8 +284,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setCustomValue(String key,
-       CustomMetadataValue value)
+      setCustomValue ( String key, CustomMetadataValue value)
 
   </div>
 
@@ -294,7 +307,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setDouble(String key,
+      setDouble ( String key,
        double value)
 
   </div>
@@ -317,8 +330,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setGeoCoordinates(String key,
-       GeoCoordinates value)
+      setGeoCoordinates ( String key, GeoCoordinates value)
 
   </div>
 
@@ -340,7 +352,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setInteger(String key,
+      setInteger ( String key,
        int value)
 
   </div>
@@ -363,8 +375,7 @@ by the use of the CustomMetadataValue interface.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setString(String key,
-       String value)
+      setString ( String key, String value)
 
   </div>
 
@@ -384,20 +395,55 @@ by the use of the CustomMetadataValue interface.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### Metadata
 
@@ -416,9 +462,11 @@ by the use of the CustomMetadataValue interface.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getCustomValue(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getCustomValue-java-lang-String"
     class="section detail">
 
     ### getCustomValue
@@ -427,7 +475,9 @@ by the use of the CustomMetadataValue interface.
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[CustomMetadataValue](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core")</span> <span class="element-name">getCustomValue</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -447,7 +497,8 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-<div id="sdk-for-android-explore-getDouble(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getDouble-java-lang-String"
     class="section detail">
 
     ### getDouble
@@ -455,8 +506,12 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getDouble</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getDouble</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -475,7 +530,8 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-<div id="sdk-for-android-explore-getGeoCoordinates(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getGeoCoordinates-java-lang-String"
     class="section detail">
 
     ### getGeoCoordinates
@@ -484,7 +540,9 @@ by the use of the CustomMetadataValue interface.
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getGeoCoordinates</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -503,7 +561,8 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-<div id="sdk-for-android-explore-getInteger(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getInteger-java-lang-String"
     class="section detail">
 
     ### getInteger
@@ -511,8 +570,13 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getInteger</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">getInteger</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -531,7 +595,8 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-<div id="sdk-for-android-explore-getString(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getString-java-lang-String"
     class="section detail">
 
     ### getString
@@ -539,8 +604,12 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getString</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getString</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -559,7 +628,8 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-<div id="sdk-for-android-explore-getType(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getType-java-lang-String"
     class="section detail">
 
     ### getType
@@ -568,7 +638,9 @@ by the use of the CustomMetadataValue interface.
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[MetadataType](sdk-for-android-explore-com-here-sdk-core-metadatatype "enum class in com.here.sdk.core")</span> <span class="element-name">getType</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -591,7 +663,8 @@ by the use of the CustomMetadataValue interface.
     key.
 
     </div>
-<div id="sdk-for-android-explore-removeValue(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-removeValue-java-lang-String"
     class="section detail">
 
     ### removeValue
@@ -599,7 +672,9 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeValue</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -615,7 +690,8 @@ by the use of the CustomMetadataValue interface.
     The name of the key to be removed.
 
     </div>
-<div id="sdk-for-android-explore-setCustomValue(java.lang.String,com.here.sdk.core.CustomMetadataValue)"
+
+  - <div id="sdk-for-android-explore-setCustomValue-java-lang-String-com-here-sdk-core-CustomMetadataValue"
     class="section detail">
 
     ### setCustomValue
@@ -623,7 +699,9 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomValue</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key,
     @NonNull
     [CustomMetadataValue](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core") value)</span>
 
@@ -647,7 +725,8 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-<div id="sdk-for-android-explore-setDouble(java.lang.String,double)"
+
+  - <div id="sdk-for-android-explore-setDouble-java-lang-String-double"
     class="section detail">
 
     ### setDouble
@@ -655,7 +734,9 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDouble</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key,
     double value)</span>
 
     </div>
@@ -677,7 +758,8 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-<div id="sdk-for-android-explore-setGeoCoordinates(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-setGeoCoordinates-java-lang-String-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### setGeoCoordinates
@@ -685,7 +767,9 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key,
     @NonNull
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") value)</span>
 
@@ -709,7 +793,8 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-<div id="sdk-for-android-explore-setInteger(java.lang.String,int)"
+
+  - <div id="sdk-for-android-explore-setInteger-java-lang-String-int"
     class="section detail">
 
     ### setInteger
@@ -717,7 +802,9 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setInteger</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key,
     int value)</span>
 
     </div>
@@ -739,7 +826,8 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-<div id="sdk-for-android-explore-setString(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setString-java-lang-String-java-lang-String"
     class="section detail">
 
     ### setString
@@ -747,8 +835,12 @@ by the use of the CustomMetadataValue interface.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setString</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> key,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -771,6 +863,4 @@ by the use of the CustomMetadataValue interface.
     </div>
 
   </div>
-
-</div>
 

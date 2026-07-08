@@ -3,16 +3,21 @@ title: "Gestures (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-gestures"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.gestures.Gestures →
-com.here.NativeBase → com.here.sdk.gestures.Gestures
+java.lang.Object com.here.NativeBase com.here.sdk.gestures.Gestures →
+com.here.NativeBase com.here.sdk.gestures.Gestures →
+com.here.sdk.gestures.Gestures
 
 </div>
 
@@ -43,8 +48,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -77,7 +81,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      disableDefaultAction(GestureType gestureType)
+      disableDefaultAction ( GestureType gestureType)
 
   </div>
 
@@ -99,7 +103,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      enableDefaultAction(GestureType gestureType)
+      enableDefaultAction ( GestureType gestureType)
 
   </div>
 
@@ -121,7 +125,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDoubleTapListener()
+      getDoubleTapListener ()
 
   </div>
 
@@ -144,7 +148,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getFlingHandler()
+      getFlingHandler ()
 
   </div>
 
@@ -166,7 +170,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLongPressListener()
+      getLongPressListener ()
 
   </div>
 
@@ -189,7 +193,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPanListener()
+      getPanListener ()
 
   </div>
 
@@ -211,7 +215,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPinchRotateListener()
+      getPinchRotateListener ()
 
   </div>
 
@@ -234,7 +238,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getScaleHandler()
+      getScaleHandler ()
 
   </div>
 
@@ -256,7 +260,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getScrollHandler()
+      getScrollHandler ()
 
   </div>
 
@@ -278,7 +282,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTapListener()
+      getTapListener ()
 
   </div>
 
@@ -300,7 +304,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTwoFingerPanListener()
+      getTwoFingerPanListener ()
 
   </div>
 
@@ -323,7 +327,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTwoFingerTapListener()
+      getTwoFingerTapListener ()
 
   </div>
 
@@ -346,7 +350,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setDoubleTapListener(DoubleTapListener value)
+      setDoubleTapListener ( DoubleTapListener value)
 
   </div>
 
@@ -369,7 +373,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setLongPressListener(LongPressListener value)
+      setLongPressListener ( LongPressListener value)
 
   </div>
 
@@ -392,7 +396,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setPanListener(PanListener value)
+      setPanListener ( PanListener value)
 
   </div>
 
@@ -414,7 +418,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setPinchRotateListener(PinchRotateListener value)
+      setPinchRotateListener ( PinchRotateListener value)
 
   </div>
 
@@ -437,7 +441,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setTapListener(TapListener value)
+      setTapListener ( TapListener value)
 
   </div>
 
@@ -459,7 +463,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setTwoFingerPanListener(TwoFingerPanListener value)
+      setTwoFingerPanListener ( TwoFingerPanListener value)
 
   </div>
 
@@ -482,7 +486,7 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setTwoFingerTapListener(TwoFingerTapListener value)
+      setTwoFingerTapListener ( TwoFingerTapListener value)
 
   </div>
 
@@ -503,20 +507,55 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-enableDefaultAction(com.here.sdk.gestures.GestureType)"
+
+  - <div id="sdk-for-android-explore-enableDefaultAction-com-here-sdk-gestures-GestureType"
     class="section detail">
 
     ### enableDefaultAction
@@ -540,7 +579,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     The gesture type.
 
     </div>
-<div id="sdk-for-android-explore-disableDefaultAction(com.here.sdk.gestures.GestureType)"
+
+  - <div id="sdk-for-android-explore-disableDefaultAction-com-here-sdk-gestures-GestureType"
     class="section detail">
 
     ### disableDefaultAction
@@ -564,7 +604,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     The gesture type.
 
     </div>
-<div id="sdk-for-android-explore-getTapListener()"
+
+  - <div id="sdk-for-android-explore-getTapListener"
     class="section detail">
 
     ### getTapListener
@@ -588,7 +629,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTapListener(com.here.sdk.gestures.TapListener)"
+
+  - <div id="sdk-for-android-explore-setTapListener-com-here-sdk-gestures-TapListener"
     class="section detail">
 
     ### setTapListener
@@ -613,7 +655,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getDoubleTapListener()"
+
+  - <div id="sdk-for-android-explore-getDoubleTapListener"
     class="section detail">
 
     ### getDoubleTapListener
@@ -637,7 +680,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a double-tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setDoubleTapListener(com.here.sdk.gestures.DoubleTapListener)"
+
+  - <div id="sdk-for-android-explore-setDoubleTapListener-com-here-sdk-gestures-DoubleTapListener"
     class="section detail">
 
     ### setDoubleTapListener
@@ -663,7 +707,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a double-tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getPinchRotateListener()"
+
+  - <div id="sdk-for-android-explore-getPinchRotateListener"
     class="section detail">
 
     ### getPinchRotateListener
@@ -687,7 +732,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pinch-rotate gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setPinchRotateListener(com.here.sdk.gestures.PinchRotateListener)"
+
+  - <div id="sdk-for-android-explore-setPinchRotateListener-com-here-sdk-gestures-PinchRotateListener"
     class="section detail">
 
     ### setPinchRotateListener
@@ -713,7 +759,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pinch-rotate gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getLongPressListener()"
+
+  - <div id="sdk-for-android-explore-getLongPressListener"
     class="section detail">
 
     ### getLongPressListener
@@ -737,7 +784,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a long-press gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setLongPressListener(com.here.sdk.gestures.LongPressListener)"
+
+  - <div id="sdk-for-android-explore-setLongPressListener-com-here-sdk-gestures-LongPressListener"
     class="section detail">
 
     ### setLongPressListener
@@ -763,7 +811,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a long-press gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getPanListener()"
+
+  - <div id="sdk-for-android-explore-getPanListener"
     class="section detail">
 
     ### getPanListener
@@ -787,7 +836,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setPanListener(com.here.sdk.gestures.PanListener)"
+
+  - <div id="sdk-for-android-explore-setPanListener-com-here-sdk-gestures-PanListener"
     class="section detail">
 
     ### setPanListener
@@ -812,7 +862,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getTwoFingerTapListener()"
+
+  - <div id="sdk-for-android-explore-getTwoFingerTapListener"
     class="section detail">
 
     ### getTwoFingerTapListener
@@ -836,7 +887,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTwoFingerTapListener(com.here.sdk.gestures.TwoFingerTapListener)"
+
+  - <div id="sdk-for-android-explore-setTwoFingerTapListener-com-here-sdk-gestures-TwoFingerTapListener"
     class="section detail">
 
     ### setTwoFingerTapListener
@@ -862,7 +914,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getTwoFingerPanListener()"
+
+  - <div id="sdk-for-android-explore-getTwoFingerPanListener"
     class="section detail">
 
     ### getTwoFingerPanListener
@@ -886,7 +939,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTwoFingerPanListener(com.here.sdk.gestures.TwoFingerPanListener)"
+
+  - <div id="sdk-for-android-explore-setTwoFingerPanListener-com-here-sdk-gestures-TwoFingerPanListener"
     class="section detail">
 
     ### setTwoFingerPanListener
@@ -912,7 +966,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getScrollHandler()"
+
+  - <div id="sdk-for-android-explore-getScrollHandler"
     class="section detail">
 
     ### getScrollHandler
@@ -935,7 +990,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     Scroll handler.
 
     </div>
-<div id="sdk-for-android-explore-getScaleHandler()"
+
+  - <div id="sdk-for-android-explore-getScaleHandler"
     class="section detail">
 
     ### getScaleHandler
@@ -958,7 +1014,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     Scale handler.
 
     </div>
-<div id="sdk-for-android-explore-getFlingHandler()"
+
+  - <div id="sdk-for-android-explore-getFlingHandler"
     class="section detail">
 
     ### getFlingHandler
@@ -983,6 +1040,4 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     </div>
 
   </div>
-
-</div>
 

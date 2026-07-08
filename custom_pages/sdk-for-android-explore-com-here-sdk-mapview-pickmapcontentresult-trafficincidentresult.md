@@ -3,17 +3,22 @@ title: "PickMapContentResult.TrafficIncidentResult (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult
-→ com.here.NativeBase →
+java.lang.Object com.here.NativeBase
+com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult →
+com.here.NativeBase
+com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult →
 com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult
 
 </div>
@@ -50,8 +55,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -84,7 +88,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCoordinates()
+      getCoordinates ()
 
   </div>
 
@@ -106,7 +110,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDescription()
+      getDescription ()
 
   </div>
 
@@ -123,13 +127,16 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getEndTime()
+      getEndTime ()
 
   </div>
 
@@ -152,7 +159,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getImpact()
+      getImpact ()
 
   </div>
 
@@ -168,13 +175,16 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOriginalId()
+      getOriginalId ()
 
   </div>
 
@@ -190,13 +200,16 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getStartTime()
+      getStartTime ()
 
   </div>
 
@@ -219,7 +232,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getType()
+      getType ()
 
   </div>
 
@@ -239,20 +252,55 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getOriginalId()"
+
+  - <div id="sdk-for-android-explore-getOriginalId"
     class="section detail">
 
     ### getOriginalId
@@ -260,7 +308,9 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
 
     </div>
 
@@ -275,7 +325,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     Unique traffic event ID.
 
     </div>
-<div id="sdk-for-android-explore-getCoordinates()"
+
+  - <div id="sdk-for-android-explore-getCoordinates"
     class="section detail">
 
     ### getCoordinates
@@ -297,8 +348,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The geographic coordinates of the traffic incident.
 
     </div>
-<div id="sdk-for-android-explore-getImpact()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getImpact" class="section detail">
 
     ### getImpact
 
@@ -325,7 +376,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The impact of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getType()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getType" class="section detail">
 
     ### getType
 
@@ -352,7 +404,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The category of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getDescription()"
+
+  - <div id="sdk-for-android-explore-getDescription"
     class="section detail">
 
     ### getDescription
@@ -383,7 +436,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     location information.
 
     </div>
-<div id="sdk-for-android-explore-getStartTime()"
+
+  - <div id="sdk-for-android-explore-getStartTime"
     class="section detail">
 
     ### getStartTime
@@ -391,7 +445,9 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
@@ -412,15 +468,17 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     incident should not be considered.
 
     </div>
-<div id="sdk-for-android-explore-getEndTime()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getEndTime" class="section detail">
 
     ### getEndTime
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 
@@ -443,6 +501,4 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     </div>
 
   </div>
-
-</div>
 

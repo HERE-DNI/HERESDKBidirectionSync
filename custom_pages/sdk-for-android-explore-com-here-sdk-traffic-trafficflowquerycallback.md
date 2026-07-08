@@ -3,9 +3,13 @@ title: "TrafficFlowQueryCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+
+</div>
 
 </div>
 
@@ -18,7 +22,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">TrafficFlowQueryCallback</span>
 
@@ -41,8 +48,7 @@ success. It is null in case of an error.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -75,8 +81,7 @@ success. It is null in case of an error.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onTrafficFlowFetched(TrafficQueryError queryError,
-       List<TrafficFlow> result)
+      onTrafficFlowFetched ( TrafficQueryError queryError, List < TrafficFlow > result)
 
   </div>
 
@@ -102,12 +107,12 @@ success. It is null in case of an error.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTrafficFlowFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)"
+
+  - <div id="sdk-for-android-explore-onTrafficFlowFetched-com-here-sdk-traffic-TrafficQueryError-java-util-List"
     class="section detail">
 
     ### onTrafficFlowFetched
@@ -116,7 +121,9 @@ success. It is null in case of an error.
 
     <span class="return-type">void</span> <span class="element-name">onTrafficFlowFetched</span><span class="parameters">(@Nullable
     [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")\> result)</span>
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")\> result)</span>
 
     </div>
 
@@ -151,6 +158,4 @@ success. It is null in case of an error.
     </div>
 
   </div>
-
-</div>
 

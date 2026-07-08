@@ -3,15 +3,20 @@ title: "RoadShieldIconProperties (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.mapview.RoadShieldIconProperties
+java.lang.Object com.here.sdk.mapview.RoadShieldIconProperties →
+com.here.sdk.mapview.RoadShieldIconProperties
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">RoadShieldIconProperties</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -34,8 +41,7 @@ Contains the information required to create a road shield image.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -66,13 +72,18 @@ Contains the information required to create a road shield image.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#countryCode" class="member-name-link"><code>countryCode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#countryCode"
+  class="member-name-link"><code>countryCode</code></a>
 
   </div>
 
@@ -89,13 +100,18 @@ Contains the information required to create a road shield image.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeNumberName" class="member-name-link"><code>routeNumberName</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeNumberName"
+  class="member-name-link"><code>routeNumberName</code></a>
 
   </div>
 
@@ -118,7 +134,9 @@ Contains the information required to create a road shield image.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeType" class="member-name-link"><code>routeType</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#routeType"
+  class="member-name-link"><code>routeType</code></a>
 
   </div>
 
@@ -135,13 +153,18 @@ Contains the information required to create a road shield image.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText" class="member-name-link"><code>shieldText</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText"
+  class="member-name-link"><code>shieldText</code></a>
 
   </div>
 
@@ -157,13 +180,18 @@ Contains the information required to create a road shield image.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#stateCode" class="member-name-link"><code>stateCode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#stateCode"
+  class="member-name-link"><code>stateCode</code></a>
 
   </div>
 
@@ -180,7 +208,8 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -205,11 +234,7 @@ Contains the information required to create a road shield image.
 
   <div class="col-constructor-name even-row-color">
 
-      RoadShieldIconProperties(RouteType routeType,
-       String countryCode,
-       String stateCode,
-       String routeNumberName,
-       String shieldText)
+      RoadShieldIconProperties ( RouteType routeType, String countryCode, String stateCode, String routeNumberName, String shieldText)
 
   </div>
 
@@ -226,25 +251,61 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-routeType" class="section detail">
+
+  - <div id="sdk-for-android-explore-routeType" class="section detail">
 
     ### routeType
 
@@ -264,7 +325,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-countryCode"
+
+  - <div id="sdk-for-android-explore-countryCode"
     class="section detail">
 
     ### countryCode
@@ -272,7 +334,9 @@ Contains the information required to create a road shield image.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">countryCode</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">countryCode</span>
 
     </div>
 
@@ -284,14 +348,17 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-stateCode" class="section detail">
+
+  - <div id="sdk-for-android-explore-stateCode" class="section detail">
 
     ### stateCode
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">stateCode</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">stateCode</span>
 
     </div>
 
@@ -307,7 +374,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-routeNumberName"
+
+  - <div id="sdk-for-android-explore-routeNumberName"
     class="section detail">
 
     ### routeNumberName
@@ -315,7 +383,9 @@ Contains the information required to create a road shield image.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">routeNumberName</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">routeNumberName</span>
 
     </div>
 
@@ -341,14 +411,17 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-shieldText" class="section detail">
+
+  - <div id="sdk-for-android-explore-shieldText" class="section detail">
 
     ### shieldText
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">shieldText</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">shieldText</span>
 
     </div>
 
@@ -363,9 +436,11 @@ Contains the information required to create a road shield image.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-RouteType-java-lang-String-java-lang-String-java-lang-String-java-lang-String"
     class="section detail">
 
     ### RoadShieldIconProperties
@@ -374,10 +449,18 @@ Contains the information required to create a road shield image.
 
     <span class="modifiers">public</span> <span class="element-name">RoadShieldIconProperties</span><span class="parameters">(@NonNull
     [RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core") routeType,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> countryCode,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> stateCode,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> routeNumberName,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> shieldText)</span>
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> countryCode,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> stateCode,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> routeNumberName,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> shieldText)</span>
 
     </div>
 
@@ -436,6 +519,4 @@ Contains the information required to create a road shield image.
     </div>
 
   </div>
-
-</div>
 

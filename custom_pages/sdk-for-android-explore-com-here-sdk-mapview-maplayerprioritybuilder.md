@@ -3,17 +3,22 @@ title: "MapLayerPriorityBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.mapview.MapLayerPriorityBuilder →
-com.here.NativeBase → com.here.sdk.mapview.MapLayerPriorityBuilder
+java.lang.Object com.here.NativeBase
+com.here.sdk.mapview.MapLayerPriorityBuilder → com.here.NativeBase
+com.here.sdk.mapview.MapLayerPriorityBuilder →
+com.here.sdk.mapview.MapLayerPriorityBuilder
 
 </div>
 
@@ -92,8 +97,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -118,7 +122,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-constructor-name even-row-color">
 
-      MapLayerPriorityBuilder()
+      MapLayerPriorityBuilder ()
 
   </div>
 
@@ -135,7 +139,8 @@ assignment can be done for all types of data: points, lines, polygons.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -168,7 +173,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      build()
+      build ()
 
   </div>
 
@@ -190,7 +195,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      inGroup(String group)
+      inGroup ( String group)
 
   </div>
 
@@ -213,7 +218,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedAfterLayer(String referenceLayer)
+      renderedAfterLayer ( String referenceLayer)
 
   </div>
 
@@ -236,8 +241,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedAfterLayer(String referenceLayer,
-       String referenceCategory)
+      renderedAfterLayer ( String referenceLayer, String referenceCategory)
 
   </div>
 
@@ -260,7 +264,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedBeforeLayer(String referenceLayer)
+      renderedBeforeLayer ( String referenceLayer)
 
   </div>
 
@@ -283,8 +287,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedBeforeLayer(String referenceLayer,
-       String referenceCategory)
+      renderedBeforeLayer ( String referenceLayer, String referenceCategory)
 
   </div>
 
@@ -307,7 +310,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedFirst()
+      renderedFirst ()
 
   </div>
 
@@ -329,7 +332,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      renderedLast()
+      renderedLast ()
 
   </div>
 
@@ -351,7 +354,7 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withCategory(String category)
+      withCategory ( String category)
 
   </div>
 
@@ -373,20 +376,55 @@ assignment can be done for all types of data: points, lines, polygons.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### MapLayerPriorityBuilder
 
@@ -405,9 +443,11 @@ assignment can be done for all types of data: points, lines, polygons.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-withCategory(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-withCategory-java-lang-String"
     class="section detail">
 
     ### withCategory
@@ -416,7 +456,9 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withCategory</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> category)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> category)</span>
 
     </div>
 
@@ -440,7 +482,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-inGroup(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-inGroup-java-lang-String"
     class="section detail">
 
     ### inGroup
@@ -449,7 +492,9 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">inGroup</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> group)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> group)</span>
 
     </div>
 
@@ -485,7 +530,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedFirst()"
+
+  - <div id="sdk-for-android-explore-renderedFirst"
     class="section detail">
 
     ### renderedFirst
@@ -510,7 +556,7 @@ assignment can be done for all types of data: points, lines, polygons.
     the priority to render layer category 'C' after layer 'L' would be
     overridden by the priority to render layer category 'C' before layer
     'L' when building something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference.
 
@@ -520,7 +566,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedLast()"
+
+  - <div id="sdk-for-android-explore-renderedLast"
     class="section detail">
 
     ### renderedLast
@@ -545,7 +592,7 @@ assignment can be done for all types of data: points, lines, polygons.
     the priority to render layer category 'C' after layer 'L' would be
     overridden by the priority to render layer category 'C' before layer
     'L' when building something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference.
 
@@ -555,7 +602,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedBeforeLayer-java-lang-String"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -564,7 +612,9 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedBeforeLayer</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
 
     </div>
 
@@ -582,7 +632,7 @@ assignment can be done for all types of data: points, lines, polygons.
     layer category 'C' after layer 'L' would be overridden by the
     priority to render layer category 'C' before layer 'L' when building
     something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference. If the referenceLayer does not exist, then the function
     will set the priority as rendered before all layers and categories.
@@ -599,7 +649,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedBeforeLayer-java-lang-String-java-lang-String"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -608,8 +659,12 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedBeforeLayer</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceLayer,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
 
     </div>
 
@@ -627,7 +682,7 @@ assignment can be done for all types of data: points, lines, polygons.
     layer category 'C' after layer 'L' would be overridden by the
     priority to render layer category 'C' before layer 'L' when building
     something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference. If the referenceLayer and/or the referenceCategory do not
     exist, then the function will set the priority as rendered before
@@ -650,7 +705,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedAfterLayer-java-lang-String"
     class="section detail">
 
     ### renderedAfterLayer
@@ -659,7 +715,9 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedAfterLayer</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
 
     </div>
 
@@ -677,7 +735,7 @@ assignment can be done for all types of data: points, lines, polygons.
     layer category 'C' after layer 'L' would be overridden by the
     priority to render layer category 'C' before layer 'L' when building
     something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference. If the referenceLayer does not exist, then the function
     will set the priority as rendered after all layers and categories.
@@ -694,7 +752,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedAfterLayer-java-lang-String-java-lang-String"
     class="section detail">
 
     ### renderedAfterLayer
@@ -703,8 +762,12 @@ assignment can be done for all types of data: points, lines, polygons.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedAfterLayer</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceLayer,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
 
     </div>
 
@@ -722,7 +785,7 @@ assignment can be done for all types of data: points, lines, polygons.
     layer category 'C' after layer 'L' would be overridden by the
     priority to render layer category 'C' before layer 'L' when building
     something like
-    withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")
+    withCategory(\&quot;C\&quot;).renderedAfterLayer(\&quot;L\&quot;).withCategory(\&quot;C\&quot;).renderedBeforeLayer(\&quot;L\&quot;)
     The previously defined and prioritised categories can be used as
     reference. If the referenceLayer and/or the referenceCategory do not
     exist, then the function will set the priority as rendered after all
@@ -745,7 +808,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-build()" class="section detail">
+
+  - <div id="sdk-for-android-explore-build" class="section detail">
 
     ### build
 
@@ -769,6 +833,4 @@ assignment can be done for all types of data: points, lines, polygons.
     </div>
 
   </div>
-
-</div>
 

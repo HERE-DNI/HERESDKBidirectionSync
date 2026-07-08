@@ -3,15 +3,20 @@ title: "AvoidBoundingBoxAreaOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.routing.AvoidBoundingBoxAreaOptions
+java.lang.Object com.here.sdk.routing.AvoidBoundingBoxAreaOptions →
+com.here.sdk.routing.AvoidBoundingBoxAreaOptions
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">AvoidBoundingBoxAreaOptions</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -34,8 +41,7 @@ The options to specify rectangular shape which routes must not cross.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -72,7 +78,9 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#avoidBoundingBoxArea" class="member-name-link"><code>avoidBoundingBoxArea</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#avoidBoundingBoxArea"
+  class="member-name-link"><code>avoidBoundingBoxArea</code></a>
 
   </div>
 
@@ -88,13 +96,18 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#boundingBoxExceptionAreas" class="member-name-link"><code>boundingBoxExceptionAreas</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#boundingBoxExceptionAreas"
+  class="member-name-link"><code>boundingBoxExceptionAreas</code></a>
 
   </div>
 
@@ -110,13 +123,18 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCorridor`](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCorridor`](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#corridorExceptionAreas" class="member-name-link"><code>corridorExceptionAreas</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#corridorExceptionAreas"
+  class="member-name-link"><code>corridorExceptionAreas</code></a>
 
   </div>
 
@@ -132,13 +150,18 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#polygonExceptionAreas" class="member-name-link"><code>polygonExceptionAreas</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#polygonExceptionAreas"
+  class="member-name-link"><code>polygonExceptionAreas</code></a>
 
   </div>
 
@@ -155,7 +178,8 @@ The options to specify rectangular shape which routes must not cross.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -180,7 +204,7 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-constructor-name even-row-color">
 
-      AvoidBoundingBoxAreaOptions(GeoBox avoidBoundingBoxArea)
+      AvoidBoundingBoxAreaOptions ( GeoBox avoidBoundingBoxArea)
 
   </div>
 
@@ -197,7 +221,8 @@ The options to specify rectangular shape which routes must not cross.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -230,7 +255,7 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -248,7 +273,7 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -264,20 +289,49 @@ The options to specify rectangular shape which routes must not cross.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-avoidBoundingBoxArea"
+
+  - <div id="sdk-for-android-explore-avoidBoundingBoxArea"
     class="section detail">
 
     ### avoidBoundingBoxArea
@@ -301,7 +355,8 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-boundingBoxExceptionAreas"
+
+  - <div id="sdk-for-android-explore-boundingBoxExceptionAreas"
     class="section detail">
 
     ### boundingBoxExceptionAreas
@@ -309,7 +364,9 @@ The options to specify rectangular shape which routes must not cross.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">boundingBoxExceptionAreas</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">boundingBoxExceptionAreas</span>
 
     </div>
 
@@ -320,7 +377,8 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-polygonExceptionAreas"
+
+  - <div id="sdk-for-android-explore-polygonExceptionAreas"
     class="section detail">
 
     ### polygonExceptionAreas
@@ -328,7 +386,9 @@ The options to specify rectangular shape which routes must not cross.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">polygonExceptionAreas</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">polygonExceptionAreas</span>
 
     </div>
 
@@ -339,7 +399,8 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-corridorExceptionAreas"
+
+  - <div id="sdk-for-android-explore-corridorExceptionAreas"
     class="section detail">
 
     ### corridorExceptionAreas
@@ -347,7 +408,9 @@ The options to specify rectangular shape which routes must not cross.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")\></span> <span class="element-name">corridorExceptionAreas</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")\></span> <span class="element-name">corridorExceptionAreas</span>
 
     </div>
 
@@ -363,9 +426,11 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### AvoidBoundingBoxAreaOptions
@@ -396,25 +461,36 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -425,12 +501,16 @@ The options to specify rectangular shape which routes must not cross.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

@@ -3,16 +3,21 @@ title: "TimeRule (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-timerule"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.core.TimeRule →
-com.here.NativeBase → com.here.sdk.core.TimeRule
+java.lang.Object com.here.NativeBase com.here.sdk.core.TimeRule →
+com.here.NativeBase com.here.sdk.core.TimeRule →
+com.here.sdk.core.TimeRule
 
 </div>
 
@@ -59,8 +64,7 @@ in both components. For more advanced examples of TimeRule see here .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -85,9 +89,8 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-constructor-name even-row-color">
 
-      TimeRule(String timeRule,
-       int timeZoneOffsetSeconds,
-       String dstSpec)
+      TimeRule ( String timeRule,
+       int timeZoneOffsetSeconds, String dstSpec)
 
   </div>
 
@@ -104,7 +107,8 @@ in both components. For more advanced examples of TimeRule see here .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -137,7 +141,7 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      appliesTo(Date dateTime)
+      appliesTo ( Date dateTime)
 
   </div>
 
@@ -155,7 +159,7 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object rhs)
+      equals ( Object rhs)
 
   </div>
 
@@ -167,13 +171,16 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDstSpec()
+      getDstSpec ()
 
   </div>
 
@@ -190,13 +197,16 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTimeRuleString()
+      getTimeRuleString ()
 
   </div>
 
@@ -218,7 +228,7 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTimeZoneOffsetSeconds()
+      getTimeZoneOffsetSeconds ()
 
   </div>
 
@@ -241,7 +251,7 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -257,20 +267,49 @@ in both components. For more advanced examples of TimeRule see here .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(java.lang.String,int,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-int-java-lang-String"
     class="section detail">
 
     ### TimeRule
@@ -278,8 +317,12 @@ in both components. For more advanced examples of TimeRule see here .
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">TimeRule</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> timeRule,
-    int timeZoneOffsetSeconds, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dstSpec)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> timeRule,
+    int timeZoneOffsetSeconds, @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> dstSpec)</span>
 
     </div>
 
@@ -307,25 +350,36 @@ in both components. For more advanced examples of TimeRule see here .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> rhs)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> rhs)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -336,11 +390,18 @@ in both components. For more advanced examples of TimeRule see here .
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-appliesTo(java.util.Date)"
+
+  - <div id="sdk-for-android-explore-appliesTo-java-util-Date"
     class="section detail">
 
     ### appliesTo
@@ -348,7 +409,9 @@ in both components. For more advanced examples of TimeRule see here .
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">appliesTo</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> dateTime)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a> dateTime)</span>
 
     </div>
 
@@ -362,7 +425,8 @@ in both components. For more advanced examples of TimeRule see here .
     `false` - otherwise.
 
     </div>
-<div id="sdk-for-android-explore-getTimeRuleString()"
+
+  - <div id="sdk-for-android-explore-getTimeRuleString"
     class="section detail">
 
     ### getTimeRuleString
@@ -370,7 +434,9 @@ in both components. For more advanced examples of TimeRule see here .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTimeRuleString</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTimeRuleString</span>()
 
     </div>
 
@@ -384,7 +450,8 @@ in both components. For more advanced examples of TimeRule see here .
     The time rule as a string in ISO 14825 format.
 
     </div>
-<div id="sdk-for-android-explore-getTimeZoneOffsetSeconds()"
+
+  - <div id="sdk-for-android-explore-getTimeZoneOffsetSeconds"
     class="section detail">
 
     ### getTimeZoneOffsetSeconds
@@ -407,15 +474,17 @@ in both components. For more advanced examples of TimeRule see here .
     applies.
 
     </div>
-<div id="sdk-for-android-explore-getDstSpec()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getDstSpec" class="section detail">
 
     ### getDstSpec
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getDstSpec</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getDstSpec</span>()
 
     </div>
 
@@ -433,6 +502,4 @@ in both components. For more advanced examples of TimeRule see here .
     </div>
 
   </div>
-
-</div>
 

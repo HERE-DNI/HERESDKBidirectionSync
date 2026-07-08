@@ -3,15 +3,20 @@ title: "EVTruckOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.routing.EVTruckOptions
+java.lang.Object com.here.sdk.routing.EVTruckOptions →
+com.here.sdk.routing.EVTruckOptions
 
 </div>
 
@@ -20,10 +25,15 @@ class="section class-description">
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+class="external-link"
+title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public final class
 </span><span class="element-name type-name-label">EVTruckOptions</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -48,8 +58,7 @@ calculated.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -86,7 +95,9 @@ calculated.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#allowOptions" class="member-name-link"><code>allowOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#allowOptions"
+  class="member-name-link"><code>allowOptions</code></a>
 
   </div>
 
@@ -114,7 +125,9 @@ calculated.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#avoidanceOptions" class="member-name-link"><code>avoidanceOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#avoidanceOptions"
+  class="member-name-link"><code>avoidanceOptions</code></a>
 
   </div>
 
@@ -136,13 +149,18 @@ calculated.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#avoidedTruckRoadTypes" class="member-name-link"><code>avoidedTruckRoadTypes</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#avoidedTruckRoadTypes"
+  class="member-name-link"><code>avoidedTruckRoadTypes</code></a>
 
   </div>
 
@@ -170,7 +188,9 @@ calculated.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#consumptionModel" class="member-name-link"><code>consumptionModel</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#consumptionModel"
+  class="member-name-link"><code>consumptionModel</code></a>
 
   </div>
 
@@ -193,13 +213,18 @@ calculated.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#hazardousMaterials" class="member-name-link"><code>hazardousMaterials</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#hazardousMaterials"
+  class="member-name-link"><code>hazardousMaterials</code></a>
 
   </div>
 
@@ -221,13 +246,18 @@ calculated.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#lastCharacterOfLicensePlate" class="member-name-link"><code>lastCharacterOfLicensePlate</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#lastCharacterOfLicensePlate"
+  class="member-name-link"><code>lastCharacterOfLicensePlate</code></a>
 
   </div>
 
@@ -257,7 +287,9 @@ calculated.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#linkTunnelCategory" class="member-name-link"><code>linkTunnelCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#linkTunnelCategory"
+  class="member-name-link"><code>linkTunnelCategory</code></a>
 
   </div>
 
@@ -279,13 +311,18 @@ calculated.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MaxSpeedOnSegment`](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`MaxSpeedOnSegment`](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#maxSpeedOnSegments" class="member-name-link"><code>maxSpeedOnSegments</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#maxSpeedOnSegments"
+  class="member-name-link"><code>maxSpeedOnSegments</code></a>
 
   </div>
 
@@ -314,7 +351,9 @@ calculated.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#occupantsNumber" class="member-name-link"><code>occupantsNumber</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#occupantsNumber"
+  class="member-name-link"><code>occupantsNumber</code></a>
 
   </div>
 
@@ -343,7 +382,9 @@ calculated.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#routeOptions" class="member-name-link"><code>routeOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#routeOptions"
+  class="member-name-link"><code>routeOptions</code></a>
 
   </div>
 
@@ -371,7 +412,9 @@ calculated.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#textOptions" class="member-name-link"><code>textOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#textOptions"
+  class="member-name-link"><code>textOptions</code></a>
 
   </div>
 
@@ -400,7 +443,9 @@ calculated.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#tollOptions" class="member-name-link"><code>tollOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#tollOptions"
+  class="member-name-link"><code>tollOptions</code></a>
 
   </div>
 
@@ -429,7 +474,9 @@ calculated.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#truckSpecifications" class="member-name-link"><code>truckSpecifications</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#truckSpecifications"
+  class="member-name-link"><code>truckSpecifications</code></a>
 
   </div>
 
@@ -452,7 +499,8 @@ calculated.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -477,7 +525,7 @@ calculated.
 
   <div class="col-constructor-name even-row-color">
 
-      EVTruckOptions()
+      EVTruckOptions ()
 
   </div>
 
@@ -500,7 +548,8 @@ calculated.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -533,7 +582,7 @@ calculated.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -557,7 +606,7 @@ calculated.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -579,20 +628,49 @@ calculated.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-routeOptions"
+
+  - <div id="sdk-for-android-explore-routeOptions"
     class="section detail">
 
     ### routeOptions
@@ -617,7 +695,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-textOptions"
+
+  - <div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -643,7 +722,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidanceOptions"
+
+  - <div id="sdk-for-android-explore-avoidanceOptions"
     class="section detail">
 
     ### avoidanceOptions
@@ -669,7 +749,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tollOptions"
+
+  - <div id="sdk-for-android-explore-tollOptions"
     class="section detail">
 
     ### tollOptions
@@ -695,7 +776,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-allowOptions"
+
+  - <div id="sdk-for-android-explore-allowOptions"
     class="section detail">
 
     ### allowOptions
@@ -721,7 +803,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-occupantsNumber"
+
+  - <div id="sdk-for-android-explore-occupantsNumber"
     class="section detail">
 
     ### occupantsNumber
@@ -750,7 +833,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+
+  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
     class="section detail">
 
     ### lastCharacterOfLicensePlate
@@ -758,7 +842,9 @@ calculated.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">lastCharacterOfLicensePlate</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">lastCharacterOfLicensePlate</span>
 
     </div>
 
@@ -785,7 +871,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxSpeedOnSegments"
+
+  - <div id="sdk-for-android-explore-maxSpeedOnSegments"
     class="section detail">
 
     ### maxSpeedOnSegments
@@ -793,7 +880,9 @@ calculated.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MaxSpeedOnSegment](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")\></span> <span class="element-name">maxSpeedOnSegments</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MaxSpeedOnSegment](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")\></span> <span class="element-name">maxSpeedOnSegments</span>
 
     </div>
 
@@ -811,7 +900,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-truckSpecifications"
+
+  - <div id="sdk-for-android-explore-truckSpecifications"
     class="section detail">
 
     ### truckSpecifications
@@ -836,7 +926,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-linkTunnelCategory"
+
+  - <div id="sdk-for-android-explore-linkTunnelCategory"
     class="section detail">
 
     ### linkTunnelCategory
@@ -863,7 +954,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-hazardousMaterials"
+
+  - <div id="sdk-for-android-explore-hazardousMaterials"
     class="section detail">
 
     ### hazardousMaterials
@@ -871,7 +963,9 @@ calculated.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 
@@ -889,7 +983,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidedTruckRoadTypes"
+
+  - <div id="sdk-for-android-explore-avoidedTruckRoadTypes"
     class="section detail">
 
     ### avoidedTruckRoadTypes
@@ -897,7 +992,9 @@ calculated.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">avoidedTruckRoadTypes</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">avoidedTruckRoadTypes</span>
 
     </div>
 
@@ -915,7 +1012,8 @@ calculated.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-consumptionModel"
+
+  - <div id="sdk-for-android-explore-consumptionModel"
     class="section detail">
 
     ### consumptionModel
@@ -943,9 +1041,11 @@ calculated.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### EVTruckOptions
 
@@ -970,16 +1070,20 @@ calculated.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
@@ -990,11 +1094,18 @@ calculated.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -1011,12 +1122,16 @@ calculated.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

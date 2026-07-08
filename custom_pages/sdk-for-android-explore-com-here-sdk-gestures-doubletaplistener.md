@@ -3,9 +3,13 @@ title: "DoubleTapListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+
+</div>
 
 </div>
 
@@ -28,8 +32,7 @@ after double-tapping on the screen.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -62,7 +65,7 @@ after double-tapping on the screen.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onDoubleTap(Point2D origin)
+      onDoubleTap ( Point2D origin)
 
   </div>
 
@@ -82,12 +85,12 @@ after double-tapping on the screen.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onDoubleTap(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-onDoubleTap-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### onDoubleTap
@@ -113,6 +116,4 @@ after double-tapping on the screen.
     </div>
 
   </div>
-
-</div>
 

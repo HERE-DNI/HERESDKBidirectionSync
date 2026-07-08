@@ -3,19 +3,24 @@ title: "MapView (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-android.view.Viewandroid.view.ViewGroupandroid.widget.FrameLayoutcom.here.sdk.mapview.MapView
-→
-android.view.ViewGroupandroid.widget.FrameLayoutcom.here.sdk.mapview.MapView
-→ android.widget.FrameLayoutcom.here.sdk.mapview.MapView →
+java.lang.Object android.view.View android.view.ViewGroup
+android.widget.FrameLayout com.here.sdk.mapview.MapView →
+android.view.View android.view.ViewGroup android.widget.FrameLayout
+com.here.sdk.mapview.MapView → android.view.ViewGroup
+android.widget.FrameLayout com.here.sdk.mapview.MapView →
+android.widget.FrameLayout com.here.sdk.mapview.MapView →
 com.here.sdk.mapview.MapView
 
 </div>
@@ -45,40 +50,41 @@ map, map scene needs to be loaded with MapScene.loadScene(MapScheme,
 MapScene.LoadSceneCallback) . Manipulating the way the map is displayed
 is possible using MapCamera , which is accessible by calling getCamera()
 . Gesture handling can be modified through the Gestures object, which is
-accessible by calling getGestures() . To use the MapView the following
-application permissions need to be present: android.permission.INTERNET
-and android.permission.ACCESS_NETWORK_STATE MapView can draw the map
-using either SurfaceView or TextureView . SurfaceView is the default
-method, offers best performance and works best for single screen
-applications where there's a single MapView which is not part of a
-complex view hierarchy and takes no part in any UI animations. This
-method is known to cause graphical glitches in some scenarios (like
-embedding multiple MapView s inside a view pager), especially on Android
-12 and newer. TextureView is less performant, but behaves like any other
-view and can be easily transformed and animated, making it a better fit
-for applications with complex UI and/or multiple MapView s as part of a
-complex view hierarchy. Rendering mode can only be set when creating a
-MapView , by setting MapViewOptions.renderMode and passing the options
-to the constructor. When dealing with view coordinates, physical pixels
-are used. MapView provides ways to translate between view and geographic
-coordinates using viewToGeoCoordinates(Point2D) and
+accessible by calling getGestures() . Permissions To use the MapView the
+following application permissions need to be present:
+android.permission.INTERNET and android.permission.ACCESS_NETWORK_STATE
+Rendering mode MapView can draw the map using either SurfaceView or
+TextureView . SurfaceView is the default method, offers best performance
+and works best for single screen applications where there's a single
+MapView which is not part of a complex view hierarchy and takes no part
+in any UI animations. This method is known to cause graphical glitches
+in some scenarios (like embedding multiple MapView s inside a view
+pager), especially on Android 12 and newer. TextureView is less
+performant, but behaves like any other view and can be easily
+transformed and animated, making it a better fit for applications with
+complex UI and/or multiple MapView s as part of a complex view
+hierarchy. Rendering mode can only be set when creating a MapView , by
+setting MapViewOptions.renderMode and passing the options to the
+constructor. Coordinate systems When dealing with view coordinates,
+physical pixels are used. MapView provides ways to translate between
+view and geographic coordinates using viewToGeoCoordinates(Point2D) and
 geoToViewCoordinates(GeoCoordinates) methods. Note that those two
 methods only work when the MapView is fully ready, so if there is a need
 to call them during lifecycle changes, they should be called from within
 MapView.OnReadyListener.onMapViewReady() . See Lifecycle section below
-for more details. Two caching mechanisms are supported. First is
-in-memory cache, which keeps some number of map tiles around in memory
-to avoid repeated network requests or storage reads. The second
+for more details. Map caching Two caching mechanisms are supported.
+First is in-memory cache, which keeps some number of map tiles around in
+memory to avoid repeated network requests or storage reads. The second
 mechanism is persistent cache that stores downloaded map data on the
-device. Persistent cache requires storage permission to be granted. For
-MapView to work correctly, it is required to call its lifecycle methods
-from the owner Activity: onCreate(Bundle) , onResume() , onPause() ,
-onDestroy() and onSaveInstanceState(Bundle) . When dealing with multiple
-MapView s in a single Activity, an extra identifier needs to be passed
-to onCreate(Bundle, String) and onSaveInstanceState(Bundle, String) .
-This identifier needs to be unique to all the MapView s owned by the
-Activity and needs to be the same when recreating the Activity . A
-MapView is considered valid only after onCreate(Bundle) or
+device. Persistent cache requires storage permission to be granted.
+Lifecycle For MapView to work correctly, it is required to call its
+lifecycle methods from the owner Activity: onCreate(Bundle) , onResume()
+, onPause() , onDestroy() and onSaveInstanceState(Bundle) . When dealing
+with multiple MapView s in a single Activity, an extra identifier needs
+to be passed to onCreate(Bundle, String) and onSaveInstanceState(Bundle,
+String) . This identifier needs to be unique to all the MapView s owned
+by the Activity and needs to be the same when recreating the Activity .
+A MapView is considered valid only after onCreate(Bundle) or
 onCreate(Bundle, String) and before onDestroy() is called. MapView is
 also invalidated when the SDKNativeEngine it is using is destroyed.
 isValid() can be used to check the state of MapView . MapView offers
@@ -99,8 +105,7 @@ initialized.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -137,7 +142,10 @@ initialized.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>
 
   </div>
 
@@ -161,7 +169,10 @@ initialized.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.TakeScreenshotCallback</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview"><code>MapView.TakeScreenshotCallback</code></a>
 
   </div>
 
@@ -183,7 +194,9 @@ initialized.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a>
 
   </div>
 
@@ -202,11 +215,15 @@ initialized.
 
   <div class="inherited-list">
 
+  ## Nested classes/interfaces inherited from class android.widget.FrameLayout
+
   `android.widget.FrameLayout.LayoutParams`
 
   </div>
 
   <div class="inherited-list">
+
+  ## Nested classes/interfaces inherited from class android.view.ViewGroup
 
   `android.view.ViewGroup.MarginLayoutParams, android.view.ViewGroup.OnHierarchyChangeListener`
 
@@ -214,18 +231,23 @@ initialized.
 
   <div class="inherited-list">
 
+  ## Nested classes/interfaces inherited from class android.view.View
+
   `android.view.View.AccessibilityDelegate, android.view.View.BaseSavedState, android.view.View.DragShadowBuilder, android.view.View.MeasureSpec, android.view.View.OnApplyWindowInsetsListener, android.view.View.OnAttachStateChangeListener, android.view.View.OnCapturedPointerListener, android.view.View.OnClickListener, android.view.View.OnContextClickListener, android.view.View.OnCreateContextMenuListener, android.view.View.OnDragListener, android.view.View.OnFocusChangeListener, android.view.View.OnGenericMotionListener, android.view.View.OnHoverListener, android.view.View.OnKeyListener, android.view.View.OnLayoutChangeListener, android.view.View.OnLongClickListener, android.view.View.OnScrollChangeListener, android.view.View.OnSystemUiVisibilityChangeListener, android.view.View.OnTouchListener, android.view.View.OnUnhandledKeyEventListener`
 
   </div>
 
   <div class="inherited-list">
 
+  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.[MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+
   [`MapViewBase.MapPickCallback`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview")
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="inherited-list">
@@ -245,7 +267,8 @@ initialized.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -270,7 +293,7 @@ initialized.
 
   <div class="col-constructor-name even-row-color">
 
-      MapView(android.content.Context context)
+      MapView (android.content.Context context)
 
   </div>
 
@@ -286,7 +309,7 @@ initialized.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapView(android.content.Context context,
+      MapView (android.content.Context context,
        android.util.AttributeSet attrs)
 
   </div>
@@ -303,7 +326,7 @@ initialized.
 
   <div class="col-constructor-name even-row-color">
 
-      MapView(android.content.Context context,
+      MapView (android.content.Context context,
        android.util.AttributeSet attrs,
        int defStyleAttr)
 
@@ -321,8 +344,7 @@ initialized.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapView(android.content.Context context,
-       MapViewOptions options)
+      MapView (android.content.Context context, MapViewOptions options)
 
   </div>
 
@@ -338,7 +360,7 @@ initialized.
 
   <div class="col-constructor-name even-row-color">
 
-      MapView(SDKNativeEngine engine,
+      MapView ( SDKNativeEngine engine,
        android.content.Context context,
        android.util.AttributeSet attrs,
        int defStyleAttr)
@@ -357,8 +379,7 @@ initialized.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapView(SDKNativeEngine engine,
-       MapViewOptions options,
+      MapView ( SDKNativeEngine engine, MapViewOptions options,
        android.content.Context context,
        android.util.AttributeSet attrs,
        int defStyleAttr)
@@ -378,7 +399,8 @@ initialized.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -411,7 +433,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      addLifecycleListener(MapViewLifecycleListener lifecycleListener)
+      addLifecycleListener ( MapViewLifecycleListener lifecycleListener)
 
   </div>
 
@@ -433,7 +455,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      geoToViewCoordinates(GeoCoordinates geoCoordinates)
+      geoToViewCoordinates ( GeoCoordinates geoCoordinates)
 
   </div>
 
@@ -455,7 +477,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCamera()
+      getCamera ()
 
   </div>
 
@@ -477,7 +499,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getFrameRate()
+      getFrameRate ()
 
   </div>
 
@@ -499,7 +521,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGestures()
+      getGestures ()
 
   </div>
 
@@ -521,7 +543,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getHereMap()
+      getHereMap ()
 
   </div>
 
@@ -543,7 +565,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMapContext()
+      getMapContext ()
 
   </div>
 
@@ -565,7 +587,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMapScene()
+      getMapScene ()
 
   </div>
 
@@ -587,7 +609,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPixelScale()
+      getPixelScale ()
 
   </div>
 
@@ -609,7 +631,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getPrimaryLanguage()
+      getPrimaryLanguage ()
 
   </div>
 
@@ -631,7 +653,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getSecondaryLanguage()
+      getSecondaryLanguage ()
 
   </div>
 
@@ -653,7 +675,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getShadowQuality()
+      getShadowQuality ()
 
   </div>
 
@@ -669,13 +691,16 @@ initialized.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapView.ViewPin`](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapView.ViewPin`](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getViewPins()
+      getViewPins ()
 
   </div>
 
@@ -697,7 +722,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getViewportSize()
+      getViewportSize ()
 
   </div>
 
@@ -719,7 +744,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getWatermarkSize()
+      getWatermarkSize ()
 
   </div>
 
@@ -741,7 +766,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isValid()
+      isValid ()
 
   </div>
 
@@ -763,7 +788,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onCreate(android.os.Bundle bundle)
+      onCreate (android.os.Bundle bundle)
 
   </div>
 
@@ -786,8 +811,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onCreate(android.os.Bundle bundle,
-       String identifier)
+      onCreate (android.os.Bundle bundle, String identifier)
 
   </div>
 
@@ -811,7 +835,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onDestroy()
+      onDestroy ()
 
   </div>
 
@@ -833,7 +857,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onPause()
+      onPause ()
 
   </div>
 
@@ -855,7 +879,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onResume()
+      onResume ()
 
   </div>
 
@@ -877,7 +901,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onSaveInstanceState(android.os.Bundle bundle)
+      onSaveInstanceState (android.os.Bundle bundle)
 
   </div>
 
@@ -900,8 +924,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onSaveInstanceState(android.os.Bundle bundle,
-       String identifier)
+      onSaveInstanceState (android.os.Bundle bundle, String identifier)
 
   </div>
 
@@ -924,9 +947,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      pick(MapScene.MapPickFilter filter,
-       Rectangle2D viewArea,
-       MapViewBase.MapPickCallback callback)
+      pick ( MapScene.MapPickFilter filter, Rectangle2D viewArea, MapViewBase.MapPickCallback callback)
 
   </div>
 
@@ -948,8 +969,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      pinView(android.view.View view,
-       GeoCoordinates coordinates)
+      pinView (android.view.View view, GeoCoordinates coordinates)
 
   </div>
 
@@ -972,7 +992,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      removeLifecycleListener(MapViewLifecycleListener lifecycleListener)
+      removeLifecycleListener ( MapViewLifecycleListener lifecycleListener)
 
   </div>
 
@@ -994,7 +1014,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setFixedSize(int width,
+      setFixedSize (int width,
        int height,
        double factor)
 
@@ -1018,7 +1038,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setFrameRate(int value)
+      setFrameRate (int value)
 
   </div>
 
@@ -1040,7 +1060,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setOnReadyListener(MapView.OnReadyListener readyListener)
+      setOnReadyListener ( MapView.OnReadyListener readyListener)
 
   </div>
 
@@ -1063,7 +1083,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setPrimaryLanguage(LanguageCode languageCode)
+      setPrimaryLanguage ( LanguageCode languageCode)
 
   </div>
 
@@ -1085,7 +1105,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setSecondaryLanguage(LanguageCode languageCode)
+      setSecondaryLanguage ( LanguageCode languageCode)
 
   </div>
 
@@ -1108,7 +1128,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setShadowQuality(ShadowQuality shadowQuality)
+      setShadowQuality ( ShadowQuality shadowQuality)
 
   </div>
 
@@ -1130,7 +1150,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setVisibility(int visibility)
+      setVisibility (int visibility)
 
   </div>
 
@@ -1152,8 +1172,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setWatermarkLocation(Anchor2D anchor,
-       Point2D offset)
+      setWatermarkLocation ( Anchor2D anchor, Point2D offset)
 
   </div>
 
@@ -1175,7 +1194,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      takeScreenshot(MapView.TakeScreenshotCallback callback)
+      takeScreenshot ( MapView.TakeScreenshotCallback callback)
 
   </div>
 
@@ -1197,7 +1216,7 @@ initialized.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      unpinView(android.view.View view)
+      unpinView (android.view.View view)
 
   </div>
 
@@ -1220,7 +1239,7 @@ initialized.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      viewToGeoCoordinates(Point2D viewCoordinates)
+      viewToGeoCoordinates ( Point2D viewCoordinates)
 
   </div>
 
@@ -1264,9 +1283,41 @@ initialized.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1280,12 +1331,12 @@ initialized.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context-com-here-sdk-mapview-MapViewOptions"
     class="section detail">
 
     ### MapView
@@ -1310,7 +1361,8 @@ initialized.
     `options` - Customization of view for example its map projection.
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context"
     class="section detail">
 
     ### MapView
@@ -1332,7 +1384,8 @@ initialized.
     access the current theme, resources, etc.
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context-android-util-AttributeSet"
     class="section detail">
 
     ### MapView
@@ -1358,7 +1411,8 @@ initialized.
     in an XML document.
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet,int)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context-android-util-AttributeSet-int"
     class="section detail">
 
     ### MapView
@@ -1388,7 +1442,8 @@ initialized.
     StyledAttributes. Can be 0 to not look for defaults.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine-android-content-Context-android-util-AttributeSet-int"
     class="section detail">
 
     ### MapView
@@ -1421,7 +1476,8 @@ initialized.
     StyledAttributes. Can be 0 to not look for defaults.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine-com-here-sdk-mapview-MapViewOptions-android-content-Context-android-util-AttributeSet-int"
     class="section detail">
 
     ### MapView
@@ -1459,9 +1515,11 @@ initialized.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-setVisibility(int)"
+
+  - <div id="sdk-for-android-explore-setVisibility-int"
     class="section detail">
 
     ### setVisibility
@@ -1487,7 +1545,8 @@ initialized.
     `visibility` - Desired visibility as one of `View.INVISIBLE, View.VISIBLE` or `View.GONE`.
 
     </div>
-<div id="sdk-for-android-explore-setPrimaryLanguage(com.here.sdk.core.LanguageCode)"
+
+  - <div id="sdk-for-android-explore-setPrimaryLanguage-com-here-sdk-core-LanguageCode"
     class="section detail">
 
     ### setPrimaryLanguage
@@ -1514,7 +1573,8 @@ initialized.
     default language.
 
     </div>
-<div id="sdk-for-android-explore-setSecondaryLanguage(com.here.sdk.core.LanguageCode)"
+
+  - <div id="sdk-for-android-explore-setSecondaryLanguage-com-here-sdk-core-LanguageCode"
     class="section detail">
 
     ### setSecondaryLanguage
@@ -1543,7 +1603,8 @@ initialized.
     unset.
 
     </div>
-<div id="sdk-for-android-explore-getPrimaryLanguage()"
+
+  - <div id="sdk-for-android-explore-getPrimaryLanguage"
     class="section detail">
 
     ### getPrimaryLanguage
@@ -1566,7 +1627,8 @@ initialized.
     The code of currently set language or @null language.
 
     </div>
-<div id="sdk-for-android-explore-getSecondaryLanguage()"
+
+  - <div id="sdk-for-android-explore-getSecondaryLanguage"
     class="section detail">
 
     ### getSecondaryLanguage
@@ -1591,7 +1653,8 @@ initialized.
     The code of currently set language or @null language.
 
     </div>
-<div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
+
+  - <div id="sdk-for-android-explore-setShadowQuality-com-here-sdk-mapview-ShadowQuality"
     class="section detail">
 
     ### setShadowQuality
@@ -1619,7 +1682,8 @@ initialized.
     `shadowQuality` - The shadow quality.
 
     </div>
-<div id="sdk-for-android-explore-getShadowQuality()"
+
+  - <div id="sdk-for-android-explore-getShadowQuality"
     class="section detail">
 
     ### getShadowQuality
@@ -1643,7 +1707,8 @@ initialized.
     The currently set shadow quality.
 
     </div>
-<div id="sdk-for-android-explore-onCreate(android.os.Bundle)"
+
+  - <div id="sdk-for-android-explore-onCreate-android-os-Bundle"
     class="section detail">
 
     ### onCreate
@@ -1667,7 +1732,8 @@ initialized.
     view owner
 
     </div>
-<div id="sdk-for-android-explore-onCreate(android.os.Bundle,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-onCreate-android-os-Bundle-java-lang-String"
     class="section detail">
 
     ### onCreate
@@ -1675,7 +1741,9 @@ initialized.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">onCreate</span><span class="parameters">(android.os.Bundle bundle,
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
 
     </div>
 
@@ -1697,7 +1765,8 @@ initialized.
     MapView.
 
     </div>
-<div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
+
+  - <div id="sdk-for-android-explore-setOnReadyListener-com-here-sdk-mapview-MapView-OnReadyListener"
     class="section detail">
 
     ### setOnReadyListener
@@ -1723,7 +1792,10 @@ initialized.
     unregister any previously register listener.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -1732,7 +1804,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-onResume()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onResume" class="section detail">
 
     ### onResume
 
@@ -1749,7 +1822,8 @@ initialized.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onPause()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onPause" class="section detail">
 
     ### onPause
 
@@ -1766,7 +1840,8 @@ initialized.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-isValid()" class="section detail">
+
+  - <div id="sdk-for-android-explore-isValid" class="section detail">
 
     ### isValid
 
@@ -1794,8 +1869,8 @@ initialized.
     `true` if this `MapView` is valid, `false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-onDestroy()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-onDestroy" class="section detail">
 
     ### onDestroy
 
@@ -1812,7 +1887,8 @@ initialized.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle)"
+
+  - <div id="sdk-for-android-explore-onSaveInstanceState-android-os-Bundle"
     class="section detail">
 
     ### onSaveInstanceState
@@ -1834,7 +1910,8 @@ initialized.
     `bundle` - the bundle which was passed to lifecycle owner
 
     </div>
-<div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-onSaveInstanceState-android-os-Bundle-java-lang-String"
     class="section detail">
 
     ### onSaveInstanceState
@@ -1842,7 +1919,9 @@ initialized.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">onSaveInstanceState</span><span class="parameters">(android.os.Bundle bundle,
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
 
     </div>
 
@@ -1863,7 +1942,8 @@ initialized.
     MapView instance.
 
     </div>
-<div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+
+  - <div id="sdk-for-android-explore-pick-com-here-sdk-mapview-MapScene-MapPickFilter-com-here-sdk-core-Rectangle2D-com-here-sdk-mapview-MapViewBase-MapPickCallback"
     class="section detail">
 
     ### pick
@@ -1911,7 +1991,8 @@ initialized.
     thread when pick operation completes.
 
     </div>
-<div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-geoToViewCoordinates-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -1952,7 +2033,10 @@ initialized.
     if there is no render surface attached.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -1964,7 +2048,8 @@ initialized.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-addLifecycleListener-com-here-sdk-mapview-MapViewLifecycleListener"
     class="section detail">
 
     ### addLifecycleListener
@@ -1991,7 +2076,10 @@ initialized.
     `lifecycleListener` - An object to be notified of lifecycle events.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2000,7 +2088,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-removeLifecycleListener-com-here-sdk-mapview-MapViewLifecycleListener"
     class="section detail">
 
     ### removeLifecycleListener
@@ -2029,7 +2118,10 @@ initialized.
     events.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2038,7 +2130,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-pinView(android.view.View,com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-pinView-android-view-View-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### pinView
@@ -2073,7 +2166,8 @@ initialized.
     pinned to the map.
 
     </div>
-<div id="sdk-for-android-explore-unpinView(android.view.View)"
+
+  - <div id="sdk-for-android-explore-unpinView-android-view-View"
     class="section detail">
 
     ### unpinView
@@ -2097,14 +2191,17 @@ initialized.
     `view` - The view corresponding to the `ViewPin` to remove.
 
     </div>
-<div id="sdk-for-android-explore-getViewPins()"
+
+  - <div id="sdk-for-android-explore-getViewPins"
     class="section detail">
 
     ### getViewPins
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapView.ViewPin](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")\></span> <span class="element-name">getViewPins</span>()
+    <span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapView.ViewPin](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")\></span> <span class="element-name">getViewPins</span>()
 
     </div>
 
@@ -2119,7 +2216,8 @@ initialized.
     A copy of the list of view pins.
 
     </div>
-<div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-viewToGeoCoordinates-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -2161,7 +2259,10 @@ initialized.
     there is no render surface attached.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2173,7 +2274,8 @@ initialized.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-getGestures()"
+
+  - <div id="sdk-for-android-explore-getGestures"
     class="section detail">
 
     ### getGestures
@@ -2201,7 +2303,10 @@ initialized.
     control object
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2210,7 +2315,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getPixelScale()"
+
+  - <div id="sdk-for-android-explore-getPixelScale"
     class="section detail">
 
     ### getPixelScale
@@ -2240,7 +2346,10 @@ initialized.
     current pixel scale factor, or 0.0 if MapView is not initialized
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2249,7 +2358,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getViewportSize()"
+
+  - <div id="sdk-for-android-explore-getViewportSize"
     class="section detail">
 
     ### getViewportSize
@@ -2278,7 +2388,10 @@ initialized.
     is not initialized
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2287,7 +2400,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getFrameRate()"
+
+  - <div id="sdk-for-android-explore-getFrameRate"
     class="section detail">
 
     ### getFrameRate
@@ -2313,7 +2427,8 @@ initialized.
     Actual maximal render frame rate
 
     </div>
-<div id="sdk-for-android-explore-setFrameRate(int)"
+
+  - <div id="sdk-for-android-explore-setFrameRate-int"
     class="section detail">
 
     ### setFrameRate
@@ -2340,7 +2455,8 @@ initialized.
     values has no effect.
 
     </div>
-<div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
+
+  - <div id="sdk-for-android-explore-takeScreenshot-com-here-sdk-mapview-MapView-TakeScreenshotCallback"
     class="section detail">
 
     ### takeScreenshot
@@ -2365,7 +2481,10 @@ initialized.
     completed
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2374,7 +2493,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-setWatermarkLocation-com-here-sdk-core-Anchor2D-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### setWatermarkLocation
@@ -2428,7 +2548,8 @@ initialized.
     view size changes.
 
     </div>
-<div id="sdk-for-android-explore-getWatermarkSize()"
+
+  - <div id="sdk-for-android-explore-getWatermarkSize"
     class="section detail">
 
     ### getWatermarkSize
@@ -2454,8 +2575,8 @@ initialized.
     Provides the size of the watermark in physical pixels.
 
     </div>
-<div id="sdk-for-android-explore-getCamera()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getCamera" class="section detail">
 
     ### getCamera
 
@@ -2482,7 +2603,10 @@ initialized.
     object for the map.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2491,7 +2615,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getMapScene()"
+
+  - <div id="sdk-for-android-explore-getMapScene"
     class="section detail">
 
     ### getMapScene
@@ -2521,7 +2646,10 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2530,7 +2658,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getMapContext()"
+
+  - <div id="sdk-for-android-explore-getMapContext"
     class="section detail">
 
     ### getMapContext
@@ -2558,7 +2687,10 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2567,8 +2699,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-getHereMap()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getHereMap" class="section detail">
 
     ### getHereMap
 
@@ -2595,7 +2727,10 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2604,7 +2739,8 @@ initialized.
     method was not called beforehand.
 
     </div>
-<div id="sdk-for-android-explore-setFixedSize(int,int,double)"
+
+  - <div id="sdk-for-android-explore-setFixedSize-int-int-double"
     class="section detail">
 
     ### setFixedSize
@@ -2638,10 +2774,16 @@ initialized.
     differs from fixed size.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if factor is not inside (0.0, 1.0\].
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html" class="external-link" title="class or interface in java.lang"><code>UnsupportedOperationException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>UnsupportedOperationException</code></a> -
     if
     [`MapView`](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
     render mode is not MapRenderMode.SURFACE.
@@ -2649,6 +2791,4 @@ initialized.
     </div>
 
   </div>
-
-</div>
 

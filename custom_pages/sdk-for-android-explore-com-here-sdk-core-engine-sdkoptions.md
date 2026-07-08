@@ -3,15 +3,20 @@ title: "SDKOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.core.engine.SDKOptions
+java.lang.Object com.here.sdk.core.engine.SDKOptions →
+com.here.sdk.core.engine.SDKOptions
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">SDKOptions</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -36,8 +43,7 @@ SDKNativeEngine .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -74,7 +80,10 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" class="type-name-link" title="enum class in com.here.sdk.core.engine"><code>SDKOptions.ActionOnCacheLock</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock"
+  class="type-name-link"
+  title="enum class in com.here.sdk.core.engine"><code>SDKOptions.ActionOnCacheLock</code></a>
 
   </div>
 
@@ -91,7 +100,8 @@ SDKNativeEngine .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -128,7 +138,9 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#actionOnCacheLock" class="member-name-link"><code>actionOnCacheLock</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#actionOnCacheLock"
+  class="member-name-link"><code>actionOnCacheLock</code></a>
 
   </div>
 
@@ -151,7 +163,9 @@ SDKNativeEngine .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#authenticationMode" class="member-name-link"><code>authenticationMode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#authenticationMode"
+  class="member-name-link"><code>authenticationMode</code></a>
 
   </div>
 
@@ -173,7 +187,9 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#autoUpdateOfOnlineCache" class="member-name-link"><code>autoUpdateOfOnlineCache</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#autoUpdateOfOnlineCache"
+  class="member-name-link"><code>autoUpdateOfOnlineCache</code></a>
 
   </div>
 
@@ -189,13 +205,18 @@ SDKNativeEngine .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#billingTag" class="member-name-link"><code>billingTag</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#billingTag"
+  class="member-name-link"><code>billingTag</code></a>
 
   </div>
 
@@ -211,13 +232,18 @@ SDKNativeEngine .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cachePath" class="member-name-link"><code>cachePath</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cachePath"
+  class="member-name-link"><code>cachePath</code></a>
 
   </div>
 
@@ -239,7 +265,9 @@ SDKNativeEngine .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cacheSizeInBytes" class="member-name-link"><code>cacheSizeInBytes</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#cacheSizeInBytes"
+  class="member-name-link"><code>cacheSizeInBytes</code></a>
 
   </div>
 
@@ -255,13 +283,18 @@ SDKNativeEngine .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#catalogConfigurations" class="member-name-link"><code>catalogConfigurations</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#catalogConfigurations"
+  class="member-name-link"><code>catalogConfigurations</code></a>
 
   </div>
 
@@ -278,13 +311,18 @@ SDKNativeEngine .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`[`EngineBaseURL`](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"), [`EngineOptions`](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`[`EngineBaseURL`](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"), [`EngineOptions`](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customEngineOptions" class="member-name-link"><code>customEngineOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customEngineOptions"
+  class="member-name-link"><code>customEngineOptions</code></a>
 
   </div>
 
@@ -306,7 +344,9 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customOptions" class="member-name-link"><code>customOptions</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#customOptions"
+  class="member-name-link"><code>customOptions</code></a>
 
   </div>
 
@@ -322,13 +362,18 @@ SDKNativeEngine .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath" class="member-name-link"><code>dataPath</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath"
+  class="member-name-link"><code>dataPath</code></a>
 
   </div>
 
@@ -352,7 +397,9 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration" class="member-name-link"><code>layerConfiguration</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration"
+  class="member-name-link"><code>layerConfiguration</code></a>
 
   </div>
 
@@ -374,7 +421,9 @@ SDKNativeEngine .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#lowMemoryMode" class="member-name-link"><code>lowMemoryMode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#lowMemoryMode"
+  class="member-name-link"><code>lowMemoryMode</code></a>
 
   </div>
 
@@ -397,7 +446,9 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#networkSettings" class="member-name-link"><code>networkSettings</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#networkSettings"
+  class="member-name-link"><code>networkSettings</code></a>
 
   </div>
 
@@ -419,7 +470,9 @@ SDKNativeEngine .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#offlineMode" class="member-name-link"><code>offlineMode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#offlineMode"
+  class="member-name-link"><code>offlineMode</code></a>
 
   </div>
 
@@ -435,13 +488,18 @@ SDKNativeEngine .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath" class="member-name-link"><code>persistentMapStoragePath</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"
+  class="member-name-link"><code>persistentMapStoragePath</code></a>
 
   </div>
 
@@ -457,13 +515,18 @@ SDKNativeEngine .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#politicalView" class="member-name-link"><code>politicalView</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#politicalView"
+  class="member-name-link"><code>politicalView</code></a>
 
   </div>
 
@@ -480,13 +543,18 @@ SDKNativeEngine .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#scope" class="member-name-link"><code>scope</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#scope"
+  class="member-name-link"><code>scope</code></a>
 
   </div>
 
@@ -503,7 +571,8 @@ SDKNativeEngine .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -528,7 +597,7 @@ SDKNativeEngine .
 
   <div class="col-constructor-name even-row-color">
 
-      SDKOptions(AuthenticationMode authenticationMode)
+      SDKOptions ( AuthenticationMode authenticationMode)
 
   </div>
 
@@ -545,7 +614,8 @@ SDKNativeEngine .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -578,7 +648,7 @@ SDKNativeEngine .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -596,7 +666,7 @@ SDKNativeEngine .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -612,27 +682,58 @@ SDKNativeEngine .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-scope" class="section detail">
+
+  - <div id="sdk-for-android-explore-scope" class="section detail">
 
     ### scope
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">scope</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">scope</span>
 
     </div>
 
@@ -644,14 +745,17 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-cachePath" class="section detail">
+
+  - <div id="sdk-for-android-explore-cachePath" class="section detail">
 
     ### cachePath
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">cachePath</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">cachePath</span>
 
     </div>
 
@@ -677,7 +781,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-cacheSizeInBytes"
+
+  - <div id="sdk-for-android-explore-cacheSizeInBytes"
     class="section detail">
 
     ### cacheSizeInBytes
@@ -697,14 +802,17 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-dataPath" class="section detail">
+
+  - <div id="sdk-for-android-explore-dataPath" class="section detail">
 
     ### dataPath
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">dataPath</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">dataPath</span>
 
     </div>
 
@@ -747,7 +855,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-persistentMapStoragePath"
+
+  - <div id="sdk-for-android-explore-persistentMapStoragePath"
     class="section detail">
 
     ### persistentMapStoragePath
@@ -755,7 +864,9 @@ SDKNativeEngine .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">persistentMapStoragePath</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">persistentMapStoragePath</span>
 
     </div>
 
@@ -769,13 +880,15 @@ SDKNativeEngine .
     Context.getFilesDir().getPath() . If an absolute path is set, it
     will be used instead. If a relative path is set then directory
     Context.getFilesDir().getPath() is used as parent path. Note :
-    Offline maps stored at /v1/ /ocm-map/ , where is taken from
-    SDKOptions.authenticationMode . When SDKOptions initialized with
-    AuthenticationMode.withToken or AuthenticationMode.withExternal ,
-    then left empty. Note, persistent map storage path should be located
-    under app-specific directory . Using shared directories such as
-    Documents is not recommended as it will expose HERE SDK files to the
-    other apps. It will also require additional permissions such as
+    Offline maps stored at
+    \<persistent_map_storage_path\>/v1/\<access_key_id\>/ocm-map/ ,
+    where \<access_key_id\> is taken from SDKOptions.authenticationMode
+    . When SDKOptions initialized with AuthenticationMode.withToken or
+    AuthenticationMode.withExternal , then \<access_key_id\> left empty.
+    Note, persistent map storage path should be located under
+    app-specific directory . Using shared directories such as Documents
+    is not recommended as it will expose HERE SDK files to the other
+    apps. It will also require additional permissions such as
     MANAGE_EXTERNAL_STORAGE and results in a poorer HERE SDK performance
     overall. Additionally, the Android MediaProvider imposes certain
     restrictions on the creation of non-media files (such as temporary
@@ -789,7 +902,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-politicalView"
+
+  - <div id="sdk-for-android-explore-politicalView"
     class="section detail">
 
     ### politicalView
@@ -797,7 +911,9 @@ SDKNativeEngine .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">politicalView</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">politicalView</span>
 
     </div>
 
@@ -814,7 +930,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-offlineMode"
+
+  - <div id="sdk-for-android-explore-offlineMode"
     class="section detail">
 
     ### offlineMode
@@ -835,7 +952,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-layerConfiguration"
+
+  - <div id="sdk-for-android-explore-layerConfiguration"
     class="section detail">
 
     ### layerConfiguration
@@ -880,7 +998,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-catalogConfigurations"
+
+  - <div id="sdk-for-android-explore-catalogConfigurations"
     class="section detail">
 
     ### catalogConfigurations
@@ -888,7 +1007,9 @@ SDKNativeEngine .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")\></span> <span class="element-name">catalogConfigurations</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")\></span> <span class="element-name">catalogConfigurations</span>
 
     </div>
 
@@ -905,7 +1026,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-autoUpdateOfOnlineCache"
+
+  - <div id="sdk-for-android-explore-autoUpdateOfOnlineCache"
     class="section detail">
 
     ### autoUpdateOfOnlineCache
@@ -942,7 +1064,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-customEngineOptions"
+
+  - <div id="sdk-for-android-explore-customEngineOptions"
     class="section detail">
 
     ### customEngineOptions
@@ -950,7 +1073,9 @@ SDKNativeEngine .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")\></span> <span class="element-name">customEngineOptions</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+    class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")\></span> <span class="element-name">customEngineOptions</span>
 
     </div>
 
@@ -974,7 +1099,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-actionOnCacheLock"
+
+  - <div id="sdk-for-android-explore-actionOnCacheLock"
     class="section detail">
 
     ### actionOnCacheLock
@@ -995,7 +1121,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-authenticationMode"
+
+  - <div id="sdk-for-android-explore-authenticationMode"
     class="section detail">
 
     ### authenticationMode
@@ -1014,7 +1141,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-networkSettings"
+
+  - <div id="sdk-for-android-explore-networkSettings"
     class="section detail">
 
     ### networkSettings
@@ -1034,7 +1162,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-lowMemoryMode"
+
+  - <div id="sdk-for-android-explore-lowMemoryMode"
     class="section detail">
 
     ### lowMemoryMode
@@ -1058,14 +1187,17 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-billingTag" class="section detail">
+
+  - <div id="sdk-for-android-explore-billingTag" class="section detail">
 
     ### billingTag
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">billingTag</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">billingTag</span>
 
     </div>
 
@@ -1089,7 +1221,8 @@ SDKNativeEngine .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-customOptions"
+
+  - <div id="sdk-for-android-explore-customOptions"
     class="section detail">
 
     ### customOptions
@@ -1116,9 +1249,11 @@ SDKNativeEngine .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.AuthenticationMode)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-AuthenticationMode"
     class="section detail">
 
     ### SDKOptions
@@ -1145,25 +1280,36 @@ SDKNativeEngine .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -1174,12 +1320,16 @@ SDKNativeEngine .
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

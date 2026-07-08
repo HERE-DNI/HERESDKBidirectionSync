@@ -3,15 +3,20 @@ title: "WeightPerAxleGroup (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.transport.WeightPerAxleGroup
+java.lang.Object com.here.sdk.transport.WeightPerAxleGroup →
+com.here.sdk.transport.WeightPerAxleGroup
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">WeightPerAxleGroup</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -35,8 +42,7 @@ vehicle. The provided value must be greater or equal to 0.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -67,13 +73,18 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#quadAxleGroupInKilograms" class="member-name-link"><code>quadAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#quadAxleGroupInKilograms"
+  class="member-name-link"><code>quadAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -89,13 +100,18 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#quintAxleGroupInKilograms" class="member-name-link"><code>quintAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#quintAxleGroupInKilograms"
+  class="member-name-link"><code>quintAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -111,13 +127,18 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#singleAxleGroupInKilograms" class="member-name-link"><code>singleAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#singleAxleGroupInKilograms"
+  class="member-name-link"><code>singleAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -133,13 +154,18 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#tandemAxleGroupInKilograms" class="member-name-link"><code>tandemAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#tandemAxleGroupInKilograms"
+  class="member-name-link"><code>tandemAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -155,13 +181,18 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#tripleAxleGroupInKilograms" class="member-name-link"><code>tripleAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup#tripleAxleGroupInKilograms"
+  class="member-name-link"><code>tripleAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -178,7 +209,8 @@ vehicle. The provided value must be greater or equal to 0.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -203,7 +235,7 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-constructor-name even-row-color">
 
-      WeightPerAxleGroup()
+      WeightPerAxleGroup ()
 
   </div>
 
@@ -220,7 +252,8 @@ vehicle. The provided value must be greater or equal to 0.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -253,7 +286,7 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -271,7 +304,7 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -287,20 +320,49 @@ vehicle. The provided value must be greater or equal to 0.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-singleAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-singleAxleGroupInKilograms"
     class="section detail">
 
     ### singleAxleGroupInKilograms
@@ -308,7 +370,10 @@ vehicle. The provided value must be greater or equal to 0.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">singleAxleGroupInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">singleAxleGroupInKilograms</span>
 
     </div>
 
@@ -319,7 +384,8 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tandemAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-tandemAxleGroupInKilograms"
     class="section detail">
 
     ### tandemAxleGroupInKilograms
@@ -327,7 +393,10 @@ vehicle. The provided value must be greater or equal to 0.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">tandemAxleGroupInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">tandemAxleGroupInKilograms</span>
 
     </div>
 
@@ -338,7 +407,8 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tripleAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-tripleAxleGroupInKilograms"
     class="section detail">
 
     ### tripleAxleGroupInKilograms
@@ -346,7 +416,10 @@ vehicle. The provided value must be greater or equal to 0.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">tripleAxleGroupInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">tripleAxleGroupInKilograms</span>
 
     </div>
 
@@ -357,7 +430,8 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-quadAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-quadAxleGroupInKilograms"
     class="section detail">
 
     ### quadAxleGroupInKilograms
@@ -365,7 +439,10 @@ vehicle. The provided value must be greater or equal to 0.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">quadAxleGroupInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">quadAxleGroupInKilograms</span>
 
     </div>
 
@@ -376,7 +453,8 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-quintAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-quintAxleGroupInKilograms"
     class="section detail">
 
     ### quintAxleGroupInKilograms
@@ -384,7 +462,10 @@ vehicle. The provided value must be greater or equal to 0.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">quintAxleGroupInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">quintAxleGroupInKilograms</span>
 
     </div>
 
@@ -397,9 +478,11 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### WeightPerAxleGroup
 
@@ -418,25 +501,36 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -447,12 +541,16 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

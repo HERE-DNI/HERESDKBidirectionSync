@@ -3,14 +3,17 @@ title: "com.here.sdk.gestures (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.gestures</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -239,6 +242,4 @@ package <span class="element-name">com.here.sdk.gestures</span>
   </div>
 
   </div>
-
-</div>
 

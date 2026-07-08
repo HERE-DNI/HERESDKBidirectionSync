@@ -3,9 +3,13 @@ title: "MapView.ViewPin (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -34,8 +38,7 @@ which only require static images, markers should be used.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -68,7 +71,7 @@ which only require static images, markers should be used.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getAnchorPoint()
+      getAnchorPoint ()
 
   </div>
 
@@ -90,7 +93,7 @@ which only require static images, markers should be used.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getGeoCoordinates()
+      getGeoCoordinates ()
 
   </div>
 
@@ -112,7 +115,7 @@ which only require static images, markers should be used.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      setAnchorPoint(Anchor2D anchorPoint)
+      setAnchorPoint ( Anchor2D anchorPoint)
 
   </div>
 
@@ -134,7 +137,7 @@ which only require static images, markers should be used.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      setGeoCoordinates(GeoCoordinates geoCoordinates)
+      setGeoCoordinates ( GeoCoordinates geoCoordinates)
 
   </div>
 
@@ -156,7 +159,7 @@ which only require static images, markers should be used.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      unpin()
+      unpin ()
 
   </div>
 
@@ -176,12 +179,12 @@ which only require static images, markers should be used.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-unpin()" class="section detail">
+
+  - <div id="sdk-for-android-explore-unpin" class="section detail">
 
     ### unpin
 
@@ -198,7 +201,8 @@ which only require static images, markers should be used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-getGeoCoordinates()"
+
+  - <div id="sdk-for-android-explore-getGeoCoordinates"
     class="section detail">
 
     ### getGeoCoordinates
@@ -219,7 +223,8 @@ which only require static images, markers should be used.
     The current GeoCoordinates.
 
     </div>
-<div id="sdk-for-android-explore-setGeoCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-setGeoCoordinates-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### setGeoCoordinates
@@ -243,7 +248,8 @@ which only require static images, markers should be used.
     `geoCoordinates` - Desired GeoCoordinates for this view pin.
 
     </div>
-<div id="sdk-for-android-explore-setAnchorPoint(com.here.sdk.core.Anchor2D)"
+
+  - <div id="sdk-for-android-explore-setAnchorPoint-com-here-sdk-core-Anchor2D"
     class="section detail">
 
     ### setAnchorPoint
@@ -271,7 +277,8 @@ which only require static images, markers should be used.
     `ViewPin`.
 
     </div>
-<div id="sdk-for-android-explore-getAnchorPoint()"
+
+  - <div id="sdk-for-android-explore-getAnchorPoint"
     class="section detail">
 
     ### getAnchorPoint
@@ -295,6 +302,4 @@ which only require static images, markers should be used.
     </div>
 
   </div>
-
-</div>
 

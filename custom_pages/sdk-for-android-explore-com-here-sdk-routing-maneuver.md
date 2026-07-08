@@ -3,16 +3,21 @@ title: "Maneuver (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.routing.Maneuver →
-com.here.NativeBase → com.here.sdk.routing.Maneuver
+java.lang.Object com.here.NativeBase com.here.sdk.routing.Maneuver →
+com.here.NativeBase com.here.sdk.routing.Maneuver →
+com.here.sdk.routing.Maneuver
 
 </div>
 
@@ -40,8 +45,7 @@ attribute.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -74,7 +78,7 @@ attribute.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getAction()
+      getAction ()
 
   </div>
 
@@ -96,7 +100,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCoordinates()
+      getCoordinates ()
 
   </div>
 
@@ -112,13 +116,16 @@ attribute.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCountryCode()
+      getCountryCode ()
 
   </div>
 
@@ -140,7 +147,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDuration()
+      getDuration ()
 
   </div>
 
@@ -162,7 +169,7 @@ attribute.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getExitSignTexts()
+      getExitSignTexts ()
 
   </div>
 
@@ -184,7 +191,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getIntersectionNames()
+      getIntersectionNames ()
 
   </div>
 
@@ -206,7 +213,7 @@ attribute.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLengthInMeters()
+      getLengthInMeters ()
 
   </div>
 
@@ -228,7 +235,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getNextRoadTexts()
+      getNextRoadTexts ()
 
   </div>
 
@@ -252,7 +259,7 @@ attribute.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOffset()
+      getOffset ()
 
   </div>
 
@@ -275,7 +282,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRoadTexts()
+      getRoadTexts ()
 
   </div>
 
@@ -292,13 +299,16 @@ attribute.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRoundaboutAngleInDegrees()
+      getRoundaboutAngleInDegrees ()
 
   </div>
 
@@ -321,7 +331,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSectionIndex()
+      getSectionIndex ()
 
   </div>
 
@@ -344,7 +354,7 @@ attribute.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSignpost()
+      getSignpost ()
 
   </div>
 
@@ -366,7 +376,7 @@ attribute.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSpanIndex()
+      getSpanIndex ()
 
   </div>
 
@@ -383,13 +393,16 @@ attribute.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getText()
+      getText ()
 
   </div>
 
@@ -405,13 +418,16 @@ attribute.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTurnAngleInDegrees()
+      getTurnAngleInDegrees ()
 
   </div>
 
@@ -431,21 +447,55 @@ attribute.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getAction()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getAction" class="section detail">
 
     ### getAction
 
@@ -466,7 +516,8 @@ attribute.
     Indicates the maneuver action.
 
     </div>
-<div id="sdk-for-android-explore-getCoordinates()"
+
+  - <div id="sdk-for-android-explore-getCoordinates"
     class="section detail">
 
     ### getCoordinates
@@ -488,8 +539,8 @@ attribute.
     Geographic coordinates where the maneuver is located.
 
     </div>
-<div id="sdk-for-android-explore-getOffset()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getOffset" class="section detail">
 
     ### getOffset
 
@@ -515,7 +566,8 @@ attribute.
     where the maneuver is located.
 
     </div>
-<div id="sdk-for-android-explore-getCountryCode()"
+
+  - <div id="sdk-for-android-explore-getCountryCode"
     class="section detail">
 
     ### getCountryCode
@@ -523,7 +575,9 @@ attribute.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCountryCode</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCountryCode</span>()
 
     </div>
 
@@ -539,7 +593,8 @@ attribute.
     no data is available.
 
     </div>
-<div id="sdk-for-android-explore-getExitSignTexts()"
+
+  - <div id="sdk-for-android-explore-getExitSignTexts"
     class="section detail">
 
     ### getExitSignTexts
@@ -565,7 +620,8 @@ attribute.
     number(s) and/or name(s).
 
     </div>
-<div id="sdk-for-android-explore-getLengthInMeters()"
+
+  - <div id="sdk-for-android-explore-getLengthInMeters"
     class="section detail">
 
     ### getLengthInMeters
@@ -586,7 +642,8 @@ attribute.
     The length of the maneuver in meters.
 
     </div>
-<div id="sdk-for-android-explore-getRoadTexts()"
+
+  - <div id="sdk-for-android-explore-getRoadTexts"
     class="section detail">
 
     ### getRoadTexts
@@ -612,7 +669,8 @@ attribute.
     road numbers and signpost direction (towards) information.
 
     </div>
-<div id="sdk-for-android-explore-getNextRoadTexts()"
+
+  - <div id="sdk-for-android-explore-getNextRoadTexts"
     class="section detail">
 
     ### getNextRoadTexts
@@ -638,7 +696,8 @@ attribute.
     road name(s) and road number(s) after the maneuver point.
 
     </div>
-<div id="sdk-for-android-explore-getSignpost()"
+
+  - <div id="sdk-for-android-explore-getSignpost"
     class="section detail">
 
     ### getSignpost
@@ -662,7 +721,8 @@ attribute.
     object.
 
     </div>
-<div id="sdk-for-android-explore-getIntersectionNames()"
+
+  - <div id="sdk-for-android-explore-getIntersectionNames"
     class="section detail">
 
     ### getIntersectionNames
@@ -687,14 +747,17 @@ attribute.
     The textual attributes of the intersection.
 
     </div>
-<div id="sdk-for-android-explore-getText()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getText" class="section detail">
 
     ### getText
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getText</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getText</span>()
 
     </div>
 
@@ -714,7 +777,8 @@ attribute.
     [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing").
 
     </div>
-<div id="sdk-for-android-explore-getSectionIndex()"
+
+  - <div id="sdk-for-android-explore-getSectionIndex"
     class="section detail">
 
     ### getSectionIndex
@@ -741,7 +805,8 @@ attribute.
     indicating the section to which the maneuver belongs to.
 
     </div>
-<div id="sdk-for-android-explore-getSpanIndex()"
+
+  - <div id="sdk-for-android-explore-getSpanIndex"
     class="section detail">
 
     ### getSpanIndex
@@ -772,7 +837,8 @@ attribute.
     indicating the first span after the maneuver point.
 
     </div>
-<div id="sdk-for-android-explore-getDuration()"
+
+  - <div id="sdk-for-android-explore-getDuration"
     class="section detail">
 
     ### getDuration
@@ -794,7 +860,8 @@ attribute.
     The estimated time in seconds needed to perform the maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getTurnAngleInDegrees()"
+
+  - <div id="sdk-for-android-explore-getTurnAngleInDegrees"
     class="section detail">
 
     ### getTurnAngleInDegrees
@@ -802,7 +869,9 @@ attribute.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getTurnAngleInDegrees</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getTurnAngleInDegrees</span>()
 
     </div>
 
@@ -822,7 +891,8 @@ attribute.
     The angle of the turn component of the maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getRoundaboutAngleInDegrees()"
+
+  - <div id="sdk-for-android-explore-getRoundaboutAngleInDegrees"
     class="section detail">
 
     ### getRoundaboutAngleInDegrees
@@ -830,7 +900,9 @@ attribute.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getRoundaboutAngleInDegrees</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getRoundaboutAngleInDegrees</span>()
 
     </div>
 
@@ -864,6 +936,4 @@ attribute.
     </div>
 
   </div>
-
-</div>
 

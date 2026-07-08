@@ -3,9 +3,13 @@ title: "AuthenticationMode.AccessTokenProvider (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+
+</div>
 
 </div>
 
@@ -23,7 +27,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface
 </span><span class="element-name type-name-label">AuthenticationMode.AccessTokenProvider</span>
 
@@ -40,8 +47,7 @@ thread of the application.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -68,13 +74,16 @@ thread of the application.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      apply()
+      apply ()
 
   </div>
 
@@ -94,19 +103,21 @@ thread of the application.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-apply()" class="section detail">
+
+  - <div id="sdk-for-android-explore-apply" class="section detail">
 
     ### apply
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">apply</span>()
+    </span><span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">apply</span>()
 
     </div>
 
@@ -125,6 +136,4 @@ thread of the application.
     </div>
 
   </div>
-
-</div>
 

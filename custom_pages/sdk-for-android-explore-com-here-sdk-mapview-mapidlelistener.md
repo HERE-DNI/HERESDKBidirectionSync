@@ -3,9 +3,13 @@ title: "MapIdleListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -31,8 +35,7 @@ rendered and no further redraws are necessary.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -65,7 +68,7 @@ rendered and no further redraws are necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onMapBusy()
+      onMapBusy ()
 
   </div>
 
@@ -87,7 +90,7 @@ rendered and no further redraws are necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onMapIdle()
+      onMapIdle ()
 
   </div>
 
@@ -107,13 +110,12 @@ rendered and no further redraws are necessary.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onMapBusy()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-onMapBusy" class="section detail">
 
     ### onMapBusy
 
@@ -131,8 +133,8 @@ rendered and no further redraws are necessary.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onMapIdle()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-onMapIdle" class="section detail">
 
     ### onMapIdle
 
@@ -152,6 +154,4 @@ rendered and no further redraws are necessary.
     </div>
 
   </div>
-
-</div>
 

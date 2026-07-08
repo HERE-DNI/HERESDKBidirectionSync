@@ -3,15 +3,20 @@ title: "ViolatedRestriction.Details (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.routing.ViolatedRestriction.Details
+java.lang.Object com.here.sdk.routing.ViolatedRestriction.Details →
+com.here.sdk.routing.ViolatedRestriction.Details
 
 </div>
 
@@ -25,7 +30,9 @@ Enclosing class:
 
 <span class="modifiers">public static final class
 </span><span class="element-name type-name-label">ViolatedRestriction.Details</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -41,8 +48,7 @@ maximum allowed height value.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -79,7 +85,9 @@ maximum allowed height value.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenAxleCount" class="member-name-link"><code>forbiddenAxleCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenAxleCount"
+  class="member-name-link"><code>forbiddenAxleCount</code></a>
 
   </div>
 
@@ -96,13 +104,18 @@ maximum allowed height value.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenHazardousGoods" class="member-name-link"><code>forbiddenHazardousGoods</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenHazardousGoods"
+  class="member-name-link"><code>forbiddenHazardousGoods</code></a>
 
   </div>
 
@@ -128,7 +141,9 @@ maximum allowed height value.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTrailerCount" class="member-name-link"><code>forbiddenTrailerCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTrailerCount"
+  class="member-name-link"><code>forbiddenTrailerCount</code></a>
 
   </div>
 
@@ -151,7 +166,9 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckCategory" class="member-name-link"><code>forbiddenTruckCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckCategory"
+  class="member-name-link"><code>forbiddenTruckCategory</code></a>
 
   </div>
 
@@ -168,13 +185,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckRoadTypes" class="member-name-link"><code>forbiddenTruckRoadTypes</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckRoadTypes"
+  class="member-name-link"><code>forbiddenTruckRoadTypes</code></a>
 
   </div>
 
@@ -196,7 +218,9 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckType" class="member-name-link"><code>forbiddenTruckType</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckType"
+  class="member-name-link"><code>forbiddenTruckType</code></a>
 
   </div>
 
@@ -212,13 +236,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxHeightInCentimeters" class="member-name-link"><code>maxHeightInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxHeightInCentimeters"
+  class="member-name-link"><code>maxHeightInCentimeters</code></a>
 
   </div>
 
@@ -234,13 +263,18 @@ maximum allowed height value.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxKingpinToRearAxleDistanceInCentimeters" class="member-name-link"><code>maxKingpinToRearAxleDistanceInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxKingpinToRearAxleDistanceInCentimeters"
+  class="member-name-link"><code>maxKingpinToRearAxleDistanceInCentimeters</code></a>
 
   </div>
 
@@ -257,13 +291,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxLengthInCentimeters" class="member-name-link"><code>maxLengthInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxLengthInCentimeters"
+  class="member-name-link"><code>maxLengthInCentimeters</code></a>
 
   </div>
 
@@ -279,13 +318,18 @@ maximum allowed height value.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxNumberOfTires" class="member-name-link"><code>maxNumberOfTires</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxNumberOfTires"
+  class="member-name-link"><code>maxNumberOfTires</code></a>
 
   </div>
 
@@ -301,13 +345,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxPayloadCapacityInKilograms" class="member-name-link"><code>maxPayloadCapacityInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxPayloadCapacityInKilograms"
+  class="member-name-link"><code>maxPayloadCapacityInKilograms</code></a>
 
   </div>
 
@@ -329,7 +378,9 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxTunnelCategory" class="member-name-link"><code>maxTunnelCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxTunnelCategory"
+  class="member-name-link"><code>maxTunnelCategory</code></a>
 
   </div>
 
@@ -352,7 +403,9 @@ maximum allowed height value.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeight" class="member-name-link"><code>maxWeight</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeight"
+  class="member-name-link"><code>maxWeight</code></a>
 
   </div>
 
@@ -375,7 +428,9 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleGroupInKilograms" class="member-name-link"><code>maxWeightPerAxleGroupInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleGroupInKilograms"
+  class="member-name-link"><code>maxWeightPerAxleGroupInKilograms</code></a>
 
   </div>
 
@@ -391,13 +446,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleInKilograms" class="member-name-link"><code>maxWeightPerAxleInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleInKilograms"
+  class="member-name-link"><code>maxWeightPerAxleInKilograms</code></a>
 
   </div>
 
@@ -413,13 +473,18 @@ maximum allowed height value.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWidthInCentimeters" class="member-name-link"><code>maxWidthInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWidthInCentimeters"
+  class="member-name-link"><code>maxWidthInCentimeters</code></a>
 
   </div>
 
@@ -435,13 +500,18 @@ maximum allowed height value.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#routingZoneReference" class="member-name-link"><code>routingZoneReference</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#routingZoneReference"
+  class="member-name-link"><code>routingZoneReference</code></a>
 
   </div>
 
@@ -464,7 +534,9 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#timeRule" class="member-name-link"><code>timeRule</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#timeRule"
+  class="member-name-link"><code>timeRule</code></a>
 
   </div>
 
@@ -481,7 +553,8 @@ maximum allowed height value.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -506,7 +579,7 @@ maximum allowed height value.
 
   <div class="col-constructor-name even-row-color">
 
-      Details()
+      Details ()
 
   </div>
 
@@ -523,7 +596,8 @@ maximum allowed height value.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -556,7 +630,7 @@ maximum allowed height value.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -574,7 +648,7 @@ maximum allowed height value.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -590,20 +664,49 @@ maximum allowed height value.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-maxWeightPerAxleInKilograms"
+
+  - <div id="sdk-for-android-explore-maxWeightPerAxleInKilograms"
     class="section detail">
 
     ### maxWeightPerAxleInKilograms
@@ -611,7 +714,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWeightPerAxleInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWeightPerAxleInKilograms</span>
 
     </div>
 
@@ -624,7 +730,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxWeightPerAxleGroupInKilograms"
+
+  - <div id="sdk-for-android-explore-maxWeightPerAxleGroupInKilograms"
     class="section detail">
 
     ### maxWeightPerAxleGroupInKilograms
@@ -645,7 +752,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxHeightInCentimeters"
+
+  - <div id="sdk-for-android-explore-maxHeightInCentimeters"
     class="section detail">
 
     ### maxHeightInCentimeters
@@ -653,7 +761,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxHeightInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxHeightInCentimeters</span>
 
     </div>
 
@@ -666,7 +777,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxWidthInCentimeters"
+
+  - <div id="sdk-for-android-explore-maxWidthInCentimeters"
     class="section detail">
 
     ### maxWidthInCentimeters
@@ -674,7 +786,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWidthInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWidthInCentimeters</span>
 
     </div>
 
@@ -687,7 +802,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxLengthInCentimeters"
+
+  - <div id="sdk-for-android-explore-maxLengthInCentimeters"
     class="section detail">
 
     ### maxLengthInCentimeters
@@ -695,7 +811,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxLengthInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxLengthInCentimeters</span>
 
     </div>
 
@@ -708,7 +827,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenAxleCount"
+
+  - <div id="sdk-for-android-explore-forbiddenAxleCount"
     class="section detail">
 
     ### forbiddenAxleCount
@@ -729,7 +849,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenTrailerCount"
+
+  - <div id="sdk-for-android-explore-forbiddenTrailerCount"
     class="section detail">
 
     ### forbiddenTrailerCount
@@ -750,7 +871,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenHazardousGoods"
+
+  - <div id="sdk-for-android-explore-forbiddenHazardousGoods"
     class="section detail">
 
     ### forbiddenHazardousGoods
@@ -758,7 +880,9 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenHazardousGoods</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenHazardousGoods</span>
 
     </div>
 
@@ -777,7 +901,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxTunnelCategory"
+
+  - <div id="sdk-for-android-explore-maxTunnelCategory"
     class="section detail">
 
     ### maxTunnelCategory
@@ -800,14 +925,18 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenTruckType"
+
+  - <div id="sdk-for-android-explore-forbiddenTruckType"
     class="section detail">
 
     ### forbiddenTruckType
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">forbiddenTruckType</span>
 
     </div>
@@ -831,7 +960,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenTruckCategory"
+
+  - <div id="sdk-for-android-explore-forbiddenTruckCategory"
     class="section detail">
 
     ### forbiddenTruckCategory
@@ -851,7 +981,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forbiddenTruckRoadTypes"
+
+  - <div id="sdk-for-android-explore-forbiddenTruckRoadTypes"
     class="section detail">
 
     ### forbiddenTruckRoadTypes
@@ -859,7 +990,9 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenTruckRoadTypes</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenTruckRoadTypes</span>
 
     </div>
 
@@ -870,7 +1003,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-routingZoneReference"
+
+  - <div id="sdk-for-android-explore-routingZoneReference"
     class="section detail">
 
     ### routingZoneReference
@@ -878,7 +1012,9 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">routingZoneReference</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">routingZoneReference</span>
 
     </div>
 
@@ -890,7 +1026,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxPayloadCapacityInKilograms"
+
+  - <div id="sdk-for-android-explore-maxPayloadCapacityInKilograms"
     class="section detail">
 
     ### maxPayloadCapacityInKilograms
@@ -898,7 +1035,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxPayloadCapacityInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxPayloadCapacityInKilograms</span>
 
     </div>
 
@@ -911,7 +1051,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-timeRule" class="section detail">
+
+  - <div id="sdk-for-android-explore-timeRule" class="section detail">
 
     ### timeRule
 
@@ -929,7 +1070,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxWeight" class="section detail">
+
+  - <div id="sdk-for-android-explore-maxWeight" class="section detail">
 
     ### maxWeight
 
@@ -950,7 +1092,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxNumberOfTires"
+
+  - <div id="sdk-for-android-explore-maxNumberOfTires"
     class="section detail">
 
     ### maxNumberOfTires
@@ -958,7 +1101,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxNumberOfTires</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxNumberOfTires</span>
 
     </div>
 
@@ -971,7 +1117,8 @@ maximum allowed height value.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxKingpinToRearAxleDistanceInCentimeters"
+
+  - <div id="sdk-for-android-explore-maxKingpinToRearAxleDistanceInCentimeters"
     class="section detail">
 
     ### maxKingpinToRearAxleDistanceInCentimeters
@@ -979,7 +1126,10 @@ maximum allowed height value.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxKingpinToRearAxleDistanceInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxKingpinToRearAxleDistanceInCentimeters</span>
 
     </div>
 
@@ -995,9 +1145,11 @@ maximum allowed height value.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### Details
 
@@ -1016,25 +1168,36 @@ maximum allowed height value.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -1045,12 +1208,16 @@ maximum allowed height value.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

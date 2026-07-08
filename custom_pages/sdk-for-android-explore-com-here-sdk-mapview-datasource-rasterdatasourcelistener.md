@@ -3,9 +3,13 @@ title: "RasterDataSourceListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+
+</div>
 
 </div>
 
@@ -27,8 +31,7 @@ Listener for RasterDataSource events.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -61,7 +64,7 @@ Listener for RasterDataSource events.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onRasterDataSourceError(RasterDataSourceError dataSourceError)
+      onRasterDataSourceError ( RasterDataSourceError dataSourceError)
 
   </div>
 
@@ -83,7 +86,7 @@ Listener for RasterDataSource events.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onRasterDataSourceReady()
+      onRasterDataSourceReady ()
 
   </div>
 
@@ -103,12 +106,12 @@ Listener for RasterDataSource events.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onRasterDataSourceReady()"
+
+  - <div id="sdk-for-android-explore-onRasterDataSourceReady"
     class="section detail">
 
     ### onRasterDataSourceReady
@@ -126,7 +129,8 @@ Listener for RasterDataSource events.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)"
+
+  - <div id="sdk-for-android-explore-onRasterDataSourceError-com-here-sdk-mapview-datasource-RasterDataSourceError"
     class="section detail">
 
     ### onRasterDataSourceError
@@ -152,6 +156,4 @@ Listener for RasterDataSource events.
     </div>
 
   </div>
-
-</div>
 

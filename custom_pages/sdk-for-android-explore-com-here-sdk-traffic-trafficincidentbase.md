@@ -3,9 +3,13 @@ title: "TrafficIncidentBase (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+
+</div>
 
 </div>
 
@@ -32,8 +36,7 @@ TrafficIncident provides details about a traffic incident.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -66,7 +69,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getDescription()
+      getDescription ()
 
   </div>
 
@@ -83,13 +86,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getEndTime()
+      getEndTime ()
 
   </div>
 
@@ -112,7 +118,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getImpact()
+      getImpact ()
 
   </div>
 
@@ -128,13 +134,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getStartTime()
+      getStartTime ()
 
   </div>
 
@@ -157,7 +166,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getType()
+      getType ()
 
   </div>
 
@@ -177,13 +186,12 @@ TrafficIncident provides details about a traffic incident.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getImpact()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getImpact" class="section detail">
 
     ### getImpact
 
@@ -206,7 +214,8 @@ TrafficIncident provides details about a traffic incident.
     The impact of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getType()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getType" class="section detail">
 
     ### getType
 
@@ -229,7 +238,8 @@ TrafficIncident provides details about a traffic incident.
     The category of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getDescription()"
+
+  - <div id="sdk-for-android-explore-getDescription"
     class="section detail">
 
     ### getDescription
@@ -256,7 +266,8 @@ TrafficIncident provides details about a traffic incident.
     location information.
 
     </div>
-<div id="sdk-for-android-explore-getStartTime()"
+
+  - <div id="sdk-for-android-explore-getStartTime"
     class="section detail">
 
     ### getStartTime
@@ -264,7 +275,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    </span><span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
@@ -281,15 +294,17 @@ TrafficIncident provides details about a traffic incident.
     incident should not be considered.
 
     </div>
-<div id="sdk-for-android-explore-getEndTime()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getEndTime" class="section detail">
 
     ### getEndTime
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    </span><span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 
@@ -308,6 +323,4 @@ TrafficIncident provides details about a traffic incident.
     </div>
 
   </div>
-
-</div>
 

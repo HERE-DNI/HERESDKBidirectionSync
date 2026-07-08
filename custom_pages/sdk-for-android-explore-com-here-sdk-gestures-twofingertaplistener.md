@@ -3,9 +3,13 @@ title: "TwoFingerTapListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+
+</div>
 
 </div>
 
@@ -28,8 +32,7 @@ occurs after tapping on the screen with two fingers.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -62,7 +65,7 @@ occurs after tapping on the screen with two fingers.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onTwoFingerTap(Point2D origin)
+      onTwoFingerTap ( Point2D origin)
 
   </div>
 
@@ -82,12 +85,12 @@ occurs after tapping on the screen with two fingers.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTwoFingerTap(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-onTwoFingerTap-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### onTwoFingerTap
@@ -114,6 +117,4 @@ occurs after tapping on the screen with two fingers.
     </div>
 
   </div>
-
-</div>
 

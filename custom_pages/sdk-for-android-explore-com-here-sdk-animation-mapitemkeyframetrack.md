@@ -3,17 +3,22 @@ title: "MapItemKeyFrameTrack (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.animation.MapItemKeyFrameTrack →
-com.here.NativeBase → com.here.sdk.animation.MapItemKeyFrameTrack
+java.lang.Object com.here.NativeBase
+com.here.sdk.animation.MapItemKeyFrameTrack → com.here.NativeBase
+com.here.sdk.animation.MapItemKeyFrameTrack →
+com.here.sdk.animation.MapItemKeyFrameTrack
 
 </div>
 
@@ -40,8 +45,7 @@ MapPolylineAnimation .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -78,7 +82,10 @@ MapPolylineAnimation .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode" class="type-name-link" title="enum class in com.here.sdk.animation"><code>MapItemKeyFrameTrack.InstantiationErrorCode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.animation"><code>MapItemKeyFrameTrack.InstantiationErrorCode</code></a>
 
   </div>
 
@@ -100,7 +107,10 @@ MapPolylineAnimation .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" class="type-name-link" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack.InstantiationException</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack.InstantiationException</code></a>
 
   </div>
 
@@ -118,7 +128,8 @@ MapPolylineAnimation .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -151,9 +162,7 @@ MapPolylineAnimation .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      moveTo(List<GeoCoordinatesKeyframe> keyframes,
-       Easing easing,
-       KeyframeInterpolationMode interpolationMode)
+      moveTo ( List < GeoCoordinatesKeyframe > keyframes, Easing easing, KeyframeInterpolationMode interpolationMode)
 
   </div>
 
@@ -175,9 +184,7 @@ MapPolylineAnimation .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      polylineProgress(List<ScalarKeyframe> keyframes,
-       Easing easing,
-       KeyframeInterpolationMode interpolationMode)
+      polylineProgress ( List < ScalarKeyframe > keyframes, Easing easing, KeyframeInterpolationMode interpolationMode)
 
   </div>
 
@@ -197,20 +204,55 @@ MapPolylineAnimation .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-moveTo(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+
+  - <div id="sdk-for-android-explore-moveTo-java-util-List-com-here-sdk-animation-Easing-com-here-sdk-animation-KeyframeInterpolationMode"
     class="section detail">
 
     ### moveTo
@@ -220,7 +262,9 @@ MapPolylineAnimation .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
     static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">moveTo</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -261,7 +305,8 @@ MapPolylineAnimation .
     not 0.
 
     </div>
-<div id="sdk-for-android-explore-polylineProgress(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+
+  - <div id="sdk-for-android-explore-polylineProgress-java-util-List-com-here-sdk-animation-Easing-com-here-sdk-animation-KeyframeInterpolationMode"
     class="section detail">
 
     ### polylineProgress
@@ -271,7 +316,9 @@ MapPolylineAnimation .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
     static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">polylineProgress</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes,
     @NonNull
     [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing,
     @NonNull
@@ -315,6 +362,4 @@ MapPolylineAnimation .
     </div>
 
   </div>
-
-</div>
 

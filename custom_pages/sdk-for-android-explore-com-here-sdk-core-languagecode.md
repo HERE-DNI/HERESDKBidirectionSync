@@ -3,17 +3,21 @@ title: "LanguageCode (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-languagecode"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-java.lang.Enum\<LanguageCode\>com.here.sdk.core.LanguageCode →
-java.lang.Enum → LanguageCode → com.here.sdk.core.LanguageCode
+java.lang.Object java.lang.Enum \< LanguageCode \>
+com.here.sdk.core.LanguageCode → java.lang.Enum \< LanguageCode \>
+com.here.sdk.core.LanguageCode → com.here.sdk.core.LanguageCode
 
 </div>
 
@@ -21,14 +25,25 @@ java.lang.Enum → LanguageCode → com.here.sdk.core.LanguageCode
 class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")`>`,
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">LanguageCode</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")\></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")\></span>
 
 </div>
 
@@ -45,19 +60,37 @@ is specified, its ISO 15924 code is used.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+  ## Nested classes/interfaces inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
+
+  ## Enum Constant Summary
 
   <div class="caption">
 
@@ -81,7 +114,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AF_ZA" class="member-name-link"><code>AF_ZA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AF_ZA"
+  class="member-name-link"><code>AF_ZA</code></a>
 
   </div>
 
@@ -97,7 +131,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AM_ET" class="member-name-link"><code>AM_ET</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AM_ET"
+  class="member-name-link"><code>AM_ET</code></a>
 
   </div>
 
@@ -113,7 +148,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AR_SA" class="member-name-link"><code>AR_SA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AR_SA"
+  class="member-name-link"><code>AR_SA</code></a>
 
   </div>
 
@@ -129,7 +165,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AS_IN" class="member-name-link"><code>AS_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AS_IN"
+  class="member-name-link"><code>AS_IN</code></a>
 
   </div>
 
@@ -145,7 +182,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#AZ_LATN_AZ" class="member-name-link"><code>AZ_LATN_AZ</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#AZ_LATN_AZ"
+  class="member-name-link"><code>AZ_LATN_AZ</code></a>
 
   </div>
 
@@ -161,7 +200,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BE_BY" class="member-name-link"><code>BE_BY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BE_BY"
+  class="member-name-link"><code>BE_BY</code></a>
 
   </div>
 
@@ -177,7 +217,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BG_BG" class="member-name-link"><code>BG_BG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BG_BG"
+  class="member-name-link"><code>BG_BG</code></a>
 
   </div>
 
@@ -193,7 +234,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BN_BD" class="member-name-link"><code>BN_BD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BN_BD"
+  class="member-name-link"><code>BN_BD</code></a>
 
   </div>
 
@@ -209,7 +251,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BN_IN" class="member-name-link"><code>BN_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BN_IN"
+  class="member-name-link"><code>BN_IN</code></a>
 
   </div>
 
@@ -225,7 +268,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#BS_LATN_BA" class="member-name-link"><code>BS_LATN_BA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#BS_LATN_BA"
+  class="member-name-link"><code>BS_LATN_BA</code></a>
 
   </div>
 
@@ -241,7 +286,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CA_ES" class="member-name-link"><code>CA_ES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CA_ES"
+  class="member-name-link"><code>CA_ES</code></a>
 
   </div>
 
@@ -257,7 +303,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CAT_ES" class="member-name-link"><code>CAT_ES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CAT_ES"
+  class="member-name-link"><code>CAT_ES</code></a>
 
   </div>
 
@@ -273,7 +320,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CS_CZ" class="member-name-link"><code>CS_CZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CS_CZ"
+  class="member-name-link"><code>CS_CZ</code></a>
 
   </div>
 
@@ -289,7 +337,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CY_GB" class="member-name-link"><code>CY_GB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#CY_GB"
+  class="member-name-link"><code>CY_GB</code></a>
 
   </div>
 
@@ -305,7 +354,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#DA_DK" class="member-name-link"><code>DA_DK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#DA_DK"
+  class="member-name-link"><code>DA_DK</code></a>
 
   </div>
 
@@ -321,7 +371,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#DE_DE" class="member-name-link"><code>DE_DE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#DE_DE"
+  class="member-name-link"><code>DE_DE</code></a>
 
   </div>
 
@@ -337,7 +388,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EL_GR" class="member-name-link"><code>EL_GR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EL_GR"
+  class="member-name-link"><code>EL_GR</code></a>
 
   </div>
 
@@ -353,7 +405,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EN_GB" class="member-name-link"><code>EN_GB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EN_GB"
+  class="member-name-link"><code>EN_GB</code></a>
 
   </div>
 
@@ -369,7 +422,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EN_US" class="member-name-link"><code>EN_US</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EN_US"
+  class="member-name-link"><code>EN_US</code></a>
 
   </div>
 
@@ -385,7 +439,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_AR" class="member-name-link"><code>ES_AR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_AR"
+  class="member-name-link"><code>ES_AR</code></a>
 
   </div>
 
@@ -401,7 +456,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_ES" class="member-name-link"><code>ES_ES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_ES"
+  class="member-name-link"><code>ES_ES</code></a>
 
   </div>
 
@@ -417,7 +473,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_MX" class="member-name-link"><code>ES_MX</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ES_MX"
+  class="member-name-link"><code>ES_MX</code></a>
 
   </div>
 
@@ -433,7 +490,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ET_EE" class="member-name-link"><code>ET_EE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ET_EE"
+  class="member-name-link"><code>ET_EE</code></a>
 
   </div>
 
@@ -449,7 +507,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EU_ES" class="member-name-link"><code>EU_ES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#EU_ES"
+  class="member-name-link"><code>EU_ES</code></a>
 
   </div>
 
@@ -465,7 +524,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FA_IR" class="member-name-link"><code>FA_IR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FA_IR"
+  class="member-name-link"><code>FA_IR</code></a>
 
   </div>
 
@@ -481,7 +541,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FI_FI" class="member-name-link"><code>FI_FI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FI_FI"
+  class="member-name-link"><code>FI_FI</code></a>
 
   </div>
 
@@ -497,7 +558,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FIL_PH" class="member-name-link"><code>FIL_PH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FIL_PH"
+  class="member-name-link"><code>FIL_PH</code></a>
 
   </div>
 
@@ -513,7 +575,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FR_CA" class="member-name-link"><code>FR_CA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FR_CA"
+  class="member-name-link"><code>FR_CA</code></a>
 
   </div>
 
@@ -529,7 +592,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FR_FR" class="member-name-link"><code>FR_FR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#FR_FR"
+  class="member-name-link"><code>FR_FR</code></a>
 
   </div>
 
@@ -545,7 +609,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GA_IE" class="member-name-link"><code>GA_IE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GA_IE"
+  class="member-name-link"><code>GA_IE</code></a>
 
   </div>
 
@@ -561,7 +626,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GD_LATN_GB" class="member-name-link"><code>GD_LATN_GB</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#GD_LATN_GB"
+  class="member-name-link"><code>GD_LATN_GB</code></a>
 
   </div>
 
@@ -577,7 +644,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GL_ES" class="member-name-link"><code>GL_ES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GL_ES"
+  class="member-name-link"><code>GL_ES</code></a>
 
   </div>
 
@@ -593,7 +661,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GU_IN" class="member-name-link"><code>GU_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#GU_IN"
+  class="member-name-link"><code>GU_IN</code></a>
 
   </div>
 
@@ -609,7 +678,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HA_LATN_NG" class="member-name-link"><code>HA_LATN_NG</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#HA_LATN_NG"
+  class="member-name-link"><code>HA_LATN_NG</code></a>
 
   </div>
 
@@ -625,7 +696,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HE_IL" class="member-name-link"><code>HE_IL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HE_IL"
+  class="member-name-link"><code>HE_IL</code></a>
 
   </div>
 
@@ -641,7 +713,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HI_IN" class="member-name-link"><code>HI_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HI_IN"
+  class="member-name-link"><code>HI_IN</code></a>
 
   </div>
 
@@ -657,7 +730,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HR_HR" class="member-name-link"><code>HR_HR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HR_HR"
+  class="member-name-link"><code>HR_HR</code></a>
 
   </div>
 
@@ -673,7 +747,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HU_HU" class="member-name-link"><code>HU_HU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HU_HU"
+  class="member-name-link"><code>HU_HU</code></a>
 
   </div>
 
@@ -689,7 +764,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HY_AM" class="member-name-link"><code>HY_AM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#HY_AM"
+  class="member-name-link"><code>HY_AM</code></a>
 
   </div>
 
@@ -705,7 +781,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ID_ID" class="member-name-link"><code>ID_ID</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ID_ID"
+  class="member-name-link"><code>ID_ID</code></a>
 
   </div>
 
@@ -721,7 +798,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#IG_LATN_NG" class="member-name-link"><code>IG_LATN_NG</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#IG_LATN_NG"
+  class="member-name-link"><code>IG_LATN_NG</code></a>
 
   </div>
 
@@ -737,7 +816,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#IS_IS" class="member-name-link"><code>IS_IS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#IS_IS"
+  class="member-name-link"><code>IS_IS</code></a>
 
   </div>
 
@@ -753,7 +833,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#IT_IT" class="member-name-link"><code>IT_IT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#IT_IT"
+  class="member-name-link"><code>IT_IT</code></a>
 
   </div>
 
@@ -769,7 +850,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#JA_JP" class="member-name-link"><code>JA_JP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#JA_JP"
+  class="member-name-link"><code>JA_JP</code></a>
 
   </div>
 
@@ -785,7 +867,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KA_GE" class="member-name-link"><code>KA_GE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KA_GE"
+  class="member-name-link"><code>KA_GE</code></a>
 
   </div>
 
@@ -801,7 +884,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KK_KZ" class="member-name-link"><code>KK_KZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KK_KZ"
+  class="member-name-link"><code>KK_KZ</code></a>
 
   </div>
 
@@ -817,7 +901,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KM_KH" class="member-name-link"><code>KM_KH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KM_KH"
+  class="member-name-link"><code>KM_KH</code></a>
 
   </div>
 
@@ -833,7 +918,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KN_IN" class="member-name-link"><code>KN_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KN_IN"
+  class="member-name-link"><code>KN_IN</code></a>
 
   </div>
 
@@ -849,7 +935,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KO_KR" class="member-name-link"><code>KO_KR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KO_KR"
+  class="member-name-link"><code>KO_KR</code></a>
 
   </div>
 
@@ -865,7 +952,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KOK_IN" class="member-name-link"><code>KOK_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KOK_IN"
+  class="member-name-link"><code>KOK_IN</code></a>
 
   </div>
 
@@ -881,7 +969,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KU_ARAB" class="member-name-link"><code>KU_ARAB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KU_ARAB"
+  class="member-name-link"><code>KU_ARAB</code></a>
 
   </div>
 
@@ -897,7 +986,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#KY_CYRL_KG" class="member-name-link"><code>KY_CYRL_KG</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#KY_CYRL_KG"
+  class="member-name-link"><code>KY_CYRL_KG</code></a>
 
   </div>
 
@@ -913,7 +1004,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LB_LU" class="member-name-link"><code>LB_LU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LB_LU"
+  class="member-name-link"><code>LB_LU</code></a>
 
   </div>
 
@@ -929,7 +1021,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LT_LT" class="member-name-link"><code>LT_LT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LT_LT"
+  class="member-name-link"><code>LT_LT</code></a>
 
   </div>
 
@@ -945,7 +1038,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LV_LV" class="member-name-link"><code>LV_LV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#LV_LV"
+  class="member-name-link"><code>LV_LV</code></a>
 
   </div>
 
@@ -961,7 +1055,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MI_LATN_NZ" class="member-name-link"><code>MI_LATN_NZ</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#MI_LATN_NZ"
+  class="member-name-link"><code>MI_LATN_NZ</code></a>
 
   </div>
 
@@ -977,7 +1073,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MK_MK" class="member-name-link"><code>MK_MK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MK_MK"
+  class="member-name-link"><code>MK_MK</code></a>
 
   </div>
 
@@ -993,7 +1090,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ML_IN" class="member-name-link"><code>ML_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ML_IN"
+  class="member-name-link"><code>ML_IN</code></a>
 
   </div>
 
@@ -1009,7 +1107,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MN_CYRL_MN" class="member-name-link"><code>MN_CYRL_MN</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#MN_CYRL_MN"
+  class="member-name-link"><code>MN_CYRL_MN</code></a>
 
   </div>
 
@@ -1025,7 +1125,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MR_IN" class="member-name-link"><code>MR_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MR_IN"
+  class="member-name-link"><code>MR_IN</code></a>
 
   </div>
 
@@ -1041,7 +1142,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MS_MY" class="member-name-link"><code>MS_MY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MS_MY"
+  class="member-name-link"><code>MS_MY</code></a>
 
   </div>
 
@@ -1057,7 +1159,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MT_MT" class="member-name-link"><code>MT_MT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#MT_MT"
+  class="member-name-link"><code>MT_MT</code></a>
 
   </div>
 
@@ -1073,7 +1176,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NB_NO" class="member-name-link"><code>NB_NO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NB_NO"
+  class="member-name-link"><code>NB_NO</code></a>
 
   </div>
 
@@ -1089,7 +1193,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NE_NP" class="member-name-link"><code>NE_NP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NE_NP"
+  class="member-name-link"><code>NE_NP</code></a>
 
   </div>
 
@@ -1105,7 +1210,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NL_BE" class="member-name-link"><code>NL_BE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NL_BE"
+  class="member-name-link"><code>NL_BE</code></a>
 
   </div>
 
@@ -1121,7 +1227,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NL_NL" class="member-name-link"><code>NL_NL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NL_NL"
+  class="member-name-link"><code>NL_NL</code></a>
 
   </div>
 
@@ -1137,7 +1244,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NN_NO" class="member-name-link"><code>NN_NO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NN_NO"
+  class="member-name-link"><code>NN_NO</code></a>
 
   </div>
 
@@ -1153,7 +1261,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NSO_ZA" class="member-name-link"><code>NSO_ZA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#NSO_ZA"
+  class="member-name-link"><code>NSO_ZA</code></a>
 
   </div>
 
@@ -1169,7 +1278,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#OR_IN" class="member-name-link"><code>OR_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#OR_IN"
+  class="member-name-link"><code>OR_IN</code></a>
 
   </div>
 
@@ -1185,7 +1295,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PA_ARAB" class="member-name-link"><code>PA_ARAB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PA_ARAB"
+  class="member-name-link"><code>PA_ARAB</code></a>
 
   </div>
 
@@ -1201,7 +1312,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PA_GURU" class="member-name-link"><code>PA_GURU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PA_GURU"
+  class="member-name-link"><code>PA_GURU</code></a>
 
   </div>
 
@@ -1217,7 +1329,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PL_PL" class="member-name-link"><code>PL_PL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PL_PL"
+  class="member-name-link"><code>PL_PL</code></a>
 
   </div>
 
@@ -1233,7 +1346,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PRS_ARAB_AF" class="member-name-link"><code>PRS_ARAB_AF</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#PRS_ARAB_AF"
+  class="member-name-link"><code>PRS_ARAB_AF</code></a>
 
   </div>
 
@@ -1249,7 +1364,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PT_BR" class="member-name-link"><code>PT_BR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PT_BR"
+  class="member-name-link"><code>PT_BR</code></a>
 
   </div>
 
@@ -1265,7 +1381,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PT_PT" class="member-name-link"><code>PT_PT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#PT_PT"
+  class="member-name-link"><code>PT_PT</code></a>
 
   </div>
 
@@ -1281,7 +1398,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#QU_LATN_PE" class="member-name-link"><code>QU_LATN_PE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#QU_LATN_PE"
+  class="member-name-link"><code>QU_LATN_PE</code></a>
 
   </div>
 
@@ -1297,7 +1416,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#QUC_LATN_GT" class="member-name-link"><code>QUC_LATN_GT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#QUC_LATN_GT"
+  class="member-name-link"><code>QUC_LATN_GT</code></a>
 
   </div>
 
@@ -1313,7 +1434,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RO_RO" class="member-name-link"><code>RO_RO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RO_RO"
+  class="member-name-link"><code>RO_RO</code></a>
 
   </div>
 
@@ -1329,7 +1451,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RU_RU" class="member-name-link"><code>RU_RU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RU_RU"
+  class="member-name-link"><code>RU_RU</code></a>
 
   </div>
 
@@ -1345,7 +1468,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RW_RW" class="member-name-link"><code>RW_RW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#RW_RW"
+  class="member-name-link"><code>RW_RW</code></a>
 
   </div>
 
@@ -1361,7 +1485,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SD_ARAB" class="member-name-link"><code>SD_ARAB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SD_ARAB"
+  class="member-name-link"><code>SD_ARAB</code></a>
 
   </div>
 
@@ -1377,7 +1502,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SI_LK" class="member-name-link"><code>SI_LK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SI_LK"
+  class="member-name-link"><code>SI_LK</code></a>
 
   </div>
 
@@ -1393,7 +1519,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SK_SK" class="member-name-link"><code>SK_SK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SK_SK"
+  class="member-name-link"><code>SK_SK</code></a>
 
   </div>
 
@@ -1409,7 +1536,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SL_SI" class="member-name-link"><code>SL_SI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SL_SI"
+  class="member-name-link"><code>SL_SI</code></a>
 
   </div>
 
@@ -1425,7 +1553,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SQ_AL" class="member-name-link"><code>SQ_AL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SQ_AL"
+  class="member-name-link"><code>SQ_AL</code></a>
 
   </div>
 
@@ -1441,7 +1570,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_CYRL_BA" class="member-name-link"><code>SR_CYRL_BA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_CYRL_BA"
+  class="member-name-link"><code>SR_CYRL_BA</code></a>
 
   </div>
 
@@ -1457,7 +1588,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_CYRL_RS" class="member-name-link"><code>SR_CYRL_RS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_CYRL_RS"
+  class="member-name-link"><code>SR_CYRL_RS</code></a>
 
   </div>
 
@@ -1473,7 +1606,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_LATN_RS" class="member-name-link"><code>SR_LATN_RS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#SR_LATN_RS"
+  class="member-name-link"><code>SR_LATN_RS</code></a>
 
   </div>
 
@@ -1489,7 +1624,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SV_SE" class="member-name-link"><code>SV_SE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SV_SE"
+  class="member-name-link"><code>SV_SE</code></a>
 
   </div>
 
@@ -1505,7 +1641,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SW" class="member-name-link"><code>SW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#SW"
+  class="member-name-link"><code>SW</code></a>
 
   </div>
 
@@ -1521,7 +1658,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TA" class="member-name-link"><code>TA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TA"
+  class="member-name-link"><code>TA</code></a>
 
   </div>
 
@@ -1537,7 +1675,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TE_IN" class="member-name-link"><code>TE_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TE_IN"
+  class="member-name-link"><code>TE_IN</code></a>
 
   </div>
 
@@ -1553,7 +1692,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TG_CYRL_TJ" class="member-name-link"><code>TG_CYRL_TJ</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#TG_CYRL_TJ"
+  class="member-name-link"><code>TG_CYRL_TJ</code></a>
 
   </div>
 
@@ -1569,7 +1710,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TH_TH" class="member-name-link"><code>TH_TH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TH_TH"
+  class="member-name-link"><code>TH_TH</code></a>
 
   </div>
 
@@ -1585,7 +1727,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TI_ET" class="member-name-link"><code>TI_ET</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TI_ET"
+  class="member-name-link"><code>TI_ET</code></a>
 
   </div>
 
@@ -1601,7 +1744,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TK_LATN_TM" class="member-name-link"><code>TK_LATN_TM</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#TK_LATN_TM"
+  class="member-name-link"><code>TK_LATN_TM</code></a>
 
   </div>
 
@@ -1617,7 +1762,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TN" class="member-name-link"><code>TN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TN"
+  class="member-name-link"><code>TN</code></a>
 
   </div>
 
@@ -1633,7 +1779,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TR_TR" class="member-name-link"><code>TR_TR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TR_TR"
+  class="member-name-link"><code>TR_TR</code></a>
 
   </div>
 
@@ -1649,7 +1796,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#TT_CYRL_RU" class="member-name-link"><code>TT_CYRL_RU</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#TT_CYRL_RU"
+  class="member-name-link"><code>TT_CYRL_RU</code></a>
 
   </div>
 
@@ -1665,7 +1814,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UG_ARAB" class="member-name-link"><code>UG_ARAB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UG_ARAB"
+  class="member-name-link"><code>UG_ARAB</code></a>
 
   </div>
 
@@ -1681,7 +1831,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UK_UA" class="member-name-link"><code>UK_UA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UK_UA"
+  class="member-name-link"><code>UK_UA</code></a>
 
   </div>
 
@@ -1697,7 +1848,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UR" class="member-name-link"><code>UR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UR"
+  class="member-name-link"><code>UR</code></a>
 
   </div>
 
@@ -1713,7 +1865,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UZ_CYRL_UZ" class="member-name-link"><code>UZ_CYRL_UZ</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#UZ_CYRL_UZ"
+  class="member-name-link"><code>UZ_CYRL_UZ</code></a>
 
   </div>
 
@@ -1729,7 +1883,9 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#UZ_LATN_UZ" class="member-name-link"><code>UZ_LATN_UZ</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-languagecode#UZ_LATN_UZ"
+  class="member-name-link"><code>UZ_LATN_UZ</code></a>
 
   </div>
 
@@ -1745,7 +1901,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#VI_VN" class="member-name-link"><code>VI_VN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#VI_VN"
+  class="member-name-link"><code>VI_VN</code></a>
 
   </div>
 
@@ -1761,7 +1918,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#WO_LATN" class="member-name-link"><code>WO_LATN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#WO_LATN"
+  class="member-name-link"><code>WO_LATN</code></a>
 
   </div>
 
@@ -1777,7 +1935,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#XH" class="member-name-link"><code>XH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#XH"
+  class="member-name-link"><code>XH</code></a>
 
   </div>
 
@@ -1793,7 +1952,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#YO_LATN" class="member-name-link"><code>YO_LATN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#YO_LATN"
+  class="member-name-link"><code>YO_LATN</code></a>
 
   </div>
 
@@ -1809,7 +1969,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_CN" class="member-name-link"><code>ZH_CN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_CN"
+  class="member-name-link"><code>ZH_CN</code></a>
 
   </div>
 
@@ -1825,7 +1986,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_HK" class="member-name-link"><code>ZH_HK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_HK"
+  class="member-name-link"><code>ZH_HK</code></a>
 
   </div>
 
@@ -1841,7 +2003,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_TW" class="member-name-link"><code>ZH_TW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZH_TW"
+  class="member-name-link"><code>ZH_TW</code></a>
 
   </div>
 
@@ -1857,7 +2020,8 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZU_ZA" class="member-name-link"><code>ZU_ZA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode#ZU_ZA"
+  class="member-name-link"><code>ZU_ZA</code></a>
 
   </div>
 
@@ -1874,7 +2038,8 @@ is specified, its ISO 15924 code is used.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1907,7 +2072,7 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      valueOf(String name)
+      valueOf ( String name)
 
   </div>
 
@@ -1929,7 +2094,7 @@ is specified, its ISO 15924 code is used.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      values()
+      values ()
 
   </div>
 
@@ -1950,28 +2115,85 @@ is specified, its ISO 15924 code is used.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-EN_US" class="section detail">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-explore-EN_US" class="section detail">
 
     ### EN_US
 
@@ -1989,7 +2211,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AF_ZA" class="section detail">
+
+  - <div id="sdk-for-android-explore-AF_ZA" class="section detail">
 
     ### AF_ZA
 
@@ -2007,7 +2230,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SQ_AL" class="section detail">
+
+  - <div id="sdk-for-android-explore-SQ_AL" class="section detail">
 
     ### SQ_AL
 
@@ -2025,7 +2249,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AM_ET" class="section detail">
+
+  - <div id="sdk-for-android-explore-AM_ET" class="section detail">
 
     ### AM_ET
 
@@ -2043,7 +2268,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AR_SA" class="section detail">
+
+  - <div id="sdk-for-android-explore-AR_SA" class="section detail">
 
     ### AR_SA
 
@@ -2061,7 +2287,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HY_AM" class="section detail">
+
+  - <div id="sdk-for-android-explore-HY_AM" class="section detail">
 
     ### HY_AM
 
@@ -2079,7 +2306,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AS_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-AS_IN" class="section detail">
 
     ### AS_IN
 
@@ -2097,7 +2325,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AZ_LATN_AZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-AZ_LATN_AZ" class="section detail">
 
     ### AZ_LATN_AZ
 
@@ -2115,7 +2344,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BN_BD" class="section detail">
+
+  - <div id="sdk-for-android-explore-BN_BD" class="section detail">
 
     ### BN_BD
 
@@ -2133,7 +2363,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BN_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-BN_IN" class="section detail">
 
     ### BN_IN
 
@@ -2151,7 +2382,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EU_ES" class="section detail">
+
+  - <div id="sdk-for-android-explore-EU_ES" class="section detail">
 
     ### EU_ES
 
@@ -2169,7 +2401,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BE_BY" class="section detail">
+
+  - <div id="sdk-for-android-explore-BE_BY" class="section detail">
 
     ### BE_BY
 
@@ -2187,7 +2420,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BS_LATN_BA" class="section detail">
+
+  - <div id="sdk-for-android-explore-BS_LATN_BA" class="section detail">
 
     ### BS_LATN_BA
 
@@ -2205,7 +2439,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BG_BG" class="section detail">
+
+  - <div id="sdk-for-android-explore-BG_BG" class="section detail">
 
     ### BG_BG
 
@@ -2223,7 +2458,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CA_ES" class="section detail">
+
+  - <div id="sdk-for-android-explore-CA_ES" class="section detail">
 
     ### CA_ES
 
@@ -2241,7 +2477,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KU_ARAB" class="section detail">
+
+  - <div id="sdk-for-android-explore-KU_ARAB" class="section detail">
 
     ### KU_ARAB
 
@@ -2259,7 +2496,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ZH_CN" class="section detail">
+
+  - <div id="sdk-for-android-explore-ZH_CN" class="section detail">
 
     ### ZH_CN
 
@@ -2277,7 +2515,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ZH_HK" class="section detail">
+
+  - <div id="sdk-for-android-explore-ZH_HK" class="section detail">
 
     ### ZH_HK
 
@@ -2295,7 +2534,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ZH_TW" class="section detail">
+
+  - <div id="sdk-for-android-explore-ZH_TW" class="section detail">
 
     ### ZH_TW
 
@@ -2313,7 +2553,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HR_HR" class="section detail">
+
+  - <div id="sdk-for-android-explore-HR_HR" class="section detail">
 
     ### HR_HR
 
@@ -2331,7 +2572,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CS_CZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-CS_CZ" class="section detail">
 
     ### CS_CZ
 
@@ -2349,7 +2591,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DA_DK" class="section detail">
+
+  - <div id="sdk-for-android-explore-DA_DK" class="section detail">
 
     ### DA_DK
 
@@ -2367,7 +2610,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PRS_ARAB_AF"
+
+  - <div id="sdk-for-android-explore-PRS_ARAB_AF"
     class="section detail">
 
     ### PRS_ARAB_AF
@@ -2386,7 +2630,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NL_BE" class="section detail">
+
+  - <div id="sdk-for-android-explore-NL_BE" class="section detail">
 
     ### NL_BE
 
@@ -2404,7 +2649,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NL_NL" class="section detail">
+
+  - <div id="sdk-for-android-explore-NL_NL" class="section detail">
 
     ### NL_NL
 
@@ -2422,7 +2668,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EN_GB" class="section detail">
+
+  - <div id="sdk-for-android-explore-EN_GB" class="section detail">
 
     ### EN_GB
 
@@ -2440,7 +2687,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ET_EE" class="section detail">
+
+  - <div id="sdk-for-android-explore-ET_EE" class="section detail">
 
     ### ET_EE
 
@@ -2458,7 +2706,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FA_IR" class="section detail">
+
+  - <div id="sdk-for-android-explore-FA_IR" class="section detail">
 
     ### FA_IR
 
@@ -2476,7 +2725,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FIL_PH" class="section detail">
+
+  - <div id="sdk-for-android-explore-FIL_PH" class="section detail">
 
     ### FIL_PH
 
@@ -2494,7 +2744,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FI_FI" class="section detail">
+
+  - <div id="sdk-for-android-explore-FI_FI" class="section detail">
 
     ### FI_FI
 
@@ -2512,7 +2763,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FR_FR" class="section detail">
+
+  - <div id="sdk-for-android-explore-FR_FR" class="section detail">
 
     ### FR_FR
 
@@ -2530,7 +2782,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FR_CA" class="section detail">
+
+  - <div id="sdk-for-android-explore-FR_CA" class="section detail">
 
     ### FR_CA
 
@@ -2548,7 +2801,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GL_ES" class="section detail">
+
+  - <div id="sdk-for-android-explore-GL_ES" class="section detail">
 
     ### GL_ES
 
@@ -2566,7 +2820,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KA_GE" class="section detail">
+
+  - <div id="sdk-for-android-explore-KA_GE" class="section detail">
 
     ### KA_GE
 
@@ -2584,7 +2839,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DE_DE" class="section detail">
+
+  - <div id="sdk-for-android-explore-DE_DE" class="section detail">
 
     ### DE_DE
 
@@ -2602,7 +2858,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EL_GR" class="section detail">
+
+  - <div id="sdk-for-android-explore-EL_GR" class="section detail">
 
     ### EL_GR
 
@@ -2620,7 +2877,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GU_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-GU_IN" class="section detail">
 
     ### GU_IN
 
@@ -2638,7 +2896,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HA_LATN_NG" class="section detail">
+
+  - <div id="sdk-for-android-explore-HA_LATN_NG" class="section detail">
 
     ### HA_LATN_NG
 
@@ -2656,7 +2915,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HE_IL" class="section detail">
+
+  - <div id="sdk-for-android-explore-HE_IL" class="section detail">
 
     ### HE_IL
 
@@ -2674,7 +2934,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HI_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-HI_IN" class="section detail">
 
     ### HI_IN
 
@@ -2692,7 +2953,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HU_HU" class="section detail">
+
+  - <div id="sdk-for-android-explore-HU_HU" class="section detail">
 
     ### HU_HU
 
@@ -2710,7 +2972,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-IS_IS" class="section detail">
+
+  - <div id="sdk-for-android-explore-IS_IS" class="section detail">
 
     ### IS_IS
 
@@ -2728,7 +2991,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-IG_LATN_NG" class="section detail">
+
+  - <div id="sdk-for-android-explore-IG_LATN_NG" class="section detail">
 
     ### IG_LATN_NG
 
@@ -2746,7 +3010,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ID_ID" class="section detail">
+
+  - <div id="sdk-for-android-explore-ID_ID" class="section detail">
 
     ### ID_ID
 
@@ -2764,7 +3029,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GA_IE" class="section detail">
+
+  - <div id="sdk-for-android-explore-GA_IE" class="section detail">
 
     ### GA_IE
 
@@ -2782,7 +3048,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-XH" class="section detail">
+
+  - <div id="sdk-for-android-explore-XH" class="section detail">
 
     ### XH
 
@@ -2800,7 +3067,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ZU_ZA" class="section detail">
+
+  - <div id="sdk-for-android-explore-ZU_ZA" class="section detail">
 
     ### ZU_ZA
 
@@ -2818,7 +3086,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-IT_IT" class="section detail">
+
+  - <div id="sdk-for-android-explore-IT_IT" class="section detail">
 
     ### IT_IT
 
@@ -2836,7 +3105,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JA_JP" class="section detail">
+
+  - <div id="sdk-for-android-explore-JA_JP" class="section detail">
 
     ### JA_JP
 
@@ -2854,7 +3124,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KN_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-KN_IN" class="section detail">
 
     ### KN_IN
 
@@ -2872,7 +3143,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KK_KZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-KK_KZ" class="section detail">
 
     ### KK_KZ
 
@@ -2890,7 +3162,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KM_KH" class="section detail">
+
+  - <div id="sdk-for-android-explore-KM_KH" class="section detail">
 
     ### KM_KH
 
@@ -2908,7 +3181,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-QUC_LATN_GT"
+
+  - <div id="sdk-for-android-explore-QUC_LATN_GT"
     class="section detail">
 
     ### QUC_LATN_GT
@@ -2927,7 +3201,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RW_RW" class="section detail">
+
+  - <div id="sdk-for-android-explore-RW_RW" class="section detail">
 
     ### RW_RW
 
@@ -2945,7 +3220,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SW" class="section detail">
+
+  - <div id="sdk-for-android-explore-SW" class="section detail">
 
     ### SW
 
@@ -2963,7 +3239,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KOK_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-KOK_IN" class="section detail">
 
     ### KOK_IN
 
@@ -2981,7 +3258,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KO_KR" class="section detail">
+
+  - <div id="sdk-for-android-explore-KO_KR" class="section detail">
 
     ### KO_KR
 
@@ -2999,7 +3277,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-KY_CYRL_KG" class="section detail">
+
+  - <div id="sdk-for-android-explore-KY_CYRL_KG" class="section detail">
 
     ### KY_CYRL_KG
 
@@ -3017,7 +3296,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LV_LV" class="section detail">
+
+  - <div id="sdk-for-android-explore-LV_LV" class="section detail">
 
     ### LV_LV
 
@@ -3035,7 +3315,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LT_LT" class="section detail">
+
+  - <div id="sdk-for-android-explore-LT_LT" class="section detail">
 
     ### LT_LT
 
@@ -3053,7 +3334,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LB_LU" class="section detail">
+
+  - <div id="sdk-for-android-explore-LB_LU" class="section detail">
 
     ### LB_LU
 
@@ -3071,7 +3353,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MK_MK" class="section detail">
+
+  - <div id="sdk-for-android-explore-MK_MK" class="section detail">
 
     ### MK_MK
 
@@ -3089,7 +3372,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MS_MY" class="section detail">
+
+  - <div id="sdk-for-android-explore-MS_MY" class="section detail">
 
     ### MS_MY
 
@@ -3107,7 +3391,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ML_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-ML_IN" class="section detail">
 
     ### ML_IN
 
@@ -3125,7 +3410,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MT_MT" class="section detail">
+
+  - <div id="sdk-for-android-explore-MT_MT" class="section detail">
 
     ### MT_MT
 
@@ -3143,7 +3429,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MI_LATN_NZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-MI_LATN_NZ" class="section detail">
 
     ### MI_LATN_NZ
 
@@ -3161,7 +3448,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MR_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-MR_IN" class="section detail">
 
     ### MR_IN
 
@@ -3179,7 +3467,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MN_CYRL_MN" class="section detail">
+
+  - <div id="sdk-for-android-explore-MN_CYRL_MN" class="section detail">
 
     ### MN_CYRL_MN
 
@@ -3197,7 +3486,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NE_NP" class="section detail">
+
+  - <div id="sdk-for-android-explore-NE_NP" class="section detail">
 
     ### NE_NP
 
@@ -3215,7 +3505,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NB_NO" class="section detail">
+
+  - <div id="sdk-for-android-explore-NB_NO" class="section detail">
 
     ### NB_NO
 
@@ -3233,7 +3524,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NN_NO" class="section detail">
+
+  - <div id="sdk-for-android-explore-NN_NO" class="section detail">
 
     ### NN_NO
 
@@ -3251,7 +3543,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OR_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-OR_IN" class="section detail">
 
     ### OR_IN
 
@@ -3269,7 +3562,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PL_PL" class="section detail">
+
+  - <div id="sdk-for-android-explore-PL_PL" class="section detail">
 
     ### PL_PL
 
@@ -3287,7 +3581,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PT_BR" class="section detail">
+
+  - <div id="sdk-for-android-explore-PT_BR" class="section detail">
 
     ### PT_BR
 
@@ -3305,7 +3600,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PT_PT" class="section detail">
+
+  - <div id="sdk-for-android-explore-PT_PT" class="section detail">
 
     ### PT_PT
 
@@ -3323,7 +3619,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PA_GURU" class="section detail">
+
+  - <div id="sdk-for-android-explore-PA_GURU" class="section detail">
 
     ### PA_GURU
 
@@ -3341,7 +3638,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PA_ARAB" class="section detail">
+
+  - <div id="sdk-for-android-explore-PA_ARAB" class="section detail">
 
     ### PA_ARAB
 
@@ -3359,7 +3657,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-QU_LATN_PE" class="section detail">
+
+  - <div id="sdk-for-android-explore-QU_LATN_PE" class="section detail">
 
     ### QU_LATN_PE
 
@@ -3377,7 +3676,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RO_RO" class="section detail">
+
+  - <div id="sdk-for-android-explore-RO_RO" class="section detail">
 
     ### RO_RO
 
@@ -3395,7 +3695,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RU_RU" class="section detail">
+
+  - <div id="sdk-for-android-explore-RU_RU" class="section detail">
 
     ### RU_RU
 
@@ -3413,7 +3714,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GD_LATN_GB" class="section detail">
+
+  - <div id="sdk-for-android-explore-GD_LATN_GB" class="section detail">
 
     ### GD_LATN_GB
 
@@ -3431,7 +3733,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SR_CYRL_BA" class="section detail">
+
+  - <div id="sdk-for-android-explore-SR_CYRL_BA" class="section detail">
 
     ### SR_CYRL_BA
 
@@ -3449,7 +3752,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SR_CYRL_RS" class="section detail">
+
+  - <div id="sdk-for-android-explore-SR_CYRL_RS" class="section detail">
 
     ### SR_CYRL_RS
 
@@ -3467,7 +3771,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SR_LATN_RS" class="section detail">
+
+  - <div id="sdk-for-android-explore-SR_LATN_RS" class="section detail">
 
     ### SR_LATN_RS
 
@@ -3485,7 +3790,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NSO_ZA" class="section detail">
+
+  - <div id="sdk-for-android-explore-NSO_ZA" class="section detail">
 
     ### NSO_ZA
 
@@ -3503,7 +3809,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TN" class="section detail">
+
+  - <div id="sdk-for-android-explore-TN" class="section detail">
 
     ### TN
 
@@ -3521,7 +3828,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SD_ARAB" class="section detail">
+
+  - <div id="sdk-for-android-explore-SD_ARAB" class="section detail">
 
     ### SD_ARAB
 
@@ -3539,7 +3847,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SI_LK" class="section detail">
+
+  - <div id="sdk-for-android-explore-SI_LK" class="section detail">
 
     ### SI_LK
 
@@ -3557,7 +3866,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SK_SK" class="section detail">
+
+  - <div id="sdk-for-android-explore-SK_SK" class="section detail">
 
     ### SK_SK
 
@@ -3575,7 +3885,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SL_SI" class="section detail">
+
+  - <div id="sdk-for-android-explore-SL_SI" class="section detail">
 
     ### SL_SI
 
@@ -3593,7 +3904,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ES_AR" class="section detail">
+
+  - <div id="sdk-for-android-explore-ES_AR" class="section detail">
 
     ### ES_AR
 
@@ -3611,7 +3923,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ES_MX" class="section detail">
+
+  - <div id="sdk-for-android-explore-ES_MX" class="section detail">
 
     ### ES_MX
 
@@ -3629,7 +3942,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ES_ES" class="section detail">
+
+  - <div id="sdk-for-android-explore-ES_ES" class="section detail">
 
     ### ES_ES
 
@@ -3647,7 +3961,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SV_SE" class="section detail">
+
+  - <div id="sdk-for-android-explore-SV_SE" class="section detail">
 
     ### SV_SE
 
@@ -3665,7 +3980,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TG_CYRL_TJ" class="section detail">
+
+  - <div id="sdk-for-android-explore-TG_CYRL_TJ" class="section detail">
 
     ### TG_CYRL_TJ
 
@@ -3683,7 +3999,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TA" class="section detail">
+
+  - <div id="sdk-for-android-explore-TA" class="section detail">
 
     ### TA
 
@@ -3701,7 +4018,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TT_CYRL_RU" class="section detail">
+
+  - <div id="sdk-for-android-explore-TT_CYRL_RU" class="section detail">
 
     ### TT_CYRL_RU
 
@@ -3719,7 +4037,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TE_IN" class="section detail">
+
+  - <div id="sdk-for-android-explore-TE_IN" class="section detail">
 
     ### TE_IN
 
@@ -3737,7 +4056,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TH_TH" class="section detail">
+
+  - <div id="sdk-for-android-explore-TH_TH" class="section detail">
 
     ### TH_TH
 
@@ -3755,7 +4075,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TI_ET" class="section detail">
+
+  - <div id="sdk-for-android-explore-TI_ET" class="section detail">
 
     ### TI_ET
 
@@ -3773,7 +4094,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TR_TR" class="section detail">
+
+  - <div id="sdk-for-android-explore-TR_TR" class="section detail">
 
     ### TR_TR
 
@@ -3791,7 +4113,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TK_LATN_TM" class="section detail">
+
+  - <div id="sdk-for-android-explore-TK_LATN_TM" class="section detail">
 
     ### TK_LATN_TM
 
@@ -3809,7 +4132,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UK_UA" class="section detail">
+
+  - <div id="sdk-for-android-explore-UK_UA" class="section detail">
 
     ### UK_UA
 
@@ -3827,7 +4151,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UR" class="section detail">
+
+  - <div id="sdk-for-android-explore-UR" class="section detail">
 
     ### UR
 
@@ -3845,7 +4170,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UG_ARAB" class="section detail">
+
+  - <div id="sdk-for-android-explore-UG_ARAB" class="section detail">
 
     ### UG_ARAB
 
@@ -3863,7 +4189,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UZ_CYRL_UZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-UZ_CYRL_UZ" class="section detail">
 
     ### UZ_CYRL_UZ
 
@@ -3881,7 +4208,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UZ_LATN_UZ" class="section detail">
+
+  - <div id="sdk-for-android-explore-UZ_LATN_UZ" class="section detail">
 
     ### UZ_LATN_UZ
 
@@ -3899,7 +4227,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAT_ES" class="section detail">
+
+  - <div id="sdk-for-android-explore-CAT_ES" class="section detail">
 
     ### CAT_ES
 
@@ -3917,7 +4246,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-VI_VN" class="section detail">
+
+  - <div id="sdk-for-android-explore-VI_VN" class="section detail">
 
     ### VI_VN
 
@@ -3935,7 +4265,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CY_GB" class="section detail">
+
+  - <div id="sdk-for-android-explore-CY_GB" class="section detail">
 
     ### CY_GB
 
@@ -3953,7 +4284,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-WO_LATN" class="section detail">
+
+  - <div id="sdk-for-android-explore-WO_LATN" class="section detail">
 
     ### WO_LATN
 
@@ -3971,7 +4303,8 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-YO_LATN" class="section detail">
+
+  - <div id="sdk-for-android-explore-YO_LATN" class="section detail">
 
     ### YO_LATN
 
@@ -3991,9 +4324,11 @@ is specified, its ISO 15924 code is used.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values" class="section detail">
 
     ### values
 
@@ -4016,7 +4351,8 @@ is specified, its ISO 15924 code is used.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
     class="section detail">
 
     ### valueOf
@@ -4024,7 +4360,9 @@ is specified, its ISO 15924 code is used.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -4044,15 +4382,19 @@ is specified, its ISO 15924 code is used.
     the enum constant with the specified name
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
 
   </div>
-
-</div>
 

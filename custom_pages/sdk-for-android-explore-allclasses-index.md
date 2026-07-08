@@ -3,6 +3,10 @@ title: "All Classes and Interfaces (API Reference)"
 slug: "sdk-for-android-explore-allclasses-index"
 ---
 
+<div class="header">
+
+</div>
+
 <div id="sdk-for-android-explore-all-classes-table">
 
 <div class="summary-table two-column-summary">
@@ -4340,7 +4344,8 @@ Represents various errors that could occur from map related operations.
 <div class="block">
 
 Holds constants for map feature modes, to be used with
-MapScene.enableFeatures(java.util.Map ) .
+MapScene.enableFeatures(java.util.Map\<java.lang.String,
+java.lang.String\>) .
 
 </div>
 
@@ -4357,8 +4362,9 @@ MapScene.enableFeatures(java.util.Map ) .
 <div class="block">
 
 Holds constants for map features, to be used with
-MapScene.enableFeatures(java.util.Map ) and
-MapScene.disableFeatures(java.util.List ) .
+MapScene.enableFeatures(java.util.Map\<java.lang.String,
+java.lang.String\>) and
+MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
 
 </div>
 
@@ -6826,7 +6832,7 @@ Result handler of a load tile request.
 <div class="block">
 
 The method will be called on the main thread when
-PolylineSimplifier.simplify(java.util.List ,
+PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
 com.here.sdk.core.PolylineSimplifier.Options,
 com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
@@ -6845,7 +6851,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 <div class="block">
 
 Error code which specifies, what went wrong during
-PolylineSimplifier.simplify(java.util.List ,
+PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
 com.here.sdk.core.PolylineSimplifier.Options,
 com.here.sdk.core.PolylineSimplificationCallback) operation.
 
@@ -6881,7 +6887,8 @@ result stays within PolylineSimplifier.Options .
 
 <div class="block">
 
-Controls the strategy of PolylineSimplifier.simplify(java.util.List ,
+Controls the strategy of
+PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
 com.here.sdk.core.PolylineSimplifier.Options,
 com.here.sdk.core.PolylineSimplificationCallback) when reducing a size
 of polyline.

@@ -3,16 +3,21 @@ title: "Place (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-place"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.search.Place →
-com.here.NativeBase → com.here.sdk.search.Place
+java.lang.Object com.here.NativeBase com.here.sdk.search.Place →
+com.here.NativeBase com.here.sdk.search.Place →
+com.here.sdk.search.Place
 
 </div>
 
@@ -37,8 +42,7 @@ interest (POI) etc.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -71,7 +75,7 @@ interest (POI) etc.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      deserialize(String serializedPlace)
+      deserialize ( String serializedPlace)
 
   </div>
 
@@ -87,13 +91,16 @@ interest (POI) etc.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getAccessPoints()
+      getAccessPoints ()
 
   </div>
 
@@ -116,7 +123,7 @@ interest (POI) etc.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getAddress()
+      getAddress ()
 
   </div>
 
@@ -138,7 +145,7 @@ interest (POI) etc.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getAreaType()
+      getAreaType ()
 
   </div>
 
@@ -160,7 +167,7 @@ interest (POI) etc.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getBoundingBox()
+      getBoundingBox ()
 
   </div>
 
@@ -183,7 +190,7 @@ interest (POI) etc.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDetails()
+      getDetails ()
 
   </div>
 
@@ -199,13 +206,16 @@ interest (POI) etc.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDistanceInMeters()
+      getDistanceInMeters ()
 
   </div>
 
@@ -227,7 +237,7 @@ interest (POI) etc.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGeoCoordinates()
+      getGeoCoordinates ()
 
   </div>
 
@@ -243,13 +253,16 @@ interest (POI) etc.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getId()
+      getId ()
 
   </div>
 
@@ -271,7 +284,7 @@ interest (POI) etc.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPlaceType()
+      getPlaceType ()
 
   </div>
 
@@ -287,13 +300,16 @@ interest (POI) etc.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPoliticalView()
+      getPoliticalView ()
 
   </div>
 
@@ -310,13 +326,16 @@ interest (POI) etc.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTitle()
+      getTitle ()
 
   </div>
 
@@ -338,7 +357,7 @@ interest (POI) etc.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isCoordinatesInterpolated()
+      isCoordinatesInterpolated ()
 
   </div>
 
@@ -355,13 +374,16 @@ interest (POI) etc.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      serializeCompact()
+      serializeCompact ()
 
   </div>
 
@@ -381,20 +403,55 @@ interest (POI) etc.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-serializeCompact()"
+
+  - <div id="sdk-for-android-explore-serializeCompact"
     class="section detail">
 
     ### serializeCompact
@@ -402,7 +459,9 @@ interest (POI) etc.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">serializeCompact</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">serializeCompact</span>()
 
     </div>
 
@@ -419,7 +478,8 @@ interest (POI) etc.
     The serialized place
 
     </div>
-<div id="sdk-for-android-explore-deserialize(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-deserialize-java-lang-String"
     class="section detail">
 
     ### deserialize
@@ -429,7 +489,9 @@ interest (POI) etc.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
     static</span> <span class="return-type">[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")</span> <span class="element-name">deserialize</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> serializedPlace)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> serializedPlace)</span>
     throws
     <span class="exceptions">[PlaceSerializationException](sdk-for-android-explore-com-here-sdk-search-placeserializationexception "class in com.here.sdk.search")</span>
 
@@ -457,14 +519,17 @@ interest (POI) etc.
     Indicates what went wrong during deserialization attempt.
 
     </div>
-<div id="sdk-for-android-explore-getTitle()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getTitle" class="section detail">
 
     ### getTitle
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTitle</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTitle</span>()
 
     </div>
 
@@ -478,14 +543,17 @@ interest (POI) etc.
     The localized title for the resource.
 
     </div>
-<div id="sdk-for-android-explore-getId()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getId" class="section detail">
 
     ### getId
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
 
     </div>
 
@@ -503,7 +571,8 @@ interest (POI) etc.
     information.
 
     </div>
-<div id="sdk-for-android-explore-getPlaceType()"
+
+  - <div id="sdk-for-android-explore-getPlaceType"
     class="section detail">
 
     ### getPlaceType
@@ -525,7 +594,8 @@ interest (POI) etc.
     The place type.
 
     </div>
-<div id="sdk-for-android-explore-getAreaType()"
+
+  - <div id="sdk-for-android-explore-getAreaType"
     class="section detail">
 
     ### getAreaType
@@ -554,8 +624,8 @@ interest (POI) etc.
     [`PlaceType.AREA`](sdk-for-android-explore-com-here-sdk-search-placetype#AREA).
 
     </div>
-<div id="sdk-for-android-explore-getAddress()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getAddress" class="section detail">
 
     ### getAddress
 
@@ -586,8 +656,8 @@ interest (POI) etc.
     [`PlaceIdQuery`](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search").
 
     </div>
-<div id="sdk-for-android-explore-getDetails()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getDetails" class="section detail">
 
     ### getDetails
 
@@ -608,7 +678,8 @@ interest (POI) etc.
     The place's detailed information.
 
     </div>
-<div id="sdk-for-android-explore-getGeoCoordinates()"
+
+  - <div id="sdk-for-android-explore-getGeoCoordinates"
     class="section detail">
 
     ### getGeoCoordinates
@@ -631,7 +702,8 @@ interest (POI) etc.
     The geographic coordinates of the place.
 
     </div>
-<div id="sdk-for-android-explore-isCoordinatesInterpolated()"
+
+  - <div id="sdk-for-android-explore-isCoordinatesInterpolated"
     class="section detail">
 
     ### isCoordinatesInterpolated
@@ -658,7 +730,8 @@ interest (POI) etc.
     were interpolated or not.
 
     </div>
-<div id="sdk-for-android-explore-getAccessPoints()"
+
+  - <div id="sdk-for-android-explore-getAccessPoints"
     class="section detail">
 
     ### getAccessPoints
@@ -666,7 +739,9 @@ interest (POI) etc.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">getAccessPoints</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">getAccessPoints</span>()
 
     </div>
 
@@ -697,7 +772,8 @@ interest (POI) etc.
     parking lot.
 
     </div>
-<div id="sdk-for-android-explore-getBoundingBox()"
+
+  - <div id="sdk-for-android-explore-getBoundingBox"
     class="section detail">
 
     ### getBoundingBox
@@ -721,7 +797,8 @@ interest (POI) etc.
     place.
 
     </div>
-<div id="sdk-for-android-explore-getDistanceInMeters()"
+
+  - <div id="sdk-for-android-explore-getDistanceInMeters"
     class="section detail">
 
     ### getDistanceInMeters
@@ -729,7 +806,10 @@ interest (POI) etc.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getDistanceInMeters</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">getDistanceInMeters</span>()
 
     </div>
 
@@ -743,7 +823,8 @@ interest (POI) etc.
     The distance from the search center to the place in meters.
 
     </div>
-<div id="sdk-for-android-explore-getPoliticalView()"
+
+  - <div id="sdk-for-android-explore-getPoliticalView"
     class="section detail">
 
     ### getPoliticalView
@@ -751,7 +832,9 @@ interest (POI) etc.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getPoliticalView</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getPoliticalView</span>()
 
     </div>
 
@@ -772,6 +855,4 @@ interest (POI) etc.
     </div>
 
   </div>
-
-</div>
 

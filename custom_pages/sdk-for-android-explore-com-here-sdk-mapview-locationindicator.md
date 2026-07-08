@@ -3,17 +3,22 @@ title: "LocationIndicator (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-locationindicator"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.mapview.LocationIndicator →
-com.here.NativeBase → com.here.sdk.mapview.LocationIndicator
+java.lang.Object com.here.NativeBase
+com.here.sdk.mapview.LocationIndicator → com.here.NativeBase
+com.here.sdk.mapview.LocationIndicator →
+com.here.sdk.mapview.LocationIndicator
 
 </div>
 
@@ -52,8 +57,7 @@ the new perspective.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -90,7 +94,10 @@ the new perspective.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" class="type-name-link" title="enum class in com.here.sdk.mapview"><code>LocationIndicator.IndicatorStyle</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.IndicatorStyle</code></a>
 
   </div>
 
@@ -113,7 +120,10 @@ the new perspective.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" class="type-name-link" title="enum class in com.here.sdk.mapview"><code>LocationIndicator.MarkerType</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>LocationIndicator.MarkerType</code></a>
 
   </div>
 
@@ -130,7 +140,8 @@ the new perspective.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -155,7 +166,7 @@ the new perspective.
 
   <div class="col-constructor-name even-row-color">
 
-      LocationIndicator()
+      LocationIndicator ()
 
   </div>
 
@@ -171,7 +182,7 @@ the new perspective.
 
   <div class="col-constructor-name odd-row-color">
 
-      LocationIndicator(MapViewBase mapView)
+      LocationIndicator ( MapViewBase mapView)
 
   </div>
 
@@ -189,7 +200,8 @@ the new perspective.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -222,7 +234,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      disable()
+      disable ()
 
   </div>
 
@@ -244,7 +256,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      enable(MapViewBase mapView)
+      enable ( MapViewBase mapView)
 
   </div>
 
@@ -266,7 +278,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getHaloColor(LocationIndicator.IndicatorStyle style)
+      getHaloColor ( LocationIndicator.IndicatorStyle style)
 
   </div>
 
@@ -289,7 +301,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLocationIndicatorStyle()
+      getLocationIndicatorStyle ()
 
   </div>
 
@@ -311,7 +323,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMaterialReflectivity()
+      getMaterialReflectivity ()
 
   </div>
 
@@ -334,7 +346,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOpacity()
+      getOpacity ()
 
   </div>
 
@@ -356,7 +368,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isAccuracyVisualized()
+      isAccuracyVisualized ()
 
   </div>
 
@@ -379,7 +391,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isActive()
+      isActive ()
 
   </div>
 
@@ -402,7 +414,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setAccuracyVisualized(boolean value)
+      setAccuracyVisualized (boolean value)
 
   </div>
 
@@ -425,7 +437,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setActive(boolean value)
+      setActive (boolean value)
 
   </div>
 
@@ -448,8 +460,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setHaloColor(LocationIndicator.IndicatorStyle style,
-       Color color)
+      setHaloColor ( LocationIndicator.IndicatorStyle style, Color color)
 
   </div>
 
@@ -471,7 +482,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setLocationIndicatorStyle(LocationIndicator.IndicatorStyle value)
+      setLocationIndicatorStyle ( LocationIndicator.IndicatorStyle value)
 
   </div>
 
@@ -493,9 +504,8 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 
-      setMarker3dModel(MapMarker3DModel model,
-       double scale,
-       LocationIndicator.MarkerType type)
+      setMarker3dModel ( MapMarker3DModel model,
+       double scale, LocationIndicator.MarkerType type)
 
   </div>
 
@@ -517,10 +527,8 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setMarker3dModel(MapMarker3DModel model,
-       double scale,
-       LocationIndicator.MarkerType type,
-       RenderSize.Unit renderSizeUnit)
+      setMarker3dModel ( MapMarker3DModel model,
+       double scale, LocationIndicator.MarkerType type, RenderSize.Unit renderSizeUnit)
 
   </div>
 
@@ -543,7 +551,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setMaterialReflectivity(MaterialReflectivity value)
+      setMaterialReflectivity ( MaterialReflectivity value)
 
   </div>
 
@@ -566,7 +574,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setOpacity(double value)
+      setOpacity (double value)
 
   </div>
 
@@ -588,7 +596,7 @@ the new perspective.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      updateLocation(Location location)
+      updateLocation ( Location location)
 
   </div>
 
@@ -610,8 +618,7 @@ the new perspective.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      updateLocation(Location location,
-       MapCameraUpdate cameraUpdate)
+      updateLocation ( Location location, MapCameraUpdate cameraUpdate)
 
   </div>
 
@@ -632,20 +639,55 @@ the new perspective.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### LocationIndicator
 
@@ -662,7 +704,8 @@ the new perspective.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapViewBase)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-mapview-MapViewBase"
     class="section detail">
 
     ### LocationIndicator
@@ -691,9 +734,11 @@ the new perspective.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-enable(com.here.sdk.mapview.MapViewBase)"
+
+  - <div id="sdk-for-android-explore-enable-com-here-sdk-mapview-MapViewBase"
     class="section detail">
 
     ### enable
@@ -723,7 +768,8 @@ the new perspective.
     instance.
 
     </div>
-<div id="sdk-for-android-explore-disable()" class="section detail">
+
+  - <div id="sdk-for-android-explore-disable" class="section detail">
 
     ### disable
 
@@ -742,7 +788,8 @@ the new perspective.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-updateLocation(com.here.sdk.core.Location)"
+
+  - <div id="sdk-for-android-explore-updateLocation-com-here-sdk-core-Location"
     class="section detail">
 
     ### updateLocation
@@ -769,7 +816,8 @@ the new perspective.
     The updated location of the user.
 
     </div>
-<div id="sdk-for-android-explore-updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"
+
+  - <div id="sdk-for-android-explore-updateLocation-com-here-sdk-core-Location-com-here-sdk-mapview-MapCameraUpdate"
     class="section detail">
 
     ### updateLocation
@@ -803,14 +851,18 @@ the new perspective.
     The update to apply to the camera.
 
     </div>
-<div id="sdk-for-android-explore-setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)"
+
+  - <div id="sdk-for-android-explore-setMarker3dModel-com-here-sdk-mapview-MapMarker3DModel-double-com-here-sdk-mapview-LocationIndicator-MarkerType"
     class="section detail">
 
     ### setMarker3dModel
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a>
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a>
     </span><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><span class="parameters">(@NonNull
     [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model,
     double scale, @NonNull
@@ -868,7 +920,8 @@ the new perspective.
     replaced.
 
     </div>
-<div id="sdk-for-android-explore-setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)"
+
+  - <div id="sdk-for-android-explore-setMarker3dModel-com-here-sdk-mapview-MapMarker3DModel-double-com-here-sdk-mapview-LocationIndicator-MarkerType-com-here-sdk-mapview-RenderSize-Unit"
     class="section detail">
 
     ### setMarker3dModel
@@ -938,7 +991,8 @@ the new perspective.
     resolution of the display.
 
     </div>
-<div id="sdk-for-android-explore-setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)"
+
+  - <div id="sdk-for-android-explore-setHaloColor-com-here-sdk-mapview-LocationIndicator-IndicatorStyle-com-here-sdk-core-Color"
     class="section detail">
 
     ### setHaloColor
@@ -971,7 +1025,8 @@ the new perspective.
     releases without a deprecation process.
 
     </div>
-<div id="sdk-for-android-explore-getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
+
+  - <div id="sdk-for-android-explore-getHaloColor-com-here-sdk-mapview-LocationIndicator-IndicatorStyle"
     class="section detail">
 
     ### getHaloColor
@@ -1004,7 +1059,8 @@ the new perspective.
     without a deprecation process.
 
     </div>
-<div id="sdk-for-android-explore-isAccuracyVisualized()"
+
+  - <div id="sdk-for-android-explore-isAccuracyVisualized"
     class="section detail">
 
     ### isAccuracyVisualized
@@ -1028,7 +1084,8 @@ the new perspective.
     accuracy indicator halo.
 
     </div>
-<div id="sdk-for-android-explore-setAccuracyVisualized(boolean)"
+
+  - <div id="sdk-for-android-explore-setAccuracyVisualized-boolean"
     class="section detail">
 
     ### setAccuracyVisualized
@@ -1072,7 +1129,8 @@ the new perspective.
     accuracy indicator halo.
 
     </div>
-<div id="sdk-for-android-explore-getLocationIndicatorStyle()"
+
+  - <div id="sdk-for-android-explore-getLocationIndicatorStyle"
     class="section detail">
 
     ### getLocationIndicatorStyle
@@ -1095,7 +1153,8 @@ the new perspective.
     The visual style of location indicator.
 
     </div>
-<div id="sdk-for-android-explore-setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"
+
+  - <div id="sdk-for-android-explore-setLocationIndicatorStyle-com-here-sdk-mapview-LocationIndicator-IndicatorStyle"
     class="section detail">
 
     ### setLocationIndicatorStyle
@@ -1120,7 +1179,8 @@ the new perspective.
     The visual style of location indicator.
 
     </div>
-<div id="sdk-for-android-explore-isActive()" class="section detail">
+
+  - <div id="sdk-for-android-explore-isActive" class="section detail">
 
     ### isActive
 
@@ -1142,7 +1202,8 @@ the new perspective.
     version of location indicator is shown.
 
     </div>
-<div id="sdk-for-android-explore-setActive(boolean)"
+
+  - <div id="sdk-for-android-explore-setActive-boolean"
     class="section detail">
 
     ### setActive
@@ -1168,8 +1229,8 @@ the new perspective.
     version of location indicator is shown.
 
     </div>
-<div id="sdk-for-android-explore-getOpacity()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getOpacity" class="section detail">
 
     ### getOpacity
 
@@ -1192,7 +1253,8 @@ the new perspective.
     indicator's texture and the accuracy indicator's halo color.
 
     </div>
-<div id="sdk-for-android-explore-setOpacity(double)"
+
+  - <div id="sdk-for-android-explore-setOpacity-double"
     class="section detail">
 
     ### setOpacity
@@ -1219,7 +1281,8 @@ the new perspective.
     indicator's texture and the accuracy indicator's halo color.
 
     </div>
-<div id="sdk-for-android-explore-getMaterialReflectivity()"
+
+  - <div id="sdk-for-android-explore-getMaterialReflectivity"
     class="section detail">
 
     ### getMaterialReflectivity
@@ -1250,7 +1313,8 @@ the new perspective.
     The material reflectivity properties of the location indicator.
 
     </div>
-<div id="sdk-for-android-explore-setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)"
+
+  - <div id="sdk-for-android-explore-setMaterialReflectivity-com-here-sdk-mapview-MaterialReflectivity"
     class="section detail">
 
     ### setMaterialReflectivity
@@ -1284,6 +1348,4 @@ the new perspective.
     </div>
 
   </div>
-
-</div>
 

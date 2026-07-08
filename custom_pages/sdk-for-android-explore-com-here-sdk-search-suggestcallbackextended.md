@@ -3,9 +3,13 @@ title: "SuggestCallbackExtended (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+
+</div>
 
 </div>
 
@@ -18,7 +22,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">SuggestCallbackExtended</span>
 
@@ -36,8 +43,7 @@ supported by offline search.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -70,9 +76,7 @@ supported by offline search.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onSuggestExtendedCompleted(SearchError searchError,
-       List<Suggestion> suggestions,
-       ResponseDetails responseDetails)
+      onSuggestExtendedCompleted ( SearchError searchError, List < Suggestion > suggestions, ResponseDetails responseDetails)
 
   </div>
 
@@ -93,12 +97,12 @@ supported by offline search.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onSuggestExtendedCompleted(com.here.sdk.search.SearchError,java.util.List,com.here.sdk.search.ResponseDetails)"
+
+  - <div id="sdk-for-android-explore-onSuggestExtendedCompleted-com-here-sdk-search-SearchError-java-util-List-com-here-sdk-search-ResponseDetails"
     class="section detail">
 
     ### onSuggestExtendedCompleted
@@ -107,7 +111,9 @@ supported by offline search.
 
     <span class="return-type">void</span> <span class="element-name">onSuggestExtendedCompleted</span><span class="parameters">(@Nullable
     [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Suggestion](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search")\> suggestions,
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Suggestion](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search")\> suggestions,
     @Nullable
     [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search") responseDetails)</span>
 
@@ -141,6 +147,4 @@ supported by offline search.
     </div>
 
   </div>
-
-</div>
 

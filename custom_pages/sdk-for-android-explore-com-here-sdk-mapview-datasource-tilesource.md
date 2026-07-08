@@ -3,9 +3,13 @@ title: "TileSource (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+
+</div>
 
 </div>
 
@@ -36,8 +40,7 @@ deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -74,7 +77,10 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" class="type-name-link" title="class in com.here.sdk.mapview.datasource"><code>TileSource.DataVersion</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview.datasource"><code>TileSource.DataVersion</code></a>
 
   </div>
 
@@ -96,7 +102,10 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>TileSource.Listener</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource"><code>TileSource.Listener</code></a>
 
   </div>
 
@@ -118,7 +127,10 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>TileSource.LoadTileRequestHandle</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource"><code>TileSource.LoadTileRequestHandle</code></a>
 
   </div>
 
@@ -140,7 +152,10 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" class="type-name-link" title="class in com.here.sdk.mapview.datasource"><code>TileSource.TileMetadata</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview.datasource"><code>TileSource.TileMetadata</code></a>
 
   </div>
 
@@ -157,7 +172,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -190,7 +206,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      addListener(TileSource.Listener listener)
+      addListener ( TileSource.Listener listener)
 
   </div>
 
@@ -212,7 +228,7 @@ deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getDataVersion(TileKey tileKey)
+      getDataVersion ( TileKey tileKey)
 
   </div>
 
@@ -228,13 +244,19 @@ deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getStorageLevels()
+      getStorageLevels ()
 
   </div>
 
@@ -256,7 +278,7 @@ deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      getTilingScheme()
+      getTilingScheme ()
 
   </div>
 
@@ -278,7 +300,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      removeListener(TileSource.Listener listener)
+      removeListener ( TileSource.Listener listener)
 
   </div>
 
@@ -298,12 +320,12 @@ deprecation process.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getDataVersion(com.here.sdk.mapview.datasource.TileKey)"
+
+  - <div id="sdk-for-android-explore-getDataVersion-com-here-sdk-mapview-datasource-TileKey"
     class="section detail">
 
     ### getDataVersion
@@ -331,7 +353,8 @@ deprecation process.
     Data version for a tile.
 
     </div>
-<div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
+
+  - <div id="sdk-for-android-explore-addListener-com-here-sdk-mapview-datasource-TileSource-Listener"
     class="section detail">
 
     ### addListener
@@ -355,7 +378,8 @@ deprecation process.
     The listener
 
     </div>
-<div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
+
+  - <div id="sdk-for-android-explore-removeListener-com-here-sdk-mapview-datasource-TileSource-Listener"
     class="section detail">
 
     ### removeListener
@@ -379,7 +403,8 @@ deprecation process.
     Listener to be removed from receiving state notifications.
 
     </div>
-<div id="sdk-for-android-explore-getTilingScheme()"
+
+  - <div id="sdk-for-android-explore-getTilingScheme"
     class="section detail">
 
     ### getTilingScheme
@@ -401,7 +426,8 @@ deprecation process.
     The tiling scheme used by this source.
 
     </div>
-<div id="sdk-for-android-explore-getStorageLevels()"
+
+  - <div id="sdk-for-android-explore-getStorageLevels"
     class="section detail">
 
     ### getStorageLevels
@@ -409,7 +435,12 @@ deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getStorageLevels</span>()
+    </span><span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getStorageLevels</span>()
 
     </div>
 
@@ -428,6 +459,4 @@ deprecation process.
     </div>
 
   </div>
-
-</div>
 

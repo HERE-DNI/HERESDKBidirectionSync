@@ -3,9 +3,13 @@ title: "LocationListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-locationlistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+
+</div>
 
 </div>
 
@@ -28,8 +32,7 @@ about location updates.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -62,7 +65,7 @@ about location updates.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onLocationUpdated(Location location)
+      onLocationUpdated ( Location location)
 
   </div>
 
@@ -82,12 +85,12 @@ about location updates.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onLocationUpdated(com.here.sdk.core.Location)"
+
+  - <div id="sdk-for-android-explore-onLocationUpdated-com-here-sdk-core-Location"
     class="section detail">
 
     ### onLocationUpdated
@@ -120,6 +123,4 @@ about location updates.
     </div>
 
   </div>
-
-</div>
 

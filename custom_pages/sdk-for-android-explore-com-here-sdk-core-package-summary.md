@@ -3,14 +3,17 @@ title: "com.here.sdk.core (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.core</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -83,7 +86,8 @@ package <span class="element-name">com.here.sdk.core</span>
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -812,7 +816,7 @@ package <span class="element-name">com.here.sdk.core</span>
   <div class="block">
 
   The method will be called on the main thread when
-  PolylineSimplifier.simplify(java.util.List ,
+  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
   com.here.sdk.core.PolylineSimplifier.Options,
   com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
@@ -831,7 +835,7 @@ package <span class="element-name">com.here.sdk.core</span>
   <div class="block">
 
   Error code which specifies, what went wrong during
-  PolylineSimplifier.simplify(java.util.List ,
+  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
   com.here.sdk.core.PolylineSimplifier.Options,
   com.here.sdk.core.PolylineSimplificationCallback) operation.
 
@@ -867,7 +871,8 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Controls the strategy of PolylineSimplifier.simplify(java.util.List ,
+  Controls the strategy of
+  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
   com.here.sdk.core.PolylineSimplifier.Options,
   com.here.sdk.core.PolylineSimplificationCallback) when reducing a size
   of polyline.
@@ -1009,6 +1014,4 @@ package <span class="element-name">com.here.sdk.core</span>
   </div>
 
   </div>
-
-</div>
 

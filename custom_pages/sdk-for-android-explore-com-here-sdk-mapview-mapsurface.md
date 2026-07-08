@@ -3,15 +3,20 @@ title: "MapSurface (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.mapview.MapSurface
+java.lang.Object com.here.sdk.mapview.MapSurface →
+com.here.sdk.mapview.MapSurface
 
 </div>
 
@@ -25,7 +30,9 @@ All Implemented Interfaces:
 
 <span class="modifiers">public class
 </span><span class="element-name type-name-label">MapSurface</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a>
 implements
 [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")</span>
 
@@ -42,8 +49,7 @@ use the MapView instead.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -80,7 +86,10 @@ use the MapView instead.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapSurface.RenderListener</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview"><code>MapSurface.RenderListener</code></a>
 
   </div>
 
@@ -98,12 +107,15 @@ use the MapView instead.
 
   <div class="inherited-list">
 
+  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.[MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+
   [`MapViewBase.MapPickCallback`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview")
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -128,7 +140,7 @@ use the MapView instead.
 
   <div class="col-constructor-name even-row-color">
 
-      MapSurface()
+      MapSurface ()
 
   </div>
 
@@ -144,7 +156,7 @@ use the MapView instead.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapSurface(android.content.Context context)
+      MapSurface (android.content.Context context)
 
   </div>
 
@@ -160,8 +172,7 @@ use the MapView instead.
 
   <div class="col-constructor-name even-row-color">
 
-      MapSurface(android.content.Context context,
-       MapViewOptions options)
+      MapSurface (android.content.Context context, MapViewOptions options)
 
   </div>
 
@@ -177,7 +188,7 @@ use the MapView instead.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapSurface(MapViewOptions options)
+      MapSurface ( MapViewOptions options)
 
   </div>
 
@@ -194,7 +205,8 @@ use the MapView instead.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -227,7 +239,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      addLifecycleListener(MapViewLifecycleListener lifecycleListener)
+      addLifecycleListener ( MapViewLifecycleListener lifecycleListener)
 
   </div>
 
@@ -249,7 +261,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      attachSurface(android.content.Context context,
+      attachSurface (android.content.Context context,
        android.view.Surface surface,
        int width,
        int height)
@@ -274,11 +286,10 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      attachSurface(android.content.Context context,
+      attachSurface (android.content.Context context,
        android.view.Surface surface,
        int width,
-       int height,
-       MapSurface.RenderListener renderListener)
+       int height, MapSurface.RenderListener renderListener)
 
   </div>
 
@@ -300,7 +311,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      destroy()
+      destroy ()
 
   </div>
 
@@ -323,7 +334,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      destroySurface()
+      destroySurface ()
 
   </div>
 
@@ -345,7 +356,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      geoToViewCoordinates(GeoCoordinates geoCoordinates)
+      geoToViewCoordinates ( GeoCoordinates geoCoordinates)
 
   </div>
 
@@ -367,7 +378,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCamera()
+      getCamera ()
 
   </div>
 
@@ -389,7 +400,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getFrameRate()
+      getFrameRate ()
 
   </div>
 
@@ -411,7 +422,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGestures()
+      getGestures ()
 
   </div>
 
@@ -433,7 +444,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getHereMap()
+      getHereMap ()
 
   </div>
 
@@ -455,7 +466,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMapContext()
+      getMapContext ()
 
   </div>
 
@@ -477,7 +488,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMapScene()
+      getMapScene ()
 
   </div>
 
@@ -499,7 +510,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPixelScale()
+      getPixelScale ()
 
   </div>
 
@@ -521,7 +532,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getShadowQuality()
+      getShadowQuality ()
 
   </div>
 
@@ -543,7 +554,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getViewportSize()
+      getViewportSize ()
 
   </div>
 
@@ -565,7 +576,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getWatermarkSize()
+      getWatermarkSize ()
 
   </div>
 
@@ -587,7 +598,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isValid()
+      isValid ()
 
   </div>
 
@@ -609,7 +620,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onPause()
+      onPause ()
 
   </div>
 
@@ -631,7 +642,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      onResume()
+      onResume ()
 
   </div>
 
@@ -653,9 +664,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      pick(MapScene.MapPickFilter filter,
-       Rectangle2D viewArea,
-       MapViewBase.MapPickCallback callback)
+      pick ( MapScene.MapPickFilter filter, Rectangle2D viewArea, MapViewBase.MapPickCallback callback)
 
   </div>
 
@@ -677,7 +686,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      redraw(Runnable redrawFinished)
+      redraw ( Runnable redrawFinished)
 
   </div>
 
@@ -699,7 +708,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      removeLifecycleListener(MapViewLifecycleListener lifecycleListener)
+      removeLifecycleListener ( MapViewLifecycleListener lifecycleListener)
 
   </div>
 
@@ -721,7 +730,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setFrameRate(int value)
+      setFrameRate (int value)
 
   </div>
 
@@ -743,7 +752,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setOnReadyListener(MapView.OnReadyListener readyListener)
+      setOnReadyListener ( MapView.OnReadyListener readyListener)
 
   </div>
 
@@ -766,7 +775,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setShadowQuality(ShadowQuality shadowQuality)
+      setShadowQuality ( ShadowQuality shadowQuality)
 
   </div>
 
@@ -788,8 +797,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setWatermarkLocation(Anchor2D anchor,
-       Point2D offset)
+      setWatermarkLocation ( Anchor2D anchor, Point2D offset)
 
   </div>
 
@@ -811,7 +819,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      takeScreenshot(MapView.TakeScreenshotCallback callback)
+      takeScreenshot ( MapView.TakeScreenshotCallback callback)
 
   </div>
 
@@ -833,7 +841,7 @@ use the MapView instead.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      viewToGeoCoordinates(Point2D viewCoordinates)
+      viewToGeoCoordinates ( Point2D viewCoordinates)
 
   </div>
 
@@ -853,20 +861,55 @@ use the MapView instead.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### MapSurface
 
@@ -883,7 +926,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapViewOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-mapview-MapViewOptions"
     class="section detail">
 
     ### MapSurface
@@ -904,7 +948,8 @@ use the MapView instead.
     `options` - The options
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context"
     class="section detail">
 
     ### MapSurface
@@ -925,7 +970,8 @@ use the MapView instead.
     `context` - The Application context
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context-com-here-sdk-mapview-MapViewOptions"
     class="section detail">
 
     ### MapSurface
@@ -951,9 +997,11 @@ use the MapView instead.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-isValid()" class="section detail">
+
+  - <div id="sdk-for-android-explore-isValid" class="section detail">
 
     ### isValid
 
@@ -981,7 +1029,8 @@ use the MapView instead.
     `true` if this `MapSurface` is valid, `false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-destroy()" class="section detail">
+
+  - <div id="sdk-for-android-explore-destroy" class="section detail">
 
     ### destroy
 
@@ -1002,7 +1051,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
+
+  - <div id="sdk-for-android-explore-setOnReadyListener-com-here-sdk-mapview-MapView-OnReadyListener"
     class="section detail">
 
     ### setOnReadyListener
@@ -1028,7 +1078,8 @@ use the MapView instead.
     unregister any previously register listener.
 
     </div>
-<div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int)"
+
+  - <div id="sdk-for-android-explore-attachSurface-android-content-Context-android-view-Surface-int-int"
     class="section detail">
 
     ### attachSurface
@@ -1057,11 +1108,15 @@ use the MapView instead.
     `height` - The height of the render surface in pixels.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if surface is invalid and cannot be used.
 
     </div>
-<div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int,com.here.sdk.mapview.MapSurface.RenderListener)"
+
+  - <div id="sdk-for-android-explore-attachSurface-android-content-Context-android-view-Surface-int-int-com-here-sdk-mapview-MapSurface-RenderListener"
     class="section detail">
 
     ### attachSurface
@@ -1102,11 +1157,15 @@ use the MapView instead.
     gets called.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if surface is invalid and cannot be used.
 
     </div>
-<div id="sdk-for-android-explore-destroySurface()"
+
+  - <div id="sdk-for-android-explore-destroySurface"
     class="section detail">
 
     ### destroySurface
@@ -1124,14 +1183,18 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-redraw(java.lang.Runnable)"
+
+  - <div id="sdk-for-android-explore-redraw-java-lang-Runnable"
     class="section detail">
 
     ### redraw
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">redraw</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html" class="external-link" title="class or interface in java.lang">Runnable</a> redrawFinished)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">redraw</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html"
+    class="external-link"
+    title="class or interface in java.lang">Runnable</a> redrawFinished)</span>
 
     </div>
 
@@ -1147,7 +1210,8 @@ use the MapView instead.
     The runnable to be executed after completion.
 
     </div>
-<div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+
+  - <div id="sdk-for-android-explore-pick-com-here-sdk-mapview-MapScene-MapPickFilter-com-here-sdk-core-Rectangle2D-com-here-sdk-mapview-MapViewBase-MapPickCallback"
     class="section detail">
 
     ### pick
@@ -1195,7 +1259,8 @@ use the MapView instead.
     thread when pick operation completes.
 
     </div>
-<div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-geoToViewCoordinates-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -1236,14 +1301,18 @@ use the MapView instead.
     if there is no render surface attached.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     See Also:  
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-addLifecycleListener-com-here-sdk-mapview-MapViewLifecycleListener"
     class="section detail">
 
     ### addLifecycleListener
@@ -1272,11 +1341,15 @@ use the MapView instead.
     An object to be notified of lifecycle events.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-removeLifecycleListener-com-here-sdk-mapview-MapViewLifecycleListener"
     class="section detail">
 
     ### removeLifecycleListener
@@ -1306,11 +1379,15 @@ use the MapView instead.
     An object to stop being notified of lifecycle events.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-onResume()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onResume" class="section detail">
 
     ### onResume
 
@@ -1327,7 +1404,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onPause()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onPause" class="section detail">
 
     ### onPause
 
@@ -1344,7 +1422,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-viewToGeoCoordinates-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -1386,14 +1465,18 @@ use the MapView instead.
     there is no render surface attached.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     See Also:  
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-getGestures()"
+
+  - <div id="sdk-for-android-explore-getGestures"
     class="section detail">
 
     ### getGestures
@@ -1422,11 +1505,15 @@ use the MapView instead.
     control object
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getPixelScale()"
+
+  - <div id="sdk-for-android-explore-getPixelScale"
     class="section detail">
 
     ### getPixelScale
@@ -1456,11 +1543,15 @@ use the MapView instead.
     current pixel scale factor, or 0.0 if MapView is not initialized
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getViewportSize()"
+
+  - <div id="sdk-for-android-explore-getViewportSize"
     class="section detail">
 
     ### getViewportSize
@@ -1485,11 +1576,15 @@ use the MapView instead.
     The viewport size in physical pixels
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getFrameRate()"
+
+  - <div id="sdk-for-android-explore-getFrameRate"
     class="section detail">
 
     ### getFrameRate
@@ -1515,11 +1610,15 @@ use the MapView instead.
     Actual maximal render frame rate
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-setFrameRate(int)"
+
+  - <div id="sdk-for-android-explore-setFrameRate-int"
     class="section detail">
 
     ### setFrameRate
@@ -1546,11 +1645,15 @@ use the MapView instead.
     values has no effect.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
+
+  - <div id="sdk-for-android-explore-takeScreenshot-com-here-sdk-mapview-MapView-TakeScreenshotCallback"
     class="section detail">
 
     ### takeScreenshot
@@ -1572,7 +1675,8 @@ use the MapView instead.
     completed
 
     </div>
-<div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-setWatermarkLocation-com-here-sdk-core-Anchor2D-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### setWatermarkLocation
@@ -1626,11 +1730,15 @@ use the MapView instead.
     view size changes.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getWatermarkSize()"
+
+  - <div id="sdk-for-android-explore-getWatermarkSize"
     class="section detail">
 
     ### getWatermarkSize
@@ -1656,11 +1764,15 @@ use the MapView instead.
     Provides the size of the watermark in physical pixels.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
+
+  - <div id="sdk-for-android-explore-setShadowQuality-com-here-sdk-mapview-ShadowQuality"
     class="section detail">
 
     ### setShadowQuality
@@ -1688,11 +1800,15 @@ use the MapView instead.
     `shadowQuality` - The shadow quality.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getShadowQuality()"
+
+  - <div id="sdk-for-android-explore-getShadowQuality"
     class="section detail">
 
     ### getShadowQuality
@@ -1716,12 +1832,15 @@ use the MapView instead.
     The currently set shadow quality.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getCamera()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getCamera" class="section detail">
 
     ### getCamera
 
@@ -1748,11 +1867,15 @@ use the MapView instead.
     object for the map
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getMapScene()"
+
+  - <div id="sdk-for-android-explore-getMapScene"
     class="section detail">
 
     ### getMapScene
@@ -1782,11 +1905,15 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getMapContext()"
+
+  - <div id="sdk-for-android-explore-getMapContext"
     class="section detail">
 
     ### getMapContext
@@ -1814,12 +1941,15 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getHereMap()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getHereMap" class="section detail">
 
     ### getHereMap
 
@@ -1846,12 +1976,13 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
 
   </div>
-
-</div>
 

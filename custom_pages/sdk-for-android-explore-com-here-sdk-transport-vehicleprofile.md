@@ -3,15 +3,20 @@ title: "VehicleProfile (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-vehicleprofile"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.transport.VehicleProfile
+java.lang.Object com.here.sdk.transport.VehicleProfile →
+com.here.sdk.transport.VehicleProfile
 
 </div>
 
@@ -20,10 +25,15 @@ class="section class-description">
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+class="external-link"
+title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public final class
 </span><span class="element-name type-name-label">VehicleProfile</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -54,8 +64,7 @@ become unsupported, without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -86,13 +95,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#axleCount" class="member-name-link"><code>axleCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#axleCount"
+  class="member-name-link"><code>axleCount</code></a>
 
   </div>
 
@@ -114,13 +128,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#grossWeightInKilograms" class="member-name-link"><code>grossWeightInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#grossWeightInKilograms"
+  class="member-name-link"><code>grossWeightInKilograms</code></a>
 
   </div>
 
@@ -142,13 +161,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#hazardousMaterials" class="member-name-link"><code>hazardousMaterials</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#hazardousMaterials"
+  class="member-name-link"><code>hazardousMaterials</code></a>
 
   </div>
 
@@ -170,13 +194,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#heightInCentimeters" class="member-name-link"><code>heightInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#heightInCentimeters"
+  class="member-name-link"><code>heightInCentimeters</code></a>
 
   </div>
 
@@ -198,13 +227,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#lengthInCentimeters" class="member-name-link"><code>lengthInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#lengthInCentimeters"
+  class="member-name-link"><code>lengthInCentimeters</code></a>
 
   </div>
 
@@ -232,7 +266,9 @@ become unsupported, without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#trailerCount" class="member-name-link"><code>trailerCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#trailerCount"
+  class="member-name-link"><code>trailerCount</code></a>
 
   </div>
 
@@ -260,7 +296,9 @@ become unsupported, without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#truckCategory" class="member-name-link"><code>truckCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#truckCategory"
+  class="member-name-link"><code>truckCategory</code></a>
 
   </div>
 
@@ -288,7 +326,9 @@ become unsupported, without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#tunnelCategory" class="member-name-link"><code>tunnelCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#tunnelCategory"
+  class="member-name-link"><code>tunnelCategory</code></a>
 
   </div>
 
@@ -316,7 +356,9 @@ become unsupported, without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#vehicleType" class="member-name-link"><code>vehicleType</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#vehicleType"
+  class="member-name-link"><code>vehicleType</code></a>
 
   </div>
 
@@ -338,13 +380,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#weightPerAxleInKilograms" class="member-name-link"><code>weightPerAxleInKilograms</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#weightPerAxleInKilograms"
+  class="member-name-link"><code>weightPerAxleInKilograms</code></a>
 
   </div>
 
@@ -366,13 +413,18 @@ become unsupported, without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#widthInCentimeters" class="member-name-link"><code>widthInCentimeters</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#widthInCentimeters"
+  class="member-name-link"><code>widthInCentimeters</code></a>
 
   </div>
 
@@ -395,7 +447,8 @@ become unsupported, without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -420,7 +473,7 @@ become unsupported, without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      VehicleProfile(VehicleType vehicleType)
+      VehicleProfile ( VehicleType vehicleType)
 
   </div>
 
@@ -443,7 +496,8 @@ become unsupported, without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -476,7 +530,7 @@ become unsupported, without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -500,7 +554,7 @@ become unsupported, without a deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -522,20 +576,49 @@ become unsupported, without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-vehicleType"
+
+  - <div id="sdk-for-android-explore-vehicleType"
     class="section detail">
 
     ### vehicleType
@@ -560,7 +643,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-truckCategory"
+
+  - <div id="sdk-for-android-explore-truckCategory"
     class="section detail">
 
     ### truckCategory
@@ -586,7 +670,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-trailerCount"
+
+  - <div id="sdk-for-android-explore-trailerCount"
     class="section detail">
 
     ### trailerCount
@@ -613,7 +698,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-hazardousMaterials"
+
+  - <div id="sdk-for-android-explore-hazardousMaterials"
     class="section detail">
 
     ### hazardousMaterials
@@ -621,7 +707,9 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 
@@ -639,7 +727,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tunnelCategory"
+
+  - <div id="sdk-for-android-explore-tunnelCategory"
     class="section detail">
 
     ### tunnelCategory
@@ -666,14 +755,18 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-axleCount" class="section detail">
+
+  - <div id="sdk-for-android-explore-axleCount" class="section detail">
 
     ### axleCount
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">axleCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">axleCount</span>
 
     </div>
 
@@ -693,7 +786,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-grossWeightInKilograms"
+
+  - <div id="sdk-for-android-explore-grossWeightInKilograms"
     class="section detail">
 
     ### grossWeightInKilograms
@@ -701,7 +795,10 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">grossWeightInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">grossWeightInKilograms</span>
 
     </div>
 
@@ -719,7 +816,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-heightInCentimeters"
+
+  - <div id="sdk-for-android-explore-heightInCentimeters"
     class="section detail">
 
     ### heightInCentimeters
@@ -727,7 +825,10 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">heightInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">heightInCentimeters</span>
 
     </div>
 
@@ -745,7 +846,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-lengthInCentimeters"
+
+  - <div id="sdk-for-android-explore-lengthInCentimeters"
     class="section detail">
 
     ### lengthInCentimeters
@@ -753,7 +855,10 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">lengthInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">lengthInCentimeters</span>
 
     </div>
 
@@ -771,7 +876,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-widthInCentimeters"
+
+  - <div id="sdk-for-android-explore-widthInCentimeters"
     class="section detail">
 
     ### widthInCentimeters
@@ -779,7 +885,10 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">widthInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">widthInCentimeters</span>
 
     </div>
 
@@ -797,7 +906,8 @@ become unsupported, without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-weightPerAxleInKilograms"
+
+  - <div id="sdk-for-android-explore-weightPerAxleInKilograms"
     class="section detail">
 
     ### weightPerAxleInKilograms
@@ -805,7 +915,10 @@ become unsupported, without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">weightPerAxleInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">weightPerAxleInKilograms</span>
 
     </div>
 
@@ -827,9 +940,11 @@ become unsupported, without a deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.transport.VehicleType)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-transport-VehicleType"
     class="section detail">
 
     ### VehicleProfile
@@ -861,16 +976,20 @@ become unsupported, without a deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
@@ -881,11 +1000,18 @@ become unsupported, without a deprecation process.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -902,12 +1028,16 @@ become unsupported, without a deprecation process.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

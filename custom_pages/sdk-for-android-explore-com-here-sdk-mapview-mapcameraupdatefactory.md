@@ -3,17 +3,22 @@ title: "MapCameraUpdateFactory (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.mapview.MapCameraUpdateFactory →
-com.here.NativeBase → com.here.sdk.mapview.MapCameraUpdateFactory
+java.lang.Object com.here.NativeBase
+com.here.sdk.mapview.MapCameraUpdateFactory → com.here.NativeBase
+com.here.sdk.mapview.MapCameraUpdateFactory →
+com.here.sdk.mapview.MapCameraUpdateFactory
 
 </div>
 
@@ -50,8 +55,7 @@ indicates also the top-left corner of the map's viewport.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -84,7 +88,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      compositeUpdate(List<MapCameraUpdate> mapCameraUpdates)
+      compositeUpdate ( List < MapCameraUpdate > mapCameraUpdates)
 
   </div>
 
@@ -106,7 +110,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoBox target)
+      lookAt ( GeoBox target)
 
   </div>
 
@@ -129,9 +133,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoBox target,
-       GeoOrientationUpdate orientation,
-       Rectangle2D viewRectangle)
+      lookAt ( GeoBox target, GeoOrientationUpdate orientation, Rectangle2D viewRectangle)
 
   </div>
 
@@ -154,8 +156,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoBox target,
-       Rectangle2D viewRectangle)
+      lookAt ( GeoBox target, Rectangle2D viewRectangle)
 
   </div>
 
@@ -179,7 +180,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoCoordinatesUpdate target)
+      lookAt ( GeoCoordinatesUpdate target)
 
   </div>
 
@@ -203,8 +204,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoCoordinatesUpdate target,
-       GeoOrientationUpdate orientation)
+      lookAt ( GeoCoordinatesUpdate target, GeoOrientationUpdate orientation)
 
   </div>
 
@@ -229,9 +229,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoCoordinatesUpdate target,
-       GeoOrientationUpdate orientation,
-       MapMeasure measure)
+      lookAt ( GeoCoordinatesUpdate target, GeoOrientationUpdate orientation, MapMeasure measure)
 
   </div>
 
@@ -254,12 +252,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoCoordinatesUpdate target,
-       GeoOrientationUpdate orientation,
-       List<GeoCoordinates> points,
-       Rectangle2D viewRectangle,
-       MapMeasure minMeasure,
-       MapMeasure maxMeasure)
+      lookAt ( GeoCoordinatesUpdate target, GeoOrientationUpdate orientation, List < GeoCoordinates > points, Rectangle2D viewRectangle, MapMeasure minMeasure, MapMeasure maxMeasure)
 
   </div>
 
@@ -283,8 +276,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(GeoCoordinatesUpdate target,
-       MapMeasure measure)
+      lookAt ( GeoCoordinatesUpdate target, MapMeasure measure)
 
   </div>
 
@@ -308,10 +300,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookAt(List<GeoCoordinates> points,
-       Rectangle2D viewRectangle,
-       GeoOrientationUpdate orientation,
-       MapMeasure measureLimit)
+      lookAt ( List < GeoCoordinates > points, Rectangle2D viewRectangle, GeoOrientationUpdate orientation, MapMeasure measureLimit)
 
   </div>
 
@@ -334,8 +323,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookToMatch(GeoCoordinates geoPoint,
-       Point2D viewPoint)
+      lookToMatch ( GeoCoordinates geoPoint, Point2D viewPoint)
 
   </div>
 
@@ -358,10 +346,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      lookToMatch(GeoCoordinates geoPoint,
-       Point2D viewPoint,
-       GeoOrientationUpdate orientation,
-       MapMeasure measure)
+      lookToMatch ( GeoCoordinates geoPoint, Point2D viewPoint, GeoOrientationUpdate orientation, MapMeasure measure)
 
   </div>
 
@@ -385,8 +370,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      orbitBy(GeoOrientationUpdate delta,
-       Point2D origin)
+      orbitBy ( GeoOrientationUpdate delta, Point2D origin)
 
   </div>
 
@@ -409,7 +393,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      panBy(double xOffset,
+      panBy (double xOffset,
        double yOffset)
 
   </div>
@@ -434,7 +418,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      rotateBy(GeoOrientationUpdate delta)
+      rotateBy ( GeoOrientationUpdate delta)
 
   </div>
 
@@ -457,7 +441,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setNormalizedPrincipalPoint(Anchor2D principalPoint)
+      setNormalizedPrincipalPoint ( Anchor2D principalPoint)
 
   </div>
 
@@ -480,7 +464,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setPrincipalPoint(Point2D principalPoint)
+      setPrincipalPoint ( Point2D principalPoint)
 
   </div>
 
@@ -504,7 +488,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setVerticalFieldOfView(double verticalFieldOfView)
+      setVerticalFieldOfView (double verticalFieldOfView)
 
   </div>
 
@@ -527,8 +511,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      zoomBy(double factor,
-       Point2D origin)
+      zoomBy (double factor, Point2D origin)
 
   </div>
 
@@ -551,7 +534,7 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      zoomTo(double zoomLevel)
+      zoomTo (double zoomLevel)
 
   </div>
 
@@ -572,20 +555,55 @@ indicates also the top-left corner of the map's viewport.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoCoordinatesUpdate"
     class="section detail">
 
     ### lookAt
@@ -620,7 +638,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoCoordinatesUpdate-com-here-sdk-core-GeoOrientationUpdate"
     class="section detail">
 
     ### lookAt
@@ -661,7 +680,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoCoordinatesUpdate-com-here-sdk-mapview-MapMeasure"
     class="section detail">
 
     ### lookAt
@@ -703,7 +723,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoCoordinatesUpdate-com-here-sdk-core-GeoOrientationUpdate-com-here-sdk-mapview-MapMeasure"
     class="section detail">
 
     ### lookAt
@@ -751,7 +772,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookToMatch-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-Point2D-com-here-sdk-core-GeoOrientationUpdate-com-here-sdk-mapview-MapMeasure"
     class="section detail">
 
     ### lookToMatch
@@ -812,7 +834,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-lookToMatch-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### lookToMatch
@@ -860,7 +883,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt-java-util-List-com-here-sdk-core-Rectangle2D-com-here-sdk-core-GeoOrientationUpdate-com-here-sdk-mapview-MapMeasure"
     class="section detail">
 
     ### lookAt
@@ -870,7 +894,9 @@ indicates also the top-left corner of the map's viewport.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">lookAt</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -935,7 +961,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapMeasure,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoCoordinatesUpdate-com-here-sdk-core-GeoOrientationUpdate-java-util-List-com-here-sdk-core-Rectangle2D-com-here-sdk-mapview-MapMeasure-com-here-sdk-mapview-MapMeasure"
     class="section detail">
 
     ### lookAt
@@ -948,7 +975,9 @@ indicates also the top-left corner of the map's viewport.
     [GeoCoordinatesUpdate](sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate "class in com.here.sdk.core") target,
     @NonNull
     [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> points,
     @NonNull
     [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle,
     @NonNull
@@ -1031,7 +1060,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoBox-com-here-sdk-core-GeoOrientationUpdate-com-here-sdk-core-Rectangle2D"
     class="section detail">
 
     ### lookAt
@@ -1085,7 +1115,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.Rectangle2D)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoBox-com-here-sdk-core-Rectangle2D"
     class="section detail">
 
     ### lookAt
@@ -1133,7 +1164,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-lookAt-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### lookAt
@@ -1167,7 +1199,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-panBy(double,double)"
+
+  - <div id="sdk-for-android-explore-panBy-double-double"
     class="section detail">
 
     ### panBy
@@ -1202,7 +1235,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-orbitBy-com-here-sdk-core-GeoOrientationUpdate-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### orbitBy
@@ -1244,7 +1278,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-rotateBy(com.here.sdk.core.GeoOrientationUpdate)"
+
+  - <div id="sdk-for-android-explore-rotateBy-com-here-sdk-core-GeoOrientationUpdate"
     class="section detail">
 
     ### rotateBy
@@ -1278,7 +1313,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-zoomBy-double-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### zoomBy
@@ -1318,7 +1354,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-zoomTo(double)"
+
+  - <div id="sdk-for-android-explore-zoomTo-double"
     class="section detail">
 
     ### zoomTo
@@ -1348,7 +1385,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-setPrincipalPoint-com-here-sdk-core-Point2D"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1381,7 +1419,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)"
+
+  - <div id="sdk-for-android-explore-setNormalizedPrincipalPoint-com-here-sdk-core-Anchor2D"
     class="section detail">
 
     ### setNormalizedPrincipalPoint
@@ -1414,7 +1453,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-setVerticalFieldOfView(double)"
+
+  - <div id="sdk-for-android-explore-setVerticalFieldOfView-double"
     class="section detail">
 
     ### setVerticalFieldOfView
@@ -1445,7 +1485,8 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-<div id="sdk-for-android-explore-compositeUpdate(java.util.List)"
+
+  - <div id="sdk-for-android-explore-compositeUpdate-java-util-List"
     class="section detail">
 
     ### compositeUpdate
@@ -1455,7 +1496,9 @@ indicates also the top-left corner of the map's viewport.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
     static</span> <span class="return-type">[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")</span> <span class="element-name">compositeUpdate</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")\> mapCameraUpdates)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")\> mapCameraUpdates)</span>
     throws
     <span class="exceptions">[MapCameraUpdate.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -1489,6 +1532,4 @@ indicates also the top-left corner of the map's viewport.
     </div>
 
   </div>
-
-</div>
 

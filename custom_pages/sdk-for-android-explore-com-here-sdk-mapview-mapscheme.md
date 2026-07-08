@@ -3,17 +3,21 @@ title: "MapScheme (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscheme"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-java.lang.Enum\<MapScheme\>com.here.sdk.mapview.MapScheme →
-java.lang.Enum → MapScheme → com.here.sdk.mapview.MapScheme
+java.lang.Object java.lang.Enum \< MapScheme \>
+com.here.sdk.mapview.MapScheme → java.lang.Enum \< MapScheme \>
+com.here.sdk.mapview.MapScheme → com.here.sdk.mapview.MapScheme
 
 </div>
 
@@ -21,14 +25,25 @@ java.lang.Enum → MapScheme → com.here.sdk.mapview.MapScheme
 class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapScheme`](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")`>`,
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapScheme`](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">MapScheme</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")\></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")\></span>
 
 </div>
 
@@ -40,19 +55,37 @@ Represents the preconfigured map schemes bundled with the SDK.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+  ## Nested classes/interfaces inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
+
+  ## Enum Constant Summary
 
   <div class="caption">
 
@@ -76,7 +109,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_DAY" class="member-name-link"><code>HYBRID_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_DAY"
+  class="member-name-link"><code>HYBRID_DAY</code></a>
 
   </div>
 
@@ -93,7 +128,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_NIGHT" class="member-name-link"><code>HYBRID_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#HYBRID_NIGHT"
+  class="member-name-link"><code>HYBRID_NIGHT</code></a>
 
   </div>
 
@@ -110,7 +147,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_DAY" class="member-name-link"><code>LITE_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_DAY"
+  class="member-name-link"><code>LITE_DAY</code></a>
 
   </div>
 
@@ -128,7 +167,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_DAY" class="member-name-link"><code>LITE_HYBRID_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_DAY"
+  class="member-name-link"><code>LITE_HYBRID_DAY</code></a>
 
   </div>
 
@@ -146,7 +187,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_NIGHT" class="member-name-link"><code>LITE_HYBRID_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_HYBRID_NIGHT"
+  class="member-name-link"><code>LITE_HYBRID_NIGHT</code></a>
 
   </div>
 
@@ -164,7 +207,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_NIGHT" class="member-name-link"><code>LITE_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LITE_NIGHT"
+  class="member-name-link"><code>LITE_NIGHT</code></a>
 
   </div>
 
@@ -182,7 +227,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_DAY" class="member-name-link"><code>LOGISTICS_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_DAY"
+  class="member-name-link"><code>LOGISTICS_DAY</code></a>
 
   </div>
 
@@ -200,7 +247,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_DAY" class="member-name-link"><code>LOGISTICS_HYBRID_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_DAY"
+  class="member-name-link"><code>LOGISTICS_HYBRID_DAY</code></a>
 
   </div>
 
@@ -219,7 +268,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_NIGHT" class="member-name-link"><code>LOGISTICS_HYBRID_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_HYBRID_NIGHT"
+  class="member-name-link"><code>LOGISTICS_HYBRID_NIGHT</code></a>
 
   </div>
 
@@ -238,7 +289,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_NIGHT" class="member-name-link"><code>LOGISTICS_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#LOGISTICS_NIGHT"
+  class="member-name-link"><code>LOGISTICS_NIGHT</code></a>
 
   </div>
 
@@ -256,7 +309,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_DAY" class="member-name-link"><code>NORMAL_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_DAY"
+  class="member-name-link"><code>NORMAL_DAY</code></a>
 
   </div>
 
@@ -272,7 +327,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_NIGHT" class="member-name-link"><code>NORMAL_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#NORMAL_NIGHT"
+  class="member-name-link"><code>NORMAL_NIGHT</code></a>
 
   </div>
 
@@ -288,7 +345,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_DAY" class="member-name-link"><code>ROAD_NETWORK_DAY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_DAY"
+  class="member-name-link"><code>ROAD_NETWORK_DAY</code></a>
 
   </div>
 
@@ -305,7 +364,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_NIGHT" class="member-name-link"><code>ROAD_NETWORK_NIGHT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#ROAD_NETWORK_NIGHT"
+  class="member-name-link"><code>ROAD_NETWORK_NIGHT</code></a>
 
   </div>
 
@@ -322,7 +383,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#SATELLITE" class="member-name-link"><code>SATELLITE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme#SATELLITE"
+  class="member-name-link"><code>SATELLITE</code></a>
 
   </div>
 
@@ -339,7 +402,8 @@ Represents the preconfigured map schemes bundled with the SDK.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -372,7 +436,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      valueOf(String name)
+      valueOf ( String name)
 
   </div>
 
@@ -394,7 +458,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      values()
+      values ()
 
   </div>
 
@@ -415,28 +479,85 @@ Represents the preconfigured map schemes bundled with the SDK.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-NORMAL_DAY" class="section detail">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-explore-NORMAL_DAY" class="section detail">
 
     ### NORMAL_DAY
 
@@ -454,7 +575,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NORMAL_NIGHT"
+
+  - <div id="sdk-for-android-explore-NORMAL_NIGHT"
     class="section detail">
 
     ### NORMAL_NIGHT
@@ -473,7 +595,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SATELLITE" class="section detail">
+
+  - <div id="sdk-for-android-explore-SATELLITE" class="section detail">
 
     ### SATELLITE
 
@@ -491,7 +614,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HYBRID_DAY" class="section detail">
+
+  - <div id="sdk-for-android-explore-HYBRID_DAY" class="section detail">
 
     ### HYBRID_DAY
 
@@ -510,7 +634,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HYBRID_NIGHT"
+
+  - <div id="sdk-for-android-explore-HYBRID_NIGHT"
     class="section detail">
 
     ### HYBRID_NIGHT
@@ -530,7 +655,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LITE_DAY" class="section detail">
+
+  - <div id="sdk-for-android-explore-LITE_DAY" class="section detail">
 
     ### LITE_DAY
 
@@ -550,7 +676,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LITE_NIGHT" class="section detail">
+
+  - <div id="sdk-for-android-explore-LITE_NIGHT" class="section detail">
 
     ### LITE_NIGHT
 
@@ -570,7 +697,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LITE_HYBRID_DAY"
+
+  - <div id="sdk-for-android-explore-LITE_HYBRID_DAY"
     class="section detail">
 
     ### LITE_HYBRID_DAY
@@ -591,7 +719,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LITE_HYBRID_NIGHT"
+
+  - <div id="sdk-for-android-explore-LITE_HYBRID_NIGHT"
     class="section detail">
 
     ### LITE_HYBRID_NIGHT
@@ -612,7 +741,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LOGISTICS_DAY"
+
+  - <div id="sdk-for-android-explore-LOGISTICS_DAY"
     class="section detail">
 
     ### LOGISTICS_DAY
@@ -633,7 +763,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LOGISTICS_NIGHT"
+
+  - <div id="sdk-for-android-explore-LOGISTICS_NIGHT"
     class="section detail">
 
     ### LOGISTICS_NIGHT
@@ -654,7 +785,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LOGISTICS_HYBRID_DAY"
+
+  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_DAY"
     class="section detail">
 
     ### LOGISTICS_HYBRID_DAY
@@ -676,7 +808,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LOGISTICS_HYBRID_NIGHT"
+
+  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_NIGHT"
     class="section detail">
 
     ### LOGISTICS_HYBRID_NIGHT
@@ -698,7 +831,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROAD_NETWORK_DAY"
+
+  - <div id="sdk-for-android-explore-ROAD_NETWORK_DAY"
     class="section detail">
 
     ### ROAD_NETWORK_DAY
@@ -721,7 +855,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROAD_NETWORK_NIGHT"
+
+  - <div id="sdk-for-android-explore-ROAD_NETWORK_NIGHT"
     class="section detail">
 
     ### ROAD_NETWORK_NIGHT
@@ -746,9 +881,11 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values" class="section detail">
 
     ### values
 
@@ -771,7 +908,8 @@ Represents the preconfigured map schemes bundled with the SDK.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
     class="section detail">
 
     ### valueOf
@@ -779,7 +917,9 @@ Represents the preconfigured map schemes bundled with the SDK.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -799,15 +939,19 @@ Represents the preconfigured map schemes bundled with the SDK.
     the enum constant with the specified name
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
 
   </div>
-
-</div>
 

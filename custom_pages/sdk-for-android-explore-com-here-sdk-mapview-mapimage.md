@@ -3,16 +3,21 @@ title: "MapImage (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.mapview.MapImage →
-com.here.NativeBase → com.here.sdk.mapview.MapImage
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapImage →
+com.here.NativeBase com.here.sdk.mapview.MapImage →
+com.here.sdk.mapview.MapImage
 
 </div>
 
@@ -42,8 +47,7 @@ reduce the amount of needed memory.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -68,8 +72,7 @@ reduce the amount of needed memory.
 
   <div class="col-constructor-name even-row-color">
 
-      MapImage(byte[] pixelData,
-       ImageFormat imageFormat)
+      MapImage (byte[] pixelData, ImageFormat imageFormat)
 
   </div>
 
@@ -85,8 +88,7 @@ reduce the amount of needed memory.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapImage(byte[] imageData,
-       ImageFormat imageFormat,
+      MapImage (byte[] imageData, ImageFormat imageFormat,
        long width,
        long height)
 
@@ -104,7 +106,7 @@ reduce the amount of needed memory.
 
   <div class="col-constructor-name even-row-color">
 
-      MapImage(String filePath,
+      MapImage ( String filePath,
        long width,
        long height)
 
@@ -124,25 +126,61 @@ reduce the amount of needed memory.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat)"
+
+  - <div id="sdk-for-android-explore-init-byte-com-here-sdk-mapview-ImageFormat"
     class="section detail">
 
     ### MapImage
@@ -173,7 +211,8 @@ reduce the amount of needed memory.
     The format of the image data to be used.
 
     </div>
-<div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat,long,long)"
+
+  - <div id="sdk-for-android-explore-init-byte-com-here-sdk-mapview-ImageFormat-long-long"
     class="section detail">
 
     ### MapImage
@@ -214,7 +253,8 @@ reduce the amount of needed memory.
     The height of the image in pixels.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,long,long)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-long-long"
     class="section detail">
 
     ### MapImage
@@ -222,7 +262,9 @@ reduce the amount of needed memory.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">MapImage</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> filePath,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> filePath,
     long width, long height)</span> throws
     <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
 
@@ -268,6 +310,4 @@ reduce the amount of needed memory.
     </div>
 
   </div>
-
-</div>
 

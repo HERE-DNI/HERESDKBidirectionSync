@@ -3,9 +3,13 @@ title: "CalculateRouteCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+
+</div>
 
 </div>
 
@@ -18,7 +22,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">CalculateRouteCallback</span>
 
@@ -36,8 +43,7 @@ in case of an error.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -70,8 +76,7 @@ in case of an error.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onRouteCalculated(RoutingError routingError,
-       List<Route> routeList)
+      onRouteCalculated ( RoutingError routingError, List < Route > routeList)
 
   </div>
 
@@ -92,12 +97,12 @@ in case of an error.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onRouteCalculated(com.here.sdk.routing.RoutingError,java.util.List)"
+
+  - <div id="sdk-for-android-explore-onRouteCalculated-com-here-sdk-routing-RoutingError-java-util-List"
     class="section detail">
 
     ### onRouteCalculated
@@ -106,7 +111,9 @@ in case of an error.
 
     <span class="return-type">void</span> <span class="element-name">onRouteCalculated</span><span class="parameters">(@Nullable
     [RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing") routingError,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")\> routeList)</span>
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")\> routeList)</span>
 
     </div>
 
@@ -133,6 +140,4 @@ in case of an error.
     </div>
 
   </div>
-
-</div>
 

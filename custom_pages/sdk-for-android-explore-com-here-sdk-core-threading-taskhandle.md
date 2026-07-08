@@ -3,9 +3,13 @@ title: "TaskHandle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+
+</div>
 
 </div>
 
@@ -27,8 +31,7 @@ Handle used for the manipulation of the task.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -61,7 +64,7 @@ Handle used for the manipulation of the task.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      cancel()
+      cancel ()
 
   </div>
 
@@ -83,7 +86,7 @@ Handle used for the manipulation of the task.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      isCancelled()
+      isCancelled ()
 
   </div>
 
@@ -105,7 +108,7 @@ Handle used for the manipulation of the task.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      isFinished()
+      isFinished ()
 
   </div>
 
@@ -125,12 +128,12 @@ Handle used for the manipulation of the task.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-cancel()" class="section detail">
+
+  - <div id="sdk-for-android-explore-cancel" class="section detail">
 
     ### cancel
 
@@ -154,8 +157,8 @@ Handle used for the manipulation of the task.
     due to a platform dependent reason.
 
     </div>
-<div id="sdk-for-android-explore-isFinished()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-isFinished" class="section detail">
 
     ### isFinished
 
@@ -178,7 +181,8 @@ Handle used for the manipulation of the task.
     Completion indication.
 
     </div>
-<div id="sdk-for-android-explore-isCancelled()"
+
+  - <div id="sdk-for-android-explore-isCancelled"
     class="section detail">
 
     ### isCancelled
@@ -202,6 +206,4 @@ Handle used for the manipulation of the task.
     </div>
 
   </div>
-
-</div>
 

@@ -3,15 +3,20 @@ title: "SegmentReference (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.routing.SegmentReference
+java.lang.Object com.here.sdk.routing.SegmentReference →
+com.here.sdk.routing.SegmentReference
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">SegmentReference</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -37,8 +44,7 @@ deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -69,13 +75,18 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang"><code>Long</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Long</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#localId" class="member-name-link"><code>localId</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#localId"
+  class="member-name-link"><code>localId</code></a>
 
   </div>
 
@@ -97,7 +108,9 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetEnd" class="member-name-link"><code>offsetEnd</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetEnd"
+  class="member-name-link"><code>offsetEnd</code></a>
 
   </div>
 
@@ -121,7 +134,9 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetStart" class="member-name-link"><code>offsetStart</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetStart"
+  class="member-name-link"><code>offsetStart</code></a>
 
   </div>
 
@@ -139,13 +154,18 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#segmentId" class="member-name-link"><code>segmentId</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#segmentId"
+  class="member-name-link"><code>segmentId</code></a>
 
   </div>
 
@@ -168,7 +188,9 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#tilePartitionId" class="member-name-link"><code>tilePartitionId</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#tilePartitionId"
+  class="member-name-link"><code>tilePartitionId</code></a>
 
   </div>
 
@@ -191,7 +213,9 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#travelDirection" class="member-name-link"><code>travelDirection</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#travelDirection"
+  class="member-name-link"><code>travelDirection</code></a>
 
   </div>
 
@@ -208,7 +232,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -233,7 +258,7 @@ deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      SegmentReference()
+      SegmentReference ()
 
   </div>
 
@@ -249,7 +274,7 @@ deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      SegmentReference(String segmentId)
+      SegmentReference ( String segmentId)
 
   </div>
 
@@ -265,8 +290,7 @@ deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      SegmentReference(String segmentId,
-       TravelDirection travelDirection)
+      SegmentReference ( String segmentId, TravelDirection travelDirection)
 
   </div>
 
@@ -282,8 +306,7 @@ deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      SegmentReference(String segmentId,
-       TravelDirection travelDirection,
+      SegmentReference ( String segmentId, TravelDirection travelDirection,
        double offsetStart)
 
   </div>
@@ -300,8 +323,7 @@ deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      SegmentReference(String segmentId,
-       TravelDirection travelDirection,
+      SegmentReference ( String segmentId, TravelDirection travelDirection,
        double offsetStart,
        double offsetEnd)
 
@@ -319,8 +341,7 @@ deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      SegmentReference(String segmentId,
-       TravelDirection travelDirection,
+      SegmentReference ( String segmentId, TravelDirection travelDirection,
        double offsetStart,
        double offsetEnd,
        long tilePartitionId)
@@ -339,12 +360,10 @@ deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      SegmentReference(String segmentId,
-       TravelDirection travelDirection,
+      SegmentReference ( String segmentId, TravelDirection travelDirection,
        double offsetStart,
        double offsetEnd,
-       long tilePartitionId,
-       Long localId)
+       long tilePartitionId, Long localId)
 
   </div>
 
@@ -361,7 +380,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -394,7 +414,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -412,7 +432,7 @@ deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      fromString(String segmentRef)
+      fromString ( String segmentRef)
 
   </div>
 
@@ -435,7 +455,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -451,27 +471,58 @@ deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-segmentId" class="section detail">
+
+  - <div id="sdk-for-android-explore-segmentId" class="section detail">
 
     ### segmentId
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">segmentId</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">segmentId</span>
 
     </div>
 
@@ -483,7 +534,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-travelDirection"
+
+  - <div id="sdk-for-android-explore-travelDirection"
     class="section detail">
 
     ### travelDirection
@@ -502,7 +554,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-offsetStart"
+
+  - <div id="sdk-for-android-explore-offsetStart"
     class="section detail">
 
     ### offsetStart
@@ -524,7 +577,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-offsetEnd" class="section detail">
+
+  - <div id="sdk-for-android-explore-offsetEnd" class="section detail">
 
     ### offsetEnd
 
@@ -545,7 +599,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tilePartitionId"
+
+  - <div id="sdk-for-android-explore-tilePartitionId"
     class="section detail">
 
     ### tilePartitionId
@@ -564,14 +619,17 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-localId" class="section detail">
+
+  - <div id="sdk-for-android-explore-localId" class="section detail">
 
     ### localId
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a></span> <span class="element-name">localId</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
+    class="external-link" title="class or interface in java.lang">Long</a></span> <span class="element-name">localId</span>
 
     </div>
 
@@ -584,9 +642,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### SegmentReference
 
@@ -603,7 +663,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String"
     class="section detail">
 
     ### SegmentReference
@@ -611,7 +672,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId)</span>
 
     </div>
 
@@ -628,7 +691,8 @@ deprecation process.
     platform catalogs.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-routing-TravelDirection"
     class="section detail">
 
     ### SegmentReference
@@ -636,7 +700,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId,
     @NonNull
     [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection)</span>
 
@@ -659,7 +725,8 @@ deprecation process.
     Travel direction of the segment.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-routing-TravelDirection-double"
     class="section detail">
 
     ### SegmentReference
@@ -667,7 +734,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId,
     @NonNull
     [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection,
     double offsetStart)</span>
@@ -699,7 +768,8 @@ deprecation process.
     direction in case of undirected segments)
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-routing-TravelDirection-double-double"
     class="section detail">
 
     ### SegmentReference
@@ -707,7 +777,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId,
     @NonNull
     [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection,
     double offsetStart, double offsetEnd)</span>
@@ -747,7 +819,8 @@ deprecation process.
     direction in case of undirected segments)
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-routing-TravelDirection-double-double-long"
     class="section detail">
 
     ### SegmentReference
@@ -755,7 +828,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId,
     @NonNull
     [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection,
     double offsetStart, double offsetEnd, long tilePartitionId)</span>
@@ -800,7 +875,8 @@ deprecation process.
     segment. As in HERE Map Content.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-routing-TravelDirection-double-double-long-java-lang-Long"
     class="section detail">
 
     ### SegmentReference
@@ -808,11 +884,15 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentId,
     @NonNull
     [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection,
     double offsetStart, double offsetEnd, long tilePartitionId,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a> localId)</span>
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
+    class="external-link" title="class or interface in java.lang">Long</a> localId)</span>
 
     </div>
 
@@ -860,25 +940,36 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -889,11 +980,18 @@ deprecation process.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-fromString(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-fromString-java-lang-String"
     class="section detail">
 
     ### fromString
@@ -903,7 +1001,9 @@ deprecation process.
     <span class="annotations">@Nullable
     </span><span class="modifiers">public
     static</span> <span class="return-type">[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")</span> <span class="element-name">fromString</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentRef)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> segmentRef)</span>
 
     </div>
 
@@ -927,6 +1027,4 @@ deprecation process.
     </div>
 
   </div>
-
-</div>
 

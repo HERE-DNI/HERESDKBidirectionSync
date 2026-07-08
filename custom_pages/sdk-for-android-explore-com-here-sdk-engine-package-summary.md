@@ -3,14 +3,17 @@ title: "com.here.sdk.engine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.engine</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="caption">
 
@@ -51,6 +54,4 @@ package <span class="element-name">com.here.sdk.engine</span>
   </div>
 
   </div>
-
-</div>
 

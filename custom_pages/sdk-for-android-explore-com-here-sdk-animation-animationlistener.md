@@ -3,9 +3,13 @@ title: "AnimationListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+
+</div>
 
 </div>
 
@@ -27,8 +31,7 @@ A listener for animation events.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -61,7 +64,7 @@ A listener for animation events.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onAnimationStateChanged(AnimationState state)
+      onAnimationStateChanged ( AnimationState state)
 
   </div>
 
@@ -81,12 +84,12 @@ A listener for animation events.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onAnimationStateChanged(com.here.sdk.animation.AnimationState)"
+
+  - <div id="sdk-for-android-explore-onAnimationStateChanged-com-here-sdk-animation-AnimationState"
     class="section detail">
 
     ### onAnimationStateChanged
@@ -112,6 +115,4 @@ A listener for animation events.
     </div>
 
   </div>
-
-</div>
 

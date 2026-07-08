@@ -3,9 +3,13 @@ title: "MapCameraListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -28,8 +32,7 @@ redrawn after camera parameters change.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -62,7 +65,7 @@ redrawn after camera parameters change.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onMapCameraUpdated(MapCamera.State cameraState)
+      onMapCameraUpdated ( MapCamera.State cameraState)
 
   </div>
 
@@ -82,12 +85,12 @@ redrawn after camera parameters change.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onMapCameraUpdated(com.here.sdk.mapview.MapCamera.State)"
+
+  - <div id="sdk-for-android-explore-onMapCameraUpdated-com-here-sdk-mapview-MapCamera-State"
     class="section detail">
 
     ### onMapCameraUpdated
@@ -113,6 +116,4 @@ redrawn after camera parameters change.
     </div>
 
   </div>
-
-</div>
 

@@ -3,16 +3,21 @@ title: "SearchEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-searchengine"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.search.SearchEngine →
-com.here.NativeBase → com.here.sdk.search.SearchEngine
+java.lang.Object com.here.NativeBase com.here.sdk.search.SearchEngine →
+com.here.NativeBase com.here.sdk.search.SearchEngine →
+com.here.sdk.search.SearchEngine
 
 </div>
 
@@ -54,8 +59,7 @@ may be useful for debug purposes.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -80,7 +84,7 @@ may be useful for debug purposes.
 
   <div class="col-constructor-name even-row-color">
 
-      SearchEngine()
+      SearchEngine ()
 
   </div>
 
@@ -96,7 +100,7 @@ may be useful for debug purposes.
 
   <div class="col-constructor-name odd-row-color">
 
-      SearchEngine(SDKNativeEngine sdkEngine)
+      SearchEngine ( SDKNativeEngine sdkEngine)
 
   </div>
 
@@ -113,7 +117,8 @@ may be useful for debug purposes.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -146,9 +151,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(GeoCircle circle,
-       SearchOptions options,
-       SearchCallback callback)
+      search ( GeoCircle circle, SearchOptions options, SearchCallback callback)
 
   </div>
 
@@ -171,9 +174,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(GeoCircle circle,
-       SearchOptions options,
-       SearchCallbackExtended callback)
+      search ( GeoCircle circle, SearchOptions options, SearchCallbackExtended callback)
 
   </div>
 
@@ -196,9 +197,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(GeoCoordinates coordinates,
-       SearchOptions options,
-       SearchCallbackExtended callback)
+      search ( GeoCoordinates coordinates, SearchOptions options, SearchCallbackExtended callback)
 
   </div>
 
@@ -221,9 +220,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(AddressQuery query,
-       SearchOptions options,
-       SearchCallbackExtended callback)
+      search ( AddressQuery query, SearchOptions options, SearchCallbackExtended callback)
 
   </div>
 
@@ -246,9 +243,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(CategoryQuery query,
-       SearchOptions options,
-       SearchCallbackExtended callback)
+      search ( CategoryQuery query, SearchOptions options, SearchCallbackExtended callback)
 
   </div>
 
@@ -271,9 +266,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(PlaceIdQuery query,
-       LanguageCode languageCode,
-       PlaceIdSearchCallbackExtended callback)
+      search ( PlaceIdQuery query, LanguageCode languageCode, PlaceIdSearchCallbackExtended callback)
 
   </div>
 
@@ -296,9 +289,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      search(TextQuery query,
-       SearchOptions options,
-       SearchCallbackExtended callback)
+      search ( TextQuery query, SearchOptions options, SearchCallbackExtended callback)
 
   </div>
 
@@ -321,9 +312,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByAddress(AddressQuery query,
-       SearchOptions options,
-       SearchCallback callback)
+      searchByAddress ( AddressQuery query, SearchOptions options, SearchCallback callback)
 
   </div>
 
@@ -345,9 +334,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByCategory(CategoryQuery query,
-       SearchOptions options,
-       SearchCallback callback)
+      searchByCategory ( CategoryQuery query, SearchOptions options, SearchCallback callback)
 
   </div>
 
@@ -369,9 +356,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByCoordinates(GeoCoordinates coordinates,
-       SearchOptions options,
-       SearchCallback callback)
+      searchByCoordinates ( GeoCoordinates coordinates, SearchOptions options, SearchCallback callback)
 
   </div>
 
@@ -394,9 +379,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByPickedPlace(PickedPlace pickedPlace,
-       LanguageCode languageCode,
-       PlaceIdSearchCallback callback)
+      searchByPickedPlace ( PickedPlace pickedPlace, LanguageCode languageCode, PlaceIdSearchCallback callback)
 
   </div>
 
@@ -419,9 +402,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByPlaceId(PlaceIdQuery query,
-       LanguageCode languageCode,
-       PlaceIdSearchCallback callback)
+      searchByPlaceId ( PlaceIdQuery query, LanguageCode languageCode, PlaceIdSearchCallback callback)
 
   </div>
 
@@ -444,9 +425,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      searchByText(TextQuery query,
-       SearchOptions options,
-       SearchCallback callback)
+      searchByText ( TextQuery query, SearchOptions options, SearchCallback callback)
 
   </div>
 
@@ -469,8 +448,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      sendRequest(String href,
-       SearchCallback callback)
+      sendRequest ( String href, SearchCallback callback)
 
   </div>
 
@@ -492,8 +470,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      sendRequest(String href,
-       SearchCallbackExtended callback)
+      sendRequest ( String href, SearchCallbackExtended callback)
 
   </div>
 
@@ -515,8 +492,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setCustomOption(String name,
-       String value)
+      setCustomOption ( String name, String value)
 
   </div>
 
@@ -538,7 +514,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setEVInterface(EVSearchInterface evcpInterface)
+      setEVInterface ( EVSearchInterface evcpInterface)
 
   </div>
 
@@ -560,9 +536,7 @@ may be useful for debug purposes.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      suggest(TextQuery query,
-       SearchOptions options,
-       SuggestCallbackExtended callback)
+      suggest ( TextQuery query, SearchOptions options, SuggestCallbackExtended callback)
 
   </div>
 
@@ -585,9 +559,7 @@ may be useful for debug purposes.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      suggestByText(TextQuery query,
-       SearchOptions options,
-       SuggestCallback callback)
+      suggestByText ( TextQuery query, SearchOptions options, SuggestCallback callback)
 
   </div>
 
@@ -608,20 +580,55 @@ may be useful for debug purposes.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### SearchEngine
 
@@ -645,7 +652,8 @@ may be useful for debug purposes.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine"
     class="section detail">
 
     ### SearchEngine
@@ -678,9 +686,11 @@ may be useful for debug purposes.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-search(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-search-TextQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -723,7 +733,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-search-AddressQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -769,7 +780,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-search-PlaceIdQuery-com-here-sdk-core-LanguageCode-com-here-sdk-search-PlaceIdSearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -812,7 +824,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-core-GeoCoordinates-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -857,7 +870,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-core-GeoCircle-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### search
@@ -904,7 +918,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-core-GeoCircle-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -951,7 +966,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-sendRequest-java-lang-String-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### sendRequest
@@ -960,7 +976,9 @@ may be useful for debug purposes.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">sendRequest</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> href,
     @NonNull
     [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
 
@@ -991,7 +1009,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-sendRequest-java-lang-String-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### sendRequest
@@ -1000,7 +1019,9 @@ may be useful for debug purposes.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">sendRequest</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> href,
     @NonNull
     [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
 
@@ -1031,7 +1052,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search-com-here-sdk-search-CategoryQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallbackExtended"
     class="section detail">
 
     ### search
@@ -1073,7 +1095,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-suggest(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-suggest-com-here-sdk-search-TextQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SuggestCallbackExtended"
     class="section detail">
 
     ### suggest
@@ -1114,7 +1137,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setCustomOption-java-lang-String-java-lang-String"
     class="section detail">
 
     ### setCustomOption
@@ -1123,8 +1147,12 @@ may be useful for debug purposes.
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">setCustomOption</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name,
-    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name,
+    @NonNull <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -1132,23 +1160,24 @@ may be useful for debug purposes.
 
     Sets a custom option for search backend queries. This allows more
     control over the behavior of the search algorithm. Name has the
-    format . , for example "discover.show". Values can be combined for
-    the same name by using a comma, for example "truck,fuel". The custom
-    option is applied only for the endpoint that is specified as prefix
-    in name . Some of the supported name/value options are: name =
-    "revgeocode.with", value = "unnamedStreets" enables the retrieval of
-    access points on unnamed streets. name = "lookup.show" or
-    "discover.show" or "autosuggest.show" or "browse.show", value =
-    "truck" enables retreival of truck amenities. Note: Only
-    participants of the closed-alpha group can get access from HERE to
-    use this feature, otherwise, a SearchError.FORBIDDEN will be
-    propagated in callbacks. name = "lookup.show" or "discover.show" or
-    "autosuggest.show" or "browse.show", value = "fuel" enables
-    retreival of fuel station details. Note: Only participants of the
+    format \<endpoint_name\>.\<option_name\>, for example
+    "discover.show". Values can be combined for the same name by using a
+    comma, for example "truck,fuel". The custom option is applied only
+    for the endpoint that is specified as prefix in name . Some of the
+    supported name/value options are: name = "revgeocode.with", value =
+    "unnamedStreets" enables the retrieval of access points on unnamed
+    streets. name = "lookup.show" or "discover.show" or
+    "autosuggest.show" or "browse.show", value = "truck" enables
+    retreival of truck amenities. Note: Only participants of the
     closed-alpha group can get access from HERE to use this feature,
     otherwise, a SearchError.FORBIDDEN will be propagated in callbacks.
-    name = "lookup.show" or "discover.show" or "browse.show", value =
-    "ev" enables retreival of EV charging station details. name =
+    name = "lookup.show" or "discover.show" or "autosuggest.show" or
+    "browse.show", value = "fuel" enables retreival of fuel station
+    details. Note: Only participants of the closed-alpha group can get
+    access from HERE to use this feature, otherwise, a
+    SearchError.FORBIDDEN will be propagated in callbacks. name =
+    "lookup.show" or "discover.show" or "browse.show", value = "ev"
+    enables retreival of EV charging station details. name =
     "lookup.show" or "discover.show" or "browse.show", value =
     "eMobilityServiceProviders" enables retreival of e-Mobility Service
     Providers details. name = "lookup.show" or "discover.show" or
@@ -1159,27 +1188,29 @@ may be useful for debug purposes.
     no error reported. This content is only added to top 10 search
     results. If more results are returned, they will be missing rich
     TripAdvisor content. name = "lookup.datasets" or "discover.datasets"
-    or "browse.datasets" or "autosuggest.datasets", value = enables
-    ingesting and searching of private POIs. Note: Only participants of
-    the search customization can get access from HERE to use this
-    feature, otherwise, a SearchError.INVALID_CUSTOM_OPTION_FORMAT will
-    be propagated in callbacks. name = "discover.ranking" or
-    "browse.ranking", value = "excursionDistance" enables balanced
-    distribution of results for search in GeoCorridor . Constraint:
-    using this parameter when searching an area that is not a
-    GeoCorridor generates an error SearchError.BAD_REQUEST . Note: It is
-    recommended to use SearchOptions.distributedResults instead. For a
-    complete list of available endpoints, parameter names and their
-    valid values, refer to HERE Geocoding & Search API v7 . Note: It's
-    easy to set a wrong option that makes queries invalid, so make sure
-    you read and understand the backend documentation.
+    or "browse.datasets" or "autosuggest.datasets", value =
+    \<your_dataset_hrn\> enables ingesting and searching of private
+    POIs. Note: Only participants of the search customization can get
+    access from HERE to use this feature, otherwise, a
+    SearchError.INVALID_CUSTOM_OPTION_FORMAT will be propagated in
+    callbacks. name = "discover.ranking" or "browse.ranking", value =
+    "excursionDistance" enables balanced distribution of results for
+    search in GeoCorridor . Constraint: using this parameter when
+    searching an area that is not a GeoCorridor generates an error
+    SearchError.BAD_REQUEST . Note: It is recommended to use
+    SearchOptions.distributedResults instead. For a complete list of
+    available endpoints, parameter names and their valid values, refer
+    to HERE Geocoding & Search API v7 . Note: It's easy to set a wrong
+    option that makes queries invalid, so make sure you read and
+    understand the backend documentation.
 
     </div>
 
     Parameters:  
     `name` -
 
-    Option name in the format ., for example "discover.show".
+    Option name in the format \<endpoint_name\>.\<option_name\>, for
+    example "discover.show".
 
     `value` -
 
@@ -1189,7 +1220,8 @@ may be useful for debug purposes.
     Error in case when setting the option fails.
 
     </div>
-<div id="sdk-for-android-explore-setEVInterface(com.here.sdk.search.EVSearchInterface)"
+
+  - <div id="sdk-for-android-explore-setEVInterface-com-here-sdk-search-EVSearchInterface"
     class="section detail">
 
     ### setEVInterface
@@ -1216,7 +1248,8 @@ may be useful for debug purposes.
     The EV search interface implementation.
 
     </div>
-<div id="sdk-for-android-explore-searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByText-com-here-sdk-search-TextQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### searchByText
@@ -1262,7 +1295,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByAddress-com-here-sdk-search-AddressQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### searchByAddress
@@ -1311,7 +1345,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCategory-com-here-sdk-search-CategoryQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### searchByCategory
@@ -1357,7 +1392,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCoordinates-com-here-sdk-core-GeoCoordinates-com-here-sdk-search-SearchOptions-com-here-sdk-search-SearchCallback"
     class="section detail">
 
     ### searchByCoordinates
@@ -1406,7 +1442,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPlaceId-com-here-sdk-search-PlaceIdQuery-com-here-sdk-core-LanguageCode-com-here-sdk-search-PlaceIdSearchCallback"
     class="section detail">
 
     ### searchByPlaceId
@@ -1453,7 +1490,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPickedPlace-com-here-sdk-core-PickedPlace-com-here-sdk-core-LanguageCode-com-here-sdk-search-PlaceIdSearchCallback"
     class="section detail">
 
     ### searchByPickedPlace
@@ -1506,7 +1544,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)"
+
+  - <div id="sdk-for-android-explore-suggestByText-com-here-sdk-search-TextQuery-com-here-sdk-search-SearchOptions-com-here-sdk-search-SuggestCallback"
     class="section detail">
 
     ### suggestByText
@@ -1557,6 +1596,4 @@ may be useful for debug purposes.
     </div>
 
   </div>
-
-</div>
 

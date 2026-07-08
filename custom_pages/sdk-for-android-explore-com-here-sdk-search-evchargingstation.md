@@ -3,15 +3,20 @@ title: "EVChargingStation (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-evchargingstation"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.search.EVChargingStation
+java.lang.Object com.here.sdk.search.EVChargingStation →
+com.here.sdk.search.EVChargingStation
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">EVChargingStation</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -39,8 +46,7 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -71,13 +77,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#availableConnectorCount" class="member-name-link"><code>availableConnectorCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#availableConnectorCount"
+  class="member-name-link"><code>availableConnectorCount</code></a>
 
   </div>
 
@@ -93,13 +104,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#chargingMode" class="member-name-link"><code>chargingMode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#chargingMode"
+  class="member-name-link"><code>chargingMode</code></a>
 
   </div>
 
@@ -115,13 +131,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorCount" class="member-name-link"><code>connectorCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorCount"
+  class="member-name-link"><code>connectorCount</code></a>
 
   </div>
 
@@ -137,13 +158,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorTypeId" class="member-name-link"><code>connectorTypeId</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorTypeId"
+  class="member-name-link"><code>connectorTypeId</code></a>
 
   </div>
 
@@ -159,13 +185,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorTypeName" class="member-name-link"><code>connectorTypeName</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#connectorTypeName"
+  class="member-name-link"><code>connectorTypeName</code></a>
 
   </div>
 
@@ -181,13 +212,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#currentRangeInAmperes" class="member-name-link"><code>currentRangeInAmperes</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#currentRangeInAmperes"
+  class="member-name-link"><code>currentRangeInAmperes</code></a>
 
   </div>
 
@@ -203,13 +239,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" class="external-link" title="class or interface in java.lang"><code>Boolean</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Boolean</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#hasFixedCable" class="member-name-link"><code>hasFixedCable</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#hasFixedCable"
+  class="member-name-link"><code>hasFixedCable</code></a>
 
   </div>
 
@@ -226,13 +267,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#lastUpdated" class="member-name-link"><code>lastUpdated</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#lastUpdated"
+  class="member-name-link"><code>lastUpdated</code></a>
 
   </div>
 
@@ -249,13 +295,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#maxPowerInKilowatts" class="member-name-link"><code>maxPowerInKilowatts</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#maxPowerInKilowatts"
+  class="member-name-link"><code>maxPowerInKilowatts</code></a>
 
   </div>
 
@@ -271,13 +322,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#occupiedConnectorCount" class="member-name-link"><code>occupiedConnectorCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#occupiedConnectorCount"
+  class="member-name-link"><code>occupiedConnectorCount</code></a>
 
   </div>
 
@@ -293,13 +349,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#outOfServiceConnectorCount" class="member-name-link"><code>outOfServiceConnectorCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#outOfServiceConnectorCount"
+  class="member-name-link"><code>outOfServiceConnectorCount</code></a>
 
   </div>
 
@@ -316,13 +377,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#phaseCount" class="member-name-link"><code>phaseCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#phaseCount"
+  class="member-name-link"><code>phaseCount</code></a>
 
   </div>
 
@@ -338,13 +404,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#physicalReference" class="member-name-link"><code>physicalReference</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#physicalReference"
+  class="member-name-link"><code>physicalReference</code></a>
 
   </div>
 
@@ -360,13 +431,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#powerFeedTypeId" class="member-name-link"><code>powerFeedTypeId</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#powerFeedTypeId"
+  class="member-name-link"><code>powerFeedTypeId</code></a>
 
   </div>
 
@@ -383,13 +459,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#powerFeedTypeName" class="member-name-link"><code>powerFeedTypeName</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#powerFeedTypeName"
+  class="member-name-link"><code>powerFeedTypeName</code></a>
 
   </div>
 
@@ -406,13 +487,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#reservedConnectorCount" class="member-name-link"><code>reservedConnectorCount</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#reservedConnectorCount"
+  class="member-name-link"><code>reservedConnectorCount</code></a>
 
   </div>
 
@@ -429,13 +515,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#supplierName" class="member-name-link"><code>supplierName</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#supplierName"
+  class="member-name-link"><code>supplierName</code></a>
 
   </div>
 
@@ -451,13 +542,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#voltageRangeInVolts" class="member-name-link"><code>voltageRangeInVolts</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingstation#voltageRangeInVolts"
+  class="member-name-link"><code>voltageRangeInVolts</code></a>
 
   </div>
 
@@ -475,7 +571,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -500,7 +597,7 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-constructor-name even-row-color">
 
-      EVChargingStation()
+      EVChargingStation ()
 
   </div>
 
@@ -517,7 +614,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -550,7 +648,7 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -568,7 +666,7 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -584,20 +682,49 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-supplierName"
+
+  - <div id="sdk-for-android-explore-supplierName"
     class="section detail">
 
     ### supplierName
@@ -605,7 +732,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">supplierName</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">supplierName</span>
 
     </div>
 
@@ -618,7 +747,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorTypeName"
+
+  - <div id="sdk-for-android-explore-connectorTypeName"
     class="section detail">
 
     ### connectorTypeName
@@ -626,7 +756,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorTypeName</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorTypeName</span>
 
     </div>
 
@@ -641,7 +773,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorTypeId"
+
+  - <div id="sdk-for-android-explore-connectorTypeId"
     class="section detail">
 
     ### connectorTypeId
@@ -649,7 +782,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorTypeId</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorTypeId</span>
 
     </div>
 
@@ -665,7 +800,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-powerFeedTypeName"
+
+  - <div id="sdk-for-android-explore-powerFeedTypeName"
     class="section detail">
 
     ### powerFeedTypeName
@@ -673,7 +809,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">powerFeedTypeName</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">powerFeedTypeName</span>
 
     </div>
 
@@ -690,7 +828,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-powerFeedTypeId"
+
+  - <div id="sdk-for-android-explore-powerFeedTypeId"
     class="section detail">
 
     ### powerFeedTypeId
@@ -698,7 +837,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">powerFeedTypeId</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">powerFeedTypeId</span>
 
     </div>
 
@@ -713,7 +854,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxPowerInKilowatts"
+
+  - <div id="sdk-for-android-explore-maxPowerInKilowatts"
     class="section detail">
 
     ### maxPowerInKilowatts
@@ -721,7 +863,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxPowerInKilowatts</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxPowerInKilowatts</span>
 
     </div>
 
@@ -733,7 +877,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorCount"
+
+  - <div id="sdk-for-android-explore-connectorCount"
     class="section detail">
 
     ### connectorCount
@@ -741,7 +886,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">connectorCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">connectorCount</span>
 
     </div>
 
@@ -753,7 +901,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-availableConnectorCount"
+
+  - <div id="sdk-for-android-explore-availableConnectorCount"
     class="section detail">
 
     ### availableConnectorCount
@@ -761,7 +910,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">availableConnectorCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">availableConnectorCount</span>
 
     </div>
 
@@ -775,7 +927,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-occupiedConnectorCount"
+
+  - <div id="sdk-for-android-explore-occupiedConnectorCount"
     class="section detail">
 
     ### occupiedConnectorCount
@@ -783,7 +936,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">occupiedConnectorCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">occupiedConnectorCount</span>
 
     </div>
 
@@ -797,7 +953,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-outOfServiceConnectorCount"
+
+  - <div id="sdk-for-android-explore-outOfServiceConnectorCount"
     class="section detail">
 
     ### outOfServiceConnectorCount
@@ -805,7 +962,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">outOfServiceConnectorCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">outOfServiceConnectorCount</span>
 
     </div>
 
@@ -819,7 +979,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-reservedConnectorCount"
+
+  - <div id="sdk-for-android-explore-reservedConnectorCount"
     class="section detail">
 
     ### reservedConnectorCount
@@ -827,7 +988,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">reservedConnectorCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">reservedConnectorCount</span>
 
     </div>
 
@@ -841,7 +1005,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-lastUpdated"
+
+  - <div id="sdk-for-android-explore-lastUpdated"
     class="section detail">
 
     ### lastUpdated
@@ -849,7 +1014,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">lastUpdated</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">lastUpdated</span>
 
     </div>
 
@@ -863,7 +1030,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-chargingMode"
+
+  - <div id="sdk-for-android-explore-chargingMode"
     class="section detail">
 
     ### chargingMode
@@ -871,7 +1039,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">chargingMode</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">chargingMode</span>
 
     </div>
 
@@ -884,7 +1054,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-voltageRangeInVolts"
+
+  - <div id="sdk-for-android-explore-voltageRangeInVolts"
     class="section detail">
 
     ### voltageRangeInVolts
@@ -892,7 +1063,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">voltageRangeInVolts</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">voltageRangeInVolts</span>
 
     </div>
 
@@ -906,7 +1079,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-currentRangeInAmperes"
+
+  - <div id="sdk-for-android-explore-currentRangeInAmperes"
     class="section detail">
 
     ### currentRangeInAmperes
@@ -914,7 +1088,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">currentRangeInAmperes</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">currentRangeInAmperes</span>
 
     </div>
 
@@ -928,14 +1104,18 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-phaseCount" class="section detail">
+
+  - <div id="sdk-for-android-explore-phaseCount" class="section detail">
 
     ### phaseCount
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">phaseCount</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">phaseCount</span>
 
     </div>
 
@@ -947,7 +1127,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-hasFixedCable"
+
+  - <div id="sdk-for-android-explore-hasFixedCable"
     class="section detail">
 
     ### hasFixedCable
@@ -955,7 +1136,10 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" class="external-link" title="class or interface in java.lang">Boolean</a></span> <span class="element-name">hasFixedCable</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
+    class="external-link"
+    title="class or interface in java.lang">Boolean</a></span> <span class="element-name">hasFixedCable</span>
 
     </div>
 
@@ -968,7 +1152,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-physicalReference"
+
+  - <div id="sdk-for-android-explore-physicalReference"
     class="section detail">
 
     ### physicalReference
@@ -976,7 +1161,9 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">physicalReference</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">physicalReference</span>
 
     </div>
 
@@ -991,9 +1178,11 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### EVChargingStation
 
@@ -1012,25 +1201,36 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -1041,12 +1241,16 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

@@ -3,16 +3,21 @@ title: "PlaceCategory (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.search.PlaceCategory
-→ com.here.NativeBase → com.here.sdk.search.PlaceCategory
+java.lang.Object com.here.NativeBase com.here.sdk.search.PlaceCategory →
+com.here.NativeBase com.here.sdk.search.PlaceCategory →
+com.here.sdk.search.PlaceCategory
 
 </div>
 
@@ -37,8 +42,7 @@ This class also defines a set of most commonly used categories.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -69,13 +73,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION" class="member-name-link"><code>ACCOMMODATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION"
+  class="member-name-link"><code>ACCOMMODATION</code></a>
 
   </div>
 
@@ -93,13 +102,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL" class="member-name-link"><code>ACCOMMODATION_HOTEL_MOTEL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL"
+  class="member-name-link"><code>ACCOMMODATION_HOTEL_MOTEL</code></a>
 
   </div>
 
@@ -115,13 +129,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING" class="member-name-link"><code>ACCOMMODATION_LODGING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING"
+  class="member-name-link"><code>ACCOMMODATION_LODGING</code></a>
 
   </div>
 
@@ -138,13 +157,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS" class="member-name-link"><code>AREAS_AND_BUILDINGS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS</code></a>
 
   </div>
 
@@ -161,13 +185,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX" class="member-name-link"><code>AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</code></a>
 
   </div>
 
@@ -184,13 +213,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE" class="member-name-link"><code>AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
+  class="member-name-link"><code>AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</code></a>
 
   </div>
 
@@ -206,13 +240,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES" class="member-name-link"><code>BUSINESS_AND_COMMERCIAL_SERVICES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_COMMERCIAL_SERVICES</code></a>
 
   </div>
 
@@ -229,13 +268,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES" class="member-name-link"><code>BUSINESS_AND_CONSUMER_SERVICES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_CONSUMER_SERVICES</code></a>
 
   </div>
 
@@ -252,13 +296,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES" class="member-name-link"><code>BUSINESS_AND_SERVICES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES</code></a>
 
   </div>
 
@@ -276,13 +325,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM" class="member-name-link"><code>BUSINESS_AND_SERVICES_ATM</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_ATM</code></a>
 
   </div>
 
@@ -299,13 +353,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING" class="member-name-link"><code>BUSINESS_AND_SERVICES_BANKING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_BANKING</code></a>
 
   </div>
 
@@ -322,13 +381,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES" class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_DEALER_SALES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_DEALER_SALES</code></a>
 
   </div>
 
@@ -344,13 +408,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL" class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_RENTAL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_RENTAL</code></a>
 
   </div>
 
@@ -366,13 +435,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES" class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</code></a>
 
   </div>
 
@@ -388,13 +462,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA" class="member-name-link"><code>BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</code></a>
 
   </div>
 
@@ -410,13 +489,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION" class="member-name-link"><code>BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a>
 
   </div>
 
@@ -432,13 +516,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION" class="member-name-link"><code>BUSINESS_AND_SERVICES_FUELING_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_FUELING_STATION</code></a>
 
   </div>
 
@@ -455,13 +544,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY" class="member-name-link"><code>BUSINESS_AND_SERVICES_INDUSTRY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_INDUSTRY</code></a>
 
   </div>
 
@@ -478,13 +572,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH" class="member-name-link"><code>BUSINESS_AND_SERVICES_MONEY_CASH</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_MONEY_CASH</code></a>
 
   </div>
 
@@ -500,13 +599,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION" class="member-name-link"><code>BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a>
 
   </div>
 
@@ -522,13 +626,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY" class="member-name-link"><code>BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</code></a>
 
   </div>
 
@@ -544,13 +653,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE" class="member-name-link"><code>BUSINESS_AND_SERVICES_POST_OFFICE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_POST_OFFICE</code></a>
 
   </div>
 
@@ -567,13 +681,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION" class="member-name-link"><code>BUSINESS_AND_SERVICES_TOURIST_INFORMATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_TOURIST_INFORMATION</code></a>
 
   </div>
 
@@ -591,13 +710,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER" class="member-name-link"><code>BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
+  class="member-name-link"><code>BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</code></a>
 
   </div>
 
@@ -613,13 +737,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK" class="member-name-link"><code>EAT_AND_DRINK</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK"
+  class="member-name-link"><code>EAT_AND_DRINK</code></a>
 
   </div>
 
@@ -636,13 +765,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA" class="member-name-link"><code>EAT_AND_DRINK_COFFEE_TEA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA"
+  class="member-name-link"><code>EAT_AND_DRINK_COFFEE_TEA</code></a>
 
   </div>
 
@@ -659,13 +793,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT" class="member-name-link"><code>EAT_AND_DRINK_RESTAURANT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT"
+  class="member-name-link"><code>EAT_AND_DRINK_RESTAURANT</code></a>
 
   </div>
 
@@ -682,13 +821,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES" class="member-name-link"><code>FACILITIES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES"
+  class="member-name-link"><code>FACILITIES</code></a>
 
   </div>
 
@@ -706,13 +850,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION" class="member-name-link"><code>FACILITIES_EDUCATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION"
+  class="member-name-link"><code>FACILITIES_EDUCATION</code></a>
 
   </div>
 
@@ -729,13 +878,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES" class="member-name-link"><code>FACILITIES_EVENT_SPACES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES"
+  class="member-name-link"><code>FACILITIES_EVENT_SPACES</code></a>
 
   </div>
 
@@ -751,13 +905,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY" class="member-name-link"><code>FACILITIES_GOVERNMENT_COMMUNITTY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY"
+  class="member-name-link"><code>FACILITIES_GOVERNMENT_COMMUNITTY</code></a>
 
   </div>
 
@@ -773,13 +932,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE" class="member-name-link"><code>FACILITIES_HOSPITAL_HEALTHCARE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE"
+  class="member-name-link"><code>FACILITIES_HOSPITAL_HEALTHCARE</code></a>
 
   </div>
 
@@ -796,13 +960,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY" class="member-name-link"><code>FACILITIES_LIBRARY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY"
+  class="member-name-link"><code>FACILITIES_LIBRARY</code></a>
 
   </div>
 
@@ -819,13 +988,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER" class="member-name-link"><code>FACILITIES_OTHER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER"
+  class="member-name-link"><code>FACILITIES_OTHER</code></a>
 
   </div>
 
@@ -842,13 +1016,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING" class="member-name-link"><code>FACILITIES_PARKING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING"
+  class="member-name-link"><code>FACILITIES_PARKING</code></a>
 
   </div>
 
@@ -864,13 +1043,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL" class="member-name-link"><code>FACILITIES_SCHOOL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL"
+  class="member-name-link"><code>FACILITIES_SCHOOL</code></a>
 
   </div>
 
@@ -887,13 +1071,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS" class="member-name-link"><code>FACILITIES_VENUE_SPORTS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS"
+  class="member-name-link"><code>FACILITIES_VENUE_SPORTS</code></a>
 
   </div>
 
@@ -910,13 +1099,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA" class="member-name-link"><code>GOING_OUT_CINEMA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA"
+  class="member-name-link"><code>GOING_OUT_CINEMA</code></a>
 
   </div>
 
@@ -932,13 +1126,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT" class="member-name-link"><code>GOING_OUT_ENTERTAINMENT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT"
+  class="member-name-link"><code>GOING_OUT_ENTERTAINMENT</code></a>
 
   </div>
 
@@ -955,13 +1154,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING" class="member-name-link"><code>GOING_OUT_GAMBLING_LOTTERY_BETTING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING"
+  class="member-name-link"><code>GOING_OUT_GAMBLING_LOTTERY_BETTING</code></a>
 
   </div>
 
@@ -977,13 +1181,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE" class="member-name-link"><code>GOING_OUT_NIGHTLIFE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE"
+  class="member-name-link"><code>GOING_OUT_NIGHTLIFE</code></a>
 
   </div>
 
@@ -1000,13 +1209,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE" class="member-name-link"><code>GOING_OUT_THEATRE_MUSIC_CULTURE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE"
+  class="member-name-link"><code>GOING_OUT_THEATRE_MUSIC_CULTURE</code></a>
 
   </div>
 
@@ -1022,13 +1236,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR" class="member-name-link"><code>LEISURE_AND_OUTDOOR</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR"
+  class="member-name-link"><code>LEISURE_AND_OUTDOOR</code></a>
 
   </div>
 
@@ -1045,13 +1264,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER" class="member-name-link"><code>LEISURE_OTHER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER"
+  class="member-name-link"><code>LEISURE_OTHER</code></a>
 
   </div>
 
@@ -1068,13 +1292,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION" class="member-name-link"><code>LEISURE_OUTDOOR_RECREATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION"
+  class="member-name-link"><code>LEISURE_OUTDOOR_RECREATION</code></a>
 
   </div>
 
@@ -1090,13 +1319,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL</code></a>
 
   </div>
 
@@ -1114,13 +1348,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</code></a>
 
   </div>
 
@@ -1137,13 +1376,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</code></a>
 
   </div>
 
@@ -1160,13 +1404,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</code></a>
 
   </div>
 
@@ -1183,13 +1432,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_OTHER</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_OTHER</code></a>
 
   </div>
 
@@ -1206,13 +1460,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE" class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
+  class="member-name-link"><code>NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</code></a>
 
   </div>
 
@@ -1228,13 +1487,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING" class="member-name-link"><code>SHOPPING</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING"
+  class="member-name-link"><code>SHOPPING</code></a>
 
   </div>
 
@@ -1252,13 +1516,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE" class="member-name-link"><code>SHOPPING_BOOKSTORE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE"
+  class="member-name-link"><code>SHOPPING_BOOKSTORE</code></a>
 
   </div>
 
@@ -1274,13 +1543,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES" class="member-name-link"><code>SHOPPING_CLOTHING_AND_ACCESORIES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES"
+  class="member-name-link"><code>SHOPPING_CLOTHING_AND_ACCESORIES</code></a>
 
   </div>
 
@@ -1297,13 +1571,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS" class="member-name-link"><code>SHOPPING_CONSUMER_GOODS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS"
+  class="member-name-link"><code>SHOPPING_CONSUMER_GOODS</code></a>
 
   </div>
 
@@ -1319,13 +1598,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE" class="member-name-link"><code>SHOPPING_CONVENIENCE_STORE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE"
+  class="member-name-link"><code>SHOPPING_CONVENIENCE_STORE</code></a>
 
   </div>
 
@@ -1342,13 +1626,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE" class="member-name-link"><code>SHOPPING_DEPARTMENT_STORE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE"
+  class="member-name-link"><code>SHOPPING_DEPARTMENT_STORE</code></a>
 
   </div>
 
@@ -1365,13 +1654,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY" class="member-name-link"><code>SHOPPING_DRUGSTORE_PHARMACY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY"
+  class="member-name-link"><code>SHOPPING_DRUGSTORE_PHARMACY</code></a>
 
   </div>
 
@@ -1388,13 +1682,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS" class="member-name-link"><code>SHOPPING_ELECTRONICS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS"
+  class="member-name-link"><code>SHOPPING_ELECTRONICS</code></a>
 
   </div>
 
@@ -1411,13 +1710,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK" class="member-name-link"><code>SHOPPING_FOOD_AND_DRINK</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK"
+  class="member-name-link"><code>SHOPPING_FOOD_AND_DRINK</code></a>
 
   </div>
 
@@ -1434,13 +1738,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY" class="member-name-link"><code>SHOPPING_HAIR_AND_BEAUTY</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY"
+  class="member-name-link"><code>SHOPPING_HAIR_AND_BEAUTY</code></a>
 
   </div>
 
@@ -1457,13 +1766,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN" class="member-name-link"><code>SHOPPING_HARDWARE_HOUSE_GARDEN</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN"
+  class="member-name-link"><code>SHOPPING_HARDWARE_HOUSE_GARDEN</code></a>
 
   </div>
 
@@ -1480,13 +1794,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX" class="member-name-link"><code>SHOPPING_MALL_COMPLEX</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX"
+  class="member-name-link"><code>SHOPPING_MALL_COMPLEX</code></a>
 
   </div>
 
@@ -1502,13 +1821,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS" class="member-name-link"><code>SIGHTS_AND_MUSEUMS</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS"
+  class="member-name-link"><code>SIGHTS_AND_MUSEUMS</code></a>
 
   </div>
 
@@ -1525,13 +1849,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION" class="member-name-link"><code>SIGHTS_LANDMARK_ATTRACTION</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION"
+  class="member-name-link"><code>SIGHTS_LANDMARK_ATTRACTION</code></a>
 
   </div>
 
@@ -1547,13 +1876,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM" class="member-name-link"><code>SIGHTS_MUSEUM</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM"
+  class="member-name-link"><code>SIGHTS_MUSEUM</code></a>
 
   </div>
 
@@ -1570,13 +1904,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE" class="member-name-link"><code>SIGHTS_RELIGIOUS_PLACE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE"
+  class="member-name-link"><code>SIGHTS_RELIGIOUS_PLACE</code></a>
 
   </div>
 
@@ -1593,13 +1932,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT" class="member-name-link"><code>TRANSPORT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT"
+  class="member-name-link"><code>TRANSPORT</code></a>
 
   </div>
 
@@ -1617,13 +1961,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT" class="member-name-link"><code>TRANSPORT_AIRPORT</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT"
+  class="member-name-link"><code>TRANSPORT_AIRPORT</code></a>
 
   </div>
 
@@ -1640,13 +1989,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO" class="member-name-link"><code>TRANSPORT_CARGO</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO"
+  class="member-name-link"><code>TRANSPORT_CARGO</code></a>
 
   </div>
 
@@ -1663,13 +2017,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC" class="member-name-link"><code>TRANSPORT_PUBLIC</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC"
+  class="member-name-link"><code>TRANSPORT_PUBLIC</code></a>
 
   </div>
 
@@ -1686,13 +2045,18 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA" class="member-name-link"><code>TRANSPORT_REST_AREA</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA"
+  class="member-name-link"><code>TRANSPORT_REST_AREA</code></a>
 
   </div>
 
@@ -1710,7 +2074,8 @@ This class also defines a set of most commonly used categories.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -1735,7 +2100,7 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-constructor-name even-row-color">
 
-      PlaceCategory(String id)
+      PlaceCategory ( String id)
 
   </div>
 
@@ -1752,7 +2117,8 @@ This class also defines a set of most commonly used categories.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1779,13 +2145,16 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getId()
+      getId ()
 
   </div>
 
@@ -1801,13 +2170,16 @@ This class also defines a set of most commonly used categories.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getName()
+      getName ()
 
   </div>
 
@@ -1827,20 +2199,55 @@ This class also defines a set of most commonly used categories.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-EAT_AND_DRINK"
+
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK"
     class="section detail">
 
     ### EAT_AND_DRINK
@@ -1848,7 +2255,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK</span>
 
     </div>
 
@@ -1864,7 +2273,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK)
 
     </div>
-<div id="sdk-for-android-explore-EAT_AND_DRINK_RESTAURANT"
+
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK_RESTAURANT"
     class="section detail">
 
     ### EAT_AND_DRINK_RESTAURANT
@@ -1872,7 +2282,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK_RESTAURANT</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK_RESTAURANT</span>
 
     </div>
 
@@ -1888,7 +2300,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT)
 
     </div>
-<div id="sdk-for-android-explore-EAT_AND_DRINK_COFFEE_TEA"
+
+  - <div id="sdk-for-android-explore-EAT_AND_DRINK_COFFEE_TEA"
     class="section detail">
 
     ### EAT_AND_DRINK_COFFEE_TEA
@@ -1896,7 +2309,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK_COFFEE_TEA</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EAT_AND_DRINK_COFFEE_TEA</span>
 
     </div>
 
@@ -1912,7 +2327,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA)
 
     </div>
-<div id="sdk-for-android-explore-GOING_OUT_ENTERTAINMENT"
+
+  - <div id="sdk-for-android-explore-GOING_OUT_ENTERTAINMENT"
     class="section detail">
 
     ### GOING_OUT_ENTERTAINMENT
@@ -1920,7 +2336,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_ENTERTAINMENT</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_ENTERTAINMENT</span>
 
     </div>
 
@@ -1937,7 +2355,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT)
 
     </div>
-<div id="sdk-for-android-explore-GOING_OUT_NIGHTLIFE"
+
+  - <div id="sdk-for-android-explore-GOING_OUT_NIGHTLIFE"
     class="section detail">
 
     ### GOING_OUT_NIGHTLIFE
@@ -1945,7 +2364,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_NIGHTLIFE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_NIGHTLIFE</span>
 
     </div>
 
@@ -1961,7 +2382,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE)
 
     </div>
-<div id="sdk-for-android-explore-GOING_OUT_CINEMA"
+
+  - <div id="sdk-for-android-explore-GOING_OUT_CINEMA"
     class="section detail">
 
     ### GOING_OUT_CINEMA
@@ -1969,7 +2391,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_CINEMA</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_CINEMA</span>
 
     </div>
 
@@ -1984,7 +2408,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA)
 
     </div>
-<div id="sdk-for-android-explore-GOING_OUT_THEATRE_MUSIC_CULTURE"
+
+  - <div id="sdk-for-android-explore-GOING_OUT_THEATRE_MUSIC_CULTURE"
     class="section detail">
 
     ### GOING_OUT_THEATRE_MUSIC_CULTURE
@@ -1992,7 +2417,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_THEATRE_MUSIC_CULTURE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_THEATRE_MUSIC_CULTURE</span>
 
     </div>
 
@@ -2008,7 +2435,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE)
 
     </div>
-<div id="sdk-for-android-explore-GOING_OUT_GAMBLING_LOTTERY_BETTING"
+
+  - <div id="sdk-for-android-explore-GOING_OUT_GAMBLING_LOTTERY_BETTING"
     class="section detail">
 
     ### GOING_OUT_GAMBLING_LOTTERY_BETTING
@@ -2016,7 +2444,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_GAMBLING_LOTTERY_BETTING</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GOING_OUT_GAMBLING_LOTTERY_BETTING</span>
 
     </div>
 
@@ -2031,7 +2461,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING)
 
     </div>
-<div id="sdk-for-android-explore-SIGHTS_AND_MUSEUMS"
+
+  - <div id="sdk-for-android-explore-SIGHTS_AND_MUSEUMS"
     class="section detail">
 
     ### SIGHTS_AND_MUSEUMS
@@ -2039,7 +2470,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_AND_MUSEUMS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_AND_MUSEUMS</span>
 
     </div>
 
@@ -2055,7 +2488,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS)
 
     </div>
-<div id="sdk-for-android-explore-SIGHTS_LANDMARK_ATTRACTION"
+
+  - <div id="sdk-for-android-explore-SIGHTS_LANDMARK_ATTRACTION"
     class="section detail">
 
     ### SIGHTS_LANDMARK_ATTRACTION
@@ -2063,7 +2497,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_LANDMARK_ATTRACTION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_LANDMARK_ATTRACTION</span>
 
     </div>
 
@@ -2078,7 +2514,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION)
 
     </div>
-<div id="sdk-for-android-explore-SIGHTS_MUSEUM"
+
+  - <div id="sdk-for-android-explore-SIGHTS_MUSEUM"
     class="section detail">
 
     ### SIGHTS_MUSEUM
@@ -2086,7 +2523,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_MUSEUM</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_MUSEUM</span>
 
     </div>
 
@@ -2102,7 +2541,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM)
 
     </div>
-<div id="sdk-for-android-explore-SIGHTS_RELIGIOUS_PLACE"
+
+  - <div id="sdk-for-android-explore-SIGHTS_RELIGIOUS_PLACE"
     class="section detail">
 
     ### SIGHTS_RELIGIOUS_PLACE
@@ -2110,7 +2550,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_RELIGIOUS_PLACE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SIGHTS_RELIGIOUS_PLACE</span>
 
     </div>
 
@@ -2126,7 +2568,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL
@@ -2134,7 +2577,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL</span>
 
     </div>
 
@@ -2151,7 +2596,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER
@@ -2159,7 +2605,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER</span>
 
     </div>
 
@@ -2175,7 +2623,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL
@@ -2183,7 +2632,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL</span>
 
     </div>
 
@@ -2199,7 +2650,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE
@@ -2207,7 +2659,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE</span>
 
     </div>
 
@@ -2222,7 +2676,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION
@@ -2230,7 +2685,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION</span>
 
     </div>
 
@@ -2246,7 +2703,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION)
 
     </div>
-<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_OTHER"
+
+  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_OTHER"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_OTHER
@@ -2254,7 +2712,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_OTHER</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NATURAL_AND_GEOGRAPHICAL_OTHER</span>
 
     </div>
 
@@ -2270,14 +2730,17 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER)
 
     </div>
-<div id="sdk-for-android-explore-TRANSPORT" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRANSPORT" class="section detail">
 
     ### TRANSPORT
 
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT</span>
 
     </div>
 
@@ -2294,7 +2757,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT)
 
     </div>
-<div id="sdk-for-android-explore-TRANSPORT_AIRPORT"
+
+  - <div id="sdk-for-android-explore-TRANSPORT_AIRPORT"
     class="section detail">
 
     ### TRANSPORT_AIRPORT
@@ -2302,7 +2766,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_AIRPORT</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_AIRPORT</span>
 
     </div>
 
@@ -2319,7 +2785,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT)
 
     </div>
-<div id="sdk-for-android-explore-TRANSPORT_PUBLIC"
+
+  - <div id="sdk-for-android-explore-TRANSPORT_PUBLIC"
     class="section detail">
 
     ### TRANSPORT_PUBLIC
@@ -2327,7 +2794,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_PUBLIC</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_PUBLIC</span>
 
     </div>
 
@@ -2343,7 +2812,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC)
 
     </div>
-<div id="sdk-for-android-explore-TRANSPORT_CARGO"
+
+  - <div id="sdk-for-android-explore-TRANSPORT_CARGO"
     class="section detail">
 
     ### TRANSPORT_CARGO
@@ -2351,7 +2821,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_CARGO</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_CARGO</span>
 
     </div>
 
@@ -2367,7 +2839,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO)
 
     </div>
-<div id="sdk-for-android-explore-TRANSPORT_REST_AREA"
+
+  - <div id="sdk-for-android-explore-TRANSPORT_REST_AREA"
     class="section detail">
 
     ### TRANSPORT_REST_AREA
@@ -2375,7 +2848,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_REST_AREA</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRANSPORT_REST_AREA</span>
 
     </div>
 
@@ -2391,7 +2866,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA)
 
     </div>
-<div id="sdk-for-android-explore-ACCOMMODATION"
+
+  - <div id="sdk-for-android-explore-ACCOMMODATION"
     class="section detail">
 
     ### ACCOMMODATION
@@ -2399,7 +2875,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION</span>
 
     </div>
 
@@ -2416,7 +2894,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION)
 
     </div>
-<div id="sdk-for-android-explore-ACCOMMODATION_HOTEL_MOTEL"
+
+  - <div id="sdk-for-android-explore-ACCOMMODATION_HOTEL_MOTEL"
     class="section detail">
 
     ### ACCOMMODATION_HOTEL_MOTEL
@@ -2424,7 +2903,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION_HOTEL_MOTEL</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION_HOTEL_MOTEL</span>
 
     </div>
 
@@ -2439,7 +2920,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL)
 
     </div>
-<div id="sdk-for-android-explore-ACCOMMODATION_LODGING"
+
+  - <div id="sdk-for-android-explore-ACCOMMODATION_LODGING"
     class="section detail">
 
     ### ACCOMMODATION_LODGING
@@ -2447,7 +2929,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION_LODGING</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ACCOMMODATION_LODGING</span>
 
     </div>
 
@@ -2463,7 +2947,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING)
 
     </div>
-<div id="sdk-for-android-explore-LEISURE_AND_OUTDOOR"
+
+  - <div id="sdk-for-android-explore-LEISURE_AND_OUTDOOR"
     class="section detail">
 
     ### LEISURE_AND_OUTDOOR
@@ -2471,7 +2956,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_AND_OUTDOOR</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_AND_OUTDOOR</span>
 
     </div>
 
@@ -2488,7 +2975,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR)
 
     </div>
-<div id="sdk-for-android-explore-LEISURE_OUTDOOR_RECREATION"
+
+  - <div id="sdk-for-android-explore-LEISURE_OUTDOOR_RECREATION"
     class="section detail">
 
     ### LEISURE_OUTDOOR_RECREATION
@@ -2496,7 +2984,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_OUTDOOR_RECREATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_OUTDOOR_RECREATION</span>
 
     </div>
 
@@ -2511,7 +3001,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION)
 
     </div>
-<div id="sdk-for-android-explore-LEISURE_OTHER"
+
+  - <div id="sdk-for-android-explore-LEISURE_OTHER"
     class="section detail">
 
     ### LEISURE_OTHER
@@ -2519,7 +3010,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_OTHER</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LEISURE_OTHER</span>
 
     </div>
 
@@ -2535,14 +3028,17 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING" class="section detail">
+
+  - <div id="sdk-for-android-explore-SHOPPING" class="section detail">
 
     ### SHOPPING
 
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING</span>
 
     </div>
 
@@ -2559,7 +3055,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_CONVENIENCE_STORE"
+
+  - <div id="sdk-for-android-explore-SHOPPING_CONVENIENCE_STORE"
     class="section detail">
 
     ### SHOPPING_CONVENIENCE_STORE
@@ -2567,7 +3064,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CONVENIENCE_STORE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CONVENIENCE_STORE</span>
 
     </div>
 
@@ -2583,7 +3082,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_MALL_COMPLEX"
+
+  - <div id="sdk-for-android-explore-SHOPPING_MALL_COMPLEX"
     class="section detail">
 
     ### SHOPPING_MALL_COMPLEX
@@ -2591,7 +3091,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_MALL_COMPLEX</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_MALL_COMPLEX</span>
 
     </div>
 
@@ -2607,7 +3109,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_DEPARTMENT_STORE"
+
+  - <div id="sdk-for-android-explore-SHOPPING_DEPARTMENT_STORE"
     class="section detail">
 
     ### SHOPPING_DEPARTMENT_STORE
@@ -2615,7 +3118,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_DEPARTMENT_STORE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_DEPARTMENT_STORE</span>
 
     </div>
 
@@ -2631,7 +3136,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_FOOD_AND_DRINK"
+
+  - <div id="sdk-for-android-explore-SHOPPING_FOOD_AND_DRINK"
     class="section detail">
 
     ### SHOPPING_FOOD_AND_DRINK
@@ -2639,7 +3145,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_FOOD_AND_DRINK</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_FOOD_AND_DRINK</span>
 
     </div>
 
@@ -2655,7 +3163,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_DRUGSTORE_PHARMACY"
+
+  - <div id="sdk-for-android-explore-SHOPPING_DRUGSTORE_PHARMACY"
     class="section detail">
 
     ### SHOPPING_DRUGSTORE_PHARMACY
@@ -2663,7 +3172,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_DRUGSTORE_PHARMACY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_DRUGSTORE_PHARMACY</span>
 
     </div>
 
@@ -2679,7 +3190,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_ELECTRONICS"
+
+  - <div id="sdk-for-android-explore-SHOPPING_ELECTRONICS"
     class="section detail">
 
     ### SHOPPING_ELECTRONICS
@@ -2687,7 +3199,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_ELECTRONICS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_ELECTRONICS</span>
 
     </div>
 
@@ -2703,7 +3217,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_HARDWARE_HOUSE_GARDEN"
+
+  - <div id="sdk-for-android-explore-SHOPPING_HARDWARE_HOUSE_GARDEN"
     class="section detail">
 
     ### SHOPPING_HARDWARE_HOUSE_GARDEN
@@ -2711,7 +3226,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_HARDWARE_HOUSE_GARDEN</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_HARDWARE_HOUSE_GARDEN</span>
 
     </div>
 
@@ -2727,7 +3244,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_BOOKSTORE"
+
+  - <div id="sdk-for-android-explore-SHOPPING_BOOKSTORE"
     class="section detail">
 
     ### SHOPPING_BOOKSTORE
@@ -2735,7 +3253,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_BOOKSTORE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_BOOKSTORE</span>
 
     </div>
 
@@ -2750,7 +3270,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_CLOTHING_AND_ACCESORIES"
+
+  - <div id="sdk-for-android-explore-SHOPPING_CLOTHING_AND_ACCESORIES"
     class="section detail">
 
     ### SHOPPING_CLOTHING_AND_ACCESORIES
@@ -2758,7 +3279,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CLOTHING_AND_ACCESORIES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CLOTHING_AND_ACCESORIES</span>
 
     </div>
 
@@ -2774,7 +3297,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_CONSUMER_GOODS"
+
+  - <div id="sdk-for-android-explore-SHOPPING_CONSUMER_GOODS"
     class="section detail">
 
     ### SHOPPING_CONSUMER_GOODS
@@ -2782,7 +3306,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CONSUMER_GOODS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_CONSUMER_GOODS</span>
 
     </div>
 
@@ -2797,7 +3323,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS)
 
     </div>
-<div id="sdk-for-android-explore-SHOPPING_HAIR_AND_BEAUTY"
+
+  - <div id="sdk-for-android-explore-SHOPPING_HAIR_AND_BEAUTY"
     class="section detail">
 
     ### SHOPPING_HAIR_AND_BEAUTY
@@ -2805,7 +3332,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_HAIR_AND_BEAUTY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHOPPING_HAIR_AND_BEAUTY</span>
 
     </div>
 
@@ -2822,7 +3351,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES
@@ -2830,7 +3360,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES</span>
 
     </div>
 
@@ -2847,7 +3379,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_BANKING"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_BANKING"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_BANKING
@@ -2855,7 +3388,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_BANKING</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_BANKING</span>
 
     </div>
 
@@ -2871,7 +3406,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_ATM"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_ATM"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_ATM
@@ -2879,7 +3415,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_ATM</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_ATM</span>
 
     </div>
 
@@ -2895,7 +3433,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_MONEY_CASH"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_MONEY_CASH"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_MONEY_CASH
@@ -2903,7 +3442,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_MONEY_CASH</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_MONEY_CASH</span>
 
     </div>
 
@@ -2918,7 +3459,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA
@@ -2926,7 +3468,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA</span>
 
     </div>
 
@@ -2941,7 +3485,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_COMMERCIAL_SERVICES"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_COMMERCIAL_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_COMMERCIAL_SERVICES
@@ -2949,7 +3494,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_COMMERCIAL_SERVICES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_COMMERCIAL_SERVICES</span>
 
     </div>
 
@@ -2965,7 +3512,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_INDUSTRY"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_INDUSTRY"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_INDUSTRY
@@ -2973,7 +3521,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_INDUSTRY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_INDUSTRY</span>
 
     </div>
 
@@ -2989,7 +3539,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY
@@ -2997,7 +3548,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY</span>
 
     </div>
 
@@ -3012,7 +3565,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_CONSUMER_SERVICES"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_CONSUMER_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_CONSUMER_SERVICES
@@ -3020,7 +3574,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_CONSUMER_SERVICES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_CONSUMER_SERVICES</span>
 
     </div>
 
@@ -3036,7 +3592,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POST_OFFICE"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POST_OFFICE"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_POST_OFFICE
@@ -3044,7 +3601,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_POST_OFFICE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_POST_OFFICE</span>
 
     </div>
 
@@ -3060,7 +3619,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TOURIST_INFORMATION
@@ -3068,7 +3628,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_TOURIST_INFORMATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_TOURIST_INFORMATION</span>
 
     </div>
 
@@ -3085,7 +3647,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_FUELING_STATION"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_FUELING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_FUELING_STATION
@@ -3093,7 +3656,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_FUELING_STATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_FUELING_STATION</span>
 
     </div>
 
@@ -3109,7 +3674,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION
@@ -3117,7 +3683,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</span>
 
     </div>
 
@@ -3132,7 +3700,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_EV_CHARGING_STATION
@@ -3140,7 +3709,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_EV_CHARGING_STATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_EV_CHARGING_STATION</span>
 
     </div>
 
@@ -3155,7 +3726,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_DEALER_SALES
@@ -3163,7 +3735,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_DEALER_SALES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_DEALER_SALES</span>
 
     </div>
 
@@ -3178,7 +3752,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES
@@ -3186,7 +3761,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES</span>
 
     </div>
 
@@ -3201,7 +3778,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_RENTAL"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_RENTAL"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_RENTAL
@@ -3209,7 +3787,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_RENTAL</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_CAR_RENTAL</span>
 
     </div>
 
@@ -3224,7 +3804,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL)
 
     </div>
-<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
+
+  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER
@@ -3232,7 +3813,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER</span>
 
     </div>
 
@@ -3247,14 +3830,17 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES" class="section detail">
+
+  - <div id="sdk-for-android-explore-FACILITIES" class="section detail">
 
     ### FACILITIES
 
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES</span>
 
     </div>
 
@@ -3271,7 +3857,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_HOSPITAL_HEALTHCARE"
+
+  - <div id="sdk-for-android-explore-FACILITIES_HOSPITAL_HEALTHCARE"
     class="section detail">
 
     ### FACILITIES_HOSPITAL_HEALTHCARE
@@ -3279,7 +3866,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_HOSPITAL_HEALTHCARE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_HOSPITAL_HEALTHCARE</span>
 
     </div>
 
@@ -3295,7 +3884,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_GOVERNMENT_COMMUNITTY"
+
+  - <div id="sdk-for-android-explore-FACILITIES_GOVERNMENT_COMMUNITTY"
     class="section detail">
 
     ### FACILITIES_GOVERNMENT_COMMUNITTY
@@ -3303,7 +3893,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_GOVERNMENT_COMMUNITTY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_GOVERNMENT_COMMUNITTY</span>
 
     </div>
 
@@ -3318,7 +3910,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_EDUCATION"
+
+  - <div id="sdk-for-android-explore-FACILITIES_EDUCATION"
     class="section detail">
 
     ### FACILITIES_EDUCATION
@@ -3326,7 +3919,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_EDUCATION</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_EDUCATION</span>
 
     </div>
 
@@ -3342,7 +3937,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_SCHOOL"
+
+  - <div id="sdk-for-android-explore-FACILITIES_SCHOOL"
     class="section detail">
 
     ### FACILITIES_SCHOOL
@@ -3350,7 +3946,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_SCHOOL</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_SCHOOL</span>
 
     </div>
 
@@ -3366,7 +3964,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_LIBRARY"
+
+  - <div id="sdk-for-android-explore-FACILITIES_LIBRARY"
     class="section detail">
 
     ### FACILITIES_LIBRARY
@@ -3374,7 +3973,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_LIBRARY</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_LIBRARY</span>
 
     </div>
 
@@ -3390,7 +3991,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_EVENT_SPACES"
+
+  - <div id="sdk-for-android-explore-FACILITIES_EVENT_SPACES"
     class="section detail">
 
     ### FACILITIES_EVENT_SPACES
@@ -3398,7 +4000,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_EVENT_SPACES</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_EVENT_SPACES</span>
 
     </div>
 
@@ -3413,7 +4017,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_PARKING"
+
+  - <div id="sdk-for-android-explore-FACILITIES_PARKING"
     class="section detail">
 
     ### FACILITIES_PARKING
@@ -3421,7 +4026,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_PARKING</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_PARKING</span>
 
     </div>
 
@@ -3436,7 +4043,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_VENUE_SPORTS"
+
+  - <div id="sdk-for-android-explore-FACILITIES_VENUE_SPORTS"
     class="section detail">
 
     ### FACILITIES_VENUE_SPORTS
@@ -3444,7 +4052,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_VENUE_SPORTS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_VENUE_SPORTS</span>
 
     </div>
 
@@ -3460,7 +4070,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS)
 
     </div>
-<div id="sdk-for-android-explore-FACILITIES_OTHER"
+
+  - <div id="sdk-for-android-explore-FACILITIES_OTHER"
     class="section detail">
 
     ### FACILITIES_OTHER
@@ -3468,7 +4079,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_OTHER</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FACILITIES_OTHER</span>
 
     </div>
 
@@ -3484,7 +4097,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER)
 
     </div>
-<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS"
+
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS
@@ -3492,7 +4106,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS</span>
 
     </div>
 
@@ -3509,7 +4125,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS)
 
     </div>
-<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
+
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX
@@ -3517,7 +4134,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX</span>
 
     </div>
 
@@ -3533,7 +4152,8 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX)
 
     </div>
-<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
+
+  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE
@@ -3541,7 +4161,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</span>
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE</span>
 
     </div>
 
@@ -3558,9 +4180,11 @@ This class also defines a set of most commonly used categories.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-init-java-lang-String"
     class="section detail">
 
     ### PlaceCategory
@@ -3568,7 +4192,9 @@ This class also defines a set of most commonly used categories.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">PlaceCategory</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> id)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> id)</span>
 
     </div>
 
@@ -3604,16 +4230,20 @@ This class also defines a set of most commonly used categories.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getId()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getId" class="section detail">
 
     ### getId
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
 
     </div>
 
@@ -3627,14 +4257,17 @@ This class also defines a set of most commonly used categories.
     Place category ID.
 
     </div>
-<div id="sdk-for-android-explore-getName()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getName" class="section detail">
 
     ### getName
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()
 
     </div>
 
@@ -3653,6 +4286,4 @@ This class also defines a set of most commonly used categories.
     </div>
 
   </div>
-
-</div>
 

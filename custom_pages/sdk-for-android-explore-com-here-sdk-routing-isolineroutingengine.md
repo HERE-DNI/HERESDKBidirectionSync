@@ -3,17 +3,22 @@ title: "IsolineRoutingEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.routing.IsolineRoutingEngine →
-com.here.NativeBase → com.here.sdk.routing.IsolineRoutingEngine
+java.lang.Object com.here.NativeBase
+com.here.sdk.routing.IsolineRoutingEngine → com.here.NativeBase
+com.here.sdk.routing.IsolineRoutingEngine →
+com.here.sdk.routing.IsolineRoutingEngine
 
 </div>
 
@@ -39,8 +44,7 @@ connection.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -65,7 +69,7 @@ connection.
 
   <div class="col-constructor-name even-row-color">
 
-      IsolineRoutingEngine()
+      IsolineRoutingEngine ()
 
   </div>
 
@@ -81,7 +85,7 @@ connection.
 
   <div class="col-constructor-name odd-row-color">
 
-      IsolineRoutingEngine(SDKNativeEngine sdkEngine)
+      IsolineRoutingEngine ( SDKNativeEngine sdkEngine)
 
   </div>
 
@@ -97,8 +101,7 @@ connection.
 
   <div class="col-constructor-name even-row-color">
 
-      IsolineRoutingEngine(SDKNativeEngine sdkEngine,
-       RoutingConnectionSettings connectionSettings)
+      IsolineRoutingEngine ( SDKNativeEngine sdkEngine, RoutingConnectionSettings connectionSettings)
 
   </div>
 
@@ -114,7 +117,7 @@ connection.
 
   <div class="col-constructor-name odd-row-color">
 
-      IsolineRoutingEngine(RoutingConnectionSettings connectionSettings)
+      IsolineRoutingEngine ( RoutingConnectionSettings connectionSettings)
 
   </div>
 
@@ -131,7 +134,8 @@ connection.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -164,9 +168,7 @@ connection.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      calculateIsoline(Waypoint center,
-       IsolineOptions isolineOptions,
-       CalculateIsolineCallback callback)
+      calculateIsoline ( Waypoint center, IsolineOptions isolineOptions, CalculateIsolineCallback callback)
 
   </div>
 
@@ -189,8 +191,7 @@ connection.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setCustomOption(String name,
-       String value)
+      setCustomOption ( String name, String value)
 
   </div>
 
@@ -210,20 +211,55 @@ connection.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### IsolineRoutingEngine
 
@@ -247,7 +283,8 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-RoutingConnectionSettings"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -278,7 +315,8 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine-com-here-sdk-routing-RoutingConnectionSettings"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -315,7 +353,8 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -348,9 +387,11 @@ connection.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)"
+
+  - <div id="sdk-for-android-explore-calculateIsoline-com-here-sdk-routing-Waypoint-com-here-sdk-routing-IsolineOptions-com-here-sdk-routing-CalculateIsolineCallback"
     class="section detail">
 
     ### calculateIsoline
@@ -397,7 +438,8 @@ connection.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setCustomOption-java-lang-String-java-lang-String"
     class="section detail">
 
     ### setCustomOption
@@ -406,8 +448,12 @@ connection.
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">setCustomOption</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name,
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -444,6 +490,4 @@ connection.
     </div>
 
   </div>
-
-</div>
 

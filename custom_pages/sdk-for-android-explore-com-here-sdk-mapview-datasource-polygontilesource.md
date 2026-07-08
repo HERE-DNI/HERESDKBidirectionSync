@@ -3,9 +3,13 @@ title: "PolygonTileSource (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+
+</div>
 
 </div>
 
@@ -36,8 +40,7 @@ Related APIs may change for new releases without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -74,7 +77,10 @@ Related APIs may change for new releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>PolygonTileSource.LoadResultHandler</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource"><code>PolygonTileSource.LoadResultHandler</code></a>
 
   </div>
 
@@ -92,12 +98,15 @@ Related APIs may change for new releases without a deprecation process.
 
   <div class="inherited-list">
 
+  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.datasource.[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+
   [`TileSource.DataVersion`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource"), [`TileSource.Listener`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener "interface in com.here.sdk.mapview.datasource"), [`TileSource.LoadTileRequestHandle`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource"), [`TileSource.TileMetadata`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata "class in com.here.sdk.mapview.datasource")
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -130,8 +139,7 @@ Related APIs may change for new releases without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      loadTile(TileKey tileKey,
-       PolygonTileSource.LoadResultHandler completionHandler)
+      loadTile ( TileKey tileKey, PolygonTileSource.LoadResultHandler completionHandler)
 
   </div>
 
@@ -159,12 +167,12 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.PolygonTileSource.LoadResultHandler)"
+
+  - <div id="sdk-for-android-explore-loadTile-com-here-sdk-mapview-datasource-TileKey-com-here-sdk-mapview-datasource-PolygonTileSource-LoadResultHandler"
     class="section detail">
 
     ### loadTile
@@ -200,6 +208,4 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-</div>
 

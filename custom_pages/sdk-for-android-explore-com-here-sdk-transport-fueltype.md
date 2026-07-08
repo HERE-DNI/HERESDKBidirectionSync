@@ -3,17 +3,21 @@ title: "FuelType (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-fueltype"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-java.lang.Enum\<FuelType\>com.here.sdk.transport.FuelType →
-java.lang.Enum → FuelType → com.here.sdk.transport.FuelType
+java.lang.Object java.lang.Enum \< FuelType \>
+com.here.sdk.transport.FuelType → java.lang.Enum \< FuelType \>
+com.here.sdk.transport.FuelType → com.here.sdk.transport.FuelType
 
 </div>
 
@@ -21,14 +25,25 @@ java.lang.Enum → FuelType → com.here.sdk.transport.FuelType
 class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`>`,
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">FuelType</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a>\<[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
@@ -43,19 +58,37 @@ deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+  ## Nested classes/interfaces inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
+
+  ## Enum Constant Summary
 
   <div class="caption">
 
@@ -79,7 +112,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#BIO_DIESEL" class="member-name-link"><code>BIO_DIESEL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#BIO_DIESEL"
+  class="member-name-link"><code>BIO_DIESEL</code></a>
 
   </div>
 
@@ -95,7 +130,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#CNG" class="member-name-link"><code>CNG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#CNG"
+  class="member-name-link"><code>CNG</code></a>
 
   </div>
 
@@ -111,7 +147,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL" class="member-name-link"><code>DIESEL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL"
+  class="member-name-link"><code>DIESEL</code></a>
 
   </div>
 
@@ -127,7 +164,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL_WITH_ADDITIVES" class="member-name-link"><code>DIESEL_WITH_ADDITIVES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#DIESEL_WITH_ADDITIVES"
+  class="member-name-link"><code>DIESEL_WITH_ADDITIVES</code></a>
 
   </div>
 
@@ -143,7 +182,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E10" class="member-name-link"><code>E10</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E10"
+  class="member-name-link"><code>E10</code></a>
 
   </div>
 
@@ -159,7 +199,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E20" class="member-name-link"><code>E20</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E20"
+  class="member-name-link"><code>E20</code></a>
 
   </div>
 
@@ -175,7 +216,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E85" class="member-name-link"><code>E85</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#E85"
+  class="member-name-link"><code>E85</code></a>
 
   </div>
 
@@ -191,7 +233,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL" class="member-name-link"><code>ETHANOL</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL"
+  class="member-name-link"><code>ETHANOL</code></a>
 
   </div>
 
@@ -207,7 +251,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL_WITH_ADDITIVES" class="member-name-link"><code>ETHANOL_WITH_ADDITIVES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#ETHANOL_WITH_ADDITIVES"
+  class="member-name-link"><code>ETHANOL_WITH_ADDITIVES</code></a>
 
   </div>
 
@@ -223,7 +269,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_91" class="member-name-link"><code>GASOHOL_91</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_91"
+  class="member-name-link"><code>GASOHOL_91</code></a>
 
   </div>
 
@@ -239,7 +287,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_95" class="member-name-link"><code>GASOHOL_95</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOHOL_95"
+  class="member-name-link"><code>GASOHOL_95</code></a>
 
   </div>
 
@@ -255,7 +305,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOLINE" class="member-name-link"><code>GASOLINE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#GASOLINE"
+  class="member-name-link"><code>GASOLINE</code></a>
 
   </div>
 
@@ -271,7 +323,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HVO" class="member-name-link"><code>HVO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HVO"
+  class="member-name-link"><code>HVO</code></a>
 
   </div>
 
@@ -287,7 +340,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HYDROGEN" class="member-name-link"><code>HYDROGEN</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#HYDROGEN"
+  class="member-name-link"><code>HYDROGEN</code></a>
 
   </div>
 
@@ -303,7 +358,8 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LNG" class="member-name-link"><code>LNG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LNG"
+  class="member-name-link"><code>LNG</code></a>
 
   </div>
 
@@ -319,7 +375,8 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LPG" class="member-name-link"><code>LPG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#LPG"
+  class="member-name-link"><code>LPG</code></a>
 
   </div>
 
@@ -335,7 +392,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#MIDGRADE" class="member-name-link"><code>MIDGRADE</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#MIDGRADE"
+  class="member-name-link"><code>MIDGRADE</code></a>
 
   </div>
 
@@ -351,7 +410,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_100" class="member-name-link"><code>OCTANE_100</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_100"
+  class="member-name-link"><code>OCTANE_100</code></a>
 
   </div>
 
@@ -367,7 +428,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_87" class="member-name-link"><code>OCTANE_87</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_87"
+  class="member-name-link"><code>OCTANE_87</code></a>
 
   </div>
 
@@ -383,7 +446,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_89" class="member-name-link"><code>OCTANE_89</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_89"
+  class="member-name-link"><code>OCTANE_89</code></a>
 
   </div>
 
@@ -399,7 +464,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_90" class="member-name-link"><code>OCTANE_90</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_90"
+  class="member-name-link"><code>OCTANE_90</code></a>
 
   </div>
 
@@ -415,7 +482,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_91" class="member-name-link"><code>OCTANE_91</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_91"
+  class="member-name-link"><code>OCTANE_91</code></a>
 
   </div>
 
@@ -431,7 +500,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_92" class="member-name-link"><code>OCTANE_92</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_92"
+  class="member-name-link"><code>OCTANE_92</code></a>
 
   </div>
 
@@ -447,7 +518,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_93" class="member-name-link"><code>OCTANE_93</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_93"
+  class="member-name-link"><code>OCTANE_93</code></a>
 
   </div>
 
@@ -463,7 +536,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_95" class="member-name-link"><code>OCTANE_95</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_95"
+  class="member-name-link"><code>OCTANE_95</code></a>
 
   </div>
 
@@ -479,7 +554,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_98" class="member-name-link"><code>OCTANE_98</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#OCTANE_98"
+  class="member-name-link"><code>OCTANE_98</code></a>
 
   </div>
 
@@ -495,7 +572,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM" class="member-name-link"><code>PREMIUM</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM"
+  class="member-name-link"><code>PREMIUM</code></a>
 
   </div>
 
@@ -511,7 +590,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM_WITH_ADDITIVES" class="member-name-link"><code>PREMIUM_WITH_ADDITIVES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#PREMIUM_WITH_ADDITIVES"
+  class="member-name-link"><code>PREMIUM_WITH_ADDITIVES</code></a>
 
   </div>
 
@@ -527,7 +608,9 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR" class="member-name-link"><code>REGULAR</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR"
+  class="member-name-link"><code>REGULAR</code></a>
 
   </div>
 
@@ -543,7 +626,9 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR_WITH_ADDITIVES" class="member-name-link"><code>REGULAR_WITH_ADDITIVES</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-transport-fueltype#REGULAR_WITH_ADDITIVES"
+  class="member-name-link"><code>REGULAR_WITH_ADDITIVES</code></a>
 
   </div>
 
@@ -560,7 +645,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -593,7 +679,7 @@ deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      valueOf(String name)
+      valueOf ( String name)
 
   </div>
 
@@ -615,7 +701,7 @@ deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      values()
+      values ()
 
   </div>
 
@@ -636,28 +722,85 @@ deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-DIESEL" class="section detail">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-explore-DIESEL" class="section detail">
 
     ### DIESEL
 
@@ -675,7 +818,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LPG" class="section detail">
+
+  - <div id="sdk-for-android-explore-LPG" class="section detail">
 
     ### LPG
 
@@ -693,7 +837,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BIO_DIESEL" class="section detail">
+
+  - <div id="sdk-for-android-explore-BIO_DIESEL" class="section detail">
 
     ### BIO_DIESEL
 
@@ -711,7 +856,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CNG" class="section detail">
+
+  - <div id="sdk-for-android-explore-CNG" class="section detail">
 
     ### CNG
 
@@ -729,7 +875,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DIESEL_WITH_ADDITIVES"
+
+  - <div id="sdk-for-android-explore-DIESEL_WITH_ADDITIVES"
     class="section detail">
 
     ### DIESEL_WITH_ADDITIVES
@@ -748,7 +895,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-E10" class="section detail">
+
+  - <div id="sdk-for-android-explore-E10" class="section detail">
 
     ### E10
 
@@ -766,7 +914,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-E20" class="section detail">
+
+  - <div id="sdk-for-android-explore-E20" class="section detail">
 
     ### E20
 
@@ -784,7 +933,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-E85" class="section detail">
+
+  - <div id="sdk-for-android-explore-E85" class="section detail">
 
     ### E85
 
@@ -802,7 +952,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ETHANOL" class="section detail">
+
+  - <div id="sdk-for-android-explore-ETHANOL" class="section detail">
 
     ### ETHANOL
 
@@ -820,7 +971,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ETHANOL_WITH_ADDITIVES"
+
+  - <div id="sdk-for-android-explore-ETHANOL_WITH_ADDITIVES"
     class="section detail">
 
     ### ETHANOL_WITH_ADDITIVES
@@ -839,7 +991,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GASOLINE" class="section detail">
+
+  - <div id="sdk-for-android-explore-GASOLINE" class="section detail">
 
     ### GASOLINE
 
@@ -857,7 +1010,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GASOHOL_91" class="section detail">
+
+  - <div id="sdk-for-android-explore-GASOHOL_91" class="section detail">
 
     ### GASOHOL_91
 
@@ -875,7 +1029,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-GASOHOL_95" class="section detail">
+
+  - <div id="sdk-for-android-explore-GASOHOL_95" class="section detail">
 
     ### GASOHOL_95
 
@@ -893,7 +1048,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HVO" class="section detail">
+
+  - <div id="sdk-for-android-explore-HVO" class="section detail">
 
     ### HVO
 
@@ -911,7 +1067,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HYDROGEN" class="section detail">
+
+  - <div id="sdk-for-android-explore-HYDROGEN" class="section detail">
 
     ### HYDROGEN
 
@@ -929,7 +1086,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LNG" class="section detail">
+
+  - <div id="sdk-for-android-explore-LNG" class="section detail">
 
     ### LNG
 
@@ -947,7 +1105,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MIDGRADE" class="section detail">
+
+  - <div id="sdk-for-android-explore-MIDGRADE" class="section detail">
 
     ### MIDGRADE
 
@@ -965,7 +1124,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PREMIUM" class="section detail">
+
+  - <div id="sdk-for-android-explore-PREMIUM" class="section detail">
 
     ### PREMIUM
 
@@ -983,7 +1143,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PREMIUM_WITH_ADDITIVES"
+
+  - <div id="sdk-for-android-explore-PREMIUM_WITH_ADDITIVES"
     class="section detail">
 
     ### PREMIUM_WITH_ADDITIVES
@@ -1002,7 +1163,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-REGULAR" class="section detail">
+
+  - <div id="sdk-for-android-explore-REGULAR" class="section detail">
 
     ### REGULAR
 
@@ -1020,7 +1182,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-REGULAR_WITH_ADDITIVES"
+
+  - <div id="sdk-for-android-explore-REGULAR_WITH_ADDITIVES"
     class="section detail">
 
     ### REGULAR_WITH_ADDITIVES
@@ -1039,7 +1202,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_87" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_87" class="section detail">
 
     ### OCTANE_87
 
@@ -1057,7 +1221,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_89" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_89" class="section detail">
 
     ### OCTANE_89
 
@@ -1075,7 +1240,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_90" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_90" class="section detail">
 
     ### OCTANE_90
 
@@ -1093,7 +1259,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_91" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_91" class="section detail">
 
     ### OCTANE_91
 
@@ -1111,7 +1278,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_92" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_92" class="section detail">
 
     ### OCTANE_92
 
@@ -1129,7 +1297,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_93" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_93" class="section detail">
 
     ### OCTANE_93
 
@@ -1147,7 +1316,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_95" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_95" class="section detail">
 
     ### OCTANE_95
 
@@ -1165,7 +1335,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_98" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_98" class="section detail">
 
     ### OCTANE_98
 
@@ -1183,7 +1354,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OCTANE_100" class="section detail">
+
+  - <div id="sdk-for-android-explore-OCTANE_100" class="section detail">
 
     ### OCTANE_100
 
@@ -1203,9 +1375,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values" class="section detail">
 
     ### values
 
@@ -1228,7 +1402,8 @@ deprecation process.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
     class="section detail">
 
     ### valueOf
@@ -1236,7 +1411,9 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1256,15 +1433,19 @@ deprecation process.
     the enum constant with the specified name
 
     Throws:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
 
   </div>
-
-</div>
 

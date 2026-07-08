@@ -3,17 +3,22 @@ title: "MapLayerBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.mapview.MapLayerBuilder →
-com.here.NativeBase → com.here.sdk.mapview.MapLayerBuilder
+java.lang.Object com.here.NativeBase
+com.here.sdk.mapview.MapLayerBuilder → com.here.NativeBase
+com.here.sdk.mapview.MapLayerBuilder →
+com.here.sdk.mapview.MapLayerBuilder
 
 </div>
 
@@ -82,8 +87,7 @@ assignment can be done for all types of content: point, line, polygon.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -120,7 +124,10 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode" class="type-name-link" title="enum class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorCode</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode"
+  class="type-name-link"
+  title="enum class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorCode</code></a>
 
   </div>
 
@@ -142,7 +149,10 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorDetails</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationErrorDetails</code></a>
 
   </div>
 
@@ -164,7 +174,10 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationException</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapLayerBuilder.InstantiationException</code></a>
 
   </div>
 
@@ -181,7 +194,8 @@ assignment can be done for all types of content: point, line, polygon.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -206,7 +220,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-constructor-name even-row-color">
 
-      MapLayerBuilder()
+      MapLayerBuilder ()
 
   </div>
 
@@ -223,7 +237,8 @@ assignment can be done for all types of content: point, line, polygon.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -256,7 +271,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      build()
+      build ()
 
   </div>
 
@@ -279,7 +294,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      forMap(HereMap targetMap)
+      forMap ( HereMap targetMap)
 
   </div>
 
@@ -301,8 +316,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withDataSource(String dataSourceName,
-       MapContentType contentType)
+      withDataSource ( String dataSourceName, MapContentType contentType)
 
   </div>
 
@@ -325,7 +339,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withLoadPriority(double loadPriority)
+      withLoadPriority (double loadPriority)
 
   </div>
 
@@ -347,7 +361,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withMapMeasureDependentStorageLevels(MapLayerMapMeasureDependentStorageLevels mapLayerMapMeasureDependentStorageLevels)
+      withMapMeasureDependentStorageLevels ( MapLayerMapMeasureDependentStorageLevels mapLayerMapMeasureDependentStorageLevels)
 
   </div>
 
@@ -369,7 +383,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withName(String name)
+      withName ( String name)
 
   </div>
 
@@ -391,7 +405,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withPriority(MapLayerPriority priority)
+      withPriority ( MapLayerPriority priority)
 
   </div>
 
@@ -414,7 +428,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withStyle(Style style)
+      withStyle ( Style style)
 
   </div>
 
@@ -436,7 +450,7 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withVisibilityRange(MapLayerVisibilityRange visibilityRange)
+      withVisibilityRange ( MapLayerVisibilityRange visibilityRange)
 
   </div>
 
@@ -457,20 +471,55 @@ assignment can be done for all types of content: point, line, polygon.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### MapLayerBuilder
 
@@ -489,9 +538,11 @@ assignment can be done for all types of content: point, line, polygon.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-withName(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-withName-java-lang-String"
     class="section detail">
 
     ### withName
@@ -500,7 +551,9 @@ assignment can be done for all types of content: point, line, polygon.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withName</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -520,7 +573,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)"
+
+  - <div id="sdk-for-android-explore-withDataSource-java-lang-String-com-here-sdk-mapview-MapContentType"
     class="section detail">
 
     ### withDataSource
@@ -529,7 +583,9 @@ assignment can be done for all types of content: point, line, polygon.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withDataSource</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> dataSourceName,
     @NonNull
     [MapContentType](sdk-for-android-explore-com-here-sdk-mapview-mapcontenttype "enum class in com.here.sdk.mapview") contentType)</span>
 
@@ -556,7 +612,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withStyle(com.here.sdk.mapview.Style)"
+
+  - <div id="sdk-for-android-explore-withStyle-com-here-sdk-mapview-Style"
     class="section detail">
 
     ### withStyle
@@ -590,7 +647,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-forMap(com.here.sdk.mapview.HereMap)"
+
+  - <div id="sdk-for-android-explore-forMap-com-here-sdk-mapview-HereMap"
     class="section detail">
 
     ### forMap
@@ -619,7 +677,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withPriority(com.here.sdk.mapview.MapLayerPriority)"
+
+  - <div id="sdk-for-android-explore-withPriority-com-here-sdk-mapview-MapLayerPriority"
     class="section detail">
 
     ### withPriority
@@ -648,7 +707,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)"
+
+  - <div id="sdk-for-android-explore-withVisibilityRange-com-here-sdk-mapview-MapLayerVisibilityRange"
     class="section detail">
 
     ### withVisibilityRange
@@ -679,7 +739,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)"
+
+  - <div id="sdk-for-android-explore-withMapMeasureDependentStorageLevels-com-here-sdk-mapview-MapLayerMapMeasureDependentStorageLevels"
     class="section detail">
 
     ### withMapMeasureDependentStorageLevels
@@ -719,7 +780,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withLoadPriority(double)"
+
+  - <div id="sdk-for-android-explore-withLoadPriority-double"
     class="section detail">
 
     ### withLoadPriority
@@ -748,7 +810,8 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-build()" class="section detail">
+
+  - <div id="sdk-for-android-explore-build" class="section detail">
 
     ### build
 
@@ -782,6 +845,4 @@ assignment can be done for all types of content: point, line, polygon.
     </div>
 
   </div>
-
-</div>
 

@@ -3,6 +3,10 @@ title: "Deprecated List (API Reference)"
 slug: "sdk-for-android-explore-deprecated-list"
 ---
 
+<div class="header">
+
+## Contents
+
 - [Classes](sdk-for-android-explore-deprecated-list#class)
 - [Enum Classes](sdk-for-android-explore-deprecated-list#enum-class)
 - [Fields](sdk-for-android-explore-deprecated-list#field)
@@ -11,8 +15,9 @@ slug: "sdk-for-android-explore-deprecated-list"
 - [Enum
   Constants](sdk-for-android-explore-deprecated-list#enum-constant)
 
-<!-- -->
-<div id="sdk-for-android-explore-class">
+</div>
+
+- <div id="sdk-for-android-explore-class">
 
   <div class="caption">
 
@@ -313,7 +318,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-enum-class">
+
+- <div id="sdk-for-android-explore-enum-class">
 
   <div class="caption">
 
@@ -372,7 +378,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-field">
+
+- <div id="sdk-for-android-explore-field">
 
   <div class="caption">
 
@@ -496,7 +503,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-method">
+
+- <div id="sdk-for-android-explore-method">
 
   <div class="caption">
 
@@ -583,7 +591,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance(List,
+  [com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance(List\<ScalarKeyframe\>,
   Easing,
   KeyframeInterpolationMode)](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode))
 
@@ -602,7 +610,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
   BicycleOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -624,7 +632,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List, BusOptions,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
+  BusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -645,7 +654,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List, CarOptions,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
+  CarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -666,7 +676,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List, EVCarOptions,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
+  EVCarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -687,7 +698,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
   EVTruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -709,7 +720,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
   PedestrianOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -731,7 +742,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
   PrivateBusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -753,7 +764,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
   ScooterOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -775,7 +786,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List, TaxiOptions,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
+  TaxiOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -796,7 +808,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.calculateRoute(List, TruckOptions,
+  [com.here.sdk.routing.RoutingEngine.calculateRoute(List\<Waypoint\>,
+  TruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -839,7 +852,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, BicycleOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  BicycleOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -860,7 +874,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, BusOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  BusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -881,7 +896,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, CarOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  CarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -902,7 +918,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, EVCarOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  EVCarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -923,7 +940,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, EVTruckOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  EVTruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -944,7 +962,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
   PedestrianOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -966,7 +984,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
   PrivateBusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -988,7 +1006,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, ScooterOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  ScooterOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1009,7 +1028,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, TaxiOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  TaxiOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1030,7 +1050,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, TruckOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  TruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1051,8 +1072,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  BicycleOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, BicycleOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1073,8 +1094,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  BusOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, BusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1095,8 +1116,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  CarOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, CarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1117,8 +1138,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  EVCarOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, EVCarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1139,8 +1160,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  EVTruckOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, EVTruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1161,8 +1182,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  PedestrianOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, PedestrianOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1183,8 +1204,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  PrivateBusOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, PrivateBusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1205,8 +1226,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  ScooterOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, ScooterOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1227,8 +1248,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  TaxiOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, TaxiOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1249,8 +1270,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingEngine.importRoute(List, List,
-  TruckOptions,
+  [com.here.sdk.routing.RoutingEngine.importRoute(List\<Location\>,
+  List\<RouteStop\>, TruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
   </div>
@@ -1359,7 +1380,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   BicycleOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1381,7 +1402,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   BusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1403,7 +1424,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   CarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1425,7 +1446,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   EVCarOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1447,7 +1468,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   EVTruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1469,7 +1490,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   PedestrianOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1491,7 +1512,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   PrivateBusOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1513,7 +1534,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   ScooterOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1535,7 +1556,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name odd-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   TaxiOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1557,7 +1578,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 
   <div class="col-summary-item-name even-row-color">
 
-  [com.here.sdk.routing.RoutingInterface.calculateRoute(List,
+  [com.here.sdk.routing.RoutingInterface.calculateRoute(List\<Waypoint\>,
   TruckOptions,
   CalculateRouteCallback)](sdk-for-android-explore-com-here-sdk-routing-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback))
 
@@ -1582,7 +1603,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-constructor">
+
+- <div id="sdk-for-android-explore-constructor">
 
   <div class="caption">
 
@@ -1681,7 +1703,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-enum-constant">
+
+- <div id="sdk-for-android-explore-enum-constant">
 
   <div class="caption">
 

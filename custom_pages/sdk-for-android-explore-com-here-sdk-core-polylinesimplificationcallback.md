@@ -3,9 +3,13 @@ title: "PolylineSimplificationCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+
+</div>
 
 </div>
 
@@ -18,7 +22,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">PolylineSimplificationCallback</span>
 
@@ -27,7 +34,7 @@ assignment target for a lambda expression or method reference.
 <div class="block">
 
 The method will be called on the main thread when
-PolylineSimplifier.simplify(java.util.List ,
+PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
 com.here.sdk.core.PolylineSimplifier.Options,
 com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
@@ -35,8 +42,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -69,8 +75,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onPolylineSimplified(PolylineSimplificationError queryError,
-       List<GeoCoordinates> result)
+      onPolylineSimplified ( PolylineSimplificationError queryError, List < GeoCoordinates > result)
 
   </div>
 
@@ -79,7 +84,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
   <div class="block">
 
   The method will be called on the main thread when
-  PolylineSimplifier.simplify(java.util.List ,
+  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
   com.here.sdk.core.PolylineSimplifier.Options,
   com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
@@ -93,12 +98,12 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onPolylineSimplified(com.here.sdk.core.PolylineSimplificationError,java.util.List)"
+
+  - <div id="sdk-for-android-explore-onPolylineSimplified-com-here-sdk-core-PolylineSimplificationError-java-util-List"
     class="section detail">
 
     ### onPolylineSimplified
@@ -107,14 +112,16 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
     <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><span class="parameters">(@Nullable
     [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError,
-    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
 
     </div>
 
     <div class="block">
 
     The method will be called on the main thread when
-    PolylineSimplifier.simplify(java.util.List ,
+    PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
     com.here.sdk.core.PolylineSimplifier.Options,
     com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
@@ -131,13 +138,11 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
     input polyline of
     [](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback))
 
-        PolylineSimplifier.simplify(java.util.List, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)
+        PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.GeoCoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)
 
     .
 
     </div>
 
   </div>
-
-</div>
 

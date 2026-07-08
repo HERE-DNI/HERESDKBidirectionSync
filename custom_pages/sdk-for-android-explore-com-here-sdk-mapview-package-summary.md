@@ -3,14 +3,17 @@ title: "com.here.sdk.mapview (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.mapview</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -47,7 +50,8 @@ package <span class="element-name">com.here.sdk.mapview</span>
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -873,7 +877,8 @@ package <span class="element-name">com.here.sdk.mapview</span>
   <div class="block">
 
   Holds constants for map feature modes, to be used with
-  MapScene.enableFeatures(java.util.Map ) .
+  MapScene.enableFeatures(java.util.Map\<java.lang.String,
+  java.lang.String\>) .
 
   </div>
 
@@ -890,8 +895,9 @@ package <span class="element-name">com.here.sdk.mapview</span>
   <div class="block">
 
   Holds constants for map features, to be used with
-  MapScene.enableFeatures(java.util.Map ) and
-  MapScene.disableFeatures(java.util.List ) .
+  MapScene.enableFeatures(java.util.Map\<java.lang.String,
+  java.lang.String\>) and
+  MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
 
   </div>
 
@@ -2375,6 +2381,4 @@ package <span class="element-name">com.here.sdk.mapview</span>
   </div>
 
   </div>
-
-</div>
 

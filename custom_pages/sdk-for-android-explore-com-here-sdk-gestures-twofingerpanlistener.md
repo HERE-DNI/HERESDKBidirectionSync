@@ -3,9 +3,13 @@ title: "TwoFingerPanListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+
+</div>
 
 </div>
 
@@ -29,8 +33,7 @@ vertically.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -63,9 +66,7 @@ vertically.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onTwoFingerPan(GestureState state,
-       Point2D origin,
-       Point2D translation,
+      onTwoFingerPan ( GestureState state, Point2D origin, Point2D translation,
        double velocity)
 
   </div>
@@ -86,12 +87,12 @@ vertically.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTwoFingerPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)"
+
+  - <div id="sdk-for-android-explore-onTwoFingerPan-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double"
     class="section detail">
 
     ### onTwoFingerPan
@@ -135,6 +136,4 @@ vertically.
     </div>
 
   </div>
-
-</div>
 

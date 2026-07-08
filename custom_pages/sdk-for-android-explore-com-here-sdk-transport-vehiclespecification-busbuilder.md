@@ -3,17 +3,22 @@ title: "VehicleSpecification.BusBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.transport.VehicleSpecification.BusBuilder
-→ com.here.NativeBase →
+java.lang.Object com.here.NativeBase
+com.here.sdk.transport.VehicleSpecification.BusBuilder →
+com.here.NativeBase
+com.here.sdk.transport.VehicleSpecification.BusBuilder →
 com.here.sdk.transport.VehicleSpecification.BusBuilder
 
 </div>
@@ -41,8 +46,7 @@ This class constructs a VehicleSpecification for a bus.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -67,7 +71,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-constructor-name even-row-color">
 
-      BusBuilder()
+      BusBuilder ()
 
   </div>
 
@@ -84,7 +88,8 @@ This class constructs a VehicleSpecification for a bus.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -117,7 +122,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      build()
+      build ()
 
   </div>
 
@@ -140,7 +145,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withAxleCount(int axleCount)
+      withAxleCount (int axleCount)
 
   </div>
 
@@ -162,7 +167,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withCurrentWeightInKilograms(int currentWeightInKilograms)
+      withCurrentWeightInKilograms (int currentWeightInKilograms)
 
   </div>
 
@@ -184,7 +189,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withEmptyWeightInKilograms(int emptyWeightInKilograms)
+      withEmptyWeightInKilograms (int emptyWeightInKilograms)
 
   </div>
 
@@ -206,7 +211,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withEngineSizeInCubicCentimeters(int engineSizeInCubicCentimeters)
+      withEngineSizeInCubicCentimeters (int engineSizeInCubicCentimeters)
 
   </div>
 
@@ -228,7 +233,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withGrossWeightInKilograms(int grossWeightInKilograms)
+      withGrossWeightInKilograms (int grossWeightInKilograms)
 
   </div>
 
@@ -250,7 +255,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withHeightInCentimeters(int heightInCentimeters)
+      withHeightInCentimeters (int heightInCentimeters)
 
   </div>
 
@@ -272,7 +277,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withIsCommercial(boolean isCommercial)
+      withIsCommercial (boolean isCommercial)
 
   </div>
 
@@ -294,7 +299,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withLastCharacterOfLicensePlate(String lastCharacterOfLicensePlate)
+      withLastCharacterOfLicensePlate ( String lastCharacterOfLicensePlate)
 
   </div>
 
@@ -316,7 +321,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withLengthInCentimeters(int lengthInCentimeters)
+      withLengthInCentimeters (int lengthInCentimeters)
 
   </div>
 
@@ -338,7 +343,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withOccupancy(int occupancy)
+      withOccupancy (int occupancy)
 
   </div>
 
@@ -360,7 +365,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withTiresCount(int tiresCount)
+      withTiresCount (int tiresCount)
 
   </div>
 
@@ -382,7 +387,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withTrailerAxleCount(int trailerAxleCount)
+      withTrailerAxleCount (int trailerAxleCount)
 
   </div>
 
@@ -404,7 +409,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withTrailerCount(int trailerCount)
+      withTrailerCount (int trailerCount)
 
   </div>
 
@@ -426,7 +431,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withTunnelCategory(TunnelCategory tunnelCategory)
+      withTunnelCategory ( TunnelCategory tunnelCategory)
 
   </div>
 
@@ -448,7 +453,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withWeightPerAxleGroup(WeightPerAxleGroup weightPerAxleGroup)
+      withWeightPerAxleGroup ( WeightPerAxleGroup weightPerAxleGroup)
 
   </div>
 
@@ -470,7 +475,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withWeightPerAxleInKilograms(int weightPerAxleInKilograms)
+      withWeightPerAxleInKilograms (int weightPerAxleInKilograms)
 
   </div>
 
@@ -492,7 +497,7 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      withWidthInCentimeters(int widthInCentimeters)
+      withWidthInCentimeters (int widthInCentimeters)
 
   </div>
 
@@ -512,20 +517,55 @@ This class constructs a VehicleSpecification for a bus.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### BusBuilder
 
@@ -544,9 +584,11 @@ This class constructs a VehicleSpecification for a bus.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-withHeightInCentimeters(int)"
+
+  - <div id="sdk-for-android-explore-withHeightInCentimeters-int"
     class="section detail">
 
     ### withHeightInCentimeters
@@ -575,7 +617,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle height set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withWidthInCentimeters(int)"
+
+  - <div id="sdk-for-android-explore-withWidthInCentimeters-int"
     class="section detail">
 
     ### withWidthInCentimeters
@@ -604,7 +647,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle width set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withLengthInCentimeters(int)"
+
+  - <div id="sdk-for-android-explore-withLengthInCentimeters-int"
     class="section detail">
 
     ### withLengthInCentimeters
@@ -633,7 +677,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle length set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withAxleCount(int)"
+
+  - <div id="sdk-for-android-explore-withAxleCount-int"
     class="section detail">
 
     ### withAxleCount
@@ -662,7 +707,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the axle count set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withTrailerCount(int)"
+
+  - <div id="sdk-for-android-explore-withTrailerCount-int"
     class="section detail">
 
     ### withTrailerCount
@@ -691,7 +737,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the trailer count set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withTrailerAxleCount(int)"
+
+  - <div id="sdk-for-android-explore-withTrailerAxleCount-int"
     class="section detail">
 
     ### withTrailerAxleCount
@@ -720,7 +767,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the trailer axle count set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withGrossWeightInKilograms(int)"
+
+  - <div id="sdk-for-android-explore-withGrossWeightInKilograms-int"
     class="section detail">
 
     ### withGrossWeightInKilograms
@@ -749,7 +797,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the gross weight set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withCurrentWeightInKilograms(int)"
+
+  - <div id="sdk-for-android-explore-withCurrentWeightInKilograms-int"
     class="section detail">
 
     ### withCurrentWeightInKilograms
@@ -778,7 +827,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the current weight set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withEmptyWeightInKilograms(int)"
+
+  - <div id="sdk-for-android-explore-withEmptyWeightInKilograms-int"
     class="section detail">
 
     ### withEmptyWeightInKilograms
@@ -807,7 +857,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the empty weight set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withWeightPerAxleInKilograms(int)"
+
+  - <div id="sdk-for-android-explore-withWeightPerAxleInKilograms-int"
     class="section detail">
 
     ### withWeightPerAxleInKilograms
@@ -836,7 +887,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the current weight per axle set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)"
+
+  - <div id="sdk-for-android-explore-withWeightPerAxleGroup-com-here-sdk-transport-WeightPerAxleGroup"
     class="section detail">
 
     ### withWeightPerAxleGroup
@@ -866,7 +918,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the current weight per axle group set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withIsCommercial(boolean)"
+
+  - <div id="sdk-for-android-explore-withIsCommercial-boolean"
     class="section detail">
 
     ### withIsCommercial
@@ -895,7 +948,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the is commercial flag set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withLastCharacterOfLicensePlate(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-withLastCharacterOfLicensePlate-java-lang-String"
     class="section detail">
 
     ### withLastCharacterOfLicensePlate
@@ -904,7 +958,9 @@ This class constructs a VehicleSpecification for a bus.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.BusBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLastCharacterOfLicensePlate</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
 
     </div>
 
@@ -926,7 +982,8 @@ This class constructs a VehicleSpecification for a bus.
     value.
 
     </div>
-<div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
+
+  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters-int"
     class="section detail">
 
     ### withEngineSizeInCubicCentimeters
@@ -955,7 +1012,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the engine size set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withTiresCount(int)"
+
+  - <div id="sdk-for-android-explore-withTiresCount-int"
     class="section detail">
 
     ### withTiresCount
@@ -984,7 +1042,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle tires count set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withTunnelCategory(com.here.sdk.transport.TunnelCategory)"
+
+  - <div id="sdk-for-android-explore-withTunnelCategory-com-here-sdk-transport-TunnelCategory"
     class="section detail">
 
     ### withTunnelCategory
@@ -1014,7 +1073,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle tunnel category set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-withOccupancy(int)"
+
+  - <div id="sdk-for-android-explore-withOccupancy-int"
     class="section detail">
 
     ### withOccupancy
@@ -1043,7 +1103,8 @@ This class constructs a VehicleSpecification for a bus.
     object with the vehicle occupants number set to the new value.
 
     </div>
-<div id="sdk-for-android-explore-build()" class="section detail">
+
+  - <div id="sdk-for-android-explore-build" class="section detail">
 
     ### build
 
@@ -1072,6 +1133,4 @@ This class constructs a VehicleSpecification for a bus.
     </div>
 
   </div>
-
-</div>
 

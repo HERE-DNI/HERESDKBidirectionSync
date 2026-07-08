@@ -3,9 +3,13 @@ title: "MapViewLifecycleListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -39,8 +43,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -73,7 +76,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onAttach(MapViewBase mapView)
+      onAttach ( MapViewBase mapView)
 
   </div>
 
@@ -95,7 +98,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onDestroy()
+      onDestroy ()
 
   </div>
 
@@ -117,7 +120,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onDetach(MapViewBase mapView)
+      onDetach ( MapViewBase mapView)
 
   </div>
 
@@ -139,7 +142,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onPause()
+      onPause ()
 
   </div>
 
@@ -162,7 +165,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onResume()
+      onResume ()
 
   </div>
 
@@ -183,12 +186,12 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onAttach(com.here.sdk.mapview.MapViewBase)"
+
+  - <div id="sdk-for-android-explore-onAttach-com-here-sdk-mapview-MapViewBase"
     class="section detail">
 
     ### onAttach
@@ -217,7 +220,8 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
     The map view to attach to.
 
     </div>
-<div id="sdk-for-android-explore-onDetach(com.here.sdk.mapview.MapViewBase)"
+
+  - <div id="sdk-for-android-explore-onDetach-com-here-sdk-mapview-MapViewBase"
     class="section detail">
 
     ### onDetach
@@ -243,7 +247,8 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
     The map view to detach from.
 
     </div>
-<div id="sdk-for-android-explore-onPause()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onPause" class="section detail">
 
     ### onPause
 
@@ -263,7 +268,8 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onResume()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onResume" class="section detail">
 
     ### onResume
 
@@ -284,8 +290,8 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onDestroy()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-onDestroy" class="section detail">
 
     ### onDestroy
 
@@ -307,6 +313,4 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
     </div>
 
   </div>
-
-</div>
 

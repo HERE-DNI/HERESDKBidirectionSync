@@ -3,16 +3,21 @@ title: "TrafficFlow (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflow"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.traffic.TrafficFlow →
-com.here.NativeBase → com.here.sdk.traffic.TrafficFlow
+java.lang.Object com.here.NativeBase com.here.sdk.traffic.TrafficFlow →
+com.here.NativeBase com.here.sdk.traffic.TrafficFlow →
+com.here.sdk.traffic.TrafficFlow
 
 </div>
 
@@ -48,8 +53,7 @@ releases without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -76,13 +80,16 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getConfidence()
+      getConfidence ()
 
   </div>
 
@@ -105,7 +112,7 @@ releases without a deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getFreeFlowSpeedInMetersPerSecond()
+      getFreeFlowSpeedInMetersPerSecond ()
 
   </div>
 
@@ -128,7 +135,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getJamFactor()
+      getJamFactor ()
 
   </div>
 
@@ -144,13 +151,16 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" class="external-link" title="class or interface in java.lang"><code>Short</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Short</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getJamTendency()
+      getJamTendency ()
 
   </div>
 
@@ -173,7 +183,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getJunctionsTraversability()
+      getJunctionsTraversability ()
 
   </div>
 
@@ -195,7 +205,7 @@ releases without a deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLocation()
+      getLocation ()
 
   </div>
 
@@ -211,13 +221,16 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSpeedInMetersPerSecond()
+      getSpeedInMetersPerSecond ()
 
   </div>
 
@@ -234,13 +247,16 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSpeedUncappedInMetersPerSecond()
+      getSpeedUncappedInMetersPerSecond ()
 
   </div>
 
@@ -262,7 +278,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTraversability()
+      getTraversability ()
 
   </div>
 
@@ -282,20 +298,55 @@ releases without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getLocation()"
+
+  - <div id="sdk-for-android-explore-getLocation"
     class="section detail">
 
     ### getLocation
@@ -317,7 +368,8 @@ releases without a deprecation process.
     Defines the location affected by traffic flow.
 
     </div>
-<div id="sdk-for-android-explore-getSpeedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getSpeedInMetersPerSecond"
     class="section detail">
 
     ### getSpeedInMetersPerSecond
@@ -325,7 +377,9 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedInMetersPerSecond</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedInMetersPerSecond</span>()
 
     </div>
 
@@ -341,7 +395,8 @@ releases without a deprecation process.
     exceed the legal speed limit.
 
     </div>
-<div id="sdk-for-android-explore-getSpeedUncappedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getSpeedUncappedInMetersPerSecond"
     class="section detail">
 
     ### getSpeedUncappedInMetersPerSecond
@@ -349,7 +404,9 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedUncappedInMetersPerSecond</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedUncappedInMetersPerSecond</span>()
 
     </div>
 
@@ -368,7 +425,8 @@ releases without a deprecation process.
     roadway right now; may exceed the legal speed limit.
 
     </div>
-<div id="sdk-for-android-explore-getJamTendency()"
+
+  - <div id="sdk-for-android-explore-getJamTendency"
     class="section detail">
 
     ### getJamTendency
@@ -376,7 +434,9 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" class="external-link" title="class or interface in java.lang">Short</a></span> <span class="element-name">getJamTendency</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html"
+    class="external-link" title="class or interface in java.lang">Short</a></span> <span class="element-name">getJamTendency</span>()
 
     </div>
 
@@ -396,7 +456,8 @@ releases without a deprecation process.
     decreasing, or constant.
 
     </div>
-<div id="sdk-for-android-explore-getConfidence()"
+
+  - <div id="sdk-for-android-explore-getConfidence"
     class="section detail">
 
     ### getConfidence
@@ -404,7 +465,9 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConfidence</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConfidence</span>()
 
     </div>
 
@@ -429,7 +492,8 @@ releases without a deprecation process.
     included in the speed calculation.
 
     </div>
-<div id="sdk-for-android-explore-getTraversability()"
+
+  - <div id="sdk-for-android-explore-getTraversability"
     class="section detail">
 
     ### getTraversability
@@ -451,7 +515,8 @@ releases without a deprecation process.
     The traversability of roadway.
 
     </div>
-<div id="sdk-for-android-explore-getJunctionsTraversability()"
+
+  - <div id="sdk-for-android-explore-getJunctionsTraversability"
     class="section detail">
 
     ### getJunctionsTraversability
@@ -473,7 +538,8 @@ releases without a deprecation process.
     The traversability of junctions along the affected road.
 
     </div>
-<div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond"
     class="section detail">
 
     ### getFreeFlowSpeedInMetersPerSecond
@@ -500,7 +566,8 @@ releases without a deprecation process.
     traffic is present.
 
     </div>
-<div id="sdk-for-android-explore-getJamFactor()"
+
+  - <div id="sdk-for-android-explore-getJamFactor"
     class="section detail">
 
     ### getJamFactor
@@ -531,6 +598,4 @@ releases without a deprecation process.
     </div>
 
   </div>
-
-</div>
 

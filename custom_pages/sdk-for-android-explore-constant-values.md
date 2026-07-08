@@ -3,15 +3,24 @@ title: "Constant Field Values (API Reference)"
 slug: "sdk-for-android-explore-constant-values"
 ---
 
+<div class="header">
+
 <div class="section packages">
+
+## Contents
 
 - [com.here.\*](sdk-for-android-explore-constant-values#com.here)
 
 </div>
 
-<div id="sdk-for-android-explore-com.here.sdk.core"
+</div>
+
+<div id="sdk-for-android-explore-com-here-sdk-core"
 class="section constants-summary">
-<div class="caption">
+
+## com.here.\*
+
+- <div class="caption">
 
   com.here.sdk.core.[PolylineSimplifier.Options](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options "class in com.here.sdk.core")
 
@@ -58,7 +67,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.core.engine.com.here.sdk.core.engine.UsageStats.MethodNames
 
@@ -86,7 +96,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.ANALYTICS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-ANALYTICS">String</code></a>
 
   </div>
 
@@ -104,7 +117,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.AUTHENTICATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-AUTHENTICATION">String</code></a>
 
   </div>
 
@@ -122,7 +138,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.CALCULATE_ROUTE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-CALCULATE_ROUTE">String</code></a>
 
   </div>
 
@@ -140,7 +159,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.CALCULATE_ROUTE_WITH_TRAFFIC">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-CALCULATE_ROUTE_WITH_TRAFFIC">String</code></a>
 
   </div>
 
@@ -158,7 +180,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.CALCULATE_TRANSIT_ROUTE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-CALCULATE_TRANSIT_ROUTE">String</code></a>
 
   </div>
 
@@ -176,7 +201,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.DEFAULT_NETWORK_CALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-DEFAULT_NETWORK_CALL">String</code></a>
 
   </div>
 
@@ -194,7 +222,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.MAP_CONTENT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-MAP_CONTENT">String</code></a>
 
   </div>
 
@@ -212,7 +243,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.SEARCH_METHOD">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-SEARCH_METHOD">String</code></a>
 
   </div>
 
@@ -230,7 +264,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.core.engine.UsageStats.MethodNames.TRAFFIC_FETCH_INCIDENTS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-core-engine-UsageStats-MethodNames-TRAFFIC_FETCH_INCIDENTS">String</code></a>
 
   </div>
 
@@ -249,7 +286,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.ev.[EVChargingConnectorType](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype "class in com.here.sdk.ev")
 
@@ -277,7 +315,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.CHADEMO">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-CHADEMO">String</code></a>
 
   </div>
 
@@ -295,7 +336,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.CHAOJI">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-CHAOJI">String</code></a>
 
   </div>
 
@@ -313,7 +357,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_A">String</code></a>
 
   </div>
 
@@ -331,7 +378,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_B">String</code></a>
 
   </div>
 
@@ -349,7 +399,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_C">String</code></a>
 
   </div>
 
@@ -367,7 +420,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_D">String</code></a>
 
   </div>
 
@@ -385,7 +441,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_E">String</code></a>
 
   </div>
 
@@ -403,7 +462,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_F">String</code></a>
 
   </div>
 
@@ -421,7 +483,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_G">String</code></a>
 
   </div>
 
@@ -439,7 +504,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_H">String</code></a>
 
   </div>
 
@@ -457,7 +525,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_I">String</code></a>
 
   </div>
 
@@ -475,7 +546,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_J">String</code></a>
 
   </div>
 
@@ -493,7 +567,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_K">String</code></a>
 
   </div>
 
@@ -511,7 +588,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_L">String</code></a>
 
   </div>
 
@@ -529,7 +609,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_M">String</code></a>
 
   </div>
 
@@ -547,7 +630,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_N">String</code></a>
 
   </div>
 
@@ -565,7 +651,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-DOMESTIC_O">String</code></a>
 
   </div>
 
@@ -583,7 +672,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.GBT_AC">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-GBT_AC">String</code></a>
 
   </div>
 
@@ -601,7 +693,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.GBT_DC">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-GBT_DC">String</code></a>
 
   </div>
 
@@ -619,7 +714,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_60309_2_SINGLE_16">String</code></a>
 
   </div>
 
@@ -637,7 +735,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_60309_2_THREE_16">String</code></a>
 
   </div>
 
@@ -655,7 +756,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_60309_2_THREE_32">String</code></a>
 
   </div>
 
@@ -673,7 +777,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_60309_2_THREE_64">String</code></a>
 
   </div>
 
@@ -691,7 +798,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T1">String</code></a>
 
   </div>
 
@@ -709,7 +819,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T1_COMBO">String</code></a>
 
   </div>
 
@@ -727,7 +840,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T2">String</code></a>
 
   </div>
 
@@ -745,7 +861,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T2_COMBO">String</code></a>
 
   </div>
 
@@ -763,7 +882,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T3A">String</code></a>
 
   </div>
 
@@ -781,7 +903,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-IEC_62196_T3C">String</code></a>
 
   </div>
 
@@ -799,7 +924,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.MCS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-MCS">String</code></a>
 
   </div>
 
@@ -817,7 +945,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_10_30">String</code></a>
 
   </div>
 
@@ -835,7 +966,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_10_50">String</code></a>
 
   </div>
 
@@ -853,7 +987,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_14_30">String</code></a>
 
   </div>
 
@@ -871,7 +1008,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_14_50">String</code></a>
 
   </div>
 
@@ -889,7 +1029,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_5_20">String</code></a>
 
   </div>
 
@@ -907,7 +1050,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_6_30">String</code></a>
 
   </div>
 
@@ -925,7 +1071,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-NEMA_6_50">String</code></a>
 
   </div>
 
@@ -943,7 +1092,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-PANTOGRAPH_BOTTOM_UP">String</code></a>
 
   </div>
 
@@ -961,7 +1113,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-PANTOGRAPH_TOP_DOWN">String</code></a>
 
   </div>
 
@@ -979,7 +1134,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-SAE_J3400">String</code></a>
 
   </div>
 
@@ -997,7 +1155,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.ev.EVChargingConnectorType.TESLA_R">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-ev-EVChargingConnectorType-TESLA_R">String</code></a>
 
   </div>
 
@@ -1016,7 +1177,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapCameraLimits](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
 
@@ -1115,7 +1277,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapFeatureModes](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")
 
@@ -1143,7 +1306,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.AMBIENT_OCCLUSION_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-AMBIENT_OCCLUSION_ALL">String</code></a>
 
   </div>
 
@@ -1161,7 +1327,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.BUILDING_FOOTPRINTS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-BUILDING_FOOTPRINTS_ALL">String</code></a>
 
   </div>
 
@@ -1179,7 +1348,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.CONGESTION_ZONES_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-CONGESTION_ZONES_ALL">String</code></a>
 
   </div>
 
@@ -1197,7 +1369,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.DEFAULT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-DEFAULT">String</code></a>
 
   </div>
 
@@ -1215,7 +1390,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.ENVIRONMENTAL_ZONES_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-ENVIRONMENTAL_ZONES_ALL">String</code></a>
 
   </div>
 
@@ -1233,7 +1411,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.EXTRUDED_BUILDINGS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-EXTRUDED_BUILDINGS_ALL">String</code></a>
 
   </div>
 
@@ -1251,7 +1432,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.LOW_SPEED_ZONES_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-LOW_SPEED_ZONES_ALL">String</code></a>
 
   </div>
 
@@ -1269,7 +1453,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-ROAD_EXIT_LABELS_ALL">String</code></a>
 
   </div>
 
@@ -1287,7 +1474,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-ROAD_EXIT_LABELS_NUMBERS_ONLY">String</code></a>
 
   </div>
 
@@ -1305,7 +1495,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.SHADOWS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-SHADOWS_ALL">String</code></a>
 
   </div>
 
@@ -1323,7 +1516,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">String</code></a>
 
   </div>
 
@@ -1341,7 +1537,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-TRAFFIC_FLOW_WITH_FREE_FLOW">String</code></a>
 
   </div>
 
@@ -1359,7 +1558,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-TRAFFIC_FLOW_WITHOUT_FREE_FLOW">String</code></a>
 
   </div>
 
@@ -1377,7 +1579,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.TRAFFIC_INCIDENTS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-TRAFFIC_INCIDENTS_ALL">String</code></a>
 
   </div>
 
@@ -1395,7 +1600,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatureModes.TRAFFIC_LIGHTS_ALL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatureModes-TRAFFIC_LIGHTS_ALL">String</code></a>
 
   </div>
 
@@ -1412,7 +1620,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapFeatures](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")
 
@@ -1440,7 +1649,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.AMBIENT_OCCLUSION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-AMBIENT_OCCLUSION">String</code></a>
 
   </div>
 
@@ -1458,7 +1670,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-BUILDING_FOOTPRINTS">String</code></a>
 
   </div>
 
@@ -1476,7 +1691,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-CONGESTION_ZONES">String</code></a>
 
   </div>
 
@@ -1494,7 +1712,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-ENVIRONMENTAL_ZONES">String</code></a>
 
   </div>
 
@@ -1512,7 +1733,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-EXTRUDED_BUILDINGS">String</code></a>
 
   </div>
 
@@ -1530,7 +1754,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-LOW_SPEED_ZONES">String</code></a>
 
   </div>
 
@@ -1548,7 +1775,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-ROAD_EXIT_LABELS">String</code></a>
 
   </div>
 
@@ -1566,7 +1796,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.SHADOWS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-SHADOWS">String</code></a>
 
   </div>
 
@@ -1584,7 +1817,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-TRAFFIC_FLOW">String</code></a>
 
   </div>
 
@@ -1602,7 +1838,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-TRAFFIC_INCIDENTS">String</code></a>
 
   </div>
 
@@ -1620,7 +1859,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-mapview-MapFeatures-TRAFFIC_LIGHTS">String</code></a>
 
   </div>
 
@@ -1639,7 +1881,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.search.[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")
 
@@ -1667,7 +1910,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.ACCOMMODATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-ACCOMMODATION">String</code></a>
 
   </div>
 
@@ -1685,7 +1931,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-ACCOMMODATION_HOTEL_MOTEL">String</code></a>
 
   </div>
 
@@ -1703,7 +1952,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-ACCOMMODATION_LODGING">String</code></a>
 
   </div>
 
@@ -1721,7 +1973,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-AREAS_AND_BUILDINGS">String</code></a>
 
   </div>
 
@@ -1739,7 +1994,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">String</code></a>
 
   </div>
 
@@ -1757,7 +2015,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">String</code></a>
 
   </div>
 
@@ -1775,7 +2036,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_COMMERCIAL_SERVICES">String</code></a>
 
   </div>
 
@@ -1793,7 +2057,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_CONSUMER_SERVICES">String</code></a>
 
   </div>
 
@@ -1811,7 +2078,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES">String</code></a>
 
   </div>
 
@@ -1829,7 +2099,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_ATM">String</code></a>
 
   </div>
 
@@ -1847,7 +2120,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_BANKING">String</code></a>
 
   </div>
 
@@ -1865,7 +2141,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_CAR_DEALER_SALES">String</code></a>
 
   </div>
 
@@ -1883,7 +2162,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_CAR_RENTAL">String</code></a>
 
   </div>
 
@@ -1901,7 +2183,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">String</code></a>
 
   </div>
 
@@ -1919,7 +2204,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">String</code></a>
 
   </div>
 
@@ -1937,7 +2225,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_EV_CHARGING_STATION">String</code></a>
 
   </div>
 
@@ -1955,7 +2246,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_FUELING_STATION">String</code></a>
 
   </div>
 
@@ -1973,7 +2267,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_INDUSTRY">String</code></a>
 
   </div>
 
@@ -1991,7 +2288,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_MONEY_CASH">String</code></a>
 
   </div>
 
@@ -2009,7 +2309,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">String</code></a>
 
   </div>
 
@@ -2027,7 +2330,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">String</code></a>
 
   </div>
 
@@ -2045,7 +2351,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_POST_OFFICE">String</code></a>
 
   </div>
 
@@ -2063,7 +2372,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_TOURIST_INFORMATION">String</code></a>
 
   </div>
 
@@ -2081,7 +2393,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">String</code></a>
 
   </div>
 
@@ -2099,7 +2414,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-EAT_AND_DRINK">String</code></a>
 
   </div>
 
@@ -2117,7 +2435,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-EAT_AND_DRINK_COFFEE_TEA">String</code></a>
 
   </div>
 
@@ -2135,7 +2456,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-EAT_AND_DRINK_RESTAURANT">String</code></a>
 
   </div>
 
@@ -2153,7 +2477,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES">String</code></a>
 
   </div>
 
@@ -2171,7 +2498,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_EDUCATION">String</code></a>
 
   </div>
 
@@ -2189,7 +2519,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_EVENT_SPACES">String</code></a>
 
   </div>
 
@@ -2207,7 +2540,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_GOVERNMENT_COMMUNITTY">String</code></a>
 
   </div>
 
@@ -2225,7 +2561,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_HOSPITAL_HEALTHCARE">String</code></a>
 
   </div>
 
@@ -2243,7 +2582,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_LIBRARY">String</code></a>
 
   </div>
 
@@ -2261,7 +2603,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_OTHER">String</code></a>
 
   </div>
 
@@ -2279,7 +2624,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_PARKING">String</code></a>
 
   </div>
 
@@ -2297,7 +2645,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_SCHOOL">String</code></a>
 
   </div>
 
@@ -2315,7 +2666,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-FACILITIES_VENUE_SPORTS">String</code></a>
 
   </div>
 
@@ -2333,7 +2687,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-GOING_OUT_CINEMA">String</code></a>
 
   </div>
 
@@ -2351,7 +2708,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-GOING_OUT_ENTERTAINMENT">String</code></a>
 
   </div>
 
@@ -2369,7 +2729,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-GOING_OUT_GAMBLING_LOTTERY_BETTING">String</code></a>
 
   </div>
 
@@ -2387,7 +2750,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-GOING_OUT_NIGHTLIFE">String</code></a>
 
   </div>
 
@@ -2405,7 +2771,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-GOING_OUT_THEATRE_MUSIC_CULTURE">String</code></a>
 
   </div>
 
@@ -2423,7 +2792,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-LEISURE_AND_OUTDOOR">String</code></a>
 
   </div>
 
@@ -2441,7 +2813,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.LEISURE_OTHER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-LEISURE_OTHER">String</code></a>
 
   </div>
 
@@ -2459,7 +2834,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-LEISURE_OUTDOOR_RECREATION">String</code></a>
 
   </div>
 
@@ -2477,7 +2855,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL">String</code></a>
 
   </div>
 
@@ -2495,7 +2876,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">String</code></a>
 
   </div>
 
@@ -2513,7 +2897,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">String</code></a>
 
   </div>
 
@@ -2531,7 +2918,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">String</code></a>
 
   </div>
 
@@ -2549,7 +2939,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL_OTHER">String</code></a>
 
   </div>
 
@@ -2567,7 +2960,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">String</code></a>
 
   </div>
 
@@ -2585,7 +2981,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING">String</code></a>
 
   </div>
 
@@ -2603,7 +3002,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_BOOKSTORE">String</code></a>
 
   </div>
 
@@ -2621,7 +3023,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_CLOTHING_AND_ACCESORIES">String</code></a>
 
   </div>
 
@@ -2639,7 +3044,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_CONSUMER_GOODS">String</code></a>
 
   </div>
 
@@ -2657,7 +3065,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_CONVENIENCE_STORE">String</code></a>
 
   </div>
 
@@ -2675,7 +3086,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_DEPARTMENT_STORE">String</code></a>
 
   </div>
 
@@ -2693,7 +3107,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_DRUGSTORE_PHARMACY">String</code></a>
 
   </div>
 
@@ -2711,7 +3128,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_ELECTRONICS">String</code></a>
 
   </div>
 
@@ -2729,7 +3149,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_FOOD_AND_DRINK">String</code></a>
 
   </div>
 
@@ -2747,7 +3170,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_HAIR_AND_BEAUTY">String</code></a>
 
   </div>
 
@@ -2765,7 +3191,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_HARDWARE_HOUSE_GARDEN">String</code></a>
 
   </div>
 
@@ -2783,7 +3212,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SHOPPING_MALL_COMPLEX">String</code></a>
 
   </div>
 
@@ -2801,7 +3233,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SIGHTS_AND_MUSEUMS">String</code></a>
 
   </div>
 
@@ -2819,7 +3254,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SIGHTS_LANDMARK_ATTRACTION">String</code></a>
 
   </div>
 
@@ -2837,7 +3275,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SIGHTS_MUSEUM">String</code></a>
 
   </div>
 
@@ -2855,7 +3296,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-SIGHTS_RELIGIOUS_PLACE">String</code></a>
 
   </div>
 
@@ -2873,7 +3317,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.TRANSPORT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-TRANSPORT">String</code></a>
 
   </div>
 
@@ -2891,7 +3338,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-TRANSPORT_AIRPORT">String</code></a>
 
   </div>
 
@@ -2909,7 +3359,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-TRANSPORT_CARGO">String</code></a>
 
   </div>
 
@@ -2927,7 +3380,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-TRANSPORT_PUBLIC">String</code></a>
 
   </div>
 
@@ -2945,7 +3401,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-PlaceCategory-TRANSPORT_REST_AREA">String</code></a>
 
   </div>
 
@@ -2962,7 +3421,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.search.[POIPaymentMethod](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod "class in com.here.sdk.search")
 
@@ -2990,7 +3450,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.AMEX">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-AMEX">String</code></a>
 
   </div>
 
@@ -3008,7 +3471,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.AMPOL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-AMPOL">String</code></a>
 
   </div>
 
@@ -3026,7 +3492,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.ANDROID_PAY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-ANDROID_PAY">String</code></a>
 
   </div>
 
@@ -3044,7 +3513,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.APPLE_PAY">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-APPLE_PAY">String</code></a>
 
   </div>
 
@@ -3062,7 +3534,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.CASH">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-CASH">String</code></a>
 
   </div>
 
@@ -3080,7 +3555,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.CHEQUE">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-CHEQUE">String</code></a>
 
   </div>
 
@@ -3098,7 +3576,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.DEBIT_CARD">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-DEBIT_CARD">String</code></a>
 
   </div>
 
@@ -3116,7 +3597,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.DINERS_CLUB">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-DINERS_CLUB">String</code></a>
 
   </div>
 
@@ -3134,7 +3618,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.DISCOVER">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-DISCOVER">String</code></a>
 
   </div>
 
@@ -3152,7 +3639,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.DKV">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-DKV">String</code></a>
 
   </div>
 
@@ -3170,7 +3660,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.FINANCING">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-FINANCING">String</code></a>
 
   </div>
 
@@ -3188,7 +3681,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.MASTERCARD">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-MASTERCARD">String</code></a>
 
   </div>
 
@@ -3206,7 +3702,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.MOTORPASS">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-MOTORPASS">String</code></a>
 
   </div>
 
@@ -3224,7 +3723,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.PAYPAL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-PAYPAL">String</code></a>
 
   </div>
 
@@ -3242,7 +3744,10 @@ class="section constants-summary">
 
   <div class="col-first even-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.SHELL">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-SHELL">String</code></a>
 
   </div>
 
@@ -3260,7 +3765,10 @@ class="section constants-summary">
 
   <div class="col-first odd-row-color">
 
-  `public static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code id="sdk-for-android-explore-com.here.sdk.search.POIPaymentMethod.VISA">String</code></a>
+  `public static final `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link" title="class or interface in java.lang"><code
+  id="sdk-for-android-explore-com-here-sdk-search-POIPaymentMethod-VISA">String</code></a>
 
   </div>
 

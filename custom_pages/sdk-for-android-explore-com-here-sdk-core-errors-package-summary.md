@@ -3,14 +3,17 @@ title: "com.here.sdk.core.errors (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-errors-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.core.errors</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -83,7 +86,8 @@ package <span class="element-name">com.here.sdk.core.errors</span>
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -134,6 +138,4 @@ package <span class="element-name">com.here.sdk.core.errors</span>
   </div>
 
   </div>
-
-</div>
 

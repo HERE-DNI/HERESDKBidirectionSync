@@ -3,9 +3,13 @@ title: "MapCamera.DryCameraUpdateCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -23,7 +27,10 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface
 </span><span class="element-name type-name-label">MapCamera.DryCameraUpdateCallback</span>
 
@@ -40,8 +47,7 @@ without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -74,7 +80,7 @@ without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onDryApplyUpdateResult(MapCamera.State cameraState)
+      onDryApplyUpdateResult ( MapCamera.State cameraState)
 
   </div>
 
@@ -94,12 +100,12 @@ without a deprecation process.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)"
+
+  - <div id="sdk-for-android-explore-onDryApplyUpdateResult-com-here-sdk-mapview-MapCamera-State"
     class="section detail">
 
     ### onDryApplyUpdateResult
@@ -128,6 +134,4 @@ without a deprecation process.
     </div>
 
   </div>
-
-</div>
 

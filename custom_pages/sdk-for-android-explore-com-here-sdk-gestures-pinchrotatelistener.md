@@ -3,9 +3,13 @@ title: "PinchRotateListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+
+</div>
 
 </div>
 
@@ -29,8 +33,7 @@ moves.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -63,11 +66,8 @@ moves.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onPinchRotate(GestureState state,
-       Point2D pinchOrigin,
-       Point2D rotationOrigin,
-       double twoFingerDistance,
-       Angle rotation)
+      onPinchRotate ( GestureState state, Point2D pinchOrigin, Point2D rotationOrigin,
+       double twoFingerDistance, Angle rotation)
 
   </div>
 
@@ -87,12 +87,12 @@ moves.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onPinchRotate(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double,com.here.sdk.core.Angle)"
+
+  - <div id="sdk-for-android-explore-onPinchRotate-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double-com-here-sdk-core-Angle"
     class="section detail">
 
     ### onPinchRotate
@@ -144,6 +144,4 @@ moves.
     </div>
 
   </div>
-
-</div>
 

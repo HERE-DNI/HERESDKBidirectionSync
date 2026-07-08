@@ -3,17 +3,22 @@ title: "TrafficIncident (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.traffic.TrafficIncident →
-com.here.NativeBase → com.here.sdk.traffic.TrafficIncident
+java.lang.Object com.here.NativeBase
+com.here.sdk.traffic.TrafficIncident → com.here.NativeBase
+com.here.sdk.traffic.TrafficIncident →
+com.here.sdk.traffic.TrafficIncident
 
 </div>
 
@@ -42,8 +47,7 @@ TrafficIncident provides details about a traffic incident.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -80,7 +84,10 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" class="type-name-link" title="enum class in com.here.sdk.traffic"><code>TrafficIncident.RestrictedVehicleCategory</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory"
+  class="type-name-link"
+  title="enum class in com.here.sdk.traffic"><code>TrafficIncident.RestrictedVehicleCategory</code></a>
 
   </div>
 
@@ -102,7 +109,10 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction" class="type-name-link" title="class in com.here.sdk.traffic"><code>TrafficIncident.VehicleRestriction</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction"
+  class="type-name-link"
+  title="class in com.here.sdk.traffic"><code>TrafficIncident.VehicleRestriction</code></a>
 
   </div>
 
@@ -120,7 +130,8 @@ TrafficIncident provides details about a traffic incident.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -147,13 +158,19 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCodes()
+      getCodes ()
 
   </div>
 
@@ -176,7 +193,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDescription()
+      getDescription ()
 
   </div>
 
@@ -193,13 +210,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getEndTime()
+      getEndTime ()
 
   </div>
 
@@ -216,13 +236,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getEntryTime()
+      getEntryTime ()
 
   </div>
 
@@ -238,13 +261,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getId()
+      getId ()
 
   </div>
 
@@ -266,7 +292,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getImpact()
+      getImpact ()
 
   </div>
 
@@ -288,7 +314,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getJunctionsTraversability()
+      getJunctionsTraversability ()
 
   </div>
 
@@ -310,7 +336,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLocation()
+      getLocation ()
 
   </div>
 
@@ -326,13 +352,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOriginalId()
+      getOriginalId ()
 
   </div>
 
@@ -348,13 +377,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getParentId()
+      getParentId ()
 
   </div>
 
@@ -371,13 +403,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getStartTime()
+      getStartTime ()
 
   </div>
 
@@ -400,7 +435,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSummary()
+      getSummary ()
 
   </div>
 
@@ -422,7 +457,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getType()
+      getType ()
 
   </div>
 
@@ -438,13 +473,16 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"), [`TrafficIncident.VehicleRestriction`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Map</code></a>`<`[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"), [`TrafficIncident.VehicleRestriction`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getVehicleRestrictions()
+      getVehicleRestrictions ()
 
   </div>
 
@@ -466,7 +504,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isRoadClosed()
+      isRoadClosed ()
 
   </div>
 
@@ -486,27 +524,64 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getId()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getId" class="section detail">
 
     ### getId
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
 
     </div>
 
@@ -520,7 +595,8 @@ TrafficIncident provides details about a traffic incident.
     The unique current identifier for a traffic incident.
 
     </div>
-<div id="sdk-for-android-explore-getOriginalId()"
+
+  - <div id="sdk-for-android-explore-getOriginalId"
     class="section detail">
 
     ### getOriginalId
@@ -528,7 +604,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
 
     </div>
 
@@ -549,7 +627,8 @@ TrafficIncident provides details about a traffic incident.
     The unique identifier of the first traffic incident.
 
     </div>
-<div id="sdk-for-android-explore-getParentId()"
+
+  - <div id="sdk-for-android-explore-getParentId"
     class="section detail">
 
     ### getParentId
@@ -557,7 +636,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getParentId</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getParentId</span>()
 
     </div>
 
@@ -572,7 +653,8 @@ TrafficIncident provides details about a traffic incident.
     The identifier of another incident to which this incident is linked.
 
     </div>
-<div id="sdk-for-android-explore-getJunctionsTraversability()"
+
+  - <div id="sdk-for-android-explore-getJunctionsTraversability"
     class="section detail">
 
     ### getJunctionsTraversability
@@ -594,7 +676,8 @@ TrafficIncident provides details about a traffic incident.
     The traversability of junctions along the affected road.
 
     </div>
-<div id="sdk-for-android-explore-isRoadClosed()"
+
+  - <div id="sdk-for-android-explore-isRoadClosed"
     class="section detail">
 
     ### isRoadClosed
@@ -615,14 +698,20 @@ TrafficIncident provides details about a traffic incident.
     The flag indicates whether road is closed or not.
 
     </div>
-<div id="sdk-for-android-explore-getCodes()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getCodes" class="section detail">
 
     ### getCodes
 
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getCodes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getCodes</span>()
 
     </div>
 
@@ -640,8 +729,8 @@ TrafficIncident provides details about a traffic incident.
     standard for this incident category.
 
     </div>
-<div id="sdk-for-android-explore-getSummary()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getSummary" class="section detail">
 
     ### getSummary
 
@@ -666,7 +755,8 @@ TrafficIncident provides details about a traffic incident.
     The human readable summary of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getEntryTime()"
+
+  - <div id="sdk-for-android-explore-getEntryTime"
     class="section detail">
 
     ### getEntryTime
@@ -674,7 +764,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEntryTime</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEntryTime</span>()
 
     </div>
 
@@ -689,7 +781,8 @@ TrafficIncident provides details about a traffic incident.
     The time the incident was entered into the system.
 
     </div>
-<div id="sdk-for-android-explore-getLocation()"
+
+  - <div id="sdk-for-android-explore-getLocation"
     class="section detail">
 
     ### getLocation
@@ -711,7 +804,8 @@ TrafficIncident provides details about a traffic incident.
     The location of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getVehicleRestrictions()"
+
+  - <div id="sdk-for-android-explore-getVehicleRestrictions"
     class="section detail">
 
     ### getVehicleRestrictions
@@ -719,7 +813,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"),[TrafficIncident.VehicleRestriction](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")\></span> <span class="element-name">getVehicleRestrictions</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
+    class="external-link" title="class or interface in java.util">Map</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic"),[TrafficIncident.VehicleRestriction](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")\></span> <span class="element-name">getVehicleRestrictions</span>()
 
     </div>
 
@@ -736,8 +832,8 @@ TrafficIncident provides details about a traffic incident.
     The map of restricted vehicle categories to restrictions.
 
     </div>
-<div id="sdk-for-android-explore-getImpact()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getImpact" class="section detail">
 
     ### getImpact
 
@@ -764,7 +860,8 @@ TrafficIncident provides details about a traffic incident.
     The impact of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getType()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getType" class="section detail">
 
     ### getType
 
@@ -791,7 +888,8 @@ TrafficIncident provides details about a traffic incident.
     The category of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getDescription()"
+
+  - <div id="sdk-for-android-explore-getDescription"
     class="section detail">
 
     ### getDescription
@@ -822,7 +920,8 @@ TrafficIncident provides details about a traffic incident.
     location information.
 
     </div>
-<div id="sdk-for-android-explore-getStartTime()"
+
+  - <div id="sdk-for-android-explore-getStartTime"
     class="section detail">
 
     ### getStartTime
@@ -830,7 +929,9 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
@@ -851,15 +952,17 @@ TrafficIncident provides details about a traffic incident.
     incident should not be considered.
 
     </div>
-<div id="sdk-for-android-explore-getEndTime()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getEndTime" class="section detail">
 
     ### getEndTime
 
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
+    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 
@@ -882,6 +985,4 @@ TrafficIncident provides details about a traffic incident.
     </div>
 
   </div>
-
-</div>
 

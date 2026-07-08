@@ -3,14 +3,17 @@ title: "com.here.sdk.routing (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.routing</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-class-summary">
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 
@@ -2288,6 +2291,4 @@ package <span class="element-name">com.here.sdk.routing</span>
   </div>
 
   </div>
-
-</div>
 

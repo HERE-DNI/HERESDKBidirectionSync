@@ -3,16 +3,21 @@ title: "Route (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.routing.Route →
-com.here.NativeBase → com.here.sdk.routing.Route
+java.lang.Object com.here.NativeBase com.here.sdk.routing.Route →
+com.here.NativeBase com.here.sdk.routing.Route →
+com.here.sdk.routing.Route
 
 </div>
 
@@ -41,8 +46,7 @@ necessary.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -75,7 +79,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      deserialize(byte[] routeData)
+      deserialize (byte[] routeData)
 
   </div>
 
@@ -97,7 +101,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getBoundingBox()
+      getBoundingBox ()
 
   </div>
 
@@ -113,13 +117,16 @@ necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getConsumptionInKilowattHours()
+      getConsumptionInKilowattHours ()
 
   </div>
 
@@ -142,7 +149,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDuration()
+      getDuration ()
 
   </div>
 
@@ -165,7 +172,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getGeometry()
+      getGeometry ()
 
   </div>
 
@@ -187,7 +194,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLanguage()
+      getLanguage ()
 
   </div>
 
@@ -210,7 +217,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getLengthInMeters()
+      getLengthInMeters ()
 
   </div>
 
@@ -232,7 +239,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOptimizationMode()
+      getOptimizationMode ()
 
   </div>
 
@@ -248,13 +255,16 @@ necessary.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`RouteRailwayCrossing`](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`RouteRailwayCrossing`](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRailwayCrossings()
+      getRailwayCrossings ()
 
   </div>
 
@@ -276,7 +286,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRequestedTransportMode()
+      getRequestedTransportMode ()
 
   </div>
 
@@ -298,7 +308,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRouteHandle()
+      getRouteHandle ()
 
   </div>
 
@@ -314,13 +324,16 @@ necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`RouteLabel`](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`RouteLabel`](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRouteLabels()
+      getRouteLabels ()
 
   </div>
 
@@ -342,7 +355,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRoutingOptions()
+      getRoutingOptions ()
 
   </div>
 
@@ -358,13 +371,16 @@ necessary.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSections()
+      getSections ()
 
   </div>
 
@@ -386,7 +402,7 @@ necessary.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getTrafficDelay()
+      getTrafficDelay ()
 
   </div>
 
@@ -408,7 +424,7 @@ necessary.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      serialize(Route route)
+      serialize ( Route route)
 
   </div>
 
@@ -428,20 +444,55 @@ necessary.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-serialize(com.here.sdk.routing.Route)"
+
+  - <div id="sdk-for-android-explore-serialize-com-here-sdk-routing-Route"
     class="section detail">
 
     ### serialize
@@ -473,7 +524,8 @@ necessary.
     The binary data of the route.
 
     </div>
-<div id="sdk-for-android-explore-deserialize(byte[])"
+
+  - <div id="sdk-for-android-explore-deserialize-byte"
     class="section detail">
 
     ### deserialize
@@ -505,7 +557,8 @@ necessary.
     The route object restored from the binary data.
 
     </div>
-<div id="sdk-for-android-explore-getSections()"
+
+  - <div id="sdk-for-android-explore-getSections"
     class="section detail">
 
     ### getSections
@@ -513,7 +566,9 @@ necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")\></span> <span class="element-name">getSections</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")\></span> <span class="element-name">getSections</span>()
 
     </div>
 
@@ -527,7 +582,8 @@ necessary.
     The sections that make up this route.
 
     </div>
-<div id="sdk-for-android-explore-getGeometry()"
+
+  - <div id="sdk-for-android-explore-getGeometry"
     class="section detail">
 
     ### getGeometry
@@ -554,7 +610,8 @@ necessary.
     the original coordinates specified in the request for a route.
 
     </div>
-<div id="sdk-for-android-explore-getBoundingBox()"
+
+  - <div id="sdk-for-android-explore-getBoundingBox"
     class="section detail">
 
     ### getBoundingBox
@@ -576,7 +633,8 @@ necessary.
     The closest rectangular area where this route fits in.
 
     </div>
-<div id="sdk-for-android-explore-getLengthInMeters()"
+
+  - <div id="sdk-for-android-explore-getLengthInMeters"
     class="section detail">
 
     ### getLengthInMeters
@@ -597,7 +655,8 @@ necessary.
     The length of this route in meters.
 
     </div>
-<div id="sdk-for-android-explore-getLanguage()"
+
+  - <div id="sdk-for-android-explore-getLanguage"
     class="section detail">
 
     ### getLanguage
@@ -621,7 +680,8 @@ necessary.
     to this route.
 
     </div>
-<div id="sdk-for-android-explore-getOptimizationMode()"
+
+  - <div id="sdk-for-android-explore-getOptimizationMode"
     class="section detail">
 
     ### getOptimizationMode
@@ -643,7 +703,8 @@ necessary.
     The optimization mode requested for route calculation.
 
     </div>
-<div id="sdk-for-android-explore-getRequestedTransportMode()"
+
+  - <div id="sdk-for-android-explore-getRequestedTransportMode"
     class="section detail">
 
     ### getRequestedTransportMode
@@ -665,7 +726,8 @@ necessary.
     The transport mode requested for route calculation.
 
     </div>
-<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+
+  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -673,7 +735,9 @@ necessary.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
+    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
 
     </div>
 
@@ -691,7 +755,8 @@ necessary.
     negative due to energy recuperation.
 
     </div>
-<div id="sdk-for-android-explore-getRouteHandle()"
+
+  - <div id="sdk-for-android-explore-getRouteHandle"
     class="section detail">
 
     ### getRouteHandle
@@ -716,7 +781,8 @@ necessary.
     is set before route calculation.
 
     </div>
-<div id="sdk-for-android-explore-getDuration()"
+
+  - <div id="sdk-for-android-explore-getDuration"
     class="section detail">
 
     ### getDuration
@@ -740,7 +806,8 @@ necessary.
     including real-time traffic delays if available.
 
     </div>
-<div id="sdk-for-android-explore-getTrafficDelay()"
+
+  - <div id="sdk-for-android-explore-getTrafficDelay"
     class="section detail">
 
     ### getTrafficDelay
@@ -766,7 +833,8 @@ necessary.
     usual.
 
     </div>
-<div id="sdk-for-android-explore-getRoutingOptions()"
+
+  - <div id="sdk-for-android-explore-getRoutingOptions"
     class="section detail">
 
     ### getRoutingOptions
@@ -788,7 +856,8 @@ necessary.
     The set of options used to calculate the route.
 
     </div>
-<div id="sdk-for-android-explore-getRailwayCrossings()"
+
+  - <div id="sdk-for-android-explore-getRailwayCrossings"
     class="section detail">
 
     ### getRailwayCrossings
@@ -796,7 +865,9 @@ necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")\></span> <span class="element-name">getRailwayCrossings</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")\></span> <span class="element-name">getRailwayCrossings</span>()
 
     </div>
 
@@ -811,7 +882,8 @@ necessary.
     Collection of railway crossings along the route.
 
     </div>
-<div id="sdk-for-android-explore-getRouteLabels()"
+
+  - <div id="sdk-for-android-explore-getRouteLabels"
     class="section detail">
 
     ### getRouteLabels
@@ -819,7 +891,9 @@ necessary.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")\></span> <span class="element-name">getRouteLabels</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")\></span> <span class="element-name">getRouteLabels</span>()
 
     </div>
 
@@ -842,6 +916,4 @@ necessary.
     </div>
 
   </div>
-
-</div>
 

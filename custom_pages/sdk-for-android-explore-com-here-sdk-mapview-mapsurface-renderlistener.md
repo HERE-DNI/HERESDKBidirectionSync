@@ -3,9 +3,13 @@ title: "MapSurface.RenderListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+
+</div>
 
 </div>
 
@@ -32,8 +36,7 @@ may change for new releases without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -66,7 +69,7 @@ may change for new releases without a deprecation process.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onFramePrepared()
+      onFramePrepared ()
 
   </div>
 
@@ -89,7 +92,7 @@ may change for new releases without a deprecation process.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      onRenderTargetReleased()
+      onRenderTargetReleased ()
 
   </div>
 
@@ -109,12 +112,12 @@ may change for new releases without a deprecation process.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onFramePrepared()"
+
+  - <div id="sdk-for-android-explore-onFramePrepared"
     class="section detail">
 
     ### onFramePrepared
@@ -135,7 +138,8 @@ may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onRenderTargetReleased()"
+
+  - <div id="sdk-for-android-explore-onRenderTargetReleased"
     class="section detail">
 
     ### onRenderTargetReleased
@@ -156,6 +160,4 @@ may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-</div>
 

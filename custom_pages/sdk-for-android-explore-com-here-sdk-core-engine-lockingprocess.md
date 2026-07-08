@@ -3,17 +3,22 @@ title: "LockingProcess (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-lockingprocess"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.core.engine.LockingProcess →
-com.here.NativeBase → com.here.sdk.core.engine.LockingProcess
+java.lang.Object com.here.NativeBase
+com.here.sdk.core.engine.LockingProcess → com.here.NativeBase
+com.here.sdk.core.engine.LockingProcess →
+com.here.sdk.core.engine.LockingProcess
 
 </div>
 
@@ -39,8 +44,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -73,8 +77,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      destroyLockingProcess(android.content.Context context,
-       SDKOptions sdkOptions,
+      destroyLockingProcess (android.content.Context context, SDKOptions sdkOptions,
        long maxTimeoutInMilliseconds)
 
   </div>
@@ -97,7 +100,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 
-      destroyLockingProcess(SDKOptions sdkOptions,
+      destroyLockingProcess ( SDKOptions sdkOptions,
        long maxTimeoutInMilliseconds)
 
   </div>
@@ -116,14 +119,16 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  `static `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getLockingProcessId(android.content.Context context,
-       SDKOptions options)
+      getLockingProcessId (android.content.Context context, SDKOptions options)
 
   </div>
 
@@ -140,13 +145,16 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 
-  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+  `static `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 
-      getLockingProcessId(SDKOptions options)
+      getLockingProcessId ( SDKOptions options)
 
   </div>
 
@@ -167,29 +175,70 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getLockingProcessId(com.here.sdk.core.engine.SDKOptions)"
+
+  - <div id="sdk-for-android-explore-getLockingProcessId-com-here-sdk-core-engine-SDKOptions"
     class="section detail">
 
     ### getLockingProcessId
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @Nullable
     </span><span class="modifiers">public
-    static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><span class="parameters">(@NonNull
+    static</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><span class="parameters">(@NonNull
     [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span>
 
     </div>
@@ -244,7 +293,8 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     and a process ID was successfully read.
 
     </div>
-<div id="sdk-for-android-explore-getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+
+  - <div id="sdk-for-android-explore-getLockingProcessId-android-content-Context-com-here-sdk-core-engine-SDKOptions"
     class="section detail">
 
     ### getLockingProcessId
@@ -253,7 +303,10 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
     <span class="annotations">@Nullable
     </span><span class="modifiers">public
-    static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><span class="parameters">(@NonNull
+    static</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><span class="parameters">(@NonNull
     android.content.Context context, @NonNull
     [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span>
 
@@ -297,14 +350,18 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     and a process ID was successfully read.
 
     </div>
-<div id="sdk-for-android-explore-destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)"
+
+  - <div id="sdk-for-android-explore-destroyLockingProcess-com-here-sdk-core-engine-SDKOptions-long"
     class="section detail">
 
     ### destroyLockingProcess
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a>
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a>
     </span><span class="modifiers">public
     static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><span class="parameters">(@NonNull
     [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") sdkOptions,
@@ -357,7 +414,8 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     of time to perform the operation.
 
     </div>
-<div id="sdk-for-android-explore-destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"
+
+  - <div id="sdk-for-android-explore-destroyLockingProcess-android-content-Context-com-here-sdk-core-engine-SDKOptions-long"
     class="section detail">
 
     ### destroyLockingProcess
@@ -407,6 +465,4 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     </div>
 
   </div>
-
-</div>
 

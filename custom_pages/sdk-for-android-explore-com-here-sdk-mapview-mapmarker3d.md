@@ -3,16 +3,21 @@ title: "MapMarker3D (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.NativeBasecom.here.sdk.mapview.MapMarker3D →
-com.here.NativeBase → com.here.sdk.mapview.MapMarker3D
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapMarker3D →
+com.here.NativeBase com.here.sdk.mapview.MapMarker3D →
+com.here.sdk.mapview.MapMarker3D
 
 </div>
 
@@ -38,43 +43,43 @@ landmarks. This can be changed by enabling depth check using
 setDepthCheckEnabled(boolean) . The display of a 3D marker is only
 guaranteed in case its origin is within the viewport. At the moment,
 this is a known limitation that mostly affects a 3D marker that is
-visually large and covers a sizeable part of the viewport. Two aspects
-determine how big the MapMarker3D will be on the screen and how will it
-behave when the map is zoomed in and out. The first, and most impactful
-is RenderSize.Unit , which specifies how the vertex coordinates of the
-3D model are interpreted. Most importantly, it specifies whether the 3D
-model is placed in world or screen coordinate space.
-RenderSize.Unit.METERS will make the 3D model use world coordinate
-space, meaning that it will change size together with the map when it is
-zoomed in and out. RenderSize.Unit.PIXELS makes the 3D model use screen
-coordinate space, meaning that it will have constant size on the screen
-regardless of how the map zoom changes. So a simple 10 by 10 (in model
-space) rectangle will have a size of 10 by 10 pixels on the screen.
-RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS is similar to pixels, but the
-resulting size will take into account the pixel density of the display,
-meaning that physical size on the screen will be approximately the same
-regardless of the size or resolution of the display. The second aspect
-that determines size of MapMarker3D is scale. It can be specified at
-construction time and can be changed later at any time using
-setScale(double) . A 3D marker can be moved around a map by updating its
-coordinates using setCoordinates(com.here.sdk.core.GeoCoordinates) .
-Altitude component of the coordinates, if set, controls 3D marker's
-elevation above ground. If not set, the 3D marker is placed at ground
-level. Its orientation is specified by bearing, pitch and roll and can
-be changed by using setBearing(double) , setPitch(double) and
-setRoll(double) . A flat marker is a special case of a 3D marker, where
-the 3D shape being drawn is a simple textured rectangle. In essence it's
-an image drawn "on the ground". Such 3D marker can be conveniently
-created using MapMarker3D(GeoCoordinates, MapImage, double,
-RenderSize.Unit) constructor. Of course, once created, it can be rotated
-to face any direction.
+visually large and covers a sizeable part of the viewport. Sizing and
+scaling Two aspects determine how big the MapMarker3D will be on the
+screen and how will it behave when the map is zoomed in and out. The
+first, and most impactful is RenderSize.Unit , which specifies how the
+vertex coordinates of the 3D model are interpreted. Most importantly, it
+specifies whether the 3D model is placed in world or screen coordinate
+space. RenderSize.Unit.METERS will make the 3D model use world
+coordinate space, meaning that it will change size together with the map
+when it is zoomed in and out. RenderSize.Unit.PIXELS makes the 3D model
+use screen coordinate space, meaning that it will have constant size on
+the screen regardless of how the map zoom changes. So a simple 10 by 10
+(in model space) rectangle will have a size of 10 by 10 pixels on the
+screen. RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS is similar to pixels,
+but the resulting size will take into account the pixel density of the
+display, meaning that physical size on the screen will be approximately
+the same regardless of the size or resolution of the display. The second
+aspect that determines size of MapMarker3D is scale. It can be specified
+at construction time and can be changed later at any time using
+setScale(double) . Modifying at runtime A 3D marker can be moved around
+a map by updating its coordinates using
+setCoordinates(com.here.sdk.core.GeoCoordinates) . Altitude component of
+the coordinates, if set, controls 3D marker's elevation above ground. If
+not set, the 3D marker is placed at ground level. Its orientation is
+specified by bearing, pitch and roll and can be changed by using
+setBearing(double) , setPitch(double) and setRoll(double) . Flat marker
+A flat marker is a special case of a 3D marker, where the 3D shape being
+drawn is a simple textured rectangle. In essence it's an image drawn "on
+the ground". Such 3D marker can be conveniently created using
+MapMarker3D(GeoCoordinates, MapImage, double, RenderSize.Unit)
+constructor. Of course, once created, it can be rotated to face any
+direction.
 
 </div>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -99,10 +104,8 @@ to face any direction.
 
   <div class="col-constructor-name even-row-color">
 
-      MapMarker3D(GeoCoordinates at,
-       MapImage image,
-       double scale,
-       RenderSize.Unit unit)
+      MapMarker3D ( GeoCoordinates at, MapImage image,
+       double scale, RenderSize.Unit unit)
 
   </div>
 
@@ -118,8 +121,7 @@ to face any direction.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapMarker3D(GeoCoordinates at,
-       MapMarker3DModel model)
+      MapMarker3D ( GeoCoordinates at, MapMarker3DModel model)
 
   </div>
 
@@ -135,8 +137,7 @@ to face any direction.
 
   <div class="col-constructor-name even-row-color">
 
-      MapMarker3D(GeoCoordinates at,
-       MapMarker3DModel model,
+      MapMarker3D ( GeoCoordinates at, MapMarker3DModel model,
        double scale)
 
   </div>
@@ -153,10 +154,8 @@ to face any direction.
 
   <div class="col-constructor-name odd-row-color">
 
-      MapMarker3D(GeoCoordinates at,
-       MapMarker3DModel model,
-       double scale,
-       RenderSize.Unit unit)
+      MapMarker3D ( GeoCoordinates at, MapMarker3DModel model,
+       double scale, RenderSize.Unit unit)
 
   </div>
 
@@ -174,7 +173,8 @@ to face any direction.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -207,7 +207,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getBearing()
+      getBearing ()
 
   </div>
 
@@ -229,7 +229,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getCoordinates()
+      getCoordinates ()
 
   </div>
 
@@ -252,7 +252,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getMetadata()
+      getMetadata ()
 
   </div>
 
@@ -274,7 +274,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOpacity()
+      getOpacity ()
 
   </div>
 
@@ -297,7 +297,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPitch()
+      getPitch ()
 
   </div>
 
@@ -319,7 +319,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getRoll()
+      getRoll ()
 
   </div>
 
@@ -341,7 +341,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getScale()
+      getScale ()
 
   </div>
 
@@ -357,13 +357,16 @@ to face any direction.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getVisibilityRanges()
+      getVisibilityRanges ()
 
   </div>
 
@@ -385,7 +388,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isDepthCheckEnabled()
+      isDepthCheckEnabled ()
 
   </div>
 
@@ -407,7 +410,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isRenderInternalsEnabled()
+      isRenderInternalsEnabled ()
 
   </div>
 
@@ -430,7 +433,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setBearing(double value)
+      setBearing (double value)
 
   </div>
 
@@ -452,7 +455,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setCoordinates(GeoCoordinates value)
+      setCoordinates ( GeoCoordinates value)
 
   </div>
 
@@ -475,7 +478,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setDepthCheckEnabled(boolean value)
+      setDepthCheckEnabled (boolean value)
 
   </div>
 
@@ -498,7 +501,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setMetadata(Metadata value)
+      setMetadata ( Metadata value)
 
   </div>
 
@@ -520,7 +523,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setOpacity(double value)
+      setOpacity (double value)
 
   </div>
 
@@ -543,7 +546,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setPitch(double value)
+      setPitch (double value)
 
   </div>
 
@@ -565,7 +568,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setRenderInternalsEnabled(boolean value)
+      setRenderInternalsEnabled (boolean value)
 
   </div>
 
@@ -588,7 +591,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setRoll(double value)
+      setRoll (double value)
 
   </div>
 
@@ -610,7 +613,7 @@ to face any direction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setScale(double value)
+      setScale (double value)
 
   </div>
 
@@ -632,7 +635,7 @@ to face any direction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setVisibilityRanges(List<MapMeasureRange> value)
+      setVisibilityRanges ( List < MapMeasureRange > value)
 
   </div>
 
@@ -652,20 +655,55 @@ to face any direction.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-mapview-MapMarker3DModel"
     class="section detail">
 
     ### MapMarker3D
@@ -700,7 +738,8 @@ to face any direction.
     The 3D model used to draw 3D marker.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-mapview-MapImage-double-com-here-sdk-mapview-RenderSize-Unit"
     class="section detail">
 
     ### MapMarker3D
@@ -763,7 +802,8 @@ to face any direction.
     world or in screen space.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-mapview-MapMarker3DModel-double"
     class="section detail">
 
     ### MapMarker3D
@@ -805,7 +845,8 @@ to face any direction.
     Scale factor to apply to the 3D model.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-mapview-MapMarker3DModel-double-com-here-sdk-mapview-RenderSize-Unit"
     class="section detail">
 
     ### MapMarker3D
@@ -866,9 +907,11 @@ to face any direction.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getCoordinates()"
+
+  - <div id="sdk-for-android-explore-getCoordinates"
     class="section detail">
 
     ### getCoordinates
@@ -894,7 +937,8 @@ to face any direction.
     of the 3D marker model coordinate system.
 
     </div>
-<div id="sdk-for-android-explore-setCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-setCoordinates-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### setCoordinates
@@ -922,7 +966,8 @@ to face any direction.
     of the 3D marker model coordinate system.
 
     </div>
-<div id="sdk-for-android-explore-getMetadata()"
+
+  - <div id="sdk-for-android-explore-getMetadata"
     class="section detail">
 
     ### getMetadata
@@ -947,7 +992,8 @@ to face any direction.
     instance attached to this 3D marker.
 
     </div>
-<div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
+
+  - <div id="sdk-for-android-explore-setMetadata-com-here-sdk-core-Metadata"
     class="section detail">
 
     ### setMetadata
@@ -973,8 +1019,8 @@ to face any direction.
     instance attached to this 3D marker.
 
     </div>
-<div id="sdk-for-android-explore-getBearing()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getBearing" class="section detail">
 
     ### getBearing
 
@@ -997,7 +1043,8 @@ to face any direction.
     clockwise direction.
 
     </div>
-<div id="sdk-for-android-explore-setBearing(double)"
+
+  - <div id="sdk-for-android-explore-setBearing-double"
     class="section detail">
 
     ### setBearing
@@ -1023,7 +1070,8 @@ to face any direction.
     clockwise direction.
 
     </div>
-<div id="sdk-for-android-explore-getRoll()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getRoll" class="section detail">
 
     ### getRoll
 
@@ -1049,7 +1097,8 @@ to face any direction.
     The roll angle of the 3D model in degrees.
 
     </div>
-<div id="sdk-for-android-explore-setRoll(double)"
+
+  - <div id="sdk-for-android-explore-setRoll-double"
     class="section detail">
 
     ### setRoll
@@ -1078,7 +1127,8 @@ to face any direction.
     The roll angle of the 3D model in degrees.
 
     </div>
-<div id="sdk-for-android-explore-getPitch()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getPitch" class="section detail">
 
     ### getPitch
 
@@ -1103,7 +1153,8 @@ to face any direction.
     The pitch of the 3D model in degrees.
 
     </div>
-<div id="sdk-for-android-explore-setPitch(double)"
+
+  - <div id="sdk-for-android-explore-setPitch-double"
     class="section detail">
 
     ### setPitch
@@ -1131,7 +1182,8 @@ to face any direction.
     The pitch of the 3D model in degrees.
 
     </div>
-<div id="sdk-for-android-explore-getScale()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getScale" class="section detail">
 
     ### getScale
 
@@ -1151,7 +1203,8 @@ to face any direction.
     Scale factor applied to the 3D model before rendering.
 
     </div>
-<div id="sdk-for-android-explore-setScale(double)"
+
+  - <div id="sdk-for-android-explore-setScale-double"
     class="section detail">
 
     ### setScale
@@ -1175,7 +1228,8 @@ to face any direction.
     Scale factor applied to the 3D model before rendering.
 
     </div>
-<div id="sdk-for-android-explore-isDepthCheckEnabled()"
+
+  - <div id="sdk-for-android-explore-isDepthCheckEnabled"
     class="section detail">
 
     ### isDepthCheckEnabled
@@ -1204,7 +1258,8 @@ to face any direction.
     considered during rendering.
 
     </div>
-<div id="sdk-for-android-explore-setDepthCheckEnabled(boolean)"
+
+  - <div id="sdk-for-android-explore-setDepthCheckEnabled-boolean"
     class="section detail">
 
     ### setDepthCheckEnabled
@@ -1235,7 +1290,8 @@ to face any direction.
     considered during rendering.
 
     </div>
-<div id="sdk-for-android-explore-isRenderInternalsEnabled()"
+
+  - <div id="sdk-for-android-explore-isRenderInternalsEnabled"
     class="section detail">
 
     ### isRenderInternalsEnabled
@@ -1264,7 +1320,8 @@ to face any direction.
     occluded by its front facing polygons.
 
     </div>
-<div id="sdk-for-android-explore-setRenderInternalsEnabled(boolean)"
+
+  - <div id="sdk-for-android-explore-setRenderInternalsEnabled-boolean"
     class="section detail">
 
     ### setRenderInternalsEnabled
@@ -1295,8 +1352,8 @@ to face any direction.
     occluded by its front facing polygons.
 
     </div>
-<div id="sdk-for-android-explore-getOpacity()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getOpacity" class="section detail">
 
     ### getOpacity
 
@@ -1320,7 +1377,8 @@ to face any direction.
     The opacity factor adjusting the opacity of a 3D marker.
 
     </div>
-<div id="sdk-for-android-explore-setOpacity(double)"
+
+  - <div id="sdk-for-android-explore-setOpacity-double"
     class="section detail">
 
     ### setOpacity
@@ -1348,7 +1406,8 @@ to face any direction.
     The opacity factor adjusting the opacity of a 3D marker.
 
     </div>
-<div id="sdk-for-android-explore-getVisibilityRanges()"
+
+  - <div id="sdk-for-android-explore-getVisibilityRanges"
     class="section detail">
 
     ### getVisibilityRanges
@@ -1356,7 +1415,9 @@ to face any direction.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1376,7 +1437,8 @@ to face any direction.
     these map measure ranges.
 
     </div>
-<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+
+  - <div id="sdk-for-android-explore-setVisibilityRanges-java-util-List"
     class="section detail">
 
     ### setVisibilityRanges
@@ -1384,7 +1446,9 @@ to face any direction.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
@@ -1408,6 +1472,4 @@ to face any direction.
     </div>
 
   </div>
-
-</div>
 

@@ -3,17 +3,22 @@ title: "SDKNativeEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.core.engine.SDKNativeEngine →
-com.here.NativeBase → com.here.sdk.core.engine.SDKNativeEngine
+java.lang.Object com.here.NativeBase
+com.here.sdk.core.engine.SDKNativeEngine → com.here.NativeBase
+com.here.sdk.core.engine.SDKNativeEngine →
+com.here.sdk.core.engine.SDKNativeEngine
 
 </div>
 
@@ -42,8 +47,7 @@ automatically set a shared instance.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -80,7 +84,10 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" class="type-name-link" title="enum class in com.here.sdk.core.engine"><code>SDKNativeEngine.PurgeMemoryStrategy</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy"
+  class="type-name-link"
+  title="enum class in com.here.sdk.core.engine"><code>SDKNativeEngine.PurgeMemoryStrategy</code></a>
 
   </div>
 
@@ -97,7 +104,8 @@ automatically set a shared instance.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -122,8 +130,7 @@ automatically set a shared instance.
 
   <div class="col-constructor-name even-row-color">
 
-      SDKNativeEngine(android.content.Context androidContext,
-       SDKOptions options)
+      SDKNativeEngine (android.content.Context androidContext, SDKOptions options)
 
   </div>
 
@@ -140,7 +147,8 @@ automatically set a shared instance.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -173,7 +181,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      clearPersistentUsageStats()
+      clearPersistentUsageStats ()
 
   </div>
 
@@ -195,7 +203,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      clearUsageStatsCache()
+      clearUsageStatsCache ()
 
   </div>
 
@@ -217,7 +225,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      dispose()
+      dispose ()
 
   </div>
 
@@ -239,7 +247,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      enableUsageStats(boolean enabled)
+      enableUsageStats (boolean enabled)
 
   </div>
 
@@ -261,7 +269,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getDeviceId(DeviceIdCallback callback)
+      getDeviceId ( DeviceIdCallback callback)
 
   </div>
 
@@ -283,7 +291,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getOptions()
+      getOptions ()
 
   </div>
 
@@ -305,7 +313,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getParameterConfig()
+      getParameterConfig ()
 
   </div>
 
@@ -322,13 +330,16 @@ automatically set a shared instance.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util"><code>Set</code></a>`<`[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
+  class="external-link"
+  title="class or interface in java.util"><code>Set</code></a>`<`[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getPassThroughFeatures()
+      getPassThroughFeatures ()
 
   </div>
 
@@ -350,7 +361,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getProxySettings()
+      getProxySettings ()
 
   </div>
 
@@ -366,13 +377,16 @@ automatically set a shared instance.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`UsageStats`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`UsageStats`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      getSdkUsageStats()
+      getSdkUsageStats ()
 
   </div>
 
@@ -394,7 +408,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      getSharedInstance()
+      getSharedInstance ()
 
   </div>
 
@@ -417,7 +431,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      isOfflineMode()
+      isOfflineMode ()
 
   </div>
 
@@ -439,8 +453,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      makeSharedInstance(android.content.Context androidContext,
-       SDKOptions options)
+      makeSharedInstance (android.content.Context androidContext, SDKOptions options)
 
   </div>
 
@@ -463,7 +476,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      purgeMemoryCaches(SDKNativeEngine.PurgeMemoryStrategy strategy)
+      purgeMemoryCaches ( SDKNativeEngine.PurgeMemoryStrategy strategy)
 
   </div>
 
@@ -485,7 +498,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setAccessKeySecret(String accessKeySecret)
+      setAccessKeySecret ( String accessKeySecret)
 
   </div>
 
@@ -507,7 +520,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setAccessScope(String scope)
+      setAccessScope ( String scope)
 
   </div>
 
@@ -529,7 +542,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setOfflineMode(boolean value)
+      setOfflineMode (boolean value)
 
   </div>
 
@@ -551,7 +564,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setParameterConfig(ParameterConfiguration value)
+      setParameterConfig ( ParameterConfiguration value)
 
   </div>
 
@@ -574,7 +587,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setPassThroughFeatures(Set<PassThroughFeature> value)
+      setPassThroughFeatures ( Set < PassThroughFeature > value)
 
   </div>
 
@@ -596,7 +609,7 @@ automatically set a shared instance.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      setProxySettings(ProxySettings value)
+      setProxySettings ( ProxySettings value)
 
   </div>
 
@@ -618,7 +631,7 @@ automatically set a shared instance.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      setSharedInstance(SDKNativeEngine value)
+      setSharedInstance ( SDKNativeEngine value)
 
   </div>
 
@@ -639,20 +652,55 @@ automatically set a shared instance.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+
+  - <div id="sdk-for-android-explore-init-android-content-Context-com-here-sdk-core-engine-SDKOptions"
     class="section detail">
 
     ### SDKNativeEngine
@@ -690,9 +738,11 @@ automatically set a shared instance.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-setAccessKeySecret(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setAccessKeySecret-java-lang-String"
     class="section detail">
 
     ### setAccessKeySecret
@@ -700,7 +750,9 @@ automatically set a shared instance.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAccessKeySecret</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
 
     </div>
 
@@ -720,7 +772,8 @@ automatically set a shared instance.
     New access key secret.
 
     </div>
-<div id="sdk-for-android-explore-setAccessScope(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setAccessScope-java-lang-String"
     class="section detail">
 
     ### setAccessScope
@@ -728,7 +781,9 @@ automatically set a shared instance.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAccessScope</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> scope)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> scope)</span>
 
     </div>
 
@@ -747,7 +802,8 @@ automatically set a shared instance.
     New scope for token
 
     </div>
-<div id="sdk-for-android-explore-dispose()" class="section detail">
+
+  - <div id="sdk-for-android-explore-dispose" class="section detail">
 
     ### dispose
 
@@ -768,7 +824,8 @@ automatically set a shared instance.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-enableUsageStats(boolean)"
+
+  - <div id="sdk-for-android-explore-enableUsageStats-boolean"
     class="section detail">
 
     ### enableUsageStats
@@ -797,7 +854,8 @@ automatically set a shared instance.
     True, if UsageStats are enabled.
 
     </div>
-<div id="sdk-for-android-explore-makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+
+  - <div id="sdk-for-android-explore-makeSharedInstance-android-content-Context-com-here-sdk-core-engine-SDKOptions"
     class="section detail">
 
     ### makeSharedInstance
@@ -840,7 +898,8 @@ automatically set a shared instance.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-clearPersistentUsageStats()"
+
+  - <div id="sdk-for-android-explore-clearPersistentUsageStats"
     class="section detail">
 
     ### clearPersistentUsageStats
@@ -861,7 +920,8 @@ automatically set a shared instance.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-clearUsageStatsCache()"
+
+  - <div id="sdk-for-android-explore-clearUsageStatsCache"
     class="section detail">
 
     ### clearUsageStatsCache
@@ -882,7 +942,8 @@ automatically set a shared instance.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"
+
+  - <div id="sdk-for-android-explore-purgeMemoryCaches-com-here-sdk-core-engine-SDKNativeEngine-PurgeMemoryStrategy"
     class="section detail">
 
     ### purgeMemoryCaches
@@ -908,7 +969,8 @@ automatically set a shared instance.
     Option to control how much memory caches will be purged.
 
     </div>
-<div id="sdk-for-android-explore-getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"
+
+  - <div id="sdk-for-android-explore-getDeviceId-com-here-sdk-core-engine-DeviceIdCallback"
     class="section detail">
 
     ### getDeviceId
@@ -934,8 +996,8 @@ automatically set a shared instance.
     Callback which receives the result on the main thread.
 
     </div>
-<div id="sdk-for-android-explore-getOptions()"
-    class="section detail">
+
+  - <div id="sdk-for-android-explore-getOptions" class="section detail">
 
     ### getOptions
 
@@ -957,7 +1019,8 @@ automatically set a shared instance.
     [`SDKNativeEngine`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine").
 
     </div>
-<div id="sdk-for-android-explore-getSharedInstance()"
+
+  - <div id="sdk-for-android-explore-getSharedInstance"
     class="section detail">
 
     ### getSharedInstance
@@ -983,7 +1046,8 @@ automatically set a shared instance.
     SDK module as the default engine.
 
     </div>
-<div id="sdk-for-android-explore-setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)"
+
+  - <div id="sdk-for-android-explore-setSharedInstance-com-here-sdk-core-engine-SDKNativeEngine"
     class="section detail">
 
     ### setSharedInstance
@@ -1011,7 +1075,8 @@ automatically set a shared instance.
     SDK module as the default engine.
 
     </div>
-<div id="sdk-for-android-explore-isOfflineMode()"
+
+  - <div id="sdk-for-android-explore-isOfflineMode"
     class="section detail">
 
     ### isOfflineMode
@@ -1044,7 +1109,8 @@ automatically set a shared instance.
     The offline mode.
 
     </div>
-<div id="sdk-for-android-explore-setOfflineMode(boolean)"
+
+  - <div id="sdk-for-android-explore-setOfflineMode-boolean"
     class="section detail">
 
     ### setOfflineMode
@@ -1079,7 +1145,8 @@ automatically set a shared instance.
     The offline mode.
 
     </div>
-<div id="sdk-for-android-explore-getPassThroughFeatures()"
+
+  - <div id="sdk-for-android-explore-getPassThroughFeatures"
     class="section detail">
 
     ### getPassThroughFeatures
@@ -1087,7 +1154,9 @@ automatically set a shared instance.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">getPassThroughFeatures</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">getPassThroughFeatures</span>()
 
     </div>
 
@@ -1110,7 +1179,8 @@ automatically set a shared instance.
     The pass through features.
 
     </div>
-<div id="sdk-for-android-explore-setPassThroughFeatures(java.util.Set)"
+
+  - <div id="sdk-for-android-explore-setPassThroughFeatures-java-util-Set"
     class="section detail">
 
     ### setPassThroughFeatures
@@ -1118,7 +1188,9 @@ automatically set a shared instance.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><span class="parameters">(@Nullable
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\> value)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html"
+    class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\> value)</span>
 
     </div>
 
@@ -1143,7 +1215,8 @@ automatically set a shared instance.
     The pass through features.
 
     </div>
-<div id="sdk-for-android-explore-getParameterConfig()"
+
+  - <div id="sdk-for-android-explore-getParameterConfig"
     class="section detail">
 
     ### getParameterConfig
@@ -1169,7 +1242,8 @@ automatically set a shared instance.
     Configuration for default values of parameters used in the HERE SDK.
 
     </div>
-<div id="sdk-for-android-explore-setParameterConfig(com.here.sdk.core.ParameterConfiguration)"
+
+  - <div id="sdk-for-android-explore-setParameterConfig-com-here-sdk-core-ParameterConfiguration"
     class="section detail">
 
     ### setParameterConfig
@@ -1197,7 +1271,8 @@ automatically set a shared instance.
     Configuration for default values of parameters used in the HERE SDK.
 
     </div>
-<div id="sdk-for-android-explore-getProxySettings()"
+
+  - <div id="sdk-for-android-explore-getProxySettings"
     class="section detail">
 
     ### getProxySettings
@@ -1229,7 +1304,8 @@ automatically set a shared instance.
     network for all requests.
 
     </div>
-<div id="sdk-for-android-explore-setProxySettings(com.here.sdk.core.engine.ProxySettings)"
+
+  - <div id="sdk-for-android-explore-setProxySettings-com-here-sdk-core-engine-ProxySettings"
     class="section detail">
 
     ### setProxySettings
@@ -1262,7 +1338,8 @@ automatically set a shared instance.
     network for all requests.
 
     </div>
-<div id="sdk-for-android-explore-getSdkUsageStats()"
+
+  - <div id="sdk-for-android-explore-getSdkUsageStats"
     class="section detail">
 
     ### getSdkUsageStats
@@ -1270,7 +1347,9 @@ automatically set a shared instance.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")\></span> <span class="element-name">getSdkUsageStats</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")\></span> <span class="element-name">getSdkUsageStats</span>()
 
     </div>
 
@@ -1293,6 +1372,4 @@ automatically set a shared instance.
     </div>
 
   </div>
-
-</div>
 

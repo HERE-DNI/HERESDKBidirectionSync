@@ -22,6 +22,8 @@ slug: "sdk-for-android-explore-help-doc"
 
 <div class="sub-title">
 
+## Navigation
+
 Starting from the [Overview](sdk-for-android-explore-index) page, you
 can browse the documentation using the links in each page, and in the
 navigation bar at the top of each page. The
@@ -53,6 +55,8 @@ for a full description of search features.
 </div>
 
 <div class="sub-title">
+
+## Kinds of Pages
 
 The following sections describe the different kinds of pages in this
 collection.

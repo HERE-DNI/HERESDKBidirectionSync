@@ -3,15 +3,20 @@ title: "CategoryQuery.Area (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.search.CategoryQuery.Area
+java.lang.Object com.here.sdk.search.CategoryQuery.Area →
+com.here.sdk.search.CategoryQuery.Area
 
 </div>
 
@@ -25,7 +30,9 @@ Enclosing class:
 
 <span class="modifiers">public static final class
 </span><span class="element-name type-name-label">CategoryQuery.Area</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -37,8 +44,7 @@ Area to perform search on.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -75,7 +81,9 @@ Area to perform search on.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#areaCenter" class="member-name-link"><code>areaCenter</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#areaCenter"
+  class="member-name-link"><code>areaCenter</code></a>
 
   </div>
 
@@ -98,7 +106,9 @@ Area to perform search on.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#boxArea" class="member-name-link"><code>boxArea</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#boxArea"
+  class="member-name-link"><code>boxArea</code></a>
 
   </div>
 
@@ -121,7 +131,9 @@ Area to perform search on.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#circleArea" class="member-name-link"><code>circleArea</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#circleArea"
+  class="member-name-link"><code>circleArea</code></a>
 
   </div>
 
@@ -143,7 +155,9 @@ Area to perform search on.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#corridorArea" class="member-name-link"><code>corridorArea</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area#corridorArea"
+  class="member-name-link"><code>corridorArea</code></a>
 
   </div>
 
@@ -160,7 +174,8 @@ Area to perform search on.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -185,7 +200,7 @@ Area to perform search on.
 
   <div class="col-constructor-name even-row-color">
 
-      Area(GeoCoordinates areaCenter)
+      Area ( GeoCoordinates areaCenter)
 
   </div>
 
@@ -201,8 +216,7 @@ Area to perform search on.
 
   <div class="col-constructor-name odd-row-color">
 
-      Area(GeoCoordinates areaCenter,
-       GeoBox boxArea)
+      Area ( GeoCoordinates areaCenter, GeoBox boxArea)
 
   </div>
 
@@ -218,8 +232,7 @@ Area to perform search on.
 
   <div class="col-constructor-name even-row-color">
 
-      Area(GeoCoordinates areaCenter,
-       GeoCircle circleArea)
+      Area ( GeoCoordinates areaCenter, GeoCircle circleArea)
 
   </div>
 
@@ -235,8 +248,7 @@ Area to perform search on.
 
   <div class="col-constructor-name odd-row-color">
 
-      Area(GeoCorridor corridorArea,
-       GeoCoordinates areaCenter)
+      Area ( GeoCorridor corridorArea, GeoCoordinates areaCenter)
 
   </div>
 
@@ -253,7 +265,8 @@ Area to perform search on.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -286,7 +299,7 @@ Area to perform search on.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -304,7 +317,7 @@ Area to perform search on.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -320,20 +333,49 @@ Area to perform search on.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-areaCenter" class="section detail">
+
+  - <div id="sdk-for-android-explore-areaCenter" class="section detail">
 
     ### areaCenter
 
@@ -353,7 +395,8 @@ Area to perform search on.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-boxArea" class="section detail">
+
+  - <div id="sdk-for-android-explore-boxArea" class="section detail">
 
     ### boxArea
 
@@ -373,7 +416,8 @@ Area to perform search on.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-circleArea" class="section detail">
+
+  - <div id="sdk-for-android-explore-circleArea" class="section detail">
 
     ### circleArea
 
@@ -392,7 +436,8 @@ Area to perform search on.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-corridorArea"
+
+  - <div id="sdk-for-android-explore-corridorArea"
     class="section detail">
 
     ### corridorArea
@@ -428,9 +473,11 @@ Area to perform search on.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### Area
@@ -455,7 +502,8 @@ Area to perform search on.
     most relevant places.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### Area
@@ -487,7 +535,8 @@ Area to perform search on.
     places.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-GeoCircle"
     class="section detail">
 
     ### Area
@@ -518,7 +567,8 @@ Area to perform search on.
     Geographic circle area in which to provide the most relevant places.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCorridor-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### Area
@@ -565,25 +615,36 @@ Area to perform search on.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -594,12 +655,16 @@ Area to perform search on.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

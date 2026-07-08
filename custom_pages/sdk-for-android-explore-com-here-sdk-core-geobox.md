@@ -3,15 +3,19 @@ title: "GeoBox (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.core.GeoBox
+java.lang.Object com.here.sdk.core.GeoBox → com.here.sdk.core.GeoBox
 
 </div>
 
@@ -22,7 +26,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">GeoBox</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -41,8 +47,7 @@ latitude of the northEastCorner .
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -79,7 +84,9 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-geobox#northEastCorner" class="member-name-link"><code>northEastCorner</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-geobox#northEastCorner"
+  class="member-name-link"><code>northEastCorner</code></a>
 
   </div>
 
@@ -101,7 +108,9 @@ latitude of the northEastCorner .
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-geobox#southWestCorner" class="member-name-link"><code>southWestCorner</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-core-geobox#southWestCorner"
+  class="member-name-link"><code>southWestCorner</code></a>
 
   </div>
 
@@ -118,7 +127,8 @@ latitude of the northEastCorner .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -143,8 +153,7 @@ latitude of the northEastCorner .
 
   <div class="col-constructor-name even-row-color">
 
-      GeoBox(GeoCoordinates southWestCorner,
-       GeoCoordinates northEastCorner)
+      GeoBox ( GeoCoordinates southWestCorner, GeoCoordinates northEastCorner)
 
   </div>
 
@@ -161,7 +170,8 @@ latitude of the northEastCorner .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -194,7 +204,7 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      containing(List<GeoCoordinates> geoCoordinates)
+      containing ( List < GeoCoordinates > geoCoordinates)
 
   </div>
 
@@ -216,7 +226,7 @@ latitude of the northEastCorner .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      contains(GeoBox geoBox)
+      contains ( GeoBox geoBox)
 
   </div>
 
@@ -239,7 +249,7 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      contains(GeoCoordinates geoCoordinates)
+      contains ( GeoCoordinates geoCoordinates)
 
   </div>
 
@@ -262,7 +272,7 @@ latitude of the northEastCorner .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      envelope(GeoBox geoBox)
+      envelope ( GeoBox geoBox)
 
   </div>
 
@@ -285,7 +295,7 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      envelopeGeoBoxes(List<GeoBox> geoBoxes)
+      envelopeGeoBoxes ( List < GeoBox > geoBoxes)
 
   </div>
 
@@ -308,7 +318,7 @@ latitude of the northEastCorner .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -326,7 +336,7 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      expandedBy(double southMeters,
+      expandedBy (double southMeters,
        double westMeters,
        double northMeters,
        double eastMeters)
@@ -351,7 +361,7 @@ latitude of the northEastCorner .
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -363,13 +373,16 @@ latitude of the northEastCorner .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      intersection(GeoBox geoBox)
+      intersection ( GeoBox geoBox)
 
   </div>
 
@@ -385,13 +398,16 @@ latitude of the northEastCorner .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  `static `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-      intersection(List<GeoBox> geoBoxes)
+      intersection ( List < GeoBox > geoBoxes)
 
   </div>
 
@@ -413,7 +429,7 @@ latitude of the northEastCorner .
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      intersects(GeoBox geoBox)
+      intersects ( GeoBox geoBox)
 
   </div>
 
@@ -433,20 +449,49 @@ latitude of the northEastCorner .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-southWestCorner"
+
+  - <div id="sdk-for-android-explore-southWestCorner"
     class="section detail">
 
     ### southWestCorner
@@ -466,7 +511,8 @@ latitude of the northEastCorner .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-northEastCorner"
+
+  - <div id="sdk-for-android-explore-northEastCorner"
     class="section detail">
 
     ### northEastCorner
@@ -488,9 +534,11 @@ latitude of the northEastCorner .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### GeoBox
@@ -522,25 +570,36 @@ latitude of the northEastCorner .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -551,11 +610,18 @@ latitude of the northEastCorner .
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-containing(java.util.List)"
+
+  - <div id="sdk-for-android-explore-containing-java-util-List"
     class="section detail">
 
     ### containing
@@ -565,7 +631,9 @@ latitude of the northEastCorner .
     <span class="annotations">@Nullable
     </span><span class="modifiers">public
     static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">containing</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> geoCoordinates)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> geoCoordinates)</span>
 
     </div>
 
@@ -587,7 +655,8 @@ latitude of the northEastCorner .
     two coordinates were provided.
 
     </div>
-<div id="sdk-for-android-explore-envelope(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-envelope-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### envelope
@@ -616,7 +685,8 @@ latitude of the northEastCorner .
     `GeoBox` covering two`GeoBox` areas
 
     </div>
-<div id="sdk-for-android-explore-envelopeGeoBoxes(java.util.List)"
+
+  - <div id="sdk-for-android-explore-envelopeGeoBoxes-java-util-List"
     class="section detail">
 
     ### envelopeGeoBoxes
@@ -626,7 +696,9 @@ latitude of the northEastCorner .
     <span class="annotations">@Nullable
     </span><span class="modifiers">public
     static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">envelopeGeoBoxes</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
 
     </div>
 
@@ -646,7 +718,8 @@ latitude of the northEastCorner .
     `GeoBox` covering all `GeoBox` areas, or `null` if input is empty.
 
     </div>
-<div id="sdk-for-android-explore-intersects(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-intersects-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### intersects
@@ -674,7 +747,8 @@ latitude of the northEastCorner .
     `true` if intersects with the `GeoBox, false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-intersection(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-intersection-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### intersection
@@ -682,7 +756,9 @@ latitude of the northEastCorner .
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
     [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
 
     </div>
@@ -709,7 +785,8 @@ latitude of the northEastCorner .
     [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core").
 
     </div>
-<div id="sdk-for-android-explore-intersection(java.util.List)"
+
+  - <div id="sdk-for-android-explore-intersection-java-util-List"
     class="section detail">
 
     ### intersection
@@ -718,8 +795,12 @@ latitude of the northEastCorner .
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
-    static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    static</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
 
     </div>
 
@@ -750,7 +831,8 @@ latitude of the northEastCorner .
     instances.
 
     </div>
-<div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoBox)"
+
+  - <div id="sdk-for-android-explore-contains-com-here-sdk-core-GeoBox"
     class="section detail">
 
     ### contains
@@ -778,7 +860,8 @@ latitude of the northEastCorner .
     `true` if covered by the `GeoBox, false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-contains-com-here-sdk-core-GeoCoordinates"
     class="section detail">
 
     ### contains
@@ -806,7 +889,8 @@ latitude of the northEastCorner .
     `true` if contained within the `GeoBox, false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-expandedBy(double,double,double,double)"
+
+  - <div id="sdk-for-android-explore-expandedBy-double-double-double-double"
     class="section detail">
 
     ### expandedBy
@@ -857,6 +941,4 @@ latitude of the northEastCorner .
     </div>
 
   </div>
-
-</div>
 

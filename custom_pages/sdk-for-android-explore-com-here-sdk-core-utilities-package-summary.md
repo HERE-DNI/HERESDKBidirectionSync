@@ -3,14 +3,17 @@ title: "com.here.sdk.core.utilities (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-utilities-package-summary"
 ---
 
+<div class="header">
+
+</div>
+
 <div class="package-signature">
 
 package <span class="element-name">com.here.sdk.core.utilities</span>
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -83,6 +86,4 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
   </div>
 
   </div>
-
-</div>
 

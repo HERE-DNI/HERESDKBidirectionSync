@@ -3,9 +3,13 @@ title: "RoutingInterface (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-routinginterface"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+
+</div>
 
 </div>
 
@@ -32,8 +36,7 @@ possible, though unlikely, deadlock on destruction.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -66,9 +69,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       BicycleOptions bicycleOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, BicycleOptions bicycleOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -90,9 +91,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       BusOptions busOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, BusOptions busOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -114,9 +113,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       CarOptions carOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, CarOptions carOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -138,9 +135,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       EVCarOptions evCarOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, EVCarOptions evCarOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -162,9 +157,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       EVTruckOptions evTruckOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, EVTruckOptions evTruckOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -186,9 +179,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       PedestrianOptions pedestrianOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, PedestrianOptions pedestrianOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -210,9 +201,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       PrivateBusOptions privateBusOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, PrivateBusOptions privateBusOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -234,9 +223,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      calculateRoute(List<Waypoint> waypoints,
-       RoutingOptions options,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, RoutingOptions options, CalculateRouteCallback callback)
 
   </div>
 
@@ -259,9 +246,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       ScooterOptions scooterOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, ScooterOptions scooterOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -283,9 +268,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       TaxiOptions taxiOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, TaxiOptions taxiOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -307,9 +290,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-      calculateRoute(List<Waypoint> waypoints,
-       TruckOptions truckOptions,
-       CalculateRouteCallback callback)
+      calculateRoute ( List < Waypoint > waypoints, TruckOptions truckOptions, CalculateRouteCallback callback)
 
   </div>
 
@@ -331,7 +312,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      dispose()
+      dispose ()
 
   </div>
 
@@ -353,11 +334,9 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-      returnToRoute(Route route,
-       Waypoint startingPoint,
+      returnToRoute ( Route route, Waypoint startingPoint,
        int lastTraveledSectionIndex,
-       int traveledDistanceOnLastSectionInMeters,
-       CalculateRouteCallback callback)
+       int traveledDistanceOnLastSectionInMeters, CalculateRouteCallback callback)
 
   </div>
 
@@ -378,12 +357,12 @@ possible, though unlikely, deadlock on destruction.
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-RoutingOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
@@ -392,7 +371,9 @@ possible, though unlikely, deadlock on destruction.
 
     <span class="annotations">@NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options,
     @NonNull
@@ -431,16 +412,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-CarOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions,
     @NonNull
@@ -495,16 +482,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-PedestrianOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions,
     @NonNull
@@ -563,16 +556,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-TruckOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions,
     @NonNull
@@ -627,16 +626,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-ScooterOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions,
     @NonNull
@@ -695,16 +700,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-BicycleOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions,
     @NonNull
@@ -763,16 +774,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-TaxiOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions,
     @NonNull
@@ -831,16 +848,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-EVCarOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions,
     @NonNull
@@ -895,16 +918,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-EVTruckOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions,
     @NonNull
@@ -959,16 +988,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-BusOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions,
     @NonNull
@@ -1023,16 +1058,22 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-calculateRoute-java-util-List-com-here-sdk-routing-PrivateBusOptions-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull
+    <span class="annotations"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+    class="external-link"
+    title="class or interface in java.lang">@Deprecated</a> @NonNull
     </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints,
     @NonNull
     [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions,
     @NonNull
@@ -1087,7 +1128,8 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)"
+
+  - <div id="sdk-for-android-explore-returnToRoute-com-here-sdk-routing-Route-com-here-sdk-routing-Waypoint-int-int-com-here-sdk-routing-CalculateRouteCallback"
     class="section detail">
 
     ### returnToRoute
@@ -1178,7 +1220,8 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-dispose()" class="section detail">
+
+  - <div id="sdk-for-android-explore-dispose" class="section detail">
 
     ### dispose
 
@@ -1198,6 +1241,4 @@ possible, though unlikely, deadlock on destruction.
     </div>
 
   </div>
-
-</div>
 

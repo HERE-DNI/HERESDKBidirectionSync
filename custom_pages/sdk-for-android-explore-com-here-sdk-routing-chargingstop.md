@@ -3,15 +3,20 @@ title: "ChargingStop (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object → com.here.sdk.routing.ChargingStop
+java.lang.Object com.here.sdk.routing.ChargingStop →
+com.here.sdk.routing.ChargingStop
 
 </div>
 
@@ -22,7 +27,9 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">ChargingStop</span>
-<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -39,8 +46,7 @@ them, the route calculation will fail as an invalid parameter error.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -77,7 +83,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#currentInAmperes" class="member-name-link"><code>currentInAmperes</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#currentInAmperes"
+  class="member-name-link"><code>currentInAmperes</code></a>
 
   </div>
 
@@ -99,7 +107,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#maxDuration" class="member-name-link"><code>maxDuration</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#maxDuration"
+  class="member-name-link"><code>maxDuration</code></a>
 
   </div>
 
@@ -122,7 +132,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#minDuration" class="member-name-link"><code>minDuration</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#minDuration"
+  class="member-name-link"><code>minDuration</code></a>
 
   </div>
 
@@ -145,7 +157,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#powerInKilowatts" class="member-name-link"><code>powerInKilowatts</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#powerInKilowatts"
+  class="member-name-link"><code>powerInKilowatts</code></a>
 
   </div>
 
@@ -167,7 +181,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#supplyType" class="member-name-link"><code>supplyType</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#supplyType"
+  class="member-name-link"><code>supplyType</code></a>
 
   </div>
 
@@ -189,7 +205,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#voltageInVolts" class="member-name-link"><code>voltageInVolts</code></a>
+  <a
+  href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#voltageInVolts"
+  class="member-name-link"><code>voltageInVolts</code></a>
 
   </div>
 
@@ -206,7 +224,8 @@ them, the route calculation will fail as an invalid parameter error.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -231,7 +250,7 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-constructor-name even-row-color">
 
-      ChargingStop()
+      ChargingStop ()
 
   </div>
 
@@ -247,12 +266,9 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-constructor-name odd-row-color">
 
-      ChargingStop(double powerInKilowatts,
+      ChargingStop (double powerInKilowatts,
        double currentInAmperes,
-       double voltageInVolts,
-       ChargingSupplyType supplyType,
-       Duration minDuration,
-       Duration maxDuration)
+       double voltageInVolts, ChargingSupplyType supplyType, Duration minDuration, Duration maxDuration)
 
   </div>
 
@@ -269,7 +285,8 @@ them, the route calculation will fail as an invalid parameter error.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -302,7 +319,7 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      equals(Object obj)
+      equals ( Object obj)
 
   </div>
 
@@ -320,7 +337,7 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-      hashCode()
+      hashCode ()
 
   </div>
 
@@ -336,20 +353,49 @@ them, the route calculation will fail as an invalid parameter error.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-powerInKilowatts"
+
+  - <div id="sdk-for-android-explore-powerInKilowatts"
     class="section detail">
 
     ### powerInKilowatts
@@ -367,7 +413,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-currentInAmperes"
+
+  - <div id="sdk-for-android-explore-currentInAmperes"
     class="section detail">
 
     ### currentInAmperes
@@ -385,7 +432,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-voltageInVolts"
+
+  - <div id="sdk-for-android-explore-voltageInVolts"
     class="section detail">
 
     ### voltageInVolts
@@ -403,7 +451,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-supplyType" class="section detail">
+
+  - <div id="sdk-for-android-explore-supplyType" class="section detail">
 
     ### supplyType
 
@@ -421,7 +470,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-minDuration"
+
+  - <div id="sdk-for-android-explore-minDuration"
     class="section detail">
 
     ### minDuration
@@ -444,7 +494,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxDuration"
+
+  - <div id="sdk-for-android-explore-maxDuration"
     class="section detail">
 
     ### maxDuration
@@ -469,9 +520,11 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-init" class="section detail">
 
     ### ChargingStop
 
@@ -488,7 +541,8 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)"
+
+  - <div id="sdk-for-android-explore-init-double-double-double-com-here-sdk-routing-ChargingSupplyType-com-here-time-Duration-com-here-time-Duration"
     class="section detail">
 
     ### ChargingStop
@@ -549,25 +603,36 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals-java-lang-Object"
     class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode" class="section detail">
 
     ### hashCode
 
@@ -578,12 +643,16 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     Overrides:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
-
-</div>
 

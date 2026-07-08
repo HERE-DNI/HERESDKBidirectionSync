@@ -3,17 +3,22 @@ title: "RefreshRouteOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 ---
 
+<div class="header">
+
 <div class="sub-title">
 
 <span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
 
+</div>
+
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object →
-com.here.NativeBasecom.here.sdk.routing.RefreshRouteOptions →
-com.here.NativeBase → com.here.sdk.routing.RefreshRouteOptions
+java.lang.Object com.here.NativeBase
+com.here.sdk.routing.RefreshRouteOptions → com.here.NativeBase
+com.here.sdk.routing.RefreshRouteOptions →
+com.here.sdk.routing.RefreshRouteOptions
 
 </div>
 
@@ -22,7 +27,10 @@ class="section class-description">
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a>
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+class="external-link"
+title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public final class
 </span><span class="element-name type-name-label">RefreshRouteOptions</span>
 <span class="extends-implements">extends
@@ -64,8 +72,7 @@ APIs may change for new releases without a deprecation process.
 
 </div>
 
-<div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -90,7 +97,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(BicycleOptions bicycleOptions)
+      RefreshRouteOptions ( BicycleOptions bicycleOptions)
 
   </div>
 
@@ -112,7 +119,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      RefreshRouteOptions(BusOptions busOptions)
+      RefreshRouteOptions ( BusOptions busOptions)
 
   </div>
 
@@ -134,7 +141,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(CarOptions carOptions)
+      RefreshRouteOptions ( CarOptions carOptions)
 
   </div>
 
@@ -156,7 +163,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      RefreshRouteOptions(EVCarOptions evCarOptions)
+      RefreshRouteOptions ( EVCarOptions evCarOptions)
 
   </div>
 
@@ -178,7 +185,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(EVTruckOptions evTruckOptions)
+      RefreshRouteOptions ( EVTruckOptions evTruckOptions)
 
   </div>
 
@@ -200,7 +207,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      RefreshRouteOptions(PedestrianOptions pedestrianOptions)
+      RefreshRouteOptions ( PedestrianOptions pedestrianOptions)
 
   </div>
 
@@ -222,7 +229,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(PrivateBusOptions privateBusOptions)
+      RefreshRouteOptions ( PrivateBusOptions privateBusOptions)
 
   </div>
 
@@ -244,7 +251,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      RefreshRouteOptions(ScooterOptions scooterOptions)
+      RefreshRouteOptions ( ScooterOptions scooterOptions)
 
   </div>
 
@@ -266,7 +273,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(TaxiOptions taxiOptions)
+      RefreshRouteOptions ( TaxiOptions taxiOptions)
 
   </div>
 
@@ -288,7 +295,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name odd-row-color">
 
-      RefreshRouteOptions(TruckOptions truckOptions)
+      RefreshRouteOptions ( TruckOptions truckOptions)
 
   </div>
 
@@ -310,7 +317,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-constructor-name even-row-color">
 
-      RefreshRouteOptions(TransportMode transportMode)
+      RefreshRouteOptions ( TransportMode transportMode)
 
   </div>
 
@@ -333,25 +340,61 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>, <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
   </div>
 
-</div>
+<!-- -->
 
-<div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.transport.TransportMode)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-transport-TransportMode"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -381,7 +424,8 @@ APIs may change for new releases without a deprecation process.
     Updates the transport mode for the route.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.CarOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-CarOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -416,7 +460,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TruckOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-TruckOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -451,7 +496,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PedestrianOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-PedestrianOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -486,7 +532,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.ScooterOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-ScooterOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -521,7 +568,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TaxiOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-TaxiOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -556,7 +604,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVCarOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-EVCarOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -591,7 +640,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVTruckOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-EVTruckOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -626,7 +676,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BicycleOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-BicycleOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -661,7 +712,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BusOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-BusOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -696,7 +748,8 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PrivateBusOptions)"
+
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-PrivateBusOptions"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -733,6 +786,4 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-</div>
 
