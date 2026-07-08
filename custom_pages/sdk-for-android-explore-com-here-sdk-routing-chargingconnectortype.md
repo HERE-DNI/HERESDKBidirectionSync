@@ -3,6 +3,8 @@ title: "ChargingConnectorType (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,36 +17,18 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object java.lang.Enum \< ChargingConnectorType \>
-com.here.sdk.routing.ChargingConnectorType → java.lang.Enum \<
-ChargingConnectorType \> com.here.sdk.routing.ChargingConnectorType →
-com.here.sdk.routing.ChargingConnectorType
+java.lang.Object java.lang.Enum \< ChargingConnectorType \> com.here.sdk.routing.ChargingConnectorType → java.lang.Enum \< ChargingConnectorType \> com.here.sdk.routing.ChargingConnectorType → com.here.sdk.routing.ChargingConnectorType
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`ChargingConnectorType`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`ChargingConnectorType`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum
-</span><span class="element-name type-name-label">ChargingConnectorType</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">ChargingConnectorType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -56,35 +40,19 @@ Available charging connector types.
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-enum-constant-summary"
-  class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary" class="section constants-summary">
 
   ## Enum Constant Summary
 
@@ -110,9 +78,7 @@ Available charging connector types.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#CHADEMO"
-  class="member-name-link"><code>CHADEMO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#CHADEMO" class="member-name-link"><code>CHADEMO</code></a>
 
   </div>
 
@@ -128,9 +94,7 @@ Available charging connector types.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#GBT_DC"
-  class="member-name-link"><code>GBT_DC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#GBT_DC" class="member-name-link"><code>GBT_DC</code></a>
 
   </div>
 
@@ -146,9 +110,7 @@ Available charging connector types.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_1_COMBO"
-  class="member-name-link"><code>IEC_62196_TYPE_1_COMBO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_1_COMBO" class="member-name-link"><code>IEC_62196_TYPE_1_COMBO</code></a>
 
   </div>
 
@@ -164,9 +126,7 @@ Available charging connector types.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_2_COMBO"
-  class="member-name-link"><code>IEC_62196_TYPE_2_COMBO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_2_COMBO" class="member-name-link"><code>IEC_62196_TYPE_2_COMBO</code></a>
 
   </div>
 
@@ -182,9 +142,7 @@ Available charging connector types.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400"
-  class="member-name-link"><code>SAE_J3400</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400" class="member-name-link"><code>SAE_J3400</code></a>
 
   </div>
 
@@ -192,8 +150,7 @@ Available charging connector types.
 
   <div class="block">
 
-  SAE J3400 - North American Charging Standard (NACS) for Electric
-  Vehicles
+  SAE J3400 - North American Charging Standard (NACS) for Electric Vehicles
 
   </div>
 
@@ -201,9 +158,7 @@ Available charging connector types.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#TESLA"
-  class="member-name-link"><code>TESLA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#TESLA" class="member-name-link"><code>TESLA</code></a>
 
   </div>
 
@@ -221,8 +176,7 @@ Available charging connector types.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -284,8 +238,7 @@ Available charging connector types.
 
   <div class="block">
 
-  Returns an array containing the constants of this enum class, in the
-  order they are declared.
+  Returns an array containing the constants of this enum class, in the order they are declared.
 
   </div>
 
@@ -297,72 +250,17 @@ Available charging connector types.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -370,20 +268,17 @@ Available charging connector types.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-enum-constant-detail"
-  class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail" class="section constant-details">
 
   ## Enum Constant Details
 
-  - <div id="sdk-for-android-explore-IEC_62196_TYPE_1_COMBO"
-    class="section detail">
+  - <div id="sdk-for-android-explore-IEC_62196_TYPE_1_COMBO" class="section detail">
 
     ### IEC_62196_TYPE_1_COMBO
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">IEC_62196_TYPE_1_COMBO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">IEC_62196_TYPE_1_COMBO</span>
 
     </div>
 
@@ -395,15 +290,13 @@ Available charging connector types.
 
     </div>
 
-  - <div id="sdk-for-android-explore-IEC_62196_TYPE_2_COMBO"
-    class="section detail">
+  - <div id="sdk-for-android-explore-IEC_62196_TYPE_2_COMBO" class="section detail">
 
     ### IEC_62196_TYPE_2_COMBO
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">IEC_62196_TYPE_2_COMBO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">IEC_62196_TYPE_2_COMBO</span>
 
     </div>
 
@@ -421,8 +314,7 @@ Available charging connector types.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">CHADEMO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">CHADEMO</span>
 
     </div>
 
@@ -440,12 +332,7 @@ Available charging connector types.
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a>
-    </span><span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">TESLA</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">TESLA</span>
 
     </div>
 
@@ -454,9 +341,7 @@ Available charging connector types.
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.28.0, use
-    [`SAE_J3400`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400)
-    instead.
+    Will be removed in v4.28.0, use [`SAE_J3400`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400) instead.
 
     </div>
 
@@ -476,8 +361,7 @@ Available charging connector types.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">GBT_DC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">GBT_DC</span>
 
     </div>
 
@@ -495,15 +379,13 @@ Available charging connector types.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">SAE_J3400</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">SAE_J3400</span>
 
     </div>
 
     <div class="block">
 
-    SAE J3400 - North American Charging Standard (NACS) for Electric
-    Vehicles
+    SAE J3400 - North American Charging Standard (NACS) for Electric Vehicles
 
     </div>
 
@@ -511,8 +393,7 @@ Available charging connector types.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-values" class="section detail">
 
@@ -520,44 +401,34 @@ Available charging connector types.
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
     <div class="block">
 
-    Returns an array containing the constants of this enum class, in the
-    order they are declared.
+    Returns an array containing the constants of this enum class, in the order they are declared.
 
     </div>
 
     Returns:  
-    an array containing the constants of this enum class, in the order
-    they are declared
+    an array containing the constants of this enum class, in the order they are declared
 
     </div>
 
-  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String" class="section detail">
 
     ### valueOf
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
     <div class="block">
 
-    Returns the enum constant of this class with the specified name. The
-    string must match exactly an identifier used to declare an enum
-    constant in this class. (Extraneous whitespace characters are not
-    permitted.)
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
 
     </div>
 
@@ -568,19 +439,13 @@ Available charging connector types.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
-    if this enum class has no constant with the specified name
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
-    if the argument is null
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

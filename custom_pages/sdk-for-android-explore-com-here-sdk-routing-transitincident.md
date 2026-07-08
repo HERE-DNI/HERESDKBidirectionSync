@@ -3,6 +3,8 @@ title: "TransitIncident (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,35 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.TransitIncident →
-com.here.sdk.routing.TransitIncident
+java.lang.Object com.here.sdk.routing.TransitIncident → com.here.sdk.routing.TransitIncident
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">TransitIncident</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TransitIncident</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-A transit incident describes disruptions on the transit network.
-Disruptions scale from delays to service cancellations.
+A transit incident describes disruptions on the transit network. Disruptions scale from delays to service cancellations.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -73,18 +67,13 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#description"
-  class="member-name-link"><code>description</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#description" class="member-name-link"><code>description</code></a>
 
   </div>
 
@@ -106,9 +95,7 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#effect"
-  class="member-name-link"><code>effect</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#effect" class="member-name-link"><code>effect</code></a>
 
   </div>
 
@@ -124,18 +111,13 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#summary"
-  class="member-name-link"><code>summary</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#summary" class="member-name-link"><code>summary</code></a>
 
   </div>
 
@@ -157,9 +139,7 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#type"
-  class="member-name-link"><code>type</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#type" class="member-name-link"><code>type</code></a>
 
   </div>
 
@@ -175,18 +155,13 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#url"
-  class="member-name-link"><code>url</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#url" class="member-name-link"><code>url</code></a>
 
   </div>
 
@@ -202,18 +177,13 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validFrom"
-  class="member-name-link"><code>validFrom</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validFrom" class="member-name-link"><code>validFrom</code></a>
 
   </div>
 
@@ -229,18 +199,13 @@ Disruptions scale from delays to service cancellations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validUntil"
-  class="member-name-link"><code>validUntil</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincident#validUntil" class="member-name-link"><code>validUntil</code></a>
 
   </div>
 
@@ -258,8 +223,7 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -301,8 +265,7 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -368,38 +331,9 @@ Disruptions scale from delays to service cancellations.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -407,8 +341,7 @@ Disruptions scale from delays to service cancellations.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-summary" class="section detail">
 
@@ -416,10 +349,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">summary</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">summary</span>
 
     </div>
 
@@ -431,17 +361,13 @@ Disruptions scale from delays to service cancellations.
 
     </div>
 
-  - <div id="sdk-for-android-explore-description"
-    class="section detail">
+  - <div id="sdk-for-android-explore-description" class="section detail">
 
     ### description
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">description</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">description</span>
 
     </div>
 
@@ -459,8 +385,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
 
     </div>
 
@@ -478,8 +403,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing")</span> <span class="element-name">effect</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing")</span> <span class="element-name">effect</span>
 
     </div>
 
@@ -497,10 +421,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">validFrom</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">validFrom</span>
 
     </div>
 
@@ -518,10 +439,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">validUntil</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">validUntil</span>
 
     </div>
 
@@ -539,10 +457,7 @@ Disruptions scale from delays to service cancellations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">url</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">url</span>
 
     </div>
 
@@ -556,36 +471,15 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-java-lang-String-com-here-sdk-routing-TransitIncidentType-com-here-sdk-routing-TransitIncidentEffect-java-util-Date-java-util-Date-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-java-lang-String-com-here-sdk-routing-TransitIncidentType-com-here-sdk-routing-TransitIncidentEffect-java-util-Date-java-util-Date-java-lang-String" class="section detail">
 
     ### TransitIncident
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitIncident</span><span class="parameters">(@Nullable
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> summary,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> description,
-    @Nullable
-    [TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing") type,
-    @Nullable
-    [TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing") effect,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> validFrom,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> validUntil,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> url)</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitIncident</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> summary, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable [TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing") type, @Nullable [TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing") effect, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validFrom, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validUntil, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> url)</span>
 
     </div>
 
@@ -628,31 +522,20 @@ Disruptions scale from delays to service cancellations.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -667,16 +550,11 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

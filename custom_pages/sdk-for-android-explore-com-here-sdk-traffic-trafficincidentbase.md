@@ -3,6 +3,8 @@ title: "TrafficIncidentBase (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,18 +15,14 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`PickMapContentResult.TrafficIncidentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview"),
-[`TrafficIncident`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic"),
-[`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")
+[`PickMapContentResult.TrafficIncidentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview"), [`TrafficIncident`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic"), [`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">TrafficIncidentBase</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficIncidentBase</span>
 
 </div>
 
@@ -36,8 +34,7 @@ TrafficIncident provides details about a traffic incident.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -77,8 +74,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="block">
 
-  Gets the human readable description of the incident, possibly with
-  location information.
+  Gets the human readable description of the incident, possibly with location information.
 
   </div>
 
@@ -86,10 +82,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -103,8 +96,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="block">
 
-  Get the time until which the incident is valid, after this time the
-  incident should not be considered.
+  Get the time until which the incident is valid, after this time the incident should not be considered.
 
   </div>
 
@@ -134,10 +126,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -151,8 +140,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="block">
 
-  Gets the time from which the incident is valid, before this time the
-  incident should not be considered.
+  Gets the time from which the incident is valid, before this time the incident should not be considered.
 
   </div>
 
@@ -188,8 +176,7 @@ TrafficIncident provides details about a traffic incident.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-getImpact" class="section detail">
 
@@ -197,16 +184,13 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
+    <span class="annotations">@NonNull </span><span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the impact of the incident. The value is
-    TrafficIncidentImpact.UNKNOWN if it hasn't been provided by the
-    traffic incidents supplier.
+    Gets the impact of the incident. The value is TrafficIncidentImpact.UNKNOWN if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
@@ -221,16 +205,13 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the category of the incident. The value is
-    TrafficIncidentType.UNKNOWN if it hasn't been provided by the
-    traffic incidents supplier.
+    Gets the category of the incident. The value is TrafficIncidentType.UNKNOWN if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
@@ -239,59 +220,45 @@ TrafficIncident provides details about a traffic incident.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getDescription"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getDescription" class="section detail">
 
     ### getDescription
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
+    <span class="annotations">@NonNull </span><span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the human readable description of the incident, possibly with
-    location information. The description is currently not present in
-    our map data. Therefore, when accessing the data from a picked carto
-    POI via TrafficIncidentResult , then always an empty string is
-    returned. This does not apply when using the TrafficEngine .
+    Gets the human readable description of the incident, possibly with location information. The description is currently not present in our map data. Therefore, when accessing the data from a picked carto POI via TrafficIncidentResult , then always an empty string is returned. This does not apply when using the TrafficEngine .
 
     </div>
 
     Returns:  
-    The human readable description of the incident, possibly with
-    location information.
+    The human readable description of the incident, possibly with location information.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getStartTime"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getStartTime" class="section detail">
 
     ### getStartTime
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the time from which the incident is valid, before this time the
-    incident should not be considered. The value is null if it hasn't
-    been provided by the traffic incidents supplier.
+    Gets the time from which the incident is valid, before this time the incident should not be considered. The value is null if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Returns:  
-    The time from which the incident is valid, before this time the
-    incident should not be considered.
+    The time from which the incident is valid, before this time the incident should not be considered.
 
     </div>
 
@@ -301,26 +268,22 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 
     <div class="block">
 
-    Get the time until which the incident is valid, after this time the
-    incident should not be considered. The value is null if it hasn't
-    been provided by the traffic incidents supplier.
+    Get the time until which the incident is valid, after this time the incident should not be considered. The value is null if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Returns:  
-    The time until which the incident is valid, after this time the
-    incident should not be considered.
+    The time until which the incident is valid, after this time the incident should not be considered.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

@@ -151,8 +151,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Area of corridor shape which routes must not cross and exceptions for
-  this area.
+  Area of corridor shape which routes must not cross and exceptions for this area.
 
   </div>
 
@@ -234,8 +233,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  A function which is called by the RoutingEngine after isoline
-  calculation has completed.
+  A function which is called by the RoutingEngine after isoline calculation has completed.
 
   </div>
 
@@ -251,8 +249,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  A function which is called by the RoutingEngine after route
-  calculation has completed.
+  A function which is called by the RoutingEngine after route calculation has completed.
 
   </div>
 
@@ -268,8 +265,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  A function which is called by the RoutingEngine after route traffic
-  calculation has completed.
+  A function which is called by the RoutingEngine after route traffic calculation has completed.
 
   </div>
 
@@ -318,8 +314,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Details of the connector that is suggested to be used in the section's
-  PostAction 's for charging.
+  Details of the connector that is suggested to be used in the section's PostAction 's for charging.
 
   </div>
 
@@ -431,8 +426,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  This model defines a data-driven energy consumption model for electric
-  vehicles.
+  This model defines a data-driven energy consumption model for electric vehicles.
 
   </div>
 
@@ -465,8 +459,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Parameters specific for the electric vehicle, which are then used to
-  calculate energy consumption on a given route.
+  Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route.
 
   </div>
 
@@ -803,8 +796,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Specifies the type of one or more range values to be included in the
-  isoline.
+  Specifies the type of one or more range values to be included in the isoline.
 
   </div>
 
@@ -820,8 +812,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Use the IsolineRoutingEngine to calculate a reachable area from a
-  center point.
+  Use the IsolineRoutingEngine to calculate a reachable area from a center point.
 
   </div>
 
@@ -837,8 +828,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Used to represent road number localized to specific language with
-  optional direction and route type information.
+  Used to represent road number localized to specific language with optional direction and route type information.
 
   </div>
 
@@ -854,8 +844,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  The list of multiple names or titles for the same entity, possibly in
-  different languages.
+  The list of multiple names or titles for the same entity, possibly in different languages.
 
   </div>
 
@@ -919,8 +908,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Information about the user defined coordinates and where they match to
-  the map.
+  Information about the user defined coordinates and where they match to the map.
 
   </div>
 
@@ -936,8 +924,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Specifies how the location set by Waypoint.sideOfStreetHint should be
-  handled.
+  Specifies how the location set by Waypoint.sideOfStreetHint should be handled.
 
   </div>
 
@@ -953,8 +940,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  MaxAxleGroupWeight contains all the restriction details violated by an
-  axle group weight.
+  MaxAxleGroupWeight contains all the restriction details violated by an axle group weight.
 
   </div>
 
@@ -986,8 +972,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Describes the impact a notice has on the resource to which the notice
-  is attached.
+  Describes the impact a notice has on the resource to which the notice is attached.
 
   </div>
 
@@ -1003,9 +988,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Identifiers for different optimizations that can be used during the
-  route calculation while trying to keep the quality of the route being
-  calculated high.
+  Identifiers for different optimizations that can be used during the route calculation while trying to keep the quality of the route being calculated high.
 
   </div>
 
@@ -1021,8 +1004,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  This structure provides all the information for a passthrough
-  waypoint.
+  This structure provides all the information for a passthrough waypoint.
 
   </div>
 
@@ -1071,9 +1053,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Defines the physical consumption model for electric vehicles, using
-  vehicle-specific parameters to calculate energy consumption along a
-  route.
+  Defines the physical consumption model for electric vehicles, using vehicle-specific parameters to calculate energy consumption along a route.
 
   </div>
 
@@ -1187,8 +1167,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  This class provides the necessary information for refreshing a route
-  from a specific location on it.
+  This class provides the necessary information for refreshing a route from a specific location on it.
 
   </div>
 
@@ -1348,8 +1327,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Specifies the direction to make distinction between departure and
-  arrival cases.
+  Specifies the direction to make distinction between departure and arrival cases.
 
   </div>
 
@@ -1413,8 +1391,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Route stop that should be used together with import route
-  functionality.
+  Route stop that should be used together with import route functionality.
 
   </div>
 
@@ -1446,8 +1423,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Defines the settings for the retry logic when connecting to the HERE
-  routing backend.
+  Defines the settings for the retry logic when connecting to the HERE routing backend.
 
   </div>
 
@@ -1463,8 +1439,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Use the RoutingEngine to calculate a route from A to B with a number
-  of waypoints in between.
+  Use the RoutingEngine to calculate a route from A to B with a number of waypoints in between.
 
   </div>
 
@@ -1480,8 +1455,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Specifies possible errors that may result from the calculation of a
-  route.
+  Specifies possible errors that may result from the calculation of a route.
 
   </div>
 
@@ -1578,8 +1552,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Notice codes which point the issues encountered during processing of a
-  Section .
+  Notice codes which point the issues encountered during processing of a Section .
 
   </div>
 
@@ -1659,8 +1632,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Details of a signpost representing a particular direction or
-  destination.
+  Details of a signpost representing a particular direction or destination.
 
   </div>
 
@@ -1901,8 +1873,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Traffic optimization mode that defines whether and what kind of
-  traffic information should be considered during route calculation.
+  Traffic optimization mode that defines whether and what kind of traffic information should be considered during route calculation.
 
   </div>
 
@@ -2030,8 +2001,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  All the options to specify how a public transit route should be
-  calculated.
+  All the options to specify how a public transit route should be calculated.
 
   </div>
 
@@ -2047,8 +2017,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Use the TransitRoutingEngine to calculate a public transit route from
-  A to B with a number of waypoints in between.
+  Use the TransitRoutingEngine to calculate a public transit route from A to B with a number of waypoints in between.
 
   </div>
 
@@ -2080,8 +2049,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  A transit stop between the departure and destination of a transit
-  section.
+  A transit stop between the departure and destination of a transit section.
 
   </div>
 
@@ -2113,8 +2081,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Represents a transit waypoint, used as input for transit route
-  calculation.
+  Represents a transit waypoint, used as input for transit route calculation.
 
   </div>
 
@@ -2163,9 +2130,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  VehicleRestrictionMaxWeight contains max permitted weight during the
-  trip, in kilograms, along with the specific type of maximum permitted
-  weight restriction.
+  VehicleRestrictionMaxWeight contains max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
 
   </div>
 
@@ -2181,8 +2146,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  This enum represents the specific type of the maximum permitted weight
-  restriction.
+  This enum represents the specific type of the maximum permitted weight restriction.
 
   </div>
 
@@ -2198,8 +2162,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  ViolatedRestriction contains all the violated restriction details for
-  the planned trip.
+  ViolatedRestriction contains all the violated restriction details for the planned trip.
 
   </div>
 
@@ -2215,8 +2178,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Optional restriction details, contains additional information
-  depending on the specific violation, zero or more member might be set.
+  Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.
 
   </div>
 
@@ -2264,8 +2226,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Defines if the waypoint is a stop over, or a hint for a desired
-  polyline of a route.
+  Defines if the waypoint is a stop over, or a hint for a desired polyline of a route.
 
   </div>
 
@@ -2281,8 +2242,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 
   <div class="block">
 
-  Identifies categories of zones which routes avoid going through when
-  used in AvoidanceOptions .
+  Identifies categories of zones which routes avoid going through when used in AvoidanceOptions .
 
   </div>
 

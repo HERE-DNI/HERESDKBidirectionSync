@@ -3,6 +3,8 @@ title: "HazardousMaterial (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,77 +17,42 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object java.lang.Enum \< HazardousMaterial \>
-com.here.sdk.transport.HazardousMaterial → java.lang.Enum \<
-HazardousMaterial \> com.here.sdk.transport.HazardousMaterial →
-com.here.sdk.transport.HazardousMaterial
+java.lang.Object java.lang.Enum \< HazardousMaterial \> com.here.sdk.transport.HazardousMaterial → java.lang.Enum \< HazardousMaterial \> com.here.sdk.transport.HazardousMaterial → com.here.sdk.transport.HazardousMaterial
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum
-</span><span class="element-name type-name-label">HazardousMaterial</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">HazardousMaterial</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span>
 
 </div>
 
 <div class="block">
 
-Identifiers for different types of hazardous materials which can be
-shipped by the truck.
+Identifiers for different types of hazardous materials which can be shipped by the truck.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-enum-constant-summary"
-  class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary" class="section constants-summary">
 
   ## Enum Constant Summary
 
@@ -111,9 +78,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#COMBUSTIBLE"
-  class="member-name-link"><code>COMBUSTIBLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#COMBUSTIBLE" class="member-name-link"><code>COMBUSTIBLE</code></a>
 
   </div>
 
@@ -129,9 +94,7 @@ shipped by the truck.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#CORROSIVE"
-  class="member-name-link"><code>CORROSIVE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#CORROSIVE" class="member-name-link"><code>CORROSIVE</code></a>
 
   </div>
 
@@ -147,9 +110,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#EXPLOSIVE"
-  class="member-name-link"><code>EXPLOSIVE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#EXPLOSIVE" class="member-name-link"><code>EXPLOSIVE</code></a>
 
   </div>
 
@@ -165,9 +126,7 @@ shipped by the truck.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#FLAMMABLE"
-  class="member-name-link"><code>FLAMMABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#FLAMMABLE" class="member-name-link"><code>FLAMMABLE</code></a>
 
   </div>
 
@@ -183,9 +142,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#GAS"
-  class="member-name-link"><code>GAS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#GAS" class="member-name-link"><code>GAS</code></a>
 
   </div>
 
@@ -201,9 +158,7 @@ shipped by the truck.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#HARMFUL_TO_WATER"
-  class="member-name-link"><code>HARMFUL_TO_WATER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#HARMFUL_TO_WATER" class="member-name-link"><code>HARMFUL_TO_WATER</code></a>
 
   </div>
 
@@ -219,9 +174,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#ORGANIC"
-  class="member-name-link"><code>ORGANIC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#ORGANIC" class="member-name-link"><code>ORGANIC</code></a>
 
   </div>
 
@@ -237,9 +190,7 @@ shipped by the truck.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#OTHER"
-  class="member-name-link"><code>OTHER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#OTHER" class="member-name-link"><code>OTHER</code></a>
 
   </div>
 
@@ -255,9 +206,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISON"
-  class="member-name-link"><code>POISON</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISON" class="member-name-link"><code>POISON</code></a>
 
   </div>
 
@@ -273,9 +222,7 @@ shipped by the truck.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISONOUS_INHALATION"
-  class="member-name-link"><code>POISONOUS_INHALATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#POISONOUS_INHALATION" class="member-name-link"><code>POISONOUS_INHALATION</code></a>
 
   </div>
 
@@ -291,9 +238,7 @@ shipped by the truck.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#RADIOACTIVE"
-  class="member-name-link"><code>RADIOACTIVE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial#RADIOACTIVE" class="member-name-link"><code>RADIOACTIVE</code></a>
 
   </div>
 
@@ -311,8 +256,7 @@ shipped by the truck.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -374,8 +318,7 @@ shipped by the truck.
 
   <div class="block">
 
-  Returns an array containing the constants of this enum class, in the
-  order they are declared.
+  Returns an array containing the constants of this enum class, in the order they are declared.
 
   </div>
 
@@ -387,72 +330,17 @@ shipped by the truck.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -460,8 +348,7 @@ shipped by the truck.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-enum-constant-detail"
-  class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail" class="section constant-details">
 
   ## Enum Constant Details
 
@@ -471,8 +358,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">EXPLOSIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">EXPLOSIVE</span>
 
     </div>
 
@@ -490,8 +376,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">GAS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">GAS</span>
 
     </div>
 
@@ -509,8 +394,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">FLAMMABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">FLAMMABLE</span>
 
     </div>
 
@@ -522,15 +406,13 @@ shipped by the truck.
 
     </div>
 
-  - <div id="sdk-for-android-explore-COMBUSTIBLE"
-    class="section detail">
+  - <div id="sdk-for-android-explore-COMBUSTIBLE" class="section detail">
 
     ### COMBUSTIBLE
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">COMBUSTIBLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">COMBUSTIBLE</span>
 
     </div>
 
@@ -548,8 +430,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">ORGANIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">ORGANIC</span>
 
     </div>
 
@@ -567,8 +448,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISON</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISON</span>
 
     </div>
 
@@ -580,15 +460,13 @@ shipped by the truck.
 
     </div>
 
-  - <div id="sdk-for-android-explore-RADIOACTIVE"
-    class="section detail">
+  - <div id="sdk-for-android-explore-RADIOACTIVE" class="section detail">
 
     ### RADIOACTIVE
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">RADIOACTIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">RADIOACTIVE</span>
 
     </div>
 
@@ -606,8 +484,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">CORROSIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">CORROSIVE</span>
 
     </div>
 
@@ -619,15 +496,13 @@ shipped by the truck.
 
     </div>
 
-  - <div id="sdk-for-android-explore-POISONOUS_INHALATION"
-    class="section detail">
+  - <div id="sdk-for-android-explore-POISONOUS_INHALATION" class="section detail">
 
     ### POISONOUS_INHALATION
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISONOUS_INHALATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISONOUS_INHALATION</span>
 
     </div>
 
@@ -639,15 +514,13 @@ shipped by the truck.
 
     </div>
 
-  - <div id="sdk-for-android-explore-HARMFUL_TO_WATER"
-    class="section detail">
+  - <div id="sdk-for-android-explore-HARMFUL_TO_WATER" class="section detail">
 
     ### HARMFUL_TO_WATER
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">HARMFUL_TO_WATER</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">HARMFUL_TO_WATER</span>
 
     </div>
 
@@ -665,8 +538,7 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">OTHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">OTHER</span>
 
     </div>
 
@@ -680,8 +552,7 @@ shipped by the truck.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-values" class="section detail">
 
@@ -689,44 +560,34 @@ shipped by the truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
     <div class="block">
 
-    Returns an array containing the constants of this enum class, in the
-    order they are declared.
+    Returns an array containing the constants of this enum class, in the order they are declared.
 
     </div>
 
     Returns:  
-    an array containing the constants of this enum class, in the order
-    they are declared
+    an array containing the constants of this enum class, in the order they are declared
 
     </div>
 
-  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String" class="section detail">
 
     ### valueOf
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
     <div class="block">
 
-    Returns the enum constant of this class with the specified name. The
-    string must match exactly an identifier used to declare an enum
-    constant in this class. (Extraneous whitespace characters are not
-    permitted.)
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
 
     </div>
 
@@ -737,19 +598,13 @@ shipped by the truck.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
-    if this enum class has no constant with the specified name
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
-    if the argument is null
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

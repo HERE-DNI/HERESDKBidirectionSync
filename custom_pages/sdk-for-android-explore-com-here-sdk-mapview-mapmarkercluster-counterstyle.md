@@ -3,6 +3,8 @@ title: "MapMarkerCluster.CounterStyle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,38 +17,30 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.mapview.MapMarkerCluster.CounterStyle →
-com.here.sdk.mapview.MapMarkerCluster.CounterStyle
+java.lang.Object com.here.sdk.mapview.MapMarkerCluster.CounterStyle → com.here.sdk.mapview.MapMarkerCluster.CounterStyle
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class
-</span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-Styling options for a marker cluster which is represented by the marker
-count as a text.
+Styling options for a marker cluster which is represented by the marker count as a text.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -76,18 +70,13 @@ count as a text.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"
-  class="member-name-link"><code>aboveMaxText</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText" class="member-name-link"><code>aboveMaxText</code></a>
 
   </div>
 
@@ -95,8 +84,7 @@ count as a text.
 
   <div class="block">
 
-  String to display if there are more markers clustered than
-  maxCountNumber .
+  String to display if there are more markers clustered than maxCountNumber .
 
   </div>
 
@@ -110,9 +98,7 @@ count as a text.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize"
-  class="member-name-link"><code>fontSize</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize" class="member-name-link"><code>fontSize</code></a>
 
   </div>
 
@@ -134,9 +120,7 @@ count as a text.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"
-  class="member-name-link"><code>maxCountNumber</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber" class="member-name-link"><code>maxCountNumber</code></a>
 
   </div>
 
@@ -158,9 +142,7 @@ count as a text.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor"
-  class="member-name-link"><code>textAnchor</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor" class="member-name-link"><code>textAnchor</code></a>
 
   </div>
 
@@ -182,9 +164,7 @@ count as a text.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor"
-  class="member-name-link"><code>textColor</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor" class="member-name-link"><code>textColor</code></a>
 
   </div>
 
@@ -202,8 +182,7 @@ count as a text.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -245,49 +224,13 @@ count as a text.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -295,8 +238,7 @@ count as a text.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-textColor" class="section detail">
 
@@ -304,8 +246,7 @@ count as a text.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">textColor</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">textColor</span>
 
     </div>
 
@@ -341,22 +282,19 @@ count as a text.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">textAnchor</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">textAnchor</span>
 
     </div>
 
     <div class="block">
 
-    Anchor of counter in regards to marker cluster image. Default is at
-    the center.
+    Anchor of counter in regards to marker cluster image. Default is at the center.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-maxCountNumber"
-    class="section detail">
+  - <div id="sdk-for-android-explore-maxCountNumber" class="section detail">
 
     ### maxCountNumber
 
@@ -368,33 +306,25 @@ count as a text.
 
     <div class="block">
 
-    Maximal number of markers represented as exact number. Values
-    smaller than 2 will be clamped to 2. Default value is 99. When this
-    value is changed, it is recommended to adapt aboveMaxText
-    accordingly.
+    Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2. Default value is 99. When this value is changed, it is recommended to adapt aboveMaxText accordingly.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-aboveMaxText"
-    class="section detail">
+  - <div id="sdk-for-android-explore-aboveMaxText" class="section detail">
 
     ### aboveMaxText
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span>
 
     </div>
 
     <div class="block">
 
-    String to display if there are more markers clustered than
-    maxCountNumber . Default value is "+99".
+    String to display if there are more markers clustered than maxCountNumber . Default value is "+99".
 
     </div>
 
@@ -402,8 +332,7 @@ count as a text.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -424,4 +353,6 @@ count as a text.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

@@ -3,6 +3,8 @@ title: "TrafficFlowBase (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,33 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
 [`TrafficFlow`](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">TrafficFlowBase</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span>
 
 </div>
 
 <div class="block">
 
-This interface provides details about a traffic flow. For additional
-information about fields, refer to Traffic API v7 API Reference: Traffic
-API v7 . Note: This is a beta release of this feature, so there could be
-a few bugs and unexpected behaviors. Related APIs may change for new
-releases without a deprecation process.
+This interface provides details about a traffic flow. For additional information about fields, refer to Traffic API v7 API Reference: Traffic API v7 . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -79,8 +74,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  Gets the reference speed in meters per second along the roadway when
-  no traffic is present.
+  Gets the reference speed in meters per second along the roadway when no traffic is present.
 
   </div>
 
@@ -116,11 +110,9 @@ releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond" class="section detail">
 
     ### getFreeFlowSpeedInMetersPerSecond
 
@@ -132,19 +124,16 @@ releases without a deprecation process.
 
     <div class="block">
 
-    Gets the reference speed in meters per second along the roadway when
-    no traffic is present.
+    Gets the reference speed in meters per second along the roadway when no traffic is present.
 
     </div>
 
     Returns:  
-    The reference speed in meters per second along the roadway when no
-    traffic is present.
+    The reference speed in meters per second along the roadway when no traffic is present.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getJamFactor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getJamFactor" class="section detail">
 
     ### getJamFactor
 
@@ -156,11 +145,7 @@ releases without a deprecation process.
 
     <div class="block">
 
-    Gets a value for the amount of traffic on the roadway. The value,
-    between 0.0 and 10.0, indicate the expected quality of travel. A
-    value of 0.0 indicates that there is no congestion on the roadway.
-    As the value approaches 10.0, it indicates increasing congestion. A
-    value of 10.0 is reserved to represent a blocked roadway (closure).
+    Gets a value for the amount of traffic on the roadway. The value, between 0.0 and 10.0, indicate the expected quality of travel. A value of 0.0 indicates that there is no congestion on the roadway. As the value approaches 10.0, it indicates increasing congestion. A value of 10.0 is reserved to represent a blocked roadway (closure).
 
     </div>
 
@@ -170,4 +155,6 @@ releases without a deprecation process.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

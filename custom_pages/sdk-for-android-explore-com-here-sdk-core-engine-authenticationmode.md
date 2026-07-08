@@ -3,6 +3,8 @@ title: "AuthenticationMode (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,38 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.core.engine.AuthenticationMode → com.here.NativeBase
-com.here.sdk.core.engine.AuthenticationMode →
-com.here.sdk.core.engine.AuthenticationMode
+java.lang.Object com.here.NativeBase com.here.sdk.core.engine.AuthenticationMode → com.here.NativeBase com.here.sdk.core.engine.AuthenticationMode → com.here.sdk.core.engine.AuthenticationMode
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">AuthenticationMode</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">AuthenticationMode</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-This is a bearer authentication mode which adds or does not add a header
-("Authorization", "Bearer \$Token") to each online request of the module
-the object is added to. The token (if used) can be provided or is
-retrieved via key/secret from a dedicated backend.
+This is a bearer authentication mode which adds or does not add a header ("Authorization", "Bearer \$Token") to each online request of the module the object is added to. The token (if used) can be provided or is retrieved via key/secret from a dedicated backend.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="caption">
 
@@ -82,10 +73,7 @@ retrieved via key/secret from a dedicated backend.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider"
-  class="type-name-link"
-  title="interface in com.here.sdk.core.engine"><code>AuthenticationMode.AccessTokenProvider</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider" class="type-name-link" title="interface in com.here.sdk.core.engine"><code>AuthenticationMode.AccessTokenProvider</code></a>
 
   </div>
 
@@ -103,8 +91,7 @@ retrieved via key/secret from a dedicated backend.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -202,8 +189,7 @@ retrieved via key/secret from a dedicated backend.
 
   <div class="block">
 
-  SDK will authenticate with access key id access key secret to obtain
-  authentication token.
+  SDK will authenticate with access key id access key secret to obtain authentication token.
 
   </div>
 
@@ -259,38 +245,9 @@ retrieved via key/secret from a dedicated backend.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -298,31 +255,20 @@ retrieved via key/secret from a dedicated backend.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> rhs)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> rhs)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -337,30 +283,17 @@ retrieved via key/secret from a dedicated backend.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
-  - <div id="sdk-for-android-explore-withToken-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withToken-java-lang-String" class="section detail">
 
     ### withToken
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withToken</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> accessToken)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withToken</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessToken)</span>
 
     </div>
 
@@ -376,23 +309,17 @@ retrieved via key/secret from a dedicated backend.
     Access token
 
     Returns:  
-    Instance of
-    [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
-    configured to use token
+    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use token
 
     </div>
 
-  - <div id="sdk-for-android-explore-withTokenProvider-com-here-sdk-core-engine-AuthenticationMode-AccessTokenProvider"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withTokenProvider-com-here-sdk-core-engine-AuthenticationMode-AccessTokenProvider" class="section detail">
 
     ### withTokenProvider
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withTokenProvider</span><span class="parameters">(@NonNull
-    [AuthenticationMode.AccessTokenProvider](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider "interface in com.here.sdk.core.engine") tokenProvider)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withTokenProvider</span><wbr></wbr><span class="parameters">(@NonNull [AuthenticationMode.AccessTokenProvider](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider "interface in com.here.sdk.core.engine") tokenProvider)</span>
 
     </div>
 
@@ -408,22 +335,17 @@ retrieved via key/secret from a dedicated backend.
     Access token provider
 
     Returns:  
-    Instance of
-    [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
-    configured to use token provider
+    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use token provider
 
     </div>
 
-  - <div id="sdk-for-android-explore-withExternal"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withExternal" class="section detail">
 
     ### withExternal
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withExternal</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withExternal</span>()
 
     </div>
 
@@ -434,35 +356,23 @@ retrieved via key/secret from a dedicated backend.
     </div>
 
     Returns:  
-    Instance of
-    [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
-    configured to use externally provided authentication
+    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use externally provided authentication
 
     </div>
 
-  - <div id="sdk-for-android-explore-withKeySecret-java-lang-String-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withKeySecret-java-lang-String-java-lang-String" class="section detail">
 
     ### withKeySecret
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withKeySecret</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> accessKeyId,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withKeySecret</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeyId, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
 
     </div>
 
     <div class="block">
 
-    SDK will authenticate with access key id access key secret to obtain
-    authentication token.
+    SDK will authenticate with access key id access key secret to obtain authentication token.
 
     </div>
 
@@ -476,11 +386,11 @@ retrieved via key/secret from a dedicated backend.
     The access key secret
 
     Returns:  
-    Instance of
-    [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
-    configured to use key ID and secret
+    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use key ID and secret
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

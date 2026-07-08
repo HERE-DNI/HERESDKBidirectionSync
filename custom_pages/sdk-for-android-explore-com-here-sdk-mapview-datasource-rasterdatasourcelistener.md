@@ -3,6 +3,8 @@ title: "RasterDataSourceListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,13 +15,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcel
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">RasterDataSourceListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">RasterDataSourceListener</span>
 
 </div>
 
@@ -31,8 +31,7 @@ Listener for RasterDataSource events.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -108,11 +107,9 @@ Listener for RasterDataSource events.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onRasterDataSourceReady"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onRasterDataSourceReady" class="section detail">
 
     ### onRasterDataSourceReady
 
@@ -130,15 +127,13 @@ Listener for RasterDataSource events.
 
     </div>
 
-  - <div id="sdk-for-android-explore-onRasterDataSourceError-com-here-sdk-mapview-datasource-RasterDataSourceError"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onRasterDataSourceError-com-here-sdk-mapview-datasource-RasterDataSourceError" class="section detail">
 
     ### onRasterDataSourceError
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><span class="parameters">(@NonNull
-    [RasterDataSourceError](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror "enum class in com.here.sdk.mapview.datasource") dataSourceError)</span>
+    <span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><wbr></wbr><span class="parameters">(@NonNull [RasterDataSourceError](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror "enum class in com.here.sdk.mapview.datasource") dataSourceError)</span>
 
     </div>
 
@@ -156,4 +151,6 @@ Listener for RasterDataSource events.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

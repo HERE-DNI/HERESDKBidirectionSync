@@ -3,6 +3,8 @@ title: "PanListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-panlistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">PanListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">PanListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling pan gestures. Pan gesture occurs when a finger is
-moving on the screen.
+Interface for handling pan gestures. Pan gesture occurs when a finger is moving on the screen.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -88,23 +86,15 @@ moving on the screen.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onPan-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onPan-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double" class="section detail">
 
     ### onPan
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPan</span><span class="parameters">(@NonNull
-    [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") translation,
-    double velocity)</span>
+    <span class="return-type">void</span> <span class="element-name">onPan</span><wbr></wbr><span class="parameters">(@NonNull [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") translation, double velocity)</span>
 
     </div>
 
@@ -134,4 +124,6 @@ moving on the screen.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

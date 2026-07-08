@@ -87,8 +87,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  Animation easing representing an easing function to be used during
-  animations.
+  Animation easing representing an easing function to be used during animations.
 
   </div>
 
@@ -152,8 +151,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation
-  duration.
+  A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
   </div>
 
@@ -169,8 +167,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  A GeoOrientationKeyframe consists of a GeoOrientation (camera
-  orientation) and an animation duration.
+  A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and an animation duration.
 
   </div>
 
@@ -202,8 +199,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  Stores keyframes for interpolation of a map item property using a
-  specific easing function and interpolation mode.
+  Stores keyframes for interpolation of a map item property using a specific easing function and interpolation mode.
 
   </div>
 
@@ -235,8 +231,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create
-  MapItemKeyFrameTrack .
+  Thrown when a problem occurs while trying to create MapItemKeyFrameTrack .
 
   </div>
 
@@ -284,8 +279,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create a
-  MapMarkerAnimation .
+  Thrown when a problem occurs while trying to create a MapMarkerAnimation .
 
   </div>
 
@@ -333,8 +327,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create a
-  MapPolylineAnimation .
+  Thrown when a problem occurs while trying to create a MapPolylineAnimation .
 
   </div>
 
@@ -366,8 +359,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="block">
 
-  A ScalarKeyframe consists of a scalar value (e.g,: distance in meters)
-  and an animation duration.
+  A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an animation duration.
 
   </div>
 

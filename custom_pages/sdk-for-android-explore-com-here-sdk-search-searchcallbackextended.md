@@ -3,6 +3,8 @@ title: "SearchCallbackExtended (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-searchcallbackextended"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,37 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchcallbackextended"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public interface
-</span><span class="element-name type-name-label">SearchCallbackExtended</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public interface </span><span class="element-name type-name-label">SearchCallbackExtended</span>
 
 </div>
 
 <div class="block">
 
-The method will be called on the main thread when a search call has been
-completed. The first argument indicates an error in case of a failure.
-The second argument contains the results. Both arguments cannot be null
-at the same time - or not null at the same time.
+The method will be called on the main thread when a search call has been completed. The first argument indicates an error in case of a failure. The second argument contains the results. Both arguments cannot be null at the same time - or not null at the same time.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -83,8 +74,7 @@ at the same time - or not null at the same time.
 
   <div class="block">
 
-  The method will be called on the main thread when a search call has
-  been completed.
+  The method will be called on the main thread when a search call has been completed.
 
   </div>
 
@@ -98,40 +88,28 @@ at the same time - or not null at the same time.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onSearchExtendedCompleted-com-here-sdk-search-SearchError-java-util-List-com-here-sdk-search-ResponseDetails"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onSearchExtendedCompleted-com-here-sdk-search-SearchError-java-util-List-com-here-sdk-search-ResponseDetails" class="section detail">
 
     ### onSearchExtendedCompleted
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onSearchExtendedCompleted</span><span class="parameters">(@Nullable
-    [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places,
-    @Nullable
-    [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search") responseDetails)</span>
+    <span class="return-type">void</span> <span class="element-name">onSearchExtendedCompleted</span><wbr></wbr><span class="parameters">(@Nullable [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places, @Nullable [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search") responseDetails)</span>
 
     </div>
 
     <div class="block">
 
-    The method will be called on the main thread when a search call has
-    been completed. The first argument indicates an error in case of a
-    failure. The second argument contains the results. Both arguments
-    cannot be null at the same time - or not null at the same time.
+    The method will be called on the main thread when a search call has been completed. The first argument indicates an error in case of a failure. The second argument contains the results. Both arguments cannot be null at the same time - or not null at the same time.
 
     </div>
 
     Parameters:  
     `searchError` -
 
-    An error enum indicating what went wrong. It is `null` for an
-    operation that succeeds.
+    An error enum indicating what went wrong. It is `null` for an operation that succeeds.
 
     `places` -
 
@@ -139,10 +117,11 @@ at the same time - or not null at the same time.
 
     `responseDetails` -
 
-    Additional information provided with response. It is `null` in case
-    of an error.
+    Additional information provided with response. It is `null` in case of an error.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

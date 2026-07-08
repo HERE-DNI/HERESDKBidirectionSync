@@ -3,6 +3,8 @@ title: "CountryCode (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-countrycode"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,76 +17,42 @@ slug: "sdk-for-android-explore-com-here-sdk-core-countrycode"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object java.lang.Enum \< CountryCode \>
-com.here.sdk.core.CountryCode → java.lang.Enum \< CountryCode \>
-com.here.sdk.core.CountryCode → com.here.sdk.core.CountryCode
+java.lang.Object java.lang.Enum \< CountryCode \> com.here.sdk.core.CountryCode → java.lang.Enum \< CountryCode \> com.here.sdk.core.CountryCode → com.here.sdk.core.CountryCode
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum
-</span><span class="element-name type-name-label">CountryCode</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">CountryCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span>
 
 </div>
 
 <div class="block">
 
-This enum represents country codes in accordance with the ISO 3166-1
-standard using alpha-3 codes.
+This enum represents country codes in accordance with the ISO 3166-1 standard using alpha-3 codes.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-enum-constant-summary"
-  class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary" class="section constants-summary">
 
   ## Enum Constant Summary
 
@@ -110,8 +78,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ABW"
-  class="member-name-link"><code>ABW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ABW" class="member-name-link"><code>ABW</code></a>
 
   </div>
 
@@ -127,8 +94,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AFG"
-  class="member-name-link"><code>AFG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AFG" class="member-name-link"><code>AFG</code></a>
 
   </div>
 
@@ -144,8 +110,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AGO"
-  class="member-name-link"><code>AGO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AGO" class="member-name-link"><code>AGO</code></a>
 
   </div>
 
@@ -161,8 +126,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AIA"
-  class="member-name-link"><code>AIA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AIA" class="member-name-link"><code>AIA</code></a>
 
   </div>
 
@@ -178,8 +142,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ALB"
-  class="member-name-link"><code>ALB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ALB" class="member-name-link"><code>ALB</code></a>
 
   </div>
 
@@ -195,8 +158,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AND"
-  class="member-name-link"><code>AND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AND" class="member-name-link"><code>AND</code></a>
 
   </div>
 
@@ -212,8 +174,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARE"
-  class="member-name-link"><code>ARE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARE" class="member-name-link"><code>ARE</code></a>
 
   </div>
 
@@ -229,8 +190,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARG"
-  class="member-name-link"><code>ARG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARG" class="member-name-link"><code>ARG</code></a>
 
   </div>
 
@@ -246,8 +206,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARM"
-  class="member-name-link"><code>ARM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ARM" class="member-name-link"><code>ARM</code></a>
 
   </div>
 
@@ -263,8 +222,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ASM"
-  class="member-name-link"><code>ASM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ASM" class="member-name-link"><code>ASM</code></a>
 
   </div>
 
@@ -280,8 +238,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ATA"
-  class="member-name-link"><code>ATA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ATA" class="member-name-link"><code>ATA</code></a>
 
   </div>
 
@@ -297,8 +254,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ATG"
-  class="member-name-link"><code>ATG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ATG" class="member-name-link"><code>ATG</code></a>
 
   </div>
 
@@ -314,8 +270,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AUS"
-  class="member-name-link"><code>AUS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AUS" class="member-name-link"><code>AUS</code></a>
 
   </div>
 
@@ -331,8 +286,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AUT"
-  class="member-name-link"><code>AUT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AUT" class="member-name-link"><code>AUT</code></a>
 
   </div>
 
@@ -348,8 +302,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AZE"
-  class="member-name-link"><code>AZE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#AZE" class="member-name-link"><code>AZE</code></a>
 
   </div>
 
@@ -365,8 +318,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BDI"
-  class="member-name-link"><code>BDI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BDI" class="member-name-link"><code>BDI</code></a>
 
   </div>
 
@@ -382,8 +334,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BEL"
-  class="member-name-link"><code>BEL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BEL" class="member-name-link"><code>BEL</code></a>
 
   </div>
 
@@ -399,8 +350,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BEN"
-  class="member-name-link"><code>BEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BEN" class="member-name-link"><code>BEN</code></a>
 
   </div>
 
@@ -416,8 +366,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BES"
-  class="member-name-link"><code>BES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BES" class="member-name-link"><code>BES</code></a>
 
   </div>
 
@@ -433,8 +382,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BFA"
-  class="member-name-link"><code>BFA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BFA" class="member-name-link"><code>BFA</code></a>
 
   </div>
 
@@ -450,8 +398,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BGD"
-  class="member-name-link"><code>BGD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BGD" class="member-name-link"><code>BGD</code></a>
 
   </div>
 
@@ -467,8 +414,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BGR"
-  class="member-name-link"><code>BGR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BGR" class="member-name-link"><code>BGR</code></a>
 
   </div>
 
@@ -484,8 +430,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BHR"
-  class="member-name-link"><code>BHR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BHR" class="member-name-link"><code>BHR</code></a>
 
   </div>
 
@@ -501,8 +446,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BHS"
-  class="member-name-link"><code>BHS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BHS" class="member-name-link"><code>BHS</code></a>
 
   </div>
 
@@ -518,8 +462,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BIH"
-  class="member-name-link"><code>BIH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BIH" class="member-name-link"><code>BIH</code></a>
 
   </div>
 
@@ -535,8 +478,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLM"
-  class="member-name-link"><code>BLM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLM" class="member-name-link"><code>BLM</code></a>
 
   </div>
 
@@ -552,8 +494,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLR"
-  class="member-name-link"><code>BLR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLR" class="member-name-link"><code>BLR</code></a>
 
   </div>
 
@@ -569,8 +510,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLZ"
-  class="member-name-link"><code>BLZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BLZ" class="member-name-link"><code>BLZ</code></a>
 
   </div>
 
@@ -586,8 +526,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BMU"
-  class="member-name-link"><code>BMU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BMU" class="member-name-link"><code>BMU</code></a>
 
   </div>
 
@@ -603,8 +542,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BOL"
-  class="member-name-link"><code>BOL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BOL" class="member-name-link"><code>BOL</code></a>
 
   </div>
 
@@ -620,8 +558,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRA"
-  class="member-name-link"><code>BRA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRA" class="member-name-link"><code>BRA</code></a>
 
   </div>
 
@@ -637,8 +574,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRB"
-  class="member-name-link"><code>BRB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRB" class="member-name-link"><code>BRB</code></a>
 
   </div>
 
@@ -654,8 +590,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRN"
-  class="member-name-link"><code>BRN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BRN" class="member-name-link"><code>BRN</code></a>
 
   </div>
 
@@ -671,8 +606,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BTN"
-  class="member-name-link"><code>BTN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BTN" class="member-name-link"><code>BTN</code></a>
 
   </div>
 
@@ -688,8 +622,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BWA"
-  class="member-name-link"><code>BWA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#BWA" class="member-name-link"><code>BWA</code></a>
 
   </div>
 
@@ -705,8 +638,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CAF"
-  class="member-name-link"><code>CAF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CAF" class="member-name-link"><code>CAF</code></a>
 
   </div>
 
@@ -722,8 +654,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CAN"
-  class="member-name-link"><code>CAN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CAN" class="member-name-link"><code>CAN</code></a>
 
   </div>
 
@@ -739,8 +670,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CCK"
-  class="member-name-link"><code>CCK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CCK" class="member-name-link"><code>CCK</code></a>
 
   </div>
 
@@ -756,8 +686,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHE"
-  class="member-name-link"><code>CHE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHE" class="member-name-link"><code>CHE</code></a>
 
   </div>
 
@@ -773,8 +702,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHL"
-  class="member-name-link"><code>CHL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHL" class="member-name-link"><code>CHL</code></a>
 
   </div>
 
@@ -790,8 +718,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHN"
-  class="member-name-link"><code>CHN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CHN" class="member-name-link"><code>CHN</code></a>
 
   </div>
 
@@ -807,8 +734,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CIV"
-  class="member-name-link"><code>CIV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CIV" class="member-name-link"><code>CIV</code></a>
 
   </div>
 
@@ -824,8 +750,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CMR"
-  class="member-name-link"><code>CMR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CMR" class="member-name-link"><code>CMR</code></a>
 
   </div>
 
@@ -841,8 +766,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COD"
-  class="member-name-link"><code>COD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COD" class="member-name-link"><code>COD</code></a>
 
   </div>
 
@@ -858,8 +782,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COG"
-  class="member-name-link"><code>COG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COG" class="member-name-link"><code>COG</code></a>
 
   </div>
 
@@ -875,8 +798,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COK"
-  class="member-name-link"><code>COK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COK" class="member-name-link"><code>COK</code></a>
 
   </div>
 
@@ -892,8 +814,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COL"
-  class="member-name-link"><code>COL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COL" class="member-name-link"><code>COL</code></a>
 
   </div>
 
@@ -909,8 +830,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COM"
-  class="member-name-link"><code>COM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#COM" class="member-name-link"><code>COM</code></a>
 
   </div>
 
@@ -926,8 +846,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CPV"
-  class="member-name-link"><code>CPV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CPV" class="member-name-link"><code>CPV</code></a>
 
   </div>
 
@@ -943,8 +862,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CRI"
-  class="member-name-link"><code>CRI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CRI" class="member-name-link"><code>CRI</code></a>
 
   </div>
 
@@ -960,8 +878,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CUB"
-  class="member-name-link"><code>CUB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CUB" class="member-name-link"><code>CUB</code></a>
 
   </div>
 
@@ -977,8 +894,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CUW"
-  class="member-name-link"><code>CUW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CUW" class="member-name-link"><code>CUW</code></a>
 
   </div>
 
@@ -994,8 +910,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CXR"
-  class="member-name-link"><code>CXR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CXR" class="member-name-link"><code>CXR</code></a>
 
   </div>
 
@@ -1011,8 +926,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CYM"
-  class="member-name-link"><code>CYM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CYM" class="member-name-link"><code>CYM</code></a>
 
   </div>
 
@@ -1028,8 +942,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CYP"
-  class="member-name-link"><code>CYP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CYP" class="member-name-link"><code>CYP</code></a>
 
   </div>
 
@@ -1045,8 +958,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CZE"
-  class="member-name-link"><code>CZE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#CZE" class="member-name-link"><code>CZE</code></a>
 
   </div>
 
@@ -1062,8 +974,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DEU"
-  class="member-name-link"><code>DEU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DEU" class="member-name-link"><code>DEU</code></a>
 
   </div>
 
@@ -1079,8 +990,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DJI"
-  class="member-name-link"><code>DJI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DJI" class="member-name-link"><code>DJI</code></a>
 
   </div>
 
@@ -1096,8 +1006,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DMA"
-  class="member-name-link"><code>DMA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DMA" class="member-name-link"><code>DMA</code></a>
 
   </div>
 
@@ -1113,8 +1022,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DNK"
-  class="member-name-link"><code>DNK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DNK" class="member-name-link"><code>DNK</code></a>
 
   </div>
 
@@ -1130,8 +1038,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DOM"
-  class="member-name-link"><code>DOM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DOM" class="member-name-link"><code>DOM</code></a>
 
   </div>
 
@@ -1147,8 +1054,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DZA"
-  class="member-name-link"><code>DZA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#DZA" class="member-name-link"><code>DZA</code></a>
 
   </div>
 
@@ -1164,8 +1070,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ECU"
-  class="member-name-link"><code>ECU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ECU" class="member-name-link"><code>ECU</code></a>
 
   </div>
 
@@ -1181,8 +1086,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#EGY"
-  class="member-name-link"><code>EGY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#EGY" class="member-name-link"><code>EGY</code></a>
 
   </div>
 
@@ -1198,8 +1102,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ERI"
-  class="member-name-link"><code>ERI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ERI" class="member-name-link"><code>ERI</code></a>
 
   </div>
 
@@ -1215,8 +1118,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ESH"
-  class="member-name-link"><code>ESH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ESH" class="member-name-link"><code>ESH</code></a>
 
   </div>
 
@@ -1232,8 +1134,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ESP"
-  class="member-name-link"><code>ESP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ESP" class="member-name-link"><code>ESP</code></a>
 
   </div>
 
@@ -1249,8 +1150,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#EST"
-  class="member-name-link"><code>EST</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#EST" class="member-name-link"><code>EST</code></a>
 
   </div>
 
@@ -1266,8 +1166,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ETH"
-  class="member-name-link"><code>ETH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ETH" class="member-name-link"><code>ETH</code></a>
 
   </div>
 
@@ -1283,8 +1182,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FIN"
-  class="member-name-link"><code>FIN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FIN" class="member-name-link"><code>FIN</code></a>
 
   </div>
 
@@ -1300,8 +1198,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FJI"
-  class="member-name-link"><code>FJI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FJI" class="member-name-link"><code>FJI</code></a>
 
   </div>
 
@@ -1317,8 +1214,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FLK"
-  class="member-name-link"><code>FLK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FLK" class="member-name-link"><code>FLK</code></a>
 
   </div>
 
@@ -1334,8 +1230,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FRA"
-  class="member-name-link"><code>FRA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FRA" class="member-name-link"><code>FRA</code></a>
 
   </div>
 
@@ -1351,8 +1246,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FRO"
-  class="member-name-link"><code>FRO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FRO" class="member-name-link"><code>FRO</code></a>
 
   </div>
 
@@ -1368,8 +1262,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FSM"
-  class="member-name-link"><code>FSM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#FSM" class="member-name-link"><code>FSM</code></a>
 
   </div>
 
@@ -1385,8 +1278,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GAB"
-  class="member-name-link"><code>GAB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GAB" class="member-name-link"><code>GAB</code></a>
 
   </div>
 
@@ -1402,8 +1294,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GBR"
-  class="member-name-link"><code>GBR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GBR" class="member-name-link"><code>GBR</code></a>
 
   </div>
 
@@ -1419,8 +1310,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GEO"
-  class="member-name-link"><code>GEO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GEO" class="member-name-link"><code>GEO</code></a>
 
   </div>
 
@@ -1436,8 +1326,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GHA"
-  class="member-name-link"><code>GHA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GHA" class="member-name-link"><code>GHA</code></a>
 
   </div>
 
@@ -1453,8 +1342,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GIB"
-  class="member-name-link"><code>GIB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GIB" class="member-name-link"><code>GIB</code></a>
 
   </div>
 
@@ -1470,8 +1358,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GIN"
-  class="member-name-link"><code>GIN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GIN" class="member-name-link"><code>GIN</code></a>
 
   </div>
 
@@ -1487,8 +1374,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GLP"
-  class="member-name-link"><code>GLP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GLP" class="member-name-link"><code>GLP</code></a>
 
   </div>
 
@@ -1504,8 +1390,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GMB"
-  class="member-name-link"><code>GMB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GMB" class="member-name-link"><code>GMB</code></a>
 
   </div>
 
@@ -1521,8 +1406,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GNB"
-  class="member-name-link"><code>GNB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GNB" class="member-name-link"><code>GNB</code></a>
 
   </div>
 
@@ -1538,8 +1422,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GNQ"
-  class="member-name-link"><code>GNQ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GNQ" class="member-name-link"><code>GNQ</code></a>
 
   </div>
 
@@ -1555,8 +1438,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRC"
-  class="member-name-link"><code>GRC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRC" class="member-name-link"><code>GRC</code></a>
 
   </div>
 
@@ -1572,8 +1454,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRD"
-  class="member-name-link"><code>GRD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRD" class="member-name-link"><code>GRD</code></a>
 
   </div>
 
@@ -1589,8 +1470,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRL"
-  class="member-name-link"><code>GRL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GRL" class="member-name-link"><code>GRL</code></a>
 
   </div>
 
@@ -1606,8 +1486,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GTM"
-  class="member-name-link"><code>GTM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GTM" class="member-name-link"><code>GTM</code></a>
 
   </div>
 
@@ -1623,8 +1502,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUF"
-  class="member-name-link"><code>GUF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUF" class="member-name-link"><code>GUF</code></a>
 
   </div>
 
@@ -1640,8 +1518,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUM"
-  class="member-name-link"><code>GUM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUM" class="member-name-link"><code>GUM</code></a>
 
   </div>
 
@@ -1657,8 +1534,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUY"
-  class="member-name-link"><code>GUY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#GUY" class="member-name-link"><code>GUY</code></a>
 
   </div>
 
@@ -1674,8 +1550,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HKG"
-  class="member-name-link"><code>HKG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HKG" class="member-name-link"><code>HKG</code></a>
 
   </div>
 
@@ -1691,8 +1566,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HND"
-  class="member-name-link"><code>HND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HND" class="member-name-link"><code>HND</code></a>
 
   </div>
 
@@ -1708,8 +1582,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HRV"
-  class="member-name-link"><code>HRV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HRV" class="member-name-link"><code>HRV</code></a>
 
   </div>
 
@@ -1725,8 +1598,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HTI"
-  class="member-name-link"><code>HTI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HTI" class="member-name-link"><code>HTI</code></a>
 
   </div>
 
@@ -1742,8 +1614,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HUN"
-  class="member-name-link"><code>HUN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#HUN" class="member-name-link"><code>HUN</code></a>
 
   </div>
 
@@ -1759,8 +1630,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IDN"
-  class="member-name-link"><code>IDN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IDN" class="member-name-link"><code>IDN</code></a>
 
   </div>
 
@@ -1776,8 +1646,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IMN"
-  class="member-name-link"><code>IMN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IMN" class="member-name-link"><code>IMN</code></a>
 
   </div>
 
@@ -1793,8 +1662,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IND"
-  class="member-name-link"><code>IND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IND" class="member-name-link"><code>IND</code></a>
 
   </div>
 
@@ -1810,8 +1678,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IOT"
-  class="member-name-link"><code>IOT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IOT" class="member-name-link"><code>IOT</code></a>
 
   </div>
 
@@ -1827,8 +1694,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRL"
-  class="member-name-link"><code>IRL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRL" class="member-name-link"><code>IRL</code></a>
 
   </div>
 
@@ -1844,8 +1710,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRN"
-  class="member-name-link"><code>IRN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRN" class="member-name-link"><code>IRN</code></a>
 
   </div>
 
@@ -1861,8 +1726,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRQ"
-  class="member-name-link"><code>IRQ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#IRQ" class="member-name-link"><code>IRQ</code></a>
 
   </div>
 
@@ -1878,8 +1742,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ISL"
-  class="member-name-link"><code>ISL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ISL" class="member-name-link"><code>ISL</code></a>
 
   </div>
 
@@ -1895,8 +1758,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ISR"
-  class="member-name-link"><code>ISR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ISR" class="member-name-link"><code>ISR</code></a>
 
   </div>
 
@@ -1912,8 +1774,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ITA"
-  class="member-name-link"><code>ITA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ITA" class="member-name-link"><code>ITA</code></a>
 
   </div>
 
@@ -1929,8 +1790,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JAM"
-  class="member-name-link"><code>JAM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JAM" class="member-name-link"><code>JAM</code></a>
 
   </div>
 
@@ -1946,8 +1806,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JOR"
-  class="member-name-link"><code>JOR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JOR" class="member-name-link"><code>JOR</code></a>
 
   </div>
 
@@ -1963,8 +1822,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JPN"
-  class="member-name-link"><code>JPN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#JPN" class="member-name-link"><code>JPN</code></a>
 
   </div>
 
@@ -1980,8 +1838,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KAZ"
-  class="member-name-link"><code>KAZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KAZ" class="member-name-link"><code>KAZ</code></a>
 
   </div>
 
@@ -1997,8 +1854,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KEN"
-  class="member-name-link"><code>KEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KEN" class="member-name-link"><code>KEN</code></a>
 
   </div>
 
@@ -2014,8 +1870,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KGZ"
-  class="member-name-link"><code>KGZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KGZ" class="member-name-link"><code>KGZ</code></a>
 
   </div>
 
@@ -2031,8 +1886,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KHM"
-  class="member-name-link"><code>KHM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KHM" class="member-name-link"><code>KHM</code></a>
 
   </div>
 
@@ -2048,8 +1902,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KIR"
-  class="member-name-link"><code>KIR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KIR" class="member-name-link"><code>KIR</code></a>
 
   </div>
 
@@ -2065,8 +1918,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KNA"
-  class="member-name-link"><code>KNA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KNA" class="member-name-link"><code>KNA</code></a>
 
   </div>
 
@@ -2082,8 +1934,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KOR"
-  class="member-name-link"><code>KOR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KOR" class="member-name-link"><code>KOR</code></a>
 
   </div>
 
@@ -2099,8 +1950,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KWT"
-  class="member-name-link"><code>KWT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#KWT" class="member-name-link"><code>KWT</code></a>
 
   </div>
 
@@ -2116,8 +1966,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LAO"
-  class="member-name-link"><code>LAO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LAO" class="member-name-link"><code>LAO</code></a>
 
   </div>
 
@@ -2133,8 +1982,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBN"
-  class="member-name-link"><code>LBN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBN" class="member-name-link"><code>LBN</code></a>
 
   </div>
 
@@ -2150,8 +1998,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBR"
-  class="member-name-link"><code>LBR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBR" class="member-name-link"><code>LBR</code></a>
 
   </div>
 
@@ -2167,8 +2014,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBY"
-  class="member-name-link"><code>LBY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LBY" class="member-name-link"><code>LBY</code></a>
 
   </div>
 
@@ -2184,8 +2030,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LCA"
-  class="member-name-link"><code>LCA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LCA" class="member-name-link"><code>LCA</code></a>
 
   </div>
 
@@ -2201,8 +2046,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LIE"
-  class="member-name-link"><code>LIE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LIE" class="member-name-link"><code>LIE</code></a>
 
   </div>
 
@@ -2218,8 +2062,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LKA"
-  class="member-name-link"><code>LKA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LKA" class="member-name-link"><code>LKA</code></a>
 
   </div>
 
@@ -2235,8 +2078,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LSO"
-  class="member-name-link"><code>LSO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LSO" class="member-name-link"><code>LSO</code></a>
 
   </div>
 
@@ -2252,8 +2094,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LTU"
-  class="member-name-link"><code>LTU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LTU" class="member-name-link"><code>LTU</code></a>
 
   </div>
 
@@ -2269,8 +2110,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LUX"
-  class="member-name-link"><code>LUX</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LUX" class="member-name-link"><code>LUX</code></a>
 
   </div>
 
@@ -2286,8 +2126,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LVA"
-  class="member-name-link"><code>LVA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#LVA" class="member-name-link"><code>LVA</code></a>
 
   </div>
 
@@ -2303,8 +2142,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAC"
-  class="member-name-link"><code>MAC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAC" class="member-name-link"><code>MAC</code></a>
 
   </div>
 
@@ -2320,8 +2158,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAF"
-  class="member-name-link"><code>MAF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAF" class="member-name-link"><code>MAF</code></a>
 
   </div>
 
@@ -2337,8 +2174,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAR"
-  class="member-name-link"><code>MAR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MAR" class="member-name-link"><code>MAR</code></a>
 
   </div>
 
@@ -2354,8 +2190,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MCO"
-  class="member-name-link"><code>MCO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MCO" class="member-name-link"><code>MCO</code></a>
 
   </div>
 
@@ -2371,8 +2206,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDA"
-  class="member-name-link"><code>MDA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDA" class="member-name-link"><code>MDA</code></a>
 
   </div>
 
@@ -2388,8 +2222,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDG"
-  class="member-name-link"><code>MDG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDG" class="member-name-link"><code>MDG</code></a>
 
   </div>
 
@@ -2405,8 +2238,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDV"
-  class="member-name-link"><code>MDV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MDV" class="member-name-link"><code>MDV</code></a>
 
   </div>
 
@@ -2422,8 +2254,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MEX"
-  class="member-name-link"><code>MEX</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MEX" class="member-name-link"><code>MEX</code></a>
 
   </div>
 
@@ -2439,8 +2270,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MHL"
-  class="member-name-link"><code>MHL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MHL" class="member-name-link"><code>MHL</code></a>
 
   </div>
 
@@ -2456,8 +2286,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MKD"
-  class="member-name-link"><code>MKD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MKD" class="member-name-link"><code>MKD</code></a>
 
   </div>
 
@@ -2473,8 +2302,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MLI"
-  class="member-name-link"><code>MLI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MLI" class="member-name-link"><code>MLI</code></a>
 
   </div>
 
@@ -2490,8 +2318,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MLT"
-  class="member-name-link"><code>MLT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MLT" class="member-name-link"><code>MLT</code></a>
 
   </div>
 
@@ -2507,8 +2334,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MMR"
-  class="member-name-link"><code>MMR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MMR" class="member-name-link"><code>MMR</code></a>
 
   </div>
 
@@ -2524,8 +2350,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNE"
-  class="member-name-link"><code>MNE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNE" class="member-name-link"><code>MNE</code></a>
 
   </div>
 
@@ -2541,8 +2366,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNG"
-  class="member-name-link"><code>MNG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNG" class="member-name-link"><code>MNG</code></a>
 
   </div>
 
@@ -2558,8 +2382,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNP"
-  class="member-name-link"><code>MNP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MNP" class="member-name-link"><code>MNP</code></a>
 
   </div>
 
@@ -2575,8 +2398,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MOZ"
-  class="member-name-link"><code>MOZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MOZ" class="member-name-link"><code>MOZ</code></a>
 
   </div>
 
@@ -2592,8 +2414,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MRT"
-  class="member-name-link"><code>MRT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MRT" class="member-name-link"><code>MRT</code></a>
 
   </div>
 
@@ -2609,8 +2430,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MSR"
-  class="member-name-link"><code>MSR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MSR" class="member-name-link"><code>MSR</code></a>
 
   </div>
 
@@ -2626,8 +2446,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MTQ"
-  class="member-name-link"><code>MTQ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MTQ" class="member-name-link"><code>MTQ</code></a>
 
   </div>
 
@@ -2643,8 +2462,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MUS"
-  class="member-name-link"><code>MUS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MUS" class="member-name-link"><code>MUS</code></a>
 
   </div>
 
@@ -2660,8 +2478,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MWI"
-  class="member-name-link"><code>MWI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MWI" class="member-name-link"><code>MWI</code></a>
 
   </div>
 
@@ -2677,8 +2494,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MYS"
-  class="member-name-link"><code>MYS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MYS" class="member-name-link"><code>MYS</code></a>
 
   </div>
 
@@ -2694,8 +2510,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MYT"
-  class="member-name-link"><code>MYT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#MYT" class="member-name-link"><code>MYT</code></a>
 
   </div>
 
@@ -2711,8 +2526,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NAM"
-  class="member-name-link"><code>NAM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NAM" class="member-name-link"><code>NAM</code></a>
 
   </div>
 
@@ -2728,8 +2542,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NCL"
-  class="member-name-link"><code>NCL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NCL" class="member-name-link"><code>NCL</code></a>
 
   </div>
 
@@ -2745,8 +2558,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NER"
-  class="member-name-link"><code>NER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NER" class="member-name-link"><code>NER</code></a>
 
   </div>
 
@@ -2762,8 +2574,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NFK"
-  class="member-name-link"><code>NFK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NFK" class="member-name-link"><code>NFK</code></a>
 
   </div>
 
@@ -2779,8 +2590,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NGA"
-  class="member-name-link"><code>NGA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NGA" class="member-name-link"><code>NGA</code></a>
 
   </div>
 
@@ -2796,8 +2606,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NIC"
-  class="member-name-link"><code>NIC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NIC" class="member-name-link"><code>NIC</code></a>
 
   </div>
 
@@ -2813,8 +2622,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NIU"
-  class="member-name-link"><code>NIU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NIU" class="member-name-link"><code>NIU</code></a>
 
   </div>
 
@@ -2830,8 +2638,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NLD"
-  class="member-name-link"><code>NLD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NLD" class="member-name-link"><code>NLD</code></a>
 
   </div>
 
@@ -2847,8 +2654,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NOR"
-  class="member-name-link"><code>NOR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NOR" class="member-name-link"><code>NOR</code></a>
 
   </div>
 
@@ -2864,8 +2670,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NPL"
-  class="member-name-link"><code>NPL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NPL" class="member-name-link"><code>NPL</code></a>
 
   </div>
 
@@ -2881,8 +2686,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NRU"
-  class="member-name-link"><code>NRU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NRU" class="member-name-link"><code>NRU</code></a>
 
   </div>
 
@@ -2898,8 +2702,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NZL"
-  class="member-name-link"><code>NZL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#NZL" class="member-name-link"><code>NZL</code></a>
 
   </div>
 
@@ -2915,8 +2718,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#OMN"
-  class="member-name-link"><code>OMN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#OMN" class="member-name-link"><code>OMN</code></a>
 
   </div>
 
@@ -2932,8 +2734,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PAK"
-  class="member-name-link"><code>PAK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PAK" class="member-name-link"><code>PAK</code></a>
 
   </div>
 
@@ -2949,8 +2750,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PAN"
-  class="member-name-link"><code>PAN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PAN" class="member-name-link"><code>PAN</code></a>
 
   </div>
 
@@ -2966,8 +2766,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PCN"
-  class="member-name-link"><code>PCN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PCN" class="member-name-link"><code>PCN</code></a>
 
   </div>
 
@@ -2983,8 +2782,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PER"
-  class="member-name-link"><code>PER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PER" class="member-name-link"><code>PER</code></a>
 
   </div>
 
@@ -3000,8 +2798,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PHL"
-  class="member-name-link"><code>PHL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PHL" class="member-name-link"><code>PHL</code></a>
 
   </div>
 
@@ -3017,8 +2814,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PLW"
-  class="member-name-link"><code>PLW</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PLW" class="member-name-link"><code>PLW</code></a>
 
   </div>
 
@@ -3034,8 +2830,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PNG"
-  class="member-name-link"><code>PNG</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PNG" class="member-name-link"><code>PNG</code></a>
 
   </div>
 
@@ -3051,8 +2846,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#POL"
-  class="member-name-link"><code>POL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#POL" class="member-name-link"><code>POL</code></a>
 
   </div>
 
@@ -3068,8 +2862,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRI"
-  class="member-name-link"><code>PRI</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRI" class="member-name-link"><code>PRI</code></a>
 
   </div>
 
@@ -3085,8 +2878,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRK"
-  class="member-name-link"><code>PRK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRK" class="member-name-link"><code>PRK</code></a>
 
   </div>
 
@@ -3102,8 +2894,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRT"
-  class="member-name-link"><code>PRT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRT" class="member-name-link"><code>PRT</code></a>
 
   </div>
 
@@ -3119,8 +2910,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRY"
-  class="member-name-link"><code>PRY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PRY" class="member-name-link"><code>PRY</code></a>
 
   </div>
 
@@ -3136,8 +2926,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PSE"
-  class="member-name-link"><code>PSE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PSE" class="member-name-link"><code>PSE</code></a>
 
   </div>
 
@@ -3153,8 +2942,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PYF"
-  class="member-name-link"><code>PYF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#PYF" class="member-name-link"><code>PYF</code></a>
 
   </div>
 
@@ -3170,8 +2958,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#QAT"
-  class="member-name-link"><code>QAT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#QAT" class="member-name-link"><code>QAT</code></a>
 
   </div>
 
@@ -3187,8 +2974,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#REU"
-  class="member-name-link"><code>REU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#REU" class="member-name-link"><code>REU</code></a>
 
   </div>
 
@@ -3204,8 +2990,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ROU"
-  class="member-name-link"><code>ROU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ROU" class="member-name-link"><code>ROU</code></a>
 
   </div>
 
@@ -3221,8 +3006,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#RUS"
-  class="member-name-link"><code>RUS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#RUS" class="member-name-link"><code>RUS</code></a>
 
   </div>
 
@@ -3238,8 +3022,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#RWA"
-  class="member-name-link"><code>RWA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#RWA" class="member-name-link"><code>RWA</code></a>
 
   </div>
 
@@ -3255,8 +3038,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SAU"
-  class="member-name-link"><code>SAU</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SAU" class="member-name-link"><code>SAU</code></a>
 
   </div>
 
@@ -3272,8 +3054,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SDN"
-  class="member-name-link"><code>SDN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SDN" class="member-name-link"><code>SDN</code></a>
 
   </div>
 
@@ -3289,8 +3070,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SEN"
-  class="member-name-link"><code>SEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SEN" class="member-name-link"><code>SEN</code></a>
 
   </div>
 
@@ -3306,8 +3086,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SGP"
-  class="member-name-link"><code>SGP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SGP" class="member-name-link"><code>SGP</code></a>
 
   </div>
 
@@ -3323,8 +3102,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SGS"
-  class="member-name-link"><code>SGS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SGS" class="member-name-link"><code>SGS</code></a>
 
   </div>
 
@@ -3340,8 +3118,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SHN"
-  class="member-name-link"><code>SHN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SHN" class="member-name-link"><code>SHN</code></a>
 
   </div>
 
@@ -3357,8 +3134,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SJM"
-  class="member-name-link"><code>SJM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SJM" class="member-name-link"><code>SJM</code></a>
 
   </div>
 
@@ -3374,8 +3150,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLB"
-  class="member-name-link"><code>SLB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLB" class="member-name-link"><code>SLB</code></a>
 
   </div>
 
@@ -3391,8 +3166,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLE"
-  class="member-name-link"><code>SLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLE" class="member-name-link"><code>SLE</code></a>
 
   </div>
 
@@ -3408,8 +3182,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLV"
-  class="member-name-link"><code>SLV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SLV" class="member-name-link"><code>SLV</code></a>
 
   </div>
 
@@ -3425,8 +3198,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SMR"
-  class="member-name-link"><code>SMR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SMR" class="member-name-link"><code>SMR</code></a>
 
   </div>
 
@@ -3442,8 +3214,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SOM"
-  class="member-name-link"><code>SOM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SOM" class="member-name-link"><code>SOM</code></a>
 
   </div>
 
@@ -3459,8 +3230,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SPM"
-  class="member-name-link"><code>SPM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SPM" class="member-name-link"><code>SPM</code></a>
 
   </div>
 
@@ -3476,8 +3246,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SRB"
-  class="member-name-link"><code>SRB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SRB" class="member-name-link"><code>SRB</code></a>
 
   </div>
 
@@ -3493,8 +3262,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SSD"
-  class="member-name-link"><code>SSD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SSD" class="member-name-link"><code>SSD</code></a>
 
   </div>
 
@@ -3510,8 +3278,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#STP"
-  class="member-name-link"><code>STP</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#STP" class="member-name-link"><code>STP</code></a>
 
   </div>
 
@@ -3527,8 +3294,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SUR"
-  class="member-name-link"><code>SUR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SUR" class="member-name-link"><code>SUR</code></a>
 
   </div>
 
@@ -3544,8 +3310,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SVK"
-  class="member-name-link"><code>SVK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SVK" class="member-name-link"><code>SVK</code></a>
 
   </div>
 
@@ -3561,8 +3326,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SVN"
-  class="member-name-link"><code>SVN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SVN" class="member-name-link"><code>SVN</code></a>
 
   </div>
 
@@ -3578,8 +3342,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SWE"
-  class="member-name-link"><code>SWE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SWE" class="member-name-link"><code>SWE</code></a>
 
   </div>
 
@@ -3595,8 +3358,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SWZ"
-  class="member-name-link"><code>SWZ</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SWZ" class="member-name-link"><code>SWZ</code></a>
 
   </div>
 
@@ -3612,8 +3374,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SXM"
-  class="member-name-link"><code>SXM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SXM" class="member-name-link"><code>SXM</code></a>
 
   </div>
 
@@ -3629,8 +3390,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SYC"
-  class="member-name-link"><code>SYC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SYC" class="member-name-link"><code>SYC</code></a>
 
   </div>
 
@@ -3646,8 +3406,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SYR"
-  class="member-name-link"><code>SYR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#SYR" class="member-name-link"><code>SYR</code></a>
 
   </div>
 
@@ -3663,8 +3422,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TCA"
-  class="member-name-link"><code>TCA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TCA" class="member-name-link"><code>TCA</code></a>
 
   </div>
 
@@ -3680,8 +3438,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TCD"
-  class="member-name-link"><code>TCD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TCD" class="member-name-link"><code>TCD</code></a>
 
   </div>
 
@@ -3697,8 +3454,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TGO"
-  class="member-name-link"><code>TGO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TGO" class="member-name-link"><code>TGO</code></a>
 
   </div>
 
@@ -3714,8 +3470,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#THA"
-  class="member-name-link"><code>THA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#THA" class="member-name-link"><code>THA</code></a>
 
   </div>
 
@@ -3731,8 +3486,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TJK"
-  class="member-name-link"><code>TJK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TJK" class="member-name-link"><code>TJK</code></a>
 
   </div>
 
@@ -3748,8 +3502,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TKL"
-  class="member-name-link"><code>TKL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TKL" class="member-name-link"><code>TKL</code></a>
 
   </div>
 
@@ -3765,8 +3518,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TKM"
-  class="member-name-link"><code>TKM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TKM" class="member-name-link"><code>TKM</code></a>
 
   </div>
 
@@ -3782,8 +3534,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TLS"
-  class="member-name-link"><code>TLS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TLS" class="member-name-link"><code>TLS</code></a>
 
   </div>
 
@@ -3799,8 +3550,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TON"
-  class="member-name-link"><code>TON</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TON" class="member-name-link"><code>TON</code></a>
 
   </div>
 
@@ -3816,8 +3566,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TTO"
-  class="member-name-link"><code>TTO</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TTO" class="member-name-link"><code>TTO</code></a>
 
   </div>
 
@@ -3833,8 +3582,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUN"
-  class="member-name-link"><code>TUN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUN" class="member-name-link"><code>TUN</code></a>
 
   </div>
 
@@ -3850,8 +3598,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUR"
-  class="member-name-link"><code>TUR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUR" class="member-name-link"><code>TUR</code></a>
 
   </div>
 
@@ -3867,8 +3614,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUV"
-  class="member-name-link"><code>TUV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TUV" class="member-name-link"><code>TUV</code></a>
 
   </div>
 
@@ -3884,8 +3630,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TWN"
-  class="member-name-link"><code>TWN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TWN" class="member-name-link"><code>TWN</code></a>
 
   </div>
 
@@ -3901,8 +3646,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TZA"
-  class="member-name-link"><code>TZA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#TZA" class="member-name-link"><code>TZA</code></a>
 
   </div>
 
@@ -3918,8 +3662,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UGA"
-  class="member-name-link"><code>UGA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UGA" class="member-name-link"><code>UGA</code></a>
 
   </div>
 
@@ -3935,8 +3678,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UKR"
-  class="member-name-link"><code>UKR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UKR" class="member-name-link"><code>UKR</code></a>
 
   </div>
 
@@ -3952,8 +3694,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#URY"
-  class="member-name-link"><code>URY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#URY" class="member-name-link"><code>URY</code></a>
 
   </div>
 
@@ -3969,8 +3710,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#USA"
-  class="member-name-link"><code>USA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#USA" class="member-name-link"><code>USA</code></a>
 
   </div>
 
@@ -3986,8 +3726,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UZB"
-  class="member-name-link"><code>UZB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#UZB" class="member-name-link"><code>UZB</code></a>
 
   </div>
 
@@ -4003,8 +3742,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VAT"
-  class="member-name-link"><code>VAT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VAT" class="member-name-link"><code>VAT</code></a>
 
   </div>
 
@@ -4020,8 +3758,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VCT"
-  class="member-name-link"><code>VCT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VCT" class="member-name-link"><code>VCT</code></a>
 
   </div>
 
@@ -4037,8 +3774,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VEN"
-  class="member-name-link"><code>VEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VEN" class="member-name-link"><code>VEN</code></a>
 
   </div>
 
@@ -4054,8 +3790,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VGB"
-  class="member-name-link"><code>VGB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VGB" class="member-name-link"><code>VGB</code></a>
 
   </div>
 
@@ -4071,8 +3806,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VIR"
-  class="member-name-link"><code>VIR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VIR" class="member-name-link"><code>VIR</code></a>
 
   </div>
 
@@ -4088,8 +3822,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VNM"
-  class="member-name-link"><code>VNM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VNM" class="member-name-link"><code>VNM</code></a>
 
   </div>
 
@@ -4105,8 +3838,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VUT"
-  class="member-name-link"><code>VUT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#VUT" class="member-name-link"><code>VUT</code></a>
 
   </div>
 
@@ -4122,8 +3854,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#WLF"
-  class="member-name-link"><code>WLF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#WLF" class="member-name-link"><code>WLF</code></a>
 
   </div>
 
@@ -4139,8 +3870,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#WSM"
-  class="member-name-link"><code>WSM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#WSM" class="member-name-link"><code>WSM</code></a>
 
   </div>
 
@@ -4156,8 +3886,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#YEM"
-  class="member-name-link"><code>YEM</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#YEM" class="member-name-link"><code>YEM</code></a>
 
   </div>
 
@@ -4173,8 +3902,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZAF"
-  class="member-name-link"><code>ZAF</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZAF" class="member-name-link"><code>ZAF</code></a>
 
   </div>
 
@@ -4190,8 +3918,7 @@ standard using alpha-3 codes.
 
   <div class="col-first even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZMB"
-  class="member-name-link"><code>ZMB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZMB" class="member-name-link"><code>ZMB</code></a>
 
   </div>
 
@@ -4207,8 +3934,7 @@ standard using alpha-3 codes.
 
   <div class="col-first odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZWE"
-  class="member-name-link"><code>ZWE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode#ZWE" class="member-name-link"><code>ZWE</code></a>
 
   </div>
 
@@ -4226,8 +3952,7 @@ standard using alpha-3 codes.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -4289,8 +4014,7 @@ standard using alpha-3 codes.
 
   <div class="block">
 
-  Returns an array containing the constants of this enum class, in the
-  order they are declared.
+  Returns an array containing the constants of this enum class, in the order they are declared.
 
   </div>
 
@@ -4302,72 +4026,17 @@ standard using alpha-3 codes.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -4375,8 +4044,7 @@ standard using alpha-3 codes.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-enum-constant-detail"
-  class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail" class="section constant-details">
 
   ## Enum Constant Details
 
@@ -4386,8 +4054,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ABW</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ABW</span>
 
     </div>
 
@@ -4405,8 +4072,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AFG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AFG</span>
 
     </div>
 
@@ -4424,8 +4090,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AGO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AGO</span>
 
     </div>
 
@@ -4443,8 +4108,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AIA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AIA</span>
 
     </div>
 
@@ -4462,8 +4126,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ALB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ALB</span>
 
     </div>
 
@@ -4481,8 +4144,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AND</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AND</span>
 
     </div>
 
@@ -4500,8 +4162,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARE</span>
 
     </div>
 
@@ -4519,8 +4180,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARG</span>
 
     </div>
 
@@ -4538,8 +4198,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARM</span>
 
     </div>
 
@@ -4557,8 +4216,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ASM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ASM</span>
 
     </div>
 
@@ -4576,8 +4234,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATA</span>
 
     </div>
 
@@ -4595,8 +4252,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATG</span>
 
     </div>
 
@@ -4614,8 +4270,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUS</span>
 
     </div>
 
@@ -4633,8 +4288,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUT</span>
 
     </div>
 
@@ -4652,8 +4306,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AZE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AZE</span>
 
     </div>
 
@@ -4671,8 +4324,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BDI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BDI</span>
 
     </div>
 
@@ -4690,8 +4342,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEL</span>
 
     </div>
 
@@ -4709,8 +4360,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEN</span>
 
     </div>
 
@@ -4728,8 +4378,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BES</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BES</span>
 
     </div>
 
@@ -4747,8 +4396,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BFA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BFA</span>
 
     </div>
 
@@ -4766,8 +4414,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGD</span>
 
     </div>
 
@@ -4785,8 +4432,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGR</span>
 
     </div>
 
@@ -4804,8 +4450,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHR</span>
 
     </div>
 
@@ -4823,8 +4468,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHS</span>
 
     </div>
 
@@ -4842,8 +4486,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BIH</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BIH</span>
 
     </div>
 
@@ -4861,8 +4504,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLM</span>
 
     </div>
 
@@ -4880,8 +4522,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLR</span>
 
     </div>
 
@@ -4899,8 +4540,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLZ</span>
 
     </div>
 
@@ -4918,8 +4558,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BMU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BMU</span>
 
     </div>
 
@@ -4937,8 +4576,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BOL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BOL</span>
 
     </div>
 
@@ -4956,8 +4594,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRA</span>
 
     </div>
 
@@ -4975,8 +4612,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRB</span>
 
     </div>
 
@@ -4994,8 +4630,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRN</span>
 
     </div>
 
@@ -5013,8 +4648,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BTN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BTN</span>
 
     </div>
 
@@ -5032,8 +4666,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BWA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BWA</span>
 
     </div>
 
@@ -5051,8 +4684,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAF</span>
 
     </div>
 
@@ -5070,8 +4702,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAN</span>
 
     </div>
 
@@ -5089,8 +4720,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CCK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CCK</span>
 
     </div>
 
@@ -5108,8 +4738,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHE</span>
 
     </div>
 
@@ -5127,8 +4756,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHL</span>
 
     </div>
 
@@ -5146,8 +4774,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHN</span>
 
     </div>
 
@@ -5165,8 +4792,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CIV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CIV</span>
 
     </div>
 
@@ -5184,8 +4810,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CMR</span>
 
     </div>
 
@@ -5203,8 +4828,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COD</span>
 
     </div>
 
@@ -5222,8 +4846,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COG</span>
 
     </div>
 
@@ -5241,8 +4864,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COK</span>
 
     </div>
 
@@ -5260,8 +4882,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COL</span>
 
     </div>
 
@@ -5279,8 +4900,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COM</span>
 
     </div>
 
@@ -5298,8 +4918,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CPV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CPV</span>
 
     </div>
 
@@ -5317,8 +4936,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CRI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CRI</span>
 
     </div>
 
@@ -5336,8 +4954,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUB</span>
 
     </div>
 
@@ -5355,8 +4972,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUW</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUW</span>
 
     </div>
 
@@ -5374,8 +4990,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CXR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CXR</span>
 
     </div>
 
@@ -5393,8 +5008,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYM</span>
 
     </div>
 
@@ -5412,8 +5026,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYP</span>
 
     </div>
 
@@ -5431,8 +5044,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CZE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CZE</span>
 
     </div>
 
@@ -5450,8 +5062,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DEU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DEU</span>
 
     </div>
 
@@ -5469,8 +5080,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DJI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DJI</span>
 
     </div>
 
@@ -5488,8 +5098,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DMA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DMA</span>
 
     </div>
 
@@ -5507,8 +5116,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DNK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DNK</span>
 
     </div>
 
@@ -5526,8 +5134,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DOM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DOM</span>
 
     </div>
 
@@ -5545,8 +5152,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DZA</span>
 
     </div>
 
@@ -5564,8 +5170,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ECU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ECU</span>
 
     </div>
 
@@ -5583,8 +5188,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EGY</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EGY</span>
 
     </div>
 
@@ -5602,8 +5206,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ERI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ERI</span>
 
     </div>
 
@@ -5621,8 +5224,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESH</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESH</span>
 
     </div>
 
@@ -5640,8 +5242,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESP</span>
 
     </div>
 
@@ -5659,8 +5260,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EST</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EST</span>
 
     </div>
 
@@ -5678,8 +5278,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ETH</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ETH</span>
 
     </div>
 
@@ -5697,8 +5296,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FIN</span>
 
     </div>
 
@@ -5716,8 +5314,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FJI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FJI</span>
 
     </div>
 
@@ -5735,8 +5332,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FLK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FLK</span>
 
     </div>
 
@@ -5754,8 +5350,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRA</span>
 
     </div>
 
@@ -5773,8 +5368,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRO</span>
 
     </div>
 
@@ -5792,8 +5386,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FSM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FSM</span>
 
     </div>
 
@@ -5811,8 +5404,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GAB</span>
 
     </div>
 
@@ -5830,8 +5422,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GBR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GBR</span>
 
     </div>
 
@@ -5849,8 +5440,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GEO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GEO</span>
 
     </div>
 
@@ -5868,8 +5458,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GHA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GHA</span>
 
     </div>
 
@@ -5887,8 +5476,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIB</span>
 
     </div>
 
@@ -5906,8 +5494,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIN</span>
 
     </div>
 
@@ -5925,8 +5512,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GLP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GLP</span>
 
     </div>
 
@@ -5944,8 +5530,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GMB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GMB</span>
 
     </div>
 
@@ -5963,8 +5548,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNB</span>
 
     </div>
 
@@ -5982,8 +5566,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNQ</span>
 
     </div>
 
@@ -6001,8 +5584,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRC</span>
 
     </div>
 
@@ -6020,8 +5602,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRD</span>
 
     </div>
 
@@ -6039,8 +5620,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRL</span>
 
     </div>
 
@@ -6058,8 +5638,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GTM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GTM</span>
 
     </div>
 
@@ -6077,8 +5656,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUF</span>
 
     </div>
 
@@ -6096,8 +5674,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUM</span>
 
     </div>
 
@@ -6115,8 +5692,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUY</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUY</span>
 
     </div>
 
@@ -6134,8 +5710,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HKG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HKG</span>
 
     </div>
 
@@ -6153,8 +5728,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HND</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HND</span>
 
     </div>
 
@@ -6172,8 +5746,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HRV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HRV</span>
 
     </div>
 
@@ -6191,8 +5764,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HTI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HTI</span>
 
     </div>
 
@@ -6210,8 +5782,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HUN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HUN</span>
 
     </div>
 
@@ -6229,8 +5800,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IDN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IDN</span>
 
     </div>
 
@@ -6248,8 +5818,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IMN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IMN</span>
 
     </div>
 
@@ -6267,8 +5836,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IND</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IND</span>
 
     </div>
 
@@ -6286,8 +5854,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IOT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IOT</span>
 
     </div>
 
@@ -6305,8 +5872,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRL</span>
 
     </div>
 
@@ -6324,8 +5890,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRN</span>
 
     </div>
 
@@ -6343,8 +5908,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRQ</span>
 
     </div>
 
@@ -6362,8 +5926,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISL</span>
 
     </div>
 
@@ -6381,8 +5944,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISR</span>
 
     </div>
 
@@ -6400,8 +5962,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ITA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ITA</span>
 
     </div>
 
@@ -6419,8 +5980,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JAM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JAM</span>
 
     </div>
 
@@ -6438,8 +5998,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JOR</span>
 
     </div>
 
@@ -6457,8 +6016,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JPN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JPN</span>
 
     </div>
 
@@ -6476,8 +6034,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KAZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KAZ</span>
 
     </div>
 
@@ -6495,8 +6052,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KEN</span>
 
     </div>
 
@@ -6514,8 +6070,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KGZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KGZ</span>
 
     </div>
 
@@ -6533,8 +6088,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KHM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KHM</span>
 
     </div>
 
@@ -6552,8 +6106,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KIR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KIR</span>
 
     </div>
 
@@ -6571,8 +6124,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KNA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KNA</span>
 
     </div>
 
@@ -6590,8 +6142,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KOR</span>
 
     </div>
 
@@ -6609,8 +6160,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KWT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KWT</span>
 
     </div>
 
@@ -6628,8 +6178,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LAO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LAO</span>
 
     </div>
 
@@ -6647,8 +6196,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBN</span>
 
     </div>
 
@@ -6666,8 +6214,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBR</span>
 
     </div>
 
@@ -6685,8 +6232,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBY</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBY</span>
 
     </div>
 
@@ -6704,8 +6250,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LCA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LCA</span>
 
     </div>
 
@@ -6723,8 +6268,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LIE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LIE</span>
 
     </div>
 
@@ -6742,8 +6286,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LKA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LKA</span>
 
     </div>
 
@@ -6761,8 +6304,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LSO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LSO</span>
 
     </div>
 
@@ -6780,8 +6322,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LTU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LTU</span>
 
     </div>
 
@@ -6799,8 +6340,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LUX</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LUX</span>
 
     </div>
 
@@ -6818,8 +6358,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LVA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LVA</span>
 
     </div>
 
@@ -6837,8 +6376,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAC</span>
 
     </div>
 
@@ -6856,8 +6394,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAF</span>
 
     </div>
 
@@ -6875,8 +6412,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAR</span>
 
     </div>
 
@@ -6894,8 +6430,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MCO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MCO</span>
 
     </div>
 
@@ -6913,8 +6448,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDA</span>
 
     </div>
 
@@ -6932,8 +6466,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDG</span>
 
     </div>
 
@@ -6951,8 +6484,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDV</span>
 
     </div>
 
@@ -6970,8 +6502,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MEX</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MEX</span>
 
     </div>
 
@@ -6989,8 +6520,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MHL</span>
 
     </div>
 
@@ -7008,8 +6538,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MKD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MKD</span>
 
     </div>
 
@@ -7027,8 +6556,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLI</span>
 
     </div>
 
@@ -7046,8 +6574,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLT</span>
 
     </div>
 
@@ -7065,8 +6592,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MMR</span>
 
     </div>
 
@@ -7084,8 +6610,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNE</span>
 
     </div>
 
@@ -7103,8 +6628,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNG</span>
 
     </div>
 
@@ -7122,8 +6646,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNP</span>
 
     </div>
 
@@ -7141,8 +6664,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MOZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MOZ</span>
 
     </div>
 
@@ -7160,8 +6682,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MRT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MRT</span>
 
     </div>
 
@@ -7179,8 +6700,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MSR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MSR</span>
 
     </div>
 
@@ -7198,8 +6718,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MTQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MTQ</span>
 
     </div>
 
@@ -7217,8 +6736,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MUS</span>
 
     </div>
 
@@ -7236,8 +6754,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MWI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MWI</span>
 
     </div>
 
@@ -7255,8 +6772,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYS</span>
 
     </div>
 
@@ -7274,8 +6790,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYT</span>
 
     </div>
 
@@ -7293,8 +6808,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NAM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NAM</span>
 
     </div>
 
@@ -7312,8 +6826,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NCL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NCL</span>
 
     </div>
 
@@ -7331,8 +6844,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NER</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NER</span>
 
     </div>
 
@@ -7350,8 +6862,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NFK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NFK</span>
 
     </div>
 
@@ -7369,8 +6880,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NGA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NGA</span>
 
     </div>
 
@@ -7388,8 +6898,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIC</span>
 
     </div>
 
@@ -7407,8 +6916,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIU</span>
 
     </div>
 
@@ -7426,8 +6934,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NLD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NLD</span>
 
     </div>
 
@@ -7445,8 +6952,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NOR</span>
 
     </div>
 
@@ -7464,8 +6970,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NPL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NPL</span>
 
     </div>
 
@@ -7483,8 +6988,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NRU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NRU</span>
 
     </div>
 
@@ -7502,8 +7006,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NZL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NZL</span>
 
     </div>
 
@@ -7521,8 +7024,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">OMN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">OMN</span>
 
     </div>
 
@@ -7540,8 +7042,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAK</span>
 
     </div>
 
@@ -7559,8 +7060,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAN</span>
 
     </div>
 
@@ -7578,8 +7078,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PCN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PCN</span>
 
     </div>
 
@@ -7597,8 +7096,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PER</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PER</span>
 
     </div>
 
@@ -7616,8 +7114,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PHL</span>
 
     </div>
 
@@ -7635,8 +7132,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PLW</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PLW</span>
 
     </div>
 
@@ -7654,8 +7150,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PNG</span>
 
     </div>
 
@@ -7673,8 +7168,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">POL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">POL</span>
 
     </div>
 
@@ -7692,8 +7186,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRI</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRI</span>
 
     </div>
 
@@ -7711,8 +7204,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRK</span>
 
     </div>
 
@@ -7730,8 +7222,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRT</span>
 
     </div>
 
@@ -7749,8 +7240,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRY</span>
 
     </div>
 
@@ -7768,8 +7258,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PSE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PSE</span>
 
     </div>
 
@@ -7787,8 +7276,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PYF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PYF</span>
 
     </div>
 
@@ -7806,8 +7294,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">QAT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">QAT</span>
 
     </div>
 
@@ -7825,8 +7312,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">REU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">REU</span>
 
     </div>
 
@@ -7844,8 +7330,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ROU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ROU</span>
 
     </div>
 
@@ -7863,8 +7348,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RUS</span>
 
     </div>
 
@@ -7882,8 +7366,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RWA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RWA</span>
 
     </div>
 
@@ -7901,8 +7384,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SAU</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SAU</span>
 
     </div>
 
@@ -7920,8 +7402,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SDN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SDN</span>
 
     </div>
 
@@ -7939,8 +7420,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SEN</span>
 
     </div>
 
@@ -7958,8 +7438,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGP</span>
 
     </div>
 
@@ -7977,8 +7456,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGS</span>
 
     </div>
 
@@ -7996,8 +7474,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SHN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SHN</span>
 
     </div>
 
@@ -8015,8 +7492,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SJM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SJM</span>
 
     </div>
 
@@ -8034,8 +7510,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLB</span>
 
     </div>
 
@@ -8053,8 +7528,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLE</span>
 
     </div>
 
@@ -8072,8 +7546,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLV</span>
 
     </div>
 
@@ -8091,8 +7564,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SMR</span>
 
     </div>
 
@@ -8110,8 +7582,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SOM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SOM</span>
 
     </div>
 
@@ -8129,8 +7600,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SPM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SPM</span>
 
     </div>
 
@@ -8148,8 +7618,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SRB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SRB</span>
 
     </div>
 
@@ -8167,8 +7636,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SSD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SSD</span>
 
     </div>
 
@@ -8186,8 +7654,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">STP</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">STP</span>
 
     </div>
 
@@ -8205,8 +7672,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SUR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SUR</span>
 
     </div>
 
@@ -8224,8 +7690,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVK</span>
 
     </div>
 
@@ -8243,8 +7708,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVN</span>
 
     </div>
 
@@ -8262,8 +7726,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWE</span>
 
     </div>
 
@@ -8281,8 +7744,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWZ</span>
 
     </div>
 
@@ -8300,8 +7762,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SXM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SXM</span>
 
     </div>
 
@@ -8319,8 +7780,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYC</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYC</span>
 
     </div>
 
@@ -8338,8 +7798,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYR</span>
 
     </div>
 
@@ -8357,8 +7816,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCA</span>
 
     </div>
 
@@ -8376,8 +7834,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCD</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCD</span>
 
     </div>
 
@@ -8395,8 +7852,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TGO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TGO</span>
 
     </div>
 
@@ -8414,8 +7870,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">THA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">THA</span>
 
     </div>
 
@@ -8433,8 +7888,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TJK</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TJK</span>
 
     </div>
 
@@ -8452,8 +7906,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKL</span>
 
     </div>
 
@@ -8471,8 +7924,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKM</span>
 
     </div>
 
@@ -8490,8 +7942,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TLS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TLS</span>
 
     </div>
 
@@ -8509,8 +7960,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TON</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TON</span>
 
     </div>
 
@@ -8528,8 +7978,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TTO</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TTO</span>
 
     </div>
 
@@ -8547,8 +7996,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUN</span>
 
     </div>
 
@@ -8566,8 +8014,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUR</span>
 
     </div>
 
@@ -8585,8 +8032,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUV</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUV</span>
 
     </div>
 
@@ -8604,8 +8050,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TWN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TWN</span>
 
     </div>
 
@@ -8623,8 +8068,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TZA</span>
 
     </div>
 
@@ -8642,8 +8086,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UGA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UGA</span>
 
     </div>
 
@@ -8661,8 +8104,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UKR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UKR</span>
 
     </div>
 
@@ -8680,8 +8122,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">URY</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">URY</span>
 
     </div>
 
@@ -8699,8 +8140,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">USA</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">USA</span>
 
     </div>
 
@@ -8718,8 +8158,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UZB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UZB</span>
 
     </div>
 
@@ -8737,8 +8176,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VAT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VAT</span>
 
     </div>
 
@@ -8756,8 +8194,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VCT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VCT</span>
 
     </div>
 
@@ -8775,8 +8212,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VEN</span>
 
     </div>
 
@@ -8794,8 +8230,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VGB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VGB</span>
 
     </div>
 
@@ -8813,8 +8248,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VIR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VIR</span>
 
     </div>
 
@@ -8832,8 +8266,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VNM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VNM</span>
 
     </div>
 
@@ -8851,8 +8284,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VUT</span>
 
     </div>
 
@@ -8870,8 +8302,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WLF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WLF</span>
 
     </div>
 
@@ -8889,8 +8320,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WSM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WSM</span>
 
     </div>
 
@@ -8908,8 +8338,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">YEM</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">YEM</span>
 
     </div>
 
@@ -8927,8 +8356,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZAF</span>
 
     </div>
 
@@ -8946,8 +8374,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZMB</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZMB</span>
 
     </div>
 
@@ -8965,8 +8392,7 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZWE</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZWE</span>
 
     </div>
 
@@ -8980,8 +8406,7 @@ standard using alpha-3 codes.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-values" class="section detail">
 
@@ -8989,44 +8414,34 @@ standard using alpha-3 codes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
     <div class="block">
 
-    Returns an array containing the constants of this enum class, in the
-    order they are declared.
+    Returns an array containing the constants of this enum class, in the order they are declared.
 
     </div>
 
     Returns:  
-    an array containing the constants of this enum class, in the order
-    they are declared
+    an array containing the constants of this enum class, in the order they are declared
 
     </div>
 
-  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String" class="section detail">
 
     ### valueOf
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
     <div class="block">
 
-    Returns the enum constant of this class with the specified name. The
-    string must match exactly an identifier used to declare an enum
-    constant in this class. (Extraneous whitespace characters are not
-    permitted.)
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
 
     </div>
 
@@ -9037,19 +8452,13 @@ standard using alpha-3 codes.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
-    if this enum class has no constant with the specified name
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
-    if the argument is null
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

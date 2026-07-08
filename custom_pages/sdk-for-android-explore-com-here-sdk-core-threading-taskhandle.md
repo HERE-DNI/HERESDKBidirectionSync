@@ -3,6 +3,8 @@ title: "TaskHandle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,13 +15,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">TaskHandle</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TaskHandle</span>
 
 </div>
 
@@ -31,8 +31,7 @@ Handle used for the manipulation of the task.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -130,8 +129,7 @@ Handle used for the manipulation of the task.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-cancel" class="section detail">
 
@@ -145,16 +143,12 @@ Handle used for the manipulation of the task.
 
     <div class="block">
 
-    Sets internal state of task to 'canceled'. If the task is still in
-    the queue, it will be removed from it immediately. However, if the
-    task is in a running state, it will nevertheless be completed, as
-    there is no way to interrupt it.
+    Sets internal state of task to 'canceled'. If the task is still in the queue, it will be removed from it immediately. However, if the task is in a running state, it will nevertheless be completed, as there is no way to interrupt it.
 
     </div>
 
     Returns:  
-    True, if the task was canceled. False, if the task can't be canceled
-    due to a platform dependent reason.
+    True, if the task was canceled. False, if the task can't be canceled due to a platform dependent reason.
 
     </div>
 
@@ -170,10 +164,7 @@ Handle used for the manipulation of the task.
 
     <div class="block">
 
-    Gets a boolean indicating if this task is completed. True, if this
-    task is completed. Completion may be due to normal termination, an
-    exception, or cancellation - in all of these cases, result will
-    return true .
+    Gets a boolean indicating if this task is completed. True, if this task is completed. Completion may be due to normal termination, an exception, or cancellation - in all of these cases, result will return true .
 
     </div>
 
@@ -182,8 +173,7 @@ Handle used for the manipulation of the task.
 
     </div>
 
-  - <div id="sdk-for-android-explore-isCancelled"
-    class="section detail">
+  - <div id="sdk-for-android-explore-isCancelled" class="section detail">
 
     ### isCancelled
 
@@ -195,8 +185,7 @@ Handle used for the manipulation of the task.
 
     <div class="block">
 
-    Gets a boolean indicating if this task is cancelled. True, if this
-    task was canceled before it completed normally.
+    Gets a boolean indicating if this task is cancelled. True, if this task was canceled before it completed normally.
 
     </div>
 
@@ -206,4 +195,6 @@ Handle used for the manipulation of the task.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

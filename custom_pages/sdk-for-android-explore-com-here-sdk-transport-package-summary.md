@@ -121,8 +121,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="block">
 
-  Identifiers for different types of hazardous materials which can be
-  shipped by the truck.
+  Identifiers for different types of hazardous materials which can be shipped by the truck.
 
   </div>
 
@@ -606,8 +605,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="block">
 
-  Struct which defines the weight of the different axle groups of a
-  vehicle.
+  Struct which defines the weight of the different axle groups of a vehicle.
 
   </div>
 

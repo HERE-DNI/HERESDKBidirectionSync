@@ -3,6 +3,8 @@ title: "GeoCoordinatesUpdate (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,36 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.core.GeoCoordinatesUpdate →
-com.here.sdk.core.GeoCoordinatesUpdate
+java.lang.Object com.here.sdk.core.GeoCoordinatesUpdate → com.here.sdk.core.GeoCoordinatesUpdate
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">GeoCoordinatesUpdate</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">GeoCoordinatesUpdate</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-Represents geographical coordinates in 3D space. Unlike GeoCoordinates ,
-its members can be undefined, allowing for APIs that update only the
-specified parts of geo coordinates.
+Represents geographical coordinates in 3D space. Unlike GeoCoordinates , its members can be undefined, allowing for APIs that update only the specified parts of geo coordinates.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -74,18 +67,13 @@ specified parts of geo coordinates.
 
   <div class="col-first even-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#altitude"
-  class="member-name-link"><code>altitude</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#altitude" class="member-name-link"><code>altitude</code></a>
 
   </div>
 
@@ -101,18 +89,13 @@ specified parts of geo coordinates.
 
   <div class="col-first odd-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#latitude"
-  class="member-name-link"><code>latitude</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#latitude" class="member-name-link"><code>latitude</code></a>
 
   </div>
 
@@ -128,18 +111,13 @@ specified parts of geo coordinates.
 
   <div class="col-first even-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#longitude"
-  class="member-name-link"><code>longitude</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#longitude" class="member-name-link"><code>longitude</code></a>
 
   </div>
 
@@ -157,8 +135,7 @@ specified parts of geo coordinates.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -206,8 +183,7 @@ specified parts of geo coordinates.
 
   <div class="block">
 
-  Constructs a GeoCoordinatesUpdate from the provided latitude and
-  longitude values.
+  Constructs a GeoCoordinatesUpdate from the provided latitude and longitude values.
 
   </div>
 
@@ -223,8 +199,7 @@ specified parts of geo coordinates.
 
   <div class="block">
 
-  Constructs a GeoCoordinatesUpdate from the provided latitude,
-  longitude and alt values.
+  Constructs a GeoCoordinatesUpdate from the provided latitude, longitude and alt values.
 
   </div>
 
@@ -234,8 +209,7 @@ specified parts of geo coordinates.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -301,38 +275,9 @@ specified parts of geo coordinates.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -340,8 +285,7 @@ specified parts of geo coordinates.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-latitude" class="section detail">
 
@@ -349,11 +293,7 @@ specified parts of geo coordinates.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">latitude</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">latitude</span>
 
     </div>
 
@@ -371,11 +311,7 @@ specified parts of geo coordinates.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">longitude</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">longitude</span>
 
     </div>
 
@@ -393,11 +329,7 @@ specified parts of geo coordinates.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">altitude</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">altitude</span>
 
     </div>
 
@@ -411,91 +343,59 @@ specified parts of geo coordinates.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double" class="section detail">
 
     ### GeoCoordinatesUpdate
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><span class="parameters">(@Nullable
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> latitude,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> longitude)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> latitude, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> longitude)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs a GeoCoordinatesUpdate from the provided latitude and
-    longitude values. Corrects values of latitude and longitude if they
-    exceed the ranges.
+    Constructs a GeoCoordinatesUpdate from the provided latitude and longitude values. Corrects values of latitude and longitude if they exceed the ranges.
 
     </div>
 
     Parameters:  
     `latitude` -
 
-    Latitude in degrees. Positive value means Northern hemisphere. If
-    the value is out of range of \[-90.0, 90.0\] it's clamped to that
-    range. NaN value is converted to `null`.
+    Latitude in degrees. Positive value means Northern hemisphere. If the value is out of range of \[-90.0, 90.0\] it's clamped to that range. NaN value is converted to `null`.
 
     `longitude` -
 
-    Longitude in degrees. Positive value means Eastern hemisphere. If
-    the value is out of range of \[-180.0, 180.0\] it's replaced with a
-    value within the range, representing effectively the same meridian.
-    NaN value is converted to `null`.
+    Longitude in degrees. Positive value means Eastern hemisphere. If the value is out of range of \[-180.0, 180.0\] it's replaced with a value within the range, representing effectively the same meridian. NaN value is converted to `null`.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double-java-lang-Double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double-java-lang-Double" class="section detail">
 
     ### GeoCoordinatesUpdate
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><span class="parameters">(@Nullable
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> latitude,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> longitude,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> altitude)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> latitude, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> longitude, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> altitude)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs a GeoCoordinatesUpdate from the provided latitude,
-    longitude and alt values. Corrects values of latitude and longitude
-    if they exceed the ranges.
+    Constructs a GeoCoordinatesUpdate from the provided latitude, longitude and alt values. Corrects values of latitude and longitude if they exceed the ranges.
 
     </div>
 
     Parameters:  
     `latitude` -
 
-    Latitude in degrees. Positive value means Northern hemisphere. If
-    the value is out of range of \[-90.0, 90.0\] it's clamped to that
-    range. NaN value is converted to `null`.
+    Latitude in degrees. Positive value means Northern hemisphere. If the value is out of range of \[-90.0, 90.0\] it's clamped to that range. NaN value is converted to `null`.
 
     `longitude` -
 
-    Longitude in degrees. Positive value means Eastern hemisphere. If
-    the value is out of range of \[-180.0, 180.0\] it's replaced with a
-    value within the range, representing effectively the same meridian.
-    NaN value is converted to `null`.
+    Longitude in degrees. Positive value means Eastern hemisphere. If the value is out of range of \[-180.0, 180.0\] it's replaced with a value within the range, representing effectively the same meridian. NaN value is converted to `null`.
 
     `altitude` -
 
@@ -503,15 +403,13 @@ specified parts of geo coordinates.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoCoordinates" class="section detail">
 
     ### GeoCoordinatesUpdate
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><span class="parameters">(@NonNull
-    [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates)</span>
 
     </div>
 
@@ -530,31 +428,20 @@ specified parts of geo coordinates.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -569,16 +456,11 @@ specified parts of geo coordinates.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

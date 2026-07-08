@@ -3,6 +3,8 @@ title: "IsolineOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,21 +17,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.IsolineOptions →
-com.here.sdk.routing.IsolineOptions
+java.lang.Object com.here.sdk.routing.IsolineOptions → com.here.sdk.routing.IsolineOptions
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">IsolineOptions</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">IsolineOptions</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -41,8 +37,7 @@ Specifies options for isolines calculation.
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="caption">
 
@@ -78,10 +73,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
-  class="type-name-link"
-  title="class in com.here.sdk.routing"><code>IsolineOptions.Calculation</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation" class="type-name-link" title="class in com.here.sdk.routing"><code>IsolineOptions.Calculation</code></a>
 
   </div>
 
@@ -99,8 +91,7 @@ Specifies options for isolines calculation.
 
   </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -136,9 +127,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#calculationOptions"
-  class="member-name-link"><code>calculationOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#calculationOptions" class="member-name-link"><code>calculationOptions</code></a>
 
   </div>
 
@@ -160,9 +149,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#carOptions"
-  class="member-name-link"><code>carOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#carOptions" class="member-name-link"><code>carOptions</code></a>
 
   </div>
 
@@ -184,9 +171,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evCarOptions"
-  class="member-name-link"><code>evCarOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evCarOptions" class="member-name-link"><code>evCarOptions</code></a>
 
   </div>
 
@@ -208,9 +193,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evTruckOptions"
-  class="member-name-link"><code>evTruckOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#evTruckOptions" class="member-name-link"><code>evTruckOptions</code></a>
 
   </div>
 
@@ -232,9 +215,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#routingOptions"
-  class="member-name-link"><code>routingOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#routingOptions" class="member-name-link"><code>routingOptions</code></a>
 
   </div>
 
@@ -256,9 +237,7 @@ Specifies options for isolines calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#truckOptions"
-  class="member-name-link"><code>truckOptions</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions#truckOptions" class="member-name-link"><code>truckOptions</code></a>
 
   </div>
 
@@ -276,8 +255,7 @@ Specifies options for isolines calculation.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -357,8 +335,7 @@ Specifies options for isolines calculation.
 
   <div class="block">
 
-  Constructs options to calculate isolines from destination or origin,
-  with preferences for isoline calculation and routing options.
+  Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and routing options.
 
   </div>
 
@@ -384,49 +361,13 @@ Specifies options for isolines calculation.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -434,18 +375,15 @@ Specifies options for isolines calculation.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
-  - <div id="sdk-for-android-explore-calculationOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-calculationOptions" class="section detail">
 
     ### calculationOptions
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing")</span> <span class="element-name">calculationOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing")</span> <span class="element-name">calculationOptions</span>
 
     </div>
 
@@ -463,11 +401,7 @@ Specifies options for isolines calculation.
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a> @Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing")</span> <span class="element-name">carOptions</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type">[CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing")</span> <span class="element-name">carOptions</span>
 
     </div>
 
@@ -484,26 +418,19 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Specifies options for calculation of isolines for car. Mutually
-    exclusive with truckOptions , evCarOptions , evTruckOptions and
-    routingOptions .
+    Specifies options for calculation of isolines for car. Mutually exclusive with truckOptions , evCarOptions , evTruckOptions and routingOptions .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-truckOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-truckOptions" class="section detail">
 
     ### truckOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a> @Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing")</span> <span class="element-name">truckOptions</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing")</span> <span class="element-name">truckOptions</span>
 
     </div>
 
@@ -520,26 +447,19 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Specifies options for calculation of isolines for truck. Mutually
-    exclusive with carOptions , evCarOptions , evTruckOptions and
-    routingOptions .
+    Specifies options for calculation of isolines for truck. Mutually exclusive with carOptions , evCarOptions , evTruckOptions and routingOptions .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-evCarOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-evCarOptions" class="section detail">
 
     ### evCarOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a> @Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing")</span> <span class="element-name">evCarOptions</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing")</span> <span class="element-name">evCarOptions</span>
 
     </div>
 
@@ -556,26 +476,19 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Specifies options for calculation of isolines for electric car.
-    Mutually exclusive with carOptions , truckOptions , evTruckOptions
-    and routingOptions .
+    Specifies options for calculation of isolines for electric car. Mutually exclusive with carOptions , truckOptions , evTruckOptions and routingOptions .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-evTruckOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-evTruckOptions" class="section detail">
 
     ### evTruckOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a> @Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing")</span> <span class="element-name">evTruckOptions</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing")</span> <span class="element-name">evTruckOptions</span>
 
     </div>
 
@@ -592,31 +505,25 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Specifies options for calculation of isolines for electric truck.
-    Mutually exclusive with carOptions , truckOptions , evCarOptions and
-    routingOptions .
+    Specifies options for calculation of isolines for electric truck. Mutually exclusive with carOptions , truckOptions , evCarOptions and routingOptions .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-routingOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-routingOptions" class="section detail">
 
     ### routingOptions
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")</span> <span class="element-name">routingOptions</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")</span> <span class="element-name">routingOptions</span>
 
     </div>
 
     <div class="block">
 
-    Specifies options for calculation of isolines for any vehicle type.
-    Mutually exclusive with carOptions , truckOptions , evCarOptions and
-    evTruckOptions .
+    Specifies options for calculation of isolines for any vehicle type. Mutually exclusive with carOptions , truckOptions , evCarOptions and evTruckOptions .
 
     </div>
 
@@ -624,24 +531,15 @@ Specifies options for isolines calculation.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-CarOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-CarOptions" class="section detail">
 
     ### IsolineOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a>
-    </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><span class="parameters">(@NonNull
-    [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions,
-    @NonNull
-    [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><wbr></wbr><span class="parameters">(@NonNull [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions, @NonNull [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions)</span>
 
     </div>
 
@@ -650,8 +548,7 @@ Specifies options for isolines calculation.
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.28.0. Use the constructor with
-    `RoutingOptions` parameter instead.
+    Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.
 
     </div>
 
@@ -659,8 +556,7 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Constructs options to calculate isolines from destination or origin,
-    with preferences for isoline calculation and car routing options.
+    Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and car routing options.
 
     </div>
 
@@ -671,26 +567,17 @@ Specifies options for isolines calculation.
 
     `carOptions` -
 
-    The options that should influence the possible routes within the
-    isoline. This determines also the transportation type.
+    The options that should influence the possible routes within the isoline. This determines also the transportation type.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-TruckOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-TruckOptions" class="section detail">
 
     ### IsolineOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a>
-    </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><span class="parameters">(@NonNull
-    [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions,
-    @NonNull
-    [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><wbr></wbr><span class="parameters">(@NonNull [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions, @NonNull [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions)</span>
 
     </div>
 
@@ -699,8 +586,7 @@ Specifies options for isolines calculation.
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.28.0. Use the constructor with
-    `RoutingOptions` parameter instead.
+    Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.
 
     </div>
 
@@ -708,8 +594,7 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Constructs options to calculate isolines from destination or origin,
-    with preferences for isoline calculation and truck routing options.
+    Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and truck routing options.
 
     </div>
 
@@ -720,26 +605,17 @@ Specifies options for isolines calculation.
 
     `truckOptions` -
 
-    The options that should influence the possible routes within the
-    isoline. This determines also the transportation type.
+    The options that should influence the possible routes within the isoline. This determines also the transportation type.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-EVCarOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-EVCarOptions" class="section detail">
 
     ### IsolineOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a>
-    </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><span class="parameters">(@NonNull
-    [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions,
-    @NonNull
-    [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><wbr></wbr><span class="parameters">(@NonNull [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions, @NonNull [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions)</span>
 
     </div>
 
@@ -748,8 +624,7 @@ Specifies options for isolines calculation.
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.28.0. Use the constructor with
-    `RoutingOptions` parameter instead.
+    Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.
 
     </div>
 
@@ -757,9 +632,7 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Constructs options to calculate isolines from destination or origin,
-    with preferences for isoline calculation and electric car routing
-    options.
+    Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and electric car routing options.
 
     </div>
 
@@ -770,26 +643,17 @@ Specifies options for isolines calculation.
 
     `evCarOptions` -
 
-    The options that should influence the possible routes within the
-    isoline. This determines also the transportation type.
+    The options that should influence the possible routes within the isoline. This determines also the transportation type.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-EVTruckOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-EVTruckOptions" class="section detail">
 
     ### IsolineOptions
 
     <div class="member-signature">
 
-    <span class="annotations"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
-    class="external-link"
-    title="class or interface in java.lang">@Deprecated</a>
-    </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><span class="parameters">(@NonNull
-    [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions,
-    @NonNull
-    [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><wbr></wbr><span class="parameters">(@NonNull [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions, @NonNull [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions)</span>
 
     </div>
 
@@ -798,8 +662,7 @@ Specifies options for isolines calculation.
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.28.0. Use the constructor with
-    `RoutingOptions` parameter instead.
+    Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.
 
     </div>
 
@@ -807,9 +670,7 @@ Specifies options for isolines calculation.
 
     <div class="block">
 
-    Constructs options to calculate isolines from destination or origin,
-    with preferences for isoline calculation and electric truck routing
-    options.
+    Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and electric truck routing options.
 
     </div>
 
@@ -820,36 +681,23 @@ Specifies options for isolines calculation.
 
     `evTruckOptions` -
 
-    The options that should influence the possible routes within the
-    isoline. This determines also the transportation type.
+    The options that should influence the possible routes within the isoline. This determines also the transportation type.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-RoutingOptions"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-routing-IsolineOptions-Calculation-com-here-sdk-routing-RoutingOptions" class="section detail">
 
     ### IsolineOptions
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><span class="parameters">(@NonNull
-    [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions,
-    @NonNull
-    [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") routingOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">IsolineOptions</span><wbr></wbr><span class="parameters">(@NonNull [IsolineOptions.Calculation](sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation "class in com.here.sdk.routing") calculationOptions, @NonNull [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") routingOptions)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs options to calculate isolines from destination or origin,
-    with preferences for isoline calculation and routing options. Notes
-    By default all vehicle specifications from
-    RoutingOptions.transportSpecification are set to null and the
-    TransportSpecification.transportMode from
-    RoutingOptions.transportSpecification is set to TransportMode.CAR .
-    A route can be calculated with only the
-    TransportSpecification.transportMode from
-    RoutingOptions.transportSpecification set.
+    Constructs options to calculate isolines from destination or origin, with preferences for isoline calculation and routing options. Notes By default all vehicle specifications from RoutingOptions.transportSpecification are set to null and the TransportSpecification.transportMode from RoutingOptions.transportSpecification is set to TransportMode.CAR . A route can be calculated with only the TransportSpecification.transportMode from RoutingOptions.transportSpecification set.
 
     </div>
 
@@ -860,10 +708,11 @@ Specifies options for isolines calculation.
 
     `routingOptions` -
 
-    The options that should influence the possible routes within the
-    isoline. This determines also the transportation type.
+    The options that should influence the possible routes within the isoline. This determines also the transportation type.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

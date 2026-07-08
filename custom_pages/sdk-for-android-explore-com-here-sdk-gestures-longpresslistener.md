@@ -3,6 +3,8 @@ title: "LongPressListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-longpresslistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-longpresslistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">LongPressListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">LongPressListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling long-press gestures. Long-press gesture occurs
-after tapping and holding the finger for a long time on the screen.
+Interface for handling long-press gestures. Long-press gesture occurs after tapping and holding the finger for a long time on the screen.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -87,20 +85,15 @@ after tapping and holding the finger for a long time on the screen.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onLongPress-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onLongPress-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D" class="section detail">
 
     ### onLongPress
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onLongPress</span><span class="parameters">(@NonNull
-    [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="return-type">void</span> <span class="element-name">onLongPress</span><wbr></wbr><span class="parameters">(@NonNull [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
 
     </div>
 
@@ -122,4 +115,6 @@ after tapping and holding the finger for a long time on the screen.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

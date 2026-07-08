@@ -3,6 +3,8 @@ title: "GeoOrientationUpdate (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-geoorientationupdate"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,37 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geoorientationupdate"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.core.GeoOrientationUpdate →
-com.here.sdk.core.GeoOrientationUpdate
+java.lang.Object com.here.sdk.core.GeoOrientationUpdate → com.here.sdk.core.GeoOrientationUpdate
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">GeoOrientationUpdate</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">GeoOrientationUpdate</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-Describes geodetic orientation update with bearing and tilt. Updating an
-orientation value can be skipped by setting null in an appriopriate
-field. For example, if one wants bearing not to be updated set it to
-null .
+Describes geodetic orientation update with bearing and tilt. Updating an orientation value can be skipped by setting null in an appriopriate field. For example, if one wants bearing not to be updated set it to null .
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -75,18 +67,13 @@ null .
 
   <div class="col-first even-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#bearing"
-  class="member-name-link"><code>bearing</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#bearing" class="member-name-link"><code>bearing</code></a>
 
   </div>
 
@@ -102,18 +89,13 @@ null .
 
   <div class="col-first odd-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#tilt"
-  class="member-name-link"><code>tilt</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#tilt" class="member-name-link"><code>tilt</code></a>
 
   </div>
 
@@ -131,8 +113,7 @@ null .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -164,8 +145,7 @@ null .
 
   <div class="block">
 
-  Constructs a new GeoOrientationUpdate instance from a GeoOrientation
-  instance.
+  Constructs a new GeoOrientationUpdate instance from a GeoOrientation instance.
 
   </div>
 
@@ -187,8 +167,7 @@ null .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -254,38 +233,9 @@ null .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -293,8 +243,7 @@ null .
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-bearing" class="section detail">
 
@@ -302,19 +251,13 @@ null .
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">bearing</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">bearing</span>
 
     </div>
 
     <div class="block">
 
-    Bearing in degrees. 0 is north up, positive is clockwise. A null
-    value means that bearing is not updated and the current value is
-    kept.
+    Bearing in degrees. 0 is north up, positive is clockwise. A null value means that bearing is not updated and the current value is kept.
 
     </div>
 
@@ -326,20 +269,13 @@ null .
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">tilt</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">tilt</span>
 
     </div>
 
     <div class="block">
 
-    Tilt in degrees. 0 is perpendicular to earth surface, a positive
-    value turns the camera's nose up and changes the camera's location
-    to ensure that the camera target is not changed. A null value means
-    that tilt is not updated and the current value is kept.
+    Tilt in degrees. 0 is perpendicular to earth surface, a positive value turns the camera's nose up and changes the camera's location to ensure that the camera target is not changed. A null value means that tilt is not updated and the current value is kept.
 
     </div>
 
@@ -347,94 +283,68 @@ null .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-Double-java-lang-Double" class="section detail">
 
     ### GeoOrientationUpdate
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><span class="parameters">(@Nullable
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> bearing,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> tilt)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> bearing, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> tilt)</span>
 
     </div>
 
     Parameters:  
     `bearing` -
 
-    Bearing in degrees. When the passed value is `null` bearing is not
-    updated and the current value is kept. NaN value is converted to
-    `null`.
+    Bearing in degrees. When the passed value is `null` bearing is not updated and the current value is kept. NaN value is converted to `null`.
 
     `tilt` -
 
-    Tilt in degrees. When the passed value is `null` tilt is not updated
-    and the current value is kept. NaN value is converted to `null`.
+    Tilt in degrees. When the passed value is `null` tilt is not updated and the current value is kept. NaN value is converted to `null`.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoOrientation"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoOrientation" class="section detail">
 
     ### GeoOrientationUpdate
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><span class="parameters">(@NonNull
-    [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core") orientation)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><wbr></wbr><span class="parameters">(@NonNull [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core") orientation)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs a new GeoOrientationUpdate instance from a GeoOrientation
-    instance.
+    Constructs a new GeoOrientationUpdate instance from a GeoOrientation instance.
 
     </div>
 
     Parameters:  
     `orientation` -
 
-    A GeoOrientation instance used as a source for a
-    GeoOrientationUpdate instance's values.
+    A GeoOrientation instance used as a source for a GeoOrientationUpdate instance's values.
 
     </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -449,16 +359,11 @@ null .
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

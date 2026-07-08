@@ -3,6 +3,8 @@ title: "LineTileSource (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,35 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Superinterfaces:  
 [`TileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">LineTileSource</span><span class="extends-implements">
-extends
-[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">LineTileSource</span><span class="extends-implements"> extends [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")</span>
 
 </div>
 
 <div class="block">
 
-A source of geodetic line tiles. Lines provided by an implementation
-must be clipped to the boundaries of the requested tile. The
-implementations must be thread-safe. Note: This is a beta release of
-this feature, so there could be a few bugs and unexpected behavior.
-Related APIs may change for new releases without a deprecation process.
+A source of geodetic line tiles. Lines provided by an implementation must be clipped to the boundaries of the requested tile. The implementations must be thread-safe. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="caption">
 
@@ -77,10 +70,7 @@ Related APIs may change for new releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource.LoadResultHandler</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource.LoadResultHandler</code></a>
 
   </div>
 
@@ -106,8 +96,7 @@ Related APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -169,21 +158,15 @@ Related APIs may change for new releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-loadTile-com-here-sdk-mapview-datasource-TileKey-com-here-sdk-mapview-datasource-LineTileSource-LoadResultHandler"
-    class="section detail">
+  - <div id="sdk-for-android-explore-loadTile-com-here-sdk-mapview-datasource-TileKey-com-here-sdk-mapview-datasource-LineTileSource-LoadResultHandler" class="section detail">
 
     ### loadTile
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="return-type">[TileSource.LoadTileRequestHandle](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource")</span> <span class="element-name">loadTile</span><span class="parameters">(@NonNull
-    [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey,
-    @NonNull
-    [LineTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource") completionHandler)</span>
+    <span class="annotations">@Nullable </span><span class="return-type">[TileSource.LoadTileRequestHandle](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource")</span> <span class="element-name">loadTile</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey, @NonNull [LineTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource") completionHandler)</span>
 
     </div>
 
@@ -208,4 +191,6 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

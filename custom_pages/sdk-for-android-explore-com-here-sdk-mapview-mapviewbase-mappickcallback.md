@@ -3,6 +3,8 @@ title: "MapViewBase.MapPickCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing interface:  
 [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
@@ -22,17 +23,11 @@ Enclosing interface:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapViewBase.MapPickCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapViewBase.MapPickCallback</span>
 
 </div>
 
@@ -44,8 +39,7 @@ Callback for a pick request. In case of an error the result is not set.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -99,25 +93,21 @@ Callback for a pick request. In case of an error the result is not set.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onPickMap-com-here-sdk-mapview-MapPickResult"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onPickMap-com-here-sdk-mapview-MapPickResult" class="section detail">
 
     ### onPickMap
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPickMap</span><span class="parameters">(@Nullable
-    [MapPickResult](sdk-for-android-explore-com-here-sdk-mapview-mappickresult "class in com.here.sdk.mapview") mapPickResult)</span>
+    <span class="return-type">void</span> <span class="element-name">onPickMap</span><wbr></wbr><span class="parameters">(@Nullable [MapPickResult](sdk-for-android-explore-com-here-sdk-mapview-mappickresult "class in com.here.sdk.mapview") mapPickResult)</span>
 
     </div>
 
     <div class="block">
 
-    Callback for a pick request. In case of an error the result is not
-    set.
+    Callback for a pick request. In case of an error the result is not set.
 
     </div>
 
@@ -129,4 +119,6 @@ Callback for a pick request. In case of an error the result is not set.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

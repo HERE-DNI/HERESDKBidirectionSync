@@ -3,6 +3,8 @@ title: "MapImageOverlay (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,45 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.mapview.MapImageOverlay → com.here.NativeBase
-com.here.sdk.mapview.MapImageOverlay →
-com.here.sdk.mapview.MapImageOverlay
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapImageOverlay → com.here.NativeBase com.here.sdk.mapview.MapImageOverlay → com.here.sdk.mapview.MapImageOverlay
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">MapImageOverlay</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapImageOverlay</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-MapImageOverlay is used to draw images over the map, at a view
-coordinate inside the map viewport. The image to be displayed is
-represented by a MapImage object. By default, the overlay is centered on
-the given view coordinate. The resulting viewport area covered by the
-overlay is computed out of the overlay's view coordinate, the anchor
-point and the image size. The overlay subareas that fall outside of the
-map viewport get clipped. To display the map overlay, it needs to be
-added to the scene using
-MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) . To
-stop displaying it, remove it from the scene using
-MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
+MapImageOverlay is used to draw images over the map, at a view coordinate inside the map viewport. The image to be displayed is represented by a MapImage object. By default, the overlay is centered on the given view coordinate. The resulting viewport area covered by the overlay is computed out of the overlay's view coordinate, the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped. To display the map overlay, it needs to be added to the scene using MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) . To stop displaying it, remove it from the scene using MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -85,8 +69,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="block">
 
-  Creates an instance of an overlay at given view coordinates,
-  represented by specified image.
+  Creates an instance of an overlay at given view coordinates, represented by specified image.
 
   </div>
 
@@ -102,9 +85,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="block">
 
-  Creates an instance of an overlay at given view coordinates,
-  represented by specified image, with anchor point specifying how the
-  image is positioned relative to the overlay's view coordinates.
+  Creates an instance of an overlay at given view coordinates, represented by specified image, with anchor point specifying how the image is positioned relative to the overlay's view coordinates.
 
   </div>
 
@@ -114,8 +95,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -221,8 +201,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="block">
 
-  Gets the view point in pixels on the map viewport where the overlay is
-  drawn.
+  Gets the view point in pixels on the map viewport where the overlay is drawn.
 
   </div>
 
@@ -244,8 +223,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="block">
 
-  Sets anchor point of the overlay image which specifies the position
-  offset relative to the overlay's view coordinates.
+  Sets anchor point of the overlay image which specifies the position offset relative to the overlay's view coordinates.
 
   </div>
 
@@ -311,8 +289,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="block">
 
-  Sets the view point in pixels on the map viewport where the overlay is
-  drawn.
+  Sets the view point in pixels on the map viewport where the overlay is drawn.
 
   </div>
 
@@ -324,44 +301,9 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -369,27 +311,21 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Point2D-com-here-sdk-mapview-MapImage"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Point2D-com-here-sdk-mapview-MapImage" class="section detail">
 
     ### MapImageOverlay
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><span class="parameters">(@NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates,
-    @NonNull
-    [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image)</span>
 
     </div>
 
     <div class="block">
 
-    Creates an instance of an overlay at given view coordinates,
-    represented by specified image.
+    Creates an instance of an overlay at given view coordinates, represented by specified image.
 
     </div>
 
@@ -404,37 +340,19 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Point2D-com-here-sdk-mapview-MapImage-com-here-sdk-core-Anchor2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Point2D-com-here-sdk-mapview-MapImage-com-here-sdk-core-Anchor2D" class="section detail">
 
     ### MapImageOverlay
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><span class="parameters">(@NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates,
-    @NonNull
-    [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image,
-    @NonNull
-    [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image, @NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor)</span>
 
     </div>
 
     <div class="block">
 
-    Creates an instance of an overlay at given view coordinates,
-    represented by specified image, with anchor point specifying how the
-    image is positioned relative to the overlay's view coordinates. The
-    anchor is a way of specifying position offset relative to image's
-    dimensions on the view. For example, (0, 0) places the top-left
-    corner of the image at the overlay's view coordinates. (1, 1) would
-    place the bottom-right corner of the image at the overlay's view
-    coordinates. (0.5, 0.5) which is the default value would center the
-    image at the overlay's view coordinates. Values outside the 0..1
-    range are also allowed, for example (0.5, 2) would display the image
-    centered horizontally with its bottom edge above the overlay's view
-    coordinates at the distance in pixels that is equal to the height of
-    the image.
+    Creates an instance of an overlay at given view coordinates, represented by specified image, with anchor point specifying how the image is positioned relative to the overlay's view coordinates. The anchor is a way of specifying position offset relative to image's dimensions on the view. For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates. (1, 1) would place the bottom-right corner of the image at the overlay's view coordinates. (0.5, 0.5) which is the default value would center the image at the overlay's view coordinates. Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image centered horizontally with its bottom edge above the overlay's view coordinates at the distance in pixels that is equal to the height of the image.
 
     </div>
 
@@ -449,70 +367,59 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     `anchor` -
 
-    The anchor point for the overlay image which specifies the position
-    offset relative to the overlay's view coordinates.
+    The anchor point for the overlay image which specifies the position offset relative to the overlay's view coordinates.
 
     </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-getViewCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getViewCoordinates" class="section detail">
 
     ### getViewCoordinates
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">getViewCoordinates</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">getViewCoordinates</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the view point in pixels on the map viewport where the overlay
-    is drawn.
+    Gets the view point in pixels on the map viewport where the overlay is drawn.
 
     </div>
 
     Returns:  
-    The view point in pixels on the map viewport where the map overlay
-    is drawn.
+    The view point in pixels on the map viewport where the map overlay is drawn.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setViewCoordinates-com-here-sdk-core-Point2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setViewCoordinates-com-here-sdk-core-Point2D" class="section detail">
 
     ### setViewCoordinates
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setViewCoordinates</span><span class="parameters">(@NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setViewCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the view point in pixels on the map viewport where the overlay
-    is drawn.
+    Sets the view point in pixels on the map viewport where the overlay is drawn.
 
     </div>
 
     Parameters:  
     `value` -
 
-    The view point in pixels on the map viewport where the map overlay
-    is drawn.
+    The view point in pixels on the map viewport where the map overlay is drawn.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getDrawOrder"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder" class="section detail">
 
     ### getDrawOrder
 
@@ -533,25 +440,19 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="sdk-for-android-explore-setDrawOrder-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder-int" class="section detail">
 
     ### setDrawOrder
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><span class="parameters">(int value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr></wbr><span class="parameters">(int value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets draw order of this MapImageOverlay . Overlays with higher draw
-    order value are drawn on top of overlays with lower draw order. In
-    case multiple overlays have the same draw order value then the order
-    in which they were added to the scene matters. Last added overlay is
-    drawn on top. Allowed range is \[0, 1023\]. Values outside this
-    range will be clamped.
+    Sets draw order of this MapImageOverlay . Overlays with higher draw order value are drawn on top of overlays with lower draw order. In case multiple overlays have the same draw order value then the order in which they were added to the scene matters. Last added overlay is drawn on top. Allowed range is \[0, 1023\]. Values outside this range will be clamped.
 
     </div>
 
@@ -568,8 +469,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">getImage</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">getImage</span>()
 
     </div>
 
@@ -584,15 +484,13 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     </div>
 
-  - <div id="sdk-for-android-explore-setImage-com-here-sdk-mapview-MapImage"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setImage-com-here-sdk-mapview-MapImage" class="section detail">
 
     ### setImage
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><span class="parameters">(@NonNull
-    [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><wbr></wbr><span class="parameters">(@NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") value)</span>
 
     </div>
 
@@ -615,8 +513,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">getAnchor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">getAnchor</span>()
 
     </div>
 
@@ -627,45 +524,34 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     </div>
 
     Returns:  
-    The anchor point for the overlay image which specifies the position
-    offset relative to the overlay's view coordinates.
+    The anchor point for the overlay image which specifies the position offset relative to the overlay's view coordinates.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setAnchor-com-here-sdk-core-Anchor2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setAnchor-com-here-sdk-core-Anchor2D" class="section detail">
 
     ### setAnchor
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><span class="parameters">(@NonNull
-    [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets anchor point of the overlay image which specifies the position
-    offset relative to the overlay's view coordinates. For example,
-    (0, 0) places the top-left corner of the image at the overlay's view
-    coordinates. (1, 1) would place the bottom-right corner of the image
-    at the overlay's view coordinates. (0.5, 0.5) which is the default
-    value would center the image at the overlay's view coordinates.
-    Values outside the 0..1 range are also allowed, for example (0.5, 2)
-    would display the image centered horizontally with its bottom edge
-    above the overlay's view coordinates at the distance in pixels that
-    is equal to the height of the image.
+    Sets anchor point of the overlay image which specifies the position offset relative to the overlay's view coordinates. For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates. (1, 1) would place the bottom-right corner of the image at the overlay's view coordinates. (0.5, 0.5) which is the default value would center the image at the overlay's view coordinates. Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image centered horizontally with its bottom edge above the overlay's view coordinates at the distance in pixels that is equal to the height of the image.
 
     </div>
 
     Parameters:  
     `value` -
 
-    The anchor point for the overlay image which specifies the position
-    offset relative to the overlay's view coordinates.
+    The anchor point for the overlay image which specifies the position offset relative to the overlay's view coordinates.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

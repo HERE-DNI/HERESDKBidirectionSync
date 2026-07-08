@@ -3,6 +3,8 @@ title: "EVConsumptionModel (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,37 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.EVConsumptionModel →
-com.here.sdk.routing.EVConsumptionModel
+java.lang.Object com.here.sdk.routing.EVConsumptionModel → com.here.sdk.routing.EVConsumptionModel
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">EVConsumptionModel</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">EVConsumptionModel</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-Parameters specific for the electric vehicle, which are then used to
-calculate energy consumption on a given route. At minimum, you must
-provide ascentConsumptionInWattHoursPerMeter ,
-descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
+Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route. At minimum, you must provide ascentConsumptionInWattHoursPerMeter , descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -81,9 +73,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#ascentConsumptionInWattHoursPerMeter"
-  class="member-name-link"><code>ascentConsumptionInWattHoursPerMeter</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#ascentConsumptionInWattHoursPerMeter" class="member-name-link"><code>ascentConsumptionInWattHoursPerMeter</code></a>
 
   </div>
 
@@ -91,8 +81,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="block">
 
-  Rate of energy consumed per meter rise in elevation (in Wh/m, i.e.,
-  Watt-hours per meter).
+  Rate of energy consumed per meter rise in elevation (in Wh/m, i.e., Watt-hours per meter).
 
   </div>
 
@@ -106,9 +95,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#auxiliaryConsumptionInWattHoursPerSecond"
-  class="member-name-link"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#auxiliaryConsumptionInWattHoursPerSecond" class="member-name-link"><code>auxiliaryConsumptionInWattHoursPerSecond</code></a>
 
   </div>
 
@@ -116,8 +103,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="block">
 
-  Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
-  (e.g., air conditioning, lights) per second of travel.
+  Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems (e.g., air conditioning, lights) per second of travel.
 
   </div>
 
@@ -131,9 +117,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#descentRecoveryInWattHoursPerMeter"
-  class="member-name-link"><code>descentRecoveryInWattHoursPerMeter</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#descentRecoveryInWattHoursPerMeter" class="member-name-link"><code>descentRecoveryInWattHoursPerMeter</code></a>
 
   </div>
 
@@ -141,8 +125,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="block">
 
-  Rate of energy recovered per meter fall in elevation (in Wh/m, i.e.,
-  Watt-hours per meter).
+  Rate of energy recovered per meter fall in elevation (in Wh/m, i.e., Watt-hours per meter).
 
   </div>
 
@@ -150,24 +133,13 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>, <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#freeFlowSpeedTable"
-  class="member-name-link"><code>freeFlowSpeedTable</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#freeFlowSpeedTable" class="member-name-link"><code>freeFlowSpeedTable</code></a>
 
   </div>
 
@@ -175,8 +147,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="block">
 
-  Free flow speed table describes energy consumption when traveling at
-  constant speed.
+  Free flow speed table describes energy consumption when traveling at constant speed.
 
   </div>
 
@@ -184,24 +155,13 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>, <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#trafficSpeedTable"
-  class="member-name-link"><code>trafficSpeedTable</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel#trafficSpeedTable" class="member-name-link"><code>trafficSpeedTable</code></a>
 
   </div>
 
@@ -209,8 +169,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="block">
 
-  Traffic speed table describes energy consumption when traveling under
-  heavy traffic conditions, i.e.
+  Traffic speed table describes energy consumption when traveling under heavy traffic conditions, i.e.
 
   </div>
 
@@ -220,8 +179,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -263,8 +221,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -330,38 +287,9 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -369,11 +297,9 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
-  - <div id="sdk-for-android-explore-ascentConsumptionInWattHoursPerMeter"
-    class="section detail">
+  - <div id="sdk-for-android-explore-ascentConsumptionInWattHoursPerMeter" class="section detail">
 
     ### ascentConsumptionInWattHoursPerMeter
 
@@ -385,15 +311,13 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     <div class="block">
 
-    Rate of energy consumed per meter rise in elevation (in Wh/m, i.e.,
-    Watt-hours per meter).
+    Rate of energy consumed per meter rise in elevation (in Wh/m, i.e., Watt-hours per meter).
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-descentRecoveryInWattHoursPerMeter"
-    class="section detail">
+  - <div id="sdk-for-android-explore-descentRecoveryInWattHoursPerMeter" class="section detail">
 
     ### descentRecoveryInWattHoursPerMeter
 
@@ -405,93 +329,49 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     <div class="block">
 
-    Rate of energy recovered per meter fall in elevation (in Wh/m, i.e.,
-    Watt-hours per meter).
+    Rate of energy recovered per meter fall in elevation (in Wh/m, i.e., Watt-hours per meter).
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-freeFlowSpeedTable"
-    class="section detail">
+  - <div id="sdk-for-android-explore-freeFlowSpeedTable" class="section detail">
 
     ### freeFlowSpeedTable
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>,<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">freeFlowSpeedTable</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">freeFlowSpeedTable</span>
 
     </div>
 
     <div class="block">
 
-    Free flow speed table describes energy consumption when traveling at
-    constant speed. It defines a function curve specifying consumption
-    rate at a given free flow speed on a flat stretch of road. Map keys
-    represent speed values that are non-negative integers in units of
-    (km/h). Map values represent consumption values that are
-    non-negative floating point values in units of (Wh/m). The function
-    is linearly interpolated between each successive pair of data
-    points: For values below the first list value, the first value is
-    used. For values after the last list value, the last list value is
-    used. At minimum, one key/value pair must be set. In this case the
-    consumption value is used for all possible speed keys.
+    Free flow speed table describes energy consumption when traveling at constant speed. It defines a function curve specifying consumption rate at a given free flow speed on a flat stretch of road. Map keys represent speed values that are non-negative integers in units of (km/h). Map values represent consumption values that are non-negative floating point values in units of (Wh/m). The function is linearly interpolated between each successive pair of data points: For values below the first list value, the first value is used. For values after the last list value, the last list value is used. At minimum, one key/value pair must be set. In this case the consumption value is used for all possible speed keys.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-trafficSpeedTable"
-    class="section detail">
+  - <div id="sdk-for-android-explore-trafficSpeedTable" class="section detail">
 
     ### trafficSpeedTable
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>,<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">trafficSpeedTable</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">trafficSpeedTable</span>
 
     </div>
 
     <div class="block">
 
-    Traffic speed table describes energy consumption when traveling
-    under heavy traffic conditions, i.e. when the vehicle is expected to
-    often change the travel speed. It defines a function curve
-    specifying consumption rate at a given speed under traffic
-    conditions on a flat stretch of road. Map keys represent traffic
-    speed values that are non-negative integers in units of (km/h). Map
-    values represent consumption values that are non-negative floating
-    point values in units of (Wh/m). The function is linearly
-    interpolated between each successive pair of data points: For values
-    below the first list value, the first value is used. For values
-    after the last list value, the last list value is used. If only one
-    key/value pair is set, the consumption value is used for all
-    possible traffic speed keys. If trafficSpeedTable is empty then only
-    freeFlowSpeedTable is used for calculating speed-related energy
-    consumption.
+    Traffic speed table describes energy consumption when traveling under heavy traffic conditions, i.e. when the vehicle is expected to often change the travel speed. It defines a function curve specifying consumption rate at a given speed under traffic conditions on a flat stretch of road. Map keys represent traffic speed values that are non-negative integers in units of (km/h). Map values represent consumption values that are non-negative floating point values in units of (Wh/m). The function is linearly interpolated between each successive pair of data points: For values below the first list value, the first value is used. For values after the last list value, the last list value is used. If only one key/value pair is set, the consumption value is used for all possible traffic speed keys. If trafficSpeedTable is empty then only freeFlowSpeedTable is used for calculating speed-related energy consumption.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-auxiliaryConsumptionInWattHoursPerSecond"
-    class="section detail">
+  - <div id="sdk-for-android-explore-auxiliaryConsumptionInWattHoursPerSecond" class="section detail">
 
     ### auxiliaryConsumptionInWattHoursPerSecond
 
@@ -503,8 +383,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
     <div class="block">
 
-    Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
-    (e.g., air conditioning, lights) per second of travel.
+    Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems (e.g., air conditioning, lights) per second of travel.
 
     </div>
 
@@ -512,8 +391,7 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -535,31 +413,20 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -574,16 +441,11 @@ descentRecoveryInWattHoursPerMeter and a freeFlowSpeedTable .
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

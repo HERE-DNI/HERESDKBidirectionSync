@@ -3,6 +3,8 @@ title: "MatchSideOfStreet (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,77 +17,42 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object java.lang.Enum \< MatchSideOfStreet \>
-com.here.sdk.routing.MatchSideOfStreet → java.lang.Enum \<
-MatchSideOfStreet \> com.here.sdk.routing.MatchSideOfStreet →
-com.here.sdk.routing.MatchSideOfStreet
+java.lang.Object java.lang.Enum \< MatchSideOfStreet \> com.here.sdk.routing.MatchSideOfStreet → java.lang.Enum \< MatchSideOfStreet \> com.here.sdk.routing.MatchSideOfStreet → com.here.sdk.routing.MatchSideOfStreet
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MatchSideOfStreet`](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MatchSideOfStreet`](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum
-</span><span class="element-name type-name-label">MatchSideOfStreet</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">MatchSideOfStreet</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
 <div class="block">
 
-Specifies how the location set by Waypoint.sideOfStreetHint should be
-handled. This setting might affect the geometry of the resulting route.
+Specifies how the location set by Waypoint.sideOfStreetHint should be handled. This setting might affect the geometry of the resulting route.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-enum-constant-summary"
-  class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary" class="section constants-summary">
 
   ## Enum Constant Summary
 
@@ -111,9 +78,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet#ALWAYS"
-  class="member-name-link"><code>ALWAYS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet#ALWAYS" class="member-name-link"><code>ALWAYS</code></a>
 
   </div>
 
@@ -121,8 +86,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="block">
 
-  Always prefer the given side of street regardless if the street has
-  dividers.
+  Always prefer the given side of street regardless if the street has dividers.
 
   </div>
 
@@ -130,9 +94,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet#ONLY_IF_DIVIDED"
-  class="member-name-link"><code>ONLY_IF_DIVIDED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet#ONLY_IF_DIVIDED" class="member-name-link"><code>ONLY_IF_DIVIDED</code></a>
 
   </div>
 
@@ -140,8 +102,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="block">
 
-  Only prefer using side of street set by street hint in case the street
-  has dividers.
+  Only prefer using side of street set by street hint in case the street has dividers.
 
   </div>
 
@@ -151,8 +112,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -214,8 +174,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="block">
 
-  Returns an array containing the constants of this enum class, in the
-  order they are declared.
+  Returns an array containing the constants of this enum class, in the order they are declared.
 
   </div>
 
@@ -227,72 +186,17 @@ handled. This setting might affect the geometry of the resulting route.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -300,8 +204,7 @@ handled. This setting might affect the geometry of the resulting route.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-enum-constant-detail"
-  class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail" class="section constant-details">
 
   ## Enum Constant Details
 
@@ -311,39 +214,31 @@ handled. This setting might affect the geometry of the resulting route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">ALWAYS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">ALWAYS</span>
 
     </div>
 
     <div class="block">
 
-    Always prefer the given side of street regardless if the street has
-    dividers. Use this value if you know that the user is willing to
-    take a longer route in order to ensure arriving at the correct side
-    of the street.
+    Always prefer the given side of street regardless if the street has dividers. Use this value if you know that the user is willing to take a longer route in order to ensure arriving at the correct side of the street.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-ONLY_IF_DIVIDED"
-    class="section detail">
+  - <div id="sdk-for-android-explore-ONLY_IF_DIVIDED" class="section detail">
 
     ### ONLY_IF_DIVIDED
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">ONLY_IF_DIVIDED</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">ONLY_IF_DIVIDED</span>
 
     </div>
 
     <div class="block">
 
-    Only prefer using side of street set by street hint in case the
-    street has dividers. This is the default setting and it is
-    recommended for most use cases.
+    Only prefer using side of street set by street hint in case the street has dividers. This is the default setting and it is recommended for most use cases.
 
     </div>
 
@@ -351,8 +246,7 @@ handled. This setting might affect the geometry of the resulting route.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-values" class="section detail">
 
@@ -360,44 +254,34 @@ handled. This setting might affect the geometry of the resulting route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
     <div class="block">
 
-    Returns an array containing the constants of this enum class, in the
-    order they are declared.
+    Returns an array containing the constants of this enum class, in the order they are declared.
 
     </div>
 
     Returns:  
-    an array containing the constants of this enum class, in the order
-    they are declared
+    an array containing the constants of this enum class, in the order they are declared
 
     </div>
 
-  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String" class="section detail">
 
     ### valueOf
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type">[MatchSideOfStreet](sdk-for-android-explore-com-here-sdk-routing-matchsideofstreet "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
     <div class="block">
 
-    Returns the enum constant of this class with the specified name. The
-    string must match exactly an identifier used to declare an enum
-    constant in this class. (Extraneous whitespace characters are not
-    permitted.)
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
 
     </div>
 
@@ -408,19 +292,13 @@ handled. This setting might affect the geometry of the resulting route.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
-    if this enum class has no constant with the specified name
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
-    if the argument is null
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

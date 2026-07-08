@@ -3,6 +3,8 @@ title: "VehicleSpecification.CarBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,26 +17,18 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbu
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.transport.VehicleSpecification.CarBuilder →
-com.here.NativeBase
-com.here.sdk.transport.VehicleSpecification.CarBuilder →
-com.here.sdk.transport.VehicleSpecification.CarBuilder
+java.lang.Object com.here.NativeBase com.here.sdk.transport.VehicleSpecification.CarBuilder → com.here.NativeBase com.here.sdk.transport.VehicleSpecification.CarBuilder → com.here.sdk.transport.VehicleSpecification.CarBuilder
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class
-</span><span class="element-name type-name-label">VehicleSpecification.CarBuilder</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">VehicleSpecification.CarBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
@@ -46,8 +40,7 @@ This class constructs a VehicleSpecification for a car.
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -89,8 +82,7 @@ This class constructs a VehicleSpecification for a car.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -130,8 +122,7 @@ This class constructs a VehicleSpecification for a car.
 
   <div class="block">
 
-  Builds the VehicleSpecification object for TransportMode.CAR with the
-  specifications taken from the VehicleSpecification.CarBuilder object.
+  Builds the VehicleSpecification object for TransportMode.CAR with the specifications taken from the VehicleSpecification.CarBuilder object.
 
   </div>
 
@@ -539,44 +530,9 @@ This class constructs a VehicleSpecification for a car.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -584,8 +540,7 @@ This class constructs a VehicleSpecification for a car.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -607,18 +562,15 @@ This class constructs a VehicleSpecification for a car.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-withHeightInCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withHeightInCentimeters-int" class="section detail">
 
     ### withHeightInCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withHeightInCentimeters</span><span class="parameters">(int heightInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withHeightInCentimeters</span><wbr></wbr><span class="parameters">(int heightInCentimeters)</span>
 
     </div>
 
@@ -634,21 +586,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle height in centimeters.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle height set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle height set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withWidthInCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withWidthInCentimeters-int" class="section detail">
 
     ### withWidthInCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWidthInCentimeters</span><span class="parameters">(int widthInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWidthInCentimeters</span><wbr></wbr><span class="parameters">(int widthInCentimeters)</span>
 
     </div>
 
@@ -664,21 +612,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle width in centimeters.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle width set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle width set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withLengthInCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withLengthInCentimeters-int" class="section detail">
 
     ### withLengthInCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLengthInCentimeters</span><span class="parameters">(int lengthInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLengthInCentimeters</span><wbr></wbr><span class="parameters">(int lengthInCentimeters)</span>
 
     </div>
 
@@ -694,21 +638,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle length in centimeters.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle length set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle length set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withAxleCount-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withAxleCount-int" class="section detail">
 
     ### withAxleCount
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withAxleCount</span><span class="parameters">(int axleCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withAxleCount</span><wbr></wbr><span class="parameters">(int axleCount)</span>
 
     </div>
 
@@ -724,21 +664,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle axle count.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the axle count set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the axle count set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withKingpinToRearAxleDistanceInCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withKingpinToRearAxleDistanceInCentimeters-int" class="section detail">
 
     ### withKingpinToRearAxleDistanceInCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withKingpinToRearAxleDistanceInCentimeters</span><span class="parameters">(int length)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withKingpinToRearAxleDistanceInCentimeters</span><wbr></wbr><span class="parameters">(int length)</span>
 
     </div>
 
@@ -754,21 +690,17 @@ This class constructs a VehicleSpecification for a car.
     The distance from kingpin to the rear axle.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the kingpin to rear axle set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the kingpin to rear axle set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withTrailerCount-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withTrailerCount-int" class="section detail">
 
     ### withTrailerCount
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerCount</span><span class="parameters">(int trailerCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerCount</span><wbr></wbr><span class="parameters">(int trailerCount)</span>
 
     </div>
 
@@ -784,21 +716,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle trailer count.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the trailer count set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the trailer count set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withPayloadCapacityInKilograms-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withPayloadCapacityInKilograms-int" class="section detail">
 
     ### withPayloadCapacityInKilograms
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withPayloadCapacityInKilograms</span><span class="parameters">(int payloadCapacityInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withPayloadCapacityInKilograms</span><wbr></wbr><span class="parameters">(int payloadCapacityInKilograms)</span>
 
     </div>
 
@@ -814,21 +742,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle payload capacity in kilograms.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the payload capacity set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the payload capacity set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withTrailerAxleCount-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withTrailerAxleCount-int" class="section detail">
 
     ### withTrailerAxleCount
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerAxleCount</span><span class="parameters">(int trailerAxleCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerAxleCount</span><wbr></wbr><span class="parameters">(int trailerAxleCount)</span>
 
     </div>
 
@@ -844,21 +768,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle trailer axle count.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the trailer axle count set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the trailer axle count set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withGrossWeightInKilograms-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withGrossWeightInKilograms-int" class="section detail">
 
     ### withGrossWeightInKilograms
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withGrossWeightInKilograms</span><span class="parameters">(int grossWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withGrossWeightInKilograms</span><wbr></wbr><span class="parameters">(int grossWeightInKilograms)</span>
 
     </div>
 
@@ -874,21 +794,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle gross weight in kilograms.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the gross weight set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the gross weight set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withCurrentWeightInKilograms-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withCurrentWeightInKilograms-int" class="section detail">
 
     ### withCurrentWeightInKilograms
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withCurrentWeightInKilograms</span><span class="parameters">(int currentWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withCurrentWeightInKilograms</span><wbr></wbr><span class="parameters">(int currentWeightInKilograms)</span>
 
     </div>
 
@@ -904,21 +820,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle current weight in kilograms.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the current weight set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the current weight set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withEmptyWeightInKilograms-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withEmptyWeightInKilograms-int" class="section detail">
 
     ### withEmptyWeightInKilograms
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEmptyWeightInKilograms</span><span class="parameters">(int emptyWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEmptyWeightInKilograms</span><wbr></wbr><span class="parameters">(int emptyWeightInKilograms)</span>
 
     </div>
 
@@ -934,21 +846,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle empty weight in kilograms.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the empty weight set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the empty weight set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withWeightPerAxleInKilograms-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withWeightPerAxleInKilograms-int" class="section detail">
 
     ### withWeightPerAxleInKilograms
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWeightPerAxleInKilograms</span><span class="parameters">(int weightPerAxleInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWeightPerAxleInKilograms</span><wbr></wbr><span class="parameters">(int weightPerAxleInKilograms)</span>
 
     </div>
 
@@ -964,21 +872,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle weight per axle in kilograms.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the current weight per axle set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the current weight per axle set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withIsCommercial-boolean"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withIsCommercial-boolean" class="section detail">
 
     ### withIsCommercial
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withIsCommercial</span><span class="parameters">(boolean isCommercial)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withIsCommercial</span><wbr></wbr><span class="parameters">(boolean isCommercial)</span>
 
     </div>
 
@@ -994,24 +898,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle is commercial flag.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the is commercial flag set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the is commercial flag set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withLastCharacterOfLicensePlate-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withLastCharacterOfLicensePlate-java-lang-String" class="section detail">
 
     ### withLastCharacterOfLicensePlate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLastCharacterOfLicensePlate</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLastCharacterOfLicensePlate</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
 
     </div>
 
@@ -1027,22 +924,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle last character of the license plate.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the last character of the licence plate set to the new
-    value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the last character of the licence plate set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters-int" class="section detail">
 
     ### withEngineSizeInCubicCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEngineSizeInCubicCentimeters</span><span class="parameters">(int engineSizeInCubicCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEngineSizeInCubicCentimeters</span><wbr></wbr><span class="parameters">(int engineSizeInCubicCentimeters)</span>
 
     </div>
 
@@ -1058,21 +950,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle engine size in cubic centimeters.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the engine size set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the engine size set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withTiresCount-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withTiresCount-int" class="section detail">
 
     ### withTiresCount
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTiresCount</span><span class="parameters">(int tiresCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTiresCount</span><wbr></wbr><span class="parameters">(int tiresCount)</span>
 
     </div>
 
@@ -1088,22 +976,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle tires count.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle tires count set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle tires count set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withTunnelCategory-com-here-sdk-transport-TunnelCategory"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withTunnelCategory-com-here-sdk-transport-TunnelCategory" class="section detail">
 
     ### withTunnelCategory
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTunnelCategory</span><span class="parameters">(@NonNull
-    [TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport") tunnelCategory)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTunnelCategory</span><wbr></wbr><span class="parameters">(@NonNull [TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport") tunnelCategory)</span>
 
     </div>
 
@@ -1119,21 +1002,17 @@ This class constructs a VehicleSpecification for a car.
     The vehicle tunnel category.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle tunnel category set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle tunnel category set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withOccupancy-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withOccupancy-int" class="section detail">
 
     ### withOccupancy
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withOccupancy</span><span class="parameters">(int occupancy)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withOccupancy</span><wbr></wbr><span class="parameters">(int occupancy)</span>
 
     </div>
 
@@ -1149,9 +1028,7 @@ This class constructs a VehicleSpecification for a car.
     The vehicle occupants number.
 
     Returns:  
-    The
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object with the vehicle occupants number set to the new value.
+    The [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object with the vehicle occupants number set to the new value.
 
     </div>
 
@@ -1161,27 +1038,22 @@ This class constructs a VehicleSpecification for a car.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
 
     </div>
 
     <div class="block">
 
-    Builds the VehicleSpecification object for TransportMode.CAR with
-    the specifications taken from the VehicleSpecification.CarBuilder
-    object.
+    Builds the VehicleSpecification object for TransportMode.CAR with the specifications taken from the VehicleSpecification.CarBuilder object.
 
     </div>
 
     Returns:  
-    The
-    [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
-    object created from the
-    [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
-    object.
+    The [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport") object created from the [`VehicleSpecification.CarBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport") object.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

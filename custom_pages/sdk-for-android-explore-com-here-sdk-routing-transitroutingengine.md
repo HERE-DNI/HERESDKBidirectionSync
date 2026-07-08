@@ -3,6 +3,8 @@ title: "TransitRoutingEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-transitroutingengine"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,41 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitroutingengine"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.routing.TransitRoutingEngine → com.here.NativeBase
-com.here.sdk.routing.TransitRoutingEngine →
-com.here.sdk.routing.TransitRoutingEngine
+java.lang.Object com.here.NativeBase com.here.sdk.routing.TransitRoutingEngine → com.here.NativeBase com.here.sdk.routing.TransitRoutingEngine → com.here.sdk.routing.TransitRoutingEngine
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">TransitRoutingEngine</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TransitRoutingEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-Use the TransitRoutingEngine to calculate a public transit route from A
-to B with a number of waypoints in between. Route calculation is done
-asynchronously and requires an online connection. The resulting route
-contains various information such as the polyline, route length in
-meters, estimated time to traverse along the route and maneuver data.
-Note : Clients need to explicitly call dispose() in order to prevent a
-possible, though unlikely, deadlock on destruction.
+Use the TransitRoutingEngine to calculate a public transit route from A to B with a number of waypoints in between. Route calculation is done asynchronously and requires an online connection. The resulting route contains various information such as the polyline, route length in meters, estimated time to traverse along the route and maneuver data. Note : Clients need to explicitly call dispose() in order to prevent a possible, though unlikely, deadlock on destruction.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -107,8 +95,7 @@ possible, though unlikely, deadlock on destruction.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -148,8 +135,7 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="block">
 
-  Asynchronously calculates a public transit route from the origin to
-  the destination.
+  Asynchronously calculates a public transit route from the origin to the destination.
 
   </div>
 
@@ -183,44 +169,9 @@ possible, though unlikely, deadlock on destruction.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -228,8 +179,7 @@ possible, though unlikely, deadlock on destruction.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -237,9 +187,7 @@ possible, though unlikely, deadlock on destruction.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>()
-    throws
-    <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>() throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
 
     </div>
 
@@ -250,23 +198,19 @@ possible, though unlikely, deadlock on destruction.
     </div>
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
 
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-engine-SDKNativeEngine" class="section detail">
 
     ### TransitRoutingEngine
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><span class="parameters">(@NonNull
-    [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span>
-    throws
-    <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
 
     </div>
 
@@ -282,7 +226,7 @@ possible, though unlikely, deadlock on destruction.
     An SDKEngine instance.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -290,32 +234,21 @@ possible, though unlikely, deadlock on destruction.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-calculateRoute-com-here-sdk-routing-TransitWaypoint-com-here-sdk-routing-TransitWaypoint-com-here-sdk-routing-TransitRouteOptions-com-here-sdk-routing-CalculateRouteCallback"
-    class="section detail">
+  - <div id="sdk-for-android-explore-calculateRoute-com-here-sdk-routing-TransitWaypoint-com-here-sdk-routing-TransitWaypoint-com-here-sdk-routing-TransitRouteOptions-com-here-sdk-routing-CalculateRouteCallback" class="section detail">
 
     ### calculateRoute
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
-    [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") startingPoint,
-    @NonNull
-    [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") destination,
-    @NonNull
-    [TransitRouteOptions](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing") routeOptions,
-    @NonNull
-    [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") startingPoint, @NonNull [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") destination, @NonNull [TransitRouteOptions](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing") routeOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
 
     </div>
 
     <div class="block">
 
-    Asynchronously calculates a public transit route from the origin to
-    the destination.
+    Asynchronously calculates a public transit route from the origin to the destination.
 
     </div>
 
@@ -334,8 +267,7 @@ possible, though unlikely, deadlock on destruction.
 
     `callback` -
 
-    Callback object that will be invoked after route calculation. It is
-    always invoked on the main thread.
+    Callback object that will be invoked after route calculation. It is always invoked on the main thread.
 
     Returns:  
     Handle that will be used to manipulate the execution of the task.
@@ -354,12 +286,13 @@ possible, though unlikely, deadlock on destruction.
 
     <div class="block">
 
-    Cancels pending requests and closes the background worker thread.
-    Note: This method should be called from main thread.
+    Cancels pending requests and closes the background worker thread. Note: This method should be called from main thread.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

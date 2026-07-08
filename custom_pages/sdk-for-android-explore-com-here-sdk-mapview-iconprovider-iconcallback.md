@@ -3,6 +3,8 @@ title: "IconProvider.IconCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [IconProvider](sdk-for-android-explore-com-here-sdk-mapview-iconprovider "class in com.here.sdk.mapview")
@@ -22,31 +23,23 @@ Enclosing class:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">IconProvider.IconCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">IconProvider.IconCallback</span>
 
 </div>
 
 <div class="block">
 
-Interface which is used as callback to pass back an image or error code
-after calling the createRoadShieldIcon() method.
+Interface which is used as callback to pass back an image or error code after calling the createRoadShieldIcon() method.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -86,8 +79,7 @@ after calling the createRoadShieldIcon() method.
 
   <div class="block">
 
-  Called when the image was created successfully or an error has
-  occurred
+  Called when the image was created successfully or an error has occurred
 
   </div>
 
@@ -101,45 +93,34 @@ after calling the createRoadShieldIcon() method.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onCreateIconReply-android-graphics-Bitmap-java-lang-String-com-here-sdk-mapview-IconProviderError"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onCreateIconReply-android-graphics-Bitmap-java-lang-String-com-here-sdk-mapview-IconProviderError" class="section detail">
 
     ### onCreateIconReply
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onCreateIconReply</span><span class="parameters">(@Nullable
-    android.graphics.Bitmap bitmap, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> description,
-    @Nullable
-    [IconProviderError](sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror "enum class in com.here.sdk.mapview") error)</span>
+    <span class="return-type">void</span> <span class="element-name">onCreateIconReply</span><wbr></wbr><span class="parameters">(@Nullable android.graphics.Bitmap bitmap, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable [IconProviderError](sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror "enum class in com.here.sdk.mapview") error)</span>
 
     </div>
 
     <div class="block">
 
-    Called when the image was created successfully or an error has
-    occurred
+    Called when the image was created successfully or an error has occurred
 
     </div>
 
     Parameters:  
-    `bitmap` - The created icon or `null` if an error occurred. Note
-    that the resulting resolution of the image may differ from the width
-    and height constraints because the aspect ratio is kept.
+    `bitmap` - The created icon or `null` if an error occurred. Note that the resulting resolution of the image may differ from the width and height constraints because the aspect ratio is kept.
 
-    `description` - An English description of the created icon. For
-    example, "Federal Highway" for the road shield icon with the
-    `RouteType.LEVEL_1_ROAD` in Brazil. Empty string if an error
-    occurred.
+    `description` - An English description of the created icon. For example, "Federal Highway" for the road shield icon with the `RouteType.LEVEL_1_ROAD` in Brazil. Empty string if an error occurred.
 
     `error` - Error code if icon creation failed.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

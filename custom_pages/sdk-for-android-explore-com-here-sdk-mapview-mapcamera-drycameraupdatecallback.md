@@ -3,6 +3,8 @@ title: "MapCamera.DryCameraUpdateCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
@@ -22,33 +23,23 @@ Enclosing class:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapCamera.DryCameraUpdateCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapCamera.DryCameraUpdateCallback</span>
 
 </div>
 
 <div class="block">
 
-Used to report back results of dry update application to camera. Note
-that this is a beta release of this feature, so there could be a few
-bugs and unexpected behaviors. Related APIs may change for new releases
-without a deprecation process.
+Used to report back results of dry update application to camera. Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -102,27 +93,21 @@ without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onDryApplyUpdateResult-com-here-sdk-mapview-MapCamera-State"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onDryApplyUpdateResult-com-here-sdk-mapview-MapCamera-State" class="section detail">
 
     ### onDryApplyUpdateResult
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><span class="parameters">(@Nullable
-    [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
+    <span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><wbr></wbr><span class="parameters">(@Nullable [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
 
     </div>
 
     <div class="block">
 
-    Used to report back results of dry update application to camera.
-    Note that this is a beta release of this feature, so there could be
-    a few bugs and unexpected behaviors. Related APIs may change for new
-    releases without a deprecation process.
+    Used to report back results of dry update application to camera. Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
     </div>
 
@@ -134,4 +119,6 @@ without a deprecation process.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

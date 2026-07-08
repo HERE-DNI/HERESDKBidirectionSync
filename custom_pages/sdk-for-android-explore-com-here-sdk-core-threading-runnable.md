@@ -3,6 +3,8 @@ title: "Runnable (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-threading-runnable"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-runnable"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">Runnable</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">Runnable</span>
 
 </div>
 
 <div class="block">
 
-Interface that should be implemented by any class whose instances are
-intended to be executed by a thread.
+Interface that should be implemented by any class whose instances are intended to be executed by a thread.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -87,8 +85,7 @@ intended to be executed by a thread.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-run" class="section detail">
 
@@ -109,4 +106,6 @@ intended to be executed by a thread.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

@@ -3,6 +3,8 @@ title: "VehicleSpecification.ScooterBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,26 +17,18 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scoot
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.transport.VehicleSpecification.ScooterBuilder →
-com.here.NativeBase
-com.here.sdk.transport.VehicleSpecification.ScooterBuilder →
-com.here.sdk.transport.VehicleSpecification.ScooterBuilder
+java.lang.Object com.here.NativeBase com.here.sdk.transport.VehicleSpecification.ScooterBuilder → com.here.NativeBase com.here.sdk.transport.VehicleSpecification.ScooterBuilder → com.here.sdk.transport.VehicleSpecification.ScooterBuilder
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class
-</span><span class="element-name type-name-label">VehicleSpecification.ScooterBuilder</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">VehicleSpecification.ScooterBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
@@ -46,8 +40,7 @@ This class constructs a VehicleSpecification for a scooter.
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -89,8 +82,7 @@ This class constructs a VehicleSpecification for a scooter.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -130,9 +122,7 @@ This class constructs a VehicleSpecification for a scooter.
 
   <div class="block">
 
-  Builds the VehicleSpecification object for TransportMode.SCOOTER with
-  the specifications taken from the VehicleSpecification.ScooterBuilder
-  object.
+  Builds the VehicleSpecification object for TransportMode.SCOOTER with the specifications taken from the VehicleSpecification.ScooterBuilder object.
 
   </div>
 
@@ -188,44 +178,9 @@ This class constructs a VehicleSpecification for a scooter.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -233,8 +188,7 @@ This class constructs a VehicleSpecification for a scooter.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -256,18 +210,15 @@ This class constructs a VehicleSpecification for a scooter.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters-int" class="section detail">
 
     ### withEngineSizeInCubicCentimeters
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEngineSizeInCubicCentimeters</span><span class="parameters">(int engineSizeInCubicCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEngineSizeInCubicCentimeters</span><wbr></wbr><span class="parameters">(int engineSizeInCubicCentimeters)</span>
 
     </div>
 
@@ -283,21 +234,17 @@ This class constructs a VehicleSpecification for a scooter.
     The vehicle engine size in cubic centimeters.
 
     Returns:  
-    The
-    [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
-    object with the engine size set to the new value.
+    The [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport") object with the engine size set to the new value.
 
     </div>
 
-  - <div id="sdk-for-android-explore-withOccupancy-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withOccupancy-int" class="section detail">
 
     ### withOccupancy
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withOccupancy</span><span class="parameters">(int occupancy)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withOccupancy</span><wbr></wbr><span class="parameters">(int occupancy)</span>
 
     </div>
 
@@ -313,9 +260,7 @@ This class constructs a VehicleSpecification for a scooter.
     The vehicle occupants number.
 
     Returns:  
-    The
-    [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
-    object with the vehicle occupants number set to the new value.
+    The [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport") object with the vehicle occupants number set to the new value.
 
     </div>
 
@@ -325,27 +270,22 @@ This class constructs a VehicleSpecification for a scooter.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
 
     </div>
 
     <div class="block">
 
-    Builds the VehicleSpecification object for TransportMode.SCOOTER
-    with the specifications taken from the
-    VehicleSpecification.ScooterBuilder object.
+    Builds the VehicleSpecification object for TransportMode.SCOOTER with the specifications taken from the VehicleSpecification.ScooterBuilder object.
 
     </div>
 
     Returns:  
-    The
-    [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
-    object created from the
-    [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
-    object.
+    The [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport") object created from the [`VehicleSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport") object.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

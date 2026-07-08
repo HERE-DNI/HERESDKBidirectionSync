@@ -3,6 +3,8 @@ title: "TollFare (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-tollfare"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,41 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfare"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.TollFare →
-com.here.sdk.routing.TollFare
+java.lang.Object com.here.sdk.routing.TollFare → com.here.sdk.routing.TollFare
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">TollFare</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TollFare</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-This struct presents all the fare data for a toll. Note : If you're
-using the OfflineRoutingEngine , be aware that this feature is currently
-in beta . As a result, there may be some bugs or unexpected behaviors.
-Additionally, this feature and related APIs may be updated in future
-releases without going through the deprecation process. Note that the
-OfflineRoutingEngine is only available for the Navigate license. If
-you're using the RoutingEngine , this feature is considered to be
-stable.
+This struct presents all the fare data for a toll. Note : If you're using the OfflineRoutingEngine , be aware that this feature is currently in beta . As a result, there may be some bugs or unexpected behaviors. Additionally, this feature and related APIs may be updated in future releases without going through the deprecation process. Note that the OfflineRoutingEngine is only available for the Navigate license. If you're using the RoutingEngine , this feature is considered to be stable.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -79,17 +67,13 @@ stable.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#currency"
-  class="member-name-link"><code>currency</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#currency" class="member-name-link"><code>currency</code></a>
 
   </div>
 
@@ -111,8 +95,7 @@ stable.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#pass"
-  class="member-name-link"><code>pass</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#pass" class="member-name-link"><code>pass</code></a>
 
   </div>
 
@@ -120,8 +103,7 @@ stable.
 
   <div class="block">
 
-  Specifies whether this TollFare is a multi-travel pass, and its
-  characteristics.
+  Specifies whether this TollFare is a multi-travel pass, and its characteristics.
 
   </div>
 
@@ -129,18 +111,13 @@ stable.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`PaymentMethod`](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PaymentMethod`](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#paymentMethods"
-  class="member-name-link"><code>paymentMethods</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#paymentMethods" class="member-name-link"><code>paymentMethods</code></a>
 
   </div>
 
@@ -162,8 +139,7 @@ stable.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#price"
-  class="member-name-link"><code>price</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#price" class="member-name-link"><code>price</code></a>
 
   </div>
 
@@ -185,8 +161,7 @@ stable.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#timeRule"
-  class="member-name-link"><code>timeRule</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#timeRule" class="member-name-link"><code>timeRule</code></a>
 
   </div>
 
@@ -202,21 +177,13 @@ stable.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-tollfare#transponders"
-  class="member-name-link"><code>transponders</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare#transponders" class="member-name-link"><code>transponders</code></a>
 
   </div>
 
@@ -234,8 +201,7 @@ stable.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -329,8 +295,7 @@ stable.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -396,38 +361,9 @@ stable.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -435,8 +371,7 @@ stable.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-currency" class="section detail">
 
@@ -444,17 +379,13 @@ stable.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">currency</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">currency</span>
 
     </div>
 
     <div class="block">
 
-    The currency in which the toll is to be paid in ISO 4217 format,
-    e.g. "USD".
+    The currency in which the toll is to be paid in ISO 4217 format, e.g. "USD".
 
     </div>
 
@@ -478,17 +409,13 @@ stable.
 
     </div>
 
-  - <div id="sdk-for-android-explore-paymentMethods"
-    class="section detail">
+  - <div id="sdk-for-android-explore-paymentMethods" class="section detail">
 
     ### paymentMethods
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span> <span class="element-name">paymentMethods</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span> <span class="element-name">paymentMethods</span>
 
     </div>
 
@@ -506,35 +433,25 @@ stable.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")</span> <span class="element-name">timeRule</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")</span> <span class="element-name">timeRule</span>
 
     </div>
 
     <div class="block">
 
-    The time domain when this fare is valid. If this field is missing,
-    it means the fare is always valid. For a detailed description of the
-    Time Domain specification and usage in routing services, please
-    refer to the documentation available in the Time Domain
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the Time Domain
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-transponders"
-    class="section detail">
+  - <div id="sdk-for-android-explore-transponders" class="section detail">
 
     ### transponders
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">transponders</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">transponders</span>
 
     </div>
 
@@ -552,15 +469,13 @@ stable.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing")</span> <span class="element-name">pass</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing")</span> <span class="element-name">pass</span>
 
     </div>
 
     <div class="block">
 
-    Specifies whether this TollFare is a multi-travel pass, and its
-    characteristics.
+    Specifies whether this TollFare is a multi-travel pass, and its characteristics.
 
     </div>
 
@@ -568,23 +483,15 @@ stable.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List" class="section detail">
 
     ### TollFare
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> currency,
-    double price, @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods)</span>
 
     </div>
 
@@ -597,8 +504,7 @@ stable.
     Parameters:  
     `currency` -
 
-    The currency in which the toll is to be paid in ISO 4217 format,
-    e.g. "USD".
+    The currency in which the toll is to be paid in ISO 4217 format, e.g. "USD".
 
     `price` -
 
@@ -610,22 +516,13 @@ stable.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule" class="section detail">
 
     ### TollFare
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> currency,
-    double price, @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
-    @Nullable
-    [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule)</span>
 
     </div>
 
@@ -638,8 +535,7 @@ stable.
     Parameters:  
     `currency` -
 
-    The currency in which the toll is to be paid in ISO 4217 format,
-    e.g. "USD".
+    The currency in which the toll is to be paid in ISO 4217 format, e.g. "USD".
 
     `price` -
 
@@ -651,35 +547,17 @@ stable.
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing,
-    it means the fare is always valid. For a detailed description of the
-    Time Domain specification and usage in routing services, please
-    refer to the documentation available in the [Time
-    Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule-java-util-List" class="section detail">
 
     ### TollFare
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> currency,
-    double price, @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
-    @Nullable
-    [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
 
     </div>
 
@@ -692,8 +570,7 @@ stable.
     Parameters:  
     `currency` -
 
-    The currency in which the toll is to be paid in ISO 4217 format,
-    e.g. "USD".
+    The currency in which the toll is to be paid in ISO 4217 format, e.g. "USD".
 
     `price` -
 
@@ -705,11 +582,7 @@ stable.
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing,
-    it means the fare is always valid. For a detailed description of the
-    Time Domain specification and usage in routing services, please
-    refer to the documentation available in the [Time
-    Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
 
     `transponders` -
 
@@ -717,29 +590,13 @@ stable.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule-java-util-List-com-here-sdk-routing-TollFarePass"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-double-java-util-List-com-here-sdk-core-TimeRule-java-util-List-com-here-sdk-routing-TollFarePass" class="section detail">
 
     ### TollFare
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> currency,
-    double price, @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods,
-    @Nullable
-    [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> transponders,
-    @Nullable
-    [TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing") pass)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders, @Nullable [TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing") pass)</span>
 
     </div>
 
@@ -752,8 +609,7 @@ stable.
     Parameters:  
     `currency` -
 
-    The currency in which the toll is to be paid in ISO 4217 format,
-    e.g. "USD".
+    The currency in which the toll is to be paid in ISO 4217 format, e.g. "USD".
 
     `price` -
 
@@ -765,11 +621,7 @@ stable.
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing,
-    it means the fare is always valid. For a detailed description of the
-    Time Domain specification and usage in routing services, please
-    refer to the documentation available in the [Time
-    Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
 
     `transponders` -
 
@@ -777,39 +629,26 @@ stable.
 
     `pass` -
 
-    Specifies whether this
-    [`TollFare`](sdk-for-android-explore-com-here-sdk-routing-tollfare "class in com.here.sdk.routing")
-    is a multi-travel pass, and its characteristics.
+    Specifies whether this [`TollFare`](sdk-for-android-explore-com-here-sdk-routing-tollfare "class in com.here.sdk.routing") is a multi-travel pass, and its characteristics.
 
     </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -824,16 +663,11 @@ stable.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

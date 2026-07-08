@@ -3,6 +3,8 @@ title: "MapCameraListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">MapCameraListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">MapCameraListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for objects that want to get updates whenever the map is
-redrawn after camera parameters change.
+Interface for objects that want to get updates whenever the map is redrawn after camera parameters change.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -87,18 +85,15 @@ redrawn after camera parameters change.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onMapCameraUpdated-com-here-sdk-mapview-MapCamera-State"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onMapCameraUpdated-com-here-sdk-mapview-MapCamera-State" class="section detail">
 
     ### onMapCameraUpdated
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onMapCameraUpdated</span><span class="parameters">(@NonNull
-    [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
+    <span class="return-type">void</span> <span class="element-name">onMapCameraUpdated</span><wbr></wbr><span class="parameters">(@NonNull [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
 
     </div>
 
@@ -116,4 +111,6 @@ redrawn after camera parameters change.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

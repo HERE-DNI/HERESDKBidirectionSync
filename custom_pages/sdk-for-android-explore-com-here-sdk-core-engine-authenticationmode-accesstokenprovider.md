@@ -3,6 +3,8 @@ title: "AuthenticationMode.AccessTokenProvider (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-acces
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
@@ -22,33 +23,23 @@ Enclosing class:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">AuthenticationMode.AccessTokenProvider</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">AuthenticationMode.AccessTokenProvider</span>
 
 </div>
 
 <div class="block">
 
-This lambda is used to retrieve access token in synchronous manner. It
-returns the access token or null if it is not set. The lambda is called
-each time the access token is needed and it is executed on the main
-thread of the application.
+This lambda is used to retrieve access token in synchronous manner. It returns the access token or null if it is not set. The lambda is called each time the access token is needed and it is executed on the main thread of the application.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -74,10 +65,7 @@ thread of the application.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -105,8 +93,7 @@ thread of the application.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-apply" class="section detail">
 
@@ -114,19 +101,13 @@ thread of the application.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">apply</span>()
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">apply</span>()
 
     </div>
 
     <div class="block">
 
-    This lambda is used to retrieve access token in synchronous manner.
-    It returns the access token or null if it is not set. The lambda is
-    called each time the access token is needed and it is executed on
-    the main thread of the application.
+    This lambda is used to retrieve access token in synchronous manner. It returns the access token or null if it is not set. The lambda is called each time the access token is needed and it is executed on the main thread of the application.
 
     </div>
 
@@ -136,4 +117,6 @@ thread of the application.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

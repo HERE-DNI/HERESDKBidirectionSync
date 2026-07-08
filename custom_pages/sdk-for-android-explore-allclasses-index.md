@@ -129,8 +129,7 @@ The options explicitly allowed by user for route calculations.
 
 <div class="block">
 
-Represents a point in a rectangle as a ratio of this rectangle's width
-and height.
+Represents a point in a rectangle as a ratio of this rectangle's width and height.
 
 </div>
 
@@ -178,8 +177,7 @@ Represents an angle independent of the unit of measurement.
 
 <div class="block">
 
-Represents angle ranges as a circular sector by using an absolute start
-angle and a relative range angle called extent.
+Represents angle ranges as a circular sector by using an absolute start angle and a relative range angle called extent.
 
 </div>
 
@@ -307,8 +305,7 @@ Attribution link type.
 
 <div class="block">
 
-Use the authentication class to authenticate and retrieve a secure token
-that can be used with other HERE services.
+Use the authentication class to authenticate and retrieve a secure token that can be used with other HERE services.
 
 </div>
 
@@ -388,9 +385,7 @@ Authentication exception
 
 <div class="block">
 
-This is a bearer authentication mode which adds or does not add a header
-("Authorization", "Bearer \$Token") to each online request of the module
-the object is added to.
+This is a bearer authentication mode which adds or does not add a header ("Authorization", "Bearer \$Token") to each online request of the module the object is added to.
 
 </div>
 
@@ -454,8 +449,7 @@ The options to specify rectangular shape which routes must not cross.
 
 <div class="block">
 
-Area of corridor shape which routes must not cross and exceptions for
-this area.
+Area of corridor shape which routes must not cross and exceptions for this area.
 
 </div>
 
@@ -537,8 +531,7 @@ Represents image link to the company's logo.
 
 <div class="block">
 
-Contains place details such as contacts, opening hours and some electro
-vehicle info.
+Contains place details such as contacts, opening hours and some electro vehicle info.
 
 </div>
 
@@ -590,8 +583,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-A function which is called by the RoutingEngine after isoline
-calculation has completed.
+A function which is called by the RoutingEngine after isoline calculation has completed.
 
 </div>
 
@@ -607,8 +599,7 @@ calculation has completed.
 
 <div class="block">
 
-A function which is called by the RoutingEngine after route calculation
-has completed.
+A function which is called by the RoutingEngine after route calculation has completed.
 
 </div>
 
@@ -624,8 +615,7 @@ has completed.
 
 <div class="block">
 
-A function which is called by the RoutingEngine after route traffic
-calculation has completed.
+A function which is called by the RoutingEngine after route traffic calculation has completed.
 
 </div>
 
@@ -693,9 +683,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-Using this class you can configure in the SDKOptions , how the
-SDKNativeEngine should access, use and store the data for the desired
-catalog.
+Using this class you can configure in the SDKOptions , how the SDKNativeEngine should access, use and store the data for the desired catalog.
 
 </div>
 
@@ -743,8 +731,7 @@ Represents default HERE catalog types.
 
 <div class="block">
 
-This is a class for capturing user's intent for the desired catalog
-version to use in DesiredCatalog class.
+This is a class for capturing user's intent for the desired catalog version to use in DesiredCatalog class.
 
 </div>
 
@@ -824,8 +811,7 @@ Parameters related to the electric vehicle's charging action.
 
 <div class="block">
 
-Details of the connector that is suggested to be used in the section's
-PostAction 's for charging.
+Details of the connector that is suggested to be used in the section's PostAction 's for charging.
 
 </div>
 
@@ -937,8 +923,7 @@ Represents contact information.
 
 <div class="block">
 
-This enum represents country codes in accordance with the ISO 3166-1
-standard using alpha-3 codes.
+This enum represents country codes in accordance with the ISO 3166-1 standard using alpha-3 codes.
 
 </div>
 
@@ -1130,8 +1115,7 @@ Represents the day of the week.
 
 <div class="block">
 
-This class provides an interface to the user, to identify a catalog on
-the HERE platform, whose data he wants to access.
+This class provides an interface to the user, to identify a catalog on the HERE platform, whose data he wants to access.
 
 </div>
 
@@ -1147,8 +1131,7 @@ the HERE platform, whose data he wants to access.
 
 <div class="block">
 
-Contains details of a specific place, such as contact information,
-opening hours and assigned categories.
+Contains details of a specific place, such as contact information, opening hours and assigned categories.
 
 </div>
 
@@ -1164,9 +1147,7 @@ opening hours and assigned categories.
 
 <div class="block">
 
-This method will be called on the main thread when
-SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)
-has been completed.
+This method will be called on the main thread when SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback) has been completed.
 
 </div>
 
@@ -1246,8 +1227,7 @@ Provides estimated speed information.
 
 <div class="block">
 
-Animation easing representing an easing function to be used during
-animations.
+Animation easing representing an easing function to be used during animations.
 
 </div>
 
@@ -1343,8 +1323,7 @@ Represents data related to specific email address.
 
 <div class="block">
 
-eMSP (e-Mobility Service Provider) for which the EV station operator has
-EV roaming agreements.
+eMSP (e-Mobility Service Provider) for which the EV station operator has EV roaming agreements.
 
 </div>
 
@@ -1360,8 +1339,7 @@ EV roaming agreements.
 
 <div class="block">
 
-This model defines a data-driven energy consumption model for electric
-vehicles.
+This model defines a data-driven energy consumption model for electric vehicles.
 
 </div>
 
@@ -1425,8 +1403,7 @@ Represents energy source type.
 
 <div class="block">
 
-Lists the available HERE SDK endpoints that can be customized with a
-custom backend base URL.
+Lists the available HERE SDK endpoints that can be customized with a custom backend base URL.
 
 </div>
 
@@ -1474,8 +1451,7 @@ Represents environmental impact for an environmental impact category.
 
 <div class="block">
 
-Represents environmental impacts category of the environmental impact
-for energy mix.
+Represents environmental impacts category of the environmental impact for energy mix.
 
 </div>
 
@@ -1557,8 +1533,7 @@ Represents a connector at the charging point.
 
 <div class="block">
 
-Represents the format of the connector, whether it is a socket or a
-cable.
+Represents the format of the connector, whether it is a socket or a cable.
 
 </div>
 
@@ -1590,8 +1565,7 @@ Represents the connector group at the charging location.
 
 <div class="block">
 
-Represents a pairing of an EVSE and its connector(s) that belong to a
-group.
+Represents a pairing of an EVSE and its connector(s) that belong to a group.
 
 </div>
 
@@ -1623,8 +1597,7 @@ Represents the standardized type of the installed connector.
 
 <div class="block">
 
-Duration of the charging session when the tariff element is valid, in
-seconds.
+Duration of the charging session when the tariff element is valid, in seconds.
 
 </div>
 
@@ -1672,8 +1645,7 @@ Optional features that can be requested for EV charging locations.
 
 <div class="block">
 
-Represents the times when the EVSEs at the charging location can be
-accessed for charging.
+Represents the times when the EVSEs at the charging location can be accessed for charging.
 
 </div>
 
@@ -1689,8 +1661,7 @@ accessed for charging.
 
 <div class="block">
 
-Represents exceptions to the regular opening hours schedule for EV
-charging locations, such as special closures or extended hours.
+Represents exceptions to the regular opening hours schedule for EV charging locations, such as special closures or extended hours.
 
 </div>
 
@@ -1706,9 +1677,7 @@ charging locations, such as special closures or extended hours.
 
 <div class="block">
 
-Opening hours schedule for EV charging locations, represented by a list
-of days of the week during which the location is open in the given time
-periods.
+Opening hours schedule for EV charging locations, represented by a list of days of the week during which the location is open in the given time periods.
 
 </div>
 
@@ -1724,8 +1693,7 @@ periods.
 
 <div class="block">
 
-Represents name and optionally other details about operator,
-suboperator, or e-Mobility service provider.
+Represents name and optionally other details about operator, suboperator, or e-Mobility service provider.
 
 </div>
 
@@ -1741,8 +1709,7 @@ suboperator, or e-Mobility service provider.
 
 <div class="block">
 
-A charging pool for electric vehicles is an area equipped with one or
-more charging stations.
+A charging pool for electric vehicles is an area equipped with one or more charging stations.
 
 </div>
 
@@ -1774,8 +1741,7 @@ Electric vehicle charging pool details.
 
 <div class="block">
 
-Group of connectors for electric vehicles (EVs), defined by a common
-charging connector type and maximum power level.
+Group of connectors for electric vehicles (EVs), defined by a common charging connector type and maximum power level.
 
 </div>
 
@@ -1791,8 +1757,7 @@ charging connector type and maximum power level.
 
 <div class="block">
 
-Tariffs provide detailed pricing information for charging electric
-vehicles at a specific location.
+Tariffs provide detailed pricing information for charging electric vehicles at a specific location.
 
 </div>
 
@@ -1808,11 +1773,7 @@ vehicles at a specific location.
 
 <div class="block">
 
-Represents the dimension the price component, which determines what is
-being charged and how: time: Price per unit of time spent charging.
-energy: Price per unit of energy consumed during charging. flat:
-One-time fee charged per session. parking time: Price per unit of time
-not charging but parked at the charger.
+Represents the dimension the price component, which determines what is being charged and how: time: Price per unit of time spent charging. energy: Price per unit of energy consumed during charging. flat: One-time fee charged per session. parking time: Price per unit of time not charging but parked at the charger.
 
 </div>
 
@@ -1844,8 +1805,7 @@ Represents a tariff element, which defines how pricing is applied.
 
 <div class="block">
 
-Condition that the charging session needs to meet to apply the tariff
-element.
+Condition that the charging session needs to meet to apply the tariff element.
 
 </div>
 
@@ -1877,8 +1837,7 @@ Represents the price component of an EV charging tariff.
 
 <div class="block">
 
-Represents a search option to choose the eMSP or CPO whose tariff should
-be included in the response.
+Represents a search option to choose the eMSP or CPO whose tariff should be included in the response.
 
 </div>
 
@@ -1942,8 +1901,7 @@ Represents the category of the vehicle supported at the charging point.
 
 <div class="block">
 
-Parameters specific for the electric vehicle, which are then used to
-calculate energy consumption on a given route.
+Parameters specific for the electric vehicle, which are then used to calculate energy consumption on a given route.
 
 </div>
 
@@ -1975,9 +1933,7 @@ Defines preference level per known E-Mobility Service Provider.
 
 <div class="block">
 
-Charge Point Operator (CPO) ID uses the Electric Vehicle Supply
-Equipment ID (EVSE ID) for an exact identification of the charging
-infrastructure and charging point.
+Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EVSE ID) for an exact identification of the charging infrastructure and charging point.
 
 </div>
 
@@ -1993,8 +1949,7 @@ infrastructure and charging point.
 
 <div class="block">
 
-The method that will be called on the main thread when a search
-operation in EVSearchEngine has been completed.
+The method that will be called on the main thread when a search operation in EVSearchEngine has been completed.
 
 </div>
 
@@ -2010,8 +1965,7 @@ operation in EVSearchEngine has been completed.
 
 <div class="block">
 
-The EVSearchEngine API provides detailed information about charging
-locations.
+The EVSearchEngine API provides detailed information about charging locations.
 
 </div>
 
@@ -2059,8 +2013,7 @@ Provides the interface for the EVSearchEngine .
 
 <div class="block">
 
-Encapsulates additional options that control the behavior of
-EVSearchEngine .
+Encapsulates additional options that control the behavior of EVSearchEngine .
 
 </div>
 
@@ -2124,8 +2077,7 @@ Represents an EVSE at the charging point.
 
 <div class="block">
 
-Represents the payment support functionality on EVSE for ad-hoc
-customers (without pre-registration).
+Represents the payment support functionality on EVSE for ad-hoc customers (without pre-registration).
 
 </div>
 
@@ -2141,8 +2093,7 @@ customers (without pre-registration).
 
 <div class="block">
 
-Indicates the current short-term status of the EVSE at the time given in
-the modified property.
+Indicates the current short-term status of the EVSE at the time given in the modified property.
 
 </div>
 
@@ -2496,8 +2447,7 @@ Represents geographical coordinates in 3D space.
 
 <div class="block">
 
-A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation
-duration.
+A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.
 
 </div>
 
@@ -2529,8 +2479,7 @@ Represents geographical coordinates in 3D space.
 
 <div class="block">
 
-A geographical area that wraps around a geographical polyline with a
-given distance.
+A geographical area that wraps around a geographical polyline with a given distance.
 
 </div>
 
@@ -2562,8 +2511,7 @@ Geodetic orientation with bearing, tilt and roll.
 
 <div class="block">
 
-A GeoOrientationKeyframe consists of a GeoOrientation (camera
-orientation) and an animation duration.
+A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and an animation duration.
 
 </div>
 
@@ -2595,8 +2543,7 @@ Describes geodetic orientation update with bearing and tilt.
 
 <div class="block">
 
-GeoPlace struct represents a location object: such as a country, a city,
-a point of interest (POI) etc.
+GeoPlace struct represents a location object: such as a country, a city, a point of interest (POI) etc.
 
 </div>
 
@@ -2612,8 +2559,7 @@ a point of interest (POI) etc.
 
 <div class="block">
 
-Represents a GeoPolygon area as a series of geographic coordinates, and
-optionally, a list of inner boundaries (also known as holes).
+Represents a GeoPolygon area as a series of geographic coordinates, and optionally, a list of inner boundaries (also known as holes).
 
 </div>
 
@@ -2629,8 +2575,7 @@ optionally, a list of inner boundaries (also known as holes).
 
 <div class="block">
 
-A list of geographic coordinates representing the vertices of a
-polyline.
+A list of geographic coordinates representing the vertices of a polyline.
 
 </div>
 
@@ -2646,8 +2591,7 @@ polyline.
 
 <div class="block">
 
-Defines if a function on a GeoPolyline computes the operation starting
-from the beginning or from the end of GeoPolyline.vertices .
+Defines if a function on a GeoPolyline computes the operation starting from the beginning or from the end of GeoPolyline.vertices .
 
 </div>
 
@@ -2663,8 +2607,7 @@ from the beginning or from the end of GeoPolyline.vertices .
 
 <div class="block">
 
-Use this class to process touch events from the platform and detect
-gesture induced actions on the map view.
+Use this class to process touch events from the platform and detect gesture induced actions on the map view.
 
 </div>
 
@@ -2712,8 +2655,7 @@ Enum that represents the type of a gesture.
 
 <div class="block">
 
-Identifiers for different types of hazardous materials which can be
-shipped by the truck.
+Identifiers for different types of hazardous materials which can be shipped by the truck.
 
 </div>
 
@@ -2745,8 +2687,7 @@ The representation of a dynamic and interactive geographic map.
 
 <div class="block">
 
-Specifies members of Suggestion class to which input query can be
-matched.
+Specifies members of Suggestion class to which input query can be matched.
 
 </div>
 
@@ -2762,8 +2703,7 @@ matched.
 
 <div class="block">
 
-This provider creates icons from a given set of parameters for map
-content and constraints for icon dimensions for a particular map scheme.
+This provider creates icons from a given set of parameters for map content and constraints for icon dimensions for a particular map scheme.
 
 </div>
 
@@ -2779,8 +2719,7 @@ content and constraints for icon dimensions for a particular map scheme.
 
 <div class="block">
 
-Interface which is used as callback to pass back an image or error code
-after calling the createRoadShieldIcon() method.
+Interface which is used as callback to pass back an image or error code after calling the createRoadShieldIcon() method.
 
 </div>
 
@@ -3100,8 +3039,7 @@ Specifies isoline parameters.
 
 <div class="block">
 
-Specifies the type of one or more range values to be included in the
-isoline.
+Specifies the type of one or more range values to be included in the isoline.
 
 </div>
 
@@ -3117,8 +3055,7 @@ isoline.
 
 <div class="block">
 
-Use the IsolineRoutingEngine to calculate a reachable area from a center
-point.
+Use the IsolineRoutingEngine to calculate a reachable area from a center point.
 
 </div>
 
@@ -3262,8 +3199,7 @@ This enum represents language codes.
 
 <div class="block">
 
-A class to configure which layers should be enabled or disabled in the
-OCM map data.
+A class to configure which layers should be enabled or disabled in the OCM map data.
 
 </div>
 
@@ -3279,8 +3215,7 @@ OCM map data.
 
 <div class="block">
 
-Defines a list of possible map data features that can be enabled /
-disabled.
+Defines a list of possible map data features that can be enabled / disabled.
 
 </div>
 
@@ -3328,8 +3263,7 @@ Represents a geodetic line with custom attributes.
 
 <div class="block">
 
-Line data accessor used for manipulating polylines that are part of a
-LineDataSource.
+Line data accessor used for manipulating polylines that are part of a LineDataSource.
 
 </div>
 
@@ -3361,8 +3295,7 @@ Builder of LineData instances.
 
 <div class="block">
 
-Polyline data source allows the rendering engine access to the user
-provided polylines geometry and their attributes.
+Polyline data source allows the rendering engine access to the user provided polylines geometry and their attributes.
 
 </div>
 
@@ -3378,8 +3311,7 @@ provided polylines geometry and their attributes.
 
 <div class="block">
 
-Called for each line, allowing inspection, removal or update of
-coordinates and attributes.
+Called for each line, allowing inspection, removal or update of coordinates and attributes.
 
 </div>
 
@@ -3411,9 +3343,7 @@ Builder of lines data source.
 
 <div class="block">
 
-Line tile data source allows the rendering engine access to user managed
-data sets of geodetic lines and their attributes through a
-LineTileSource .
+Line tile data source allows the rendering engine access to user managed data sets of geodetic lines and their attributes through a LineTileSource .
 
 </div>
 
@@ -3461,8 +3391,7 @@ Result handler of a load tile request.
 
 <div class="block">
 
-Used to represent road number localized to specific language with
-optional direction and route type information.
+Used to represent road number localized to specific language with optional direction and route type information.
 
 </div>
 
@@ -3478,8 +3407,7 @@ optional direction and route type information.
 
 <div class="block">
 
-The list of multiple names or titles for the same entity, possibly in
-different languages.
+The list of multiple names or titles for the same entity, possibly in different languages.
 
 </div>
 
@@ -3527,8 +3455,7 @@ Indicates the option of localized text usage.
 
 <div class="block">
 
-The list of multiple names or titles for the same entity, possibly in
-different languages.
+The list of multiple names or titles for the same entity, possibly in different languages.
 
 </div>
 
@@ -3592,8 +3519,7 @@ Graphical object to represent the location of the user on the map.
 
 <div class="block">
 
-The predefined styles for the location indicator which are pedestrian
-and navigation mode.
+The predefined styles for the location indicator which are pedestrian and navigation mode.
 
 </div>
 
@@ -3625,8 +3551,7 @@ Enum to identify different types of markers of the location indicator.
 
 <div class="block">
 
-This interface should be implemented in order to receive notifications
-about location updates.
+This interface should be implemented in order to receive notifications about location updates.
 
 </div>
 
@@ -3674,8 +3599,7 @@ Technology or provider of the location.
 
 <div class="block">
 
-This struct presents all the time data tied to a location, like an
-arrival or departure time.
+This struct presents all the time data tied to a location, like an arrival or departure time.
 
 </div>
 
@@ -3691,9 +3615,7 @@ arrival or departure time.
 
 <div class="block">
 
-LockingProcess helps to detect situations when cache is locked with
-another process and attempt to create instance of SDKNativeEngine fails
-with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
+LockingProcess helps to detect situations when cache is locked with another process and attempt to create instance of SDKNativeEngine fails with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
 </div>
 
@@ -3725,8 +3647,7 @@ An interface to implement a listener to receive log messages.
 
 <div class="block">
 
-This class provides functionality to enable/disable console logs as well
-as setting a custom log appender to receive log messages from the SDK.
+This class provides functionality to enable/disable console logs as well as setting a custom log appender to receive log messages from the SDK.
 
 </div>
 
@@ -3918,8 +3839,7 @@ An animation that can be applied to a MapCamera .
 
 <div class="block">
 
-Describes a reason for failing to create a multi-track
-MapCameraAnimation .
+Describes a reason for failing to create a multi-track MapCameraAnimation .
 
 </div>
 
@@ -3935,8 +3855,7 @@ MapCameraAnimation .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create a multi-track
-MapCameraAnimation .
+Thrown when a problem occurs while trying to create a multi-track MapCameraAnimation .
 
 </div>
 
@@ -3952,8 +3871,7 @@ MapCameraAnimation .
 
 <div class="block">
 
-Factory for creating MapCameraAnimation objects to change map's camera
-over time.
+Factory for creating MapCameraAnimation objects to change map's camera over time.
 
 </div>
 
@@ -3969,8 +3887,7 @@ over time.
 
 <div class="block">
 
-Stores keyframes for interpolation of a camera property using a specific
-easing function and interpolation mode.
+Stores keyframes for interpolation of a camera property using a specific easing function and interpolation mode.
 
 </div>
 
@@ -4002,8 +3919,7 @@ Describes a reason for failing to create a MapCameraKeyframeTrack.
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create
-MapCameraKeyframeTrack .
+Thrown when a problem occurs while trying to create MapCameraKeyframeTrack .
 
 </div>
 
@@ -4035,8 +3951,7 @@ Controls constraints on map camera parameters.
 
 <div class="block">
 
-Interface for objects that want to get updates whenever the map is
-redrawn after camera parameters change.
+Interface for objects that want to get updates whenever the map is redrawn after camera parameters change.
 
 </div>
 
@@ -4132,8 +4047,7 @@ Type representing map content categories.
 
 <div class="block">
 
-Provides settings regarding map data which are applied globally to all
-map views.
+Provides settings regarding map data which are applied globally to all map views.
 
 </div>
 
@@ -4197,8 +4111,7 @@ Content types supported by the map.
 
 <div class="block">
 
-MapContext is the rendering engine and the context in which virtual
-geographic maps get rendered.
+MapContext is the rendering engine and the context in which virtual geographic maps get rendered.
 
 </div>
 
@@ -4294,8 +4207,7 @@ The memory management strategy.
 
 <div class="block">
 
-Types of system resources used by MapContext or any of the entities
-attached to it, like HereMap .
+Types of system resources used by MapContext or any of the entities attached to it, like HereMap .
 
 </div>
 
@@ -4343,9 +4255,7 @@ Represents various errors that could occur from map related operations.
 
 <div class="block">
 
-Holds constants for map feature modes, to be used with
-MapScene.enableFeatures(java.util.Map\<java.lang.String,
-java.lang.String\>) .
+Holds constants for map feature modes, to be used with MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) .
 
 </div>
 
@@ -4361,10 +4271,7 @@ java.lang.String\>) .
 
 <div class="block">
 
-Holds constants for map features, to be used with
-MapScene.enableFeatures(java.util.Map\<java.lang.String,
-java.lang.String\>) and
-MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
+Holds constants for map features, to be used with MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) and MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
 
 </div>
 
@@ -4396,8 +4303,7 @@ Used to detect when the map becomes idle or busy.
 
 <div class="block">
 
-Represents a drawable resource that can be used by a MapMarker ,
-MapMarker3D or MapImageOverlay to be shown on the map.
+Represents a drawable resource that can be used by a MapMarker , MapMarker3D or MapImageOverlay to be shown on the map.
 
 </div>
 
@@ -4413,8 +4319,7 @@ MapMarker3D or MapImageOverlay to be shown on the map.
 
 <div class="block">
 
-Convenience factory class for loading marker resources from various
-sources.
+Convenience factory class for loading marker resources from various sources.
 
 </div>
 
@@ -4430,8 +4335,7 @@ sources.
 
 <div class="block">
 
-MapImageOverlay is used to draw images over the map, at a view
-coordinate inside the map viewport.
+MapImageOverlay is used to draw images over the map, at a view coordinate inside the map viewport.
 
 </div>
 
@@ -4447,8 +4351,7 @@ coordinate inside the map viewport.
 
 <div class="block">
 
-Stores keyframes for interpolation of a map item property using a
-specific easing function and interpolation mode.
+Stores keyframes for interpolation of a map item property using a specific easing function and interpolation mode.
 
 </div>
 
@@ -4480,8 +4383,7 @@ Describes a reason for failing to create a MapItemKeyFrameTrack .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create MapItemKeyFrameTrack
-.
+Thrown when a problem occurs while trying to create MapItemKeyFrameTrack .
 
 </div>
 
@@ -4529,9 +4431,7 @@ Interface for managing a map layer.
 
 <div class="block">
 
-MapLayerBuilder is used to add layers to a map to visualise a dataset in
-a programmatic way without defining it upfront in the configuration
-files.
+MapLayerBuilder is used to add layers to a map to visualise a dataset in a programmatic way without defining it upfront in the configuration files.
 
 </div>
 
@@ -4595,8 +4495,7 @@ Thrown when failing to build a MapLayer .
 
 <div class="block">
 
-Provides a mapping between a MapLayer map measure to datasource storage
-level.
+Provides a mapping between a MapLayer map measure to datasource storage level.
 
 </div>
 
@@ -4628,9 +4527,7 @@ MapLayerPriority class.
 
 <div class="block">
 
-MapLayerPriorityBuilder is an interface used to define the rendering
-priority of a layer and its categories, relative to other layers or
-layer-category pairs.
+MapLayerPriorityBuilder is an interface used to define the rendering priority of a layer and its categories, relative to other layers or layer-category pairs.
 
 </div>
 
@@ -4662,8 +4559,7 @@ A layer's visibility along a zoom level range.
 
 <div class="block">
 
-MapMarker is used to draw images on the map, for example to mark a
-specific location.
+MapMarker is used to draw images on the map, for example to mark a specific location.
 
 </div>
 
@@ -4711,8 +4607,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create a
-MapMarker.TextStyle instance.
+Thrown when a problem occurs while trying to create a MapMarker.TextStyle instance.
 
 </div>
 
@@ -4744,8 +4639,7 @@ Represents text placement with respect to the icon of a MapMarker .
 
 <div class="block">
 
-Represents a 3D shape drawn on the map at specified geodetic
-coordinates.
+Represents a 3D shape drawn on the map at specified geodetic coordinates.
 
 </div>
 
@@ -4761,8 +4655,7 @@ coordinates.
 
 <div class="block">
 
-Represents a 3D model that can be used by a MapMarker3D to be shown on
-the map.
+Represents a 3D model that can be used by a MapMarker3D to be shown on the map.
 
 </div>
 
@@ -4842,8 +4735,7 @@ Describes a reason for failing to create a MapMarkerAnimation .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create a MapMarkerAnimation
-.
+Thrown when a problem occurs while trying to create a MapMarkerAnimation .
 
 </div>
 
@@ -4859,8 +4751,7 @@ Thrown when a problem occurs while trying to create a MapMarkerAnimation
 
 <div class="block">
 
-Groups map markers and enables their clustering to reduce visual clutter
-when there are many of them in a small area.
+Groups map markers and enables their clustering to reduce visual clutter when there are many of them in a small area.
 
 </div>
 
@@ -4876,8 +4767,7 @@ when there are many of them in a small area.
 
 <div class="block">
 
-Styling options for a marker cluster which is represented by the marker
-count as a text.
+Styling options for a marker cluster which is represented by the marker count as a text.
 
 </div>
 
@@ -4925,8 +4815,7 @@ This class specifies the visual appearance of a cluster marker.
 
 <div class="block">
 
-Information about the user defined coordinates and where they match to
-the map.
+Information about the user defined coordinates and where they match to the map.
 
 </div>
 
@@ -4990,8 +4879,7 @@ Represents a render size, described as map measure dependent values.
 
 <div class="block">
 
-Describes a reason for failing to create a MapMeasureDependentRenderSize
-.
+Describes a reason for failing to create a MapMeasureDependentRenderSize .
 
 </div>
 
@@ -5007,8 +4895,7 @@ Describes a reason for failing to create a MapMeasureDependentRenderSize
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create
-MapMeasureDependentRenderSize .
+Thrown when a problem occurs while trying to create MapMeasureDependentRenderSize .
 
 </div>
 
@@ -5104,8 +4991,7 @@ A visual representation of a line on the map.
 
 <div class="block">
 
-Represents a dash pattern for the map polyline consisting of images
-rendered with certain gaps from each other.
+Represents a dash pattern for the map polyline consisting of images rendered with certain gaps from each other.
 
 </div>
 
@@ -5121,8 +5007,7 @@ rendered with certain gaps from each other.
 
 <div class="block">
 
-Represents a dash pattern for map polyline where the dash can be
-rendered as a colored line and the gap can be either empty or colored.
+Represents a dash pattern for map polyline where the dash can be rendered as a colored line and the gap can be either empty or colored.
 
 </div>
 
@@ -5170,8 +5055,7 @@ Describes a reason for failing to create a MapPolyline.Representation .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create
-MapPolyline.Representation .
+Thrown when a problem occurs while trying to create MapPolyline.Representation .
 
 </div>
 
@@ -5187,8 +5071,7 @@ MapPolyline.Representation .
 
 <div class="block">
 
-Representation allows map polyline to be colored in multiple specified
-color segments.
+Representation allows map polyline to be colored in multiple specified color segments.
 
 </div>
 
@@ -5252,8 +5135,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
 <div class="block">
 
-Thrown when a problem occurs while trying to create a
-MapPolylineAnimation .
+Thrown when a problem occurs while trying to create a MapPolylineAnimation .
 
 </div>
 
@@ -5301,8 +5183,7 @@ Mode of rendering the map by a MapView .
 
 <div class="block">
 
-Represents a map scene and exposes the functionality to manipulate its
-content.
+Represents a map scene and exposes the functionality to manipulate its content.
 
 </div>
 
@@ -5318,8 +5199,7 @@ content.
 
 <div class="block">
 
-Called on the main thread after loadScene() method finishes loading the
-scene.
+Called on the main thread after loadScene() method finishes loading the scene.
 
 </div>
 
@@ -5383,8 +5263,7 @@ Manage the lights and their attributes in a scene.
 
 <div class="block">
 
-This callback function allows handling errors that occur during the
-setting of light attributes.
+This callback function allows handling errors that occur during the setting of light attributes.
 
 </div>
 
@@ -5416,8 +5295,7 @@ Error enum indicating reasons for failure when setting light attributes.
 
 <div class="block">
 
-The scene uses three categories of lighting which are: Main light, Back
-light and Rim light.
+The scene uses three categories of lighting which are: Main light, Back light and Rim light.
 
 </div>
 
@@ -5593,9 +5471,7 @@ A view that can display a map.
 
 <div class="block">
 
-Listener that gets notified when MapView is fully initialized and ready
-to handle all operations, which means that map scene is loaded and
-drawing surface is ready to render a map.
+Listener that gets notified when MapView is fully initialized and ready to handle all operations, which means that map scene is loaded and drawing surface is ready to render a map.
 
 </div>
 
@@ -5627,8 +5503,7 @@ Callback to be called on retrieval of screenshot.
 
 <div class="block">
 
-A ViewPin is used to display Android views at a fixed location on the
-map.
+A ViewPin is used to display Android views at a fixed location on the map.
 
 </div>
 
@@ -5676,9 +5551,7 @@ Callback for a pick request.
 
 <div class="block">
 
-Provides a mechanism for observing a lifecycle of a map view and/or
-implementing components whose lifecycle needs to be linked with that of
-a map view.
+Provides a mechanism for observing a lifecycle of a map view and/or implementing components whose lifecycle needs to be linked with that of a map view.
 
 </div>
 
@@ -5710,8 +5583,7 @@ Options used for initialization of map view
 
 <div class="block">
 
-Specifies how the location set by Waypoint.sideOfStreetHint should be
-handled.
+Specifies how the location set by Waypoint.sideOfStreetHint should be handled.
 
 </div>
 
@@ -5727,8 +5599,7 @@ handled.
 
 <div class="block">
 
-Material reflectivity properties are used to enable per‑pixel lighting
-for supported map objects (e.g.
+Material reflectivity properties are used to enable per‑pixel lighting for supported map objects (e.g.
 
 </div>
 
@@ -5744,8 +5615,7 @@ for supported map objects (e.g.
 
 <div class="block">
 
-MaxAxleGroupWeight contains all the restriction details violated by an
-axle group weight.
+MaxAxleGroupWeight contains all the restriction details violated by an axle group weight.
 
 </div>
 
@@ -5825,8 +5695,7 @@ Holds metadata on behalf of a map item.
 
 <div class="block">
 
-Different types of objects that can be stored in a Metadata class
-instance.
+Different types of objects that can be stored in a Metadata class instance.
 
 </div>
 
@@ -5874,8 +5743,7 @@ Structure to represent name-id pairs.
 
 <div class="block">
 
-Internal base class for public non-POD objects to manage the lifecycle
-of underlying C++ objects.
+Internal base class for public non-POD objects to manage the lifecycle of underlying C++ objects.
 
 </div>
 
@@ -5907,8 +5775,7 @@ Network endpoint.
 
 <div class="block">
 
-Network configuration to be used by SDKNativeEngine during the
-initialization.
+Network configuration to be used by SDKNativeEngine during the initialization.
 
 </div>
 
@@ -5924,8 +5791,7 @@ initialization.
 
 <div class="block">
 
-Describes the impact a notice has on the resource to which the notice is
-attached.
+Describes the impact a notice has on the resource to which the notice is attached.
 
 </div>
 
@@ -5941,8 +5807,7 @@ attached.
 
 <div class="block">
 
-The method will be called on the main thread when a task call has been
-completed.
+The method will be called on the main thread when a task call has been completed.
 
 </div>
 
@@ -5974,9 +5839,7 @@ Represents opening hours information.
 
 <div class="block">
 
-Identifiers for different optimizations that can be used during the
-route calculation while trying to keep the quality of the route being
-calculated high.
+Identifiers for different optimizations that can be used during the route calculation while trying to keep the quality of the route being calculated high.
 
 </div>
 
@@ -6040,9 +5903,7 @@ Represents parking type available at the location.
 
 <div class="block">
 
-Represents features that are allowed to consume online data when the
-HERE SDK's offline mode is activated via SDKNativeEngine.isOfflineMode()
-and/or SDKOptions.offlineMode .
+Represents features that are allowed to consume online data when the HERE SDK's offline mode is activated via SDKNativeEngine.isOfflineMode() and/or SDKOptions.offlineMode .
 
 </div>
 
@@ -6142,9 +6003,7 @@ Pedestrian specific settings.
 
 <div class="block">
 
-Defines the physical consumption model for electric vehicles, using
-vehicle-specific parameters to calculate energy consumption along a
-route.
+Defines the physical consumption model for electric vehicles, using vehicle-specific parameters to calculate energy consumption along a route.
 
 </div>
 
@@ -6176,8 +6035,7 @@ Carries the result of picking a Carto POI (point of interest) object.
 
 <div class="block">
 
-A class that contains possible results from picking map content on the
-map scene.
+A class that contains possible results from picking map content on the map scene.
 
 </div>
 
@@ -6241,8 +6099,7 @@ Interface for handling pinch rotate gestures.
 
 <div class="block">
 
-Represents a location object, such as a country, a city, a point of
-interest (POI) etc.
+Represents a location object, such as a country, a city, a point of interest (POI) etc.
 
 </div>
 
@@ -6354,8 +6211,7 @@ The options to specify a Place id query.
 
 <div class="block">
 
-The method will be called on the main thread when a search by id call
-has been completed.
+The method will be called on the main thread when a search by id call has been completed.
 
 </div>
 
@@ -6371,8 +6227,7 @@ has been completed.
 
 <div class="block">
 
-The method will be called on the main thread when a search by id call
-has been completed.
+The method will be called on the main thread when a search by id call has been completed.
 
 </div>
 
@@ -6388,8 +6243,7 @@ has been completed.
 
 <div class="block">
 
-Represents and error, which occurs during place serialization and
-deserialization routines.
+Represents and error, which occurs during place serialization and deserialization routines.
 
 </div>
 
@@ -6517,8 +6371,7 @@ Represents a geodetic point with custom attributes.
 
 <div class="block">
 
-Point data accessor used for manipulating points that are part of a
-PointDataSource.
+Point data accessor used for manipulating points that are part of a PointDataSource.
 
 </div>
 
@@ -6550,8 +6403,7 @@ Builder of PointData instances.
 
 <div class="block">
 
-Point data source allows the rendering engine access to the user
-provided geographical locations and their attributes.
+Point data source allows the rendering engine access to the user provided geographical locations and their attributes.
 
 </div>
 
@@ -6567,8 +6419,7 @@ provided geographical locations and their attributes.
 
 <div class="block">
 
-Called for each point, allowing inspection, removal or update of
-coordinates and attributes.
+Called for each point, allowing inspection, removal or update of coordinates and attributes.
 
 </div>
 
@@ -6600,9 +6451,7 @@ Builder of points data source.
 
 <div class="block">
 
-Point tile data source allows the rendering engine access to user
-managed data sets of geographical locations and their attributes through
-a PointTileSource .
+Point tile data source allows the rendering engine access to user managed data sets of geographical locations and their attributes through a PointTileSource .
 
 </div>
 
@@ -6698,8 +6547,7 @@ Represents a geodetic polygon with custom attributes.
 
 <div class="block">
 
-Polygon data accessor used for manipulating polygons that are part of a
-PolygonDataSource.
+Polygon data accessor used for manipulating polygons that are part of a PolygonDataSource.
 
 </div>
 
@@ -6731,8 +6579,7 @@ Builder of PolygonData instances.
 
 <div class="block">
 
-Polygon data source allows the rendering engine access to the user
-provided polygons geometry and their attributes.
+Polygon data source allows the rendering engine access to the user provided polygons geometry and their attributes.
 
 </div>
 
@@ -6748,8 +6595,7 @@ provided polygons geometry and their attributes.
 
 <div class="block">
 
-Called for each polygon, allowing inspection, removal or update of
-coordinates and attributes.
+Called for each polygon, allowing inspection, removal or update of coordinates and attributes.
 
 </div>
 
@@ -6781,9 +6627,7 @@ Builder of the polygons data source.
 
 <div class="block">
 
-Polygon tile data source allows the rendering engine access to user
-managed data sets of geodetic polygons and their attributes through a
-PolygonTileSource .
+Polygon tile data source allows the rendering engine access to user managed data sets of geodetic polygons and their attributes through a PolygonTileSource .
 
 </div>
 
@@ -6831,10 +6675,7 @@ Result handler of a load tile request.
 
 <div class="block">
 
-The method will be called on the main thread when
-PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-com.here.sdk.core.PolylineSimplifier.Options,
-com.here.sdk.core.PolylineSimplificationCallback) is finished.
+The method will be called on the main thread when PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
 </div>
 
@@ -6850,10 +6691,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
 <div class="block">
 
-Error code which specifies, what went wrong during
-PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-com.here.sdk.core.PolylineSimplifier.Options,
-com.here.sdk.core.PolylineSimplificationCallback) operation.
+Error code which specifies, what went wrong during PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) operation.
 
 </div>
 
@@ -6869,9 +6707,7 @@ com.here.sdk.core.PolylineSimplificationCallback) operation.
 
 <div class="block">
 
-PolylineSimplifier helps to reduce the number of points in the polyline
-by removing redundant elements using Douglas–Peucker algorithm, so that
-result stays within PolylineSimplifier.Options .
+PolylineSimplifier helps to reduce the number of points in the polyline by removing redundant elements using Douglas–Peucker algorithm, so that result stays within PolylineSimplifier.Options .
 
 </div>
 
@@ -6887,11 +6723,7 @@ result stays within PolylineSimplifier.Options .
 
 <div class="block">
 
-Controls the strategy of
-PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-com.here.sdk.core.PolylineSimplifier.Options,
-com.here.sdk.core.PolylineSimplificationCallback) when reducing a size
-of polyline.
+Controls the strategy of PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) when reducing a size of polyline.
 
 </div>
 
@@ -7005,8 +6837,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-Proxy configuration for the HERE SDK network that is applied per
-request.
+Proxy configuration for the HERE SDK network that is applied per request.
 
 </div>
 
@@ -7086,8 +6917,7 @@ Data source to load map layers using a raster image format (jpg, png).
 
 <div class="block">
 
-Called on the main thread after fromJsonFile() method finishes loading
-the configuration.
+Called on the main thread after fromJsonFile() method finishes loading the configuration.
 
 </div>
 
@@ -7249,8 +7079,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-This class provides the necessary information for refreshing a route
-from a specific location on it.
+This class provides the necessary information for refreshing a route from a specific location on it.
 
 </div>
 
@@ -7474,8 +7303,7 @@ The location information.
 
 <div class="block">
 
-Specifies the direction to make distinction between departure and
-arrival cases.
+Specifies the direction to make distinction between departure and arrival cases.
 
 </div>
 
@@ -7587,8 +7415,7 @@ Indicates the level of significance of a route in a range from 1 to 6.
 
 <div class="block">
 
-Defines the settings for the retry logic when connecting to the HERE
-routing backend.
+Defines the settings for the retry logic when connecting to the HERE routing backend.
 
 </div>
 
@@ -7604,8 +7431,7 @@ routing backend.
 
 <div class="block">
 
-Use the RoutingEngine to calculate a route from A to B with a number of
-waypoints in between.
+Use the RoutingEngine to calculate a route from A to B with a number of waypoints in between.
 
 </div>
 
@@ -7621,8 +7447,7 @@ waypoints in between.
 
 <div class="block">
 
-Specifies possible errors that may result from the calculation of a
-route.
+Specifies possible errors that may result from the calculation of a route.
 
 </div>
 
@@ -7670,8 +7495,7 @@ The options defines how a route should be calculated.
 
 <div class="block">
 
-Interface that should be implemented by any class whose instances are
-intended to be executed by a thread.
+Interface that should be implemented by any class whose instances are intended to be executed by a thread.
 
 </div>
 
@@ -7687,8 +7511,7 @@ intended to be executed by a thread.
 
 <div class="block">
 
-A ScalarKeyframe consists of a scalar value (e.g,: distance in meters)
-and an animation duration.
+A ScalarKeyframe consists of a scalar value (e.g,: distance in meters) and an animation duration.
 
 </div>
 
@@ -7720,8 +7543,7 @@ This class handles scale events by zooming the map accordingly.
 
 <div class="block">
 
-Encapsulates schedule details complying with the iCalendar
-specification: https://tools.ietf.org/html/rfc5545.
+Encapsulates schedule details complying with the iCalendar specification: https://tools.ietf.org/html/rfc5545.
 
 </div>
 
@@ -7787,8 +7609,7 @@ This class handles scroll events by panning the map accordingly.
 
 <div class="block">
 
-The SDKBuildInformation class is designed to provide information about
-the SDK build.
+The SDKBuildInformation class is designed to provide information about the SDK build.
 
 </div>
 
@@ -7836,8 +7657,7 @@ Logging interface for Android/iOS platforms.
 
 <div class="block">
 
-Holds internal services and configurations needed by various HERE SDK
-modules.
+Holds internal services and configurations needed by various HERE SDK modules.
 
 </div>
 
@@ -7869,9 +7689,7 @@ Enum representing a strategy to flush memory caches.
 
 <div class="block">
 
-SDKOptions provide an alternative way to set or update the HERE SDK
-credentials and other parameters at runtime to initialize the
-SDKNativeEngine .
+SDKOptions provide an alternative way to set or update the HERE SDK credentials and other parameters at runtime to initialize the SDKNativeEngine .
 
 </div>
 
@@ -7919,8 +7737,7 @@ The SDKVersion represents version information for an SDK product.
 
 <div class="block">
 
-The method will be called on the main thread when a search call has been
-completed.
+The method will be called on the main thread when a search call has been completed.
 
 </div>
 
@@ -7936,8 +7753,7 @@ completed.
 
 <div class="block">
 
-The method will be called on the main thread when a search call has been
-completed.
+The method will be called on the main thread when a search call has been completed.
 
 </div>
 
@@ -7953,9 +7769,7 @@ completed.
 
 <div class="block">
 
-The SearchEngine API unlocks the search, geocoding and suggesting
-capabilities of HERE services to provide developers with unmatched
-flexibility to create differentiating location-enabled applications.
+The SearchEngine API unlocks the search, geocoding and suggesting capabilities of HERE services to provide developers with unmatched flexibility to create differentiating location-enabled applications.
 
 </div>
 
@@ -8003,8 +7817,7 @@ Provides the interface for the online and offline search engines.
 
 <div class="block">
 
-Encapsulates options that control the behavior of search and suggest
-operations.
+Encapsulates options that control the behavior of search and suggest operations.
 
 </div>
 
@@ -8052,8 +7865,7 @@ Explains an issue encountered in a Section .
 
 <div class="block">
 
-Notice codes which point the issues encountered during processing of a
-Section .
+Notice codes which point the issues encountered during processing of a Section .
 
 </div>
 
@@ -8149,8 +7961,7 @@ Signpost information.
 
 <div class="block">
 
-Details of a signpost representing a particular direction or
-destination.
+Details of a signpost representing a particular direction or destination.
 
 </div>
 
@@ -8230,8 +8041,7 @@ The options to specify a structured query.
 
 <div class="block">
 
-Defines query address elements which will be used to build address
-hierarchy during searches.
+Defines query address elements which will be used to build address hierarchy during searches.
 
 </div>
 
@@ -8279,8 +8089,7 @@ A style that defines the visual appearance of map rendered features.
 
 <div class="block">
 
-The method will be called on the main thread when a suggest call has
-been completed.
+The method will be called on the main thread when a suggest call has been completed.
 
 </div>
 
@@ -8296,8 +8105,7 @@ been completed.
 
 <div class="block">
 
-The method will be called on the main thread when a suggest call has
-been completed.
+The method will be called on the main thread when a suggest call has been completed.
 
 </div>
 
@@ -8313,8 +8121,7 @@ been completed.
 
 <div class="block">
 
-Suggestion is meant to provide relevant suggestions to partial queries,
-like "restaur", "starbu", "eiffel".
+Suggestion is meant to provide relevant suggestions to partial queries, like "restaur", "starbu", "eiffel".
 
 </div>
 
@@ -8508,8 +8315,7 @@ Initializes threading support on native side.
 
 <div class="block">
 
-A calculator of geodetic bounds for tiles identified by keys generated
-in a particular tiling scheme ( TilingScheme ).
+A calculator of geodetic bounds for tiles identified by keys generated in a particular tiling scheme ( TilingScheme ).
 
 </div>
 
@@ -8621,8 +8427,7 @@ Tile metadata.
 
 <div class="block">
 
-Provides the URL as String for the given tile coordinates and storage
-level.
+Provides the URL as String for the given tile coordinates and storage level.
 
 </div>
 
@@ -8638,8 +8443,7 @@ level.
 
 <div class="block">
 
-Factory for generating a TileUrlProviderCallback utilized in creating a
-tile URL.
+Factory for generating a TileUrlProviderCallback utilized in creating a tile URL.
 
 </div>
 
@@ -8687,8 +8491,7 @@ Time period when the tariff element is valid, in local time.
 
 <div class="block">
 
-Used to indicate a time period of one or more intervals in GDF
-specification.
+Used to indicate a time period of one or more intervals in GDF specification.
 
 </div>
 
@@ -8800,8 +8603,7 @@ Supported options of vehicle category for toll calculation.
 
 <div class="block">
 
-This interface provides traffic information from radio signals to other
-HERE SDK modules.
+This interface provides traffic information from radio signals to other HERE SDK modules.
 
 </div>
 
@@ -8817,8 +8619,7 @@ HERE SDK modules.
 
 <div class="block">
 
-Use the TrafficEngine to get information about current traffic flow and
-incidents in an area specified by GeoBox , GeoCircle , or GeoCorridor .
+Use the TrafficEngine to get information about current traffic flow and incidents in an area specified by GeoBox , GeoCircle , or GeoCorridor .
 
 </div>
 
@@ -8834,12 +8635,7 @@ incidents in an area specified by GeoBox , GeoCircle , or GeoCorridor .
 
 <div class="block">
 
-This class provides details about traffic flow along a GeoCorridor ,
-inside a GeoCircle or a GeoBox , that represents particular path of the
-road network. Backends for TrafficEngine and traffic vector tiles are
-different however backends may share the same data. For additional
-information about fields, refer to Traffic API v7 API Reference: Traffic
-API v7 .
+This class provides details about traffic flow along a GeoCorridor , inside a GeoCircle or a GeoBox , that represents particular path of the road network. Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data. For additional information about fields, refer to Traffic API v7 API Reference: Traffic API v7 .
 
 </div>
 
@@ -8855,9 +8651,7 @@ API v7 .
 
 <div class="block">
 
-This interface provides details about a traffic flow. For additional
-information about fields, refer to Traffic API v7 API Reference: Traffic
-API v7 .
+This interface provides details about a traffic flow. For additional information about fields, refer to Traffic API v7 API Reference: Traffic API v7 .
 
 </div>
 
@@ -8873,13 +8667,7 @@ API v7 .
 
 <div class="block">
 
-Callback passed to following functions:
-TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions,
-TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCircle,
-TrafficFlowQueryOptions, TrafficFlowQueryCallback)
-TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions,
-TrafficFlowQueryCallback) The method will be called on the main thread
-when a search call has been completed.
+Callback passed to following functions: TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback) The method will be called on the main thread when a search call has been completed.
 
 </div>
 
@@ -8943,8 +8731,7 @@ The vehicle categories that can be restricted.
 
 <div class="block">
 
-The vehicle restriction representing a vehicle category and relevant
-restriction rules.
+The vehicle restriction representing a vehicle category and relevant restriction rules.
 
 </div>
 
@@ -8992,9 +8779,7 @@ Impact of a traffic incident.
 
 <div class="block">
 
-Callback passed to TrafficEngine.lookupIncident(java.lang.String,
-com.here.sdk.traffic.TrafficIncidentLookupOptions,
-com.here.sdk.traffic.TrafficIncidentLookupCallback) .
+Callback passed to TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.traffic.TrafficIncidentLookupOptions, com.here.sdk.traffic.TrafficIncidentLookupCallback) .
 
 </div>
 
@@ -9042,8 +8827,7 @@ Traffic incidents on a route.
 
 <div class="block">
 
-Callback passed to TrafficEngine.queryForIncidents(GeoCorridor,
-TrafficIncidentsQueryOptions, TrafficIncidentsQueryCallback) .
+Callback passed to TrafficEngine.queryForIncidents(GeoCorridor, TrafficIncidentsQueryOptions, TrafficIncidentsQueryCallback) .
 
 </div>
 
@@ -9155,8 +8939,7 @@ Traffic information of a span along a route.
 
 <div class="block">
 
-Traffic optimization mode that defines whether and what kind of traffic
-information should be considered during route calculation.
+Traffic optimization mode that defines whether and what kind of traffic information should be considered during route calculation.
 
 </div>
 
@@ -9300,8 +9083,7 @@ Filtering mode for public transit.
 
 <div class="block">
 
-All the options to specify how a public transit route should be
-calculated.
+All the options to specify how a public transit route should be calculated.
 
 </div>
 
@@ -9317,8 +9099,7 @@ calculated.
 
 <div class="block">
 
-Use the TransitRoutingEngine to calculate a public transit route from A
-to B with a number of waypoints in between.
+Use the TransitRoutingEngine to calculate a public transit route from A to B with a number of waypoints in between.
 
 </div>
 
@@ -9350,8 +9131,7 @@ Gives the details of a transit section.
 
 <div class="block">
 
-A transit stop between the departure and destination of a transit
-section.
+A transit stop between the departure and destination of a transit section.
 
 </div>
 
@@ -9383,8 +9163,7 @@ Holds all the transit transport information.
 
 <div class="block">
 
-Represents a transit waypoint, used as input for transit route
-calculation.
+Represents a transit waypoint, used as input for transit route calculation.
 
 </div>
 
@@ -9400,8 +9179,7 @@ calculation.
 
 <div class="block">
 
-A translucent layer group that can be the target for
-MapLayerPriorityBuilder.inGroup(java.lang.String) .
+A translucent layer group that can be the target for MapLayerPriorityBuilder.inGroup(java.lang.String) .
 
 </div>
 
@@ -9691,8 +9469,7 @@ Builder for a single triangle.
 
 <div class="block">
 
-Truck amenities struct, represents availability (true/false) for each
-feature, except shower_count - number of showers, if data is available.
+Truck amenities struct, represents availability (true/false) for each feature, except shower_count - number of showers, if data is available.
 
 </div>
 
@@ -9906,8 +9683,7 @@ Represents the available unit systems(imperial/metric).
 
 <div class="block">
 
-A class that gathers statistics of the HERE SDK network usage for
-uploaded and downloaded data.
+A class that gathers statistics of the HERE SDK network usage for uploaded and downloaded data.
 
 </div>
 
@@ -9973,9 +9749,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-VehicleRestrictionMaxWeight contains max permitted weight during the
-trip, in kilograms, along with the specific type of maximum permitted
-weight restriction.
+VehicleRestrictionMaxWeight contains max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
 
 </div>
 
@@ -9991,8 +9765,7 @@ weight restriction.
 
 <div class="block">
 
-This enum represents the specific type of the maximum permitted weight
-restriction.
+This enum represents the specific type of the maximum permitted weight restriction.
 
 </div>
 
@@ -10138,8 +9911,7 @@ Will be removed in v4.28.0.
 
 <div class="block">
 
-ViolatedRestriction contains all the violated restriction details for
-the planned trip.
+ViolatedRestriction contains all the violated restriction details for the planned trip.
 
 </div>
 
@@ -10155,8 +9927,7 @@ the planned trip.
 
 <div class="block">
 
-Optional restriction details, contains additional information depending
-on the specific violation, zero or more member might be set.
+Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.
 
 </div>
 
@@ -10236,8 +10007,7 @@ Represents a waypoint, used as input for route calculation.
 
 <div class="block">
 
-Defines if the waypoint is a stop over, or a hint for a desired polyline
-of a route.
+Defines if the waypoint is a stop over, or a hint for a desired polyline of a route.
 
 </div>
 
@@ -10253,8 +10023,7 @@ of a route.
 
 <div class="block">
 
-Contains information about images, editorials, rating and a urls to
-them.
+Contains information about images, editorials, rating and a urls to them.
 
 </div>
 
@@ -10334,8 +10103,7 @@ Represents data related to specific website address
 
 <div class="block">
 
-Contains information about provider of the item and a direct link to the
-item.
+Contains information about provider of the item and a direct link to the item.
 
 </div>
 
@@ -10351,8 +10119,7 @@ item.
 
 <div class="block">
 
-Struct which defines the weight of the different axle groups of a
-vehicle.
+Struct which defines the weight of the different axle groups of a vehicle.
 
 </div>
 
@@ -10368,8 +10135,7 @@ vehicle.
 
 <div class="block">
 
-Identifies categories of zones which routes avoid going through when
-used in AvoidanceOptions .
+Identifies categories of zones which routes avoid going through when used in AvoidanceOptions .
 
 </div>
 

@@ -129,9 +129,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  This is a bearer authentication mode which adds or does not add a
-  header ("Authorization", "Bearer \$Token") to each online request of
-  the module the object is added to.
+  This is a bearer authentication mode which adds or does not add a header ("Authorization", "Bearer \$Token") to each online request of the module the object is added to.
 
   </div>
 
@@ -163,9 +161,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Using this class you can configure in the SDKOptions , how the
-  SDKNativeEngine should access, use and store the data for the desired
-  catalog.
+  Using this class you can configure in the SDKOptions , how the SDKNativeEngine should access, use and store the data for the desired catalog.
 
   </div>
 
@@ -213,8 +209,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  This is a class for capturing user's intent for the desired catalog
-  version to use in DesiredCatalog class.
+  This is a class for capturing user's intent for the desired catalog version to use in DesiredCatalog class.
 
   </div>
 
@@ -246,8 +241,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  This class provides an interface to the user, to identify a catalog on
-  the HERE platform, whose data he wants to access.
+  This class provides an interface to the user, to identify a catalog on the HERE platform, whose data he wants to access.
 
   </div>
 
@@ -263,9 +257,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  This method will be called on the main thread when
-  SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)
-  has been completed.
+  This method will be called on the main thread when SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback) has been completed.
 
   </div>
 
@@ -281,8 +273,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Lists the available HERE SDK endpoints that can be customized with a
-  custom backend base URL.
+  Lists the available HERE SDK endpoints that can be customized with a custom backend base URL.
 
   </div>
 
@@ -314,8 +305,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  A class to configure which layers should be enabled or disabled in the
-  OCM map data.
+  A class to configure which layers should be enabled or disabled in the OCM map data.
 
   </div>
 
@@ -331,8 +321,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Defines a list of possible map data features that can be enabled /
-  disabled.
+  Defines a list of possible map data features that can be enabled / disabled.
 
   </div>
 
@@ -348,9 +337,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  LockingProcess helps to detect situations when cache is locked with
-  another process and attempt to create instance of SDKNativeEngine
-  fails with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
+  LockingProcess helps to detect situations when cache is locked with another process and attempt to create instance of SDKNativeEngine fails with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 
   </div>
 
@@ -382,9 +369,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  This class provides functionality to enable/disable console logs as
-  well as setting a custom log appender to receive log messages from the
-  SDK.
+  This class provides functionality to enable/disable console logs as well as setting a custom log appender to receive log messages from the SDK.
 
   </div>
 
@@ -432,8 +417,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Network configuration to be used by SDKNativeEngine during the
-  initialization.
+  Network configuration to be used by SDKNativeEngine during the initialization.
 
   </div>
 
@@ -449,9 +433,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Represents features that are allowed to consume online data when the
-  HERE SDK's offline mode is activated via
-  SDKNativeEngine.isOfflineMode() and/or SDKOptions.offlineMode .
+  Represents features that are allowed to consume online data when the HERE SDK's offline mode is activated via SDKNativeEngine.isOfflineMode() and/or SDKOptions.offlineMode .
 
   </div>
 
@@ -467,8 +449,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Proxy configuration for the HERE SDK network that is applied per
-  request.
+  Proxy configuration for the HERE SDK network that is applied per request.
 
   </div>
 
@@ -516,8 +497,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  The SDKBuildInformation class is designed to provide information about
-  the SDK build.
+  The SDKBuildInformation class is designed to provide information about the SDK build.
 
   </div>
 
@@ -549,8 +529,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  Holds internal services and configurations needed by various HERE SDK
-  modules.
+  Holds internal services and configurations needed by various HERE SDK modules.
 
   </div>
 
@@ -582,9 +561,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  SDKOptions provide an alternative way to set or update the HERE SDK
-  credentials and other parameters at runtime to initialize the
-  SDKNativeEngine .
+  SDKOptions provide an alternative way to set or update the HERE SDK credentials and other parameters at runtime to initialize the SDKNativeEngine .
 
   </div>
 
@@ -632,8 +609,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="block">
 
-  A class that gathers statistics of the HERE SDK network usage for
-  uploaded and downloaded data.
+  A class that gathers statistics of the HERE SDK network usage for uploaded and downloaded data.
 
   </div>
 

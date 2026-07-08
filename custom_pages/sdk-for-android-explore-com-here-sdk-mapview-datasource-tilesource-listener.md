@@ -3,6 +3,8 @@ title: "TileSource.Listener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,16 +15,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing interface:  
 [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
 
 <div class="type-signature">
 
-<span class="modifiers">public static interface
-</span><span class="element-name type-name-label">TileSource.Listener</span>
+<span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.Listener</span>
 
 </div>
 
@@ -34,8 +34,7 @@ Listener of TileSource events.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -89,18 +88,15 @@ Listener of TileSource events.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onDataVersionChanged-com-here-sdk-mapview-datasource-TileSource-DataVersion"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onDataVersionChanged-com-here-sdk-mapview-datasource-TileSource-DataVersion" class="section detail">
 
     ### onDataVersionChanged
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><span class="parameters">(@NonNull
-    [TileSource.DataVersion](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource") dataVersion)</span>
+    <span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><wbr></wbr><span class="parameters">(@NonNull [TileSource.DataVersion](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource") dataVersion)</span>
 
     </div>
 
@@ -118,4 +114,6 @@ Listener of TileSource events.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

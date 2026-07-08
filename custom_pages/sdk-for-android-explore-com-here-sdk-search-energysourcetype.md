@@ -3,6 +3,8 @@ title: "EnergySourceType (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-energysourcetype"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,79 +17,42 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energysourcetype"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object java.lang.Enum \< EnergySourceType \>
-com.here.sdk.search.EnergySourceType → java.lang.Enum \<
-EnergySourceType \> com.here.sdk.search.EnergySourceType →
-com.here.sdk.search.EnergySourceType
+java.lang.Object java.lang.Enum \< EnergySourceType \> com.here.sdk.search.EnergySourceType → java.lang.Enum \< EnergySourceType \> com.here.sdk.search.EnergySourceType → com.here.sdk.search.EnergySourceType
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`EnergySourceType`](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`EnergySourceType`](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum
-</span><span class="element-name type-name-label">EnergySourceType</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">EnergySourceType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")\></span>
 
 </div>
 
 <div class="block">
 
-Represents energy source type. EnergySource contains this representing
-the type of the energy source. Note: This is a beta release of this
-feature, so there could be a few bugs and unexpected behaviors. Related
-APIs may change for new releases without a deprecation process.
+Represents energy source type. EnergySource contains this representing the type of the energy source. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-enum-constant-summary"
-  class="section constants-summary">
+- <div id="sdk-for-android-explore-enum-constant-summary" class="section constants-summary">
 
   ## Enum Constant Summary
 
@@ -113,9 +78,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#COAL"
-  class="member-name-link"><code>COAL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#COAL" class="member-name-link"><code>COAL</code></a>
 
   </div>
 
@@ -131,9 +94,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GAS"
-  class="member-name-link"><code>GAS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GAS" class="member-name-link"><code>GAS</code></a>
 
   </div>
 
@@ -149,9 +110,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GENERAL_FOSSIL"
-  class="member-name-link"><code>GENERAL_FOSSIL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GENERAL_FOSSIL" class="member-name-link"><code>GENERAL_FOSSIL</code></a>
 
   </div>
 
@@ -167,9 +126,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GENERAL_GREEN"
-  class="member-name-link"><code>GENERAL_GREEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#GENERAL_GREEN" class="member-name-link"><code>GENERAL_GREEN</code></a>
 
   </div>
 
@@ -185,9 +142,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#NUCLEAR"
-  class="member-name-link"><code>NUCLEAR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#NUCLEAR" class="member-name-link"><code>NUCLEAR</code></a>
 
   </div>
 
@@ -203,9 +158,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#SOLAR"
-  class="member-name-link"><code>SOLAR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#SOLAR" class="member-name-link"><code>SOLAR</code></a>
 
   </div>
 
@@ -221,9 +174,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#WATER"
-  class="member-name-link"><code>WATER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#WATER" class="member-name-link"><code>WATER</code></a>
 
   </div>
 
@@ -239,9 +190,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#WIND"
-  class="member-name-link"><code>WIND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype#WIND" class="member-name-link"><code>WIND</code></a>
 
   </div>
 
@@ -259,8 +208,7 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -322,8 +270,7 @@ APIs may change for new releases without a deprecation process.
 
   <div class="block">
 
-  Returns an array containing the constants of this enum class, in the
-  order they are declared.
+  Returns an array containing the constants of this enum class, in the order they are declared.
 
   </div>
 
@@ -335,72 +282,17 @@ APIs may change for new releases without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -408,8 +300,7 @@ APIs may change for new releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-enum-constant-detail"
-  class="section constant-details">
+- <div id="sdk-for-android-explore-enum-constant-detail" class="section constant-details">
 
   ## Enum Constant Details
 
@@ -419,8 +310,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">NUCLEAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">NUCLEAR</span>
 
     </div>
 
@@ -432,15 +322,13 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-GENERAL_FOSSIL"
-    class="section detail">
+  - <div id="sdk-for-android-explore-GENERAL_FOSSIL" class="section detail">
 
     ### GENERAL_FOSSIL
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GENERAL_FOSSIL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GENERAL_FOSSIL</span>
 
     </div>
 
@@ -458,8 +346,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">COAL</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">COAL</span>
 
     </div>
 
@@ -477,8 +364,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GAS</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GAS</span>
 
     </div>
 
@@ -490,15 +376,13 @@ APIs may change for new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-GENERAL_GREEN"
-    class="section detail">
+  - <div id="sdk-for-android-explore-GENERAL_GREEN" class="section detail">
 
     ### GENERAL_GREEN
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GENERAL_GREEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">GENERAL_GREEN</span>
 
     </div>
 
@@ -516,8 +400,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">SOLAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">SOLAR</span>
 
     </div>
 
@@ -535,8 +418,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">WIND</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">WIND</span>
 
     </div>
 
@@ -554,8 +436,7 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static
-    final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">WATER</span>
+    <span class="modifiers">public static final</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">WATER</span>
 
     </div>
 
@@ -569,8 +450,7 @@ APIs may change for new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-values" class="section detail">
 
@@ -578,44 +458,34 @@ APIs may change for new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
     <div class="block">
 
-    Returns an array containing the constants of this enum class, in the
-    order they are declared.
+    Returns an array containing the constants of this enum class, in the order they are declared.
 
     </div>
 
     Returns:  
-    an array containing the constants of this enum class, in the order
-    they are declared
+    an array containing the constants of this enum class, in the order they are declared
 
     </div>
 
-  - <div id="sdk-for-android-explore-valueOf-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-valueOf-java-lang-String" class="section detail">
 
     ### valueOf
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
     <div class="block">
 
-    Returns the enum constant of this class with the specified name. The
-    string must match exactly an identifier used to declare an enum
-    constant in this class. (Extraneous whitespace characters are not
-    permitted.)
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
 
     </div>
 
@@ -626,19 +496,13 @@ APIs may change for new releases without a deprecation process.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
-    if this enum class has no constant with the specified name
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
-    if the argument is null
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

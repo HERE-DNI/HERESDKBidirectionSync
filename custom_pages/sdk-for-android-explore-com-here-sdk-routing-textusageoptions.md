@@ -3,6 +3,8 @@ title: "TextUsageOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,21 +17,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.TextUsageOptions →
-com.here.sdk.routing.TextUsageOptions
+java.lang.Object com.here.sdk.routing.TextUsageOptions → com.here.sdk.routing.TextUsageOptions
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">TextUsageOptions</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TextUsageOptions</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -41,8 +37,7 @@ Specify whether the text should be used when generating notification.
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -78,9 +73,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#roadNumber"
-  class="member-name-link"><code>roadNumber</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#roadNumber" class="member-name-link"><code>roadNumber</code></a>
 
   </div>
 
@@ -88,8 +81,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="block">
 
-  An option whether road number should be used when generating
-  notification.
+  An option whether road number should be used when generating notification.
 
   </div>
 
@@ -103,9 +95,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#signpostDirection"
-  class="member-name-link"><code>signpostDirection</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#signpostDirection" class="member-name-link"><code>signpostDirection</code></a>
 
   </div>
 
@@ -113,8 +103,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="block">
 
-  An option whether signpost direction should be used when generating
-  notification.
+  An option whether signpost direction should be used when generating notification.
 
   </div>
 
@@ -128,9 +117,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#streetName"
-  class="member-name-link"><code>streetName</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions#streetName" class="member-name-link"><code>streetName</code></a>
 
   </div>
 
@@ -138,8 +125,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="block">
 
-  An option whether street name should be used when generating
-  notification.
+  An option whether street name should be used when generating notification.
 
   </div>
 
@@ -149,8 +135,7 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -192,8 +177,7 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -259,38 +243,9 @@ Specify whether the text should be used when generating notification.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -298,8 +253,7 @@ Specify whether the text should be used when generating notification.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-streetName" class="section detail">
 
@@ -307,15 +261,13 @@ Specify whether the text should be used when generating notification.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">streetName</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">streetName</span>
 
     </div>
 
     <div class="block">
 
-    An option whether street name should be used when generating
-    notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
+    An option whether street name should be used when generating notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
 
     </div>
 
@@ -327,36 +279,31 @@ Specify whether the text should be used when generating notification.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">roadNumber</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">roadNumber</span>
 
     </div>
 
     <div class="block">
 
-    An option whether road number should be used when generating
-    notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
+    An option whether road number should be used when generating notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-signpostDirection"
-    class="section detail">
+  - <div id="sdk-for-android-explore-signpostDirection" class="section detail">
 
     ### signpostDirection
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">signpostDirection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">signpostDirection</span>
 
     </div>
 
     <div class="block">
 
-    An option whether signpost direction should be used when generating
-    notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
+    An option whether signpost direction should be used when generating notification. Defaults to LocalizedTextPreference.USE_ALWAYS .
 
     </div>
 
@@ -364,8 +311,7 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -387,31 +333,20 @@ Specify whether the text should be used when generating notification.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -426,16 +361,11 @@ Specify whether the text should be used when generating notification.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

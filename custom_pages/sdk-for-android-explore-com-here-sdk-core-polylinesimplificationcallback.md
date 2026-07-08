@@ -3,6 +3,8 @@ title: "PolylineSimplificationCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,37 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public interface
-</span><span class="element-name type-name-label">PolylineSimplificationCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public interface </span><span class="element-name type-name-label">PolylineSimplificationCallback</span>
 
 </div>
 
 <div class="block">
 
-The method will be called on the main thread when
-PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-com.here.sdk.core.PolylineSimplifier.Options,
-com.here.sdk.core.PolylineSimplificationCallback) is finished.
+The method will be called on the main thread when PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -83,10 +74,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
   <div class="block">
 
-  The method will be called on the main thread when
-  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-  com.here.sdk.core.PolylineSimplifier.Options,
-  com.here.sdk.core.PolylineSimplificationCallback) is finished.
+  The method will be called on the main thread when PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
   </div>
 
@@ -100,30 +88,21 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onPolylineSimplified-com-here-sdk-core-PolylineSimplificationError-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onPolylineSimplified-com-here-sdk-core-PolylineSimplificationError-java-util-List" class="section detail">
 
     ### onPolylineSimplified
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><span class="parameters">(@Nullable
-    [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
+    <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><wbr></wbr><span class="parameters">(@Nullable [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
 
     </div>
 
     <div class="block">
 
-    The method will be called on the main thread when
-    PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-    com.here.sdk.core.PolylineSimplifier.Options,
-    com.here.sdk.core.PolylineSimplificationCallback) is finished.
+    The method will be called on the main thread when PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
     </div>
 
@@ -134,15 +113,17 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
     `result` -
 
-    The simplified polyline with number of points less or equal to the
-    input polyline of
-    [](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback))
+    The simplified polyline with number of points less or equal to the input polyline of [](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback))
 
         PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.GeoCoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)
 
-    .
+    </a>.
+
+    </p>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

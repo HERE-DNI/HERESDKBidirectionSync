@@ -3,6 +3,8 @@ title: "MapContentSettings (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,37 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.mapview.MapContentSettings → com.here.NativeBase
-com.here.sdk.mapview.MapContentSettings →
-com.here.sdk.mapview.MapContentSettings
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapContentSettings → com.here.NativeBase com.here.sdk.mapview.MapContentSettings → com.here.sdk.mapview.MapContentSettings
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">MapContentSettings</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapContentSettings</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-Provides settings regarding map data which are applied globally to all
-map views. The settings can already be changed before a map view
-instance is created.
+Provides settings regarding map data which are applied globally to all map views. The settings can already be changed before a map view instance is created.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="caption">
 
@@ -81,10 +73,7 @@ instance is created.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperioderrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodErrorCode</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperioderrorcode" class="type-name-link" title="enum class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodErrorCode</code></a>
 
   </div>
 
@@ -106,10 +95,7 @@ instance is created.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a>
 
   </div>
 
@@ -127,8 +113,7 @@ instance is created.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -168,9 +153,7 @@ instance is created.
 
   <div class="block">
 
-  Filters the displayed traffic incidents so that only the ones
-  applicable to the specified criteria are shown when general display of
-  traffic incidents is enabled.
+  Filters the displayed traffic incidents so that only the ones applicable to the specified criteria are shown when general display of traffic incidents is enabled.
 
   </div>
 
@@ -192,10 +175,7 @@ instance is created.
 
   <div class="block">
 
-  Removes all filters regarding Traffic Incidents so that all incidents
-  will be displayed, when the display of Traffic Incidents is enabled
-  using MapScene.enableFeatures(java.util.Map\<java.lang.String,
-  java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
+  Removes all filters regarding Traffic Incidents so that all incidents will be displayed, when the display of Traffic Incidents is enabled using MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
 
   </div>
 
@@ -217,9 +197,7 @@ instance is created.
 
   <div class="block">
 
-  Resets the traffic data (both flow and incidents) refresh period so
-  the default traffic information validity time and the refresh period
-  derived from the refresh period of the traffic server is used.
+  Resets the traffic data (both flow and incidents) refresh period so the default traffic information validity time and the refresh period derived from the refresh period of the traffic server is used.
 
   </div>
 
@@ -241,8 +219,7 @@ instance is created.
 
   <div class="block">
 
-  Sets the traffic data refresh period for both MapFeatures.TRAFFIC_FLOW
-  and MapFeatures.TRAFFIC_INCIDENTS .
+  Sets the traffic data refresh period for both MapFeatures.TRAFFIC_FLOW and MapFeatures.TRAFFIC_INCIDENTS .
 
   </div>
 
@@ -254,44 +231,9 @@ instance is created.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -299,140 +241,96 @@ instance is created.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-filterTrafficIncidents-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-filterTrafficIncidents-java-util-List" class="section detail">
 
     ### filterTrafficIncidents
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\> trafficIncidents)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\> trafficIncidents)</span>
 
     </div>
 
     <div class="block">
 
-    Filters the displayed traffic incidents so that only the ones
-    applicable to the specified criteria are shown when general display
-    of traffic incidents is enabled. The display of traffic incidents
-    can be enabled using
-    MapScene.enableFeatures(java.util.Map\<java.lang.String,
-    java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
+    Filters the displayed traffic incidents so that only the ones applicable to the specified criteria are shown when general display of traffic incidents is enabled. The display of traffic incidents can be enabled using MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
 
     </div>
 
     Parameters:  
     `trafficIncidents` -
 
-    The traffic incidents to filter for, so that only applicable
-    incidents are displayed. When the list is empty, then all traffic
-    incidents will be displayed. If the `trafficIncidents` contains
-    [`TrafficIncidentType.UNKNOWN`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#UNKNOWN),
-    then the traffic filter will be applied ignoring this element.
+    The traffic incidents to filter for, so that only applicable incidents are displayed. When the list is empty, then all traffic incidents will be displayed. If the `trafficIncidents` contains [`TrafficIncidentType.UNKNOWN`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#UNKNOWN), then the traffic filter will be applied ignoring this element.
 
     </div>
 
-  - <div id="sdk-for-android-explore-resetTrafficIncidentFilter"
-    class="section detail">
+  - <div id="sdk-for-android-explore-resetTrafficIncidentFilter" class="section detail">
 
     ### resetTrafficIncidentFilter
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">void</span> <span class="element-name">resetTrafficIncidentFilter</span>()
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">resetTrafficIncidentFilter</span>()
 
     </div>
 
     <div class="block">
 
-    Removes all filters regarding Traffic Incidents so that all
-    incidents will be displayed, when the display of Traffic Incidents
-    is enabled using
-    MapScene.enableFeatures(java.util.Map\<java.lang.String,
-    java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
+    Removes all filters regarding Traffic Incidents so that all incidents will be displayed, when the display of Traffic Incidents is enabled using MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) with MapFeatures.TRAFFIC_INCIDENTS .
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-setTrafficRefreshPeriod-com-here-time-Duration"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setTrafficRefreshPeriod-com-here-time-Duration" class="section detail">
 
     ### setTrafficRefreshPeriod
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><span class="parameters">(@NonNull
-    [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") value)</span>
-    throws
-    <span class="exceptions">[MapContentSettings.TrafficRefreshPeriodException](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><wbr></wbr><span class="parameters">(@NonNull [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") value)</span> throws <span class="exceptions">[MapContentSettings.TrafficRefreshPeriodException](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")</span>
 
     </div>
 
     <div class="block">
 
-    Sets the traffic data refresh period for both
-    MapFeatures.TRAFFIC_FLOW and MapFeatures.TRAFFIC_INCIDENTS . By
-    default, the traffic information validity time and the refresh
-    period is derived from the refresh period of HERE's traffic server.
-    The period set by this function will override the server's default
-    setting for upcoming traffic data requests. Defaults to 60 seconds.
+    Sets the traffic data refresh period for both MapFeatures.TRAFFIC_FLOW and MapFeatures.TRAFFIC_INCIDENTS . By default, the traffic information validity time and the refresh period is derived from the refresh period of HERE's traffic server. The period set by this function will override the server's default setting for upcoming traffic data requests. Defaults to 60 seconds.
 
     </div>
 
     Parameters:  
     `value` -
 
-    Traffic data refresh period in seconds. Valid range is \[60, 300\]
-    seconds. The shortest refresh period that can be set is 60 seconds.
-    This means that the traffic data shown on a map view will be
-    refreshed every minute. The longest refresh period that can be set
-    is 300 seconds. This means that the traffic data shown on the
-    current map view will be refreshed every 5 minutes if the viewport
-    does not change. Note that when a viewport change occurs, new
-    traffic data may be requested regardless of the set refresh period.
-    For example, during turn-by-turn navigation, frequent viewport
-    changes can result in missing traffic data, causing new requests to
-    be made more often.
+    Traffic data refresh period in seconds. Valid range is \[60, 300\] seconds. The shortest refresh period that can be set is 60 seconds. This means that the traffic data shown on a map view will be refreshed every minute. The longest refresh period that can be set is 300 seconds. This means that the traffic data shown on the current map view will be refreshed every 5 minutes if the viewport does not change. Note that when a viewport change occurs, new traffic data may be requested regardless of the set refresh period. For example, during turn-by-turn navigation, frequent viewport changes can result in missing traffic data, causing new requests to be made more often.
 
     Throws:  
-    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")
+    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview") -
 
-    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")
-    indicates what went wrong.
+    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview") indicates what went wrong.
 
     </div>
 
-  - <div id="sdk-for-android-explore-resetTrafficRefreshPeriod"
-    class="section detail">
+  - <div id="sdk-for-android-explore-resetTrafficRefreshPeriod" class="section detail">
 
     ### resetTrafficRefreshPeriod
 
     <div class="member-signature">
 
-    <span class="modifiers">public
-    static</span> <span class="return-type">void</span> <span class="element-name">resetTrafficRefreshPeriod</span>()
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">resetTrafficRefreshPeriod</span>()
 
     </div>
 
     <div class="block">
 
-    Resets the traffic data (both flow and incidents) refresh period so
-    the default traffic information validity time and the refresh period
-    derived from the refresh period of the traffic server is used.
+    Resets the traffic data (both flow and incidents) refresh period so the default traffic information validity time and the refresh period derived from the refresh period of the traffic server is used.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

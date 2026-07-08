@@ -3,6 +3,8 @@ title: "AnimationListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,13 +15,11 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">AnimationListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">AnimationListener</span>
 
 </div>
 
@@ -31,8 +31,7 @@ A listener for animation events.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -86,18 +85,15 @@ A listener for animation events.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onAnimationStateChanged-com-here-sdk-animation-AnimationState"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onAnimationStateChanged-com-here-sdk-animation-AnimationState" class="section detail">
 
     ### onAnimationStateChanged
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onAnimationStateChanged</span><span class="parameters">(@NonNull
-    [AnimationState](sdk-for-android-explore-com-here-sdk-animation-animationstate "enum class in com.here.sdk.animation") state)</span>
+    <span class="return-type">void</span> <span class="element-name">onAnimationStateChanged</span><wbr></wbr><span class="parameters">(@NonNull [AnimationState](sdk-for-android-explore-com-here-sdk-animation-animationstate "enum class in com.here.sdk.animation") state)</span>
 
     </div>
 
@@ -115,4 +111,6 @@ A listener for animation events.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

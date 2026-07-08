@@ -3,6 +3,8 @@ title: "TwoFingerTapListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">TwoFingerTapListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TwoFingerTapListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling two finger tap gestures. Two finger tap gesture
-occurs after tapping on the screen with two fingers.
+Interface for handling two finger tap gestures. Two finger tap gesture occurs after tapping on the screen with two fingers.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -87,18 +85,15 @@ occurs after tapping on the screen with two fingers.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onTwoFingerTap-com-here-sdk-core-Point2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onTwoFingerTap-com-here-sdk-core-Point2D" class="section detail">
 
     ### onTwoFingerTap
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTwoFingerTap</span><span class="parameters">(@NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="return-type">void</span> <span class="element-name">onTwoFingerTap</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
 
     </div>
 
@@ -111,10 +106,11 @@ occurs after tapping on the screen with two fingers.
     Parameters:  
     `origin` -
 
-    Position halfway between two touch points relative to the MapView in
-    pixels.
+    Position halfway between two touch points relative to the MapView in pixels.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

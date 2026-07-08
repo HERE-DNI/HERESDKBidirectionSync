@@ -55,8 +55,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="block">
 
-  This class handles fling events by performing a kinetic move on the
-  map.
+  This class handles fling events by performing a kinetic move on the map.
 
   </div>
 
@@ -72,8 +71,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="block">
 
-  Use this class to process touch events from the platform and detect
-  gesture induced actions on the map view.
+  Use this class to process touch events from the platform and detect gesture induced actions on the map view.
 
   </div>
 

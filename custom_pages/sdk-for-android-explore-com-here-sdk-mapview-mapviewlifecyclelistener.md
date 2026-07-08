@@ -3,6 +3,8 @@ title: "MapViewLifecycleListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,38 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">MapViewLifecycleListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">MapViewLifecycleListener</span>
 
 </div>
 
 <div class="block">
 
-Provides a mechanism for observing a lifecycle of a map view and/or
-implementing components whose lifecycle needs to be linked with that of
-a map view. A configuration change that results in Activity being
-recreated does not trigger an onDestroy() call. The listener will be
-preserved throughout the destruction and recreation of the MapView. It
-is safe to hold and use the MapViewBase object passed in
-onAttach(com.here.sdk.mapview.MapViewBase) until onDetach() or
-onDestroy() gets called. However, it is important that the listener does
-not hold a strong reference to an Activity , directly or indirectly (for
-example by holding a reference to a MapView . A component implementing
-this interface should interact with the map view only through the
-MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
-. A MapView is using a SurfaceView to render its content.
+Provides a mechanism for observing a lifecycle of a map view and/or implementing components whose lifecycle needs to be linked with that of a map view. A configuration change that results in Activity being recreated does not trigger an onDestroy() call. The listener will be preserved throughout the destruction and recreation of the MapView. It is safe to hold and use the MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase) until onDetach() or onDestroy() gets called. However, it is important that the listener does not hold a strong reference to an Activity , directly or indirectly (for example by holding a reference to a MapView . A component implementing this interface should interact with the map view only through the MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase) . A MapView is using a SurfaceView to render its content.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -150,8 +137,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="block">
 
-  Called when the map view to which this MapViewLifecycleListener is
-  attached to gets paused (usually when the app goes into background).
+  Called when the map view to which this MapViewLifecycleListener is attached to gets paused (usually when the app goes into background).
 
   </div>
 
@@ -173,8 +159,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
   <div class="block">
 
-  Called when the map view to which this MapViewLifecycleListener is
-  attached to gets resumed (usually when the app goes into foreground).
+  Called when the map view to which this MapViewLifecycleListener is attached to gets resumed (usually when the app goes into foreground).
 
   </div>
 
@@ -188,29 +173,21 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onAttach-com-here-sdk-mapview-MapViewBase"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onAttach-com-here-sdk-mapview-MapViewBase" class="section detail">
 
     ### onAttach
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onAttach</span><span class="parameters">(@NonNull
-    [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="return-type">void</span> <span class="element-name">onAttach</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
 
     </div>
 
     <div class="block">
 
-    Called when adding MapViewLifecycleListener to the map view. If the
-    map view does not have render target attached at the time of adding
-    the listener, then this method will be called later, after render
-    target is attached. This means that the map view it receives is
-    always fully initialized. Can be used to implement the logic to
-    create and add visual components to the map view.
+    Called when adding MapViewLifecycleListener to the map view. If the map view does not have render target attached at the time of adding the listener, then this method will be called later, after render target is attached. This means that the map view it receives is always fully initialized. Can be used to implement the logic to create and add visual components to the map view.
 
     </div>
 
@@ -221,23 +198,19 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     </div>
 
-  - <div id="sdk-for-android-explore-onDetach-com-here-sdk-mapview-MapViewBase"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onDetach-com-here-sdk-mapview-MapViewBase" class="section detail">
 
     ### onDetach
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDetach</span><span class="parameters">(@NonNull
-    [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="return-type">void</span> <span class="element-name">onDetach</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
 
     </div>
 
     <div class="block">
 
-    Called when removing MapViewLifecycleListener from the map view. Can
-    be used to implement the logic to remove visual components from the
-    map view and release resources if necessary.
+    Called when removing MapViewLifecycleListener from the map view. Can be used to implement the logic to remove visual components from the map view and release resources if necessary.
 
     </div>
 
@@ -260,10 +233,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     <div class="block">
 
-    Called when the map view to which this MapViewLifecycleListener is
-    attached to gets paused (usually when the app goes into background).
-    This should be used by components that perform continuous updates to
-    pause those updates until onResume() is called.
+    Called when the map view to which this MapViewLifecycleListener is attached to gets paused (usually when the app goes into background). This should be used by components that perform continuous updates to pause those updates until onResume() is called.
 
     </div>
 
@@ -281,11 +251,7 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     <div class="block">
 
-    Called when the map view to which this MapViewLifecycleListener is
-    attached to gets resumed (usually when the app goes into
-    foreground). This should be used by components that perform
-    continuous updates to resume those updates after a previous call to
-    onPause() .
+    Called when the map view to which this MapViewLifecycleListener is attached to gets resumed (usually when the app goes into foreground). This should be used by components that perform continuous updates to resume those updates after a previous call to onPause() .
 
     </div>
 
@@ -303,14 +269,13 @@ MapViewBase object passed in onAttach(com.here.sdk.mapview.MapViewBase)
 
     <div class="block">
 
-    Called when the map view to which this is attached to is destroyed.
-    After this is called, no other MapViewLifecycleListener method will
-    be invoked. This should be used to make sure all resources are
-    freed.
+    Called when the map view to which this is attached to is destroyed. After this is called, no other MapViewLifecycleListener method will be invoked. This should be used to make sure all resources are freed.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

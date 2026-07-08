@@ -3,6 +3,8 @@ title: "TransportSpecification.PedestrianBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,26 +17,18 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-ped
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.transport.TransportSpecification.PedestrianBuilder →
-com.here.NativeBase
-com.here.sdk.transport.TransportSpecification.PedestrianBuilder →
-com.here.sdk.transport.TransportSpecification.PedestrianBuilder
+java.lang.Object com.here.NativeBase com.here.sdk.transport.TransportSpecification.PedestrianBuilder → com.here.NativeBase com.here.sdk.transport.TransportSpecification.PedestrianBuilder → com.here.sdk.transport.TransportSpecification.PedestrianBuilder
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class
-</span><span class="element-name type-name-label">TransportSpecification.PedestrianBuilder</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.PedestrianBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
@@ -46,8 +40,7 @@ This class constructs a TransportSpecification for pedestrian.
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -89,8 +82,7 @@ This class constructs a TransportSpecification for pedestrian.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -130,9 +122,7 @@ This class constructs a TransportSpecification for pedestrian.
 
   <div class="block">
 
-  Builds the TransportSpecification object for a pedestrian profile with
-  the specifications taken from the
-  TransportSpecification.PedestrianBuilder object.
+  Builds the TransportSpecification object for a pedestrian profile with the specifications taken from the TransportSpecification.PedestrianBuilder object.
 
   </div>
 
@@ -166,44 +156,9 @@ This class constructs a TransportSpecification for pedestrian.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -211,8 +166,7 @@ This class constructs a TransportSpecification for pedestrian.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -234,19 +188,15 @@ This class constructs a TransportSpecification for pedestrian.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-withPedestrianSpecification-com-here-sdk-transport-PedestrianSpecification"
-    class="section detail">
+  - <div id="sdk-for-android-explore-withPedestrianSpecification-com-here-sdk-transport-PedestrianSpecification" class="section detail">
 
     ### withPedestrianSpecification
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.PedestrianBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withPedestrianSpecification</span><span class="parameters">(@NonNull
-    [PedestrianSpecification](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport") pedestrianSpecification)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.PedestrianBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withPedestrianSpecification</span><wbr></wbr><span class="parameters">(@NonNull [PedestrianSpecification](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport") pedestrianSpecification)</span>
 
     </div>
 
@@ -262,9 +212,7 @@ This class constructs a TransportSpecification for pedestrian.
     The pedestrian specification.
 
     Returns:  
-    The
-    [`TransportSpecification.PedestrianBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport")
-    object with the pedestrian specification set to the new value.
+    The [`TransportSpecification.PedestrianBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport") object with the pedestrian specification set to the new value.
 
     </div>
 
@@ -274,27 +222,22 @@ This class constructs a TransportSpecification for pedestrian.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
 
     </div>
 
     <div class="block">
 
-    Builds the TransportSpecification object for a pedestrian profile
-    with the specifications taken from the
-    TransportSpecification.PedestrianBuilder object.
+    Builds the TransportSpecification object for a pedestrian profile with the specifications taken from the TransportSpecification.PedestrianBuilder object.
 
     </div>
 
     Returns:  
-    The
-    [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
-    object created from the
-    [`TransportSpecification.PedestrianBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport")
-    object.
+    The [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport") object created from the [`TransportSpecification.PedestrianBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport") object.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

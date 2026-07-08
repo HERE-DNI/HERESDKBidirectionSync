@@ -3,6 +3,8 @@ title: "PickMapContentResult.TrafficIncidentResult (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,16 +17,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-traffic
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult →
-com.here.NativeBase
-com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult →
-com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult → com.here.NativeBase com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult → com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
 [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
@@ -36,27 +33,19 @@ Enclosing class:
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class
-</span><span class="element-name type-name-label">PickMapContentResult.TrafficIncidentResult</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")
-implements
-[TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">PickMapContentResult.TrafficIncidentResult</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")</span>
 
 </div>
 
 <div class="block">
 
-Carries the result of picking a Carto traffic incident object.
-Description of incident is currently not present in our map data, so
-TrafficIncidentBase.getDescription() always returns an empty string.
+Carries the result of picking a Carto traffic incident object. Description of incident is currently not present in our map data, so TrafficIncidentBase.getDescription() always returns an empty string.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -118,8 +107,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="block">
 
-  Gets the human readable description of the incident, possibly with
-  location information.
+  Gets the human readable description of the incident, possibly with location information.
 
   </div>
 
@@ -127,10 +115,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -144,8 +129,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="block">
 
-  Get the time until which the incident is valid, after this time the
-  incident should not be considered.
+  Get the time until which the incident is valid, after this time the incident should not be considered.
 
   </div>
 
@@ -175,10 +159,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -200,10 +181,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -217,8 +195,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="block">
 
-  Gets the time from which the incident is valid, before this time the
-  incident should not be considered.
+  Gets the time from which the incident is valid, before this time the incident should not be considered.
 
   </div>
 
@@ -252,44 +229,9 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -297,27 +239,21 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-getOriginalId"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getOriginalId" class="section detail">
 
     ### getOriginalId
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the unique traffic event ID. Can be referenced when checking
-    for updated traffic information for the specified event.
+    Gets the unique traffic event ID. Can be referenced when checking for updated traffic information for the specified event.
 
     </div>
 
@@ -326,15 +262,13 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getCoordinates" class="section detail">
 
     ### getCoordinates
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinates</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinates</span>()
 
     </div>
 
@@ -355,22 +289,18 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the impact of the incident. The value is
-    TrafficIncidentImpact.UNKNOWN if it hasn't been provided by the
-    traffic incidents supplier.
+    Gets the impact of the incident. The value is TrafficIncidentImpact.UNKNOWN if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Specified by:  
-    [`getImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getImpact()) in
-    interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    [`getImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getImpact()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
 
     Returns:  
     The impact of the incident.
@@ -383,89 +313,69 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the category of the incident. The value is
-    TrafficIncidentType.UNKNOWN if it hasn't been provided by the
-    traffic incidents supplier.
+    Gets the category of the incident. The value is TrafficIncidentType.UNKNOWN if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Specified by:  
-    [`getType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getType()) in
-    interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    [`getType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getType()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
 
     Returns:  
     The category of the incident.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getDescription"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getDescription" class="section detail">
 
     ### getDescription
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the human readable description of the incident, possibly with
-    location information. The description is currently not present in
-    our map data. Therefore, when accessing the data from a picked carto
-    POI via TrafficIncidentResult , then always an empty string is
-    returned. This does not apply when using the TrafficEngine .
+    Gets the human readable description of the incident, possibly with location information. The description is currently not present in our map data. Therefore, when accessing the data from a picked carto POI via TrafficIncidentResult , then always an empty string is returned. This does not apply when using the TrafficEngine .
 
     </div>
 
     Specified by:  
-    [`getDescription`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getDescription()) in
-    interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    [`getDescription`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getDescription()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
 
     Returns:  
-    The human readable description of the incident, possibly with
-    location information.
+    The human readable description of the incident, possibly with location information.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getStartTime"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getStartTime" class="section detail">
 
     ### getStartTime
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the time from which the incident is valid, before this time the
-    incident should not be considered. The value is null if it hasn't
-    been provided by the traffic incidents supplier.
+    Gets the time from which the incident is valid, before this time the incident should not be considered. The value is null if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Specified by:  
-    [`getStartTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getStartTime()) in
-    interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    [`getStartTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getStartTime()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
 
     Returns:  
-    The time from which the incident is valid, before this time the
-    incident should not be considered.
+    The time from which the incident is valid, before this time the incident should not be considered.
 
     </div>
 
@@ -475,30 +385,25 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 
     <div class="block">
 
-    Get the time until which the incident is valid, after this time the
-    incident should not be considered. The value is null if it hasn't
-    been provided by the traffic incidents supplier.
+    Get the time until which the incident is valid, after this time the incident should not be considered. The value is null if it hasn't been provided by the traffic incidents supplier.
 
     </div>
 
     Specified by:  
-    [`getEndTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getEndTime()) in
-    interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    [`getEndTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getEndTime()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
 
     Returns:  
-    The time until which the incident is valid, after this time the
-    incident should not be considered.
+    The time until which the incident is valid, after this time the incident should not be considered.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

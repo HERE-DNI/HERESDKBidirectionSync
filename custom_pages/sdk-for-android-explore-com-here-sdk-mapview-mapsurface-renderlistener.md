@@ -3,6 +3,8 @@ title: "MapSurface.RenderListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,31 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapSurface](sdk-for-android-explore-com-here-sdk-mapview-mapsurface "class in com.here.sdk.mapview")
 
 <div class="type-signature">
 
-<span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapSurface.RenderListener</span>
+<span class="modifiers">public static interface </span><span class="element-name type-name-label">MapSurface.RenderListener</span>
 
 </div>
 
 <div class="block">
 
-Listener of MapSurface render events. Note: This feature is in BETA
-state and thus there can be bugs and unexpected behavior. Related APIs
-may change for new releases without a deprecation process.
+Listener of MapSurface render events. Note: This feature is in BETA state and thus there can be bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -77,8 +74,7 @@ may change for new releases without a deprecation process.
 
   <div class="block">
 
-  Called after each frame is prepared for rendering, before presenting
-  it, from inside the render loop.
+  Called after each frame is prepared for rendering, before presenting it, from inside the render loop.
 
   </div>
 
@@ -114,11 +110,9 @@ may change for new releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onFramePrepared"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onFramePrepared" class="section detail">
 
     ### onFramePrepared
 
@@ -130,17 +124,13 @@ may change for new releases without a deprecation process.
 
     <div class="block">
 
-    Called after each frame is prepared for rendering, before presenting
-    it, from inside the render loop. Inside, custom rendering can be
-    performed. It is recommended that the execution to be kept to a
-    minimum as this can adversely affect the frame rendering time.
+    Called after each frame is prepared for rendering, before presenting it, from inside the render loop. Inside, custom rendering can be performed. It is recommended that the execution to be kept to a minimum as this can adversely affect the frame rendering time.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-onRenderTargetReleased"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onRenderTargetReleased" class="section detail">
 
     ### onRenderTargetReleased
 
@@ -152,12 +142,13 @@ may change for new releases without a deprecation process.
 
     <div class="block">
 
-    Called after the render target has been released. Inside, resources
-    associated with any custom rendering can be released.
+    Called after the render target has been released. Inside, resources associated with any custom rendering can be released.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

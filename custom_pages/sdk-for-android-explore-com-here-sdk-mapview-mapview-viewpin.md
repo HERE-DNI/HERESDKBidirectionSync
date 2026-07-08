@@ -3,6 +3,8 @@ title: "MapView.ViewPin (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,33 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
 
 <div class="type-signature">
 
-<span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapView.ViewPin</span>
+<span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.ViewPin</span>
 
 </div>
 
 <div class="block">
 
-A ViewPin is used to display Android views at a fixed location on the
-map. The pinned view will automatically be repositioned on the screen as
-the map moves. There is more performance overhead involved in
-positioning a pinned view as compared to a map marker, so for use cases
-which only require static images, markers should be used.
+A ViewPin is used to display Android views at a fixed location on the map. The pinned view will automatically be repositioned on the screen as the map moves. There is more performance overhead involved in positioning a pinned view as compared to a map marker, so for use cases which only require static images, markers should be used.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -181,8 +176,7 @@ which only require static images, markers should be used.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-unpin" class="section detail">
 
@@ -202,8 +196,7 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getGeoCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getGeoCoordinates" class="section detail">
 
     ### getGeoCoordinates
 
@@ -224,23 +217,19 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setGeoCoordinates-com-here-sdk-core-GeoCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setGeoCoordinates-com-here-sdk-core-GeoCoordinates" class="section detail">
 
     ### setGeoCoordinates
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><span class="parameters">(@NonNull
-    [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
+    <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the GeoCoordinates on the map. The altitude component of the
-    coordinates, if set, is interpreted as above sea level. When not
-    set, the coordinates are interpreted as at ground level.
+    Sets the GeoCoordinates on the map. The altitude component of the coordinates, if set, is interpreted as above sea level. When not set, the coordinates are interpreted as at ground level.
 
     </div>
 
@@ -249,37 +238,28 @@ which only require static images, markers should be used.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setAnchorPoint-com-here-sdk-core-Anchor2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setAnchorPoint-com-here-sdk-core-Anchor2D" class="section detail">
 
     ### setAnchorPoint
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><span class="parameters">(@NonNull
-    [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchorPoint)</span>
+    <span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchorPoint)</span>
 
     </div>
 
     <div class="block">
 
-    Sets an anchor point for this instance. The anchor value has valid
-    range from 0 to 1. Zero (0) for x and y means the view pin's upper
-    left corner is located at the geographical location, whereas one (1)
-    for x and y means that the pin will have its right bottom corner
-    attached to the geographical location instead. The default value
-    used is 0.5, 0.5, causing the view to be centered.
+    Sets an anchor point for this instance. The anchor value has valid range from 0 to 1. Zero (0) for x and y means the view pin's upper left corner is located at the geographical location, whereas one (1) for x and y means that the pin will have its right bottom corner attached to the geographical location instead. The default value used is 0.5, 0.5, causing the view to be centered.
 
     </div>
 
     Parameters:  
-    `anchorPoint` - A `Anchor2D` relative to the top-left corner of the
-    `ViewPin`.
+    `anchorPoint` - A `Anchor2D` relative to the top-left corner of the `ViewPin`.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getAnchorPoint"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getAnchorPoint" class="section detail">
 
     ### getAnchorPoint
 
@@ -296,10 +276,11 @@ which only require static images, markers should be used.
     </div>
 
     Returns:  
-    anchorPoint A `Anchor2D` relative to the top-left corner of the
-    ` ViewPin`.
+    anchorPoint A `Anchor2D` relative to the top-left corner of the ` ViewPin`.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

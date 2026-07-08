@@ -113,8 +113,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a task call has been
-  completed.
+  The method will be called on the main thread when a task call has been completed.
 
   </div>
 
@@ -146,8 +145,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="block">
 
-  Interface that should be implemented by any class whose instances are
-  intended to be executed by a thread.
+  Interface that should be implemented by any class whose instances are intended to be executed by a thread.
 
   </div>
 

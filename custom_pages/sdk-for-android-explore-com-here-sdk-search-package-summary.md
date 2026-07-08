@@ -103,8 +103,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Contains place details such as contacts, opening hours and some
-  electro vehicle info.
+  Contains place details such as contacts, opening hours and some electro vehicle info.
 
   </div>
 
@@ -200,8 +199,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Contains details of a specific place, such as contact information,
-  opening hours and assigned categories.
+  Contains details of a specific place, such as contact information, opening hours and assigned categories.
 
   </div>
 
@@ -233,8 +231,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  eMSP (e-Mobility Service Provider) for which the EV station operator
-  has EV roaming agreements.
+  eMSP (e-Mobility Service Provider) for which the EV station operator has EV roaming agreements.
 
   </div>
 
@@ -314,8 +311,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents environmental impacts category of the environmental impact
-  for energy mix.
+  Represents environmental impacts category of the environmental impact for energy mix.
 
   </div>
 
@@ -395,8 +391,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents a pairing of an EVSE and its connector(s) that belong to a
-  group.
+  Represents a pairing of an EVSE and its connector(s) that belong to a group.
 
   </div>
 
@@ -412,8 +407,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Duration of the charging session when the tariff element is valid, in
-  seconds.
+  Duration of the charging session when the tariff element is valid, in seconds.
 
   </div>
 
@@ -461,8 +455,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents the times when the EVSEs at the charging location can be
-  accessed for charging.
+  Represents the times when the EVSEs at the charging location can be accessed for charging.
 
   </div>
 
@@ -478,8 +471,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents exceptions to the regular opening hours schedule for EV
-  charging locations, such as special closures or extended hours.
+  Represents exceptions to the regular opening hours schedule for EV charging locations, such as special closures or extended hours.
 
   </div>
 
@@ -495,9 +487,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Opening hours schedule for EV charging locations, represented by a
-  list of days of the week during which the location is open in the
-  given time periods.
+  Opening hours schedule for EV charging locations, represented by a list of days of the week during which the location is open in the given time periods.
 
   </div>
 
@@ -513,8 +503,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents name and optionally other details about operator,
-  suboperator, or e-Mobility service provider.
+  Represents name and optionally other details about operator, suboperator, or e-Mobility service provider.
 
   </div>
 
@@ -530,8 +519,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  A charging pool for electric vehicles is an area equipped with one or
-  more charging stations.
+  A charging pool for electric vehicles is an area equipped with one or more charging stations.
 
   </div>
 
@@ -563,8 +551,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Group of connectors for electric vehicles (EVs), defined by a common
-  charging connector type and maximum power level.
+  Group of connectors for electric vehicles (EVs), defined by a common charging connector type and maximum power level.
 
   </div>
 
@@ -580,8 +567,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Tariffs provide detailed pricing information for charging electric
-  vehicles at a specific location.
+  Tariffs provide detailed pricing information for charging electric vehicles at a specific location.
 
   </div>
 
@@ -597,11 +583,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents the dimension the price component, which determines what is
-  being charged and how: time: Price per unit of time spent charging.
-  energy: Price per unit of energy consumed during charging. flat:
-  One-time fee charged per session. parking time: Price per unit of time
-  not charging but parked at the charger.
+  Represents the dimension the price component, which determines what is being charged and how: time: Price per unit of time spent charging. energy: Price per unit of energy consumed during charging. flat: One-time fee charged per session. parking time: Price per unit of time not charging but parked at the charger.
 
   </div>
 
@@ -633,8 +615,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Condition that the charging session needs to meet to apply the tariff
-  element.
+  Condition that the charging session needs to meet to apply the tariff element.
 
   </div>
 
@@ -666,8 +647,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents a search option to choose the eMSP or CPO whose tariff
-  should be included in the response.
+  Represents a search option to choose the eMSP or CPO whose tariff should be included in the response.
 
   </div>
 
@@ -699,8 +679,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents access restrictions for trucks and light commercial
-  vehicles.
+  Represents access restrictions for trucks and light commercial vehicles.
 
   </div>
 
@@ -716,8 +695,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents the category of the vehicle supported at the charging
-  point.
+  Represents the category of the vehicle supported at the charging point.
 
   </div>
 
@@ -733,9 +711,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Charge Point Operator (CPO) ID uses the Electric Vehicle Supply
-  Equipment ID (EVSE ID) for an exact identification of the charging
-  infrastructure and charging point.
+  Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EVSE ID) for an exact identification of the charging infrastructure and charging point.
 
   </div>
 
@@ -751,8 +727,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method that will be called on the main thread when a search
-  operation in EVSearchEngine has been completed.
+  The method that will be called on the main thread when a search operation in EVSearchEngine has been completed.
 
   </div>
 
@@ -768,8 +743,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The EVSearchEngine API provides detailed information about charging
-  locations.
+  The EVSearchEngine API provides detailed information about charging locations.
 
   </div>
 
@@ -817,8 +791,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Encapsulates additional options that control the behavior of
-  EVSearchEngine .
+  Encapsulates additional options that control the behavior of EVSearchEngine .
 
   </div>
 
@@ -946,8 +919,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  GeoPlace struct represents a location object: such as a country, a
-  city, a point of interest (POI) etc.
+  GeoPlace struct represents a location object: such as a country, a city, a point of interest (POI) etc.
 
   </div>
 
@@ -963,8 +935,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Specifies members of Suggestion class to which input query can be
-  matched.
+  Specifies members of Suggestion class to which input query can be matched.
 
   </div>
 
@@ -1076,8 +1047,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents a location object, such as a country, a city, a point of
-  interest (POI) etc.
+  Represents a location object, such as a country, a city, a point of interest (POI) etc.
 
   </div>
 
@@ -1189,8 +1159,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a search by id call
-  has been completed.
+  The method will be called on the main thread when a search by id call has been completed.
 
   </div>
 
@@ -1206,8 +1175,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a search by id call
-  has been completed.
+  The method will be called on the main thread when a search by id call has been completed.
 
   </div>
 
@@ -1223,8 +1191,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Represents and error, which occurs during place serialization and
-  deserialization routines.
+  Represents and error, which occurs during place serialization and deserialization routines.
 
   </div>
 
@@ -1304,8 +1271,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Structure holding various information received with response to a
-  query.
+  Structure holding various information received with response to a query.
 
   </div>
 
@@ -1321,8 +1287,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Encapsulates schedule details complying with the iCalendar
-  specification: https://tools.ietf.org/html/rfc5545.
+  Encapsulates schedule details complying with the iCalendar specification: https://tools.ietf.org/html/rfc5545.
 
   </div>
 
@@ -1338,8 +1303,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a search call has
-  been completed.
+  The method will be called on the main thread when a search call has been completed.
 
   </div>
 
@@ -1355,8 +1319,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a search call has
-  been completed.
+  The method will be called on the main thread when a search call has been completed.
 
   </div>
 
@@ -1372,9 +1335,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The SearchEngine API unlocks the search, geocoding and suggesting
-  capabilities of HERE services to provide developers with unmatched
-  flexibility to create differentiating location-enabled applications.
+  The SearchEngine API unlocks the search, geocoding and suggesting capabilities of HERE services to provide developers with unmatched flexibility to create differentiating location-enabled applications.
 
   </div>
 
@@ -1422,8 +1383,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Encapsulates options that control the behavior of search and suggest
-  operations.
+  Encapsulates options that control the behavior of search and suggest operations.
 
   </div>
 
@@ -1455,8 +1415,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Defines query address elements which will be used to build address
-  hierarchy during searches.
+  Defines query address elements which will be used to build address hierarchy during searches.
 
   </div>
 
@@ -1488,8 +1447,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a suggest call has
-  been completed.
+  The method will be called on the main thread when a suggest call has been completed.
 
   </div>
 
@@ -1505,8 +1463,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  The method will be called on the main thread when a suggest call has
-  been completed.
+  The method will be called on the main thread when a suggest call has been completed.
 
   </div>
 
@@ -1522,8 +1479,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Suggestion is meant to provide relevant suggestions to partial
-  queries, like "restaur", "starbu", "eiffel".
+  Suggestion is meant to provide relevant suggestions to partial queries, like "restaur", "starbu", "eiffel".
 
   </div>
 
@@ -1619,9 +1575,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Truck amenities struct, represents availability (true/false) for each
-  feature, except shower_count - number of showers, if data is
-  available.
+  Truck amenities struct, represents availability (true/false) for each feature, except shower_count - number of showers, if data is available.
 
   </div>
 
@@ -1653,8 +1607,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Contains information about images, editorials, rating and a urls to
-  them.
+  Contains information about images, editorials, rating and a urls to them.
 
   </div>
 
@@ -1734,8 +1687,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="block">
 
-  Contains information about provider of the item and a direct link to
-  the item.
+  Contains information about provider of the item and a direct link to the item.
 
   </div>
 

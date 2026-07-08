@@ -3,6 +3,8 @@ title: "DynamicSpeedInfo (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,21 +17,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.DynamicSpeedInfo →
-com.here.sdk.routing.DynamicSpeedInfo
+java.lang.Object com.here.sdk.routing.DynamicSpeedInfo → com.here.sdk.routing.DynamicSpeedInfo
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">DynamicSpeedInfo</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">DynamicSpeedInfo</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -41,8 +37,7 @@ Provides estimated speed information.
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -78,9 +73,7 @@ Provides estimated speed information.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond"
-  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond" class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a>
 
   </div>
 
@@ -88,8 +81,7 @@ Provides estimated speed information.
 
   <div class="block">
 
-  The speed in meters per second without taking traffic into
-  consideration.
+  The speed in meters per second without taking traffic into consideration.
 
   </div>
 
@@ -103,9 +95,7 @@ Provides estimated speed information.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond"
-  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond" class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a>
 
   </div>
 
@@ -127,9 +117,7 @@ Provides estimated speed information.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds"
-  class="member-name-link"><code>turnTimeInSeconds</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds" class="member-name-link"><code>turnTimeInSeconds</code></a>
 
   </div>
 
@@ -147,8 +135,7 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -192,8 +179,7 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -233,8 +219,7 @@ Provides estimated speed information.
 
   <div class="block">
 
-  Calculates the traffic jam factor that shows the traffic condition in
-  a numeric way.
+  Calculates the traffic jam factor that shows the traffic condition in a numeric way.
 
   </div>
 
@@ -282,38 +267,9 @@ Provides estimated speed information.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -321,11 +277,9 @@ Provides estimated speed information.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
-  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
-    class="section detail">
+  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond" class="section detail">
 
     ### baseSpeedInMetersPerSecond
 
@@ -337,15 +291,13 @@ Provides estimated speed information.
 
     <div class="block">
 
-    The speed in meters per second without taking traffic into
-    consideration.
+    The speed in meters per second without taking traffic into consideration.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond"
-    class="section detail">
+  - <div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond" class="section detail">
 
     ### trafficSpeedInMetersPerSecond
 
@@ -363,8 +315,7 @@ Provides estimated speed information.
 
     </div>
 
-  - <div id="sdk-for-android-explore-turnTimeInSeconds"
-    class="section detail">
+  - <div id="sdk-for-android-explore-turnTimeInSeconds" class="section detail">
 
     ### turnTimeInSeconds
 
@@ -384,18 +335,15 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-double-double-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-double-double-int" class="section detail">
 
     ### DynamicSpeedInfo
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DynamicSpeedInfo</span><span class="parameters">(double baseSpeedInMetersPerSecond,
-    double trafficSpeedInMetersPerSecond, int turnTimeInSeconds)</span>
+    <span class="modifiers">public</span> <span class="element-name">DynamicSpeedInfo</span><wbr></wbr><span class="parameters">(double baseSpeedInMetersPerSecond, double trafficSpeedInMetersPerSecond, int turnTimeInSeconds)</span>
 
     </div>
 
@@ -408,8 +356,7 @@ Provides estimated speed information.
     Parameters:  
     `baseSpeedInMetersPerSecond` -
 
-    The speed in meters per second without taking traffic into
-    consideration.
+    The speed in meters per second without taking traffic into consideration.
 
     `trafficSpeedInMetersPerSecond` -
 
@@ -423,31 +370,20 @@ Provides estimated speed information.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -462,19 +398,11 @@ Provides estimated speed information.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
-  - <div id="sdk-for-android-explore-calculateJamFactor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-calculateJamFactor" class="section detail">
 
     ### calculateJamFactor
 
@@ -486,17 +414,16 @@ Provides estimated speed information.
 
     <div class="block">
 
-    Calculates the traffic jam factor that shows the traffic condition
-    in a numeric way.
+    Calculates the traffic jam factor that shows the traffic condition in a numeric way.
 
     </div>
 
     Returns:  
-    Returns calculated jam factor in the range \[0.0, 10.0\]. A large
-    jamFactor value means more traffic jam in general. Specifically, 0.0
-    means free traffic and 10.0 means stationary traffic.
+    Returns calculated jam factor in the range \[0.0, 10.0\]. A large jamFactor value means more traffic jam in general. Specifically, 0.0 means free traffic and 10.0 means stationary traffic.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

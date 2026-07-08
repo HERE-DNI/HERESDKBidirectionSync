@@ -113,8 +113,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Represents a point in a rectangle as a ratio of this rectangle's width
-  and height.
+  Represents a point in a rectangle as a ratio of this rectangle's width and height.
 
   </div>
 
@@ -146,8 +145,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Represents angle ranges as a circular sector by using an absolute
-  start angle and a relative range angle called extent.
+  Represents angle ranges as a circular sector by using an absolute start angle and a relative range angle called extent.
 
   </div>
 
@@ -163,8 +161,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Use the authentication class to authenticate and retrieve a secure
-  token that can be used with other HERE services.
+  Use the authentication class to authenticate and retrieve a secure token that can be used with other HERE services.
 
   </div>
 
@@ -292,8 +289,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  This enum represents country codes in accordance with the ISO 3166-1
-  standard using alpha-3 codes.
+  This enum represents country codes in accordance with the ISO 3166-1 standard using alpha-3 codes.
 
   </div>
 
@@ -421,8 +417,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  A geographical area that wraps around a geographical polyline with a
-  given distance.
+  A geographical area that wraps around a geographical polyline with a given distance.
 
   </div>
 
@@ -470,8 +465,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Represents a GeoPolygon area as a series of geographic coordinates,
-  and optionally, a list of inner boundaries (also known as holes).
+  Represents a GeoPolygon area as a series of geographic coordinates, and optionally, a list of inner boundaries (also known as holes).
 
   </div>
 
@@ -487,8 +481,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  A list of geographic coordinates representing the vertices of a
-  polyline.
+  A list of geographic coordinates representing the vertices of a polyline.
 
   </div>
 
@@ -504,8 +497,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Defines if a function on a GeoPolyline computes the operation starting
-  from the beginning or from the end of GeoPolyline.vertices .
+  Defines if a function on a GeoPolyline computes the operation starting from the beginning or from the end of GeoPolyline.vertices .
 
   </div>
 
@@ -521,8 +513,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  An integer range \[min, max\] with inclusive minimum and maximum
-  value.
+  An integer range \[min, max\] with inclusive minimum and maximum value.
 
   </div>
 
@@ -570,8 +561,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  The list of multiple names or titles for the same entity, possibly in
-  different languages.
+  The list of multiple names or titles for the same entity, possibly in different languages.
 
   </div>
 
@@ -603,8 +593,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  This interface should be implemented in order to receive notifications
-  about location updates.
+  This interface should be implemented in order to receive notifications about location updates.
 
   </div>
 
@@ -652,8 +641,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  This struct presents all the time data tied to a location, like an
-  arrival or departure time.
+  This struct presents all the time data tied to a location, like an arrival or departure time.
 
   </div>
 
@@ -685,8 +673,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Different types of objects that can be stored in a Metadata class
-  instance.
+  Different types of objects that can be stored in a Metadata class instance.
 
   </div>
 
@@ -815,10 +802,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  The method will be called on the main thread when
-  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-  com.here.sdk.core.PolylineSimplifier.Options,
-  com.here.sdk.core.PolylineSimplificationCallback) is finished.
+  The method will be called on the main thread when PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
   </div>
 
@@ -834,10 +818,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Error code which specifies, what went wrong during
-  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-  com.here.sdk.core.PolylineSimplifier.Options,
-  com.here.sdk.core.PolylineSimplificationCallback) operation.
+  Error code which specifies, what went wrong during PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) operation.
 
   </div>
 
@@ -853,9 +834,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  PolylineSimplifier helps to reduce the number of points in the
-  polyline by removing redundant elements using Douglas–Peucker
-  algorithm, so that result stays within PolylineSimplifier.Options .
+  PolylineSimplifier helps to reduce the number of points in the polyline by removing redundant elements using Douglas–Peucker algorithm, so that result stays within PolylineSimplifier.Options .
 
   </div>
 
@@ -871,11 +850,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Controls the strategy of
-  PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>,
-  com.here.sdk.core.PolylineSimplifier.Options,
-  com.here.sdk.core.PolylineSimplificationCallback) when reducing a size
-  of polyline.
+  Controls the strategy of PolylineSimplifier.simplify(java.util.List\<com.here.sdk.core.GeoCoordinates\>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback) when reducing a size of polyline.
 
   </div>
 
@@ -971,8 +946,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="block">
 
-  Used to indicate a time period of one or more intervals in GDF
-  specification.
+  Used to indicate a time period of one or more intervals in GDF specification.
 
   </div>
 

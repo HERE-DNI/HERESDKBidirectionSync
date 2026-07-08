@@ -3,6 +3,8 @@ title: "DataAttributeValue (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,38 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase
-com.here.sdk.mapview.datasource.DataAttributeValue → com.here.NativeBase
-com.here.sdk.mapview.datasource.DataAttributeValue →
-com.here.sdk.mapview.datasource.DataAttributeValue
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.DataAttributeValue → com.here.NativeBase com.here.sdk.mapview.datasource.DataAttributeValue → com.here.sdk.mapview.datasource.DataAttributeValue
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">DataAttributeValue</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributeValue</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-Encapsulates a data attribute value. Supports basic types and arrays of
-basic types. Note: This is a beta release of this feature, so there
-could be a few bugs and unexpected behavior. Related APIs may change for
-new releases without a deprecation process.
+Encapsulates a data attribute value. Supports basic types and arrays of basic types. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-nested-class-summary"
-  class="section nested-class-summary">
+- <div id="sdk-for-android-explore-nested-class-summary" class="section nested-class-summary">
 
   <div class="caption">
 
@@ -82,10 +73,7 @@ new releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" class="type-name-link" title="enum class in com.here.sdk.mapview.datasource"><code>DataAttributeValue.ValueType</code></a>
 
   </div>
 
@@ -103,8 +91,7 @@ new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -242,8 +229,7 @@ new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -269,10 +255,7 @@ new releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")`>`
 
   </div>
 
@@ -294,10 +277,7 @@ new releases without a deprecation process.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -319,10 +299,7 @@ new releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Boolean</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" class="external-link" title="class or interface in java.lang"><code>Boolean</code></a>
 
   </div>
 
@@ -366,10 +343,7 @@ new releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
@@ -383,8 +357,7 @@ new releases without a deprecation process.
 
   <div class="block">
 
-  Gets the double precision floating decimal value or null if the type
-  doesn't match.
+  Gets the double precision floating decimal value or null if the type doesn't match.
 
   </div>
 
@@ -392,10 +365,7 @@ new releases without a deprecation process.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Float</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html" class="external-link" title="class or interface in java.lang"><code>Float</code></a>
 
   </div>
 
@@ -409,8 +379,7 @@ new releases without a deprecation process.
 
   <div class="block">
 
-  Gets the single precision floating decimal value or null if the type
-  doesn't match.
+  Gets the single precision floating decimal value or null if the type doesn't match.
 
   </div>
 
@@ -418,10 +387,7 @@ new releases without a deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Long</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang"><code>Long</code></a>
 
   </div>
 
@@ -443,10 +409,7 @@ new releases without a deprecation process.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -494,44 +457,9 @@ new releases without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -539,20 +467,15 @@ new releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String" class="section detail">
 
     ### DataAttributeValue
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -575,7 +498,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(long value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(long value)</span>
 
     </div>
 
@@ -598,7 +521,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(float value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(float value)</span>
 
     </div>
 
@@ -615,14 +538,13 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-double" class="section detail">
 
     ### DataAttributeValue
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(double value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(double value)</span>
 
     </div>
 
@@ -639,14 +561,13 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-boolean"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-boolean" class="section detail">
 
     ### DataAttributeValue
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(boolean value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(boolean value)</span>
 
     </div>
 
@@ -663,15 +584,13 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Color"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-Color" class="section detail">
 
     ### DataAttributeValue
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(@NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
 
     </div>
 
@@ -688,17 +607,13 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-util-List" class="section detail">
 
     ### DataAttributeValue
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\> value)</span>
+    <span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\> value)</span>
 
     </div>
 
@@ -717,8 +632,7 @@ new releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-getType" class="section detail">
 
@@ -726,8 +640,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[DataAttributeValue.ValueType](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributeValue.ValueType](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getType</span>()
 
     </div>
 
@@ -748,10 +661,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getString</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getString</span>()
 
     </div>
 
@@ -772,10 +682,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html"
-    class="external-link" title="class or interface in java.lang">Long</a></span> <span class="element-name">getInt64</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a></span> <span class="element-name">getInt64</span>()
 
     </div>
 
@@ -796,17 +703,13 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html"
-    class="external-link" title="class or interface in java.lang">Float</a></span> <span class="element-name">getFloat</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Float.html" class="external-link" title="class or interface in java.lang">Float</a></span> <span class="element-name">getFloat</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the single precision floating decimal value or null if the type
-    doesn't match.
+    Gets the single precision floating decimal value or null if the type doesn't match.
 
     </div>
 
@@ -821,17 +724,13 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getDouble</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getDouble</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the double precision floating decimal value or null if the type
-    doesn't match.
+    Gets the double precision floating decimal value or null if the type doesn't match.
 
     </div>
 
@@ -846,11 +745,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html"
-    class="external-link"
-    title="class or interface in java.lang">Boolean</a></span> <span class="element-name">getBoolean</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" class="external-link" title="class or interface in java.lang">Boolean</a></span> <span class="element-name">getBoolean</span>()
 
     </div>
 
@@ -871,8 +766,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getColor</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getColor</span>()
 
     </div>
 
@@ -893,10 +787,7 @@ new releases without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\></span> <span class="element-name">getArray</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")\></span> <span class="element-name">getArray</span>()
 
     </div>
 
@@ -911,17 +802,13 @@ new releases without a deprecation process.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getAsString"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getAsString" class="section detail">
 
     ### getAsString
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getAsString</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getAsString</span>()
 
     </div>
 
@@ -937,4 +824,6 @@ new releases without a deprecation process.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

@@ -9,8 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 
 <div class="package-signature">
 
-package
-<span class="element-name">com.here.sdk.mapview.datasource</span>
+package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
 </div>
 
@@ -190,8 +189,7 @@ package
 
   <div class="block">
 
-  Line data accessor used for manipulating polylines that are part of a
-  LineDataSource.
+  Line data accessor used for manipulating polylines that are part of a LineDataSource.
 
   </div>
 
@@ -223,8 +221,7 @@ package
 
   <div class="block">
 
-  Polyline data source allows the rendering engine access to the user
-  provided polylines geometry and their attributes.
+  Polyline data source allows the rendering engine access to the user provided polylines geometry and their attributes.
 
   </div>
 
@@ -240,8 +237,7 @@ package
 
   <div class="block">
 
-  Called for each line, allowing inspection, removal or update of
-  coordinates and attributes.
+  Called for each line, allowing inspection, removal or update of coordinates and attributes.
 
   </div>
 
@@ -273,9 +269,7 @@ package
 
   <div class="block">
 
-  Line tile data source allows the rendering engine access to user
-  managed data sets of geodetic lines and their attributes through a
-  LineTileSource .
+  Line tile data source allows the rendering engine access to user managed data sets of geodetic lines and their attributes through a LineTileSource .
 
   </div>
 
@@ -339,8 +333,7 @@ package
 
   <div class="block">
 
-  Point data accessor used for manipulating points that are part of a
-  PointDataSource.
+  Point data accessor used for manipulating points that are part of a PointDataSource.
 
   </div>
 
@@ -372,8 +365,7 @@ package
 
   <div class="block">
 
-  Point data source allows the rendering engine access to the user
-  provided geographical locations and their attributes.
+  Point data source allows the rendering engine access to the user provided geographical locations and their attributes.
 
   </div>
 
@@ -389,8 +381,7 @@ package
 
   <div class="block">
 
-  Called for each point, allowing inspection, removal or update of
-  coordinates and attributes.
+  Called for each point, allowing inspection, removal or update of coordinates and attributes.
 
   </div>
 
@@ -422,9 +413,7 @@ package
 
   <div class="block">
 
-  Point tile data source allows the rendering engine access to user
-  managed data sets of geographical locations and their attributes
-  through a PointTileSource .
+  Point tile data source allows the rendering engine access to user managed data sets of geographical locations and their attributes through a PointTileSource .
 
   </div>
 
@@ -488,8 +477,7 @@ package
 
   <div class="block">
 
-  Polygon data accessor used for manipulating polygons that are part of
-  a PolygonDataSource.
+  Polygon data accessor used for manipulating polygons that are part of a PolygonDataSource.
 
   </div>
 
@@ -521,8 +509,7 @@ package
 
   <div class="block">
 
-  Polygon data source allows the rendering engine access to the user
-  provided polygons geometry and their attributes.
+  Polygon data source allows the rendering engine access to the user provided polygons geometry and their attributes.
 
   </div>
 
@@ -538,8 +525,7 @@ package
 
   <div class="block">
 
-  Called for each polygon, allowing inspection, removal or update of
-  coordinates and attributes.
+  Called for each polygon, allowing inspection, removal or update of coordinates and attributes.
 
   </div>
 
@@ -571,9 +557,7 @@ package
 
   <div class="block">
 
-  Polygon tile data source allows the rendering engine access to user
-  managed data sets of geodetic polygons and their attributes through a
-  PolygonTileSource .
+  Polygon tile data source allows the rendering engine access to user managed data sets of geodetic polygons and their attributes through a PolygonTileSource .
 
   </div>
 
@@ -637,8 +621,7 @@ package
 
   <div class="block">
 
-  Called on the main thread after fromJsonFile() method finishes loading
-  the configuration.
+  Called on the main thread after fromJsonFile() method finishes loading the configuration.
 
   </div>
 
@@ -766,8 +749,7 @@ package
 
   <div class="block">
 
-  A calculator of geodetic bounds for tiles identified by keys generated
-  in a particular tiling scheme ( TilingScheme ).
+  A calculator of geodetic bounds for tiles identified by keys generated in a particular tiling scheme ( TilingScheme ).
 
   </div>
 
@@ -879,8 +861,7 @@ package
 
   <div class="block">
 
-  Provides the URL as String for the given tile coordinates and storage
-  level.
+  Provides the URL as String for the given tile coordinates and storage level.
 
   </div>
 
@@ -896,8 +877,7 @@ package
 
   <div class="block">
 
-  Factory for generating a TileUrlProviderCallback utilized in creating
-  a tile URL.
+  Factory for generating a TileUrlProviderCallback utilized in creating a tile URL.
 
   </div>
 

@@ -3,6 +3,8 @@ title: "TwoFingerPanListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,28 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">TwoFingerPanListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TwoFingerPanListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling two finger pan gestures. Two finger pan gesture
-occurs when two fingers are on the screen and both of them are moving
-vertically.
+Interface for handling two finger pan gestures. Two finger pan gesture occurs when two fingers are on the screen and both of them are moving vertically.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -89,23 +86,15 @@ vertically.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onTwoFingerPan-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onTwoFingerPan-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double" class="section detail">
 
     ### onTwoFingerPan
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTwoFingerPan</span><span class="parameters">(@NonNull
-    [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") translation,
-    double velocity)</span>
+    <span class="return-type">void</span> <span class="element-name">onTwoFingerPan</span><wbr></wbr><span class="parameters">(@NonNull [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") translation, double velocity)</span>
 
     </div>
 
@@ -122,8 +111,7 @@ vertically.
 
     `origin` -
 
-    Position halfway between two touch points relative to the MapView in
-    pixels.
+    Position halfway between two touch points relative to the MapView in pixels.
 
     `translation` -
 
@@ -136,4 +124,6 @@ vertically.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

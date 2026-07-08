@@ -141,9 +141,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  This provider creates icons from a given set of parameters for map
-  content and constraints for icon dimensions for a particular map
-  scheme.
+  This provider creates icons from a given set of parameters for map content and constraints for icon dimensions for a particular map scheme.
 
   </div>
 
@@ -159,8 +157,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Interface which is used as callback to pass back an image or error
-  code after calling the createRoadShieldIcon() method.
+  Interface which is used as callback to pass back an image or error code after calling the createRoadShieldIcon() method.
 
   </div>
 
@@ -320,8 +317,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  The predefined styles for the location indicator which are pedestrian
-  and navigation mode.
+  The predefined styles for the location indicator which are pedestrian and navigation mode.
 
   </div>
 
@@ -449,8 +445,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Describes a reason for failing to create a multi-track
-  MapCameraAnimation .
+  Describes a reason for failing to create a multi-track MapCameraAnimation .
 
   </div>
 
@@ -466,8 +461,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create a multi-track
-  MapCameraAnimation .
+  Thrown when a problem occurs while trying to create a multi-track MapCameraAnimation .
 
   </div>
 
@@ -483,8 +477,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Factory for creating MapCameraAnimation objects to change map's camera
-  over time.
+  Factory for creating MapCameraAnimation objects to change map's camera over time.
 
   </div>
 
@@ -500,8 +493,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Stores keyframes for interpolation of a camera property using a
-  specific easing function and interpolation mode.
+  Stores keyframes for interpolation of a camera property using a specific easing function and interpolation mode.
 
   </div>
 
@@ -533,8 +525,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create
-  MapCameraKeyframeTrack .
+  Thrown when a problem occurs while trying to create MapCameraKeyframeTrack .
 
   </div>
 
@@ -566,8 +557,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Interface for objects that want to get updates whenever the map is
-  redrawn after camera parameters change.
+  Interface for objects that want to get updates whenever the map is redrawn after camera parameters change.
 
   </div>
 
@@ -615,8 +605,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create a MapCameraUpdate
-  .
+  Thrown when a problem occurs while trying to create a MapCameraUpdate .
 
   </div>
 
@@ -664,8 +653,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Provides settings regarding map data which are applied globally to all
-  map views.
+  Provides settings regarding map data which are applied globally to all map views.
 
   </div>
 
@@ -729,8 +717,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  MapContext is the rendering engine and the context in which virtual
-  geographic maps get rendered.
+  MapContext is the rendering engine and the context in which virtual geographic maps get rendered.
 
   </div>
 
@@ -826,8 +813,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Types of system resources used by MapContext or any of the entities
-  attached to it, like HereMap .
+  Types of system resources used by MapContext or any of the entities attached to it, like HereMap .
 
   </div>
 
@@ -859,8 +845,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents various errors that could occur from map related
-  operations.
+  Represents various errors that could occur from map related operations.
 
   </div>
 
@@ -876,9 +861,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Holds constants for map feature modes, to be used with
-  MapScene.enableFeatures(java.util.Map\<java.lang.String,
-  java.lang.String\>) .
+  Holds constants for map feature modes, to be used with MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) .
 
   </div>
 
@@ -894,10 +877,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Holds constants for map features, to be used with
-  MapScene.enableFeatures(java.util.Map\<java.lang.String,
-  java.lang.String\>) and
-  MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
+  Holds constants for map features, to be used with MapScene.enableFeatures(java.util.Map\<java.lang.String, java.lang.String\>) and MapScene.disableFeatures(java.util.List\<java.lang.String\>) .
 
   </div>
 
@@ -929,8 +909,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a drawable resource that can be used by a MapMarker ,
-  MapMarker3D or MapImageOverlay to be shown on the map.
+  Represents a drawable resource that can be used by a MapMarker , MapMarker3D or MapImageOverlay to be shown on the map.
 
   </div>
 
@@ -946,8 +925,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Convenience factory class for loading marker resources from various
-  sources.
+  Convenience factory class for loading marker resources from various sources.
 
   </div>
 
@@ -963,8 +941,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  MapImageOverlay is used to draw images over the map, at a view
-  coordinate inside the map viewport.
+  MapImageOverlay is used to draw images over the map, at a view coordinate inside the map viewport.
 
   </div>
 
@@ -1012,9 +989,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  MapLayerBuilder is used to add layers to a map to visualise a dataset
-  in a programmatic way without defining it upfront in the configuration
-  files.
+  MapLayerBuilder is used to add layers to a map to visualise a dataset in a programmatic way without defining it upfront in the configuration files.
 
   </div>
 
@@ -1078,8 +1053,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Provides a mapping between a MapLayer map measure to datasource
-  storage level.
+  Provides a mapping between a MapLayer map measure to datasource storage level.
 
   </div>
 
@@ -1111,9 +1085,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  MapLayerPriorityBuilder is an interface used to define the rendering
-  priority of a layer and its categories, relative to other layers or
-  layer-category pairs.
+  MapLayerPriorityBuilder is an interface used to define the rendering priority of a layer and its categories, relative to other layers or layer-category pairs.
 
   </div>
 
@@ -1145,8 +1117,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  MapMarker is used to draw images on the map, for example to mark a
-  specific location.
+  MapMarker is used to draw images on the map, for example to mark a specific location.
 
   </div>
 
@@ -1194,8 +1165,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create a
-  MapMarker.TextStyle instance.
+  Thrown when a problem occurs while trying to create a MapMarker.TextStyle instance.
 
   </div>
 
@@ -1227,8 +1197,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a 3D shape drawn on the map at specified geodetic
-  coordinates.
+  Represents a 3D shape drawn on the map at specified geodetic coordinates.
 
   </div>
 
@@ -1244,8 +1213,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a 3D model that can be used by a MapMarker3D to be shown on
-  the map.
+  Represents a 3D model that can be used by a MapMarker3D to be shown on the map.
 
   </div>
 
@@ -1293,8 +1261,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Groups map markers and enables their clustering to reduce visual
-  clutter when there are many of them in a small area.
+  Groups map markers and enables their clustering to reduce visual clutter when there are many of them in a small area.
 
   </div>
 
@@ -1310,8 +1277,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Styling options for a marker cluster which is represented by the
-  marker count as a text.
+  Styling options for a marker cluster which is represented by the marker count as a text.
 
   </div>
 
@@ -1407,8 +1373,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Describes a reason for failing to create a
-  MapMeasureDependentRenderSize .
+  Describes a reason for failing to create a MapMeasureDependentRenderSize .
 
   </div>
 
@@ -1424,8 +1389,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create
-  MapMeasureDependentRenderSize .
+  Thrown when a problem occurs while trying to create MapMeasureDependentRenderSize .
 
   </div>
 
@@ -1521,8 +1485,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a dash pattern for the map polyline consisting of images
-  rendered with certain gaps from each other.
+  Represents a dash pattern for the map polyline consisting of images rendered with certain gaps from each other.
 
   </div>
 
@@ -1538,8 +1501,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a dash pattern for map polyline where the dash can be
-  rendered as a colored line and the gap can be either empty or colored.
+  Represents a dash pattern for map polyline where the dash can be rendered as a colored line and the gap can be either empty or colored.
 
   </div>
 
@@ -1571,8 +1533,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Describes a reason for failing to create a MapPolyline.Representation
-  .
+  Describes a reason for failing to create a MapPolyline.Representation .
 
   </div>
 
@@ -1588,8 +1549,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Thrown when a problem occurs while trying to create
-  MapPolyline.Representation .
+  Thrown when a problem occurs while trying to create MapPolyline.Representation .
 
   </div>
 
@@ -1605,8 +1565,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Representation allows map polyline to be colored in multiple specified
-  color segments.
+  Representation allows map polyline to be colored in multiple specified color segments.
 
   </div>
 
@@ -1670,8 +1629,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Represents a map scene and exposes the functionality to manipulate its
-  content.
+  Represents a map scene and exposes the functionality to manipulate its content.
 
   </div>
 
@@ -1687,8 +1645,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Called on the main thread after loadScene() method finishes loading
-  the scene.
+  Called on the main thread after loadScene() method finishes loading the scene.
 
   </div>
 
@@ -1752,8 +1709,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  This callback function allows handling errors that occur during the
-  setting of light attributes.
+  This callback function allows handling errors that occur during the setting of light attributes.
 
   </div>
 
@@ -1769,8 +1725,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Error enum indicating reasons for failure when setting light
-  attributes.
+  Error enum indicating reasons for failure when setting light attributes.
 
   </div>
 
@@ -1786,8 +1741,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  The scene uses three categories of lighting which are: Main light,
-  Back light and Rim light.
+  The scene uses three categories of lighting which are: Main light, Back light and Rim light.
 
   </div>
 
@@ -1915,8 +1869,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Provides the ability to render a map into a provided rendering
-  surface.
+  Provides the ability to render a map into a provided rendering surface.
 
   </div>
 
@@ -1964,9 +1917,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Listener that gets notified when MapView is fully initialized and
-  ready to handle all operations, which means that map scene is loaded
-  and drawing surface is ready to render a map.
+  Listener that gets notified when MapView is fully initialized and ready to handle all operations, which means that map scene is loaded and drawing surface is ready to render a map.
 
   </div>
 
@@ -1998,8 +1949,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  A ViewPin is used to display Android views at a fixed location on the
-  map.
+  A ViewPin is used to display Android views at a fixed location on the map.
 
   </div>
 
@@ -2047,9 +1997,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Provides a mechanism for observing a lifecycle of a map view and/or
-  implementing components whose lifecycle needs to be linked with that
-  of a map view.
+  Provides a mechanism for observing a lifecycle of a map view and/or implementing components whose lifecycle needs to be linked with that of a map view.
 
   </div>
 
@@ -2081,8 +2029,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  Material reflectivity properties are used to enable per‑pixel lighting
-  for supported map objects (e.g.
+  Material reflectivity properties are used to enable per‑pixel lighting for supported map objects (e.g.
 
   </div>
 
@@ -2130,8 +2077,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  A class that contains possible results from picking map content on the
-  map scene.
+  A class that contains possible results from picking map content on the map scene.
 
   </div>
 
@@ -2275,8 +2221,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="block">
 
-  A translucent layer group that can be the target for
-  MapLayerPriorityBuilder.inGroup(java.lang.String) .
+  A translucent layer group that can be the target for MapLayerPriorityBuilder.inGroup(java.lang.String) .
 
   </div>
 

@@ -3,6 +3,8 @@ title: "SDKVersion (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkversion"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,37 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkversion"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.core.engine.SDKVersion →
-com.here.sdk.core.engine.SDKVersion
+java.lang.Object com.here.sdk.core.engine.SDKVersion → com.here.sdk.core.engine.SDKVersion
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">SDKVersion</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKVersion</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-The SDKVersion represents version information for an SDK product. It
-encapsulates various attributes related to the version, including
-product variant, version details and backend configuration. Please note,
-sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
+The SDKVersion represents version information for an SDK product. It encapsulates various attributes related to the version, including product variant, version details and backend configuration. Please note, sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -75,18 +67,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#backendConfig"
-  class="member-name-link"><code>backendConfig</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#backendConfig" class="member-name-link"><code>backendConfig</code></a>
 
   </div>
 
@@ -102,18 +89,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#productVariant"
-  class="member-name-link"><code>productVariant</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#productVariant" class="member-name-link"><code>productVariant</code></a>
 
   </div>
 
@@ -135,9 +117,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionBuild"
-  class="member-name-link"><code>versionBuild</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionBuild" class="member-name-link"><code>versionBuild</code></a>
 
   </div>
 
@@ -159,9 +139,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionGeneration"
-  class="member-name-link"><code>versionGeneration</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionGeneration" class="member-name-link"><code>versionGeneration</code></a>
 
   </div>
 
@@ -183,9 +161,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMajor"
-  class="member-name-link"><code>versionMajor</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMajor" class="member-name-link"><code>versionMajor</code></a>
 
   </div>
 
@@ -207,9 +183,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMinor"
-  class="member-name-link"><code>versionMinor</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionMinor" class="member-name-link"><code>versionMinor</code></a>
 
   </div>
 
@@ -225,18 +199,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionName"
-  class="member-name-link"><code>versionName</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionName" class="member-name-link"><code>versionName</code></a>
 
   </div>
 
@@ -258,9 +227,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionPatch"
-  class="member-name-link"><code>versionPatch</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionPatch" class="member-name-link"><code>versionPatch</code></a>
 
   </div>
 
@@ -276,18 +243,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionTag"
-  class="member-name-link"><code>versionTag</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion#versionTag" class="member-name-link"><code>versionTag</code></a>
 
   </div>
 
@@ -305,8 +267,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -353,8 +314,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -420,38 +380,9 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -459,20 +390,15 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
-  - <div id="sdk-for-android-explore-productVariant"
-    class="section detail">
+  - <div id="sdk-for-android-explore-productVariant" class="section detail">
 
     ### productVariant
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">productVariant</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">productVariant</span>
 
     </div>
 
@@ -484,17 +410,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionName"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionName" class="section detail">
 
     ### versionName
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">versionName</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">versionName</span>
 
     </div>
 
@@ -506,8 +428,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionGeneration"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionGeneration" class="section detail">
 
     ### versionGeneration
 
@@ -525,8 +446,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionMajor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionMajor" class="section detail">
 
     ### versionMajor
 
@@ -544,8 +464,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionMinor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionMinor" class="section detail">
 
     ### versionMinor
 
@@ -563,8 +482,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionPatch"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionPatch" class="section detail">
 
     ### versionPatch
 
@@ -582,8 +500,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-versionBuild"
-    class="section detail">
+  - <div id="sdk-for-android-explore-versionBuild" class="section detail">
 
     ### versionBuild
 
@@ -607,10 +524,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">versionTag</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">versionTag</span>
 
     </div>
 
@@ -622,17 +536,13 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
     </div>
 
-  - <div id="sdk-for-android-explore-backendConfig"
-    class="section detail">
+  - <div id="sdk-for-android-explore-backendConfig" class="section detail">
 
     ### backendConfig
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">backendConfig</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">backendConfig</span>
 
     </div>
 
@@ -646,37 +556,21 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-java-lang-String-int-int-int-int-int-java-lang-String-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-java-lang-String-int-int-int-int-int-java-lang-String-java-lang-String" class="section detail">
 
     ### SDKVersion
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SDKVersion</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> productVariant,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> versionName,
-    int versionGeneration, int versionMajor, int versionMinor,
-    int versionPatch, int versionBuild, @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> versionTag,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> backendConfig)</span>
+    <span class="modifiers">public</span> <span class="element-name">SDKVersion</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> productVariant, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> versionName, int versionGeneration, int versionMajor, int versionMinor, int versionPatch, int versionBuild, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> versionTag, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> backendConfig)</span>
 
     </div>
 
     <div class="block">
 
-    Creates a new SDK version instance from the provided parameter
-    values.
+    Creates a new SDK version instance from the provided parameter values.
 
     </div>
 
@@ -721,31 +615,20 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -760,16 +643,11 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

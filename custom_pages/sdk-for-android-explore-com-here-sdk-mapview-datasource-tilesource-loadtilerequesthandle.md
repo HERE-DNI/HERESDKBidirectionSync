@@ -3,6 +3,8 @@ title: "TileSource.LoadTileRequestHandle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,16 +15,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadti
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing interface:  
 [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
 
 <div class="type-signature">
 
-<span class="modifiers">public static interface
-</span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span>
+<span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span>
 
 </div>
 
@@ -34,8 +34,7 @@ Handle of a load request.
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -89,8 +88,7 @@ Handle of a load request.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
   - <div id="sdk-for-android-explore-cancel" class="section detail">
 
@@ -104,12 +102,13 @@ Handle of a load request.
 
     <div class="block">
 
-    Cancels the associated load tile request. Upon cancellation, the
-    corresponding result handler must be informed.
+    Cancels the associated load tile request. Upon cancellation, the corresponding result handler must be informed.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

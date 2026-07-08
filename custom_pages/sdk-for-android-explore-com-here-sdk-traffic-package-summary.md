@@ -55,8 +55,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  This interface provides traffic information from radio signals to
-  other HERE SDK modules.
+  This interface provides traffic information from radio signals to other HERE SDK modules.
 
   </div>
 
@@ -72,9 +71,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  Use the TrafficEngine to get information about current traffic flow
-  and incidents in an area specified by GeoBox , GeoCircle , or
-  GeoCorridor .
+  Use the TrafficEngine to get information about current traffic flow and incidents in an area specified by GeoBox , GeoCircle , or GeoCorridor .
 
   </div>
 
@@ -90,12 +87,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  This class provides details about traffic flow along a GeoCorridor ,
-  inside a GeoCircle or a GeoBox , that represents particular path of
-  the road network. Backends for TrafficEngine and traffic vector tiles
-  are different however backends may share the same data. For additional
-  information about fields, refer to Traffic API v7 API Reference:
-  Traffic API v7 .
+  This class provides details about traffic flow along a GeoCorridor , inside a GeoCircle or a GeoBox , that represents particular path of the road network. Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data. For additional information about fields, refer to Traffic API v7 API Reference: Traffic API v7 .
 
   </div>
 
@@ -111,9 +103,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  This interface provides details about a traffic flow. For additional
-  information about fields, refer to Traffic API v7 API Reference:
-  Traffic API v7 .
+  This interface provides details about a traffic flow. For additional information about fields, refer to Traffic API v7 API Reference: Traffic API v7 .
 
   </div>
 
@@ -129,13 +119,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  Callback passed to following functions:
-  TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions,
-  TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCircle,
-  TrafficFlowQueryOptions, TrafficFlowQueryCallback)
-  TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions,
-  TrafficFlowQueryCallback) The method will be called on the main thread
-  when a search call has been completed.
+  Callback passed to following functions: TrafficEngine.queryForFlow(GeoBox, TrafficFlowQueryOptions, TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCircle, TrafficFlowQueryOptions, TrafficFlowQueryCallback) TrafficEngine.queryForFlow(GeoCorridor, TrafficFlowQueryOptions, TrafficFlowQueryCallback) The method will be called on the main thread when a search call has been completed.
 
   </div>
 
@@ -199,8 +183,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  The vehicle restriction representing a vehicle category and relevant
-  restriction rules.
+  The vehicle restriction representing a vehicle category and relevant restriction rules.
 
   </div>
 
@@ -248,9 +231,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  Callback passed to TrafficEngine.lookupIncident(java.lang.String,
-  com.here.sdk.traffic.TrafficIncidentLookupOptions,
-  com.here.sdk.traffic.TrafficIncidentLookupCallback) .
+  Callback passed to TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.traffic.TrafficIncidentLookupOptions, com.here.sdk.traffic.TrafficIncidentLookupCallback) .
 
   </div>
 
@@ -282,8 +263,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="block">
 
-  Callback passed to TrafficEngine.queryForIncidents(GeoCorridor,
-  TrafficIncidentsQueryOptions, TrafficIncidentsQueryCallback) .
+  Callback passed to TrafficEngine.queryForIncidents(GeoCorridor, TrafficIncidentsQueryOptions, TrafficIncidentsQueryCallback) .
 
   </div>
 

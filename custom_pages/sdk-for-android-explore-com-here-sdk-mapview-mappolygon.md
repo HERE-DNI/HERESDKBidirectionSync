@@ -3,6 +3,8 @@ title: "MapPolygon (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,42 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapPolygon →
-com.here.NativeBase com.here.sdk.mapview.MapPolygon →
-com.here.sdk.mapview.MapPolygon
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapPolygon → com.here.NativeBase com.here.sdk.mapview.MapPolygon → com.here.sdk.mapview.MapPolygon
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">MapPolygon</span>
-<span class="extends-implements">extends
-[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolygon</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
 
 </div>
 
 <div class="block">
 
-A visual representation of a polygon on the map. Can be used to
-visualize areas of all shapes and sizes. The geometry to be visualized
-is represented by an instance of GeoPolygon . To display circular areas
-(for example, a position accuracy indicator) use a GeoPolygon created
-from a GeoCircle using GeoPolygon(GeoCircle) . Note: The polygon shape
-should not cover more than half of the globe, otherwise unexpected
-results may occur. Polygons which are self-intersecting are not
-supported and may lead to render artifacts. The inner boundaries (holes)
-specified in the GeoPolygon are ignored.
+A visual representation of a polygon on the map. Can be used to visualize areas of all shapes and sizes. The geometry to be visualized is represented by an instance of GeoPolygon . To display circular areas (for example, a position accuracy indicator) use a GeoPolygon created from a GeoCircle using GeoPolygon(GeoCircle) . Note: The polygon shape should not cover more than half of the globe, otherwise unexpected results may occur. Polygons which are self-intersecting are not supported and may lead to render artifacts. The inner boundaries (holes) specified in the GeoPolygon are ignored.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -82,8 +69,7 @@ specified in the GeoPolygon are ignored.
 
   <div class="block">
 
-  Creates a new MapPolygon instance with outline visualization disabled
-  and containing the geometry passed in.
+  Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in.
 
   </div>
 
@@ -100,8 +86,7 @@ specified in the GeoPolygon are ignored.
 
   <div class="block">
 
-  Creates a new MapPolygon instance with outline visualization enabled
-  and containing the geometry passed in.
+  Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in.
 
   </div>
 
@@ -111,8 +96,7 @@ specified in the GeoPolygon are ignored.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -152,8 +136,7 @@ specified in the GeoPolygon are ignored.
 
   <div class="block">
 
-  Gets the draw order of this map polygon relative to other map
-  polygons.
+  Gets the draw order of this map polygon relative to other map polygons.
 
   </div>
 
@@ -271,10 +254,7 @@ specified in the GeoPolygon are ignored.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
 
   </div>
 
@@ -310,8 +290,7 @@ specified in the GeoPolygon are ignored.
 
   <div class="block">
 
-  Sets the draw order of this map polygon relative to other map
-  polygons.
+  Sets the draw order of this map polygon relative to other map polygons.
 
   </div>
 
@@ -455,44 +434,9 @@ specified in the GeoPolygon are ignored.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -500,34 +444,21 @@ specified in the GeoPolygon are ignored.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoPolygon-com-here-sdk-core-Color"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoPolygon-com-here-sdk-core-Color" class="section detail">
 
     ### MapPolygon
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><span class="parameters">(@NonNull
-    [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry,
-    @NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
 
     </div>
 
     <div class="block">
 
-    Creates a new MapPolygon instance with outline visualization
-    disabled and containing the geometry passed in. The winding order of
-    the vertices can be in clockwise or counter-clockwise order. It is
-    recomended to provide the outer boundary ordered clockwise and
-    closed. Note: The polygon shape should not cover more than half of
-    the globe, otherwise unexpected results may occur. Polygons which
-    are self-intersecting are not supported and may lead to render
-    artifacts. The inner boundaries (holes) specified in the GeoPolygon
-    are ignored.
+    Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in. The winding order of the vertices can be in clockwise or counter-clockwise order. It is recomended to provide the outer boundary ordered clockwise and closed. Note: The polygon shape should not cover more than half of the globe, otherwise unexpected results may occur. Polygons which are self-intersecting are not supported and may lead to render artifacts. The inner boundaries (holes) specified in the GeoPolygon are ignored.
 
     </div>
 
@@ -542,36 +473,19 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoPolygon-com-here-sdk-core-Color-com-here-sdk-core-Color-double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-com-here-sdk-core-GeoPolygon-com-here-sdk-core-Color-com-here-sdk-core-Color-double" class="section detail">
 
     ### MapPolygon
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><span class="parameters">(@NonNull
-    [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry,
-    @NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color,
-    @NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") outlineColor,
-    double outlineWidthInPixels)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") outlineColor, double outlineWidthInPixels)</span>
 
     </div>
 
     <div class="block">
 
-    Creates a new MapPolygon instance with outline visualization enabled
-    and containing the geometry passed in. Transparent outlines are not
-    supported. Any color with transparency (alpha value other than 1)
-    will be rendered as fully opaque by interpreting the alpha value
-    as 1. The winding order of the vertices can be in clockwise or
-    counter-clockwise order. It is recomended to provide the outer
-    boundary ordered clockwise and closed. Note: The polygon shape
-    should not cover more than half of the globe, otherwise unexpected
-    results may occur. Polygons which are self-intersecting are not
-    supported and may lead to render artifacts. The inner boundaries
-    (holes) specified in the GeoPolygon are ignored.
+    Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in. Transparent outlines are not supported. Any color with transparency (alpha value other than 1) will be rendered as fully opaque by interpreting the alpha value as 1. The winding order of the vertices can be in clockwise or counter-clockwise order. It is recomended to provide the outer boundary ordered clockwise and closed. Note: The polygon shape should not cover more than half of the globe, otherwise unexpected results may occur. Polygons which are self-intersecting are not supported and may lead to render artifacts. The inner boundaries (holes) specified in the GeoPolygon are ignored.
 
     </div>
 
@@ -586,30 +500,25 @@ specified in the GeoPolygon are ignored.
 
     `outlineColor` -
 
-    The color of the polygon outline, alpha channel is ignored and
-    treated as 1.
+    The color of the polygon outline, alpha channel is ignored and treated as 1.
 
     `outlineWidthInPixels` -
 
-    The width of the polygon outline (in pixels). Negative values are
-    clamped to 0.
+    The width of the polygon outline (in pixels). Negative values are clamped to 0.
 
     </div>
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-getGeometry"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getGeometry" class="section detail">
 
     ### getGeometry
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -620,53 +529,40 @@ specified in the GeoPolygon are ignored.
     </div>
 
     Returns:  
-    The geometry of the polygon. Setting a new geometry will update the
-    appearance.
+    The geometry of the polygon. Setting a new geometry will update the appearance.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setGeometry-com-here-sdk-core-GeoPolygon"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setGeometry-com-here-sdk-core-GeoPolygon" class="section detail">
 
     ### setGeometry
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><span class="parameters">(@NonNull
-    [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets a new geometry to update the appearance. The winding order of
-    the vertices can be in clockwise or counter-clockwise order. It is
-    recomended to provide the outer boundary ordered clockwise and
-    closed. Note: The polygon shape should not cover more than half of
-    the globe, otherwise unexpected results may occur. Polygons which
-    are self-intersecting are not supported and may lead to render
-    artifacts. The inner boundaries (holes) specified in the GeoPolygon
-    are ignored.
+    Sets a new geometry to update the appearance. The winding order of the vertices can be in clockwise or counter-clockwise order. It is recomended to provide the outer boundary ordered clockwise and closed. Note: The polygon shape should not cover more than half of the globe, otherwise unexpected results may occur. Polygons which are self-intersecting are not supported and may lead to render artifacts. The inner boundaries (holes) specified in the GeoPolygon are ignored.
 
     </div>
 
     Parameters:  
     `value` -
 
-    The geometry of the polygon. Setting a new geometry will update the
-    appearance.
+    The geometry of the polygon. Setting a new geometry will update the appearance.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getMetadata"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getMetadata" class="section detail">
 
     ### getMetadata
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
 
     </div>
 
@@ -681,15 +577,13 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setMetadata-com-here-sdk-core-Metadata"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setMetadata-com-here-sdk-core-Metadata" class="section detail">
 
     ### setMetadata
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><span class="parameters">(@Nullable
-    [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
 
     </div>
 
@@ -706,15 +600,13 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getFillColor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getFillColor" class="section detail">
 
     ### getFillColor
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getFillColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getFillColor</span>()
 
     </div>
 
@@ -729,22 +621,19 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setFillColor-com-here-sdk-core-Color"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setFillColor-com-here-sdk-core-Color" class="section detail">
 
     ### setFillColor
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><span class="parameters">(@NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the current color of the fill. Fully transparent color (alpha
-    set to 0) disables the fill completely.
+    Sets the current color of the fill. Fully transparent color (alpha set to 0) disables the fill completely.
 
     </div>
 
@@ -755,8 +644,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getDrawOrder"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getDrawOrder" class="section detail">
 
     ### getDrawOrder
 
@@ -768,8 +656,7 @@ specified in the GeoPolygon are ignored.
 
     <div class="block">
 
-    Gets the draw order of this map polygon relative to other map
-    polygons. Default value is 0.
+    Gets the draw order of this map polygon relative to other map polygons. Default value is 0.
 
     </div>
 
@@ -778,25 +665,19 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setDrawOrder-int"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setDrawOrder-int" class="section detail">
 
     ### setDrawOrder
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><span class="parameters">(int value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr></wbr><span class="parameters">(int value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the draw order of this map polygon relative to other map
-    polygons. Polygon with higher draw order value are drawn on top of
-    polygons with lower draw order. In case multiple polygons have the
-    same draw order value then the order in which they were added to the
-    scene matters. Last added polygon is drawn on top. Allowed range is
-    0-1023. Values outside this range will be clamped.
+    Sets the draw order of this map polygon relative to other map polygons. Polygon with higher draw order value are drawn on top of polygons with lower draw order. In case multiple polygons have the same draw order value then the order in which they were added to the scene matters. Last added polygon is drawn on top. Allowed range is 0-1023. Values outside this range will be clamped.
 
     </div>
 
@@ -807,85 +688,63 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getVisibilityRanges"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getVisibilityRanges" class="section detail">
 
     ### getVisibilityRanges
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the list of visibility ranges. The map polygon is visible only
-    inside these map measure ranges. When empty (the default), the map
-    polygon is visible without map measure restrictions.
+    Gets the list of visibility ranges. The map polygon is visible only inside these map measure ranges. When empty (the default), the map polygon is visible without map measure restrictions.
 
     </div>
 
     Returns:  
-    The list of visibility ranges. The map polygon is visible only
-    inside these map measure ranges.
+    The list of visibility ranges. The map polygon is visible only inside these map measure ranges.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setVisibilityRanges-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setVisibilityRanges-java-util-List" class="section detail">
 
     ### setVisibilityRanges
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets visibility ranges for this map polygon. A range is half open -
-    \[minimumZoomLevel, maximumZoomLevel), the given maximum value is
-    not contained in the range. The map polygon is visible only inside
-    these map measure ranges. When empty (the default), the map polygon
-    is visible without map measure restrictions. Only
-    MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are
-    supported. MapMeasureRange (s) of other unsupported types will be
-    ignored.
+    Sets visibility ranges for this map polygon. A range is half open - \[minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. The map polygon is visible only inside these map measure ranges. When empty (the default), the map polygon is visible without map measure restrictions. Only MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange (s) of other unsupported types will be ignored.
 
     </div>
 
     Parameters:  
     `value` -
 
-    The list of visibility ranges. The map polygon is visible only
-    inside these map measure ranges.
+    The list of visibility ranges. The map polygon is visible only inside these map measure ranges.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getOutlineColor"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineColor" class="section detail">
 
     ### getOutlineColor
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getOutlineColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getOutlineColor</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the color of the polygon outline. The default outline color is
-    opaque white.
+    Gets the color of the polygon outline. The default outline color is opaque white.
 
     </div>
 
@@ -894,23 +753,19 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setOutlineColor-com-here-sdk-core-Color"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setOutlineColor-com-here-sdk-core-Color" class="section detail">
 
     ### setOutlineColor
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><span class="parameters">(@NonNull
-    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the color of the polygon outline. Transparent outlines are not
-    supported. Any color with transparency (alpha value other than 1)
-    will be rendered as fully opaque.
+    Sets the color of the polygon outline. Transparent outlines are not supported. Any color with transparency (alpha value other than 1) will be rendered as fully opaque.
 
     </div>
 
@@ -921,8 +776,7 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-getOutlineWidth"
-    class="section detail">
+  - <div id="sdk-for-android-explore-getOutlineWidth" class="section detail">
 
     ### getOutlineWidth
 
@@ -934,8 +788,7 @@ specified in the GeoPolygon are ignored.
 
     <div class="block">
 
-    Gets the outline width of the polygon in pixels. By default, the
-    outline width is set to zero.
+    Gets the outline width of the polygon in pixels. By default, the outline width is set to zero.
 
     </div>
 
@@ -944,21 +797,19 @@ specified in the GeoPolygon are ignored.
 
     </div>
 
-  - <div id="sdk-for-android-explore-setOutlineWidth-double"
-    class="section detail">
+  - <div id="sdk-for-android-explore-setOutlineWidth-double" class="section detail">
 
     ### setOutlineWidth
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineWidth</span><span class="parameters">(double value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineWidth</span><wbr></wbr><span class="parameters">(double value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets the outline width of the polygon in pixels. The value should be
-    greater than or equal to 0. Negative values are clamped to zero.
+    Sets the outline width of the polygon in pixels. The value should be greater than or equal to 0. Negative values are clamped to zero.
 
     </div>
 
@@ -970,4 +821,6 @@ specified in the GeoPolygon are ignored.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

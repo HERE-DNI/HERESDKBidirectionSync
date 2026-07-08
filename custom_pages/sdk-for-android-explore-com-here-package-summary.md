@@ -83,8 +83,7 @@ package <span class="element-name">com.here</span>
 
   <div class="block">
 
-  Internal base class for public non-POD objects to manage the lifecycle
-  of underlying C++ objects.
+  Internal base class for public non-POD objects to manage the lifecycle of underlying C++ objects.
 
   </div>
 

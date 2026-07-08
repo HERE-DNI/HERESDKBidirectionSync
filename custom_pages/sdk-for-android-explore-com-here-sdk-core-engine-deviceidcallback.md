@@ -3,6 +3,8 @@ title: "DeviceIdCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,36 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public interface
-</span><span class="element-name type-name-label">DeviceIdCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public interface </span><span class="element-name type-name-label">DeviceIdCallback</span>
 
 </div>
 
 <div class="block">
 
-This method will be called on the main thread when
-SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)
-has been completed.
+This method will be called on the main thread when SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback) has been completed.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -82,9 +74,7 @@ has been completed.
 
   <div class="block">
 
-  This method will be called on the main thread when
-  SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)
-  has been completed.
+  This method will be called on the main thread when SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback) has been completed.
 
   </div>
 
@@ -98,38 +88,32 @@ has been completed.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onDeviceIdCallbackCompleted-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onDeviceIdCallbackCompleted-java-lang-String" class="section detail">
 
     ### onDeviceIdCallbackCompleted
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDeviceIdCallbackCompleted</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> deviceId)</span>
+    <span class="return-type">void</span> <span class="element-name">onDeviceIdCallbackCompleted</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> deviceId)</span>
 
     </div>
 
     <div class="block">
 
-    This method will be called on the main thread when
-    SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)
-    has been completed.
+    This method will be called on the main thread when SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback) has been completed.
 
     </div>
 
     Parameters:  
     `deviceId` -
 
-    Represents a deviceId, a unique identifier assigned to the device
-    for this application.
+    Represents a deviceId, a unique identifier assigned to the device for this application.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

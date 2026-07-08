@@ -3,6 +3,8 @@ title: "DoubleTapListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,27 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">DoubleTapListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">DoubleTapListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling double tap gestures. Double-tap gesture occurs
-after double-tapping on the screen.
+Interface for handling double tap gestures. Double-tap gesture occurs after double-tapping on the screen.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -87,18 +85,15 @@ after double-tapping on the screen.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onDoubleTap-com-here-sdk-core-Point2D"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onDoubleTap-com-here-sdk-core-Point2D" class="section detail">
 
     ### onDoubleTap
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDoubleTap</span><span class="parameters">(@NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="return-type">void</span> <span class="element-name">onDoubleTap</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
 
     </div>
 
@@ -116,4 +111,6 @@ after double-tapping on the screen.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

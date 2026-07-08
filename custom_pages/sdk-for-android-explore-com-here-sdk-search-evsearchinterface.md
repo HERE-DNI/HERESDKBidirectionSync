@@ -3,6 +3,8 @@ title: "EVSearchInterface (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,32 +15,26 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
 [`EVSearchEngine`](sdk-for-android-explore-com-here-sdk-search-evsearchengine "class in com.here.sdk.search")
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">EVSearchInterface</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">EVSearchInterface</span>
 
 </div>
 
 <div class="block">
 
-Provides the interface for the EVSearchEngine . Note: This is a beta
-release of this feature, so there could be a few bugs and unexpected
-behaviors. Related APIs may change for new releases without a
-deprecation process.
+Provides the interface for the EVSearchEngine . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -78,8 +74,7 @@ deprecation process.
 
   <div class="block">
 
-  Performs an asynchronous request for EVChargingLocation instances with
-  given Place IDs.
+  Performs an asynchronous request for EVChargingLocation instances with given Place IDs.
 
   </div>
 
@@ -93,32 +88,21 @@ deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-search-java-util-List-com-here-sdk-search-EVSearchCallback"
-    class="section detail">
+  - <div id="sdk-for-android-explore-search-java-util-List-com-here-sdk-search-EVSearchCallback" class="section detail">
 
     ### search
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>\> ids,
-    @NonNull
-    [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> ids, @NonNull [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
 
     </div>
 
     <div class="block">
 
-    Performs an asynchronous request for EVChargingLocation instances
-    with given Place IDs.
+    Performs an asynchronous request for EVChargingLocation instances with given Place IDs.
 
     </div>
 
@@ -137,4 +121,6 @@ deprecation process.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

@@ -3,6 +3,8 @@ title: "MapView.TakeScreenshotCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallba
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
@@ -22,31 +23,23 @@ Enclosing class:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapView.TakeScreenshotCallback</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.TakeScreenshotCallback</span>
 
 </div>
 
 <div class="block">
 
-Callback to be called on retrieval of screenshot. In case of any error
-passed result is null.
+Callback to be called on retrieval of screenshot. In case of any error passed result is null.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -100,18 +93,15 @@ passed result is null.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onScreenshotTaken-android-graphics-Bitmap"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onScreenshotTaken-android-graphics-Bitmap" class="section detail">
 
     ### onScreenshotTaken
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onScreenshotTaken</span><span class="parameters">(@Nullable
-    android.graphics.Bitmap bitmap)</span>
+    <span class="return-type">void</span> <span class="element-name">onScreenshotTaken</span><wbr></wbr><span class="parameters">(@Nullable android.graphics.Bitmap bitmap)</span>
 
     </div>
 
@@ -127,4 +117,6 @@ passed result is null.
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

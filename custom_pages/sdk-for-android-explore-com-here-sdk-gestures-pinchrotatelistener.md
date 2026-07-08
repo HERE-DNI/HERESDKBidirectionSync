@@ -3,6 +3,8 @@ title: "PinchRotateListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,28 +15,23 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public interface
-</span><span class="element-name type-name-label">PinchRotateListener</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">PinchRotateListener</span>
 
 </div>
 
 <div class="block">
 
-Interface for handling pinch rotate gestures. Pinch rotate gesture
-occurs when two fingers are on the screen and at least one of them
-moves.
+Interface for handling pinch rotate gestures. Pinch rotate gesture occurs when two fingers are on the screen and at least one of them moves.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -89,24 +86,15 @@ moves.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onPinchRotate-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double-com-here-sdk-core-Angle"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onPinchRotate-com-here-sdk-gestures-GestureState-com-here-sdk-core-Point2D-com-here-sdk-core-Point2D-double-com-here-sdk-core-Angle" class="section detail">
 
     ### onPinchRotate
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPinchRotate</span><span class="parameters">(@NonNull
-    [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") pinchOrigin,
-    @NonNull
-    [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") rotationOrigin,
-    double twoFingerDistance, @NonNull
-    [Angle](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core") rotation)</span>
+    <span class="return-type">void</span> <span class="element-name">onPinchRotate</span><wbr></wbr><span class="parameters">(@NonNull [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") pinchOrigin, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") rotationOrigin, double twoFingerDistance, @NonNull [Angle](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core") rotation)</span>
 
     </div>
 
@@ -127,8 +115,7 @@ moves.
 
     `rotationOrigin` -
 
-    Position where the rotation happened relative to the MapView in
-    pixels.
+    Position where the rotation happened relative to the MapView in pixels.
 
     `twoFingerDistance` -
 
@@ -136,12 +123,11 @@ moves.
 
     `rotation` -
 
-    Fingers rotation angle delta. Indicates how much the fingers
-    rotation angle has changed since the previous gesture update.
-    Clockwise finger rotation gives positive deltas, counter clockwise
-    finger rotation gives negative deltas.
+    Fingers rotation angle delta. Indicates how much the fingers rotation angle has changed since the previous gesture update. Clockwise finger rotation gives positive deltas, counter clockwise finger rotation gives negative deltas.
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

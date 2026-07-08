@@ -3,6 +3,8 @@ title: "MapView.OnReadyListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -13,8 +15,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener"
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
 [MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
@@ -22,39 +23,17 @@ Enclosing class:
 <!-- -->
 
 Functional Interface:  
-This is a functional interface and can therefore be used as the
-assignment target for a lambda expression or method reference.
+This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public static interface
-</span><span class="element-name type-name-label">MapView.OnReadyListener</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a> </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.OnReadyListener</span>
 
 </div>
 
 <div class="block">
 
-Listener that gets notified when MapView is fully initialized and ready
-to handle all operations, which means that map scene is loaded and
-drawing surface is ready to render a map. Whenever there is a need to
-call any map view related functions directly after the Activity resumes,
-onMapViewReady() should be used for this purpose, as it guarantees that
-those operations will work. It is not recommended to call map view
-functionality directly from Activity 's onResume() . There are few
-typical moments in the lifecycle where it's useful to execute map view
-related operations: After map is shown for the very first time - use
-MapScene.LoadSceneCallback that is passed to
-MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback) . After the
-Activity is resumed - use OnReadyListener that is registered from within
-MapScene.LoadSceneCallback the first time map scene is loaded. Every
-time the Activity is resumed, including after the map scene is first
-loaded - this combines previous two cases. Use OnReadyListener that is
-registered right after MapView is created, but before map scene is
-loaded.
+Listener that gets notified when MapView is fully initialized and ready to handle all operations, which means that map scene is loaded and drawing surface is ready to render a map. Whenever there is a need to call any map view related functions directly after the Activity resumes, onMapViewReady() should be used for this purpose, as it guarantees that those operations will work. It is not recommended to call map view functionality directly from Activity 's onResume() . There are few typical moments in the lifecycle where it's useful to execute map view related operations: After map is shown for the very first time - use MapScene.LoadSceneCallback that is passed to MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback) . After the Activity is resumed - use OnReadyListener that is registered from within MapScene.LoadSceneCallback the first time map scene is loaded. Every time the Activity is resumed, including after the map scene is first loaded - this combines previous two cases. Use OnReadyListener that is registered right after MapView is created, but before map scene is loaded.
 
 </div>
 
@@ -63,10 +42,11 @@ See Also:
 
       MapView.setOnReadyListener(OnReadyListener)
 
+  </a>
+
 </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -106,8 +86,7 @@ See Also:
 
   <div class="block">
 
-  Callback to be called when MapView is fully initialized and ready to
-  handle all operations.
+  Callback to be called when MapView is fully initialized and ready to handle all operations.
 
   </div>
 
@@ -121,11 +100,9 @@ See Also:
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-onMapViewReady"
-    class="section detail">
+  - <div id="sdk-for-android-explore-onMapViewReady" class="section detail">
 
     ### onMapViewReady
 
@@ -137,12 +114,13 @@ See Also:
 
     <div class="block">
 
-    Callback to be called when MapView is fully initialized and ready to
-    handle all operations.
+    Callback to be called when MapView is fully initialized and ready to handle all operations.
 
     </div>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

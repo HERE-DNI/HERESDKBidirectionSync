@@ -3,6 +3,8 @@ title: "PhysicalConsumptionModel (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,40 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.routing.PhysicalConsumptionModel →
-com.here.sdk.routing.PhysicalConsumptionModel
+java.lang.Object com.here.sdk.routing.PhysicalConsumptionModel → com.here.sdk.routing.PhysicalConsumptionModel
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">PhysicalConsumptionModel</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PhysicalConsumptionModel</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-Defines the physical consumption model for electric vehicles, using
-vehicle-specific parameters to calculate energy consumption along a
-route. Note:
-\[sdk.transport.VehicleSpecification.current_weight_in_kilograms\] must
-be set. Note: This is a beta release of this feature, so there could be
-a few bugs and unexpected behaviors. Related APIs may change for new
-releases without a deprecation process.
+Defines the physical consumption model for electric vehicles, using vehicle-specific parameters to calculate energy consumption along a route. Note: \[sdk.transport.VehicleSpecification.current_weight_in_kilograms\] must be set. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -84,9 +73,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#airDragCoefficient"
-  class="member-name-link"><code>airDragCoefficient</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#airDragCoefficient" class="member-name-link"><code>airDragCoefficient</code></a>
 
   </div>
 
@@ -94,8 +81,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  The drag coefficient of an vehicle defines the way the vehicle is
-  expected to pass through the surrounding air.
+  The drag coefficient of an vehicle defines the way the vehicle is expected to pass through the surrounding air.
 
   </div>
 
@@ -109,9 +95,7 @@ releases without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#auxiliaryPowerConsumptionInWatts"
-  class="member-name-link"><code>auxiliaryPowerConsumptionInWatts</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#auxiliaryPowerConsumptionInWatts" class="member-name-link"><code>auxiliaryPowerConsumptionInWatts</code></a>
 
   </div>
 
@@ -119,8 +103,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  Power (in W) consumed by the vehicle's auxiliary systems (for example,
-  air conditioning, lights).
+  Power (in W) consumed by the vehicle's auxiliary systems (for example, air conditioning, lights).
 
   </div>
 
@@ -134,9 +117,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#driveTrainEfficiency"
-  class="member-name-link"><code>driveTrainEfficiency</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#driveTrainEfficiency" class="member-name-link"><code>driveTrainEfficiency</code></a>
 
   </div>
 
@@ -144,8 +125,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  The proportion of the energy drawn from the battery that is used to
-  move the vehicle.
+  The proportion of the energy drawn from the battery that is used to move the vehicle.
 
   </div>
 
@@ -159,9 +139,7 @@ releases without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#frontalAreaInSquareMeters"
-  class="member-name-link"><code>frontalAreaInSquareMeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#frontalAreaInSquareMeters" class="member-name-link"><code>frontalAreaInSquareMeters</code></a>
 
   </div>
 
@@ -169,8 +147,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  Frontal area represents the total cross section area of the vehicle as
-  viewed from the front, specified in square meters.
+  Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
 
   </div>
 
@@ -184,9 +161,7 @@ releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#recuperationEfficiency"
-  class="member-name-link"><code>recuperationEfficiency</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#recuperationEfficiency" class="member-name-link"><code>recuperationEfficiency</code></a>
 
   </div>
 
@@ -194,8 +169,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  The proportion of the energy gained when braking or going downhill
-  that can be recuperated and restored as battery charge.
+  The proportion of the energy gained when braking or going downhill that can be recuperated and restored as battery charge.
 
   </div>
 
@@ -209,9 +183,7 @@ releases without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#rollingResistanceCoefficient"
-  class="member-name-link"><code>rollingResistanceCoefficient</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#rollingResistanceCoefficient" class="member-name-link"><code>rollingResistanceCoefficient</code></a>
 
   </div>
 
@@ -219,8 +191,7 @@ releases without a deprecation process.
 
   <div class="block">
 
-  Rolling resistance refers to the resistance experienced by your
-  vehicle tire as it rolls over a surface.
+  Rolling resistance refers to the resistance experienced by your vehicle tire as it rolls over a surface.
 
   </div>
 
@@ -230,8 +201,7 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -273,8 +243,7 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -340,38 +309,9 @@ releases without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -379,11 +319,9 @@ releases without a deprecation process.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
-  - <div id="sdk-for-android-explore-driveTrainEfficiency"
-    class="section detail">
+  - <div id="sdk-for-android-explore-driveTrainEfficiency" class="section detail">
 
     ### driveTrainEfficiency
 
@@ -395,16 +333,13 @@ releases without a deprecation process.
 
     <div class="block">
 
-    The proportion of the energy drawn from the battery that is used to
-    move the vehicle. (This is to factor in energy losses through heat
-    in the motors, for example.) Supported range from 0 to 1
+    The proportion of the energy drawn from the battery that is used to move the vehicle. (This is to factor in energy losses through heat in the motors, for example.) Supported range from 0 to 1
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-recuperationEfficiency"
-    class="section detail">
+  - <div id="sdk-for-android-explore-recuperationEfficiency" class="section detail">
 
     ### recuperationEfficiency
 
@@ -416,16 +351,13 @@ releases without a deprecation process.
 
     <div class="block">
 
-    The proportion of the energy gained when braking or going downhill
-    that can be recuperated and restored as battery charge. Supported
-    range from 0 to 1
+    The proportion of the energy gained when braking or going downhill that can be recuperated and restored as battery charge. Supported range from 0 to 1
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-auxiliaryPowerConsumptionInWatts"
-    class="section detail">
+  - <div id="sdk-for-android-explore-auxiliaryPowerConsumptionInWatts" class="section detail">
 
     ### auxiliaryPowerConsumptionInWatts
 
@@ -437,16 +369,13 @@ releases without a deprecation process.
 
     <div class="block">
 
-    Power (in W) consumed by the vehicle's auxiliary systems (for
-    example, air conditioning, lights). The provided value must be
-    greater than or equal to 0.
+    Power (in W) consumed by the vehicle's auxiliary systems (for example, air conditioning, lights). The provided value must be greater than or equal to 0.
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-frontalAreaInSquareMeters"
-    class="section detail">
+  - <div id="sdk-for-android-explore-frontalAreaInSquareMeters" class="section detail">
 
     ### frontalAreaInSquareMeters
 
@@ -458,21 +387,13 @@ releases without a deprecation process.
 
     <div class="block">
 
-    Frontal area represents the total cross section area of the vehicle
-    as viewed from the front, specified in square meters. Physical
-    consumption model is using this value in combination with
-    airDragCoefficient to calculate the consumption caused by air
-    resistance. As fallback VehicleSpecification.widthInCentimeters and
-    VehicleSpecification.heightInCentimeters are used. This parameter is
-    used to provide a more accurate consumption prediction for electric
-    vehicles. In the range from 0.5 to 50
+    Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters. Physical consumption model is using this value in combination with airDragCoefficient to calculate the consumption caused by air resistance. As fallback VehicleSpecification.widthInCentimeters and VehicleSpecification.heightInCentimeters are used. This parameter is used to provide a more accurate consumption prediction for electric vehicles. In the range from 0.5 to 50
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-rollingResistanceCoefficient"
-    class="section detail">
+  - <div id="sdk-for-android-explore-rollingResistanceCoefficient" class="section detail">
 
     ### rollingResistanceCoefficient
 
@@ -484,20 +405,13 @@ releases without a deprecation process.
 
     <div class="block">
 
-    Rolling resistance refers to the resistance experienced by your
-    vehicle tire as it rolls over a surface. The main causes of this
-    resistance are tire deformation, wing drag, and friction with the
-    ground. The coefficient of rolling resistance is a numerical value
-    indicating the severity of this factor. This parameter is used to
-    provide a more accurate consumption prediction for electric
-    vehicles. Supported range from 0 to 1
+    Rolling resistance refers to the resistance experienced by your vehicle tire as it rolls over a surface. The main causes of this resistance are tire deformation, wing drag, and friction with the ground. The coefficient of rolling resistance is a numerical value indicating the severity of this factor. This parameter is used to provide a more accurate consumption prediction for electric vehicles. Supported range from 0 to 1
 
     </div>
 
     </div>
 
-  - <div id="sdk-for-android-explore-airDragCoefficient"
-    class="section detail">
+  - <div id="sdk-for-android-explore-airDragCoefficient" class="section detail">
 
     ### airDragCoefficient
 
@@ -509,12 +423,7 @@ releases without a deprecation process.
 
     <div class="block">
 
-    The drag coefficient of an vehicle defines the way the vehicle is
-    expected to pass through the surrounding air. More streamlined
-    vehicles are more aerodynamic and therefore have smaller drag
-    coefficient. This parameter is used to provide a more accurate
-    consumption prediction for electric vehicles. Supported range from 0
-    to 1
+    The drag coefficient of an vehicle defines the way the vehicle is expected to pass through the surrounding air. More streamlined vehicles are more aerodynamic and therefore have smaller drag coefficient. This parameter is used to provide a more accurate consumption prediction for electric vehicles. Supported range from 0 to 1
 
     </div>
 
@@ -522,8 +431,7 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
   - <div id="sdk-for-android-explore-init" class="section detail">
 
@@ -545,31 +453,20 @@ releases without a deprecation process.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -584,16 +481,11 @@ releases without a deprecation process.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 

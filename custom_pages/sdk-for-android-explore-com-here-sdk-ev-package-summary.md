@@ -39,8 +39,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="block">
 
-  Represents the format of the connector, whether it is a socket or a
-  cable.
+  Represents the format of the connector, whether it is a socket or a cable.
 
   </div>
 
@@ -72,8 +71,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="block">
 
-  Represents the administrative functionality that an EVSE is capable
-  of.
+  Represents the administrative functionality that an EVSE is capable of.
 
   </div>
 
@@ -89,8 +87,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="block">
 
-  Represents the payment support functionality on EVSE for ad-hoc
-  customers (without pre-registration).
+  Represents the payment support functionality on EVSE for ad-hoc customers (without pre-registration).
 
   </div>
 
@@ -106,8 +103,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="block">
 
-  Indicates the current short-term status of the EVSE at the time given
-  in the modified property.
+  Indicates the current short-term status of the EVSE at the time given in the modified property.
 
   </div>
 

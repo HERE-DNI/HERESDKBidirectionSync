@@ -3,6 +3,8 @@ title: "AddressQuery (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 ---
 
+<!-- ======== START OF CLASS DATA ======== -->
+
 <div class="header">
 
 <div class="sub-title">
@@ -15,41 +17,27 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 
 <div class="inheritance" title="Inheritance Tree">
 
-java.lang.Object com.here.sdk.search.AddressQuery →
-com.here.sdk.search.AddressQuery
+java.lang.Object com.here.sdk.search.AddressQuery → com.here.sdk.search.AddressQuery
 
 </div>
 
-<div id="sdk-for-android-explore-class-description"
-class="section class-description">
+<div id="sdk-for-android-explore-class-description" class="section class-description">
 
 <div class="type-signature">
 
-<span class="modifiers">public final class
-</span><span class="element-name type-name-label">AddressQuery</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">AddressQuery</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
 <div class="block">
 
-The options to specify an address query. A query can consist of parts of
-an address or full addresses, optionally comma separated. AddressQuery
-should only be used to search for parts of the address, excluding the
-POI name. For example, "Invalidenstraße 116, Berlin, Germany" is
-appropriate, whereas "HERE, Invalidenstraße 116, Berlin, Germany" is
-not. To be able to include the POI name, use TextQuery instead.
-SearchOptions.languageCode specifies the language of the query and
-determines the preferred language of the results.
+The options to specify an address query. A query can consist of parts of an address or full addresses, optionally comma separated. AddressQuery should only be used to search for parts of the address, excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use TextQuery instead. SearchOptions.languageCode specifies the language of the query and determines the preferred language of the results.
 
 </div>
 
 </div>
 
-- <div id="sdk-for-android-explore-field-summary"
-  class="section field-summary">
+- <div id="sdk-for-android-explore-field-summary" class="section field-summary">
 
   <div class="caption">
 
@@ -85,9 +73,7 @@ determines the preferred language of the results.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-addressquery#areaCenter"
-  class="member-name-link"><code>areaCenter</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#areaCenter" class="member-name-link"><code>areaCenter</code></a>
 
   </div>
 
@@ -95,8 +81,7 @@ determines the preferred language of the results.
 
   <div class="block">
 
-  Geographical coordinates of the center around which to provide the
-  most relevant places.
+  Geographical coordinates of the center around which to provide the most relevant places.
 
   </div>
 
@@ -104,18 +89,13 @@ determines the preferred language of the results.
 
   <div class="col-first odd-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-addressquery#countries"
-  class="member-name-link"><code>countries</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#countries" class="member-name-link"><code>countries</code></a>
 
   </div>
 
@@ -131,17 +111,13 @@ determines the preferred language of the results.
 
   <div class="col-first even-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query"
-  class="member-name-link"><code>query</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query" class="member-name-link"><code>query</code></a>
 
   </div>
 
@@ -159,8 +135,7 @@ determines the preferred language of the results.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-summary"
-  class="section constructor-summary">
+- <div id="sdk-for-android-explore-constructor-summary" class="section constructor-summary">
 
   <div class="caption">
 
@@ -208,8 +183,7 @@ determines the preferred language of the results.
 
   <div class="block">
 
-  Constructs an AddressQuery from the provided text query and
-  geographical coordinates.
+  Constructs an AddressQuery from the provided text query and geographical coordinates.
 
   </div>
 
@@ -225,8 +199,7 @@ determines the preferred language of the results.
 
   <div class="block">
 
-  Constructs an AddressQuery from the provided text query, geographical
-  coordinates and the list of countries the query is applied in.
+  Constructs an AddressQuery from the provided text query, geographical coordinates and the list of countries the query is applied in.
 
   </div>
 
@@ -236,8 +209,7 @@ determines the preferred language of the results.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-summary"
-  class="section method-summary">
+- <div id="sdk-for-android-explore-method-summary" class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
 
@@ -303,38 +275,9 @@ determines the preferred language of the results.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -342,8 +285,7 @@ determines the preferred language of the results.
 
 <!-- -->
 
-- <div id="sdk-for-android-explore-field-detail"
-  class="section field-details">
+- <div id="sdk-for-android-explore-field-detail" class="section field-details">
 
   - <div id="sdk-for-android-explore-query" class="section detail">
 
@@ -351,11 +293,7 @@ determines the preferred language of the results.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">query</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">query</span>
 
     </div>
 
@@ -373,17 +311,13 @@ determines the preferred language of the results.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable
-    </span><span class="modifiers">public
-    final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">areaCenter</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">areaCenter</span>
 
     </div>
 
     <div class="block">
 
-    Geographical coordinates of the center around which to provide the
-    most relevant places. For Offline Search null value will result in
-    SearchError.INVALID_AREA
+    Geographical coordinates of the center around which to provide the most relevant places. For Offline Search null value will result in SearchError.INVALID_AREA
 
     </div>
 
@@ -395,18 +329,13 @@ determines the preferred language of the results.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull
-    </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
 
     </div>
 
     <div class="block">
 
-    A list of countries that the query is applied in. Not supported in
-    OfflineSearchEngine (only available for the Navigate license).
+    A list of countries that the query is applied in. Not supported in OfflineSearchEngine (only available for the Navigate license).
 
     </div>
 
@@ -414,29 +343,21 @@ determines the preferred language of the results.
 
   </div>
 
-- <div id="sdk-for-android-explore-constructor-detail"
-  class="section constructor-details">
+- <div id="sdk-for-android-explore-constructor-detail" class="section constructor-details">
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-core-GeoCoordinates"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-core-GeoCoordinates" class="section detail">
 
     ### AddressQuery
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> query,
-    @NonNull
-    [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
+    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs an AddressQuery from the provided text query and
-    geographical coordinates.
+    Constructs an AddressQuery from the provided text query and geographical coordinates.
 
     </div>
 
@@ -447,35 +368,23 @@ determines the preferred language of the results.
 
     `areaCenter` -
 
-    Geographical coordinates of the center around which to provide the
-    most relevant places.
+    Geographical coordinates of the center around which to provide the most relevant places.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-core-GeoCoordinates-java-util-List"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String-com-here-sdk-core-GeoCoordinates-java-util-List" class="section detail">
 
     ### AddressQuery
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> query,
-    @NonNull
-    [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\> countries)</span>
+    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\> countries)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs an AddressQuery from the provided text query,
-    geographical coordinates and the list of countries the query is
-    applied in.
+    Constructs an AddressQuery from the provided text query, geographical coordinates and the list of countries the query is applied in.
 
     </div>
 
@@ -486,8 +395,7 @@ determines the preferred language of the results.
 
     `areaCenter` -
 
-    Geographical coordinates of the center around which to provide the
-    most relevant places.
+    Geographical coordinates of the center around which to provide the most relevant places.
 
     `countries` -
 
@@ -495,25 +403,19 @@ determines the preferred language of the results.
 
     </div>
 
-  - <div id="sdk-for-android-explore-init-java-lang-String"
-    class="section detail">
+  - <div id="sdk-for-android-explore-init-java-lang-String" class="section detail">
 
     ### AddressQuery
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> query)</span>
+    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query)</span>
 
     </div>
 
     <div class="block">
 
-    Constructs an AddressQuery from the provided text query. Not
-    supported in OfflineSearchEngine (only available for the Navigate
-    license).
+    Constructs an AddressQuery from the provided text query. Not supported in OfflineSearchEngine (only available for the Navigate license).
 
     </div>
 
@@ -526,31 +428,20 @@ determines the preferred language of the results.
 
   </div>
 
-- <div id="sdk-for-android-explore-method-detail"
-  class="section method-details">
+- <div id="sdk-for-android-explore-method-detail" class="section method-details">
 
-  - <div id="sdk-for-android-explore-equals-java-lang-Object"
-    class="section detail">
+  - <div id="sdk-for-android-explore-equals-java-lang-Object" class="section detail">
 
     ### equals
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -565,16 +456,11 @@ determines the preferred language of the results.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
   </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
 
