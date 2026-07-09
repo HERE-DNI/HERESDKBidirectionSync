@@ -1,0 +1,199 @@
+---
+title: "DynamicRoutingEngineOptions (API Reference)"
+slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions"
+---
+
+<HTMLBlock>{
+`
+<div className="sdk-for-android-navigate">
+<!-- DynamicRoutingEngineOptions.html -->
+
+
+
+
+
+
+<div className="flex-box">
+
+<div className="flex-content">
+
+<!-- ======== START OF CLASS DATA ======== -->
+<div className="header">
+<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.trafficawarenavigation</a></div>
+
+</div>
+<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
+<div className="inheritance">com.here.sdk.trafficawarenavigation.DynamicRoutingEngineOptions</div>
+</div>
+<section className="class-description" id="class-description">
+
+<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">DynamicRoutingEngineOptions</span>
+<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
+<div className="block"><p>Options defining the behavior of the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.
+ Both, <code>minTimeDifference</code> and <code>minTimeDifferencePercentage</code>, will be checked:
+ When the poll interval is reached, the smaller difference will win and
+ the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a> is notified.</p></div>
+</section>
+<section className="summary">
+<ul className="summary-list">
+<!-- =========== FIELD SUMMARY =========== -->
+<li>
+<section className="field-summary" id="field-summary">
+
+<div className="caption"><span>Fields</span></div>
+<div className="summary-table three-column-summary">
+
+
+
+<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
+<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifference">minTimeDifference</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">The minimum time difference, before notifying the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.</div>
+</div>
+<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
+<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifferencePercentage">minTimeDifferencePercentage</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">The value is in the range of [0, 1] over the remaining (current position to next waypoint)
+ To get notified, the following check must be true:
+ oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt;= newRouteDuration * [min_time_difference_percentage].</div>
+</div>
+<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
+<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#pollInterval">pollInterval</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">The poll interval.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+<li>
+<section className="constructor-summary" id="constructor-summary">
+
+<div className="caption"><span>Constructors</span></div>
+<div className="summary-table two-column-summary">
+
+
+<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#%3Cinit%3E()">DynamicRoutingEngineOptions</a>()</code></div>
+<div className="col-last even-row-color">
+<div className="block">Creates an instance of this class.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ========== METHOD SUMMARY =========== -->
+<li>
+<section className="method-summary" id="method-summary">
+
+<div id="method-summary-table">
+
+
+</div>
+<div className="inherited-list">
+<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
+<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
+</section>
+</li>
+</ul>
+</section>
+<section className="details">
+<ul className="details-list">
+<!-- ============ FIELD DETAIL =========== -->
+<li>
+<section className="field-details" id="field-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="minTimeDifferencePercentage">
+<h3>minTimeDifferencePercentage</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">minTimeDifferencePercentage</span></div>
+<div className="block"><p>The value is in the range of [0, 1] over the remaining (current position to next waypoint)
+ To get notified, the following check must be true:
+ oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt;= newRouteDuration * [min_time_difference_percentage].
+ A value of 0 will be treated as <code>null</code> meaning no event will be sent.
+ In order to receive events the difference needs to be greater than 0.
+ Defaults to <code>null</code>.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="minTimeDifference">
+<h3>minTimeDifference</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span className="element-name">minTimeDifference</span></div>
+<div className="block"><p>The minimum time difference, before notifying the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.
+ To get notified, the following check must be true:
+ oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt; <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifference"><code>minTimeDifference</code></a>.
+ A value of 0 will be treated as <code>null</code> meaning no event will be sent.
+ In order to receive events the difference needs to be greater than 0.
+ Defaults to <code>null</code>.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="pollInterval">
+<h3>pollInterval</h3>
+<div className="member-signature"><span className="annotations">@NonNull
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span className="element-name">pollInterval</span></div>
+<div className="block"><p>The poll interval.
+ Zero duration triggers a route calculation with each position update.
+ Triggered via <a href="sdk-for-android-navigate-dynamicroutingengine#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)"><code>DynamicRoutingEngine.updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation, int)</code></a>
+ Defaults to 15 minutes.</p></div>
+</section>
+</li>
+</ul>
+</section>
+</li>
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+<li>
+<section className="constructor-details" id="constructor-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="&lt;init&gt;()">
+<h3>DynamicRoutingEngineOptions</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">DynamicRoutingEngineOptions</span>()</div>
+<div className="block"><p>Creates an instance of this class.</p></div>
+</section>
+</li>
+</ul>
+</section>
+</li>
+<!-- ============ METHOD DETAIL ========== -->
+<li>
+<section className="method-details" id="method-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="equals(java.lang.Object)">
+<h3>equals</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
+<dl className="notes">
+<dt>Overrides:</dt>
+<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
+</dl>
+</section>
+</li>
+<li>
+<section className="detail" id="hashCode()">
+<h3>hashCode</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
+<dl className="notes">
+<dt>Overrides:</dt>
+<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
+</dl>
+</section>
+</li>
+</ul>
+</section>
+</li>
+</ul>
+</section>
+<!-- ========= END OF CLASS DATA ========= -->
+
+</div>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>
