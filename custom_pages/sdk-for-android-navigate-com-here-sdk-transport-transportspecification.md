@@ -1,0 +1,270 @@
+---
+title: "TransportSpecification (API Reference)"
+slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification"
+---
+
+<HTMLBlock>{
+`
+<div className="sdk-for-android-navigate">
+<!-- TransportSpecification.html -->
+
+
+
+
+
+
+<div className="flex-box">
+
+<div className="flex-content">
+
+<!-- ======== START OF CLASS DATA ======== -->
+<div className="header">
+<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+
+</div>
+<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
+<div className="inheritance">com.here.sdk.transport.TransportSpecification</div>
+</div>
+<section className="class-description" id="class-description">
+
+<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">TransportSpecification</span>
+<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
+<div className="block"><p>Contains transport attributes details related to the transport mode.
+ <strong>Notes</strong>
+<ul>
+<li>By default all vehicle specifications from <code>RoutingOptions.transport_specification</code> are set to
+ <code>null</code> and the <code>RoutingOptions.transport_specification.transport_mode</code> is set to <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.</li>
+<li>A route can be calculated with only the <code>RoutingOptions.transport_specification.transport_mode</code> set.</li>
+</ul></p></div>
+</section>
+<section className="summary">
+<ul className="summary-list">
+<!-- ======== NESTED CLASS SUMMARY ======== -->
+<li>
+<section className="nested-class-summary" id="nested-class-summary">
+
+<div className="caption"><span>Nested Classes</span></div>
+<div className="summary-table three-column-summary">
+
+
+
+<div className="col-first even-row-color"><code>static final class </code></div>
+<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bicycle.</div>
+</div>
+<div className="col-first odd-row-color"><code>static final class </code></div>
+<div className="col-second odd-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bus.</div>
+</div>
+<div className="col-first even-row-color"><code>static final class </code></div>
+<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</div>
+</div>
+<div className="col-first odd-row-color"><code>static final class </code></div>
+<div className="col-second odd-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</div>
+</div>
+<div className="col-first even-row-color"><code>static final class </code></div>
+<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a private bus.</div>
+</div>
+<div className="col-first odd-row-color"><code>static final class </code></div>
+<div className="col-second odd-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</div>
+</div>
+<div className="col-first even-row-color"><code>static final class </code></div>
+<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</div>
+</div>
+<div className="col-first odd-row-color"><code>static final class </code></div>
+<div className="col-second odd-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a truck.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- =========== FIELD SUMMARY =========== -->
+<li>
+<section className="field-summary" id="field-summary">
+
+<div className="caption"><span>Fields</span></div>
+<div className="summary-table three-column-summary">
+
+
+
+<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></code></div>
+<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#pedestrianSpecification">pedestrianSpecification</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">The pedestrian specification for the transport mode.</div>
+</div>
+<div className="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></code></div>
+<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#scooterSpecification">scooterSpecification</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">The scooter specification for the transport mode.</div>
+</div>
+<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></code></div>
+<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#taxiSpecification">taxiSpecification</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">The taxi specification for the transport mode.</div>
+</div>
+<div className="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
+<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#transportMode">transportMode</a></code></div>
+<div className="col-last odd-row-color">
+<div className="block">Transport mode.</div>
+</div>
+<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
+<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#vehicleSpecification">vehicleSpecification</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">The vehicle specification for the transport mode.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+<li>
+<section className="constructor-summary" id="constructor-summary">
+
+<div className="caption"><span>Constructors</span></div>
+<div className="summary-table two-column-summary">
+
+
+<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification#%3Cinit%3E()">TransportSpecification</a>()</code></div>
+<div className="col-last even-row-color">
+<div className="block">Creates a new instance.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ========== METHOD SUMMARY =========== -->
+<li>
+<section className="method-summary" id="method-summary">
+
+<div id="method-summary-table">
+
+
+</div>
+<div className="inherited-list">
+<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
+<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
+</section>
+</li>
+</ul>
+</section>
+<section className="details">
+<ul className="details-list">
+<!-- ============ FIELD DETAIL =========== -->
+<li>
+<section className="field-details" id="field-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="transportMode">
+<h3>transportMode</h3>
+<div className="member-signature"><span className="annotations">@NonNull
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span className="element-name">transportMode</span></div>
+<div className="block"><p>Transport mode.
+ Defaults to <code>CAR</code>.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="vehicleSpecification">
+<h3>vehicleSpecification</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></span> <span className="element-name">vehicleSpecification</span></div>
+<div className="block"><p>The vehicle specification for the transport mode.
+ By default, it is not set.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="pedestrianSpecification">
+<h3>pedestrianSpecification</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></span> <span className="element-name">pedestrianSpecification</span></div>
+<div className="block"><p>The pedestrian specification for the transport mode.
+ By default, it is not set.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="taxiSpecification">
+<h3>taxiSpecification</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></span> <span className="element-name">taxiSpecification</span></div>
+<div className="block"><p>The taxi specification for the transport mode.
+ By default, it is not set.</p></div>
+</section>
+</li>
+<li>
+<section className="detail" id="scooterSpecification">
+<h3>scooterSpecification</h3>
+<div className="member-signature"><span className="annotations">@Nullable
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></span> <span className="element-name">scooterSpecification</span></div>
+<div className="block"><p>The scooter specification for the transport mode.
+ By default, it is not set.</p></div>
+</section>
+</li>
+</ul>
+</section>
+</li>
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+<li>
+<section className="constructor-details" id="constructor-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="&lt;init&gt;()">
+<h3>TransportSpecification</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">TransportSpecification</span>()</div>
+<div className="block"><p>Creates a new instance.</p></div>
+</section>
+</li>
+</ul>
+</section>
+</li>
+<!-- ============ METHOD DETAIL ========== -->
+<li>
+<section className="method-details" id="method-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="equals(java.lang.Object)">
+<h3>equals</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
+<dl className="notes">
+<dt>Overrides:</dt>
+<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
+</dl>
+</section>
+</li>
+<li>
+<section className="detail" id="hashCode()">
+<h3>hashCode</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
+<dl className="notes">
+<dt>Overrides:</dt>
+<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
+</dl>
+</section>
+</li>
+</ul>
+</section>
+</li>
+</ul>
+</section>
+<!-- ========= END OF CLASS DATA ========= -->
+
+</div>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

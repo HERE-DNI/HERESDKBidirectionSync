@@ -1,0 +1,165 @@
+---
+title: "PolylineSimplifier (API Reference)"
+slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
+---
+
+<HTMLBlock>{
+`
+<div className="sdk-for-android-navigate">
+<!-- PolylineSimplifier.html -->
+
+
+
+
+
+
+<div className="flex-box">
+
+<div className="flex-content">
+
+<!-- ======== START OF CLASS DATA ======== -->
+<div className="header">
+<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
+
+</div>
+<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
+<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div className="inheritance">com.here.sdk.core.PolylineSimplifier</div>
+</div>
+</div>
+<section className="class-description" id="class-description">
+
+<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">PolylineSimplifier</span>
+<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div className="block"><p>PolylineSimplifier helps to reduce the number of points
+ in the polyline by removing redundant elements using
+ Douglas–Peucker algorithm, so that result stays
+ within <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ Typical use case is to perform input preparation step
+ before invoking computationally heavy API. Such API
+ have an upper limit on the input collection size
+ and is subject to reduced performance when collection
+ is huge. Examples of such API are:
+ <ul>
+<li><code>TrafficEngine</code> methods which accept a <code>GeoCorridor</code>;</li>
+<li><code>RoutePrefetcher.prefetchGeoCorridor</code>.</li>
+</ul></p></div>
+</section>
+<section className="summary">
+<ul className="summary-list">
+<!-- ======== NESTED CLASS SUMMARY ======== -->
+<li>
+<section className="nested-class-summary" id="nested-class-summary">
+
+<div className="caption"><span>Nested Classes</span></div>
+<div className="summary-table three-column-summary">
+
+
+
+<div className="col-first even-row-color"><code>static final class </code></div>
+<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
+<div className="col-last even-row-color">
+<div className="block">Controls the strategy of <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>
+ when reducing a size of polyline.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+<li>
+<section className="constructor-summary" id="constructor-summary">
+
+<div className="caption"><span>Constructors</span></div>
+<div className="summary-table two-column-summary">
+
+
+<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
+<div className="col-last even-row-color">
+<div className="block">Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
+</div>
+</div>
+</section>
+</li>
+<!-- ========== METHOD SUMMARY =========== -->
+<li>
+<section className="method-summary" id="method-summary">
+
+<div id="method-summary-table">
+
+
+</div>
+<div className="inherited-list">
+<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
+<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
+</section>
+</li>
+</ul>
+</section>
+<section className="details">
+<ul className="details-list">
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+<li>
+<section className="constructor-details" id="constructor-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="&lt;init&gt;()">
+<h3>PolylineSimplifier</h3>
+<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">PolylineSimplifier</span>()
+                   throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+<div className="block"><p>Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</p></div>
+<dl className="notes">
+<dt>Throws:</dt>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+</dl>
+</section>
+</li>
+</ul>
+</section>
+</li>
+<!-- ============ METHOD DETAIL ========== -->
+<li>
+<section className="method-details" id="method-detail">
+
+<ul className="member-list">
+<li>
+<section className="detail" id="simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">
+<h3>simplify</h3>
+<div className="member-signature"><span className="annotations">@NonNull
+</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span className="element-name">simplify</span><wbr/><span className="parameters">(@NonNull
+ <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+ @NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
+ @NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</span></div>
+<div className="block"><p>Reduces the number of points in the input polyline.
+ Does this by removing points which are not significant
+ according to the passed <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ Simplification process is performed on the device without
+ connecting to the network and is computationally intensive.</p></div>
+<dl className="notes">
+<dt>Parameters:</dt>
+<dd><code>polyline</code> - <p>Input polyline that should be reduced in size.</p></dd>
+<dd><code>simplificationParameters</code> - <p>Strategy, that controls the behavior of the underlying algorithm.</p></dd>
+<dd><code>callback</code> - <p>Callback, which will be invoked on the main thread,
+     when operation is finished.</p></dd>
+<dt>Returns:</dt>
+<dd><p>Controls an asynchronous operation.</p></dd>
+</dl>
+</section>
+</li>
+</ul>
+</section>
+</li>
+</ul>
+</section>
+<!-- ========= END OF CLASS DATA ========= -->
+
+</div>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>
