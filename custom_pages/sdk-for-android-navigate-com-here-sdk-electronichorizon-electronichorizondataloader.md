@@ -3,174 +3,349 @@ title: "ElectronicHorizonDataLoader (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloader"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- ElectronicHorizonDataLoader.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.electronichorizon</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.electronichorizon.ElectronicHorizonDataLoader</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">ElectronicHorizonDataLoader</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>Loads map data for segments that belong to the <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonEngine</code></a> paths.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.
- Offline availability: This property is available online and offline.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloader#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapdata.SegmentDataLoaderOptions,int)">ElectronicHorizonDataLoader</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
- <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">SegmentDataLoaderOptions</a> options,
- int segmentDataCacheSize)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloader" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoader</code></a>.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapdata.SegmentDataLoaderOptions,int)">
-<h3>ElectronicHorizonDataLoader</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">ElectronicHorizonDataLoader</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">SegmentDataLoaderOptions</a> options,
- int segmentDataCacheSize)</span>
-                            throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div className="block"><p>Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloader" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoader</code></a>.
- The constructor accepts options to configure the data loader. For more information, see <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata"><code>SegmentDataLoaderOptions</code></a>.
- The cache size limits the number of segments that the loader can keep in memory at the same time.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>sdkEngine</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> instance that provides shared services, such as networking and map data.</p></dd>
-<dd><code>options</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata"><code>SegmentDataLoaderOptions</code></a> instance that configures how segment data is requested.</p></dd>
-<dd><code>segmentDataCacheSize</code> - <p>The maximum number of segments that the loader can cache.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors"><code>InstantiationErrorException</code></a> If the data loader cannot be created.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="loadData(com.here.sdk.electronichorizon.ElectronicHorizonUpdate)">
-<h3>loadData</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">loadData</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate" title="class in com.here.sdk.electronichorizon">ElectronicHorizonUpdate</a> electronicHorizonUpdate)</span></div>
-<div className="block"><p>Requests data for all added segments and removes cached data for segments that are not part of the horizon anymore.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>electronicHorizonUpdate</code> - <p>The update that contains the segments to add to the cache and the segments to remove from the cache.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSegment(com.here.sdk.mapdata.DirectedOCMSegmentId)">
-<h3>getSegment</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult" title="class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderResult</a></span> <span className="element-name">getSegment</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a> segmentId)</span></div>
-<div className="block"><p>Returns loaded data for the given segment identifier.
- The result contains either the loaded data or an error code.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>segmentId</code> - <p>The segment identifier for which to return the loaded data from the cache.</p></dd>
-<dt>Returns:</dt>
-<dd><p>The result object that contains either the loaded segment data or an error code.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="addElectronicHorizonDataLoaderStatusListener(com.here.sdk.electronichorizon.ElectronicHorizonDataLoaderStatusListener)">
-<h3>addElectronicHorizonDataLoaderStatusListener</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">addElectronicHorizonDataLoaderStatusListener</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderStatusListener</a> electronicHorizonListener)</span></div>
-<div className="block"><p>Adds an <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoaderStatusListener</code></a> to the subscription list.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>electronicHorizonListener</code> - <p>The listener that receives data loader status updates.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="removeElectronicHorizonDataLoaderStatusListener(com.here.sdk.electronichorizon.ElectronicHorizonDataLoaderStatusListener)">
-<h3>removeElectronicHorizonDataLoaderStatusListener</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">removeElectronicHorizonDataLoaderStatusListener</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderStatusListener</a> electronicHorizonListener)</span></div>
-<div className="block"><p>Removes an <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoaderStatusListener</code></a> from the subscription list.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>electronicHorizonListener</code> - <p>The listener that should no longer receive data loader status updates.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object com.here.NativeBase com.here.sdk.electronichorizon.ElectronicHorizonDataLoader → com.here.NativeBase com.here.sdk.electronichorizon.ElectronicHorizonDataLoader → com.here.sdk.electronichorizon.ElectronicHorizonDataLoader
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonDataLoader</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+Loads map data for segments that belong to the ElectronicHorizonEngine paths. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process. Offline availability: This property is available online and offline.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      ElectronicHorizonDataLoader ( SDKNativeEngine sdkEngine, SegmentDataLoaderOptions options,
+       int segmentDataCacheSize)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of ElectronicHorizonDataLoader .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addElectronicHorizonDataLoaderStatusListener ( ElectronicHorizonDataLoaderStatusListener electronicHorizonListener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Adds an ElectronicHorizonDataLoaderStatusListener to the subscription list.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult" title="class in com.here.sdk.electronichorizon">`ElectronicHorizonDataLoaderResult`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSegment ( DirectedOCMSegmentId segmentId)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns loaded data for the given segment identifier.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      loadData ( ElectronicHorizonUpdate electronicHorizonUpdate)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Requests data for all added segments and removes cached data for segments that are not part of the horizon anymore.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeElectronicHorizonDataLoaderStatusListener ( ElectronicHorizonDataLoaderStatusListener electronicHorizonListener)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Removes an ElectronicHorizonDataLoaderStatusListener from the subscription list.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-com-here-sdk-core-engine-SDKNativeEngine-com-here-sdk-mapdata-SegmentDataLoaderOptions-int" class="section detail">
+
+    ### ElectronicHorizonDataLoader
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">ElectronicHorizonDataLoader</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">SegmentDataLoaderOptions</a> options, int segmentDataCacheSize)</span> throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of ElectronicHorizonDataLoader . The constructor accepts options to configure the data loader. For more information, see SegmentDataLoaderOptions . The cache size limits the number of segments that the loader can keep in memory at the same time.
+
+    </div>
+
+    Parameters:  
+    `sdkEngine` -
+
+    The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">`SDKNativeEngine`</a> instance that provides shared services, such as networking and map data.
+
+    `options` -
+
+    The <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">`SegmentDataLoaderOptions`</a> instance that configures how segment data is requested.
+
+    `segmentDataCacheSize` -
+
+    The maximum number of segments that the loader can cache.
+
+    Throws:  
+    <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
+
+    <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> If the data loader cannot be created.
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-loadData-com-here-sdk-electronichorizon-ElectronicHorizonUpdate" class="section detail">
+
+    ### loadData
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadData</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate" title="class in com.here.sdk.electronichorizon">ElectronicHorizonUpdate</a> electronicHorizonUpdate)</span>
+
+    </div>
+
+    <div class="block">
+
+    Requests data for all added segments and removes cached data for segments that are not part of the horizon anymore.
+
+    </div>
+
+    Parameters:  
+    `electronicHorizonUpdate` -
+
+    The update that contains the segments to add to the cache and the segments to remove from the cache.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSegment-com-here-sdk-mapdata-DirectedOCMSegmentId" class="section detail">
+
+    ### getSegment
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult" title="class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderResult</a></span> <span class="element-name">getSegment</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a> segmentId)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns loaded data for the given segment identifier. The result contains either the loaded data or an error code.
+
+    </div>
+
+    Parameters:  
+    `segmentId` -
+
+    The segment identifier for which to return the loaded data from the cache.
+
+    Returns:  
+    The result object that contains either the loaded segment data or an error code.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-addElectronicHorizonDataLoaderStatusListener-com-here-sdk-electronichorizon-ElectronicHorizonDataLoaderStatusListener" class="section detail">
+
+    ### addElectronicHorizonDataLoaderStatusListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addElectronicHorizonDataLoaderStatusListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderStatusListener</a> electronicHorizonListener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds an ElectronicHorizonDataLoaderStatusListener to the subscription list.
+
+    </div>
+
+    Parameters:  
+    `electronicHorizonListener` -
+
+    The listener that receives data loader status updates.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-removeElectronicHorizonDataLoaderStatusListener-com-here-sdk-electronichorizon-ElectronicHorizonDataLoaderStatusListener" class="section detail">
+
+    ### removeElectronicHorizonDataLoaderStatusListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeElectronicHorizonDataLoaderStatusListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderstatuslistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderStatusListener</a> electronicHorizonListener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Removes an ElectronicHorizonDataLoaderStatusListener from the subscription list.
+
+    </div>
+
+    Parameters:  
+    `electronicHorizonListener` -
+
+    The listener that should no longer receive data loader status updates.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

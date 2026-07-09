@@ -3,293 +3,760 @@ title: "Venue (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- Venue.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.venue.control.Venue</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">Venue</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>Controls the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> inside the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> object.
- The venue controls the selection of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> and the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>
- of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>. It provides the possibility to customize styles for the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a>.
- Objects of this class can only be created using methods
- <a href="sdk-for-android-navigate-venuemap#addVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.addVenueAsync(String, VenueLoadErrorCallback)</code></a> and <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a>.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">
-<h3>setCustomStyle</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setCustomStyle</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</span></div>
-<div className="block"><p>Sets a custom style for geometries and related labels.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>geometries</code> - <p>The list of geometries to apply the new style.</p></dd>
-<dd><code>style</code> - <p>The style for geometries, or <code>null</code> to reset the style to default.</p></dd>
-<dd><code>labelStyle</code> - <p>The style for geometry labels, or <code>null</code> to reset the label style to default.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">
-<h3>setCustomStyle</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setCustomStyle</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
-<div className="block"><p>Sets a custom style for topologies.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>topologies</code> - <p>The list of topologies to apply the new style.</p></dd>
-<dd><code>style</code> - <p>The style for geometries, or <code>null</code> to reset the style to default.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">
-<h3>setCustomStyleToCrosswalk</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setCustomStyleToCrosswalk</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span></div>
-<div className="block"><p>Sets a custom style for crosswalk.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>crosswalks</code> - <p>The list of crosswalk to apply the new style.</p></dd>
-<dd><code>style</code> - <p>The style for geometries, or <code>null</code> to reset the style to default.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getVenueModel()">
-<h3>getVenueModel</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span className="element-name">getVenueModel</span>()</div>
-<div className="block"><p>Gets the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.
- It can be used to get the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
- belonging to this object, like a building or a complex of buildings.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getVenueStyle()">
-<h3>getVenueStyle</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></span> <span className="element-name">getVenueStyle</span>()</div>
-<div className="block"><p>Gets the <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
- controlled by this object.
- It can be used to get the style of the venue. Contains the information about
- the geometry and label styles available for the venue.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
-     controlled by this object.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSelectedDrawing()">
-<h3>getSelectedDrawing</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></span> <span className="element-name">getSelectedDrawing</span>()</div>
-<div className="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.
- Only the selected drawing will be visible as active on the map. All others will be
- hidden or displayed without details, depending on the implementation of the renderer.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The selected drawing.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">
-<h3>setSelectedDrawing</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setSelectedDrawing</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</span></div>
-<div className="block"><p>Sets the selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- Only the selected drawing will be visible as active on the map. All others will be
- hidden or displayed without details, depending on the implementation of the renderer.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The selected drawing.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSelectedLevel()">
-<h3>getSelectedLevel</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span className="element-name">getSelectedLevel</span>()</div>
-<div className="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- Only the selected level will be visible as active on the map. All others will be
- hidden or displayed without details, depending on a renderer implementation.
- If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The selected level.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">
-<h3>setSelectedLevel</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setSelectedLevel</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</span></div>
-<div className="block"><p>Sets the selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- Only the selected level will be visible as active on the map. All others will be
- hidden or displayed without details, depending on a renderer implementation.
- If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The selected level.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSelectedLevelZIndex()">
-<h3>getSelectedLevelZIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getSelectedLevelZIndex</span>()</div>
-<div className="block"><p>Gets the Z index of the currently selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.
- Z index 0 represents the ground level, negative values represent
- underground levels, positive values - levels above the ground.
- Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The Z index value of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setSelectedLevelZIndex(int)">
-<h3>setSelectedLevelZIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setSelectedLevelZIndex</span><wbr/><span className="parameters">(int value)</span></div>
-<div className="block"><p>Sets the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.
- Z index 0 represents the ground level, negative values represent
- underground levels, positive values - levels above the ground.
- Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The Z index value of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSelectedLevelIndex()">
-<h3>getSelectedLevelIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getSelectedLevelIndex</span>()</div>
-<div className="block"><p>Gets the index of the currently selected <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
- of the related <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>. The level array can be taken from
- <a href="sdk-for-android-navigate-venuedrawing#getLevels()"><code>VenueDrawing.getLevels()</code></a>.
- Unlike the Z index, it can't have a negative value.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The index of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
-     of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setSelectedLevelIndex(int)">
-<h3>setSelectedLevelIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setSelectedLevelIndex</span><wbr/><span className="parameters">(int value)</span></div>
-<div className="block"><p>Sets the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
- of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.
- Unlike the Z index, it can't have a negative value.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The index of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
-     of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isTopologyVisible()">
-<h3>isTopologyVisible</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">isTopologyVisible</span>()</div>
-<div className="block"><p>Gets the current status of topology visibility.
- It can be used to check the status of topology visibility.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Returns true if topology is visible.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setTopologyVisible(boolean)">
-<h3>setTopologyVisible</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setTopologyVisible</span><wbr/><span className="parameters">(boolean value)</span></div>
-<div className="block"><p>Sets the topology visibility.
- It can be used to check the status of topology visibility.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>Returns true if topology is visible.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.venue.control.Venue → com.here.NativeBase com.here.sdk.venue.control.Venue → com.here.sdk.venue.control.Venue
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Venue</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+Controls the VenueModel inside the VenueMap object. The venue controls the selection of the VenueDrawing and the VenueLevel of the VenueModel . It provides the possibility to customize styles for the VenueGeometry . Objects of this class can only be created using methods VenueMap.addVenueAsync(String, VenueLoadErrorCallback) and VenueMap.selectVenueAsync(String, VenueLoadErrorCallback) .
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">`VenueDrawing`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSelectedDrawing ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the currently selected VenueDrawing of the VenueModel .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">`VenueLevel`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSelectedLevel ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the currently selected VenueLevel from the selected VenueDrawing .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSelectedLevelIndex ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index of the currently selected VenueLevel in the level array of the related VenueDrawing .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSelectedLevelZIndex ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the Z index of the currently selected VenueLevel .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">`VenueModel`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVenueModel ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the VenueModel controlled by this object.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">`VenueStyle`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getVenueStyle ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the VenueStyle associated with the VenueModel controlled by this object.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isTopologyVisible ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the current status of topology visibility.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomStyle ( List < VenueGeometry > geometries, VenueGeometryStyle style, VenueLabelStyle labelStyle)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets a custom style for geometries and related labels.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomStyle ( List < VenueTopology > topologies, VenueGeometryStyle style)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets a custom style for topologies.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setCustomStyleToCrosswalk ( List < Crosswalk > crosswalks, VenueGeometryStyle style)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets a custom style for crosswalk.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setSelectedDrawing ( VenueDrawing value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the selected VenueDrawing .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setSelectedLevel ( VenueLevel value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the selected VenueLevel from the currently selected VenueDrawing .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setSelectedLevelIndex (int value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the VenueLevel with the specified index from the level array of the VenueDrawing as selected.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setSelectedLevelZIndex (int value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the VenueLevel with the specified Z index as selected.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setTopologyVisible (boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the topology visibility.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-setCustomStyle-java-util-List-com-here-sdk-venue-style-VenueGeometryStyle-com-here-sdk-venue-style-VenueLabelStyle" class="section detail">
+
+    ### setCustomStyle
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>\> geometries, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets a custom style for geometries and related labels.
+
+    </div>
+
+    Parameters:  
+    `geometries` -
+
+    The list of geometries to apply the new style.
+
+    `style` -
+
+    The style for geometries, or `null` to reset the style to default.
+
+    `labelStyle` -
+
+    The style for geometry labels, or `null` to reset the label style to default.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setCustomStyle-java-util-List-com-here-sdk-venue-style-VenueGeometryStyle" class="section detail">
+
+    ### setCustomStyle
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>\> topologies, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets a custom style for topologies.
+
+    </div>
+
+    Parameters:  
+    `topologies` -
+
+    The list of topologies to apply the new style.
+
+    `style` -
+
+    The style for geometries, or `null` to reset the style to default.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setCustomStyleToCrosswalk-java-util-List-com-here-sdk-venue-style-VenueGeometryStyle" class="section detail">
+
+    ### setCustomStyleToCrosswalk
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomStyleToCrosswalk</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>\> crosswalks, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets a custom style for crosswalk.
+
+    </div>
+
+    Parameters:  
+    `crosswalks` -
+
+    The list of crosswalk to apply the new style.
+
+    `style` -
+
+    The style for geometries, or `null` to reset the style to default.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getVenueModel" class="section detail">
+
+    ### getVenueModel
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span class="element-name">getVenueModel</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the VenueModel controlled by this object. It can be used to get the VenueModel belonging to this object, like a building or a complex of buildings.
+
+    </div>
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">`VenueModel`</a> controlled by this object.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getVenueStyle" class="section detail">
+
+    ### getVenueStyle
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></span> <span class="element-name">getVenueStyle</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the VenueStyle associated with the VenueModel controlled by this object. It can be used to get the style of the venue. Contains the information about the geometry and label styles available for the venue.
+
+    </div>
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">`VenueStyle`</a> associated with the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">`VenueModel`</a> controlled by this object.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSelectedDrawing" class="section detail">
+
+    ### getSelectedDrawing
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></span> <span class="element-name">getSelectedDrawing</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the currently selected VenueDrawing of the VenueModel . Only the selected drawing will be visible as active on the map. All others will be hidden or displayed without details, depending on the implementation of the renderer.
+
+    </div>
+
+    Returns:  
+    The selected drawing.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setSelectedDrawing-com-here-sdk-venue-data-VenueDrawing" class="section detail">
+
+    ### setSelectedDrawing
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedDrawing</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the selected VenueDrawing . Only the selected drawing will be visible as active on the map. All others will be hidden or displayed without details, depending on the implementation of the renderer.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The selected drawing.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSelectedLevel" class="section detail">
+
+    ### getSelectedLevel
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getSelectedLevel</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the currently selected VenueLevel from the selected VenueDrawing . Only the selected level will be visible as active on the map. All others will be hidden or displayed without details, depending on a renderer implementation. If the level doesn't belong to the currently selected drawing, it can not be selected.
+
+    </div>
+
+    Returns:  
+    The selected level.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setSelectedLevel-com-here-sdk-venue-data-VenueLevel" class="section detail">
+
+    ### setSelectedLevel
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the selected VenueLevel from the currently selected VenueDrawing . Only the selected level will be visible as active on the map. All others will be hidden or displayed without details, depending on a renderer implementation. If the level doesn't belong to the currently selected drawing, it can not be selected.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The selected level.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSelectedLevelZIndex" class="section detail">
+
+    ### getSelectedLevelZIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSelectedLevelZIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the Z index of the currently selected VenueLevel . Z index 0 represents the ground level, negative values represent underground levels, positive values - levels above the ground. Z index can also be taken from VenueLevel.getZIndex() .
+
+    </div>
+
+    Returns:  
+    The Z index value of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">`VenueLevel`</a> selected.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setSelectedLevelZIndex-int" class="section detail">
+
+    ### setSelectedLevelZIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelZIndex</span><wbr></wbr><span class="parameters">(int value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the VenueLevel with the specified Z index as selected. Z index 0 represents the ground level, negative values represent underground levels, positive values - levels above the ground. Z index can also be taken from VenueLevel.getZIndex() .
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The Z index value of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">`VenueLevel`</a> selected.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSelectedLevelIndex" class="section detail">
+
+    ### getSelectedLevelIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSelectedLevelIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the index of the currently selected VenueLevel in the level array of the related VenueDrawing . The level array can be taken from VenueDrawing.getLevels() . Unlike the Z index, it can't have a negative value.
+
+    </div>
+
+    Returns:  
+    The index of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">`VenueLevel`</a> selected from the level array of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">`VenueDrawing`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setSelectedLevelIndex-int" class="section detail">
+
+    ### setSelectedLevelIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelIndex</span><wbr></wbr><span class="parameters">(int value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the VenueLevel with the specified index from the level array of the VenueDrawing as selected. Unlike the Z index, it can't have a negative value.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The index of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">`VenueLevel`</a> selected from the level array of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing" title="class in com.here.sdk.venue.data">`VenueDrawing`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isTopologyVisible" class="section detail">
+
+    ### isTopologyVisible
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isTopologyVisible</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the current status of topology visibility. It can be used to check the status of topology visibility.
+
+    </div>
+
+    Returns:  
+    Returns true if topology is visible.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setTopologyVisible-boolean" class="section detail">
+
+    ### setTopologyVisible
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTopologyVisible</span><wbr></wbr><span class="parameters">(boolean value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the topology visibility. It can be used to check the status of topology visibility.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    Returns true if topology is visible.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

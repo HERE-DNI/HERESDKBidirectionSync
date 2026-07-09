@@ -3,175 +3,329 @@ title: "LocationSimulatorOptions (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- LocationSimulatorOptions.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.navigation.LocationSimulatorOptions</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">LocationSimulatorOptions</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Options to specify how the location simulator will behave.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
-
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#notificationInterval">notificationInterval</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Interval between notifications.</div>
-</div>
-<div className="col-first odd-row-color"><code>double</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#speedFactor">speedFactor</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">A factor to scale the speed.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#%3Cinit%3E()">LocationSimulatorOptions</a>()</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance of this class.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="speedFactor">
-<h3>speedFactor</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">double</span> <span className="element-name">speedFactor</span></div>
-<div className="block"><p>A factor to scale the speed.
- Useful to speed up (or down) the simulation.
- By default, the speed factor is 1.0, which is equal to the speed that one normally drives along
- each route segment without taking into account any traffic-related constraints.
- The default speed may vary based on the road geometry, road condition and other statistical
- data.
- Values above 1.0 will increase the speed, values below 1.0 will reduce the speed.
- For example, a value of 2.0 will double the speed.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="notificationInterval">
-<h3>notificationInterval</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span className="element-name">notificationInterval</span></div>
-<div className="block"><p>Interval between notifications.
- Defaults to 1 second.
- Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.
- Note: This value does not affect <code>LocationSimulator</code> when created with a <code>GPXTrack</code>.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;()">
-<h3>LocationSimulatorOptions</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">LocationSimulatorOptions</span>()</div>
-<div className="block"><p>Creates a new instance of this class.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+java.lang.Object com.here.sdk.navigation.LocationSimulatorOptions → com.here.sdk.navigation.LocationSimulatorOptions
 
-<ul className="member-list">
-<li>
-<section className="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LocationSimulatorOptions</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
+</div>
+
+<div class="block">
+
+Options to specify how the location simulator will behave.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">`Duration`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#notificationInterval" class="member-name-link"><code>notificationInterval</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Interval between notifications.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#speedFactor" class="member-name-link"><code>speedFactor</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A factor to scale the speed.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LocationSimulatorOptions ()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of this class.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals ( Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-speedFactor" class="section detail">
+
+    ### speedFactor
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">speedFactor</span>
+
+    </div>
+
+    <div class="block">
+
+    A factor to scale the speed. Useful to speed up (or down) the simulation. By default, the speed factor is 1.0, which is equal to the speed that one normally drives along each route segment without taking into account any traffic-related constraints. The default speed may vary based on the road geometry, road condition and other statistical data. Values above 1.0 will increase the speed, values below 1.0 will reduce the speed. For example, a value of 2.0 will double the speed.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-notificationInterval" class="section detail">
+
+    ### notificationInterval
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">notificationInterval</span>
+
+    </div>
+
+    <div class="block">
+
+    Interval between notifications. Defaults to 1 second. Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors. Note: This value does not affect LocationSimulator when created with a GPXTrack .
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init" class="section detail">
+
+    ### LocationSimulatorOptions
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">LocationSimulatorOptions</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of this class.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-equals-java-lang-Object" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hashCode" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

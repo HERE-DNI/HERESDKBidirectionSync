@@ -3,79 +3,114 @@ title: "LowSpeedZoneWarningListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarninglistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- LowSpeedZoneWarningListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">LowSpeedZoneWarningListener</span></div>
-<div className="block"><p>This interface should be implemented in order to receive low speed zone warnings.
- <strong>Note:</strong> This is currently available <em>only</em> for Japan.
- The low speed zone warner is a zone warner, which means that for a low speed zone there will <em>always</em>
- be 3 warnings emitted, with the <code>LowSpeedZoneWarning.distance_type</code> set to <code>DistanceType.AHEAD</code>, <code>DistanceType.REACHED</code>
- and lastly <code>DistanceType.PASSED</code> when the end of the low speed zone is passed.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onLowSpeedZoneWarningUpdated(com.here.sdk.navigation.LowSpeedZoneWarning)">
-<h3>onLowSpeedZoneWarningUpdated</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onLowSpeedZoneWarningUpdated</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</span></div>
-<div className="block"><p>Called whenever a new low speed zone warning is available.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>lowSpeedZoneWarning</code> - <p>The object that contains details on the low speed zone warning.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">LowSpeedZoneWarningListener</span>
+
+</div>
+
+<div class="block">
+
+This interface should be implemented in order to receive low speed zone warnings. Note: This is currently available only for Japan. The low speed zone warner is a zone warner, which means that for a low speed zone there will always be 3 warnings emitted, with the LowSpeedZoneWarning.distance_type set to DistanceType.AHEAD , DistanceType.REACHED and lastly DistanceType.PASSED when the end of the low speed zone is passed.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onLowSpeedZoneWarningUpdated ( LowSpeedZoneWarning lowSpeedZoneWarning)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called whenever a new low speed zone warning is available.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onLowSpeedZoneWarningUpdated-com-here-sdk-navigation-LowSpeedZoneWarning" class="section detail">
+
+    ### onLowSpeedZoneWarningUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onLowSpeedZoneWarningUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called whenever a new low speed zone warning is available.
+
+    </div>
+
+    Parameters:  
+    `lowSpeedZoneWarning` -
+
+    The object that contains details on the low speed zone warning.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

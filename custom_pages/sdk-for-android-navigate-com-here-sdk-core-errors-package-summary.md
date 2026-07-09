@@ -3,58 +3,139 @@ title: "com.here.sdk.core.errors (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-errors-package-summary"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- package-summary.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
+<div class="header">
 
 </div>
 
-<div className="package-signature">package <span className="element-name">com.here.sdk.core.errors</span></div>
-<section className="summary">
-<ul className="summary-list">
-<li>
-<div id="related-package-summary">
-<div className="caption"><span>Related Packages</span></div>
-<div className="summary-table two-column-summary">
+<div class="package-signature">
 
-
-<div className="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
-<div className="col-last even-row-color"> </div>
-<div className="col-first odd-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
-<div className="col-last odd-row-color"> </div>
-<div className="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.threading</a></div>
-<div className="col-last even-row-color"> </div>
-<div className="col-first odd-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.utilities</a></div>
-<div className="col-last odd-row-color"> </div>
-</div>
-</div>
-</li>
-<li>
-<div id="class-summary">
-
+package <span class="element-name">com.here.sdk.core.errors</span>
 
 </div>
-</li>
-</ul>
-</section>
 
-</div>
-</div>
+- <div id="sdk-for-android-navigate-related-package-summary">
 
+  <div class="caption">
 
+  Related Packages
 
-</div>
-`
-}</HTMLBlock>
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Package
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-class-summary">
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color class-summary class-summary-tab3">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>
+
+  </div>
+
+  <div class="col-last even-row-color class-summary class-summary-tab3">
+
+  <div class="block">
+
+  Instantiation error.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color class-summary class-summary-tab5">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a>
+
+  </div>
+
+  <div class="col-last odd-row-color class-summary class-summary-tab5">
+
+  <div class="block">
+
+  Instantiation error.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+

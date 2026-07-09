@@ -3,284 +3,701 @@ title: "Place (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-search-place"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- Place.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.search.Place</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">Place</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>Represents a location object, such as a country, a city, a point of interest (POI) etc.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="serializeCompact()">
-<h3>serializeCompact</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">serializeCompact</span>()</div>
-<div className="block"><p>Serializes <a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> to persist or transfer. Preserves limited amount of data:
- <ul>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getTitle()"><code>getTitle()</code></a></li>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getId()"><code>getId()</code></a></li>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getGeoCoordinates()"><code>getGeoCoordinates()</code></a></li>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getAccessPoints()"><code>getAccessPoints()</code></a></li>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a></li>
-<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getBoundingBox()"><code>getBoundingBox()</code></a></li>
-<li><a href="sdk-for-android-navigate-details#getPrimaryCategories()"><code>Details.getPrimaryCategories()</code></a></li>
-<li><a href="sdk-for-android-navigate-address#addressText"><code>Address.addressText</code></a></li>
-<li><a href="sdk-for-android-navigate-address#countryCode"><code>Address.countryCode</code></a></li>
-</ul></p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The serialized place</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="deserialize(java.lang.String)">
-<h3>deserialize</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></span> <span className="element-name">deserialize</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> serializedPlace)</span>
-                         throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></span></div>
-<div className="block"><p>Returns a <a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> created from serialized string.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>serializedPlace</code> - <p>The serialized place</p></dd>
-<dt>Returns:</dt>
-<dd><p>A <a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> created from serialized string.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></code> - <p>Indicates what went wrong during deserialization attempt.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getTitle()">
-<h3>getTitle</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getTitle</span>()</div>
-<div className="block"><p>Gets the localized title for the resource.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The localized title for the resource.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getId()">
-<h3>getId</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getId</span>()</div>
-<div className="block"><p>Gets the unique id of this resource. It can be used to query further information.
- When returned from <code>OfflineSearchEngine</code>, <code>id</code> is valid only for <code>Place</code> objects whose
- <code>place_type</code> is <code>POI</code>. Otherwise, it is empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The unique id of this resource. It can be used to query further information.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getPlaceType()">
-<h3>getPlaceType</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span className="element-name">getPlaceType</span>()</div>
-<div className="block"><p>Gets the place type.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The place type.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getAreaType()">
-<h3>getAreaType</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span className="element-name">getAreaType</span>()</div>
-<div className="block"><p>Gets the area type. It is available only when the <a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The area type. It is available only when the <a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getAddress()">
-<h3>getAddress</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span className="element-name">getAddress</span>()</div>
-<div className="block"><p>Gets the address of the place.
- Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
- <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-navigate-address#addressText"><code>Address.addressText</code></a>.
- Complete address details can be obtained by searching with <a href="sdk-for-android-navigate-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The address of the place.
-     Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
-     <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-navigate-address#addressText"><code>Address.addressText</code></a>.
-     Complete address details can be obtained by searching with <a href="sdk-for-android-navigate-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getDetails()">
-<h3>getDetails</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-details" title="class in com.here.sdk.search">Details</a></span> <span className="element-name">getDetails</span>()</div>
-<div className="block"><p>Gets the place's detailed information.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The place's detailed information.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getGeoCoordinates()">
-<h3>getGeoCoordinates</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span className="element-name">getGeoCoordinates</span>()</div>
-<div className="block"><p>Gets the geographic coordinates of the place.
- Can be <code>null</code> when retrieved from a suggestion's place property.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The geographic coordinates of the place.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isCoordinatesInterpolated()">
-<h3>isCoordinatesInterpolated</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">isCoordinatesInterpolated</span>()</div>
-<div className="block"><p>Gets the flag saying whether the coordinates of the house number were interpolated or not.
- This property is valid only for house number results retrieved using online search.
- When false, it means <a href="sdk-for-android-navigate-com-here-sdk-search-place#getGeoCoordinates()"><code>getGeoCoordinates()</code></a> point to an accurate position of the house. Otherwise
- coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>A property that says whether the coordinates of the house number were interpolated or not.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getAccessPoints()">
-<h3>getAccessPoints</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span className="element-name">getAccessPoints</span>()</div>
-<div className="block"><p>Gets the access points to the place, such as the points on a road or in a parking lot.
- A place can have multiple access points. For example, a large warehouse can have
- multiple entrances, while the center of the warehouse may not be directly reachable.
- Note that access points are meant to be reachable by vehicles.
- For routes it is recommended to navigate to one of the available access points (if any),
- whereas the <code>sideOfStreetHint</code> should be set to the geographic coordinates of the place.
- The list is empty when no access points are known or when the place is directly reachable.
- A place can have multiple access points. For example, a large warehouse can have
- multiple entrances, while the center of the warehouse may not be directly reachable.
- Note that access points are meant to be reachable by vehicles.
- For routes it is recommended to navigate to one of the available access points (if any),
- whereas the <code>sideOfStreetHint</code> should be set to the geographic coordinates of the place.
- The list is empty when no access points are known or when the place is directly reachable.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The access points to the place, such as the points on a road or in a parking lot.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getBoundingBox()">
-<h3>getBoundingBox</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span className="element-name">getBoundingBox</span>()</div>
-<div className="block"><p>Gets the geographic coordinates of the bounding box containing the place.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The geographic coordinates of the map bounding box containing the place.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getDistanceInMeters()">
-<h3>getDistanceInMeters</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span className="element-name">getDistanceInMeters</span>()</div>
-<div className="block"><p>Gets the distance from the search center to the place in meters.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The distance from the search center to the place in meters.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getPoliticalView()">
-<h3>getPoliticalView</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getPoliticalView</span>()</div>
-<div className="block"><p>Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
- Populated when the geopolitical view parameter is set in the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
- and passed to <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> on instantiation,
- but only if it is an alternative view.
- For more details refer to <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.search.Place → com.here.NativeBase com.here.sdk.search.Place → com.here.sdk.search.Place
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Place</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+Represents a location object, such as a country, a city, a point of interest (POI) etc.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search">`Place`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      deserialize ( String serializedPlace)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns a Place created from serialized string.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAccessPoints ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the access points to the place, such as the points on a road or in a parking lot.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">`Address`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAddress ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the address of the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">`AreaType`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAreaType ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the area type.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getBoundingBox ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the geographic coordinates of the bounding box containing the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-details" title="class in com.here.sdk.search">`Details`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDetails ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the place's detailed information.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDistanceInMeters ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the distance from the search center to the place in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getGeoCoordinates ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the geographic coordinates of the place.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getId ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the unique id of this resource.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">`PlaceType`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPlaceType ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the place type.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPoliticalView ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTitle ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the localized title for the resource.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isCoordinatesInterpolated ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the flag saying whether the coordinates of the house number were interpolated or not.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      serializeCompact ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Serializes Place to persist or transfer.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-serializeCompact" class="section detail">
+
+    ### serializeCompact
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">serializeCompact</span>()
+
+    </div>
+
+    <div class="block">
+
+    Serializes Place to persist or transfer. Preserves limited amount of data: getTitle() getId() getGeoCoordinates() getAccessPoints() getPlaceType() getBoundingBox() Details.getPrimaryCategories() Address.addressText Address.countryCode
+
+    </div>
+
+    Returns:  
+    The serialized place
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-deserialize-java-lang-String" class="section detail">
+
+    ### deserialize
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">deserialize</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> serializedPlace)</span> throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Returns a Place created from serialized string.
+
+    </div>
+
+    Parameters:  
+    `serializedPlace` -
+
+    The serialized place
+
+    Returns:  
+    A <a href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search">`Place`</a> created from serialized string.
+
+    Throws:  
+    <a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">`PlaceSerializationException`</a> -
+
+    Indicates what went wrong during deserialization attempt.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getTitle" class="section detail">
+
+    ### getTitle
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTitle</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the localized title for the resource.
+
+    </div>
+
+    Returns:  
+    The localized title for the resource.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getId" class="section detail">
+
+    ### getId
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the unique id of this resource. It can be used to query further information. When returned from OfflineSearchEngine , id is valid only for Place objects whose place_type is POI . Otherwise, it is empty.
+
+    </div>
+
+    Returns:  
+    The unique id of this resource. It can be used to query further information.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getPlaceType" class="section detail">
+
+    ### getPlaceType
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span class="element-name">getPlaceType</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the place type.
+
+    </div>
+
+    Returns:  
+    The place type.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getAreaType" class="section detail">
+
+    ### getAreaType
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">getAreaType</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the area type. It is available only when the getPlaceType() is PlaceType.AREA .
+
+    </div>
+
+    Returns:  
+    The area type. It is available only when the [](sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType())
+
+        getPlaceType()
+
+    </a> is <a href="sdk-for-android-navigate-com-here-sdk-search-placetype#AREA">`PlaceType.AREA`</a>.
+
+    </p>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getAddress" class="section detail">
+
+    ### getAddress
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span class="element-name">getAddress</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the address of the place. Note that while OfflineSearchEngine.suggest and OfflineSearchEngine.suggestByText set all available details, SearchEngine.suggest and SearchEngine.suggestByText set only Address.addressText . Complete address details can be obtained by searching with PlaceIdQuery .
+
+    </div>
+
+    Returns:  
+    The address of the place. Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-android-navigate-com-here-sdk-search-address#addressText">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-android-navigate-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">`PlaceIdQuery`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getDetails" class="section detail">
+
+    ### getDetails
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-details" title="class in com.here.sdk.search">Details</a></span> <span class="element-name">getDetails</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the place's detailed information.
+
+    </div>
+
+    Returns:  
+    The place's detailed information.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getGeoCoordinates" class="section detail">
+
+    ### getGeoCoordinates
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the geographic coordinates of the place. Can be null when retrieved from a suggestion's place property.
+
+    </div>
+
+    Returns:  
+    The geographic coordinates of the place.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isCoordinatesInterpolated" class="section detail">
+
+    ### isCoordinatesInterpolated
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isCoordinatesInterpolated</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the flag saying whether the coordinates of the house number were interpolated or not. This property is valid only for house number results retrieved using online search. When false, it means getGeoCoordinates() point to an accurate position of the house. Otherwise coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.
+
+    </div>
+
+    Returns:  
+    A property that says whether the coordinates of the house number were interpolated or not.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getAccessPoints" class="section detail">
+
+    ### getAccessPoints
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\></span> <span class="element-name">getAccessPoints</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the access points to the place, such as the points on a road or in a parking lot. A place can have multiple access points. For example, a large warehouse can have multiple entrances, while the center of the warehouse may not be directly reachable. Note that access points are meant to be reachable by vehicles. For routes it is recommended to navigate to one of the available access points (if any), whereas the sideOfStreetHint should be set to the geographic coordinates of the place. The list is empty when no access points are known or when the place is directly reachable. A place can have multiple access points. For example, a large warehouse can have multiple entrances, while the center of the warehouse may not be directly reachable. Note that access points are meant to be reachable by vehicles. For routes it is recommended to navigate to one of the available access points (if any), whereas the sideOfStreetHint should be set to the geographic coordinates of the place. The list is empty when no access points are known or when the place is directly reachable.
+
+    </div>
+
+    Returns:  
+    The access points to the place, such as the points on a road or in a parking lot.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getBoundingBox" class="section detail">
+
+    ### getBoundingBox
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the geographic coordinates of the bounding box containing the place.
+
+    </div>
+
+    Returns:  
+    The geographic coordinates of the map bounding box containing the place.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getDistanceInMeters" class="section detail">
+
+    ### getDistanceInMeters
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getDistanceInMeters</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the distance from the search center to the place in meters.
+
+    </div>
+
+    Returns:  
+    The distance from the search center to the place in meters.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getPoliticalView" class="section detail">
+
+    ### getPoliticalView
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getPoliticalView</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views. Populated when the geopolitical view parameter is set in the SDKOptions and passed to SDKNativeEngine on instantiation, but only if it is an alternative view. For more details refer to SDKOptions .
+
+    </div>
+
+    Returns:  
+    The geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

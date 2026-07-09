@@ -3,202 +3,339 @@ title: "JunctionViewLaneAssistance (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- JunctionViewLaneAssistance.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.navigation.JunctionViewLaneAssistance</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">JunctionViewLaneAssistance</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>A class that provides lane assistance information for the next complex junction
- in order to keep following the route. It is recommended to indicate <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>
- and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> separately or to indicate only <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> information -
- <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> will recommend all lanes that allow to pass the upcoming complex junction, regardless
- if they will lead to the next maneuver or not.
- If the location of a maneuver lies on an upcoming complex junction, the recommended lanes will be
- the same as the ones from <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>.
- A junction is recognized as complex only if:
- <ul>
-<li>it is at least a bifurcation;</li>
-<li>it has at least two lanes whose directions do not follow the current route.
- In opposition to <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>, notifications are also forwarded when there is
- no maneuver action occurring at the next complex junction.
- Therefore, <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> can be disjointed from maneuvers. If lane assistance should be used to
- associate it with upcoming maneuvers, consider to use <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> instead.
- Note that <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> notifications are synchronized with maneuver events,
- whereas <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> events are not strictly synchronized with maneuver events.</li>
-</ul></p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
-
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code>double</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#distanceToJunctionInMeters">distanceToJunctionInMeters</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Distance to the next complex junction in meters.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#lanesForNextJunction">lanesForNextJunction</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">A list of lanes on the next complex junction.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#%3Cinit%3E(java.util.List,double)">JunctionViewLaneAssistance</a><wbr/>(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
- double distanceToJunctionInMeters)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="lanesForNextJunction">
-<h3>lanesForNextJunction</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span className="element-name">lanesForNextJunction</span></div>
-<div className="block"><p>A list of lanes on the next complex junction.
- The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
- the last index represents the rightmost lane. This is valid for right-hand and left-hand driving
- countries. An empty list means that the complex junction has been passed and that the lane information is not
- valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
- one event with an empty list afterwards.
- <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="distanceToJunctionInMeters">
-<h3>distanceToJunctionInMeters</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">double</span> <span className="element-name">distanceToJunctionInMeters</span></div>
-<div className="block"><p>Distance to the next complex junction in meters.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(java.util.List,double)">
-<h3>JunctionViewLaneAssistance</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">JunctionViewLaneAssistance</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
- double distanceToJunctionInMeters)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>lanesForNextJunction</code> - <p>A list of lanes on the next complex junction.
- The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
- the last index represents the rightmost lane. This is valid for right-hand and left-hand driving
- countries. An empty list means that the complex junction has been passed and that the lane information is not
- valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
- one event with an empty list afterwards.
- <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></dd>
-<dd><code>distanceToJunctionInMeters</code> - <p>Distance to the next complex junction in meters.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+java.lang.Object com.here.sdk.navigation.JunctionViewLaneAssistance → com.here.sdk.navigation.JunctionViewLaneAssistance
 
-<ul className="member-list">
-<li>
-<section className="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">JunctionViewLaneAssistance</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
+</div>
+
+<div class="block">
+
+A class that provides lane assistance information for the next complex junction in order to keep following the route. It is recommended to indicate JunctionViewLaneAssistance and ManeuverViewLaneAssistance separately or to indicate only ManeuverViewLaneAssistance information - JunctionViewLaneAssistance will recommend all lanes that allow to pass the upcoming complex junction, regardless if they will lead to the next maneuver or not. If the location of a maneuver lies on an upcoming complex junction, the recommended lanes will be the same as the ones from ManeuverViewLaneAssistance . A junction is recognized as complex only if: it is at least a bifurcation; it has at least two lanes whose directions do not follow the current route. In opposition to ManeuverViewLaneAssistance , notifications are also forwarded when there is no maneuver action occurring at the next complex junction. Therefore, JunctionViewLaneAssistance can be disjointed from maneuvers. If lane assistance should be used to associate it with upcoming maneuvers, consider to use ManeuverViewLaneAssistance instead. Note that ManeuverViewLaneAssistance notifications are synchronized with maneuver events, whereas JunctionViewLaneAssistance events are not strictly synchronized with maneuver events.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#distanceToJunctionInMeters" class="member-name-link"><code>distanceToJunctionInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Distance to the next complex junction in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">`Lane`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#lanesForNextJunction" class="member-name-link"><code>lanesForNextJunction</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A list of lanes on the next complex junction.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      JunctionViewLaneAssistance ( List < Lane > lanesForNextJunction,
+       double distanceToJunctionInMeters)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals ( Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-lanesForNextJunction" class="section detail">
+
+    ### lanesForNextJunction
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>\></span> <span class="element-name">lanesForNextJunction</span>
+
+    </div>
+
+    <div class="block">
+
+    A list of lanes on the next complex junction. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for right-hand and left-hand driving countries. An empty list means that the complex junction has been passed and that the lane information is not valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and one event with an empty list afterwards. Note: Lanes going in opposite direction are not included in the list.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-distanceToJunctionInMeters" class="section detail">
+
+    ### distanceToJunctionInMeters
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">distanceToJunctionInMeters</span>
+
+    </div>
+
+    <div class="block">
+
+    Distance to the next complex junction in meters.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-java-util-List-double" class="section detail">
+
+    ### JunctionViewLaneAssistance
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">JunctionViewLaneAssistance</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>\> lanesForNextJunction, double distanceToJunctionInMeters)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `lanesForNextJunction` -
+
+    A list of lanes on the next complex junction. The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and the last index represents the rightmost lane. This is valid for right-hand and left-hand driving countries. An empty list means that the complex junction has been passed and that the lane information is not valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and one event with an empty list afterwards. **Note:** Lanes going in opposite direction are not included in the list.
+
+    `distanceToJunctionInMeters` -
+
+    Distance to the next complex junction in meters.
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-equals-java-lang-Object" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hashCode" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

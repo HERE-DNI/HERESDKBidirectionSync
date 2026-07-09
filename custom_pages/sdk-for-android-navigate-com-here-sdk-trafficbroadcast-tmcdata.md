@@ -3,248 +3,556 @@ title: "TMCData (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- TMCData.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.trafficbroadcast</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-package-summary">com.here.sdk.trafficbroadcast</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.trafficbroadcast.TMCData</div>
-</div>
-<section className="class-description" id="class-description">
 
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">TMCData</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Represents the traffic events in RDS-TMC format.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
+</div>
 
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
+<div class="inheritance" title="Inheritance Tree">
 
+java.lang.Object com.here.sdk.trafficbroadcast.TMCData → com.here.sdk.trafficbroadcast.TMCData
 
+</div>
 
-<div className="col-first even-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalEvents">additionalEvents</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Additional traffic events.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt;</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalLocations">additionalLocations</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Additional traffic locations.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#direction">direction</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Street direction.</div>
-</div>
-<div className="col-first odd-row-color"><code>short</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#diversionAdvice">diversionAdvice</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Diversion advice.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#durationPersistence">durationPersistence</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Duration persitence.</div>
-</div>
-<div className="col-first odd-row-color"><code>int</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#event">event</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Traffic event data.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#extent">extent</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Extent.</div>
-</div>
-<div className="col-first odd-row-color"><code>long</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#location">location</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Traffic event location.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#numberOfGroups">numberOfGroups</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Number of groups (1 to 5).</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
 
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
+<div class="type-signature">
 
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TMCData</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#%3Cinit%3E(short,short,short,short,short,int,long,java.util.List,java.util.List)">TMCData</a><wbr/>(short numberOfGroups,
- short extent,
- short direction,
- short diversionAdvice,
- short durationPersistence,
- int event,
- long location,
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; additionalEvents,
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; additionalLocations)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
 </div>
+
+<div class="block">
+
+Represents the traffic events in RDS-TMC format.
+
 </div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
 
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
+</div>
 
-<ul className="member-list">
-<li>
-<section className="detail" id="numberOfGroups">
-<h3>numberOfGroups</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">numberOfGroups</span></div>
-<div className="block"><p>Number of groups (1 to 5).</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="extent">
-<h3>extent</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">extent</span></div>
-<div className="block"><p>Extent.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="direction">
-<h3>direction</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">direction</span></div>
-<div className="block"><p>Street direction.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="diversionAdvice">
-<h3>diversionAdvice</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">diversionAdvice</span></div>
-<div className="block"><p>Diversion advice.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="durationPersistence">
-<h3>durationPersistence</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">durationPersistence</span></div>
-<div className="block"><p>Duration persitence.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="event">
-<h3>event</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">event</span></div>
-<div className="block"><p>Traffic event data.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="location">
-<h3>location</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">long</span> <span className="element-name">location</span></div>
-<div className="block"><p>Traffic event location.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="additionalEvents">
-<h3>additionalEvents</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span className="element-name">additionalEvents</span></div>
-<div className="block"><p>Additional traffic events.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="additionalLocations">
-<h3>additionalLocations</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt;</span> <span className="element-name">additionalLocations</span></div>
-<div className="block"><p>Additional traffic locations.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(short,short,short,short,short,int,long,java.util.List,java.util.List)">
-<h3>TMCData</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">TMCData</span><wbr/><span className="parameters">(short numberOfGroups,
- short extent,
- short direction,
- short diversionAdvice,
- short durationPersistence,
- int event,
- long location,
- @NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; additionalEvents,
- @NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; additionalLocations)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>numberOfGroups</code> - <p>Number of groups (1 to 5).</p></dd>
-<dd><code>extent</code> - <p>Extent.</p></dd>
-<dd><code>direction</code> - <p>Street direction.</p></dd>
-<dd><code>diversionAdvice</code> - <p>Diversion advice.</p></dd>
-<dd><code>durationPersistence</code> - <p>Duration persitence.</p></dd>
-<dd><code>event</code> - <p>Traffic event data.</p></dd>
-<dd><code>location</code> - <p>Traffic event location.</p></dd>
-<dd><code>additionalEvents</code> - <p>Additional traffic events.</p></dd>
-<dd><code>additionalLocations</code> - <p>Additional traffic locations.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalEvents" class="member-name-link"><code>additionalEvents</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Additional traffic events.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang"><code>Long</code></a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalLocations" class="member-name-link"><code>additionalLocations</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Additional traffic locations.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#direction" class="member-name-link"><code>direction</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Street direction.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#diversionAdvice" class="member-name-link"><code>diversionAdvice</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Diversion advice.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#durationPersistence" class="member-name-link"><code>durationPersistence</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Duration persitence.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#event" class="member-name-link"><code>event</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Traffic event data.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#extent" class="member-name-link"><code>extent</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Extent.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#location" class="member-name-link"><code>location</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Traffic event location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#numberOfGroups" class="member-name-link"><code>numberOfGroups</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Number of groups (1 to 5).
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TMCData (short numberOfGroups,
+       short extent,
+       short direction,
+       short diversionAdvice,
+       short durationPersistence,
+       int event,
+       long location, List < Integer > additionalEvents, List < Long > additionalLocations)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-numberOfGroups" class="section detail">
+
+    ### numberOfGroups
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">numberOfGroups</span>
+
+    </div>
+
+    <div class="block">
+
+    Number of groups (1 to 5).
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-extent" class="section detail">
+
+    ### extent
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">extent</span>
+
+    </div>
+
+    <div class="block">
+
+    Extent.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-direction" class="section detail">
+
+    ### direction
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">direction</span>
+
+    </div>
+
+    <div class="block">
+
+    Street direction.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-diversionAdvice" class="section detail">
+
+    ### diversionAdvice
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">diversionAdvice</span>
+
+    </div>
+
+    <div class="block">
+
+    Diversion advice.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-durationPersistence" class="section detail">
+
+    ### durationPersistence
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">durationPersistence</span>
+
+    </div>
+
+    <div class="block">
+
+    Duration persitence.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-event" class="section detail">
+
+    ### event
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">event</span>
+
+    </div>
+
+    <div class="block">
+
+    Traffic event data.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-location" class="section detail">
+
+    ### location
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">location</span>
+
+    </div>
+
+    <div class="block">
+
+    Traffic event location.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-additionalEvents" class="section detail">
+
+    ### additionalEvents
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">additionalEvents</span>
+
+    </div>
+
+    <div class="block">
+
+    Additional traffic events.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-additionalLocations" class="section detail">
+
+    ### additionalLocations
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a>\></span> <span class="element-name">additionalLocations</span>
+
+    </div>
+
+    <div class="block">
+
+    Additional traffic locations.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-short-short-short-short-short-int-long-java-util-List-java-util-List" class="section detail">
+
+    ### TMCData
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">TMCData</span><wbr></wbr><span class="parameters">(short numberOfGroups, short extent, short direction, short diversionAdvice, short durationPersistence, int event, long location, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> additionalEvents, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a>\> additionalLocations)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `numberOfGroups` -
+
+    Number of groups (1 to 5).
+
+    `extent` -
+
+    Extent.
+
+    `direction` -
+
+    Street direction.
+
+    `diversionAdvice` -
+
+    Diversion advice.
+
+    `durationPersistence` -
+
+    Duration persitence.
+
+    `event` -
+
+    Traffic event data.
+
+    `location` -
+
+    Traffic event location.
+
+    `additionalEvents` -
+
+    Additional traffic events.
+
+    `additionalLocations` -
+
+    Additional traffic locations.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

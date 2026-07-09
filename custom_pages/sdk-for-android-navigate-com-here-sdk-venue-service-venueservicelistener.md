@@ -3,83 +3,154 @@ title: "VenueServiceListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- VenueServiceListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.service</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-service-package-summary">com.here.sdk.venue.service</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">VenueServiceListener</span></div>
-<div className="block"><p>The interface for listeners for
- lifecycle events in <a href="sdk-for-android-navigate-com-here-sdk-venue-service-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">
-<h3>onInitializationCompleted</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onInitializationCompleted</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</span></div>
-<div className="block"><p>Called when a service initialization has been completed.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>result</code> - <p>The initialization status.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="onVenueServiceStopped()">
-<h3>onVenueServiceStopped</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onVenueServiceStopped</span>()</div>
-<div className="block"><p>Called when the venue service stops.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">VenueServiceListener</span>
+
+</div>
+
+<div class="block">
+
+The interface for listeners for lifecycle events in VenueService .
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onInitializationCompleted ( VenueServiceInitStatus result)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called when a service initialization has been completed.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onVenueServiceStopped ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called when the venue service stops.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onInitializationCompleted-com-here-sdk-venue-service-VenueServiceInitStatus" class="section detail">
+
+    ### onInitializationCompleted
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onInitializationCompleted</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called when a service initialization has been completed.
+
+    </div>
+
+    Parameters:  
+    `result` -
+
+    The initialization status.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-onVenueServiceStopped" class="section detail">
+
+    ### onVenueServiceStopped
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onVenueServiceStopped</span>()
+
+    </div>
+
+    <div class="block">
+
+    Called when the venue service stops.
+
+    </div>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

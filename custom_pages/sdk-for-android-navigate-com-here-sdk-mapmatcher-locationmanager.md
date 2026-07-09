@@ -3,193 +3,386 @@ title: "LocationManager (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- LocationManager.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapmatcher</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-package-summary">com.here.sdk.mapmatcher</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.mapmatcher.LocationManager</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></code></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">LocationManager</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span></div>
-<div className="block"><p>LocationManager listens to position updates and provides the
- map-matched location using the LocationManagerListener.
- <strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
- behaviors. Related APIs may change in future releases without a deprecation process.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">LocationManager</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
-<h3>LocationManager</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">LocationManager</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div className="block"><p>Creates a new instance of <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>sdkEngine</code> - <p>A SDKEngine instance.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="setMapMatcher(com.here.sdk.mapmatcher.MapMatcher)">
-<h3>setMapMatcher</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setMapMatcher</span><wbr/><span className="parameters">(@Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a> mapMatcher)</span></div>
-<div className="block"><p>Sets the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> for exclusive use by <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
- <strong>Threading:</strong> This method is asynchronous and performs the switch in an internal thread of <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
- <strong>Note:</strong> After calling this method, the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> is owned and used exclusively
- by <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a> in its internal processing thread.
- Do not use or access the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> elsewhere while it is set.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>mapMatcher</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> instance to be used exclusively by <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="takeMapMatcher()">
-<h3>takeMapMatcher</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a></span> <span className="element-name">takeMapMatcher</span>()</div>
-<div className="block"><p>Retrieves and removes the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> from <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
- <strong>Note:</strong> After calling this method, <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a> will no longer use the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> at all.
- the caller regains full ownership and responsibility for the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> instance previously set, or <code>null</code> if none was set.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="addMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">
-<h3>addMatchedLocationListener</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">addMatchedLocationListener</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</span></div>
-<div className="block"><p>Adds the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher"><code>MatchedLocationListener</code></a> to the subscribtion list.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>matchedLocationListener</code> - <p>Listener to be added to the map matched location updates.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="removeMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">
-<h3>removeMatchedLocationListener</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">removeMatchedLocationListener</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</span></div>
-<div className="block"><p>Removes the <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher"><code>MatchedLocationListener</code></a> from the subscribtion list.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>matchedLocationListener</code> - <p>Listener to be removed from the map matched location updates.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="onLocationUpdated(com.here.sdk.core.Location)">
-<h3>onLocationUpdated</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">onLocationUpdated</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
-<div className="block"><p>Called each time a new location is available.
- In a navigation context while using the <code>Navigator</code> or <code>VisualNavigator</code>,
- it's required to set the <code>Location.time</code> parameter for each <code>Location</code>
- object so that the HERE SDK can map-match the locations properly.
- If the <code>Location.time</code> parameter is missing, the location will be ignored.
- For navigation, it is also recommended to provide the <code>bearing</code> and <code>speed</code>
- parameters for each <code>Location</code> object.
- Invoked on the main thread.</p></div>
-<dl className="notes">
-<dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-navigate-locationlistener#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a></code> in interface <code><a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></code></dd>
-<dt>Parameters:</dt>
-<dd><code>location</code> - <p>Current location.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object com.here.NativeBase com.here.sdk.mapmatcher.LocationManager → com.here.NativeBase com.here.sdk.mapmatcher.LocationManager → com.here.sdk.mapmatcher.LocationManager
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">`LocationListener`</a>
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LocationManager</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span>
+
+</div>
+
+<div class="block">
+
+LocationManager listens to position updates and provides the map-matched location using the LocationManagerListener. Note: This is a beta release of this feature. There may be bugs and unexpected behaviors. Related APIs may change in future releases without a deprecation process.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LocationManager ( SDKNativeEngine sdkEngine)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of LocationManager .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      addMatchedLocationListener ( MatchedLocationListener matchedLocationListener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Adds the MatchedLocationListener to the subscribtion list.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      onLocationUpdated ( Location location)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Called each time a new location is available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeMatchedLocationListener ( MatchedLocationListener matchedLocationListener)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Removes the MatchedLocationListener from the subscribtion list.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setMapMatcher ( MapMatcher mapMatcher)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the MapMatcher for exclusive use by LocationManager .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">`MapMatcher`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      takeMapMatcher ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Retrieves and removes the MapMatcher from LocationManager .
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-com-here-sdk-core-engine-SDKNativeEngine" class="section detail">
+
+    ### LocationManager
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">LocationManager</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of LocationManager .
+
+    </div>
+
+    Parameters:  
+    `sdkEngine` -
+
+    A SDKEngine instance.
+
+    Throws:  
+    <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
+
+    Instantiation error.
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-setMapMatcher-com-here-sdk-mapmatcher-MapMatcher" class="section detail">
+
+    ### setMapMatcher
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapMatcher</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a> mapMatcher)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the MapMatcher for exclusive use by LocationManager . Threading: This method is asynchronous and performs the switch in an internal thread of LocationManager . Note: After calling this method, the MapMatcher is owned and used exclusively by LocationManager in its internal processing thread. Do not use or access the MapMatcher elsewhere while it is set.
+
+    </div>
+
+    Parameters:  
+    `mapMatcher` -
+
+    The <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">`MapMatcher`</a> instance to be used exclusively by <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager" title="class in com.here.sdk.mapmatcher">`LocationManager`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-takeMapMatcher" class="section detail">
+
+    ### takeMapMatcher
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a></span> <span class="element-name">takeMapMatcher</span>()
+
+    </div>
+
+    <div class="block">
+
+    Retrieves and removes the MapMatcher from LocationManager . Note: After calling this method, LocationManager will no longer use the MapMatcher at all. the caller regains full ownership and responsibility for the MapMatcher .
+
+    </div>
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher" title="class in com.here.sdk.mapmatcher">`MapMatcher`</a> instance previously set, or `null` if none was set.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-addMatchedLocationListener-com-here-sdk-mapmatcher-MatchedLocationListener" class="section detail">
+
+    ### addMatchedLocationListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMatchedLocationListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds the MatchedLocationListener to the subscribtion list.
+
+    </div>
+
+    Parameters:  
+    `matchedLocationListener` -
+
+    Listener to be added to the map matched location updates.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-removeMatchedLocationListener-com-here-sdk-mapmatcher-MatchedLocationListener" class="section detail">
+
+    ### removeMatchedLocationListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMatchedLocationListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Removes the MatchedLocationListener from the subscribtion list.
+
+    </div>
+
+    Parameters:  
+    `matchedLocationListener` -
+
+    Listener to be removed from the map matched location updates.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-onLocationUpdated-com-here-sdk-core-Location" class="section detail">
+
+    ### onLocationUpdated
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called each time a new location is available. In a navigation context while using the Navigator or VisualNavigator , it's required to set the Location.time parameter for each Location object so that the HERE SDK can map-match the locations properly. If the Location.time parameter is missing, the location will be ignored. For navigation, it is also recommended to provide the bearing and speed parameters for each Location object. Invoked on the main thread.
+
+    </div>
+
+    Specified by:  
+    <a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener#onLocationUpdated(com.here.sdk.core.Location">`onLocationUpdated`</a>) in interface <a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">`LocationListener`</a>
+
+    Parameters:  
+    `location` -
+
+    Current location.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

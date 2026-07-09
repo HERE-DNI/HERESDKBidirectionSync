@@ -3,431 +3,1118 @@ title: "HazardousMaterialType (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- HazardousMaterialType.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>&gt;
-<div className="inheritance">com.here.sdk.mapdata.HazardousMaterialType</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>&gt;</code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public enum </span><span className="element-name type-name-label">HazardousMaterialType</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>&gt;</span></div>
-<div className="block"><p>Hazardous material type as defined in the enum applicable for those that carry these
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section className="nested-class-summary" id="nested-class-summary">
-
-<div className="inherited-list">
-
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
-</section>
-</li>
-<!-- =========== ENUM CONSTANT SUMMARY =========== -->
-<li>
-<section className="constants-summary" id="enum-constant-summary">
-
-<div className="caption"><span>Enum Constants</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ANY_HAZARDOUS_MATERIAL">ANY_HAZARDOUS_MATERIAL</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Any type of hazardous material (composite restriction).</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B">B</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Category B.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_D">B_D</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tunnel restriction category B/D</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_E">B_E</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Tunnel restriction category B/E</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B1000C">B1000C</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tunnel restriction category B/1000C</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C">C</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Category C.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_D">C_D</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tunnel restriction category C/D</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_E">C_E</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Tunnel restriction category C/E</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C5000D">C5000D</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tunnel restriction category C/5000D</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#COMBUSTIBLE">COMBUSTIBLE</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Combustible material.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#CORROSIVE">CORROSIVE</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Corrosive material.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D">D</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Category D.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D_E">D_E</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tunnel restriction category D/E</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#E">E</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Category E.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVE_AND_FLAMMABLE">EXPLOSIVE_AND_FLAMMABLE</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Explosive and flammable materials combined (composite restriction).</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVES">EXPLOSIVES</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Explosive material.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE">FLAMMABLE</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Flammable material.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE_SOLID_COMBUSTIBLE">FLAMMABLE_SOLID_COMBUSTIBLE</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Flammable solids and combustible materials.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#GAS">GAS</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Gas.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#HARMFUL_TO_WATER">HARMFUL_TO_WATER</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Materials that are harmful to water.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ORGANIC">ORGANIC</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Organic material.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#OTHER">OTHER</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Any other hazardous material.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISON">POISON</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Poisonous material.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISONOUS_INHALATION">POISONOUS_INHALATION</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Materials that are poisonous upon inhalation.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#RADIOACTIVE">RADIOACTIVE</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Radioactive material.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#UNKNOWN">UNKNOWN</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Unknown hazardous material classification.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Enum">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" title="class or interface in java.lang">compareTo</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" title="class or interface in java.lang">describeConstable</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" title="class or interface in java.lang">getDeclaringClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" title="class or interface in java.lang">name</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" title="class or interface in java.lang">ordinal</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" title="class or interface in java.lang">valueOf</a></code></div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ ENUM CONSTANT DETAIL =========== -->
-<li>
-<section className="constant-details" id="enum-constant-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="UNKNOWN">
-<h3>UNKNOWN</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">UNKNOWN</span></div>
-<div className="block"><p>Unknown hazardous material classification.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="EXPLOSIVES">
-<h3>EXPLOSIVES</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">EXPLOSIVES</span></div>
-<div className="block"><p>Explosive material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="GAS">
-<h3>GAS</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">GAS</span></div>
-<div className="block"><p>Gas.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="FLAMMABLE">
-<h3>FLAMMABLE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">FLAMMABLE</span></div>
-<div className="block"><p>Flammable material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="FLAMMABLE_SOLID_COMBUSTIBLE">
-<h3>FLAMMABLE_SOLID_COMBUSTIBLE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">FLAMMABLE_SOLID_COMBUSTIBLE</span></div>
-<div className="block"><p>Flammable solids and combustible materials.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="COMBUSTIBLE">
-<h3>COMBUSTIBLE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">COMBUSTIBLE</span></div>
-<div className="block"><p>Combustible material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="ORGANIC">
-<h3>ORGANIC</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">ORGANIC</span></div>
-<div className="block"><p>Organic material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="POISON">
-<h3>POISON</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">POISON</span></div>
-<div className="block"><p>Poisonous material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="RADIOACTIVE">
-<h3>RADIOACTIVE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">RADIOACTIVE</span></div>
-<div className="block"><p>Radioactive material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="CORROSIVE">
-<h3>CORROSIVE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">CORROSIVE</span></div>
-<div className="block"><p>Corrosive material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="OTHER">
-<h3>OTHER</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">OTHER</span></div>
-<div className="block"><p>Any other hazardous material.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="ANY_HAZARDOUS_MATERIAL">
-<h3>ANY_HAZARDOUS_MATERIAL</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">ANY_HAZARDOUS_MATERIAL</span></div>
-<div className="block"><p>Any type of hazardous material (composite restriction).</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="POISONOUS_INHALATION">
-<h3>POISONOUS_INHALATION</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">POISONOUS_INHALATION</span></div>
-<div className="block"><p>Materials that are poisonous upon inhalation.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="HARMFUL_TO_WATER">
-<h3>HARMFUL_TO_WATER</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">HARMFUL_TO_WATER</span></div>
-<div className="block"><p>Materials that are harmful to water.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="EXPLOSIVE_AND_FLAMMABLE">
-<h3>EXPLOSIVE_AND_FLAMMABLE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">EXPLOSIVE_AND_FLAMMABLE</span></div>
-<div className="block"><p>Explosive and flammable materials combined (composite restriction).</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="B">
-<h3>B</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">B</span></div>
-<div className="block"><p>Category B. Prohibited for the transport of hazardous substances
- which could cause a very large explosion.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="B1000C">
-<h3>B1000C</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">B1000C</span></div>
-<div className="block"><p>Tunnel restriction category B/1000C</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="B_D">
-<h3>B_D</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">B_D</span></div>
-<div className="block"><p>Tunnel restriction category B/D</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="B_E">
-<h3>B_E</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">B_E</span></div>
-<div className="block"><p>Tunnel restriction category B/E</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="C">
-<h3>C</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">C</span></div>
-<div className="block"><p>Category C. The same restriction as for B, plus hazardous goods which
- could cause a large explosion or the extensive release of toxic substances.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="C5000D">
-<h3>C5000D</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">C5000D</span></div>
-<div className="block"><p>Tunnel restriction category C/5000D</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="C_D">
-<h3>C_D</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">C_D</span></div>
-<div className="block"><p>Tunnel restriction category C/D</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="C_E">
-<h3>C_E</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">C_E</span></div>
-<div className="block"><p>Tunnel restriction category C/E</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="D">
-<h3>D</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">D</span></div>
-<div className="block"><p>Category D. The same restrictions as for C plus hazardous goods which
- could cause a large fire.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="D_E">
-<h3>D_E</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">D_E</span></div>
-<div className="block"><p>Tunnel restriction category D/E</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="E">
-<h3>E</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">E</span></div>
-<div className="block"><p>Category E. Prohibited for the transport of all hazardous substances.
- There are some exceptions for certain radioactive substances, clinical
- waste and samples.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="values()">
-<h3>values</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>[]</span> <span className="element-name">values</span>()</div>
-<div className="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd>an array containing the constants of this enum class, in the order they are declared</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="valueOf(java.lang.String)">
-<h3>valueOf</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span className="element-name">valueOf</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
-<div className="block">Returns the enum constant of this class with the specified name.
-The string must match <i>exactly</i> an identifier used to declare an
-enum constant in this class.  (Extraneous whitespace characters are 
-not permitted.)</div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>name</code> - the name of the enum constant to be returned.</dd>
-<dt>Returns:</dt>
-<dd>the enum constant with the specified name</dd>
-<dt>Throws:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if this enum class has no constant with the specified name</dd>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if the argument is null</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object java.lang.Enum \< HazardousMaterialType \> com.here.sdk.mapdata.HazardousMaterialType → java.lang.Enum \< HazardousMaterialType \> com.here.sdk.mapdata.HazardousMaterialType → com.here.sdk.mapdata.HazardousMaterialType
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">`HazardousMaterialType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+
+<div class="type-signature">
+
+<span class="modifiers">public enum </span><span class="element-name type-name-label">HazardousMaterialType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>\></span>
+
+</div>
+
+<div class="block">
+
+Hazardous material type as defined in the enum applicable for those that carry these Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-enum-constant-summary" class="section constants-summary">
+
+  ## Enum Constant Summary
+
+  <div class="caption">
+
+  Enum Constants
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ANY_HAZARDOUS_MATERIAL" class="member-name-link"><code>ANY_HAZARDOUS_MATERIAL</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Any type of hazardous material (composite restriction).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B" class="member-name-link"><code>B</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Category B.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_D" class="member-name-link"><code>B_D</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category B/D
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_E" class="member-name-link"><code>B_E</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category B/E
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B1000C" class="member-name-link"><code>B1000C</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category B/1000C
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C" class="member-name-link"><code>C</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Category C.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_D" class="member-name-link"><code>C_D</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category C/D
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_E" class="member-name-link"><code>C_E</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category C/E
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C5000D" class="member-name-link"><code>C5000D</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category C/5000D
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#COMBUSTIBLE" class="member-name-link"><code>COMBUSTIBLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Combustible material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#CORROSIVE" class="member-name-link"><code>CORROSIVE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Corrosive material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D" class="member-name-link"><code>D</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Category D.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D_E" class="member-name-link"><code>D_E</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tunnel restriction category D/E
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#E" class="member-name-link"><code>E</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Category E.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVE_AND_FLAMMABLE" class="member-name-link"><code>EXPLOSIVE_AND_FLAMMABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Explosive and flammable materials combined (composite restriction).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVES" class="member-name-link"><code>EXPLOSIVES</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Explosive material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE" class="member-name-link"><code>FLAMMABLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Flammable material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE_SOLID_COMBUSTIBLE" class="member-name-link"><code>FLAMMABLE_SOLID_COMBUSTIBLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Flammable solids and combustible materials.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#GAS" class="member-name-link"><code>GAS</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Gas.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#HARMFUL_TO_WATER" class="member-name-link"><code>HARMFUL_TO_WATER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Materials that are harmful to water.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ORGANIC" class="member-name-link"><code>ORGANIC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Organic material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#OTHER" class="member-name-link"><code>OTHER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Any other hazardous material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISON" class="member-name-link"><code>POISON</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Poisonous material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISONOUS_INHALATION" class="member-name-link"><code>POISONOUS_INHALATION</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Materials that are poisonous upon inhalation.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#RADIOACTIVE" class="member-name-link"><code>RADIOACTIVE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Radioactive material.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#UNKNOWN" class="member-name-link"><code>UNKNOWN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Unknown hazardous material classification.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">`HazardousMaterialType`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf ( String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns the enum constant of this class with the specified name.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">`HazardousMaterialType`</a>`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns an array containing the constants of this enum class, in the order they are declared.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-enum-constant-detail" class="section constant-details">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-navigate-UNKNOWN" class="section detail">
+
+    ### UNKNOWN
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">UNKNOWN</span>
+
+    </div>
+
+    <div class="block">
+
+    Unknown hazardous material classification.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-EXPLOSIVES" class="section detail">
+
+    ### EXPLOSIVES
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">EXPLOSIVES</span>
+
+    </div>
+
+    <div class="block">
+
+    Explosive material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-GAS" class="section detail">
+
+    ### GAS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">GAS</span>
+
+    </div>
+
+    <div class="block">
+
+    Gas.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-FLAMMABLE" class="section detail">
+
+    ### FLAMMABLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">FLAMMABLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Flammable material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-FLAMMABLE_SOLID_COMBUSTIBLE" class="section detail">
+
+    ### FLAMMABLE_SOLID_COMBUSTIBLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">FLAMMABLE_SOLID_COMBUSTIBLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Flammable solids and combustible materials.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-COMBUSTIBLE" class="section detail">
+
+    ### COMBUSTIBLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">COMBUSTIBLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Combustible material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-ORGANIC" class="section detail">
+
+    ### ORGANIC
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">ORGANIC</span>
+
+    </div>
+
+    <div class="block">
+
+    Organic material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-POISON" class="section detail">
+
+    ### POISON
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">POISON</span>
+
+    </div>
+
+    <div class="block">
+
+    Poisonous material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-RADIOACTIVE" class="section detail">
+
+    ### RADIOACTIVE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">RADIOACTIVE</span>
+
+    </div>
+
+    <div class="block">
+
+    Radioactive material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-CORROSIVE" class="section detail">
+
+    ### CORROSIVE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">CORROSIVE</span>
+
+    </div>
+
+    <div class="block">
+
+    Corrosive material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-OTHER" class="section detail">
+
+    ### OTHER
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">OTHER</span>
+
+    </div>
+
+    <div class="block">
+
+    Any other hazardous material.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-ANY_HAZARDOUS_MATERIAL" class="section detail">
+
+    ### ANY_HAZARDOUS_MATERIAL
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">ANY_HAZARDOUS_MATERIAL</span>
+
+    </div>
+
+    <div class="block">
+
+    Any type of hazardous material (composite restriction).
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-POISONOUS_INHALATION" class="section detail">
+
+    ### POISONOUS_INHALATION
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">POISONOUS_INHALATION</span>
+
+    </div>
+
+    <div class="block">
+
+    Materials that are poisonous upon inhalation.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-HARMFUL_TO_WATER" class="section detail">
+
+    ### HARMFUL_TO_WATER
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">HARMFUL_TO_WATER</span>
+
+    </div>
+
+    <div class="block">
+
+    Materials that are harmful to water.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-EXPLOSIVE_AND_FLAMMABLE" class="section detail">
+
+    ### EXPLOSIVE_AND_FLAMMABLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">EXPLOSIVE_AND_FLAMMABLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Explosive and flammable materials combined (composite restriction).
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-B" class="section detail">
+
+    ### B
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">B</span>
+
+    </div>
+
+    <div class="block">
+
+    Category B. Prohibited for the transport of hazardous substances which could cause a very large explosion.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-B1000C" class="section detail">
+
+    ### B1000C
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">B1000C</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category B/1000C
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-B_D" class="section detail">
+
+    ### B_D
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">B_D</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category B/D
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-B_E" class="section detail">
+
+    ### B_E
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">B_E</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category B/E
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-C" class="section detail">
+
+    ### C
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">C</span>
+
+    </div>
+
+    <div class="block">
+
+    Category C. The same restriction as for B, plus hazardous goods which could cause a large explosion or the extensive release of toxic substances.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-C5000D" class="section detail">
+
+    ### C5000D
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">C5000D</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category C/5000D
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-C_D" class="section detail">
+
+    ### C_D
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">C_D</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category C/D
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-C_E" class="section detail">
+
+    ### C_E
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">C_E</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category C/E
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-D" class="section detail">
+
+    ### D
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">D</span>
+
+    </div>
+
+    <div class="block">
+
+    Category D. The same restrictions as for C plus hazardous goods which could cause a large fire.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-D_E" class="section detail">
+
+    ### D_E
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">D_E</span>
+
+    </div>
+
+    <div class="block">
+
+    Tunnel restriction category D/E
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-E" class="section detail">
+
+    ### E
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">E</span>
+
+    </div>
+
+    <div class="block">
+
+    Category E. Prohibited for the transport of all hazardous substances. There are some exceptions for certain radioactive substances, clinical waste and samples.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-values" class="section detail">
+
+    ### values
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>\[\]</span> <span class="element-name">values</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns an array containing the constants of this enum class, in the order they are declared.
+
+    </div>
+
+    Returns:  
+    an array containing the constants of this enum class, in the order they are declared
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-valueOf-java-lang-String" class="section detail">
+
+    ### valueOf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
+
+    </div>
+
+    Parameters:  
+    `name` - the name of the enum constant to be returned.
+
+    Returns:  
+    the enum constant with the specified name
+
+    Throws:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
+
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

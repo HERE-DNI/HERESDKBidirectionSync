@@ -3,294 +3,789 @@ title: "Maneuver (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-routing-maneuver"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- Maneuver.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.routing.Maneuver</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">Maneuver</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>This class provides all the information for a maneuver. The directional information (e.g. road names, road
- numbers and signpost direction) is stored in <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver#getRoadTexts()"><code>getRoadTexts()</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver#getNextRoadTexts()"><code>getNextRoadTexts()</code></a> attributes.
- As for the motorway exit information, it can be obtained from <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver#getExitSignTexts()"><code>getExitSignTexts()</code></a> attribute.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="getAction()">
-<h3>getAction</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span className="element-name">getAction</span>()</div>
-<div className="block"><p>Gets the maneuver action.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Indicates the maneuver action.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getCoordinates()">
-<h3>getCoordinates</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span className="element-name">getCoordinates</span>()</div>
-<div className="block"><p>Gets the geographic coordinates where the maneuver is located.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Geographic coordinates where the maneuver is located.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getOffset()">
-<h3>getOffset</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getOffset</span>()</div>
-<div className="block"><p>Gets the index over <a href="sdk-for-android-navigate-section#getGeometry()"><code>Section.getGeometry()</code></a> where the maneuver is located.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Index over <a href="sdk-for-android-navigate-section#getGeometry()"><code>Section.getGeometry()</code></a> where the maneuver is located.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getCountryCode()">
-<h3>getCountryCode</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getCountryCode</span>()</div>
-<div className="block"><p>Gets the country code of the maneuver position. The value is <code>null</code> when no data is available.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The country code of the maneuver position. The value is <code>null</code> when no data is available.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getExitSignTexts()">
-<h3>getExitSignTexts</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span className="element-name">getExitSignTexts</span>()</div>
-<div className="block"><p>Gets the textual attributes of the exit sign. These might contain exit number(s) and/or name(s).
- These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The textual attributes of the exit sign. These might contain exit number(s) and/or name(s).</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getLengthInMeters()">
-<h3>getLengthInMeters</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getLengthInMeters</span>()</div>
-<div className="block"><p>Gets the length of the maneuver in meters.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The length of the maneuver in meters.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getRoadTexts()">
-<h3>getRoadTexts</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span className="element-name">getRoadTexts</span>()</div>
-<div className="block"><p>Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
- <strong>Note:</strong> These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getNextRoadTexts()">
-<h3>getNextRoadTexts</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span className="element-name">getNextRoadTexts</span>()</div>
-<div className="block"><p>Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
- These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSignpost()">
-<h3>getSignpost</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">Signpost</a></span> <span className="element-name">getSignpost</span>()</div>
-<div className="block"><p>Gets <a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Gets the <a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getIntersectionNames()">
-<h3>getIntersectionNames</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span className="element-name">getIntersectionNames</span>()</div>
-<div className="block"><p>Gets the textual attributes of the intersection.
- These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.
- <strong>Note:</strong> Routes calculated with OfflineRoutingEngine are not supported.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The textual attributes of the intersection.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getText()">
-<h3>getText</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getText</span>()</div>
-<div className="block"><p>Gets the maneuver instruction. The text is formatted and localized as specified via
- <a href="sdk-for-android-navigate-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
- <strong>Note for users of the Navigate license:</strong> This text is meant to be displayed in a preview context, whereas real-time <code>EventTextListener</code> texts are meant to be used
- for spoken voice announcements during a trip.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The maneuver instruction. The text is formatted and localized as specified via
-     <a href="sdk-for-android-navigate-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSectionIndex()">
-<h3>getSectionIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getSectionIndex</span>()</div>
-<div className="block"><p>Gets the index over <a href="sdk-for-android-navigate-route#getSections()"><code>Route.getSections()</code></a> indicating the section to which the maneuver belongs to.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Index over <a href="sdk-for-android-navigate-route#getSections()"><code>Route.getSections()</code></a> indicating the section to which the maneuver belongs to.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSpanIndex()">
-<h3>getSpanIndex</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">getSpanIndex</span>()</div>
-<div className="block"><p>Gets the index over <a href="sdk-for-android-navigate-section#getSpans()"><code>Section.getSpans()</code></a> indicating the first span after the maneuver point.
- <strong>Note:</strong> The span index for the last maneuvers (those maneuvers with maneuver action set to
- <a href="sdk-for-android-navigate-maneuveraction#ARRIVE"><code>ManeuverAction.ARRIVE</code></a>) cannot be used, since these maneuvers are placed after the last span of the route and
- the span index for them would be greater than the span list size.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Index over <a href="sdk-for-android-navigate-section#getSpans()"><code>Section.getSpans()</code></a> indicating the first span after the maneuver point.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getDuration()">
-<h3>getDuration</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span className="element-name">getDuration</span>()</div>
-<div className="block"><p>Gets the estimated time in seconds needed to perform the maneuver.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The estimated time in seconds needed to perform the maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getTurnAngleInDegrees()">
-<h3>getTurnAngleInDegrees</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">getTurnAngleInDegrees</span>()</div>
-<div className="block"><p>Gets the angle of the turn component of the maneuver. The value is in degrees and from -180 to 180.
- The angle increases clockwise and small values are used for going straight, i.e. a positive number
- means there is a right turn and a negative number is a left turn.
- Some maneuvers like Depart, Arrive and Roundabout pass doesn't have a well defined angle, so the value
- is omitted.
- <strong>Note:</strong> These attributes are only available for the Navigate license.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The angle of the turn component of the maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getRoundaboutAngleInDegrees()">
-<h3>getRoundaboutAngleInDegrees</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">getRoundaboutAngleInDegrees</span>()</div>
-<div className="block"><p>The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.
- This is done to provide a better orientation for drivers. For better results, the incoming and outcoming route
- parts can be around 50 meters in length. In addition, these parts lie usually around 30 meters away from
- the actual roundabout. Therefore, the resulting arc does not necessarily represent the exact curved path a
- vehicle has to follow within a roundabout from the point of entry to the point of exit. Instead, it reflects
- the route path before and after the roundabout to highlight the directional change along the route. The angle can have a value from -360.0 to 360.0, and it is positive
- in right-hand side driving country, and negative in left-hand side countries.
- Note that the value is available for both the enter roundabout actions and the exit roundabout
- actions. Both maneuvers have the same value. When the incoming or outgoing route parts are curvy or when the
- roundabout itself is not representing a perfect circle, then the accuracy of the angle may be
- compromised.
- <strong>Note:</strong> These attributes are only available for the Navigate license.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.routing.Maneuver → com.here.NativeBase com.here.sdk.routing.Maneuver → com.here.sdk.routing.Maneuver
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Maneuver</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+This class provides all the information for a maneuver. The directional information (e.g. road names, road numbers and signpost direction) is stored in getRoadTexts() and getNextRoadTexts() attributes. As for the motorway exit information, it can be obtained from getExitSignTexts() attribute.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">`ManeuverAction`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getAction ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the maneuver action.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCoordinates ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the geographic coordinates where the maneuver is located.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCountryCode ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the country code of the maneuver position.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">`Duration`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDuration ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the estimated time in seconds needed to perform the maneuver.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getExitSignTexts ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the textual attributes of the exit sign.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getIntersectionNames ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the textual attributes of the intersection.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getLengthInMeters ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the length of the maneuver in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">`RoadTexts`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getNextRoadTexts ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOffset ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index over Section.getGeometry() where the maneuver is located.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">`RoadTexts`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoadTexts ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRoundaboutAngleInDegrees ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSectionIndex ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index over Route.getSections() indicating the section to which the maneuver belongs to.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">`Signpost`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSignpost ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets Signpost object.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSpanIndex ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the index over Section.getSpans() indicating the first span after the maneuver point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getText ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the maneuver instruction.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTurnAngleInDegrees ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the angle of the turn component of the maneuver.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-getAction" class="section detail">
+
+    ### getAction
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">getAction</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the maneuver action.
+
+    </div>
+
+    Returns:  
+    Indicates the maneuver action.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getCoordinates" class="section detail">
+
+    ### getCoordinates
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the geographic coordinates where the maneuver is located.
+
+    </div>
+
+    Returns:  
+    Geographic coordinates where the maneuver is located.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getOffset" class="section detail">
+
+    ### getOffset
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getOffset</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the index over Section.getGeometry() where the maneuver is located.
+
+    </div>
+
+    Returns:  
+    Index over [](sdk-for-android-navigate-com-here-sdk-routing-section#getGeometry())
+
+        Section.getGeometry()
+
+    </a> where the maneuver is located.
+
+    </p>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getCountryCode" class="section detail">
+
+    ### getCountryCode
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCountryCode</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the country code of the maneuver position. The value is null when no data is available.
+
+    </div>
+
+    Returns:  
+    The country code of the maneuver position. The value is `null` when no data is available.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getExitSignTexts" class="section detail">
+
+    ### getExitSignTexts
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getExitSignTexts</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the textual attributes of the exit sign. These might contain exit number(s) and/or name(s). These attributes are only available for the Navigate license. Otherwise, the attributes are always empty.
+
+    </div>
+
+    Returns:  
+    The textual attributes of the exit sign. These might contain exit number(s) and/or name(s).
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getLengthInMeters" class="section detail">
+
+    ### getLengthInMeters
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getLengthInMeters</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the length of the maneuver in meters.
+
+    </div>
+
+    Returns:  
+    The length of the maneuver in meters.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getRoadTexts" class="section detail">
+
+    ### getRoadTexts
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getRoadTexts</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information. Note: These attributes are only available for the Navigate license. Otherwise, the attributes are always empty.
+
+    </div>
+
+    Returns:  
+    The textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getNextRoadTexts" class="section detail">
+
+    ### getNextRoadTexts
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getNextRoadTexts</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point. These attributes are only available for the Navigate license. Otherwise, the attributes are always empty.
+
+    </div>
+
+    Returns:  
+    The textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSignpost" class="section detail">
+
+    ### getSignpost
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">Signpost</a></span> <span class="element-name">getSignpost</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets Signpost object.
+
+    </div>
+
+    Returns:  
+    Gets the <a href="sdk-for-android-navigate-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">`Signpost`</a> object.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getIntersectionNames" class="section detail">
+
+    ### getIntersectionNames
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getIntersectionNames</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the textual attributes of the intersection. These attributes are only available for the Navigate license. Otherwise, the attributes are always empty. Note: Routes calculated with OfflineRoutingEngine are not supported.
+
+    </div>
+
+    Returns:  
+    The textual attributes of the intersection.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getText" class="section detail">
+
+    ### getText
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getText</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the maneuver instruction. The text is formatted and localized as specified via RouteTextOptions . Note for users of the Navigate license: This text is meant to be displayed in a preview context, whereas real-time EventTextListener texts are meant to be used for spoken voice announcements during a trip.
+
+    </div>
+
+    Returns:  
+    The maneuver instruction. The text is formatted and localized as specified via <a href="sdk-for-android-navigate-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSectionIndex" class="section detail">
+
+    ### getSectionIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSectionIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the index over Route.getSections() indicating the section to which the maneuver belongs to.
+
+    </div>
+
+    Returns:  
+    Index over [](sdk-for-android-navigate-com-here-sdk-routing-route#getSections())
+
+        Route.getSections()
+
+    </a> indicating the section to which the maneuver belongs to.
+
+    </p>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSpanIndex" class="section detail">
+
+    ### getSpanIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSpanIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the index over Section.getSpans() indicating the first span after the maneuver point. Note: The span index for the last maneuvers (those maneuvers with maneuver action set to ManeuverAction.ARRIVE ) cannot be used, since these maneuvers are placed after the last span of the route and the span index for them would be greater than the span list size.
+
+    </div>
+
+    Returns:  
+    Index over [](sdk-for-android-navigate-com-here-sdk-routing-section#getSpans())
+
+        Section.getSpans()
+
+    </a> indicating the first span after the maneuver point.
+
+    </p>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getDuration" class="section detail">
+
+    ### getDuration
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the estimated time in seconds needed to perform the maneuver.
+
+    </div>
+
+    Returns:  
+    The estimated time in seconds needed to perform the maneuver.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getTurnAngleInDegrees" class="section detail">
+
+    ### getTurnAngleInDegrees
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getTurnAngleInDegrees</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the angle of the turn component of the maneuver. The value is in degrees and from -180 to 180. The angle increases clockwise and small values are used for going straight, i.e. a positive number means there is a right turn and a negative number is a left turn. Some maneuvers like Depart, Arrive and Roundabout pass doesn't have a well defined angle, so the value is omitted. Note: These attributes are only available for the Navigate license.
+
+    </div>
+
+    Returns:  
+    The angle of the turn component of the maneuver.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getRoundaboutAngleInDegrees" class="section detail">
+
+    ### getRoundaboutAngleInDegrees
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getRoundaboutAngleInDegrees</span>()
+
+    </div>
+
+    <div class="block">
+
+    The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout. This is done to provide a better orientation for drivers. For better results, the incoming and outcoming route parts can be around 50 meters in length. In addition, these parts lie usually around 30 meters away from the actual roundabout. Therefore, the resulting arc does not necessarily represent the exact curved path a vehicle has to follow within a roundabout from the point of entry to the point of exit. Instead, it reflects the route path before and after the roundabout to highlight the directional change along the route. The angle can have a value from -360.0 to 360.0, and it is positive in right-hand side driving country, and negative in left-hand side countries. Note that the value is available for both the enter roundabout actions and the exit roundabout actions. Both maneuvers have the same value. When the incoming or outgoing route parts are curvy or when the roundabout itself is not representing a perfect circle, then the accuracy of the angle may be compromised. Note: These attributes are only available for the Navigate license.
+
+    </div>
+
+    Returns:  
+    The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

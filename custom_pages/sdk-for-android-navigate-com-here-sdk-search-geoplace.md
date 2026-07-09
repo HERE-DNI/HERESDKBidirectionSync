@@ -3,301 +3,707 @@ title: "GeoPlace (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-search-geoplace"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- GeoPlace.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.search.GeoPlace</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">GeoPlace</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>GeoPlace struct represents a location object:
- such as a country, a city, a point of interest (POI) etc.
- It can be used for PersonalPlace creation, in order to provide search on custom places.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
-
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#address">address</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Address of the place
- Note: Address can have default value when no data is available.</div>
-</div>
-<div className="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#business">business</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Business details
- Note: BusinessDetails can have default value when no data is available.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#categories">categories</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">List of corresponding categories
- Note: This list can be empty when no data is available.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a>&gt;</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#externalIDs">externalIDs</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Allows the client to set the id in their own system.</div>
-</div>
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#location">location</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Geographical details
- Note: Can be <code>null</code> when retrieved from a suggestion's place property.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#title">title</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">The localized title for the resource.</div>
-</div>
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#type">type</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Specifies place type.</div>
-</div>
-<div className="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#web">web</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Contains info and direct web links to corresponding items.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace#%3Cinit%3E()">GeoPlace</a>()</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="title">
-<h3>title</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">title</span></div>
-<div className="block"><p>The localized title for the resource.
- Note: This String can be empty when no data is available.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="externalIDs">
-<h3>externalIDs</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a>&gt;</span> <span className="element-name">externalIDs</span></div>
-<div className="block"><p>Allows the client to set the id in their own system.
- The list of supplier references to this place.
- The references are provided by external suppliers and are only available to users with
- valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="type">
-<h3>type</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span className="element-name">type</span></div>
-<div className="block"><p>Specifies place type.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="categories">
-<h3>categories</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</span> <span className="element-name">categories</span></div>
-<div className="block"><p>List of corresponding categories
- Note: This list can be empty when no data is available.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="address">
-<h3>address</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span className="element-name">address</span></div>
-<div className="block"><p>Address of the place
- Note: Address can have default value when no data is available.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="location">
-<h3>location</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></span> <span className="element-name">location</span></div>
-<div className="block"><p>Geographical details
- Note: Can be <code>null</code> when retrieved from a suggestion's place property.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="business">
-<h3>business</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></span> <span className="element-name">business</span></div>
-<div className="block"><p>Business details
- Note: BusinessDetails can have default value when no data is available.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="web">
-<h3>web</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a></span> <span className="element-name">web</span></div>
-<div className="block"><p>Contains info and direct web links to corresponding items.
- Note: WebDetails can have default value when no data is available.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;()">
-<h3>GeoPlace</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">GeoPlace</span>()</div>
-<div className="block"><p>Creates a new instance.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+java.lang.Object com.here.sdk.search.GeoPlace → com.here.sdk.search.GeoPlace
 
-<ul className="member-list">
-<li>
-<section className="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="makeMyPlace(java.lang.String,com.here.sdk.core.GeoCoordinates)">
-<h3>makeMyPlace</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">GeoPlace</a></span> <span className="element-name">makeMyPlace</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> title,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
-<div className="block"><p>Creates a new instance of this class. All other properties will keep their default value
- and all properties containing lists will contain empty lists.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>title</code> - <p>The title.</p></dd>
-<dd><code>coordinates</code> - <p>The coordinates.</p></dd>
-<dt>Returns:</dt>
-<dd><p>An instance of <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search"><code>GeoPlace</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getID()">
-<h3>getID</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getID</span>()</div>
-<div className="block"><p>Allow the client to access GeoPlace id.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The place id.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isMyPlace()">
-<h3>isMyPlace</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">isMyPlace</span>()</div>
-<div className="block"><p>Allow the client to access info about is it my place or not.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p><code>True</code> if it is my place, <code>false</code> otherwise.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">GeoPlace</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
+</div>
+
+<div class="block">
+
+GeoPlace struct represents a location object: such as a country, a city, a point of interest (POI) etc. It can be used for PersonalPlace creation, in order to provide search on custom places.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">`Address`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#address" class="member-name-link"><code>address</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Address of the place Note: Address can have default value when no data is available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">`BusinessDetails`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#business" class="member-name-link"><code>business</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Business details Note: BusinessDetails can have default value when no data is available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">`PlaceCategory`</a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#categories" class="member-name-link"><code>categories</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  List of corresponding categories Note: This list can be empty when no data is available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-core-externalid" title="class in com.here.sdk.core">`ExternalID`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#externalIDs" class="member-name-link"><code>externalIDs</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Allows the client to set the id in their own system.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">`LocationDetails`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#location" class="member-name-link"><code>location</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Geographical details Note: Can be null when retrieved from a suggestion's place property.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#title" class="member-name-link"><code>title</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The localized title for the resource.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">`PlaceType`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#type" class="member-name-link"><code>type</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Specifies place type.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">`WebDetails`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace#web" class="member-name-link"><code>web</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Contains info and direct web links to corresponding items.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      GeoPlace ()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals ( Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getID ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Allow the client to access GeoPlace id.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isMyPlace ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Allow the client to access info about is it my place or not.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">`GeoPlace`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      makeMyPlace ( String title, GeoCoordinates coordinates)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Creates a new instance of this class.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-title" class="section detail">
+
+    ### title
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">title</span>
+
+    </div>
+
+    <div class="block">
+
+    The localized title for the resource. Note: This String can be empty when no data is available.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-externalIDs" class="section detail">
+
+    ### externalIDs
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a>\></span> <span class="element-name">externalIDs</span>
+
+    </div>
+
+    <div class="block">
+
+    Allows the client to set the id in their own system. The list of supplier references to this place. The references are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-type" class="section detail">
+
+    ### type
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span class="element-name">type</span>
+
+    </div>
+
+    <div class="block">
+
+    Specifies place type.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-categories" class="section detail">
+
+    ### categories
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\></span> <span class="element-name">categories</span>
+
+    </div>
+
+    <div class="block">
+
+    List of corresponding categories Note: This list can be empty when no data is available.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-address" class="section detail">
+
+    ### address
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span class="element-name">address</span>
+
+    </div>
+
+    <div class="block">
+
+    Address of the place Note: Address can have default value when no data is available.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-location" class="section detail">
+
+    ### location
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></span> <span class="element-name">location</span>
+
+    </div>
+
+    <div class="block">
+
+    Geographical details Note: Can be null when retrieved from a suggestion's place property.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-business" class="section detail">
+
+    ### business
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></span> <span class="element-name">business</span>
+
+    </div>
+
+    <div class="block">
+
+    Business details Note: BusinessDetails can have default value when no data is available.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-web" class="section detail">
+
+    ### web
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a></span> <span class="element-name">web</span>
+
+    </div>
+
+    <div class="block">
+
+    Contains info and direct web links to corresponding items. Note: WebDetails can have default value when no data is available.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init" class="section detail">
+
+    ### GeoPlace
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">GeoPlace</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-equals-java-lang-Object" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hashCode" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-makeMyPlace-java-lang-String-com-here-sdk-core-GeoCoordinates" class="section detail">
+
+    ### makeMyPlace
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">GeoPlace</a></span> <span class="element-name">makeMyPlace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> title, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of this class. All other properties will keep their default value and all properties containing lists will contain empty lists.
+
+    </div>
+
+    Parameters:  
+    `title` -
+
+    The title.
+
+    `coordinates` -
+
+    The coordinates.
+
+    Returns:  
+    An instance of <a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">`GeoPlace`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getID" class="section detail">
+
+    ### getID
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getID</span>()
+
+    </div>
+
+    <div class="block">
+
+    Allow the client to access GeoPlace id.
+
+    </div>
+
+    Returns:  
+    The place id.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isMyPlace" class="section detail">
+
+    ### isMyPlace
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isMyPlace</span>()
+
+    </div>
+
+    <div class="block">
+
+    Allow the client to access info about is it my place or not.
+
+    </div>
+
+    Returns:  
+    `True` if it is my place, `false` otherwise.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

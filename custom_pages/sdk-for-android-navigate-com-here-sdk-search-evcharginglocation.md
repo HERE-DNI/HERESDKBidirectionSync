@@ -3,341 +3,857 @@ title: "EVChargingLocation (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-search-evcharginglocation"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- EVChargingLocation.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.search.EVChargingLocation</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">EVChargingLocation</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>An electric vehicle (EV) charging location.
- The semantics generally follow the OCPI 2.2.1 standard.
- Known EV-specific acronyms:
- <ul>
-<li>EV: Electric Vehicle</li>
-<li>OCPI: Open Charge Point Interface (a standard with a rather wide adoption worldwide, https://evroaming.org/)</li>
-<li>CPO: Charge Point Operator (company that runs the EV charging location)</li>
-<li>eMSP: e-Mobility Service Provider (customer-facing company)</li>
-<li>EVSE: Electric Vehicle Supply Equipment (the actual charger that can charge one car at a time)</li>
-</ul>
-A charging location includes a collection of one or more EV supply equipment (EVSE) instances.
- Typically, the charging location is the exact location of the group of EVSEs,
- simplified to a single point, but it can also be the entrance of a parking structure
- which contains these EVSEs.
- Each EVSE supports more precise position, where applicable.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="getID()">
-<h3>getID</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getID</span>()</div>
-<div className="block"><p>Gets the unique identifier of the charging location.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>A unique identifier of the charging location.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getName()">
-<h3>getName</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getName</span>()</div>
-<div className="block"><p>Gets the display name of the charging location, if available.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Display name of the charging location, if available.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getCpoID()">
-<h3>getCpoID</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getCpoID</span>()</div>
-<div className="block"><p>Gets the CPO's own ID for the location.
- This ID may be relevant for some clients to map the charging location data to their own
- or 3rd party systems.
- Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>CPO's own ID for the location.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getEvChargingOperator()">
-<h3>getEvChargingOperator</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span className="element-name">getEvChargingOperator</span>()</div>
-<div className="block"><p>Gets the operator of the charging point, if available.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Operator of the charging point, if available.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getEvChargingSubOperator()">
-<h3>getEvChargingSubOperator</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span className="element-name">getEvChargingSubOperator</span>()</div>
-<div className="block"><p>Gets the suboperator of the charging point, if available.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Suboperator of the charging point, if available.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getEMobilityServiceProviders()">
-<h3>getEMobilityServiceProviders</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a>&gt;</span> <span className="element-name">getEMobilityServiceProviders</span>()</div>
-<div className="block"><p>Gets the list of eMSPs with a roaming agreement enabling access to the EV charging location.
- Available only if <code>EVChargingLocationFeature.EMSPS</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>eMSPs with a roaming agreement enabling access to the EV charging location.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getFacilityTypes()">
-<h3>getFacilityTypes</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</span> <span className="element-name">getFacilityTypes</span>()</div>
-<div className="block"><p>Gets the list of facilities available at the charging location, for example
- hotel, wifi, parking lot etc.
- Available only if <code>EVChargingLocationFeature.NEARBY</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Facilities available at the charging location, for example hotel, wifi, parking lot etc.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getParkingType()">
-<h3>getParkingType</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span className="element-name">getParkingType</span>()</div>
-<div className="block"><p>Gets the type of parking at the charging location.
- Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The type of parking at the charging location.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getEnergyMix()">
-<h3>getEnergyMix</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-energymix" title="class in com.here.sdk.search">EnergyMix</a></span> <span className="element-name">getEnergyMix</span>()</div>
-<div className="block"><p>Gets the details on the energy supplied at the charging location.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Details on the energy supplied at the charging location.
-     Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
-     <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getEvses()">
-<h3>getEvses</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a>&gt;</span> <span className="element-name">getEvses</span>()</div>
-<div className="block"><p>Gets the list of EVSEs at the charging station.
- Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>List of EVSEs at the charging station.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getTariffs()">
-<h3>getTariffs</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a>&gt;</span> <span className="element-name">getTariffs</span>()</div>
-<div className="block"><p>Gets the list of tariffs or price plans for the connectors of the charging station.
- Tariffs are typically connector-type specific. Hence, they are always linked with connectors
- and/or connector groups, by indexes to this list.
- This property is set only when data is available and when <code>EVSearchOptions.additional_features</code>
- include either <code>EVChargingLocationFeature.EVSES</code> or <code>EVChargingLocationFeature.CONNECTOR_GROUPS</code>.
- By default, the list includes tariffs for ad-hoc charging, per connector type,
- for EVSEs that accept payment without registering.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>List of tariffs or price plans for the connectors of the charging station.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getConnectorGroups()">
-<h3>getConnectorGroups</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>&gt;</span> <span className="element-name">getConnectorGroups</span>()</div>
-<div className="block"><p>Gets the connector groups for the location.
- Provides an overview of the charging connectors in the location by type and power.
- Available only if <code>EVChargingLocationFeature.CONNECTOR_GROUPS</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Connector groups for the location.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSupportedVehicles()">
-<h3>getSupportedVehicles</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>&gt;</span> <span className="element-name">getSupportedVehicles</span>()</div>
-<div className="block"><p>Gets the list of vehicle categories this charging location can support. For example,
- the same location can be suitable for charging passenger cars and motorcycles.
- There may be some further restrictions specified in other attributes, for example the available
- connector types may not be suitable for all vehicles in the supported category.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>List of vehicle categories this charging location can support. For example, the same location
-     can be suitable for charging passenger cars and motorcycles.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getTruckRestrictions()">
-<h3>getTruckRestrictions</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a></span> <span className="element-name">getTruckRestrictions</span>()</div>
-<div className="block"><p>Gets the access restrictions for trucks and light commercial vehicles.
- Restricted, only available to customers having a specific contract with HERE
- and if requested by including <code>EVChargingLocationFeature.TRUCK_RESTRICTIONS</code> in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Access restrictions for trucks and light commercial vehicles.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getOpeningHours()">
-<h3>getOpeningHours</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a></span> <span className="element-name">getOpeningHours</span>()</div>
-<div className="block"><p>Gets the times when the EVSEs at the charging location can be accessed for charging.
- Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The times when the EVSEs at the charging location can be accessed for charging.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getRestrictions()">
-<h3>getRestrictions</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>&gt;</span> <span className="element-name">getRestrictions</span>()</div>
-<div className="block"><p>Gets the list of restrictions.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Reason(s) for restricted access.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSupportPhoneNumber()">
-<h3>getSupportPhoneNumber</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getSupportPhoneNumber</span>()</div>
-<div className="block"><p>Gets the phone number that EV drivers should call when need assistance at the charge location.
- Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The phone number that EV drivers should call when need assistance at the charge location, in E.164 format.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getTimeZone()">
-<h3>getTimeZone</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">getTimeZone</span>()</div>
-<div className="block"><p>Gets the time zone of the charging location. Based on IANA tzdata's TZ-values.
- Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The time zone of the charging location. Based on IANA tzdata's TZ-values.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.search.EVChargingLocation → com.here.NativeBase com.here.sdk.search.EVChargingLocation → com.here.sdk.search.EVChargingLocation
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingLocation</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+An electric vehicle (EV) charging location. The semantics generally follow the OCPI 2.2.1 standard. Known EV-specific acronyms: EV: Electric Vehicle OCPI: Open Charge Point Interface (a standard with a rather wide adoption worldwide, https://evroaming.org/) CPO: Charge Point Operator (company that runs the EV charging location) eMSP: e-Mobility Service Provider (customer-facing company) EVSE: Electric Vehicle Supply Equipment (the actual charger that can charge one car at a time) A charging location includes a collection of one or more EV supply equipment (EVSE) instances. Typically, the charging location is the exact location of the group of EVSEs, simplified to a single point, but it can also be the entrance of a parking structure which contains these EVSEs. Each EVSE supports more precise position, where applicable. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">`EVChargingConnectorGroup`</a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getConnectorGroups ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the connector groups for the location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getCpoID ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the CPO's own ID for the location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEMobilityServiceProviders ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of eMSPs with a roaming agreement enabling access to the EV charging location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-energymix" title="class in com.here.sdk.search">`EnergyMix`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEnergyMix ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the details on the energy supplied at the charging location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvChargingOperator ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the operator of the charging point, if available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvChargingSubOperator ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the suboperator of the charging point, if available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">`EVSEInfo`</a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getEvses ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of EVSEs at the charging station.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">`FacilityType`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getFacilityTypes ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of facilities available at the charging location, for example hotel, wifi, parking lot etc.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getID ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the unique identifier of the charging location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getName ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the display name of the charging location, if available.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">`EVChargingOpeningHours`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOpeningHours ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the times when the EVSEs at the charging location can be accessed for charging.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">`ParkingType`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getParkingType ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the type of parking at the charging location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">`EVAccessRestrictionReason`</a>`>`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getRestrictions ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of restrictions.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">`EVChargingVehicleCategory`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSupportedVehicles ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of vehicle categories this charging location can support.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSupportPhoneNumber ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the phone number that EV drivers should call when need assistance at the charge location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">`EVChargingTariff`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTariffs ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the list of tariffs or price plans for the connectors of the charging station.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTimeZone ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the time zone of the charging location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">`EVChargingTruckRestriction`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getTruckRestrictions ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the access restrictions for trucks and light commercial vehicles.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-getID" class="section detail">
+
+    ### getID
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getID</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the unique identifier of the charging location.
+
+    </div>
+
+    Returns:  
+    A unique identifier of the charging location.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getName" class="section detail">
+
+    ### getName
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the display name of the charging location, if available.
+
+    </div>
+
+    Returns:  
+    Display name of the charging location, if available.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getCpoID" class="section detail">
+
+    ### getCpoID
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCpoID</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the CPO's own ID for the location. This ID may be relevant for some clients to map the charging location data to their own or 3rd party systems. Available only if EVChargingLocationFeature.LOCATION_INFO is included in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    CPO's own ID for the location.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getEvChargingOperator" class="section detail">
+
+    ### getEvChargingOperator
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span class="element-name">getEvChargingOperator</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the operator of the charging point, if available.
+
+    </div>
+
+    Returns:  
+    Operator of the charging point, if available.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getEvChargingSubOperator" class="section detail">
+
+    ### getEvChargingSubOperator
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span class="element-name">getEvChargingSubOperator</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the suboperator of the charging point, if available.
+
+    </div>
+
+    Returns:  
+    Suboperator of the charging point, if available.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getEMobilityServiceProviders" class="section detail">
+
+    ### getEMobilityServiceProviders
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a>\></span> <span class="element-name">getEMobilityServiceProviders</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of eMSPs with a roaming agreement enabling access to the EV charging location. Available only if EVChargingLocationFeature.EMSPS is included in EVSearchOptions.additional_features , otherwise empty.
+
+    </div>
+
+    Returns:  
+    eMSPs with a roaming agreement enabling access to the EV charging location.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getFacilityTypes" class="section detail">
+
+    ### getFacilityTypes
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>\></span> <span class="element-name">getFacilityTypes</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of facilities available at the charging location, for example hotel, wifi, parking lot etc. Available only if EVChargingLocationFeature.NEARBY is included in EVSearchOptions.additional_features , otherwise empty.
+
+    </div>
+
+    Returns:  
+    Facilities available at the charging location, for example hotel, wifi, parking lot etc.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getParkingType" class="section detail">
+
+    ### getParkingType
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">getParkingType</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the type of parking at the charging location. Available only if EVChargingLocationFeature.LOCATION_INFO is included in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    The type of parking at the charging location.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getEnergyMix" class="section detail">
+
+    ### getEnergyMix
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-energymix" title="class in com.here.sdk.search">EnergyMix</a></span> <span class="element-name">getEnergyMix</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the details on the energy supplied at the charging location.
+
+    </div>
+
+    Returns:  
+    Details on the energy supplied at the charging location. Available only if `EVChargingLocationFeature.LOCATION_INFO` is included in `EVSearchOptions.additional_features`, otherwise `null`.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getEvses" class="section detail">
+
+    ### getEvses
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a>\></span> <span class="element-name">getEvses</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of EVSEs at the charging station. Available only if EVChargingLocationFeature.EVSES is included in EVSearchOptions.additional_features , otherwise empty.
+
+    </div>
+
+    Returns:  
+    List of EVSEs at the charging station.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getTariffs" class="section detail">
+
+    ### getTariffs
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a>\></span> <span class="element-name">getTariffs</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of tariffs or price plans for the connectors of the charging station. Tariffs are typically connector-type specific. Hence, they are always linked with connectors and/or connector groups, by indexes to this list. This property is set only when data is available and when EVSearchOptions.additional_features include either EVChargingLocationFeature.EVSES or EVChargingLocationFeature.CONNECTOR_GROUPS . By default, the list includes tariffs for ad-hoc charging, per connector type, for EVSEs that accept payment without registering.
+
+    </div>
+
+    Returns:  
+    List of tariffs or price plans for the connectors of the charging station.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getConnectorGroups" class="section detail">
+
+    ### getConnectorGroups
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>\></span> <span class="element-name">getConnectorGroups</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the connector groups for the location. Provides an overview of the charging connectors in the location by type and power. Available only if EVChargingLocationFeature.CONNECTOR_GROUPS is included in EVSearchOptions.additional_features , otherwise empty.
+
+    </div>
+
+    Returns:  
+    Connector groups for the location.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSupportedVehicles" class="section detail">
+
+    ### getSupportedVehicles
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>\></span> <span class="element-name">getSupportedVehicles</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of vehicle categories this charging location can support. For example, the same location can be suitable for charging passenger cars and motorcycles. There may be some further restrictions specified in other attributes, for example the available connector types may not be suitable for all vehicles in the supported category.
+
+    </div>
+
+    Returns:  
+    List of vehicle categories this charging location can support. For example, the same location can be suitable for charging passenger cars and motorcycles.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getTruckRestrictions" class="section detail">
+
+    ### getTruckRestrictions
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a></span> <span class="element-name">getTruckRestrictions</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the access restrictions for trucks and light commercial vehicles. Restricted, only available to customers having a specific contract with HERE and if requested by including EVChargingLocationFeature.TRUCK_RESTRICTIONS in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    Access restrictions for trucks and light commercial vehicles.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getOpeningHours" class="section detail">
+
+    ### getOpeningHours
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a></span> <span class="element-name">getOpeningHours</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the times when the EVSEs at the charging location can be accessed for charging. Available only if EVChargingLocationFeature.LOCATION_INFO is included in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    The times when the EVSEs at the charging location can be accessed for charging.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getRestrictions" class="section detail">
+
+    ### getRestrictions
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>\></span> <span class="element-name">getRestrictions</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the list of restrictions.
+
+    </div>
+
+    Returns:  
+    Reason(s) for restricted access.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSupportPhoneNumber" class="section detail">
+
+    ### getSupportPhoneNumber
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getSupportPhoneNumber</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the phone number that EV drivers should call when need assistance at the charge location. Available only if EVChargingLocationFeature.LOCATION_INFO is included in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    The phone number that EV drivers should call when need assistance at the charge location, in E.164 format.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getTimeZone" class="section detail">
+
+    ### getTimeZone
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTimeZone</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the time zone of the charging location. Based on IANA tzdata's TZ-values. Available only if EVChargingLocationFeature.LOCATION_INFO is included in EVSearchOptions.additional_features , otherwise null .
+
+    </div>
+
+    Returns:  
+    The time zone of the charging location. Based on IANA tzdata's TZ-values.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

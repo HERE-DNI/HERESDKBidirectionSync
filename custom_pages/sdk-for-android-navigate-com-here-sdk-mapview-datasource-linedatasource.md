@@ -3,161 +3,397 @@ title: "LineDataSource (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- LineDataSource.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapview.datasource</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.mapview.datasource.LineDataSource</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">LineDataSource</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>Polyline data source allows the rendering engine access to the user provided
- polylines geometry and their attributes.
- Polyline segments are rendered following the shortest path between their end vertices.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section className="nested-class-summary" id="nested-class-summary">
-
-<div className="caption"><span>Nested Classes</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code>static interface </code></div>
-<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="add(com.here.sdk.mapview.datasource.LineData)">
-<h3>add</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">add</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> line)</span></div>
-<div className="block"><p>Adds a new line to the data source.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>line</code> - <p>Line to add.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="add(java.util.List)">
-<h3>add</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">add</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>&gt; lines)</span></div>
-<div className="block"><p>Adds new lines to the data source.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>lines</code> - <p>Lines to add.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="removeAll()">
-<h3>removeAll</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">removeAll</span>()</div>
-<div className="block"><p>Removes all lines from the data source.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="forEach(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">
-<h3>forEach</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">forEach</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> processor)</span></div>
-<div className="block"><p>Iterates through all the lines from the data source and passes them to the
- given processor, one by one. The processor can update the line data.
- The iteration stops after all lines have been processed or the processor returns false
- from the process call.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>processor</code> - <p>Line processor.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="removeIf(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">
-<h3>removeIf</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">removeIf</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> inspector)</span></div>
-<div className="block"><p>Iterates through all the lines from the data source and passes them to the
- given inspector, one by one. All lines for which the inspector returns <code>true</code> get removed from the data source.
- The inspector cannot update the line data.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>inspector</code> - <p>Line data processor.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="destroy()">
-<h3>destroy</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">destroy</span>()</div>
-<div className="block"><p>Frees all internally used resources. After calling this method, the object
- is not usable anymore.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.LineDataSource → com.here.NativeBase com.here.sdk.mapview.datasource.LineDataSource → com.here.sdk.mapview.datasource.LineDataSource
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataSource</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+Polyline data source allows the rendering engine access to the user provided polylines geometry and their attributes. Polyline segments are rendered following the shortest path between their end vertices. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-nested-class-summary" class="section nested-class-summary">
+
+  <div class="caption">
+
+  Nested Classes
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static interface `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>LineDataSource.LineDataProcessor</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Called for each line, allowing inspection, removal or update of coordinates and attributes.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      add ( LineData line)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Adds a new line to the data source.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      add ( List < LineData > lines)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Adds new lines to the data source.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      destroy ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Frees all internally used resources.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      forEach ( LineDataSource.LineDataProcessor processor)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Iterates through all the lines from the data source and passes them to the given processor, one by one.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeAll ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Removes all lines from the data source.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      removeIf ( LineDataSource.LineDataProcessor inspector)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Iterates through all the lines from the data source and passes them to the given inspector, one by one.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-add-com-here-sdk-mapview-datasource-LineData" class="section detail">
+
+    ### add
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> line)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds a new line to the data source.
+
+    </div>
+
+    Parameters:  
+    `line` -
+
+    Line to add.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-add-java-util-List" class="section detail">
+
+    ### add
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>\> lines)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds new lines to the data source.
+
+    </div>
+
+    Parameters:  
+    `lines` -
+
+    Lines to add.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-removeAll" class="section detail">
+
+    ### removeAll
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeAll</span>()
+
+    </div>
+
+    <div class="block">
+
+    Removes all lines from the data source.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-forEach-com-here-sdk-mapview-datasource-LineDataSource-LineDataProcessor" class="section detail">
+
+    ### forEach
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> processor)</span>
+
+    </div>
+
+    <div class="block">
+
+    Iterates through all the lines from the data source and passes them to the given processor, one by one. The processor can update the line data. The iteration stops after all lines have been processed or the processor returns false from the process call.
+
+    </div>
+
+    Parameters:  
+    `processor` -
+
+    Line processor.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-removeIf-com-here-sdk-mapview-datasource-LineDataSource-LineDataProcessor" class="section detail">
+
+    ### removeIf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> inspector)</span>
+
+    </div>
+
+    <div class="block">
+
+    Iterates through all the lines from the data source and passes them to the given inspector, one by one. All lines for which the inspector returns true get removed from the data source. The inspector cannot update the line data.
+
+    </div>
+
+    Parameters:  
+    `inspector` -
+
+    Line data processor.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-destroy" class="section detail">
+
+    ### destroy
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">destroy</span>()
+
+    </div>
+
+    <div class="block">
+
+    Frees all internally used resources. After calling this method, the object is not usable anymore.
+
+    </div>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

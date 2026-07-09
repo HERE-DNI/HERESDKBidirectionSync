@@ -3,80 +3,114 @@ title: "InterpolatedLocationListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-interpolatedlocationlistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- InterpolatedLocationListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">InterpolatedLocationListener</span></div>
-<div className="block"><p>This interface should be implemented
- in order to receive interpolated locations. The interpolated locations are only provided between
- <a href="sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and <a href="sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application
- is not running in the background.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onInterpolatedLocationUpdated(com.here.sdk.core.Location)">
-<h3>onInterpolatedLocationUpdated</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onInterpolatedLocationUpdated</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
-<div className="block"><p>Called whenever a new interpolated location is calculated, usually several times per second.
- The interpolated locations are only provided between <a href="sdk-for-android-navigate-visualnavigator#startRendering(com.here.sdk.mapview.MapViewBase)"><code>VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase)</code></a> and
- <a href="sdk-for-android-navigate-visualnavigator#stopRendering()"><code>VisualNavigator.stopRendering()</code></a> calls and the application is not running in the background.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>location</code> - <p>The interpolated location.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">InterpolatedLocationListener</span>
+
+</div>
+
+<div class="block">
+
+This interface should be implemented in order to receive interpolated locations. The interpolated locations are only provided between VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase) and VisualNavigator.stopRendering() calls and the application is not running in the background.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onInterpolatedLocationUpdated ( Location location)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called whenever a new interpolated location is calculated, usually several times per second.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onInterpolatedLocationUpdated-com-here-sdk-core-Location" class="section detail">
+
+    ### onInterpolatedLocationUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onInterpolatedLocationUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called whenever a new interpolated location is calculated, usually several times per second. The interpolated locations are only provided between VisualNavigator.startRendering(com.here.sdk.mapview.MapViewBase) and VisualNavigator.stopRendering() calls and the application is not running in the background.
+
+    </div>
+
+    Parameters:  
+    `location` -
+
+    The interpolated location.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

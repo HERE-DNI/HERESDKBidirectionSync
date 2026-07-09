@@ -3,72 +3,109 @@ title: "OffRoadDestinationReachedListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-offroaddestinationreachedlistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- OffRoadDestinationReachedListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">OffRoadDestinationReachedListener</span></div>
-<div className="block"><p>This interface should be
- implemented in order to receive notifications from this class about the
- arrival at the off-road destination.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onOffRoadDestinationReached()">
-<h3>onOffRoadDestinationReached</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onOffRoadDestinationReached</span>()</div>
-<div className="block"><p>Called when the off-road destination has been reached.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">OffRoadDestinationReachedListener</span>
+
+</div>
+
+<div class="block">
+
+This interface should be implemented in order to receive notifications from this class about the arrival at the off-road destination.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onOffRoadDestinationReached ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called when the off-road destination has been reached.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onOffRoadDestinationReached" class="section detail">
+
+    ### onOffRoadDestinationReached
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onOffRoadDestinationReached</span>()
+
+    </div>
+
+    <div class="block">
+
+    Called when the off-road destination has been reached.
+
+    </div>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

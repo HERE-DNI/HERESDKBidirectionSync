@@ -3,156 +3,179 @@ title: "API Help (API Reference)"
 slug: "sdk-for-android-navigate-help-doc"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- help-doc.html -->
+- <a href="sdk-for-android-navigate-help-doc#help-navigation">Navigation</a>:
+  - <a href="sdk-for-android-navigate-help-doc#help-search">Search</a>
+- <a href="sdk-for-android-navigate-help-doc#help-pages">Kinds of Pages</a>:
+  - <a href="sdk-for-android-navigate-help-doc#overview">Overview</a>
+  - <a href="sdk-for-android-navigate-help-doc#package">Package</a>
+  - <a href="sdk-for-android-navigate-help-doc#class">Class or Interface</a>
+  - <a href="sdk-for-android-navigate-help-doc#doc-file">Other Files</a>
+  - <a href="sdk-for-android-navigate-help-doc#tree">Tree (Class Hierarchy)</a>
+  - <a href="sdk-for-android-navigate-help-doc#deprecated">Deprecated API</a>
+  - <a href="sdk-for-android-navigate-help-doc#constant-values">Constant Field Values</a>
+  - <a href="sdk-for-android-navigate-help-doc#serialized-form">Serialized Form</a>
+  - <a href="sdk-for-android-navigate-help-doc#all-packages">All Packages</a>
+  - <a href="sdk-for-android-navigate-help-doc#all-classes">All Classes and Interfaces</a>
+  - <a href="sdk-for-android-navigate-help-doc#index">Index</a>
 
+<div class="sub-title">
 
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-
-<ul className="help-toc">
-<li><a href="sdk-for-android-navigate-help-doc#help-navigation">Navigation</a>: 
-<ul className="help-subtoc">
-<li><a href="sdk-for-android-navigate-help-doc#help-search">Search</a></li>
-</ul>
-</li>
-<li><a href="sdk-for-android-navigate-help-doc#help-pages">Kinds of Pages</a>: 
-<ul className="help-subtoc">
-<li><a href="sdk-for-android-navigate-help-doc#overview">Overview</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#package">Package</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#class">Class or Interface</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#doc-file">Other Files</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#tree">Tree (Class Hierarchy)</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#deprecated">Deprecated API</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#constant-values">Constant Field Values</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#serialized-form">Serialized Form</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#all-packages">All Packages</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#all-classes">All Classes and Interfaces</a></li>
-<li><a href="sdk-for-android-navigate-help-doc#index">Index</a></li>
-</ul>
-</li>
-</ul>
-
-<div className="sub-title">
+## Navigation
 
 Starting from the <a href="sdk-for-android-navigate-index">Overview</a> page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The <a href="sdk-for-android-navigate-index-all">Index</a> and Search box allow you to navigate to specific declarations and summary pages, including: <a href="sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>
-<section className="help-section" id="help-search">
-<h3>Search</h3>
-<p>You can search for definitions of modules, packages, types, fields, methods, system properties and other terms defined in the API, using some or all of the name, optionally using "camelCase" abbreviations. For example:</p>
-<ul className="help-section-list">
-<li><code>j.l.obj</code> will match "java.lang.Object"</li>
-<li><code>InpStr</code> will match "java.io.InputStream"</li>
-<li><code>HM.cK</code> will match "java.util.HashMap.containsKey(Object)"</li>
-</ul>
-<p>Refer to the <a href="https://docs.oracle.com/en/java/javase/17/docs/specs/javadoc/javadoc-search-spec.html">Javadoc Search Specification</a> for a full description of search features.</p>
-</section>
+
+<div id="sdk-for-android-navigate-help-search" class="section help-section">
+
+### Search
+
+You can search for definitions of modules, packages, types, fields, methods, system properties and other terms defined in the API, using some or all of the name, optionally using "camelCase" abbreviations. For example:
+
+- `j.l.obj` will match "java.lang.Object"
+- `InpStr` will match "java.io.InputStream"
+- `HM.cK` will match "java.util.HashMap.containsKey(Object)"
+
+Refer to the <a href="https://docs.oracle.com/en/java/javase/17/docs/specs/javadoc/javadoc-search-spec.html">Javadoc Search Specification</a> for a full description of search features.
+
 </div>
 
-<div className="sub-title">
+</div>
+
+<div class="sub-title">
+
+## Kinds of Pages
 
 The following sections describe the different kinds of pages in this collection.
-<section className="help-section" id="overview">
-<h3>Overview</h3>
-<p>The <a href="sdk-for-android-navigate-index">Overview</a> page is the front page of this API document and provides a list of all packages with a summary for each.  This page can also contain an overall description of the set of packages.</p>
-</section>
-<section className="help-section" id="package">
-<h3>Package</h3>
-<p>Each package has a page that contains a list of its classes and interfaces, with a summary for each. These pages may contain the following categories:</p>
-<ul className="help-section-list">
-<li>Interfaces</li>
-<li>Classes</li>
-<li>Enum Classes</li>
-<li>Exceptions</li>
-<li>Errors</li>
-<li>Annotation Interfaces</li>
-</ul>
-</section>
-<section className="help-section" id="class">
-<h3>Class or Interface</h3>
-<p>Each class, interface, nested class and nested interface has its own separate page. Each of these pages has three sections consisting of a declaration and description, member summary tables, and detailed member descriptions. Entries in each of these sections are omitted if they are empty or not applicable.</p>
-<ul className="help-section-list">
-<li>Class Inheritance Diagram</li>
-<li>Direct Subclasses</li>
-<li>All Known Subinterfaces</li>
-<li>All Known Implementing Classes</li>
-<li>Class or Interface Declaration</li>
-<li>Class or Interface Description</li>
-</ul>
-<br/>
-<ul className="help-section-list">
-<li>Nested Class Summary</li>
-<li>Enum Constant Summary</li>
-<li>Field Summary</li>
-<li>Property Summary</li>
-<li>Constructor Summary</li>
-<li>Method Summary</li>
-<li>Required Element Summary</li>
-<li>Optional Element Summary</li>
-</ul>
-<br/>
-<ul className="help-section-list">
-<li>Enum Constant Details</li>
-<li>Field Details</li>
-<li>Property Details</li>
-<li>Constructor Details</li>
-<li>Method Details</li>
-<li>Element Details</li>
-</ul>
-<p><span className="help-note">Note:</span> Annotation interfaces have required and optional elements, but not methods. Only enum classes have enum constants. The components of a record class are displayed as part of the declaration of the record class. Properties are a feature of JavaFX.</p>
-<p>The summary entries are alphabetical, while the detailed descriptions are in the order they appear in the source code. This preserves the logical groupings established by the programmer.</p>
-</section>
-<section className="help-section" id="doc-file">
-<h3>Other Files</h3>
-<p>Packages and modules may contain pages with additional information related to the declarations nearby.</p>
-</section>
-<section className="help-section" id="tree">
-<h3>Tree (Class Hierarchy)</h3>
-<p>There is a <a href="sdk-for-android-navigate-overview-tree">Class Hierarchy</a> page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with <code>java.lang.Object</code>. Interfaces do not inherit from <code>java.lang.Object</code>.</p>
-<ul className="help-section-list">
-<li>When viewing the Overview page, clicking on TREE displays the hierarchy for all packages.</li>
-<li>When viewing a particular package, class or interface page, clicking on TREE displays the hierarchy for only that package.</li>
-</ul>
-</section>
-<section className="help-section" id="deprecated">
-<h3>Deprecated API</h3>
-<p>The <a href="sdk-for-android-navigate-deprecated-list">Deprecated API</a> page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.</p>
-</section>
-<section className="help-section" id="constant-values">
-<h3>Constant Field Values</h3>
-<p>The <a href="sdk-for-android-navigate-constant-values">Constant Field Values</a> page lists the static final fields and their values.</p>
-</section>
-<section className="help-section" id="serialized-form">
-<h3>Serialized Form</h3>
-<p>Each serializable or externalizable class has a description of its serialization fields and methods. This information is of interest to those who implement rather than use the API. While there is no link in the navigation bar, you can get to this information by going to any serialized class and clicking "Serialized Form" in the "See Also" section of the class description.</p>
-</section>
-<section className="help-section" id="all-packages">
-<h3>All Packages</h3>
-<p>The <a href="sdk-for-android-navigate-allpackages-index">All Packages</a> page contains an alphabetic index of all packages contained in the documentation.</p>
-</section>
-<section className="help-section" id="all-classes">
-<h3>All Classes and Interfaces</h3>
-<p>The <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a> page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.</p>
-</section>
-<section className="help-section" id="index">
-<h3>Index</h3>
-<p>The <a href="sdk-for-android-navigate-index-all">Index</a> contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as <a href="sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>.</p>
-</section>
-</div>
 
-<span className="help-footnote">This help file applies to API documentation generated by the standard doclet.</span>
-</div>
-</div>
+<div id="sdk-for-android-navigate-overview" class="section help-section">
 
+### Overview
 
+The <a href="sdk-for-android-navigate-index">Overview</a> page is the front page of this API document and provides a list of all packages with a summary for each. This page can also contain an overall description of the set of packages.
 
 </div>
-`
-}</HTMLBlock>
+
+<div id="sdk-for-android-navigate-package" class="section help-section">
+
+### Package
+
+Each package has a page that contains a list of its classes and interfaces, with a summary for each. These pages may contain the following categories:
+
+- Interfaces
+- Classes
+- Enum Classes
+- Exceptions
+- Errors
+- Annotation Interfaces
+
+</div>
+
+<div id="sdk-for-android-navigate-class" class="section help-section">
+
+### Class or Interface
+
+Each class, interface, nested class and nested interface has its own separate page. Each of these pages has three sections consisting of a declaration and description, member summary tables, and detailed member descriptions. Entries in each of these sections are omitted if they are empty or not applicable.
+
+- Class Inheritance Diagram
+- Direct Subclasses
+- All Known Subinterfaces
+- All Known Implementing Classes
+- Class or Interface Declaration
+- Class or Interface Description
+
+\
+
+- Nested Class Summary
+- Enum Constant Summary
+- Field Summary
+- Property Summary
+- Constructor Summary
+- Method Summary
+- Required Element Summary
+- Optional Element Summary
+
+\
+
+- Enum Constant Details
+- Field Details
+- Property Details
+- Constructor Details
+- Method Details
+- Element Details
+
+<span class="help-note">Note:</span> Annotation interfaces have required and optional elements, but not methods. Only enum classes have enum constants. The components of a record class are displayed as part of the declaration of the record class. Properties are a feature of JavaFX.
+
+The summary entries are alphabetical, while the detailed descriptions are in the order they appear in the source code. This preserves the logical groupings established by the programmer.
+
+</div>
+
+<div id="sdk-for-android-navigate-doc-file" class="section help-section">
+
+### Other Files
+
+Packages and modules may contain pages with additional information related to the declarations nearby.
+
+</div>
+
+<div id="sdk-for-android-navigate-tree" class="section help-section">
+
+### Tree (Class Hierarchy)
+
+There is a <a href="sdk-for-android-navigate-overview-tree">Class Hierarchy</a> page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with `java.lang.Object`. Interfaces do not inherit from `java.lang.Object`.
+
+- When viewing the Overview page, clicking on TREE displays the hierarchy for all packages.
+- When viewing a particular package, class or interface page, clicking on TREE displays the hierarchy for only that package.
+
+</div>
+
+<div id="sdk-for-android-navigate-deprecated" class="section help-section">
+
+### Deprecated API
+
+The <a href="sdk-for-android-navigate-deprecated-list">Deprecated API</a> page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.
+
+</div>
+
+<div id="sdk-for-android-navigate-constant-values" class="section help-section">
+
+### Constant Field Values
+
+The <a href="sdk-for-android-navigate-constant-values">Constant Field Values</a> page lists the static final fields and their values.
+
+</div>
+
+<div id="sdk-for-android-navigate-serialized-form" class="section help-section">
+
+### Serialized Form
+
+Each serializable or externalizable class has a description of its serialization fields and methods. This information is of interest to those who implement rather than use the API. While there is no link in the navigation bar, you can get to this information by going to any serialized class and clicking "Serialized Form" in the "See Also" section of the class description.
+
+</div>
+
+<div id="sdk-for-android-navigate-all-packages" class="section help-section">
+
+### All Packages
+
+The <a href="sdk-for-android-navigate-allpackages-index">All Packages</a> page contains an alphabetic index of all packages contained in the documentation.
+
+</div>
+
+<div id="sdk-for-android-navigate-all-classes" class="section help-section">
+
+### All Classes and Interfaces
+
+The <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a> page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.
+
+</div>
+
+<div id="sdk-for-android-navigate-index" class="section help-section">
+
+### Index
+
+The <a href="sdk-for-android-navigate-index-all">Index</a> contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as <a href="sdk-for-android-navigate-allpackages-index">All Packages</a>, <a href="sdk-for-android-navigate-allclasses-index">All Classes and Interfaces</a>.
+
+</div>
+
+</div>
+
+<span class="help-footnote">This help file applies to API documentation generated by the standard doclet.</span>
+

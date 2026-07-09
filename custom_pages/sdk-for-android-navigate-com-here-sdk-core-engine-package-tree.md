@@ -3,106 +3,72 @@ title: "com.here.sdk.core.engine Class Hierarchy (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-engine-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- package-tree.html -->
+<div class="header">
 
+<span class="package-hierarchy-label">Package Hierarchies:</span>
 
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
-
-<span className="package-hierarchy-label">Package Hierarchies:</span>
-<ul className="horizontal">
-<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
-</ul>
-</div>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-applicationutilsinitializer" title="class in com.here.sdk.core.engine">ApplicationUtilsInitializer</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></li>
-<li className="circle">com.here.<a className="type-name-link" href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
-<ul>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess" title="class in com.here.sdk.core.engine">LockingProcess</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-logcontrol" title="class in com.here.sdk.core.engine">LogControl</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation" title="class in com.here.sdk.core.engine">SDKBuildInformation</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger" title="class in com.here.sdk.core.engine">SDKLogger</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></li>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">Throwable</a> (implements java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a>
-<ul>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></li>
-</ul>
-</li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-logappender" title="interface in com.here.sdk.core.engine">LogAppender</a></li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></li>
-<li className="circle">com.here.sdk.core.engine.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+- <a href="sdk-for-android-navigate-overview-tree">All Packages</a>
 
 </div>
+
+<div class="section hierarchy">
+
+## Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-applicationutilsinitializer" class="type-name-link" title="class in com.here.sdk.core.engine">ApplicationUtilsInitializer</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" class="type-name-link" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" class="type-name-link" title="class in com.here.sdk.core.engine">CatalogIdentifier</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-certificatesettings" class="type-name-link" title="class in com.here.sdk.core.engine">CertificateSettings</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" class="type-name-link" title="class in com.here.sdk.core.engine">DesiredCatalog</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-engineoptions" class="type-name-link" title="class in com.here.sdk.core.engine">EngineOptions</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" class="type-name-link" title="class in com.here.sdk.core.engine">LayerConfiguration</a>
+  - com.here.<a href="sdk-for-android-navigate-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" class="type-name-link" title="class in com.here.sdk.core.engine">AuthenticationMode</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogversionhint" class="type-name-link" title="class in com.here.sdk.core.engine">CatalogVersionHint</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess" class="type-name-link" title="class in com.here.sdk.core.engine">LockingProcess</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-logcontrol" class="type-name-link" title="class in com.here.sdk.core.engine">LogControl</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation" class="type-name-link" title="class in com.here.sdk.core.engine">SDKBuildInformation</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger" class="type-name-link" title="class in com.here.sdk.core.engine">SDKLogger</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" class="type-name-link" title="class in com.here.sdk.core.engine">SDKNativeEngine</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-networksettings" class="type-name-link" title="class in com.here.sdk.core.engine">NetworkSettings</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" class="type-name-link" title="class in com.here.sdk.core.engine">ProxySettings</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings-credentials" class="type-name-link" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" class="type-name-link" title="class in com.here.sdk.core.engine">SDKOptions</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkversion" class="type-name-link" title="class in com.here.sdk.core.engine">SDKVersion</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" class="type-name-link external-link" title="class or interface in java.lang">Throwable</a> (implements java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="type-name-link external-link" title="class or interface in java.lang">Exception</a>
+      - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-logcontrol-invalidpathexception" class="type-name-link" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" class="type-name-link" title="class in com.here.sdk.core.engine">UsageStats</a>
+  - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats" class="type-name-link" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>
+
 </div>
 
+<div class="section hierarchy">
 
+## Interface Hierarchy
+
+- com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode-accesstokenprovider" class="type-name-link" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a>
+- com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback" class="type-name-link" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a>
+- com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-logappender" class="type-name-link" title="interface in com.here.sdk.core.engine">LogAppender</a>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section hierarchy">
+
+## Enum Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="type-name-link external-link" title="class or interface in java.lang">Enum</a>\<E\> (implements java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<T\>, java.lang.constant.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant">Constable</a>, java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype" class="type-name-link" title="enum class in com.here.sdk.core.engine">CatalogType</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl" class="type-name-link" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration-feature" class="type-name-link" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-loglevel" class="type-name-link" title="enum class in com.here.sdk.core.engine">LogLevel</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" class="type-name-link" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings-proxytype" class="type-name-link" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" class="type-name-link" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions-actiononcachelock" class="type-name-link" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a>
+    - com.here.sdk.core.engine.<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature" class="type-name-link" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>
+
+</div>
+

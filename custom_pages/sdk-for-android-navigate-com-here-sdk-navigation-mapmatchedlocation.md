@@ -3,293 +3,618 @@ title: "MapMatchedLocation (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- MapMatchedLocation.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.navigation.MapMatchedLocation</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">MapMatchedLocation</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Describes a map-matched location in the world at a given time.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
-
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#bearingInDegrees">bearingInDegrees</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">The bearing orientation points to the direction of travel, and has the same angle as the
- street where it is matched to.</div>
-</div>
-<div className="col-first odd-row-color"><code>double</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#confidence">confidence</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Confidence level (between 0 and 1) of the matched location.</div>
-</div>
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#coordinates">coordinates</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">The geographic coordinates of the map-matched location.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#horizontalAccuracyInMeters">horizontalAccuracyInMeters</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Horizontal accuracy measure of location.</div>
-</div>
-<div className="col-first even-row-color"><code>boolean</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#isDrivingInTheWrongWay">isDrivingInTheWrongWay</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Determines if the travel direction on a one-way street is against the allowed traffic direction.</div>
-</div>
-<div className="col-first odd-row-color"><code>long</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters">segmentOffsetInCentimeters</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Offset from start of segment in centimeters.</div>
-</div>
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentReference">segmentReference</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Reference to the current segment.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Speed in meters per second.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#timestamp">timestamp</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Timestamp of the map matched position.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,java.lang.Double)">MapMatchedLocation</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> bearingInDegrees)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="coordinates">
-<h3>coordinates</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span className="element-name">coordinates</span></div>
-<div className="block"><p>The geographic coordinates of the map-matched location.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="bearingInDegrees">
-<h3>bearingInDegrees</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">bearingInDegrees</span></div>
-<div className="block"><p>The bearing orientation points to the direction of travel, and has the same angle as the
- street where it is matched to. Therefore, it must not necessarily be the same as the
- bearing of a location source.
- Starts at 0 in the geographic north and rotates in a clockwise direction around the
- compass. It means that for going north it's equal to 0, for northeast it's equal to 45,
- for east it's equal to 90, and so on.
- If it cannot be determined, the value is <code>null</code>. Otherwise, it is guaranteed to be in the
- range [0, 360).</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="segmentReference">
-<h3>segmentReference</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span className="element-name">segmentReference</span></div>
-<div className="block"><p>Reference to the current segment.
- The ratio of <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters"><code>segmentOffsetInCentimeters</code></a> to the segment length is
- between <a href="sdk-for-android-navigate-segmentreference#offsetStart"><code>SegmentReference.offsetStart</code></a> and <a href="sdk-for-android-navigate-segmentreference#offsetEnd"><code>SegmentReference.offsetEnd</code></a>.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="segmentOffsetInCentimeters">
-<h3>segmentOffsetInCentimeters</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">long</span> <span className="element-name">segmentOffsetInCentimeters</span></div>
-<div className="block"><p>Offset from start of segment in centimeters.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="confidence">
-<h3>confidence</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">double</span> <span className="element-name">confidence</span></div>
-<div className="block"><p>Confidence level (between 0 and 1) of the matched location.
- A low confidence value means that the map-matched vehicle location is not reliable and it may
- not be clear which part of the road the vehicle has taken. This can happen when the accuracy
- or frequency of the provided location updates is poor. If the confidence level is too small
- then, for example, overspeed warnings may be also inaccurate.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="isDrivingInTheWrongWay">
-<h3>isDrivingInTheWrongWay</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">isDrivingInTheWrongWay</span></div>
-<div className="block"><p>Determines if the travel direction on a one-way street is against the allowed traffic direction.
- For two-way streets, this value is always <code>false</code>.
- This feature is supported in tracking mode and when deviating from a route.
- Note that the travel direction is determined based on the map-matched location.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="horizontalAccuracyInMeters">
-<h3>horizontalAccuracyInMeters</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">horizontalAccuracyInMeters</span></div>
-<div className="block"><p>Horizontal accuracy measure of location.
- Estimated based on accuracy of input location and confidence of this map-matched location.
- Currently this value is not being provided by the Navigator.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="speedInMetersPerSecond">
-<h3>speedInMetersPerSecond</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span className="element-name">speedInMetersPerSecond</span></div>
-<div className="block"><p>Speed in meters per second.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="timestamp">
-<h3>timestamp</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span className="element-name">timestamp</span></div>
-<div className="block"><p>Timestamp of the map matched position.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,java.lang.Double)">
-<h3>MapMatchedLocation</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">MapMatchedLocation</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- @Nullable
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> bearingInDegrees)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>coordinates</code> - <p>The geographic coordinates of the map-matched location.</p></dd>
-<dd><code>bearingInDegrees</code> - <p>The bearing orientation points to the direction of travel, and has the same angle as the
- street where it is matched to. Therefore, it must not necessarily be the same as the
- bearing of a location source.
- Starts at 0 in the geographic north and rotates in a clockwise direction around the
- compass. It means that for going north it's equal to 0, for northeast it's equal to 45,
- for east it's equal to 90, and so on.
- If it cannot be determined, the value is <code>null</code>. Otherwise, it is guaranteed to be in the
- range [0, 360).</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+java.lang.Object com.here.sdk.navigation.MapMatchedLocation → com.here.sdk.navigation.MapMatchedLocation
 
-<ul className="member-list">
-<li>
-<section className="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">equals</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">int</span> <span className="element-name">hashCode</span>()</div>
-<dl className="notes">
-<dt>Overrides:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMatchedLocation</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
+</div>
+
+<div class="block">
+
+Describes a map-matched location in the world at a given time.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#bearingInDegrees" class="member-name-link"><code>bearingInDegrees</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#confidence" class="member-name-link"><code>confidence</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Confidence level (between 0 and 1) of the matched location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#coordinates" class="member-name-link"><code>coordinates</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The geographic coordinates of the map-matched location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#horizontalAccuracyInMeters" class="member-name-link"><code>horizontalAccuracyInMeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Horizontal accuracy measure of location.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#isDrivingInTheWrongWay" class="member-name-link"><code>isDrivingInTheWrongWay</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Determines if the travel direction on a one-way street is against the allowed traffic direction.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters" class="member-name-link"><code>segmentOffsetInCentimeters</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Offset from start of segment in centimeters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">`SegmentReference`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentReference" class="member-name-link"><code>segmentReference</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Reference to the current segment.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#speedInMetersPerSecond" class="member-name-link"><code>speedInMetersPerSecond</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Speed in meters per second.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#timestamp" class="member-name-link"><code>timestamp</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Timestamp of the map matched position.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      MapMatchedLocation ( GeoCoordinates coordinates, Double bearingInDegrees)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals ( Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-coordinates" class="section detail">
+
+    ### coordinates
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span>
+
+    </div>
+
+    <div class="block">
+
+    The geographic coordinates of the map-matched location.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-bearingInDegrees" class="section detail">
+
+    ### bearingInDegrees
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">bearingInDegrees</span>
+
+    </div>
+
+    <div class="block">
+
+    The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it's equal to 0, for northeast it's equal to 45, for east it's equal to 90, and so on. If it cannot be determined, the value is null . Otherwise, it is guaranteed to be in the range \<a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">0, 360).
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-segmentReference" class="section detail">
+
+    ### segmentReference
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SegmentReference</a></span> <span class="element-name">segmentReference</span>
+
+    </div>
+
+    <div class="block">
+
+    Reference to the current segment. The ratio of segmentOffsetInCentimeters to the segment length is between SegmentReference.offsetStart and SegmentReference.offsetEnd .
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-segmentOffsetInCentimeters" class="section detail">
+
+    ### segmentOffsetInCentimeters
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">segmentOffsetInCentimeters</span>
+
+    </div>
+
+    <div class="block">
+
+    Offset from start of segment in centimeters.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-confidence" class="section detail">
+
+    ### confidence
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">confidence</span>
+
+    </div>
+
+    <div class="block">
+
+    Confidence level (between 0 and 1) of the matched location. A low confidence value means that the map-matched vehicle location is not reliable and it may not be clear which part of the road the vehicle has taken. This can happen when the accuracy or frequency of the provided location updates is poor. If the confidence level is too small then, for example, overspeed warnings may be also inaccurate.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isDrivingInTheWrongWay" class="section detail">
+
+    ### isDrivingInTheWrongWay
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isDrivingInTheWrongWay</span>
+
+    </div>
+
+    <div class="block">
+
+    Determines if the travel direction on a one-way street is against the allowed traffic direction. For two-way streets, this value is always false . This feature is supported in tracking mode and when deviating from a route. Note that the travel direction is determined based on the map-matched location.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-horizontalAccuracyInMeters" class="section detail">
+
+    ### horizontalAccuracyInMeters
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">horizontalAccuracyInMeters</span>
+
+    </div>
+
+    <div class="block">
+
+    Horizontal accuracy measure of location. Estimated based on accuracy of input location and confidence of this map-matched location. Currently this value is not being provided by the Navigator.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-speedInMetersPerSecond" class="section detail">
+
+    ### speedInMetersPerSecond
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">speedInMetersPerSecond</span>
+
+    </div>
+
+    <div class="block">
+
+    Speed in meters per second. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-timestamp" class="section detail">
+
+    ### timestamp
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">timestamp</span>
+
+    </div>
+
+    <div class="block">
+
+    Timestamp of the map matched position. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-com-here-sdk-core-GeoCoordinates-java-lang-Double" class="section detail">
+
+    ### MapMatchedLocation
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">MapMatchedLocation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> bearingInDegrees)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `coordinates` -
+
+    The geographic coordinates of the map-matched location.
+
+    `bearingInDegrees` -
+
+    The bearing orientation points to the direction of travel, and has the same angle as the street where it is matched to. Therefore, it must not necessarily be the same as the bearing of a location source. Starts at 0 in the geographic north and rotates in a clockwise direction around the compass. It means that for going north it's equal to 0, for northeast it's equal to 45, for east it's equal to 90, and so on. If it cannot be determined, the value is `null`. Otherwise, it is guaranteed to be in the range \[0, 360).
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-equals-java-lang-Object" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hashCode" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

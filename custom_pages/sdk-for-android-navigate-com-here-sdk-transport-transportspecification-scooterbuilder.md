@@ -3,149 +3,289 @@ title: "TransportSpecification.ScooterBuilder (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- TransportSpecification.ScooterBuilder.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.transport.TransportSpecification.ScooterBuilder</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public static final class </span><span className="element-name type-name-label">TransportSpecification.ScooterBuilder</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>This class constructs a <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder#%3Cinit%3E()">ScooterBuilder</a>()</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance of this class.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;()">
-<h3>ScooterBuilder</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">ScooterBuilder</span>()</div>
-<div className="block"><p>Creates a new instance of this class.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">
-<h3>withScooterSpecification</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span className="element-name">withScooterSpecification</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</span></div>
-<div className="block"><p>Sets the scooter specification.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>scooterSpecification</code> - <p>The scooter specification.</p></dd>
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the scooter specification set to the new value.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">
-<h3>withVehicleSpecification</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span className="element-name">withVehicleSpecification</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
-<div className="block"><p>Sets the vehicle specification.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>vehicleSpecification</code> - <p>The vehicle specification.</p></dd>
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="build()">
-<h3>build</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span className="element-name">build</span>()</div>
-<div className="block"><p>Builds the <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
- from the <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object com.here.NativeBase com.here.sdk.transport.TransportSpecification.ScooterBuilder → com.here.NativeBase com.here.sdk.transport.TransportSpecification.ScooterBuilder → com.here.sdk.transport.TransportSpecification.ScooterBuilder
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+Enclosing class:  
+<a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>
+
+<div class="type-signature">
+
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.ScooterBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+This class constructs a TransportSpecification for a scooter.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      ScooterBuilder ()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance of this class.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      build ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Builds the TransportSpecification object for a scooter with the specifications taken from the TransportSpecification.ScooterBuilder object.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withScooterSpecification ( ScooterSpecification scooterSpecification)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the scooter specification.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      withVehicleSpecification ( VehicleSpecification vehicleSpecification)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the vehicle specification.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init" class="section detail">
+
+    ### ScooterBuilder
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">ScooterBuilder</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of this class.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-withScooterSpecification-com-here-sdk-transport-ScooterSpecification" class="section detail">
+
+    ### withScooterSpecification
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withScooterSpecification</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the scooter specification.
+
+    </div>
+
+    Parameters:  
+    `scooterSpecification` -
+
+    The scooter specification.
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object with the scooter specification set to the new value.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-withVehicleSpecification-com-here-sdk-transport-VehicleSpecification" class="section detail">
+
+    ### withVehicleSpecification
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the vehicle specification.
+
+    </div>
+
+    Parameters:  
+    `vehicleSpecification` -
+
+    The vehicle specification.
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object with the vehicle specification set to the new value.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-build" class="section detail">
+
+    ### build
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()
+
+    </div>
+
+    <div class="block">
+
+    Builds the TransportSpecification object for a scooter with the specifications taken from the TransportSpecification.ScooterBuilder object.
+
+    </div>
+
+    Returns:  
+    The <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a> object created from the <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

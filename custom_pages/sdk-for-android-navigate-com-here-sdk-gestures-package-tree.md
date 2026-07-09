@@ -3,77 +3,49 @@ title: "com.here.sdk.gestures Class Hierarchy (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-gestures-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- package-tree.html -->
+<div class="header">
 
+<span class="package-hierarchy-label">Package Hierarchies:</span>
 
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
-
-<span className="package-hierarchy-label">Package Hierarchies:</span>
-<ul className="horizontal">
-<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
-</ul>
-</div>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">com.here.<a className="type-name-link" href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
-<ul>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-flinghandler" title="class in com.here.sdk.gestures">FlingHandler</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-scalehandler" title="class in com.here.sdk.gestures">ScaleHandler</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-scrollhandler" title="class in com.here.sdk.gestures">ScrollHandler</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">PanListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">TapListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a></li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a></li>
-<li className="circle">com.here.sdk.gestures.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+- <a href="sdk-for-android-navigate-overview-tree">All Packages</a>
 
 </div>
+
+<div class="section hierarchy">
+
+## Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - com.here.<a href="sdk-for-android-navigate-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-flinghandler" class="type-name-link" title="class in com.here.sdk.gestures">FlingHandler</a>
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-gestures" class="type-name-link" title="class in com.here.sdk.gestures">Gestures</a>
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-scalehandler" class="type-name-link" title="class in com.here.sdk.gestures">ScaleHandler</a>
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-scrollhandler" class="type-name-link" title="class in com.here.sdk.gestures">ScrollHandler</a>
+
 </div>
 
+<div class="section hierarchy">
 
+## Interface Hierarchy
+
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-doubletaplistener" class="type-name-link" title="interface in com.here.sdk.gestures">DoubleTapListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener" class="type-name-link" title="interface in com.here.sdk.gestures">LongPressListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-panlistener" class="type-name-link" title="interface in com.here.sdk.gestures">PanListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-pinchrotatelistener" class="type-name-link" title="interface in com.here.sdk.gestures">PinchRotateListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-taplistener" class="type-name-link" title="interface in com.here.sdk.gestures">TapListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-twofingerpanlistener" class="type-name-link" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a>
+- com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-twofingertaplistener" class="type-name-link" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section hierarchy">
+
+## Enum Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="type-name-link external-link" title="class or interface in java.lang">Enum</a>\<E\> (implements java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<T\>, java.lang.constant.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant">Constable</a>, java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-gesturestate" class="type-name-link" title="enum class in com.here.sdk.gestures">GestureState</a>
+    - com.here.sdk.gestures.<a href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype" class="type-name-link" title="enum class in com.here.sdk.gestures">GestureType</a>
+
+</div>
+

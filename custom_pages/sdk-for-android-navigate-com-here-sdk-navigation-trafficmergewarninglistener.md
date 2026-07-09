@@ -3,84 +3,114 @@ title: "TrafficMergeWarningListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarninglistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- TrafficMergeWarningListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">TrafficMergeWarningListener</span></div>
-<div className="block"><p>This interface
- should be implemented in order to receive traffic merge warnings.
- <strong>Note:</strong> The traffic merge warner is a point warner, which means that for a traffic merge there will <em>always</em> be
- 2 warnings emitted, with the <code>TrafficMergeWarning.distance_type</code> set to <code>DistanceType.AHEAD</code> and <code>DistanceType.PASSED</code>
- which is given when the location of the traffic merge is reached.
- A <code>TrafficMergeWarning</code> will not be given until the previous warning of that type has been passed.
- For example, a route with <code>TrafficMergeWarning</code> 120 meters and <code>TrafficMergeWarning</code> 160 meters ahead,
- the first <code>TrafficMergeWarning.distance_to_traffic_merge_in_meters</code> is 120 meters
- and the next <code>TrafficMergeWarning.distance_to_traffic_merge_in_meters</code> is then 40 meters,
- since that is the distance between the first and second warnings.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onTrafficMergeWarningUpdated(com.here.sdk.navigation.TrafficMergeWarning)">
-<h3>onTrafficMergeWarningUpdated</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onTrafficMergeWarningUpdated</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning" title="class in com.here.sdk.navigation">TrafficMergeWarning</a> trafficMergeWarning)</span></div>
-<div className="block"><p>Called whenever a new traffic merge warning is available.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>trafficMergeWarning</code> - <p>The object that contains details on the traffic merge warning.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficMergeWarningListener</span>
+
+</div>
+
+<div class="block">
+
+This interface should be implemented in order to receive traffic merge warnings. Note: The traffic merge warner is a point warner, which means that for a traffic merge there will always be 2 warnings emitted, with the TrafficMergeWarning.distance_type set to DistanceType.AHEAD and DistanceType.PASSED which is given when the location of the traffic merge is reached. A TrafficMergeWarning will not be given until the previous warning of that type has been passed. For example, a route with TrafficMergeWarning 120 meters and TrafficMergeWarning 160 meters ahead, the first TrafficMergeWarning.distance_to_traffic_merge_in_meters is 120 meters and the next TrafficMergeWarning.distance_to_traffic_merge_in_meters is then 40 meters, since that is the distance between the first and second warnings.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onTrafficMergeWarningUpdated ( TrafficMergeWarning trafficMergeWarning)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called whenever a new traffic merge warning is available.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onTrafficMergeWarningUpdated-com-here-sdk-navigation-TrafficMergeWarning" class="section detail">
+
+    ### onTrafficMergeWarningUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onTrafficMergeWarningUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning" title="class in com.here.sdk.navigation">TrafficMergeWarning</a> trafficMergeWarning)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called whenever a new traffic merge warning is available.
+
+    </div>
+
+    Parameters:  
+    `trafficMergeWarning` -
+
+    The object that contains details on the traffic merge warning.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

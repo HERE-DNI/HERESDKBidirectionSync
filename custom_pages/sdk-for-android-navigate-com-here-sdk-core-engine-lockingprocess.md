@@ -3,202 +3,319 @@ title: "LockingProcess (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- LockingProcess.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.core.engine.LockingProcess</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">LockingProcess</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>LockingProcess helps to detect situations when cache is locked with another process and
- attempt to create instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> fails with error
- <a href="sdk-for-android-navigate-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER"><code>InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER</code></a>.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="getLockingProcessId(com.here.sdk.core.engine.SDKOptions)">
-<h3>getLockingProcessId</h3>
-<div className="member-signature"><span className="annotations"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-@Nullable
-</span><span className="modifiers">public static</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span className="element-name">getLockingProcessId</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
-<div className="deprecation-block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</p></div>
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.NativeBase com.here.sdk.core.engine.LockingProcess → com.here.NativeBase com.here.sdk.core.engine.LockingProcess → com.here.sdk.core.engine.LockingProcess
+
 </div>
-<div className="block"><p>Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
- Returns <code>null</code>, when no lock is active. Usually, a lock is not happening on the current process.
- The PID of the current process can be checked with <code>android.os.Process#myPid()</code>.
- The PID can be used to kill or to send a signal to the process with the related functions:
- <code>android.os.Process#killProcess(int)</code> and <code>android.os.Process#sendSignal(int,int)</code>.
- Note that the PID might belong to the current app process, so it is recommended to check this
- before a process is killed as otherwise you will kill your own app process.
- Alternatively, call the convenient function <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- If a PID is available it means that there is a lock on either the cache or the persistant map storage
- and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
- to kill the locking process.
- <strong>Note:</strong>
- The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
- be locked by another thread or process after this function returned <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>options</code> - <p>The options which are supposed to be used for new instance of the engine.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Process ID if the cache or the persistent map directory is locked and a process ID was successfully read.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)">
-<h3>getLockingProcessId</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public static</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span className="element-name">getLockingProcessId</span><wbr/><span className="parameters">(@NonNull
- android.content.Context context,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
-<div className="block"><p>Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
- Returns <code>null</code>, when no lock is active. Usually, a lock is not happening on the current process.
- The PID of the current process can be checked with <code>android.os.Process#myPid()</code>.
- The PID can be used to kill or to send a signal to the process with the related functions:
- <code>android.os.Process#killProcess(int)</code> and <code>android.os.Process#sendSignal(int,int)</code>.
- Note that the PID might belong to the current app process, so it is recommended to check this
- before a process is killed as otherwise you will kill your own app process.
- Alternatively, call the convenient function <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- If a PID is available it means that there is a lock on either the cache or the persistant map storage
- and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
- to kill the locking process.
- <strong>Note:</strong>
- The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
- be locked by another thread or process after this function returned <code>null</code>.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>context</code> - <p>The Android context</p></dd>
-<dd><code>options</code> - <p>The options which are supposed to be used for new instance of the engine.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Process ID if the cache or the persistent map directory is locked and a process ID was successfully read.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)">
-<h3>destroyLockingProcess</h3>
-<div className="member-signature"><span className="annotations"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-</span><span className="modifiers">public static</span> <span className="return-type">void</span> <span className="element-name">destroyLockingProcess</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
- long maxTimeoutInMilliseconds)</span></div>
-<div className="deprecation-block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</p></div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LockingProcess</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
 </div>
-<div className="block"><p>Checks if cache folder is locked. Does nothing if cache is not locked or locked by
- current process. If cache is locked by a different process then the HERE SDK
- makes a few attempts to kill the locking application during the specified timeout.
- If it fails to kill the application, it attempts to remove the cache at
- <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
- i.e.
- <pre>
- <code>
-      SDKOptions options = new SDKOptions(...);
-      LockingProcess.destroyLockingProcess(options, 300);
-      SDKNativeEngine engine = new SDKNativeEngine(options);
- </code>
- </pre></p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>sdkOptions</code> - <p>The options which are supposed to be used for a new instance of the engine.</p></dd>
-<dd><code>maxTimeoutInMilliseconds</code> - <p>The maximum timeout in milliseconds. Recommended value is 300 - 500 milliseconds.
-     If 0 or a negative value is passed then it makes only one attempt to kill the locking
-     process (if any) and waits 30 milliseconds before exit because the system may spend a
-     small amount of time to perform the operation.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)">
-<h3>destroyLockingProcess</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type">void</span> <span className="element-name">destroyLockingProcess</span><wbr/><span className="parameters">(@NonNull
- android.content.Context context,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
- long maxTimeoutInMilliseconds)</span></div>
-<div className="block"><p>Checks if cache folder is locked. Does nothing if cache is not locked or locked by
- current process. If cache is locked by a different process then the HERE SDK
- makes a few attempts to kill the locking application during the specified timeout.
- If it fails to kill the application, it attempts to remove the cache at
- <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
- i.e.
- <pre>
- <code>
-      SDKOptions options = new SDKOptions(...);
-      LockingProcess.destroyLockingProcess(context, options, 300);
-      SDKNativeEngine engine = new SDKNativeEngine(options);
- </code>
- </pre></p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>context</code> - <p>The Android context</p></dd>
-<dd><code>sdkOptions</code> - <p>The options which are supposed to be used for a new instance of the engine.</p></dd>
-<dd><code>maxTimeoutInMilliseconds</code> - <p>The maximum timeout in milliseconds. Recommended value is 300 - 500 milliseconds.
-     If 0 or a negative value is passed then it makes only one attempt to kill the locking
-     process (if any) and waits 30 milliseconds before exit because the system may spend a
-     small amount of time to perform the operation.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+
+<div class="block">
+
+LockingProcess helps to detect situations when cache is locked with another process and attempt to create instance of SDKNativeEngine fails with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      destroyLockingProcess (android.content.Context context, SDKOptions sdkOptions,
+       long maxTimeoutInMilliseconds)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Checks if cache folder is locked.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      destroyLockingProcess ( SDKOptions sdkOptions,
+       long maxTimeoutInMilliseconds)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.27.0, use destroyLockingProcess(android.content.Context, SDKOptions, long) instead.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getLockingProcessId (android.content.Context context, SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+      getLockingProcessId ( SDKOptions options)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.27.0, use getLockingProcessId(android.content.Context, SDKOptions) instead.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-getLockingProcessId-com-here-sdk-core-engine-SDKOptions" class="section detail">
+
+    ### getLockingProcessId
+
+    <div class="member-signature">
+
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+    <div class="deprecation-comment">
+
+    Will be removed in v4.27.0, use [](sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions))
+
+        getLockingProcessId(android.content.Context, SDKOptions)
+
+    </a> instead.
+    </p>
+
+    </div>
+
+    </div>
+
+    <div class="block">
+
+    Gets the process ID (PID) that currently locks the map cache or the persistent map storage. Returns null , when no lock is active. Usually, a lock is not happening on the current process. The PID of the current process can be checked with android.os.Process#myPid() . The PID can be used to kill or to send a signal to the process with the related functions: android.os.Process#killProcess(int) and android.os.Process#sendSignal(int,int) . Note that the PID might belong to the current app process, so it is recommended to check this before a process is killed as otherwise you will kill your own app process. Alternatively, call the convenient function destroyLockingProcess(android.content.Context, SDKOptions, long) . If a PID is available it means that there is a lock on either the cache or the persistant map storage and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider to kill the locking process. Note: The Operation is not atomic and may return a PID for a process which is already destroyed or the file might be locked by another thread or process after this function returned null .
+
+    </div>
+
+    Parameters:  
+    `options` -
+
+    The options which are supposed to be used for new instance of the engine.
+
+    Returns:  
+    Process ID if the cache or the persistent map directory is locked and a process ID was successfully read.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getLockingProcessId-android-content-Context-com-here-sdk-core-engine-SDKOptions" class="section detail">
+
+    ### getLockingProcessId
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
+
+    </div>
+
+    <div class="block">
+
+    Gets the process ID (PID) that currently locks the map cache or the persistent map storage. Returns null , when no lock is active. Usually, a lock is not happening on the current process. The PID of the current process can be checked with android.os.Process#myPid() . The PID can be used to kill or to send a signal to the process with the related functions: android.os.Process#killProcess(int) and android.os.Process#sendSignal(int,int) . Note that the PID might belong to the current app process, so it is recommended to check this before a process is killed as otherwise you will kill your own app process. Alternatively, call the convenient function destroyLockingProcess(android.content.Context, SDKOptions, long) . If a PID is available it means that there is a lock on either the cache or the persistant map storage and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider to kill the locking process. Note: The Operation is not atomic and may return a PID for a process which is already destroyed or the file might be locked by another thread or process after this function returned null .
+
+    </div>
+
+    Parameters:  
+    `context` -
+
+    The Android context
+
+    `options` -
+
+    The options which are supposed to be used for new instance of the engine.
+
+    Returns:  
+    Process ID if the cache or the persistent map directory is locked and a process ID was successfully read.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-destroyLockingProcess-com-here-sdk-core-engine-SDKOptions-long" class="section detail">
+
+    ### destroyLockingProcess
+
+    <div class="member-signature">
+
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions, long maxTimeoutInMilliseconds)</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+    <div class="deprecation-comment">
+
+    Will be removed in v4.27.0, use [](sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long))
+
+        destroyLockingProcess(android.content.Context, SDKOptions, long)
+
+    </a> instead.
+    </p>
+
+    </div>
+
+    </div>
+
+    <div class="block">
+
+    Checks if cache folder is locked. Does nothing if cache is not locked or locked by current process. If cache is locked by a different process then the HERE SDK makes a few attempts to kill the locking application during the specified timeout. If it fails to kill the application, it attempts to remove the cache at SDKOptions.cachePath . This function can be used before creating a SDKNativeEngine, i.e. SDKOptions options = new SDKOptions(...); LockingProcess.destroyLockingProcess(options, 300); SDKNativeEngine engine = new SDKNativeEngine(options);
+
+    </div>
+
+    Parameters:  
+    `sdkOptions` -
+
+    The options which are supposed to be used for a new instance of the engine.
+
+    `maxTimeoutInMilliseconds` -
+
+    The maximum timeout in milliseconds. Recommended value is 300 - 500 milliseconds. If 0 or a negative value is passed then it makes only one attempt to kill the locking process (if any) and waits 30 milliseconds before exit because the system may spend a small amount of time to perform the operation.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-destroyLockingProcess-android-content-Context-com-here-sdk-core-engine-SDKOptions-long" class="section detail">
+
+    ### destroyLockingProcess
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions, long maxTimeoutInMilliseconds)</span>
+
+    </div>
+
+    <div class="block">
+
+    Checks if cache folder is locked. Does nothing if cache is not locked or locked by current process. If cache is locked by a different process then the HERE SDK makes a few attempts to kill the locking application during the specified timeout. If it fails to kill the application, it attempts to remove the cache at SDKOptions.cachePath . This function can be used before creating a SDKNativeEngine, i.e. SDKOptions options = new SDKOptions(...); LockingProcess.destroyLockingProcess(context, options, 300); SDKNativeEngine engine = new SDKNativeEngine(options);
+
+    </div>
+
+    Parameters:  
+    `context` -
+
+    The Android context
+
+    `sdkOptions` -
+
+    The options which are supposed to be used for a new instance of the engine.
+
+    `maxTimeoutInMilliseconds` -
+
+    The maximum timeout in milliseconds. Recommended value is 300 - 500 milliseconds. If 0 or a negative value is passed then it makes only one attempt to kill the locking process (if any) and waits 30 milliseconds before exit because the system may spend a small amount of time to perform the operation.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

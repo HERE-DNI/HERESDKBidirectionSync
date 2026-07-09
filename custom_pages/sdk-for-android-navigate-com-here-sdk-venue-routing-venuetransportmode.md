@@ -3,233 +3,505 @@ title: "VenueTransportMode (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- VenueTransportMode.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.routing</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-package-summary">com.here.sdk.venue.routing</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>&gt;
-<div className="inheritance">com.here.sdk.venue.routing.VenueTransportMode</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>&gt;</code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public enum </span><span className="element-name type-name-label">VenueTransportMode</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>&gt;</span></div>
-<div className="block"><p>Available mode of transport on indoor topology.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section className="nested-class-summary" id="nested-class-summary">
-
-<div className="inherited-list">
-
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
-</section>
-</li>
-<!-- =========== ENUM CONSTANT SUMMARY =========== -->
-<li>
-<section className="constants-summary" id="enum-constant-summary">
-
-<div className="caption"><span>Enum Constants</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#AUTO">AUTO</a></code></div>
-<div className="col-last even-row-color">
-<div className="block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment">Will be removed in v4.26.0.</div>
-</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#CAR">CAR</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Car.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#EMERGENCY_VEHICLE">EMERGENCY_VEHICLE</a></code></div>
-<div className="col-last even-row-color">
-<div className="block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment">Will be removed in v4.26.0.</div>
-</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#MOTORCYCLE">MOTORCYCLE</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment">Will be removed in v4.26.0.</div>
-</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#PEDESTRIAN">PEDESTRIAN</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Pedestrian.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#SCOOTER">SCOOTER</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Scooter.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#TAXI">TAXI</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Taxi.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Enum">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" title="class or interface in java.lang">compareTo</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" title="class or interface in java.lang">describeConstable</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" title="class or interface in java.lang">getDeclaringClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" title="class or interface in java.lang">name</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" title="class or interface in java.lang">ordinal</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" title="class or interface in java.lang">valueOf</a></code></div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ ENUM CONSTANT DETAIL =========== -->
-<li>
-<section className="constant-details" id="enum-constant-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="AUTO">
-<h3>AUTO</h3>
-<div className="member-signature"><span className="annotations"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-</span><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">AUTO</span></div>
-<div className="deprecation-block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment"><p>Will be removed in v4.26.0. Use transport code <code>CAR</code> instead.</p></div>
-</div>
-<div className="block"><p>Auto.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="TAXI">
-<h3>TAXI</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">TAXI</span></div>
-<div className="block"><p>Taxi.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="MOTORCYCLE">
-<h3>MOTORCYCLE</h3>
-<div className="member-signature"><span className="annotations"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-</span><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">MOTORCYCLE</span></div>
-<div className="deprecation-block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment"><p>Will be removed in v4.26.0. Use transport code <code>SCOOTER</code> instead.</p></div>
-</div>
-<div className="block"><p>Motorcycle.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="EMERGENCY_VEHICLE">
-<h3>EMERGENCY_VEHICLE</h3>
-<div className="member-signature"><span className="annotations"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-</span><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">EMERGENCY_VEHICLE</span></div>
-<div className="deprecation-block"><span className="deprecated-label">Deprecated.</span>
-<div className="deprecation-comment"><p>Will be removed in v4.26.0. Use transport code <code>CAR</code> instead.</p></div>
-</div>
-<div className="block"><p>Emergency Vehicle.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="PEDESTRIAN">
-<h3>PEDESTRIAN</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">PEDESTRIAN</span></div>
-<div className="block"><p>Pedestrian.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="CAR">
-<h3>CAR</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">CAR</span></div>
-<div className="block"><p>Car.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="SCOOTER">
-<h3>SCOOTER</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">SCOOTER</span></div>
-<div className="block"><p>Scooter.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="values()">
-<h3>values</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>[]</span> <span className="element-name">values</span>()</div>
-<div className="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd>an array containing the constants of this enum class, in the order they are declared</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="valueOf(java.lang.String)">
-<h3>valueOf</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span className="element-name">valueOf</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
-<div className="block">Returns the enum constant of this class with the specified name.
-The string must match <i>exactly</i> an identifier used to declare an
-enum constant in this class.  (Extraneous whitespace characters are 
-not permitted.)</div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>name</code> - the name of the enum constant to be returned.</dd>
-<dt>Returns:</dt>
-<dd>the enum constant with the specified name</dd>
-<dt>Throws:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if this enum class has no constant with the specified name</dd>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if the argument is null</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object java.lang.Enum \< VenueTransportMode \> com.here.sdk.venue.routing.VenueTransportMode → java.lang.Enum \< VenueTransportMode \> com.here.sdk.venue.routing.VenueTransportMode → com.here.sdk.venue.routing.VenueTransportMode
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">`VenueTransportMode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+
+<div class="type-signature">
+
+<span class="modifiers">public enum </span><span class="element-name type-name-label">VenueTransportMode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>\></span>
+
+</div>
+
+<div class="block">
+
+Available mode of transport on indoor topology.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-enum-constant-summary" class="section constants-summary">
+
+  ## Enum Constant Summary
+
+  <div class="caption">
+
+  Enum Constants
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#AUTO" class="member-name-link"><code>AUTO</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.26.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#CAR" class="member-name-link"><code>CAR</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Car.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#EMERGENCY_VEHICLE" class="member-name-link"><code>EMERGENCY_VEHICLE</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.26.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#MOTORCYCLE" class="member-name-link"><code>MOTORCYCLE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Deprecated. Will be removed in v4.26.0.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#PEDESTRIAN" class="member-name-link"><code>PEDESTRIAN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Pedestrian.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#SCOOTER" class="member-name-link"><code>SCOOTER</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Scooter.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode#TAXI" class="member-name-link"><code>TAXI</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Taxi.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">`VenueTransportMode`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf ( String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns the enum constant of this class with the specified name.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">`VenueTransportMode`</a>`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns an array containing the constants of this enum class, in the order they are declared.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-enum-constant-detail" class="section constant-details">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-navigate-AUTO" class="section detail">
+
+    ### AUTO
+
+    <div class="member-signature">
+
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">AUTO</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+    <div class="deprecation-comment">
+
+    Will be removed in v4.26.0. Use transport code `CAR` instead.
+
+    </div>
+
+    </div>
+
+    <div class="block">
+
+    Auto.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-TAXI" class="section detail">
+
+    ### TAXI
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">TAXI</span>
+
+    </div>
+
+    <div class="block">
+
+    Taxi.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-MOTORCYCLE" class="section detail">
+
+    ### MOTORCYCLE
+
+    <div class="member-signature">
+
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">MOTORCYCLE</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+    <div class="deprecation-comment">
+
+    Will be removed in v4.26.0. Use transport code `SCOOTER` instead.
+
+    </div>
+
+    </div>
+
+    <div class="block">
+
+    Motorcycle.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-EMERGENCY_VEHICLE" class="section detail">
+
+    ### EMERGENCY_VEHICLE
+
+    <div class="member-signature">
+
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">EMERGENCY_VEHICLE</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+    <div class="deprecation-comment">
+
+    Will be removed in v4.26.0. Use transport code `CAR` instead.
+
+    </div>
+
+    </div>
+
+    <div class="block">
+
+    Emergency Vehicle.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-PEDESTRIAN" class="section detail">
+
+    ### PEDESTRIAN
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">PEDESTRIAN</span>
+
+    </div>
+
+    <div class="block">
+
+    Pedestrian.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-CAR" class="section detail">
+
+    ### CAR
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">CAR</span>
+
+    </div>
+
+    <div class="block">
+
+    Car.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-SCOOTER" class="section detail">
+
+    ### SCOOTER
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">SCOOTER</span>
+
+    </div>
+
+    <div class="block">
+
+    Scooter.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-values" class="section detail">
+
+    ### values
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a>\[\]</span> <span class="element-name">values</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns an array containing the constants of this enum class, in the order they are declared.
+
+    </div>
+
+    Returns:  
+    an array containing the constants of this enum class, in the order they are declared
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-valueOf-java-lang-String" class="section detail">
+
+    ### valueOf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
+
+    </div>
+
+    Parameters:  
+    `name` - the name of the enum constant to be returned.
+
+    Returns:  
+    the enum constant with the specified name
+
+    Throws:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
+
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

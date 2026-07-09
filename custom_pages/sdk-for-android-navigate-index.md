@@ -3,111 +3,447 @@ title: "Overview (API Reference)"
 slug: "sdk-for-android-navigate-index"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- index.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
+<div class="header">
 
 </div>
-<div className="block"><p>Browse the latest API Reference for the HERE SDK for Android (Navigate), Version 4.26.0.0.278965 Release</p>
-<p>For the terms and conditions covering this documentation, see the <a href="https://legal.here.com/en-gb/terms/documentation-license">HERE Documentation License</a>.
 
+<div class="block">
 
-Be sure to check out our <i>User Guide</i> including a <i>Get Started</i> tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps.
-
-We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p></div>
-<div id="all-packages-table">
-<div className="caption"><span>Packages</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.animation</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.errors</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.threading</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.utilities</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.electronichorizon</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.engine</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.ev</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.gestures</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.location</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapdata</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.maploader.remote.connection</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapmatcher</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapview.datasource</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.prefetcher</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.routing</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.search</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.traffic</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.trafficawarenavigation</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.trafficbroadcast</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.transport</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.data</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.routing</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.service</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.style</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first even-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.warner</a></div>
-<div className="col-last even-row-color all-packages-table all-packages-table-tab1"> </div>
-<div className="col-first odd-row-color all-packages-table all-packages-table-tab1"><a href="sdk-for-android-navigate-package-summary">com.here.time</a></div>
-<div className="col-last odd-row-color all-packages-table all-packages-table-tab1"> </div>
-</div>
-</div>
+Browse the latest API Reference for the HERE SDK for Android (Navigate), Version 4.26.0.0.278965 Release For the terms and conditions covering this documentation, see the HERE Documentation License . More Documentation Resources Be sure to check out our User Guide including a Get Started tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps. Get in Touch We love feedback. Please contact us for any questions, suggestions or improvements. Thank you for using the HERE SDK.
 
 </div>
+
+<div id="sdk-for-android-navigate-all-packages-table">
+
+<div class="caption">
+
+Packages
+
 </div>
 
+<div class="summary-table two-column-summary">
 
+<div class="table-header col-first">
+
+Package
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="table-header col-last">
+
+Description
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-package-summary">com.here</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-core-package-summary">com.here.sdk.core</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-engine-package-summary">com.here.sdk.engine</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-ev-package-summary">com.here.sdk.ev</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-location-package-summary">com.here.sdk.location</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-mapdata-package-summary">com.here.sdk.mapdata</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-package-summary">com.here.sdk.maploader.remote.connection</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-mapmatcher-package-summary">com.here.sdk.mapmatcher</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-prefetcher-package-summary">com.here.sdk.prefetcher</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-search-package-summary">com.here.sdk.search</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-package-summary">com.here.sdk.trafficawarenavigation</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-package-summary">com.here.sdk.trafficbroadcast</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-package-summary">com.here.sdk.venue</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-routing-package-summary">com.here.sdk.venue.routing</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-service-package-summary">com.here.sdk.venue.service</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-venue-style-package-summary">com.here.sdk.venue.style</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first even-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-sdk-warner-package-summary">com.here.sdk.warner</a>
+
+</div>
+
+<div class="col-last even-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+<div class="col-first odd-row-color all-packages-table all-packages-table-tab1">
+
+<a href="sdk-for-android-navigate-com-here-time-package-summary">com.here.time</a>
+
+</div>
+
+<div class="col-last odd-row-color all-packages-table all-packages-table-tab1">
+
+ 
+
+</div>
+
+</div>
+
+</div>
+

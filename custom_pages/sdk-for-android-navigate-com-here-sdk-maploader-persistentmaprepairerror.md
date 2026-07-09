@@ -3,235 +3,506 @@ title: "PersistentMapRepairError (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- PersistentMapRepairError.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.maploader</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-maploader-package-summary">com.here.sdk.maploader</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>&gt;
-<div className="inheritance">com.here.sdk.maploader.PersistentMapRepairError</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>&gt;</code>, <code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public enum </span><span className="element-name type-name-label">PersistentMapRepairError</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>&gt;</span></div>
-<div className="block"><p>Specifies possible errors that may result after a map repair operation has been completed.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section className="nested-class-summary" id="nested-class-summary">
-
-<div className="inherited-list">
-
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
-</section>
-</li>
-<!-- =========== ENUM CONSTANT SUMMARY =========== -->
-<li>
-<section className="constants-summary" id="enum-constant-summary">
-
-<div className="caption"><span>Enum Constants</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_DB">BROKEN_DB</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">The persisted map data can't be recovered and all map data was fully deleted.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Unrecoverable error during construction of pending update parameters.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#INVALID_PATH">INVALID_PATH</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Invalid persistent map path.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_JOURNAL">NO_JOURNAL</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">It is not possible to retrieve the list of downloaded regions.</div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_OFFLINE_VERSION">NO_OFFLINE_VERSION</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">The map data version was not cached.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Repair is invoked on object connected to the disposed <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a></div>
-</div>
-<div className="col-first even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#PARTIALLY_RESTORED">PARTIALLY_RESTORED</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Persistent map is repaired, but some map data is lost.</div>
-</div>
-<div className="col-first odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#UNKNOWN">UNKNOWN</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">An unknown error occurred.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Enum">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" title="class or interface in java.lang">compareTo</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" title="class or interface in java.lang">describeConstable</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" title="class or interface in java.lang">getDeclaringClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" title="class or interface in java.lang">name</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" title="class or interface in java.lang">ordinal</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" title="class or interface in java.lang">valueOf</a></code></div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ ENUM CONSTANT DETAIL =========== -->
-<li>
-<section className="constant-details" id="enum-constant-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="PARTIALLY_RESTORED">
-<h3>PARTIALLY_RESTORED</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">PARTIALLY_RESTORED</span></div>
-<div className="block"><p>Persistent map is repaired, but some map data is lost. Lost regions marked with a PENDING status.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="INVALID_PATH">
-<h3>INVALID_PATH</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">INVALID_PATH</span></div>
-<div className="block"><p>Invalid persistent map path. The provided path to store the persistent map data doesn't own the required Read/Write (RW) permissions.
- Try to choose a different path with RW permissions.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="BROKEN_DB">
-<h3>BROKEN_DB</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">BROKEN_DB</span></div>
-<div className="block"><p>The persisted map data can't be recovered and all map data was fully deleted. It is recommended, to ask
- the user if they want to try to download the lost regions again.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="NO_OFFLINE_VERSION">
-<h3>NO_OFFLINE_VERSION</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">NO_OFFLINE_VERSION</span></div>
-<div className="block"><p>The map data version was not cached. The region list data will be cleared from the persisted storage.
- It is recommended to download the list of downloadable regions again.
- After this it is recommended to try to repair the corrupted map data again.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="NO_JOURNAL">
-<h3>NO_JOURNAL</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">NO_JOURNAL</span></div>
-<div className="block"><p>It is not possible to retrieve the list of downloaded regions. The region list data will be cleared from the persisted storage.
- It is recommended to download the list of downloadable regions again.
- After this it is recommended to try to repair the corrupted map data again.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="BROKEN_UPDATE">
-<h3>BROKEN_UPDATE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">BROKEN_UPDATE</span></div>
-<div className="block"><p>Unrecoverable error during construction of pending update parameters.
- Operations such as catalog updates or region downloads will fail.
- The healing procedure is to clean persistent map with <code>sdk.maploader.MapDownloader.clear_persistent_map_storage</code>.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="OPERATION_AFTER_DISPOSE">
-<h3>OPERATION_AFTER_DISPOSE</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">OPERATION_AFTER_DISPOSE</span></div>
-<div className="block"><p>Repair is invoked on object connected to the disposed <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a></p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="UNKNOWN">
-<h3>UNKNOWN</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">UNKNOWN</span></div>
-<div className="block"><p>An unknown error occurred. Try to clear the persisted storage by calling <code>sdk.maploader.MapDownloader.clear_persistent_map_storage</code>.
- It is recommended, to ask the user if they want to try to download the lost regions again.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="values()">
-<h3>values</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>[]</span> <span className="element-name">values</span>()</div>
-<div className="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd>an array containing the constants of this enum class, in the order they are declared</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="valueOf(java.lang.String)">
-<h3>valueOf</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span className="element-name">valueOf</span><wbr/><span className="parameters">(<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
-<div className="block">Returns the enum constant of this class with the specified name.
-The string must match <i>exactly</i> an identifier used to declare an
-enum constant in this class.  (Extraneous whitespace characters are 
-not permitted.)</div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>name</code> - the name of the enum constant to be returned.</dd>
-<dt>Returns:</dt>
-<dd>the enum constant with the specified name</dd>
-<dt>Throws:</dt>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if this enum class has no constant with the specified name</dd>
-<dd><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if the argument is null</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object java.lang.Enum \< PersistentMapRepairError \> com.here.sdk.maploader.PersistentMapRepairError → java.lang.Enum \< PersistentMapRepairError \> com.here.sdk.maploader.PersistentMapRepairError → com.here.sdk.maploader.PersistentMapRepairError
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">`PersistentMapRepairError`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+
+<div class="type-signature">
+
+<span class="modifiers">public enum </span><span class="element-name type-name-label">PersistentMapRepairError</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>\></span>
+
+</div>
+
+<div class="block">
+
+Specifies possible errors that may result after a map repair operation has been completed.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  ## Nested classes/interfaces inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-enum-constant-summary" class="section constants-summary">
+
+  ## Enum Constant Summary
+
+  <div class="caption">
+
+  Enum Constants
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Enum Constant
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_DB" class="member-name-link"><code>BROKEN_DB</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The persisted map data can't be recovered and all map data was fully deleted.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_UPDATE" class="member-name-link"><code>BROKEN_UPDATE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Unrecoverable error during construction of pending update parameters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#INVALID_PATH" class="member-name-link"><code>INVALID_PATH</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Invalid persistent map path.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_JOURNAL" class="member-name-link"><code>NO_JOURNAL</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  It is not possible to retrieve the list of downloaded regions.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_OFFLINE_VERSION" class="member-name-link"><code>NO_OFFLINE_VERSION</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The map data version was not cached.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#OPERATION_AFTER_DISPOSE" class="member-name-link"><code>OPERATION_AFTER_DISPOSE</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Repair is invoked on object connected to the disposed SDKNativeEngine
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#PARTIALLY_RESTORED" class="member-name-link"><code>PARTIALLY_RESTORED</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Persistent map is repaired, but some map data is lost.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#UNKNOWN" class="member-name-link"><code>UNKNOWN</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  An unknown error occurred.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">`PersistentMapRepairError`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      valueOf ( String name)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns the enum constant of this class with the specified name.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">`PersistentMapRepairError`</a>`[]`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      values ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Returns an array containing the constants of this enum class, in the order they are declared.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-enum-constant-detail" class="section constant-details">
+
+  ## Enum Constant Details
+
+  - <div id="sdk-for-android-navigate-PARTIALLY_RESTORED" class="section detail">
+
+    ### PARTIALLY_RESTORED
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">PARTIALLY_RESTORED</span>
+
+    </div>
+
+    <div class="block">
+
+    Persistent map is repaired, but some map data is lost. Lost regions marked with a PENDING status.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-INVALID_PATH" class="section detail">
+
+    ### INVALID_PATH
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">INVALID_PATH</span>
+
+    </div>
+
+    <div class="block">
+
+    Invalid persistent map path. The provided path to store the persistent map data doesn't own the required Read/Write (RW) permissions. Try to choose a different path with RW permissions.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-BROKEN_DB" class="section detail">
+
+    ### BROKEN_DB
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">BROKEN_DB</span>
+
+    </div>
+
+    <div class="block">
+
+    The persisted map data can't be recovered and all map data was fully deleted. It is recommended, to ask the user if they want to try to download the lost regions again.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NO_OFFLINE_VERSION" class="section detail">
+
+    ### NO_OFFLINE_VERSION
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">NO_OFFLINE_VERSION</span>
+
+    </div>
+
+    <div class="block">
+
+    The map data version was not cached. The region list data will be cleared from the persisted storage. It is recommended to download the list of downloadable regions again. After this it is recommended to try to repair the corrupted map data again.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NO_JOURNAL" class="section detail">
+
+    ### NO_JOURNAL
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">NO_JOURNAL</span>
+
+    </div>
+
+    <div class="block">
+
+    It is not possible to retrieve the list of downloaded regions. The region list data will be cleared from the persisted storage. It is recommended to download the list of downloadable regions again. After this it is recommended to try to repair the corrupted map data again.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-BROKEN_UPDATE" class="section detail">
+
+    ### BROKEN_UPDATE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">BROKEN_UPDATE</span>
+
+    </div>
+
+    <div class="block">
+
+    Unrecoverable error during construction of pending update parameters. Operations such as catalog updates or region downloads will fail. The healing procedure is to clean persistent map with sdk.maploader.MapDownloader.clear_persistent_map_storage .
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-OPERATION_AFTER_DISPOSE" class="section detail">
+
+    ### OPERATION_AFTER_DISPOSE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">OPERATION_AFTER_DISPOSE</span>
+
+    </div>
+
+    <div class="block">
+
+    Repair is invoked on object connected to the disposed SDKNativeEngine
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-UNKNOWN" class="section detail">
+
+    ### UNKNOWN
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">UNKNOWN</span>
+
+    </div>
+
+    <div class="block">
+
+    An unknown error occurred. Try to clear the persisted storage by calling sdk.maploader.MapDownloader.clear_persistent_map_storage . It is recommended, to ask the user if they want to try to download the lost regions again.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-values" class="section detail">
+
+    ### values
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>\[\]</span> <span class="element-name">values</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns an array containing the constants of this enum class, in the order they are declared.
+
+    </div>
+
+    Returns:  
+    an array containing the constants of this enum class, in the order they are declared
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-valueOf-java-lang-String" class="section detail">
+
+    ### valueOf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns the enum constant of this class with the specified name. The string must match exactly an identifier used to declare an enum constant in this class. (Extraneous whitespace characters are not permitted.)
+
+    </div>
+
+    Parameters:  
+    `name` - the name of the enum constant to be returned.
+
+    Returns:  
+    the enum constant with the specified name
+
+    Throws:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> - if this enum class has no constant with the specified name
+
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> - if the argument is null
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

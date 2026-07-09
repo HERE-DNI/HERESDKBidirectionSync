@@ -3,127 +3,93 @@ title: "com.here.sdk.core Class Hierarchy (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- package-tree.html -->
+<div class="header">
 
+<span class="package-hierarchy-label">Package Hierarchies:</span>
 
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
-
-<span className="package-hierarchy-label">Package Hierarchies:</span>
-<ul className="horizontal">
-<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
-</ul>
-</div>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">LocationTime</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></li>
-<li className="circle">com.here.<a className="type-name-link" href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
-<ul>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authentication" title="class in com.here.sdk.core">Authentication</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core">PickedPlace</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-sdklibraryloader" title="class in com.here.sdk.core">SDKLibraryLoader</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></li>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">Throwable</a> (implements java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a>
-<ul>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authenticationexception" title="class in com.here.sdk.core">AuthenticationException</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-transportprofile" title="class in com.here.sdk.core">TransportProfile</a></li>
-</ul>
-</li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-custommetadatavalue" title="interface in com.here.sdk.core">CustomMetadataValue</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a></li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-cardinaldirection" title="enum class in com.here.sdk.core">CardinalDirection</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-metadatatype" title="enum class in com.here.sdk.core">MetadataType</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a></li>
-<li className="circle">com.here.sdk.core.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+- <a href="sdk-for-android-navigate-overview-tree">All Packages</a>
 
 </div>
+
+<div class="section hierarchy">
+
+## Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" class="type-name-link" title="class in com.here.sdk.core">Anchor2D</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-anglerange" class="type-name-link" title="class in com.here.sdk.core">AngleRange</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-authenticationdata" class="type-name-link" title="class in com.here.sdk.core">AuthenticationData</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-brandlogo" class="type-name-link" title="class in com.here.sdk.core">BrandLogo</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-color" class="type-name-link" title="class in com.here.sdk.core">Color</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-externalid" class="type-name-link" title="class in com.here.sdk.core">ExternalID</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geobox" class="type-name-link" title="class in com.here.sdk.core">GeoBox</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geocircle" class="type-name-link" title="class in com.here.sdk.core">GeoCircle</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" class="type-name-link" title="class in com.here.sdk.core">GeoCoordinates</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinatesupdate" class="type-name-link" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geocorridor" class="type-name-link" title="class in com.here.sdk.core">GeoCorridor</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" class="type-name-link" title="class in com.here.sdk.core">GeoOrientation</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geoorientationupdate" class="type-name-link" title="class in com.here.sdk.core">GeoOrientationUpdate</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geopolygon" class="type-name-link" title="class in com.here.sdk.core">GeoPolygon</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geopolyline" class="type-name-link" title="class in com.here.sdk.core">GeoPolyline</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" class="type-name-link" title="class in com.here.sdk.core">IntegerRange</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-localizedtext" class="type-name-link" title="class in com.here.sdk.core">LocalizedText</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" class="type-name-link" title="class in com.here.sdk.core">LocalizedTexts</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-location" class="type-name-link" title="class in com.here.sdk.core">Location</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-locationtime" class="type-name-link" title="class in com.here.sdk.core">LocationTime</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-nameid" class="type-name-link" title="class in com.here.sdk.core">NameID</a>
+  - com.here.<a href="sdk-for-android-navigate-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-angle" class="type-name-link" title="class in com.here.sdk.core">Angle</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-authentication" class="type-name-link" title="class in com.here.sdk.core">Authentication</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-metadata" class="type-name-link" title="class in com.here.sdk.core">Metadata</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier" class="type-name-link" title="class in com.here.sdk.core">PolylineSimplifier</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-timerule" class="type-name-link" title="class in com.here.sdk.core">TimeRule</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-networkendpoint" class="type-name-link" title="class in com.here.sdk.core">NetworkEndpoint</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" class="type-name-link" title="class in com.here.sdk.core">ParameterConfiguration</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-pedestrianprofile" class="type-name-link" title="class in com.here.sdk.core">PedestrianProfile</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-pickedplace" class="type-name-link" title="class in com.here.sdk.core">PickedPlace</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-point2d" class="type-name-link" title="class in com.here.sdk.core">Point2D</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-point3d" class="type-name-link" title="class in com.here.sdk.core">Point3D</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options" class="type-name-link" title="class in com.here.sdk.core">PolylineSimplifier.Options</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-rectangle2d" class="type-name-link" title="class in com.here.sdk.core">Rectangle2D</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-sdklibraryloader" class="type-name-link" title="class in com.here.sdk.core">SDKLibraryLoader</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-size2d" class="type-name-link" title="class in com.here.sdk.core">Size2D</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" class="type-name-link external-link" title="class or interface in java.lang">Throwable</a> (implements java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="type-name-link external-link" title="class or interface in java.lang">Exception</a>
+      - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-authenticationexception" class="type-name-link" title="class in com.here.sdk.core">AuthenticationException</a>
+  - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-transportprofile" class="type-name-link" title="class in com.here.sdk.core">TransportProfile</a>
+
 </div>
 
+<div class="section hierarchy">
 
+## Interface Hierarchy
+
+- com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-authenticationcallback" class="type-name-link" title="interface in com.here.sdk.core">AuthenticationCallback</a>
+- com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-custommetadatavalue" class="type-name-link" title="interface in com.here.sdk.core">CustomMetadataValue</a>
+- com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-locationlistener" class="type-name-link" title="interface in com.here.sdk.core">LocationListener</a>
+- com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplificationcallback" class="type-name-link" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section hierarchy">
+
+## Enum Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="type-name-link external-link" title="class or interface in java.lang">Enum</a>\<E\> (implements java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<T\>, java.lang.constant.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant">Constable</a>, java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-authenticationerror" class="type-name-link" title="enum class in com.here.sdk.core">AuthenticationError</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-cardinaldirection" class="type-name-link" title="enum class in com.here.sdk.core">CardinalDirection</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" class="type-name-link" title="enum class in com.here.sdk.core">CountryCode</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-currenttype" class="type-name-link" title="enum class in com.here.sdk.core">CurrentType</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-geopolylinedirection" class="type-name-link" title="enum class in com.here.sdk.core">GeoPolylineDirection</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" class="type-name-link" title="enum class in com.here.sdk.core">LanguageCode</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-locationsource" class="type-name-link" title="enum class in com.here.sdk.core">LocationSource</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-locationtechnology" class="type-name-link" title="enum class in com.here.sdk.core">LocationTechnology</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-metadatatype" class="type-name-link" title="enum class in com.here.sdk.core">MetadataType</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplificationerror" class="type-name-link" title="enum class in com.here.sdk.core">PolylineSimplificationError</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-powertype" class="type-name-link" title="enum class in com.here.sdk.core">PowerType</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-routetype" class="type-name-link" title="enum class in com.here.sdk.core">RouteType</a>
+    - com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" class="type-name-link" title="enum class in com.here.sdk.core">UnitSystem</a>
+
+</div>
+

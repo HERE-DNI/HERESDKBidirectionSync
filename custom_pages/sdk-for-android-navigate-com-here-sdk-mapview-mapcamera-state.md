@@ -3,181 +3,335 @@ title: "MapCamera.State (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- MapCamera.State.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.mapview.MapCamera.State</div>
+
 </div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></dd>
-</dl>
 
-<div className="type-signature"><span className="modifiers">public static final class </span><span className="element-name type-name-label">MapCamera.State</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Encapsulates state of the camera.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
+java.lang.Object com.here.sdk.mapview.MapCamera.State → com.here.sdk.mapview.MapCamera.State
 
-
-
-<div className="col-first even-row-color"><code>double</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#distanceToTargetInMeters">distanceToTargetInMeters</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Distance from the camera to the target point in meters.</div>
 </div>
-<div className="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#orientationAtTarget">orientationAtTarget</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Camera's orientation at target point.</div>
-</div>
-<div className="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#targetCoordinates">targetCoordinates</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Camera's 'LookAt' target position in geodetic space.</div>
-</div>
-<div className="col-first odd-row-color"><code>double</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#zoomLevel">zoomLevel</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Zoom level corresponding to the current distance to target.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
 
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
 
+Enclosing class:  
+<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a>
 
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
- <a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
- double distanceToTargetInMeters,
- double zoomLevel)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
+<div class="type-signature">
+
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCamera.State</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
+
+<div class="block">
+
+Encapsulates state of the camera.
+
 </div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
 
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
+</div>
 
-<ul className="member-list">
-<li>
-<section className="detail" id="targetCoordinates">
-<h3>targetCoordinates</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span className="element-name">targetCoordinates</span></div>
-<div className="block"><p>Camera's 'LookAt' target position in geodetic space.
- Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
- will consider the target point as being located on the ground.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="orientationAtTarget">
-<h3>orientationAtTarget</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span className="element-name">orientationAtTarget</span></div>
-<div className="block"><p>Camera's orientation at target point.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="distanceToTargetInMeters">
-<h3>distanceToTargetInMeters</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">double</span> <span className="element-name">distanceToTargetInMeters</span></div>
-<div className="block"><p>Distance from the camera to the target point in meters.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="zoomLevel">
-<h3>zoomLevel</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">double</span> <span className="element-name">zoomLevel</span></div>
-<div className="block"><p>Zoom level corresponding to the current distance to target.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">
-<h3>State</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">State</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
- double distanceToTargetInMeters,
- double zoomLevel)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>targetCoordinates</code> - <p>Camera's 'LookAt' target position in geodetic space.
- Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
- will consider the target point as being located on the ground.</p></dd>
-<dd><code>orientationAtTarget</code> - <p>Camera's orientation at target point.</p></dd>
-<dd><code>distanceToTargetInMeters</code> - <p>Distance from the camera to the target point in meters.</p></dd>
-<dd><code>zoomLevel</code> - <p>Zoom level corresponding to the current distance to target.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#distanceToTargetInMeters" class="member-name-link"><code>distanceToTargetInMeters</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Distance from the camera to the target point in meters.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">`GeoOrientation`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#orientationAtTarget" class="member-name-link"><code>orientationAtTarget</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Camera's orientation at target point.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#targetCoordinates" class="member-name-link"><code>targetCoordinates</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Camera's 'LookAt' target position in geodetic space.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `double`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera-state#zoomLevel" class="member-name-link"><code>zoomLevel</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Zoom level corresponding to the current distance to target.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      State ( GeoCoordinates targetCoordinates, GeoOrientation orientationAtTarget,
+       double distanceToTargetInMeters,
+       double zoomLevel)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-targetCoordinates" class="section detail">
+
+    ### targetCoordinates
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span>
+
+    </div>
+
+    <div class="block">
+
+    Camera's 'LookAt' target position in geodetic space. Note: The altitude of the target point is ignored. Any subsequent camera updates and animations will consider the target point as being located on the ground.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-orientationAtTarget" class="section detail">
+
+    ### orientationAtTarget
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span>
+
+    </div>
+
+    <div class="block">
+
+    Camera's orientation at target point.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-distanceToTargetInMeters" class="section detail">
+
+    ### distanceToTargetInMeters
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">distanceToTargetInMeters</span>
+
+    </div>
+
+    <div class="block">
+
+    Distance from the camera to the target point in meters.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-zoomLevel" class="section detail">
+
+    ### zoomLevel
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">zoomLevel</span>
+
+    </div>
+
+    <div class="block">
+
+    Zoom level corresponding to the current distance to target.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-com-here-sdk-core-GeoCoordinates-com-here-sdk-core-GeoOrientation-double-double" class="section detail">
+
+    ### State
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">State</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget, double distanceToTargetInMeters, double zoomLevel)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `targetCoordinates` -
+
+    Camera's 'LookAt' target position in geodetic space. Note: The altitude of the target point is ignored. Any subsequent camera updates and animations will consider the target point as being located on the ground.
+
+    `orientationAtTarget` -
+
+    Camera's orientation at target point.
+
+    `distanceToTargetInMeters` -
+
+    Distance from the camera to the target point in meters.
+
+    `zoomLevel` -
+
+    Zoom level corresponding to the current distance to target.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

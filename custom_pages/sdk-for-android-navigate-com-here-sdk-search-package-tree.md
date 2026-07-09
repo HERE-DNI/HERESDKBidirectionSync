@@ -3,187 +3,153 @@ title: "com.here.sdk.search Class Hierarchy (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-search-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- package-tree.html -->
+<div class="header">
 
+<span class="package-hierarchy-label">Package Hierarchies:</span>
 
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
-<div className="header">
-
-<span className="package-hierarchy-label">Package Hierarchies:</span>
-<ul className="horizontal">
-<li><a href="sdk-for-android-navigate-overview-tree">All Packages</a></li>
-</ul>
-</div>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-daterange" title="class in com.here.sdk.search">DateRange</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-details" title="class in com.here.sdk.search">Details</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress" title="class in com.here.sdk.search">EmailAddress</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emobilityserviceprovider" title="class in com.here.sdk.search">EMobilityServiceProvider</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-energymix" title="class in com.here.sdk.search">EnergyMix</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-energysource" title="class in com.here.sdk.search">EnergySource</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorreference" title="class in com.here.sdk.search">EVChargingConnectorReference</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingpooldetails" title="class in com.here.sdk.search">EVChargingPoolDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingstation" title="class in com.here.sdk.search">EVChargingStation</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffelement" title="class in com.here.sdk.search">EVChargingTariffElement</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffrequest" title="class in com.here.sdk.search">EVChargingTariffRequest</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evse" title="class in com.here.sdk.search">Evse</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evseconnector" title="class in com.here.sdk.search">EVSEConnector</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-genericfuel" title="class in com.here.sdk.search">GenericFuel</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">GeoPlace</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-landlinephone" title="class in com.here.sdk.search">LandlinePhone</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-mobilephone" title="class in com.here.sdk.search">MobilePhone</a></li>
-<li className="circle">com.here.<a className="type-name-link" href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a>
-<ul>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a>)</li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">IndexRange</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-myplaces" title="class in com.here.sdk.search">MyPlaces</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine" title="class in com.here.sdk.search">OfflineSearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>)</li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex" title="class in com.here.sdk.search">OfflineSearchIndex</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchengine" title="class in com.here.sdk.search">SearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>)</li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">Suggestion</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine" title="class in com.here.sdk.search">W3WSearchEngine</a></li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options" title="class in com.here.sdk.search">OfflineSearchIndex.Options</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placechain" title="class in com.here.sdk.search">PlaceChain</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-scheduledetails" title="class in com.here.sdk.search">ScheduleDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></li>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">Throwable</a> (implements java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a>
-<ul>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckfuel" title="class in com.here.sdk.search">TruckFuel</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-websiteaddress" title="class in com.here.sdk.search">WebsiteAddress</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></li>
-</ul>
-</li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener" title="interface in com.here.sdk.search">OfflineSearchIndexListener</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextended" title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-suggestcallbackextended" title="interface in com.here.sdk.search">SuggestCallbackExtended</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a></li>
-</ul>
-</section>
-<section className="hierarchy">
-
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li className="circle">java.lang.<a className="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">AddressType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccesstype" title="enum class in com.here.sdk.search">EVAccessType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtarifftype" title="enum class in com.here.sdk.search">EVChargingTariffType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsestatus" title="enum class in com.here.sdk.search">EVSEStatus</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placeserializationerror" title="enum class in com.here.sdk.search">PlaceSerializationError</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></li>
-<li className="circle">com.here.sdk.search.<a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+- <a href="sdk-for-android-navigate-overview-tree">All Packages</a>
 
 </div>
+
+<div class="section hierarchy">
+
+## Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-address" class="type-name-link" title="class in com.here.sdk.search">Address</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-addressquery" class="type-name-link" title="class in com.here.sdk.search">AddressQuery</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-businessdetails" class="type-name-link" title="class in com.here.sdk.search">BusinessDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery" class="type-name-link" title="class in com.here.sdk.search">CategoryQuery</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area" class="type-name-link" title="class in com.here.sdk.search">CategoryQuery.Area</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-contact" class="type-name-link" title="class in com.here.sdk.search">Contact</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-daterange" class="type-name-link" title="class in com.here.sdk.search">DateRange</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-details" class="type-name-link" title="class in com.here.sdk.search">Details</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress" class="type-name-link" title="class in com.here.sdk.search">EmailAddress</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-emobilityserviceprovider" class="type-name-link" title="class in com.here.sdk.search">EMobilityServiceProvider</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-energymix" class="type-name-link" title="class in com.here.sdk.search">EnergyMix</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-energysource" class="type-name-link" title="class in com.here.sdk.search">EnergySource</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-environmentalimpact" class="type-name-link" title="class in com.here.sdk.search">EnvironmentalImpact</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnector" class="type-name-link" title="class in com.here.sdk.search">EVChargingConnector</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorgroup" class="type-name-link" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingconnectorreference" class="type-name-link" title="class in com.here.sdk.search">EVChargingConnectorReference</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingdurationrange" class="type-name-link" title="class in com.here.sdk.search">EVChargingDurationRange</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours" class="type-name-link" title="class in com.here.sdk.search">EVChargingOpeningHours</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception" class="type-name-link" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule" class="type-name-link" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator" class="type-name-link" title="class in com.here.sdk.search">EVChargingOperator</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingpool" class="type-name-link" title="class in com.here.sdk.search">EVChargingPool</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingpooldetails" class="type-name-link" title="class in com.here.sdk.search">EVChargingPoolDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingstation" class="type-name-link" title="class in com.here.sdk.search">EVChargingStation</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariff" class="type-name-link" title="class in com.here.sdk.search">EVChargingTariff</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffelement" class="type-name-link" title="class in com.here.sdk.search">EVChargingTariffElement</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffelementcondition" class="type-name-link" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent" class="type-name-link" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffrequest" class="type-name-link" title="class in com.here.sdk.search">EVChargingTariffRequest</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction" class="type-name-link" title="class in com.here.sdk.search">EVChargingTruckRestriction</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evse" class="type-name-link" title="class in com.here.sdk.search">Evse</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions" class="type-name-link" title="class in com.here.sdk.search">EVSearchOptions</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evseconnector" class="type-name-link" title="class in com.here.sdk.search">EVSEConnector</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evseinfo" class="type-name-link" title="class in com.here.sdk.search">EVSEInfo</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-fueladditive" class="type-name-link" title="class in com.here.sdk.search">FuelAdditive</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" class="type-name-link" title="class in com.here.sdk.search">FuelStation</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-genericfuel" class="type-name-link" title="class in com.here.sdk.search">GenericFuel</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-geoplace" class="type-name-link" title="class in com.here.sdk.search">GeoPlace</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-landlinephone" class="type-name-link" title="class in com.here.sdk.search">LandlinePhone</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-locationdetails" class="type-name-link" title="class in com.here.sdk.search">LocationDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-mobilephone" class="type-name-link" title="class in com.here.sdk.search">MobilePhone</a>
+  - com.here.<a href="sdk-for-android-navigate-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocation" class="type-name-link" title="class in com.here.sdk.search">EVChargingLocation</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchengine" class="type-name-link" title="class in com.here.sdk.search">EVSearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a>)
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-indexrange" class="type-name-link" title="class in com.here.sdk.search">IndexRange</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-myplaces" class="type-name-link" title="class in com.here.sdk.search">MyPlaces</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine" class="type-name-link" title="class in com.here.sdk.search">OfflineSearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>)
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex" class="type-name-link" title="class in com.here.sdk.search">OfflineSearchIndex</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-place" class="type-name-link" title="class in com.here.sdk.search">Place</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" class="type-name-link" title="class in com.here.sdk.search">PlaceCategory</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchengine" class="type-name-link" title="class in com.here.sdk.search">SearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>)
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-suggestion" class="type-name-link" title="class in com.here.sdk.search">Suggestion</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine" class="type-name-link" title="class in com.here.sdk.search">W3WSearchEngine</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options" class="type-name-link" title="class in com.here.sdk.search">OfflineSearchIndex.Options</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-openinghours" class="type-name-link" title="class in com.here.sdk.search">OpeningHours</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placechain" class="type-name-link" title="class in com.here.sdk.search">PlaceChain</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placefilter" class="type-name-link" title="class in com.here.sdk.search">PlaceFilter</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placefilter-ev" class="type-name-link" title="class in com.here.sdk.search">PlaceFilter.Ev</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placefoodtype" class="type-name-link" title="class in com.here.sdk.search">PlaceFoodType</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placeidquery" class="type-name-link" title="class in com.here.sdk.search">PlaceIdQuery</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-poipaymentdetails" class="type-name-link" title="class in com.here.sdk.search">POIPaymentDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-poipaymentmethod" class="type-name-link" title="class in com.here.sdk.search">POIPaymentMethod</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-responsedetails" class="type-name-link" title="class in com.here.sdk.search">ResponseDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-scheduledetails" class="type-name-link" title="class in com.here.sdk.search">ScheduleDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchoptions" class="type-name-link" title="class in com.here.sdk.search">SearchOptions</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-structuredquery" class="type-name-link" title="class in com.here.sdk.search">StructuredQuery</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-structuredquery-addresselements" class="type-name-link" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-supplierreference" class="type-name-link" title="class in com.here.sdk.search">SupplierReference</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-textquery" class="type-name-link" title="class in com.here.sdk.search">TextQuery</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-textquery-area" class="type-name-link" title="class in com.here.sdk.search">TextQuery.Area</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" class="type-name-link external-link" title="class or interface in java.lang">Throwable</a> (implements java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="type-name-link external-link" title="class or interface in java.lang">Exception</a>
+      - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationexception" class="type-name-link" title="class in com.here.sdk.search">PlaceSerializationException</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-timeofdayrange" class="type-name-link" title="class in com.here.sdk.search">TimeOfDayRange</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-truckamenities" class="type-name-link" title="class in com.here.sdk.search">TruckAmenities</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-truckfuel" class="type-name-link" title="class in com.here.sdk.search">TruckFuel</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" class="type-name-link" title="class in com.here.sdk.search">W3WSquare</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-webdetails" class="type-name-link" title="class in com.here.sdk.search">WebDetails</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-webeditorial" class="type-name-link" title="class in com.here.sdk.search">WebEditorial</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-webimage" class="type-name-link" title="class in com.here.sdk.search">WebImage</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-webrating" class="type-name-link" title="class in com.here.sdk.search">WebRating</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-websiteaddress" class="type-name-link" title="class in com.here.sdk.search">WebsiteAddress</a>
+  - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-websource" class="type-name-link" title="class in com.here.sdk.search">WebSource</a>
+
 </div>
 
+<div class="section hierarchy">
 
+## Interface Hierarchy
+
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchcallback" class="type-name-link" title="interface in com.here.sdk.search">EVSearchCallback</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearchinterface" class="type-name-link" title="interface in com.here.sdk.search">EVSearchInterface</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener" class="type-name-link" title="interface in com.here.sdk.search">OfflineSearchIndexListener</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallback" class="type-name-link" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placeidsearchcallbackextended" class="type-name-link" title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchcallback" class="type-name-link" title="interface in com.here.sdk.search">SearchCallback</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchcallbackextended" class="type-name-link" title="interface in com.here.sdk.search">SearchCallbackExtended</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searchinterface" class="type-name-link" title="interface in com.here.sdk.search">SearchInterface</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-suggestcallback" class="type-name-link" title="interface in com.here.sdk.search">SuggestCallback</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-suggestcallbackextended" class="type-name-link" title="interface in com.here.sdk.search">SuggestCallbackExtended</a>
+- com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" class="type-name-link" title="interface in com.here.sdk.search">W3WSearchCallback</a>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section hierarchy">
+
+## Enum Class Hierarchy
+
+- java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
+  - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="type-name-link external-link" title="class or interface in java.lang">Enum</a>\<E\> (implements java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<T\>, java.lang.constant.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant">Constable</a>, java.io.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-addresstype" class="type-name-link" title="enum class in com.here.sdk.search">AddressType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-areatype" class="type-name-link" title="enum class in com.here.sdk.search">AreaType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-dayofweek" class="type-name-link" title="enum class in com.here.sdk.search">DayOfWeek</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-energysourcetype" class="type-name-link" title="enum class in com.here.sdk.search">EnergySourceType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-environmentalimpactcategory" class="type-name-link" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason" class="type-name-link" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evaccesstype" class="type-name-link" title="enum class in com.here.sdk.search">EVAccessType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature" class="type-name-link" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffdimension" class="type-name-link" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtarifftype" class="type-name-link" title="enum class in com.here.sdk.search">EVChargingTariffType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingvehiclecategory" class="type-name-link" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsearcherror" class="type-name-link" title="enum class in com.here.sdk.search">EVSearchError</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-evsestatus" class="type-name-link" title="enum class in com.here.sdk.search">EVSEStatus</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" class="type-name-link" title="enum class in com.here.sdk.search">FacilityType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-highlighttype" class="type-name-link" title="enum class in com.here.sdk.search">HighlightType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-error" class="type-name-link" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-operation" class="type-name-link" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" class="type-name-link" title="enum class in com.here.sdk.search">ParkingType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placeserializationerror" class="type-name-link" title="enum class in com.here.sdk.search">PlaceSerializationError</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placetype" class="type-name-link" title="enum class in com.here.sdk.search">PlaceType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-searcherror" class="type-name-link" title="enum class in com.here.sdk.search">SearchError</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-structuredquery-resulttype" class="type-name-link" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-suggestiontype" class="type-name-link" title="enum class in com.here.sdk.search">SuggestionType</a>
+    - com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror" class="type-name-link" title="enum class in com.here.sdk.search">W3WSearchError</a>
+
+</div>
+

@@ -3,77 +3,114 @@ title: "RoadTextsListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadtextslistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- RoadTextsListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.navigation</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">RoadTextsListener</span></div>
-<div className="block"><p>This interface
- should be implemented in order to receive textual attributes of the current road.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onRoadTextsUpdated(com.here.sdk.routing.RoadTexts)">
-<h3>onRoadTextsUpdated</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onRoadTextsUpdated</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</span></div>
-<div className="block"><p>Called whenever any textual attribute of the current road changes, i.e., the current road
- texts differs from the previous one already issued.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>roadTexts</code> - <p>The object that contains the textual attributes of the current road.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">RoadTextsListener</span>
+
+</div>
+
+<div class="block">
+
+This interface should be implemented in order to receive textual attributes of the current road.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onRoadTextsUpdated ( RoadTexts roadTexts)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called whenever any textual attribute of the current road changes, i.e., the current road texts differs from the previous one already issued.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onRoadTextsUpdated-com-here-sdk-routing-RoadTexts" class="section detail">
+
+    ### onRoadTextsUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onRoadTextsUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a> roadTexts)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called whenever any textual attribute of the current road changes, i.e., the current road texts differs from the previous one already issued.
+
+    </div>
+
+    Parameters:  
+    `roadTexts` -
+
+    The object that contains the textual attributes of the current road.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

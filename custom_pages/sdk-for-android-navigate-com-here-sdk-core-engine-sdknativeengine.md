@@ -3,465 +3,1140 @@ title: "SDKNativeEngine (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- SDKNativeEngine.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div className="inheritance">com.here.sdk.core.engine.SDKNativeEngine</div>
-</div>
-</div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">SDKNativeEngine</span>
-<span className="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div className="block"><p>Holds internal services and configurations needed by various HERE SDK modules.
- You can initialize the HERE SDK in two ways:
- <ul>
-<li>Create a shared instance of the <code>SDKNativeEngine</code> with <code>SDKNativeEngine.makeSharedInstance()</code>.</li>
-<li>Create individual instances of the <code>SDKNativeEngine</code> via <code>SDKNativeEngine()</code>. Note that this does not automatically set a shared instance.</li>
-</ul></p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section className="nested-class-summary" id="nested-class-summary">
-
-<div className="caption"><span>Nested Classes</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code>static enum </code></div>
-<div className="col-second even-row-color"><code><a className="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Enum representing a strategy to flush memory caches.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
-
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
-
-
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#%3Cinit%3E(android.content.Context,com.here.sdk.core.engine.SDKOptions)">SDKNativeEngine</a><wbr/>(android.content.Context androidContext,
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Makes a new instance of SDKNativeEngine using supplied options.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(android.content.Context,com.here.sdk.core.engine.SDKOptions)">
-<h3>SDKNativeEngine</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">SDKNativeEngine</span><wbr/><span className="parameters">(@NonNull
- android.content.Context androidContext,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
-                throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div className="block"><p>Makes a new instance of SDKNativeEngine using supplied options.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>androidContext</code> - <p>The Android context</p></dd>
-<dd><code>options</code> - <p>The options for the new engine.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
+<div class="inheritance" title="Inheritance Tree">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="setAccessKeySecret(java.lang.String)">
-<h3>setAccessKeySecret</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setAccessKeySecret</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</span></div>
-<div className="block"><p>Overrides HERE SDK access key secret with new value.
- The new credentials will be used for new requests.
- <strong>Note:</strong>
- This method can be called from any thread.
- Access key ID can be set with constructor of SDKNativeEngine.
- New instance of SDKNativeEngine should be used if a new access key ID is required.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>accessKeySecret</code> - <p>New access key secret.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setAccessScope(java.lang.String)">
-<h3>setAccessScope</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setAccessScope</span><wbr/><span className="parameters">(@NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> scope)</span></div>
-<div className="block"><p>Overrides the token scope of the HERE SDK with new value.
- A new token will be fetched with the set scope and used for future requests.
- Setting an empty string will fetch a token for the global scope.
- This method can be called from any thread.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>scope</code> - <p>New scope for token</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="dispose()">
-<h3>dispose</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">dispose</span>()</div>
-<div className="block"><p>Stops pending requests and closes open files and databases .
- Dispose signal is sent to dependent modules.
- Usage of engine, or dependent modules after calling dispose leads to undefined behavior.
- Please be aware that this method does not clean any type of storage.
- <strong>Note:</strong>
- This method should be called from main thread.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="enableUsageStats(boolean)">
-<h3>enableUsageStats</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">enableUsageStats</span><wbr/><span className="parameters">(boolean enabled)</span></div>
-<div className="block"><p>Enable or disable <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> for the HERE SDK. Defaults to disabled (false). When enabled, <code>SDKNativeEngine.getSdkUsageStats()</code>
- returns actual online data consumption. Note that the flag does not cancel pending requests.
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> can be enabled or disabled at any time.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>enabled</code> - <p>True, if UsageStats are enabled.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)">
-<h3>makeSharedInstance</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type">void</span> <span className="element-name">makeSharedInstance</span><wbr/><span className="parameters">(@NonNull
- android.content.Context androidContext,
- @NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
-                               throws <span className="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div className="block"><p>Makes a new instance of this class using the supplied options and stores it as shared instance
- see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()"><code>getSharedInstance()</code></a>. If there was a previously shared instance
- then it's disposed (so there is no need to call <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#dispose()"><code>dispose()</code></a> on app side) before the new instance is created.
- <strong>Note:</strong> The HERE SDK is not guaranteed to be thread safe and it is required to make calls
- to the SDK - including this one - from the main thread.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>androidContext</code> - <p>The Android context</p></dd>
-<dd><code>options</code> - <p>The options for the new engine.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="clearPersistentUsageStats()">
-<h3>clearPersistentUsageStats</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">clearPersistentUsageStats</span>()</div>
-<div className="block"><p>Clear persistent storage for the HERE SDK <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="clearUsageStatsCache()">
-<h3>clearUsageStatsCache</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">clearUsageStatsCache</span>()</div>
-<div className="block"><p>Clear cache for the HERE SDK <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)">
-<h3>purgeMemoryCaches</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">purgeMemoryCaches</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> strategy)</span></div>
-<div className="block"><p>Releases memory occupied by internal caches.
- Purging caches reduces memory footprint of application and may temporary reduce performance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>strategy</code> - <p>Option to control how much memory caches will be purged.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)">
-<h3>getDeviceId</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">getDeviceId</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a> callback)</span></div>
-<div className="block"><p>The unique identifier assigned to the device for this application.
- This device ID is primarily used for tracking Monthly Active Users (MAUs).</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>callback</code> - <p>Callback which receives the result on the main thread.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getOptions()">
-<h3>getOptions</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a></span> <span className="element-name">getOptions</span>()</div>
-<div className="block"><p>Gets the options used by this instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Options used by this instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSharedInstance()">
-<h3>getSharedInstance</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></span> <span className="element-name">getSharedInstance</span>()</div>
-<div className="block"><p>Gets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
- engine.
- This is automatically set as a part of the SDK initialization process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
-     engine.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)">
-<h3>setSharedInstance</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type">void</span> <span className="element-name">setSharedInstance</span><wbr/><span className="parameters">(@Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</span></div>
-<div className="block"><p>Sets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
- engine.
- This is automatically set as a part of the SDK initialization process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
-     engine.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isOfflineMode()">
-<h3>isOfflineMode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">boolean</span> <span className="element-name">isOfflineMode</span>()</div>
-<div className="block"><p>Gets the current offline mode.
- Sets offline mode for the HERE SDK to offline or online.
- Defaults to false, which means the HERE SDK uses an online connection.
- When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
- See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
- Note that the flag does not cancel pending requests.
- The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
- needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
- Initialization of the HERE SDK itself does not require an internet connection.
- Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.
- Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The offline mode.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setOfflineMode(boolean)">
-<h3>setOfflineMode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setOfflineMode</span><wbr/><span className="parameters">(boolean value)</span></div>
-<div className="block"><p>Sets the offline mode.
- Sets offline mode for the HERE SDK to offline or online.
- Defaults to false, which means the HERE SDK uses an online connection.
- When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
- See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
- Note that the flag does not cancel pending requests.
- The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
- needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
- Initialization of the HERE SDK itself does not require an internet connection.
- Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.
- Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The offline mode.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getPassThroughFeatures()">
-<h3>getPassThroughFeatures</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt;</span> <span className="element-name">getPassThroughFeatures</span>()</div>
-<div className="block"><p>Gets the pass through features.
- Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
- Pass through features can be updated at any time.
- When offline mode is disabled, existing pass through features will be removed.
- These needs to be set again when you enable offline mode next time.
- By default, reporting of HERE SDK <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> will be enabled when at least one pass-through feature is set.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>The pass through features.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setPassThroughFeatures(java.util.Set)">
-<h3>setPassThroughFeatures</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setPassThroughFeatures</span><wbr/><span className="parameters">(@Nullable
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt; value)</span></div>
-<div className="block"><p>Sets the pass through features.
- Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
- Pass through features can be updated at any time.
- When offline mode is disabled, existing pass through features will be removed.
- These needs to be set again when you enable offline mode next time.
- By default, reporting of HERE SDK <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> will be enabled when at least one pass-through feature is set.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>The pass through features.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getParameterConfig()">
-<h3>getParameterConfig</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public static</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></span> <span className="element-name">getParameterConfig</span>()</div>
-<div className="block"><p>Gets the configuration for default values of parameters used in the HERE SDK.
- <strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Configuration for default values of parameters used in the HERE SDK.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setParameterConfig(com.here.sdk.core.ParameterConfiguration)">
-<h3>setParameterConfig</h3>
-<div className="member-signature"><span className="modifiers">public static</span> <span className="return-type">void</span> <span className="element-name">setParameterConfig</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</span></div>
-<div className="block"><p>Sets the configuration for default values of parameters used in the HERE SDK.
- <strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>Configuration for default values of parameters used in the HERE SDK.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getProxySettings()">
-<h3>getProxySettings</h3>
-<div className="member-signature"><span className="annotations">@Nullable
-</span><span className="modifiers">public</span> <span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span className="element-name">getProxySettings</span>()</div>
-<div className="block"><p>Gets the current proxy settings.
- Defaults to (<code>null</code>), which indicates proxy is not enabled.
- When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
- Pass (<code>null</code>) to indicate that proxy should be disabled.
- If proxy is necessary from the start then it's recommended to use <a href="sdk-for-android-navigate-networksettings#proxySettings"><code>NetworkSettings.proxySettings</code></a> in <a href="sdk-for-android-navigate-sdkoptions#networkSettings"><code>SDKOptions.networkSettings</code></a>.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Proxy settings of this SDK engine that will be used by HERE SDK network for all requests.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setProxySettings(com.here.sdk.core.engine.ProxySettings)">
-<h3>setProxySettings</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">void</span> <span className="element-name">setProxySettings</span><wbr/><span className="parameters">(@Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</span></div>
-<div className="block"><p>Sets the proxy settings.
- Defaults to (<code>null</code>), which indicates proxy is not enabled.
- When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
- Pass (<code>null</code>) to indicate that proxy should be disabled.
- If proxy is necessary from the start then it's recommended to use <a href="sdk-for-android-navigate-networksettings#proxySettings"><code>NetworkSettings.proxySettings</code></a> in <a href="sdk-for-android-navigate-sdkoptions#networkSettings"><code>SDKOptions.networkSettings</code></a>.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>Proxy settings of this SDK engine that will be used by HERE SDK network for all requests.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getSdkUsageStats()">
-<h3>getSdkUsageStats</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>&gt;</span> <span className="element-name">getSdkUsageStats</span>()</div>
-<div className="block"><p>Gets a list of usage statistics for all available HERE SDK features.
- <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
- Writes to persistent storage happen by reaching internal limit (amount of upload bytes, by default is 50KB).
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Gets a list of usage statistics for all available HERE SDK features.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+java.lang.Object com.here.NativeBase com.here.sdk.core.engine.SDKNativeEngine → com.here.NativeBase com.here.sdk.core.engine.SDKNativeEngine → com.here.sdk.core.engine.SDKNativeEngine
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKNativeEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span>
+
+</div>
+
+<div class="block">
+
+Holds internal services and configurations needed by various HERE SDK modules. You can initialize the HERE SDK in two ways: Create a shared instance of the SDKNativeEngine with SDKNativeEngine.makeSharedInstance() . Create individual instances of the SDKNativeEngine via SDKNativeEngine() . Note that this does not automatically set a shared instance.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-nested-class-summary" class="section nested-class-summary">
+
+  <div class="caption">
+
+  Nested Classes
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Class
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static enum `
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" class="type-name-link" title="enum class in com.here.sdk.core.engine"><code>SDKNativeEngine.PurgeMemoryStrategy</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Enum representing a strategy to flush memory caches.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      SDKNativeEngine (android.content.Context androidContext, SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Makes a new instance of SDKNativeEngine using supplied options.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearPersistentUsageStats ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Clear persistent storage for the HERE SDK UsageStats .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      clearUsageStatsCache ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Clear cache for the HERE SDK UsageStats .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      dispose ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Stops pending requests and closes open files and databases .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      enableUsageStats (boolean enabled)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Enable or disable UsageStats for the HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getDeviceId ( DeviceIdCallback callback)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  The unique identifier assigned to the device for this application.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">`SDKOptions`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getOptions ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the options used by this instance of SDKNativeEngine .
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">`ParameterConfiguration`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getParameterConfig ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the configuration for default values of parameters used in the HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util"><code>Set</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">`PassThroughFeature`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getPassThroughFeatures ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the pass through features.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">`ProxySettings`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getProxySettings ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the current proxy settings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">`UsageStats`</a>`>`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      getSdkUsageStats ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets a list of usage statistics for all available HERE SDK features.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static `<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">`SDKNativeEngine`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      getSharedInstance ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      isOfflineMode ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Gets the current offline mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      makeSharedInstance (android.content.Context androidContext, SDKOptions options)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Makes a new instance of this class using the supplied options and stores it as shared instance see getSharedInstance() .
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      purgeMemoryCaches ( SDKNativeEngine.PurgeMemoryStrategy strategy)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Releases memory occupied by internal caches.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAccessKeySecret ( String accessKeySecret)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Overrides HERE SDK access key secret with new value.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setAccessScope ( String scope)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Overrides the token scope of the HERE SDK with new value.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setOfflineMode (boolean value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the offline mode.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setParameterConfig ( ParameterConfiguration value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the configuration for default values of parameters used in the HERE SDK.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setPassThroughFeatures ( Set < PassThroughFeature > value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the pass through features.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      setProxySettings ( ProxySettings value)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the proxy settings.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  `static void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+      setSharedInstance ( SDKNativeEngine value)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
+
+  <div class="block">
+
+  Sets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-android-content-Context-com-here-sdk-core-engine-SDKOptions" class="section detail">
+
+    ### SDKNativeEngine
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">SDKNativeEngine</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span> throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Makes a new instance of SDKNativeEngine using supplied options.
+
+    </div>
+
+    Parameters:  
+    `androidContext` -
+
+    The Android context
+
+    `options` -
+
+    The options for the new engine.
+
+    Throws:  
+    <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
+
+    Indicates what went wrong when the instantiation was attempted.
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-setAccessKeySecret-java-lang-String" class="section detail">
+
+    ### setAccessKeySecret
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAccessKeySecret</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
+
+    </div>
+
+    <div class="block">
+
+    Overrides HERE SDK access key secret with new value. The new credentials will be used for new requests. Note: This method can be called from any thread. Access key ID can be set with constructor of SDKNativeEngine. New instance of SDKNativeEngine should be used if a new access key ID is required.
+
+    </div>
+
+    Parameters:  
+    `accessKeySecret` -
+
+    New access key secret.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setAccessScope-java-lang-String" class="section detail">
+
+    ### setAccessScope
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAccessScope</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> scope)</span>
+
+    </div>
+
+    <div class="block">
+
+    Overrides the token scope of the HERE SDK with new value. A new token will be fetched with the set scope and used for future requests. Setting an empty string will fetch a token for the global scope. This method can be called from any thread.
+
+    </div>
+
+    Parameters:  
+    `scope` -
+
+    New scope for token
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-dispose" class="section detail">
+
+    ### dispose
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dispose</span>()
+
+    </div>
+
+    <div class="block">
+
+    Stops pending requests and closes open files and databases . Dispose signal is sent to dependent modules. Usage of engine, or dependent modules after calling dispose leads to undefined behavior. Please be aware that this method does not clean any type of storage. Note: This method should be called from main thread.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-enableUsageStats-boolean" class="section detail">
+
+    ### enableUsageStats
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enableUsageStats</span><wbr></wbr><span class="parameters">(boolean enabled)</span>
+
+    </div>
+
+    <div class="block">
+
+    Enable or disable UsageStats for the HERE SDK. Defaults to disabled (false). When enabled, SDKNativeEngine.getSdkUsageStats() returns actual online data consumption. Note that the flag does not cancel pending requests. UsageStats can be enabled or disabled at any time. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Parameters:  
+    `enabled` -
+
+    True, if UsageStats are enabled.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-makeSharedInstance-android-content-Context-com-here-sdk-core-engine-SDKOptions" class="section detail">
+
+    ### makeSharedInstance
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">makeSharedInstance</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span> throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Makes a new instance of this class using the supplied options and stores it as shared instance see getSharedInstance() . If there was a previously shared instance then it's disposed (so there is no need to call dispose() on app side) before the new instance is created. Note: The HERE SDK is not guaranteed to be thread safe and it is required to make calls to the SDK - including this one - from the main thread.
+
+    </div>
+
+    Parameters:  
+    `androidContext` -
+
+    The Android context
+
+    `options` -
+
+    The options for the new engine.
+
+    Throws:  
+    <a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
+
+    Indicates what went wrong when the instantiation was attempted.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-clearPersistentUsageStats" class="section detail">
+
+    ### clearPersistentUsageStats
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">clearPersistentUsageStats</span>()
+
+    </div>
+
+    <div class="block">
+
+    Clear persistent storage for the HERE SDK UsageStats . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-clearUsageStatsCache" class="section detail">
+
+    ### clearUsageStatsCache
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">clearUsageStatsCache</span>()
+
+    </div>
+
+    <div class="block">
+
+    Clear cache for the HERE SDK UsageStats . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-purgeMemoryCaches-com-here-sdk-core-engine-SDKNativeEngine-PurgeMemoryStrategy" class="section detail">
+
+    ### purgeMemoryCaches
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">purgeMemoryCaches</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> strategy)</span>
+
+    </div>
+
+    <div class="block">
+
+    Releases memory occupied by internal caches. Purging caches reduces memory footprint of application and may temporary reduce performance.
+
+    </div>
+
+    Parameters:  
+    `strategy` -
+
+    Option to control how much memory caches will be purged.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getDeviceId-com-here-sdk-core-engine-DeviceIdCallback" class="section detail">
+
+    ### getDeviceId
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">getDeviceId</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-engine-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a> callback)</span>
+
+    </div>
+
+    <div class="block">
+
+    The unique identifier assigned to the device for this application. This device ID is primarily used for tracking Monthly Active Users (MAUs).
+
+    </div>
+
+    Parameters:  
+    `callback` -
+
+    Callback which receives the result on the main thread.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getOptions" class="section detail">
+
+    ### getOptions
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a></span> <span class="element-name">getOptions</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the options used by this instance of SDKNativeEngine .
+
+    </div>
+
+    Returns:  
+    Options used by this instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">`SDKNativeEngine`</a>.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSharedInstance" class="section detail">
+
+    ### getSharedInstance
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></span> <span class="element-name">getSharedInstance</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine. This is automatically set as a part of the SDK initialization process.
+
+    </div>
+
+    Returns:  
+    Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setSharedInstance-com-here-sdk-core-engine-SDKNativeEngine" class="section detail">
+
+    ### setSharedInstance
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setSharedInstance</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine. This is automatically set as a part of the SDK initialization process.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default engine.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isOfflineMode" class="section detail">
+
+    ### isOfflineMode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isOfflineMode</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the current offline mode. Sets offline mode for the HERE SDK to offline or online. Defaults to false, which means the HERE SDK uses an online connection. When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set. See getPassThroughFeatures() . Note that the flag does not cancel pending requests. The mode can be enabled or disabled at any time. In order to fully operate offline, the mode needs to be enabled via SDKOptions.offlineMode . Initialization of the HERE SDK itself does not require an internet connection. Returns true if the HERE SDK uses offline connection mode, otherwise returns false . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Returns:  
+    The offline mode.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setOfflineMode-boolean" class="section detail">
+
+    ### setOfflineMode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOfflineMode</span><wbr></wbr><span class="parameters">(boolean value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the offline mode. Sets offline mode for the HERE SDK to offline or online. Defaults to false, which means the HERE SDK uses an online connection. When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set. See getPassThroughFeatures() . Note that the flag does not cancel pending requests. The mode can be enabled or disabled at any time. In order to fully operate offline, the mode needs to be enabled via SDKOptions.offlineMode . Initialization of the HERE SDK itself does not require an internet connection. Returns true if the HERE SDK uses offline connection mode, otherwise returns false . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The offline mode.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getPassThroughFeatures" class="section detail">
+
+    ### getPassThroughFeatures
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\></span> <span class="element-name">getPassThroughFeatures</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the pass through features. Sets pass through features which are allowed to use online data when HERE SDK is in offline mode. Pass through features can be updated at any time. When offline mode is disabled, existing pass through features will be removed. These needs to be set again when you enable offline mode next time. By default, reporting of HERE SDK UsageStats will be enabled when at least one pass-through feature is set. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Returns:  
+    The pass through features.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setPassThroughFeatures-java-util-Set" class="section detail">
+
+    ### setPassThroughFeatures
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<<a href="sdk-for-android-navigate-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the pass through features. Sets pass through features which are allowed to use online data when HERE SDK is in offline mode. Pass through features can be updated at any time. When offline mode is disabled, existing pass through features will be removed. These needs to be set again when you enable offline mode next time. By default, reporting of HERE SDK UsageStats will be enabled when at least one pass-through feature is set. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    The pass through features.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getParameterConfig" class="section detail">
+
+    ### getParameterConfig
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></span> <span class="element-name">getParameterConfig</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the configuration for default values of parameters used in the HERE SDK. Note: This feature is in beta state and thus there can be bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Returns:  
+    Configuration for default values of parameters used in the HERE SDK.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setParameterConfig-com-here-sdk-core-ParameterConfiguration" class="section detail">
+
+    ### setParameterConfig
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setParameterConfig</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the configuration for default values of parameters used in the HERE SDK. Note: This feature is in beta state and thus there can be bugs and unexpected behavior. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    Configuration for default values of parameters used in the HERE SDK.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getProxySettings" class="section detail">
+
+    ### getProxySettings
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">getProxySettings</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the current proxy settings. Defaults to ( null ), which indicates proxy is not enabled. When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings. Pass ( null ) to indicate that proxy should be disabled. If proxy is necessary from the start then it's recommended to use NetworkSettings.proxySettings in SDKOptions.networkSettings . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Returns:  
+    Proxy settings of this SDK engine that will be used by HERE SDK network for all requests.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setProxySettings-com-here-sdk-core-engine-ProxySettings" class="section detail">
+
+    ### setProxySettings
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProxySettings</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the proxy settings. Defaults to ( null ), which indicates proxy is not enabled. When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings. Pass ( null ) to indicate that proxy should be disabled. If proxy is necessary from the start then it's recommended to use NetworkSettings.proxySettings in SDKOptions.networkSettings . Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    Proxy settings of this SDK engine that will be used by HERE SDK network for all requests.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getSdkUsageStats" class="section detail">
+
+    ### getSdkUsageStats
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>\></span> <span class="element-name">getSdkUsageStats</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets a list of usage statistics for all available HERE SDK features. UsageStats has cache and persistent storage. Reads from the persistent storage happen on SDKNativeEngine creation step. Writes to persistent storage happen by reaching internal limit (amount of upload bytes, by default is 50KB). Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+    Returns:  
+    Gets a list of usage statistics for all available HERE SDK features.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

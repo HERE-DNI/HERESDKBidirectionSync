@@ -3,135 +3,284 @@ title: "MapView.ViewPin (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-viewpin"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- MapView.ViewPin.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.mapview</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public static interface </span><span className="element-name type-name-label">MapView.ViewPin</span></div>
-<div className="block">A ViewPin is used to display Android views at a fixed location on the map.
-<p>
- The pinned view will automatically be repositioned on the screen as the map moves.
- There is more performance overhead involved in positioning a pinned view as
- compared to a map marker, so for use cases which only require static images,
- markers should be used.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="unpin()">
-<h3>unpin</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">unpin</span>()</div>
-<div className="block">Removes the view from the <code>MapView</code> it was pinned to.</div>
-</section>
-</li>
-<li>
-<section className="detail" id="getGeoCoordinates()">
-<h3>getGeoCoordinates</h3>
-<div className="member-signature"><span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span className="element-name">getGeoCoordinates</span>()</div>
-<div className="block">Returns the current GeoCoordinates on the map.</div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd>The current GeoCoordinates.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">
-<h3>setGeoCoordinates</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">setGeoCoordinates</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
-<div className="block">Sets the GeoCoordinates on the map.
- <p>
- The altitude component of the coordinates, if set, is interpreted as above sea level.
- When not set, the coordinates are interpreted as at ground level.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>geoCoordinates</code> - Desired GeoCoordinates for this view pin.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="setAnchorPoint(com.here.sdk.core.Anchor2D)">
-<h3>setAnchorPoint</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">setAnchorPoint</span><wbr/><span className="parameters">(@NonNull
- <a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span></div>
-<div className="block">Sets an anchor point for this instance.
- <p>
- The anchor value has valid range from 0 to 1. Zero (0) for x and y means the view pin's
- upper left corner is located at the geographical location, whereas one (1) for x and y
- means that the pin will have its right bottom corner attached to the geographical
- location instead. The default value used is 0.5, 0.5, causing the view to be centered.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>anchorPoint</code> - A <code>Anchor2D</code> relative to the top-left corner of the
-                    <code>ViewPin</code>.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="getAnchorPoint()">
-<h3>getAnchorPoint</h3>
-<div className="member-signature"><span className="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span className="element-name">getAnchorPoint</span>()</div>
-<div className="block">Gets anchor point for this instance.</div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd>anchorPoint A <code>Anchor2D</code> relative to the top-left corner of the <code>
- ViewPin</code>.</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+Enclosing class:  
+<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">MapView</a>
+
+<div class="type-signature">
+
+<span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.ViewPin</span>
+
+</div>
+
+<div class="block">
+
+A ViewPin is used to display Android views at a fixed location on the map. The pinned view will automatically be repositioned on the screen as the map moves. There is more performance overhead involved in positioning a pinned view as compared to a map marker, so for use cases which only require static images, markers should be used.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">`Anchor2D`</a>
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getAnchorPoint ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets anchor point for this instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      getGeoCoordinates ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Returns the current GeoCoordinates on the map.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setAnchorPoint ( Anchor2D anchorPoint)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Sets an anchor point for this instance.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      setGeoCoordinates ( GeoCoordinates geoCoordinates)
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Sets the GeoCoordinates on the map.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      unpin ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Removes the view from the MapView it was pinned to.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-unpin" class="section detail">
+
+    ### unpin
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">unpin</span>()
+
+    </div>
+
+    <div class="block">
+
+    Removes the view from the MapView it was pinned to.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getGeoCoordinates" class="section detail">
+
+    ### getGeoCoordinates
+
+    <div class="member-signature">
+
+    <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns the current GeoCoordinates on the map.
+
+    </div>
+
+    Returns:  
+    The current GeoCoordinates.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setGeoCoordinates-com-here-sdk-core-GeoCoordinates" class="section detail">
+
+    ### setGeoCoordinates
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the GeoCoordinates on the map. The altitude component of the coordinates, if set, is interpreted as above sea level. When not set, the coordinates are interpreted as at ground level.
+
+    </div>
+
+    Parameters:  
+    `geoCoordinates` - Desired GeoCoordinates for this view pin.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-setAnchorPoint-com-here-sdk-core-Anchor2D" class="section detail">
+
+    ### setAnchorPoint
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets an anchor point for this instance. The anchor value has valid range from 0 to 1. Zero (0) for x and y means the view pin's upper left corner is located at the geographical location, whereas one (1) for x and y means that the pin will have its right bottom corner attached to the geographical location instead. The default value used is 0.5, 0.5, causing the view to be centered.
+
+    </div>
+
+    Parameters:  
+    `anchorPoint` - A `Anchor2D` relative to the top-left corner of the `ViewPin`.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-getAnchorPoint" class="section detail">
+
+    ### getAnchorPoint
+
+    <div class="member-signature">
+
+    <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets anchor point for this instance.
+
+    </div>
+
+    Returns:  
+    anchorPoint A `Anchor2D` relative to the top-left corner of the ` ViewPin`.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

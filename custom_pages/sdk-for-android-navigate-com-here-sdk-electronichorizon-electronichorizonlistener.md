@@ -3,95 +3,121 @@ title: "ElectronicHorizonListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonlistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- ElectronicHorizonListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.electronichorizon</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-package-summary">com.here.sdk.electronichorizon</a>
 
 </div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine" title="class in com.here.sdk.warner">WarnerEngine</a></code></dd>
-</dl>
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">ElectronicHorizonListener</span></div>
-<div className="block"><p>Provides a listener for receiving updates during execution of the <a href="sdk-for-android-navigate-electronichorizonengine#update(com.here.sdk.navigation.MapMatchedLocation)"><code>ElectronicHorizonEngine.update(com.here.sdk.navigation.MapMatchedLocation)</code></a> method.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.
- Offline availability: This property is available online and offline.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onElectronicHorizonUpdated(com.here.sdk.electronichorizon.ElectronicHorizonErrorCode,com.here.sdk.electronichorizon.ElectronicHorizonUpdate)">
-<h3>onElectronicHorizonUpdated</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onElectronicHorizonUpdated</span><wbr/><span className="parameters">(@Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a> errorCode,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate" title="class in com.here.sdk.electronichorizon">ElectronicHorizonUpdate</a> update)</span></div>
-<div className="block"><p>Called whenever the electronic horizon subsystem produces:
- <ul>
-<li>a new update,</li>
-<li>an error,</li>
-</ul>
-The client must inspect <code>error_code</code> to determine whether the call
- represents an error or a valid update.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>errorCode</code> - <p>The error associated with the horizon computation.
-     <code>null</code> means no error.</p></dd>
-<dd><code>update</code> - <p>The update describing the current electronic horizon state.
-     May be <code>null</code> if an update could not be produced.
-     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
-     behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+All Known Implementing Classes:  
+<a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine" title="class in com.here.sdk.warner">`WarnerEngine`</a>
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">ElectronicHorizonListener</span>
+
+</div>
+
+<div class="block">
+
+Provides a listener for receiving updates during execution of the ElectronicHorizonEngine.update(com.here.sdk.navigation.MapMatchedLocation) method. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process. Offline availability: This property is available online and offline.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onElectronicHorizonUpdated ( ElectronicHorizonErrorCode errorCode, ElectronicHorizonUpdate update)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Called whenever the electronic horizon subsystem produces: a new update, an error,
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onElectronicHorizonUpdated-com-here-sdk-electronichorizon-ElectronicHorizonErrorCode-com-here-sdk-electronichorizon-ElectronicHorizonUpdate" class="section detail">
+
+    ### onElectronicHorizonUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onElectronicHorizonUpdated</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a> errorCode, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate" title="class in com.here.sdk.electronichorizon">ElectronicHorizonUpdate</a> update)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called whenever the electronic horizon subsystem produces: a new update, an error, The client must inspect error_code to determine whether the call represents an error or a valid update.
+
+    </div>
+
+    Parameters:  
+    `errorCode` -
+
+    The error associated with the horizon computation. `null` means no error.
+
+    `update` -
+
+    The update describing the current electronic horizon state. May be `null` if an update could not be produced. **Note:** This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

@@ -3,183 +3,335 @@ title: "UsageStats.NetworkStats (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- UsageStats.NetworkStats.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.engine</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.core.engine.UsageStats.NetworkStats</div>
+
 </div>
-<section className="class-description" id="class-description">
-<dl className="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></dd>
-</dl>
 
-<div className="type-signature"><span className="modifiers">public static final class </span><span className="element-name type-name-label">UsageStats.NetworkStats</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Provides network statistics in bytes per method.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
+java.lang.Object com.here.sdk.core.engine.UsageStats.NetworkStats → com.here.sdk.core.engine.UsageStats.NetworkStats
 
-
-
-<div className="col-first even-row-color"><code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#methodCall">methodCall</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Name or description of the method being called.</div>
 </div>
-<div className="col-first odd-row-color"><code>long</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#receivedBytes">receivedBytes</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Number of bytes received from the network.</div>
-</div>
-<div className="col-first even-row-color"><code>long</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#requestCounter">requestCounter</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Amount of calls for particular family of methodCall.</div>
-</div>
-<div className="col-first odd-row-color"><code>long</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#sentBytes">sentBytes</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Number of bytes sent over the network.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
 
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
 
+Enclosing class:  
+<a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>
 
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#%3Cinit%3E(long,long,java.lang.String,long)">NetworkStats</a><wbr/>(long sentBytes,
- long receivedBytes,
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> methodCall,
- long requestCounter)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
+<div class="type-signature">
+
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">UsageStats.NetworkStats</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
+
+<div class="block">
+
+Provides network statistics in bytes per method.
+
 </div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
 
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
+</div>
 
-<ul className="member-list">
-<li>
-<section className="detail" id="sentBytes">
-<h3>sentBytes</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">long</span> <span className="element-name">sentBytes</span></div>
-<div className="block"><p>Number of bytes sent over the network.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="receivedBytes">
-<h3>receivedBytes</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">long</span> <span className="element-name">receivedBytes</span></div>
-<div className="block"><p>Number of bytes received from the network.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="methodCall">
-<h3>methodCall</h3>
-<div className="member-signature"><span className="annotations">@NonNull
-</span><span className="modifiers">public</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">methodCall</span></div>
-<div className="block"><p>Name or description of the method being called.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="requestCounter">
-<h3>requestCounter</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">long</span> <span className="element-name">requestCounter</span></div>
-<div className="block"><p>Amount of calls for particular family of methodCall.
- methodCall in this case is considered as base request,
- additional query params are ignored, all calculated as one request.
- e.g. https://search.hereapi.com/someparams and https://search.hereapi.com/someparams2
- will be considered as 1 methodCall, and requestCounter is 2.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(long,long,java.lang.String,long)">
-<h3>NetworkStats</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">NetworkStats</span><wbr/><span className="parameters">(long sentBytes,
- long receivedBytes,
- @NonNull
- <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> methodCall,
- long requestCounter)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>sentBytes</code> - <p>Number of bytes sent over the network.</p></dd>
-<dd><code>receivedBytes</code> - <p>Number of bytes received from the network.</p></dd>
-<dd><code>methodCall</code> - <p>Name or description of the method being called.</p></dd>
-<dd><code>requestCounter</code> - <p>Amount of calls for particular family of methodCall.
- methodCall in this case is considered as base request,
- additional query params are ignored, all calculated as one request.
- e.g. https://search.hereapi.com/someparams and https://search.hereapi.com/someparams2
- will be considered as 1 methodCall, and requestCounter is 2.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#methodCall" class="member-name-link"><code>methodCall</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Name or description of the method being called.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#receivedBytes" class="member-name-link"><code>receivedBytes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Number of bytes received from the network.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#requestCounter" class="member-name-link"><code>requestCounter</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Amount of calls for particular family of methodCall.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `long`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats#sentBytes" class="member-name-link"><code>sentBytes</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Number of bytes sent over the network.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      NetworkStats (long sentBytes,
+       long receivedBytes, String methodCall,
+       long requestCounter)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-sentBytes" class="section detail">
+
+    ### sentBytes
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">sentBytes</span>
+
+    </div>
+
+    <div class="block">
+
+    Number of bytes sent over the network.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-receivedBytes" class="section detail">
+
+    ### receivedBytes
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">receivedBytes</span>
+
+    </div>
+
+    <div class="block">
+
+    Number of bytes received from the network.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-methodCall" class="section detail">
+
+    ### methodCall
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">methodCall</span>
+
+    </div>
+
+    <div class="block">
+
+    Name or description of the method being called.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-requestCounter" class="section detail">
+
+    ### requestCounter
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">requestCounter</span>
+
+    </div>
+
+    <div class="block">
+
+    Amount of calls for particular family of methodCall. methodCall in this case is considered as base request, additional query params are ignored, all calculated as one request. e.g. https://search.hereapi.com/someparams and https://search.hereapi.com/someparams2 will be considered as 1 methodCall, and requestCounter is 2.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-long-long-java-lang-String-long" class="section detail">
+
+    ### NetworkStats
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">NetworkStats</span><wbr></wbr><span class="parameters">(long sentBytes, long receivedBytes, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> methodCall, long requestCounter)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `sentBytes` -
+
+    Number of bytes sent over the network.
+
+    `receivedBytes` -
+
+    Number of bytes received from the network.
+
+    `methodCall` -
+
+    Name or description of the method being called.
+
+    `requestCounter` -
+
+    Amount of calls for particular family of methodCall. methodCall in this case is considered as base request, additional query params are ignored, all calculated as one request. e.g. https://search.hereapi.com/someparams and https://search.hereapi.com/someparams2 will be considered as 1 methodCall, and requestCounter is 2.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

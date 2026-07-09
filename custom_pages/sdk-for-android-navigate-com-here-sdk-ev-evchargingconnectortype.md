@@ -3,927 +3,1906 @@ title: "EVChargingConnectorType (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- EVChargingConnectorType.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.ev</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-ev-package-summary">com.here.sdk.ev</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.ev.EVChargingConnectorType</div>
-</div>
-<section className="class-description" id="class-description">
 
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">EVChargingConnectorType</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Represents the standardized type of the installed connector.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
+</div>
 
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
+<div class="inheritance" title="Inheritance Tree">
 
+java.lang.Object com.here.sdk.ev.EVChargingConnectorType → com.here.sdk.ev.EVChargingConnectorType
 
+</div>
 
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#CHADEMO">CHADEMO</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">The connector type is CHAdeMO, DC.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#CHAOJI">CHAOJI</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">The ChaoJi connector.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_A">DOMESTIC_A</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "A", NEMA 1-15, 2 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_B">DOMESTIC_B</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "B", NEMA 5-15, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_C">DOMESTIC_C</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "C", CEE 7/17, 2 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_D">DOMESTIC_D</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "D", 3 pin.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_E">DOMESTIC_E</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "E", CEE 7/5 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_F">DOMESTIC_F</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "F", CEE 7/4, Schuko, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_G">DOMESTIC_G</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "G", BS 1363, Commonwealth, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_H">DOMESTIC_H</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "H", SI-32, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_I">DOMESTIC_I</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "I", AS 3112, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_J">DOMESTIC_J</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "J", SEV 1011, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_K">DOMESTIC_K</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "K", DS 60884-2-D1, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_L">DOMESTIC_L</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "L", CEI 23-16-VII, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_M">DOMESTIC_M</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "M", BS 546, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_N">DOMESTIC_N</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Standard/Domestic household, type "N", NBR 14136, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_O">DOMESTIC_O</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Standard/Domestic household, type "O", TIS 166-2549, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#GBT_AC">GBT_AC</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Guobiao GB/T 20234.2 AC socket/connector.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#GBT_DC">GBT_DC</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Guobiao GB/T 20234.3 DC connector.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_SINGLE_16">IEC_60309_2_SINGLE_16</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">IEC 60309-2 Industrial connector single phase 16 amperes (usually blue).</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_16">IEC_60309_2_THREE_16</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">IEC 60309-2 Industrial connector three phase 16 amperes (usually red).</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_32">IEC_60309_2_THREE_32</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">IEC 60309-2 Industrial connector three phase 32 amperes (usually red).</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_64">IEC_60309_2_THREE_64</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">IEC 60309-2 Industrial connector three phase 64 amperes (usually red).</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1">IEC_62196_T1</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">IEC 62196 Type 1 "SAE J1772".</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1_COMBO">IEC_62196_T1_COMBO</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Combo Type 1 based, DC.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2">IEC_62196_T2</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">IEC 62196 Type 2 "Mennekes".</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2_COMBO">IEC_62196_T2_COMBO</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Combo Type 2 based, DC.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3A">IEC_62196_T3A</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">IEC 62196 Type 3A.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3C">IEC_62196_T3C</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">IEC 62196 Type 3C "Scame".</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#MCS">MCS</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Megawatt Charging System (MCS) connector.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_10_30">NEMA_10_30</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">NEMA 10-30, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_10_50">NEMA_10_50</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">NEMA 10-50, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_14_30">NEMA_14_30</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">NEMA 14-30, 4 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_14_50">NEMA_14_50</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">NEMA 14-50, 4 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_5_20">NEMA_5_20</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">NEMA 5-20, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_6_30">NEMA_6_30</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">NEMA 6-30, 3 pins.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_6_50">NEMA_6_50</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">NEMA 6-50, 3 pins.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_BOTTOM_UP">PANTOGRAPH_BOTTOM_UP</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">On-board Bottom-up-Pantograph typically for bus charging.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_TOP_DOWN">PANTOGRAPH_TOP_DOWN</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Top-down-Pantograph typically for bus charging.</div>
-</div>
-<div className="col-first odd-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#SAE_J3400">SAE_J3400</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.</div>
-</div>
-<div className="col-first even-row-color"><code>static final <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#TESLA_R">TESLA_R</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Tesla connector "Roadster"-type (round, 4 pin).</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
 
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
+<div class="type-signature">
 
+<span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingConnectorType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#%3Cinit%3E()">EVChargingConnectorType</a>()</code></div>
-<div className="col-last even-row-color"> </div>
 </div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
 
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
+<div class="block">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="CHADEMO">
-<h3>CHADEMO</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">CHADEMO</span></div>
-<div className="block"><p>The connector type is CHAdeMO, DC.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="CHAOJI">
-<h3>CHAOJI</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">CHAOJI</span></div>
-<div className="block"><p>The ChaoJi connector. The new generation charging connector, harmonized between CHAdeMO and GB/T. DC.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_A">
-<h3>DOMESTIC_A</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_A</span></div>
-<div className="block"><p>Standard/Domestic household, type "A", NEMA 1-15, 2 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_B">
-<h3>DOMESTIC_B</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_B</span></div>
-<div className="block"><p>Standard/Domestic household, type "B", NEMA 5-15, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_C">
-<h3>DOMESTIC_C</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_C</span></div>
-<div className="block"><p>Standard/Domestic household, type "C", CEE 7/17, 2 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_D">
-<h3>DOMESTIC_D</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_D</span></div>
-<div className="block"><p>Standard/Domestic household, type "D", 3 pin.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_E">
-<h3>DOMESTIC_E</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_E</span></div>
-<div className="block"><p>Standard/Domestic household, type "E", CEE 7/5 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_F">
-<h3>DOMESTIC_F</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_F</span></div>
-<div className="block"><p>Standard/Domestic household, type "F", CEE 7/4, Schuko, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_G">
-<h3>DOMESTIC_G</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_G</span></div>
-<div className="block"><p>Standard/Domestic household, type "G", BS 1363, Commonwealth, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_H">
-<h3>DOMESTIC_H</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_H</span></div>
-<div className="block"><p>Standard/Domestic household, type "H", SI-32, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_I">
-<h3>DOMESTIC_I</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_I</span></div>
-<div className="block"><p>Standard/Domestic household, type "I", AS 3112, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_J">
-<h3>DOMESTIC_J</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_J</span></div>
-<div className="block"><p>Standard/Domestic household, type "J", SEV 1011, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_K">
-<h3>DOMESTIC_K</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_K</span></div>
-<div className="block"><p>Standard/Domestic household, type "K", DS 60884-2-D1, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_L">
-<h3>DOMESTIC_L</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_L</span></div>
-<div className="block"><p>Standard/Domestic household, type "L", CEI 23-16-VII, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_M">
-<h3>DOMESTIC_M</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_M</span></div>
-<div className="block"><p>Standard/Domestic household, type "M", BS 546, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_N">
-<h3>DOMESTIC_N</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_N</span></div>
-<div className="block"><p>Standard/Domestic household, type "N", NBR 14136, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="DOMESTIC_O">
-<h3>DOMESTIC_O</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">DOMESTIC_O</span></div>
-<div className="block"><p>Standard/Domestic household, type "O", TIS 166-2549, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="GBT_AC">
-<h3>GBT_AC</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">GBT_AC</span></div>
-<div className="block"><p>Guobiao GB/T 20234.2 AC socket/connector.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="GBT_DC">
-<h3>GBT_DC</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">GBT_DC</span></div>
-<div className="block"><p>Guobiao GB/T 20234.3 DC connector.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_60309_2_SINGLE_16">
-<h3>IEC_60309_2_SINGLE_16</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_60309_2_SINGLE_16</span></div>
-<div className="block"><p>IEC 60309-2 Industrial connector single phase 16 amperes (usually blue).</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_60309_2_THREE_16">
-<h3>IEC_60309_2_THREE_16</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_60309_2_THREE_16</span></div>
-<div className="block"><p>IEC 60309-2 Industrial connector three phase 16 amperes (usually red).</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_60309_2_THREE_32">
-<h3>IEC_60309_2_THREE_32</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_60309_2_THREE_32</span></div>
-<div className="block"><p>IEC 60309-2 Industrial connector three phase 32 amperes (usually red).</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_60309_2_THREE_64">
-<h3>IEC_60309_2_THREE_64</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_60309_2_THREE_64</span></div>
-<div className="block"><p>IEC 60309-2 Industrial connector three phase 64 amperes (usually red).</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T1">
-<h3>IEC_62196_T1</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T1</span></div>
-<div className="block"><p>IEC 62196 Type 1 "SAE J1772".</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T1_COMBO">
-<h3>IEC_62196_T1_COMBO</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T1_COMBO</span></div>
-<div className="block"><p>Combo Type 1 based, DC.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T2">
-<h3>IEC_62196_T2</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T2</span></div>
-<div className="block"><p>IEC 62196 Type 2 "Mennekes".</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T2_COMBO">
-<h3>IEC_62196_T2_COMBO</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T2_COMBO</span></div>
-<div className="block"><p>Combo Type 2 based, DC.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T3A">
-<h3>IEC_62196_T3A</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T3A</span></div>
-<div className="block"><p>IEC 62196 Type 3A.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="IEC_62196_T3C">
-<h3>IEC_62196_T3C</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">IEC_62196_T3C</span></div>
-<div className="block"><p>IEC 62196 Type 3C "Scame".</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_5_20">
-<h3>NEMA_5_20</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_5_20</span></div>
-<div className="block"><p>NEMA 5-20, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_6_30">
-<h3>NEMA_6_30</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_6_30</span></div>
-<div className="block"><p>NEMA 6-30, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_6_50">
-<h3>NEMA_6_50</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_6_50</span></div>
-<div className="block"><p>NEMA 6-50, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_10_30">
-<h3>NEMA_10_30</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_10_30</span></div>
-<div className="block"><p>NEMA 10-30, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_10_50">
-<h3>NEMA_10_50</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_10_50</span></div>
-<div className="block"><p>NEMA 10-50, 3 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_14_30">
-<h3>NEMA_14_30</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_14_30</span></div>
-<div className="block"><p>NEMA 14-30, 4 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="NEMA_14_50">
-<h3>NEMA_14_50</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">NEMA_14_50</span></div>
-<div className="block"><p>NEMA 14-50, 4 pins.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="PANTOGRAPH_BOTTOM_UP">
-<h3>PANTOGRAPH_BOTTOM_UP</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">PANTOGRAPH_BOTTOM_UP</span></div>
-<div className="block"><p>On-board Bottom-up-Pantograph typically for bus charging.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="PANTOGRAPH_TOP_DOWN">
-<h3>PANTOGRAPH_TOP_DOWN</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">PANTOGRAPH_TOP_DOWN</span></div>
-<div className="block"><p>Top-down-Pantograph typically for bus charging.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="TESLA_R">
-<h3>TESLA_R</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">TESLA_R</span></div>
-<div className="block"><p>Tesla connector "Roadster"-type (round, 4 pin).</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="SAE_J3400">
-<h3>SAE_J3400</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">SAE_J3400</span></div>
-<div className="block"><p>Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="MCS">
-<h3>MCS</h3>
-<div className="member-signature"><span className="modifiers">public static final</span> <span className="return-type"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span className="element-name">MCS</span></div>
-<div className="block"><p>Megawatt Charging System (MCS) connector.</p></div>
-<dl className="notes">
-<dt>See Also:</dt>
-<dd>
-<ul className="see-list">
-<li><a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+Represents the standardized type of the installed connector. Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;()">
-<h3>EVChargingConnectorType</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">EVChargingConnectorType</span>()</div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#CHADEMO" class="member-name-link"><code>CHADEMO</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  The connector type is CHAdeMO, DC.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#CHAOJI" class="member-name-link"><code>CHAOJI</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  The ChaoJi connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_A" class="member-name-link"><code>DOMESTIC_A</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "A", NEMA 1-15, 2 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_B" class="member-name-link"><code>DOMESTIC_B</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "B", NEMA 5-15, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_C" class="member-name-link"><code>DOMESTIC_C</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "C", CEE 7/17, 2 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_D" class="member-name-link"><code>DOMESTIC_D</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "D", 3 pin.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_E" class="member-name-link"><code>DOMESTIC_E</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "E", CEE 7/5 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_F" class="member-name-link"><code>DOMESTIC_F</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "F", CEE 7/4, Schuko, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_G" class="member-name-link"><code>DOMESTIC_G</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "G", BS 1363, Commonwealth, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_H" class="member-name-link"><code>DOMESTIC_H</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "H", SI-32, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_I" class="member-name-link"><code>DOMESTIC_I</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "I", AS 3112, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_J" class="member-name-link"><code>DOMESTIC_J</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "J", SEV 1011, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_K" class="member-name-link"><code>DOMESTIC_K</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "K", DS 60884-2-D1, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_L" class="member-name-link"><code>DOMESTIC_L</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "L", CEI 23-16-VII, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_M" class="member-name-link"><code>DOMESTIC_M</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "M", BS 546, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_N" class="member-name-link"><code>DOMESTIC_N</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "N", NBR 14136, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_O" class="member-name-link"><code>DOMESTIC_O</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Standard/Domestic household, type "O", TIS 166-2549, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#GBT_AC" class="member-name-link"><code>GBT_AC</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Guobiao GB/T 20234.2 AC socket/connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#GBT_DC" class="member-name-link"><code>GBT_DC</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Guobiao GB/T 20234.3 DC connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_SINGLE_16" class="member-name-link"><code>IEC_60309_2_SINGLE_16</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  IEC 60309-2 Industrial connector single phase 16 amperes (usually blue).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_16" class="member-name-link"><code>IEC_60309_2_THREE_16</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  IEC 60309-2 Industrial connector three phase 16 amperes (usually red).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_32" class="member-name-link"><code>IEC_60309_2_THREE_32</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  IEC 60309-2 Industrial connector three phase 32 amperes (usually red).
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_64" class="member-name-link"><code>IEC_60309_2_THREE_64</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  IEC 60309-2 Industrial connector three phase 64 amperes (usually red).
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1" class="member-name-link"><code>IEC_62196_T1</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  IEC 62196 Type 1 "SAE J1772".
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1_COMBO" class="member-name-link"><code>IEC_62196_T1_COMBO</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Combo Type 1 based, DC.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2" class="member-name-link"><code>IEC_62196_T2</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  IEC 62196 Type 2 "Mennekes".
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2_COMBO" class="member-name-link"><code>IEC_62196_T2_COMBO</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Combo Type 2 based, DC.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3A" class="member-name-link"><code>IEC_62196_T3A</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  IEC 62196 Type 3A.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3C" class="member-name-link"><code>IEC_62196_T3C</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  IEC 62196 Type 3C "Scame".
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#MCS" class="member-name-link"><code>MCS</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Megawatt Charging System (MCS) connector.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_10_30" class="member-name-link"><code>NEMA_10_30</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  NEMA 10-30, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_10_50" class="member-name-link"><code>NEMA_10_50</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  NEMA 10-50, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_14_30" class="member-name-link"><code>NEMA_14_30</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  NEMA 14-30, 4 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_14_50" class="member-name-link"><code>NEMA_14_50</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  NEMA 14-50, 4 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_5_20" class="member-name-link"><code>NEMA_5_20</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  NEMA 5-20, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_6_30" class="member-name-link"><code>NEMA_6_30</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  NEMA 6-30, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#NEMA_6_50" class="member-name-link"><code>NEMA_6_50</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  NEMA 6-50, 3 pins.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_BOTTOM_UP" class="member-name-link"><code>PANTOGRAPH_BOTTOM_UP</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  On-board Bottom-up-Pantograph typically for bus charging.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_TOP_DOWN" class="member-name-link"><code>PANTOGRAPH_TOP_DOWN</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Top-down-Pantograph typically for bus charging.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#SAE_J3400" class="member-name-link"><code>SAE_J3400</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype#TESLA_R" class="member-name-link"><code>TESLA_R</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Tesla connector "Roadster"-type (round, 4 pin).
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      EVChargingConnectorType ()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-CHADEMO" class="section detail">
+
+    ### CHADEMO
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CHADEMO</span>
+
+    </div>
+
+    <div class="block">
+
+    The connector type is CHAdeMO, DC.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-CHAOJI" class="section detail">
+
+    ### CHAOJI
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CHAOJI</span>
+
+    </div>
+
+    <div class="block">
+
+    The ChaoJi connector. The new generation charging connector, harmonized between CHAdeMO and GB/T. DC.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_A" class="section detail">
+
+    ### DOMESTIC_A
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_A</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "A", NEMA 1-15, 2 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_B" class="section detail">
+
+    ### DOMESTIC_B
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_B</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "B", NEMA 5-15, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_C" class="section detail">
+
+    ### DOMESTIC_C
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_C</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "C", CEE 7/17, 2 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_D" class="section detail">
+
+    ### DOMESTIC_D
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_D</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "D", 3 pin.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_E" class="section detail">
+
+    ### DOMESTIC_E
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_E</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "E", CEE 7/5 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_F" class="section detail">
+
+    ### DOMESTIC_F
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_F</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "F", CEE 7/4, Schuko, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_G" class="section detail">
+
+    ### DOMESTIC_G
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_G</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "G", BS 1363, Commonwealth, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_H" class="section detail">
+
+    ### DOMESTIC_H
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_H</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "H", SI-32, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_I" class="section detail">
+
+    ### DOMESTIC_I
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_I</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "I", AS 3112, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_J" class="section detail">
+
+    ### DOMESTIC_J
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_J</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "J", SEV 1011, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_K" class="section detail">
+
+    ### DOMESTIC_K
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_K</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "K", DS 60884-2-D1, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_L" class="section detail">
+
+    ### DOMESTIC_L
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_L</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "L", CEI 23-16-VII, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_M" class="section detail">
+
+    ### DOMESTIC_M
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_M</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "M", BS 546, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_N" class="section detail">
+
+    ### DOMESTIC_N
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_N</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "N", NBR 14136, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-DOMESTIC_O" class="section detail">
+
+    ### DOMESTIC_O
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DOMESTIC_O</span>
+
+    </div>
+
+    <div class="block">
+
+    Standard/Domestic household, type "O", TIS 166-2549, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-GBT_AC" class="section detail">
+
+    ### GBT_AC
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GBT_AC</span>
+
+    </div>
+
+    <div class="block">
+
+    Guobiao GB/T 20234.2 AC socket/connector.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-GBT_DC" class="section detail">
+
+    ### GBT_DC
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">GBT_DC</span>
+
+    </div>
+
+    <div class="block">
+
+    Guobiao GB/T 20234.3 DC connector.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_60309_2_SINGLE_16" class="section detail">
+
+    ### IEC_60309_2_SINGLE_16
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_60309_2_SINGLE_16</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 60309-2 Industrial connector single phase 16 amperes (usually blue).
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_60309_2_THREE_16" class="section detail">
+
+    ### IEC_60309_2_THREE_16
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_60309_2_THREE_16</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 60309-2 Industrial connector three phase 16 amperes (usually red).
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_60309_2_THREE_32" class="section detail">
+
+    ### IEC_60309_2_THREE_32
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_60309_2_THREE_32</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 60309-2 Industrial connector three phase 32 amperes (usually red).
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_60309_2_THREE_64" class="section detail">
+
+    ### IEC_60309_2_THREE_64
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_60309_2_THREE_64</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 60309-2 Industrial connector three phase 64 amperes (usually red).
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T1" class="section detail">
+
+    ### IEC_62196_T1
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T1</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 62196 Type 1 "SAE J1772".
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T1_COMBO" class="section detail">
+
+    ### IEC_62196_T1_COMBO
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T1_COMBO</span>
+
+    </div>
+
+    <div class="block">
+
+    Combo Type 1 based, DC.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T2" class="section detail">
+
+    ### IEC_62196_T2
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T2</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 62196 Type 2 "Mennekes".
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T2_COMBO" class="section detail">
+
+    ### IEC_62196_T2_COMBO
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T2_COMBO</span>
+
+    </div>
+
+    <div class="block">
+
+    Combo Type 2 based, DC.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T3A" class="section detail">
+
+    ### IEC_62196_T3A
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T3A</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 62196 Type 3A.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-IEC_62196_T3C" class="section detail">
+
+    ### IEC_62196_T3C
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">IEC_62196_T3C</span>
+
+    </div>
+
+    <div class="block">
+
+    IEC 62196 Type 3C "Scame".
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_5_20" class="section detail">
+
+    ### NEMA_5_20
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_5_20</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 5-20, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_6_30" class="section detail">
+
+    ### NEMA_6_30
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_6_30</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 6-30, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_6_50" class="section detail">
+
+    ### NEMA_6_50
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_6_50</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 6-50, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_10_30" class="section detail">
+
+    ### NEMA_10_30
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_10_30</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 10-30, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_10_50" class="section detail">
+
+    ### NEMA_10_50
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_10_50</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 10-50, 3 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_14_30" class="section detail">
+
+    ### NEMA_14_30
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_14_30</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 14-30, 4 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-NEMA_14_50" class="section detail">
+
+    ### NEMA_14_50
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">NEMA_14_50</span>
+
+    </div>
+
+    <div class="block">
+
+    NEMA 14-50, 4 pins.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-PANTOGRAPH_BOTTOM_UP" class="section detail">
+
+    ### PANTOGRAPH_BOTTOM_UP
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">PANTOGRAPH_BOTTOM_UP</span>
+
+    </div>
+
+    <div class="block">
+
+    On-board Bottom-up-Pantograph typically for bus charging.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-PANTOGRAPH_TOP_DOWN" class="section detail">
+
+    ### PANTOGRAPH_TOP_DOWN
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">PANTOGRAPH_TOP_DOWN</span>
+
+    </div>
+
+    <div class="block">
+
+    Top-down-Pantograph typically for bus charging.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-TESLA_R" class="section detail">
+
+    ### TESLA_R
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TESLA_R</span>
+
+    </div>
+
+    <div class="block">
+
+    Tesla connector "Roadster"-type (round, 4 pin).
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-SAE_J3400" class="section detail">
+
+    ### SAE_J3400
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SAE_J3400</span>
+
+    </div>
+
+    <div class="block">
+
+    Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">Constant Field Values</a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-MCS" class="section detail">
+
+    ### MCS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">MCS</span>
+
+    </div>
+
+    <div class="block">
+
+    Megawatt Charging System (MCS) connector.
+
+    </div>
+
+    See Also:  
+    - <a href="sdk-for-android-navigate-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS">Constant Field Values</a>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init" class="section detail">
+
+    ### EVChargingConnectorType
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">EVChargingConnectorType</span>()
+
+    </div>
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

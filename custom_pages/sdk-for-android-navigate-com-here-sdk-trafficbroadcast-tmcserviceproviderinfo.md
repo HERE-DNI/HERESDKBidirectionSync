@@ -3,214 +3,468 @@ title: "TMCServiceProviderInfo (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- TMCServiceProviderInfo.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.trafficbroadcast</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-package-summary">com.here.sdk.trafficbroadcast</a>
 
 </div>
-<div className="inheritance" title="Inheritance Tree"><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div className="inheritance">com.here.sdk.trafficbroadcast.TMCServiceProviderInfo</div>
-</div>
-<section className="class-description" id="class-description">
 
-<div className="type-signature"><span className="modifiers">public final class </span><span className="element-name type-name-label">TMCServiceProviderInfo</span>
-<span className="extends-implements">extends <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div className="block"><p>Represents the service prodiver info in RDS-TMC format.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section className="field-summary" id="field-summary">
-
-<div className="caption"><span>Fields</span></div>
-<div className="summary-table three-column-summary">
-
-
-
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#countryCode">countryCode</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Service provider country code.</div>
 </div>
-<div className="col-first odd-row-color"><code>short</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionId">encryptionId</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Encryption key index.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionTestMode">encryptionTestMode</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Encryption mode test flag.</div>
-</div>
-<div className="col-first odd-row-color"><code>short</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Location table number before encryption.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnNumber">ltnNumber</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Location table number.</div>
-</div>
-<div className="col-first odd-row-color"><code>short</code></div>
-<div className="col-second odd-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#sid">sid</a></code></div>
-<div className="col-last odd-row-color">
-<div className="block">Service id.</div>
-</div>
-<div className="col-first even-row-color"><code>short</code></div>
-<div className="col-second even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#status">status</a></code></div>
-<div className="col-last even-row-color">
-<div className="block">Service provider status.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section className="constructor-summary" id="constructor-summary">
 
-<div className="caption"><span>Constructors</span></div>
-<div className="summary-table two-column-summary">
+<div class="inheritance" title="Inheritance Tree">
 
+java.lang.Object com.here.sdk.trafficbroadcast.TMCServiceProviderInfo → com.here.sdk.trafficbroadcast.TMCServiceProviderInfo
 
-<div className="col-constructor-name even-row-color"><code><a className="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#%3Cinit%3E(short,short,short,short,short,short,short)">TMCServiceProviderInfo</a><wbr/>(short status,
- short countryCode,
- short sid,
- short ltnNumber,
- short encryptionTestMode,
- short encryptionId,
- short ltnBeforeEncryption)</code></div>
-<div className="col-last even-row-color">
-<div className="block">Creates a new instance.</div>
 </div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TMCServiceProviderInfo</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
 
-<div className="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a className="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section className="field-details" id="field-detail">
+<div class="block">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="status">
-<h3>status</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">status</span></div>
-<div className="block"><p>Service provider status.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="countryCode">
-<h3>countryCode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">countryCode</span></div>
-<div className="block"><p>Service provider country code.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="sid">
-<h3>sid</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">sid</span></div>
-<div className="block"><p>Service id.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="ltnNumber">
-<h3>ltnNumber</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">ltnNumber</span></div>
-<div className="block"><p>Location table number.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="encryptionTestMode">
-<h3>encryptionTestMode</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">encryptionTestMode</span></div>
-<div className="block"><p>Encryption mode test flag.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="encryptionId">
-<h3>encryptionId</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">encryptionId</span></div>
-<div className="block"><p>Encryption key index.</p></div>
-</section>
-</li>
-<li>
-<section className="detail" id="ltnBeforeEncryption">
-<h3>ltnBeforeEncryption</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="return-type">short</span> <span className="element-name">ltnBeforeEncryption</span></div>
-<div className="block"><p>Location table number before encryption.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section className="constructor-details" id="constructor-detail">
+Represents the service prodiver info in RDS-TMC format.
 
-<ul className="member-list">
-<li>
-<section className="detail" id="&lt;init&gt;(short,short,short,short,short,short,short)">
-<h3>TMCServiceProviderInfo</h3>
-<div className="member-signature"><span className="modifiers">public</span> <span className="element-name">TMCServiceProviderInfo</span><wbr/><span className="parameters">(short status,
- short countryCode,
- short sid,
- short ltnNumber,
- short encryptionTestMode,
- short encryptionId,
- short ltnBeforeEncryption)</span></div>
-<div className="block"><p>Creates a new instance.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>status</code> - <p>Service provider status.</p></dd>
-<dd><code>countryCode</code> - <p>Service provider country code.</p></dd>
-<dd><code>sid</code> - <p>Service id.</p></dd>
-<dd><code>ltnNumber</code> - <p>Location table number.</p></dd>
-<dd><code>encryptionTestMode</code> - <p>Encryption mode test flag.</p></dd>
-<dd><code>encryptionId</code> - <p>Encryption key index.</p></dd>
-<dd><code>ltnBeforeEncryption</code> - <p>Location table number before encryption.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#countryCode" class="member-name-link"><code>countryCode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Service provider country code.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionId" class="member-name-link"><code>encryptionId</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Encryption key index.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionTestMode" class="member-name-link"><code>encryptionTestMode</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Encryption mode test flag.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnBeforeEncryption" class="member-name-link"><code>ltnBeforeEncryption</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Location table number before encryption.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnNumber" class="member-name-link"><code>ltnNumber</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Location table number.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#sid" class="member-name-link"><code>sid</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  Service id.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `short`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#status" class="member-name-link"><code>status</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Service provider status.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      TMCServiceProviderInfo (short status,
+       short countryCode,
+       short sid,
+       short ltnNumber,
+       short encryptionTestMode,
+       short encryptionId,
+       short ltnBeforeEncryption)
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-status" class="section detail">
+
+    ### status
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">status</span>
+
+    </div>
+
+    <div class="block">
+
+    Service provider status.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-countryCode" class="section detail">
+
+    ### countryCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">countryCode</span>
+
+    </div>
+
+    <div class="block">
+
+    Service provider country code.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-sid" class="section detail">
+
+    ### sid
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">sid</span>
+
+    </div>
+
+    <div class="block">
+
+    Service id.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-ltnNumber" class="section detail">
+
+    ### ltnNumber
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">ltnNumber</span>
+
+    </div>
+
+    <div class="block">
+
+    Location table number.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-encryptionTestMode" class="section detail">
+
+    ### encryptionTestMode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">encryptionTestMode</span>
+
+    </div>
+
+    <div class="block">
+
+    Encryption mode test flag.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-encryptionId" class="section detail">
+
+    ### encryptionId
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">encryptionId</span>
+
+    </div>
+
+    <div class="block">
+
+    Encryption key index.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-ltnBeforeEncryption" class="section detail">
+
+    ### ltnBeforeEncryption
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">short</span> <span class="element-name">ltnBeforeEncryption</span>
+
+    </div>
+
+    <div class="block">
+
+    Location table number before encryption.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init-short-short-short-short-short-short-short" class="section detail">
+
+    ### TMCServiceProviderInfo
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">TMCServiceProviderInfo</span><wbr></wbr><span class="parameters">(short status, short countryCode, short sid, short ltnNumber, short encryptionTestMode, short encryptionId, short ltnBeforeEncryption)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `status` -
+
+    Service provider status.
+
+    `countryCode` -
+
+    Service provider country code.
+
+    `sid` -
+
+    Service id.
+
+    `ltnNumber` -
+
+    Location table number.
+
+    `encryptionTestMode` -
+
+    Encryption mode test flag.
+
+    `encryptionId` -
+
+    Encryption key index.
+
+    `ltnBeforeEncryption` -
+
+    Location table number before encryption.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

@@ -3,82 +3,118 @@ title: "VenueSelectionListener (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistener"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- VenueSelectionListener.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">VenueSelectionListener</span></div>
-<div className="block"><p>The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> selection event. Use the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
- to add and remove the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistener" title="interface in com.here.sdk.venue.control"><code>VenueSelectionListener</code></a>.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">
-<h3>onSelectedVenueChanged</h3>
-<div className="member-signature"><span className="return-type">void</span> <span className="element-name">onSelectedVenueChanged</span><wbr/><span className="parameters">(@Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
- @Nullable
- <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</span></div>
-<div className="block"><p>Indicates that the current selected <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</p></div>
-<dl className="notes">
-<dt>Parameters:</dt>
-<dd><code>deselectedVenue</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was deselected or <code>null</code>
-     if there was no selected venue before.</p></dd>
-<dd><code>selectedVenue</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> that was selected or <code>null</code>
-     if there was no new selected venue.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">VenueSelectionListener</span>
+
+</div>
+
+<div class="block">
+
+The interface for listeners for the Venue selection event. Use the VenueMap to add and remove the VenueSelectionListener .
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `void`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      onSelectedVenueChanged ( Venue deselectedVenue, Venue selectedVenue)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Indicates that the current selected Venue changed.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-onSelectedVenueChanged-com-here-sdk-venue-control-Venue-com-here-sdk-venue-control-Venue" class="section detail">
+
+    ### onSelectedVenueChanged
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onSelectedVenueChanged</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue, @Nullable <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</span>
+
+    </div>
+
+    <div class="block">
+
+    Indicates that the current selected Venue changed.
+
+    </div>
+
+    Parameters:  
+    `deselectedVenue` -
+
+    The <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">`Venue`</a> that was deselected or `null` if there was no selected venue before.
+
+    `selectedVenue` -
+
+    The <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">`Venue`</a> that was selected or `null` if there was no new selected venue.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>

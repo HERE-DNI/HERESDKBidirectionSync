@@ -3,102 +3,198 @@ title: "TaskHandle (API Reference)"
 slug: "sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle"
 ---
 
-<HTMLBlock>{
-`
-<div className="sdk-for-android-navigate">
-<!-- TaskHandle.html -->
-
-
-
-
-
-
-<div className="flex-box">
-
-<div className="flex-content">
-
 <!-- ======== START OF CLASS DATA ======== -->
-<div className="header">
-<div className="sub-title"><span className="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-package-summary">com.here.sdk.core.threading</a></div>
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
 </div>
-<section className="class-description" id="class-description">
-
-<div className="type-signature"><span className="modifiers">public interface </span><span className="element-name type-name-label">TaskHandle</span></div>
-<div className="block"><p>Handle used for the manipulation of the task.</p></div>
-</section>
-<section className="summary">
-<ul className="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section className="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-
 
 </div>
-</section>
-</li>
-</ul>
-</section>
-<section className="details">
-<ul className="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section className="method-details" id="method-detail">
 
-<ul className="member-list">
-<li>
-<section className="detail" id="cancel()">
-<h3>cancel</h3>
-<div className="member-signature"><span className="return-type">boolean</span> <span className="element-name">cancel</span>()</div>
-<div className="block"><p>Sets internal state of task to 'canceled'. If the task is still in the queue, it will be
- removed from it immediately. However, if the task is in a running state, it will nevertheless be completed, as there is no way
- to interrupt it.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>True, if the task was canceled. False, if the task can't be canceled due to a
-     platform dependent reason.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isFinished()">
-<h3>isFinished</h3>
-<div className="member-signature"><span className="return-type">boolean</span> <span className="element-name">isFinished</span>()</div>
-<div className="block"><p>Gets a boolean indicating if this task is completed.
- True, if this task is completed. Completion may be due to normal termination,
- an exception, or cancellation - in all of these cases, result will return <code>true</code>.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Completion indication.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section className="detail" id="isCancelled()">
-<h3>isCancelled</h3>
-<div className="member-signature"><span className="return-type">boolean</span> <span className="element-name">isCancelled</span>()</div>
-<div className="block"><p>Gets a boolean indicating if this task is cancelled.
- True, if this task was canceled before it completed normally.</p></div>
-<dl className="notes">
-<dt>Returns:</dt>
-<dd><p>Completion indication.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public interface </span><span class="element-name type-name-label">TaskHandle</span>
+
+</div>
+
+<div class="block">
+
+Handle used for the manipulation of the task.
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      cancel ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Sets internal state of task to 'canceled'.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      isCancelled ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets a boolean indicating if this task is cancelled.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+      isFinished ()
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
+
+  <div class="block">
+
+  Gets a boolean indicating if this task is completed.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-cancel" class="section detail">
+
+    ### cancel
+
+    <div class="member-signature">
+
+    <span class="return-type">boolean</span> <span class="element-name">cancel</span>()
+
+    </div>
+
+    <div class="block">
+
+    Sets internal state of task to 'canceled'. If the task is still in the queue, it will be removed from it immediately. However, if the task is in a running state, it will nevertheless be completed, as there is no way to interrupt it.
+
+    </div>
+
+    Returns:  
+    True, if the task was canceled. False, if the task can't be canceled due to a platform dependent reason.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isFinished" class="section detail">
+
+    ### isFinished
+
+    <div class="member-signature">
+
+    <span class="return-type">boolean</span> <span class="element-name">isFinished</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets a boolean indicating if this task is completed. True, if this task is completed. Completion may be due to normal termination, an exception, or cancellation - in all of these cases, result will return true .
+
+    </div>
+
+    Returns:  
+    Completion indication.
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-isCancelled" class="section detail">
+
+    ### isCancelled
+
+    <div class="member-signature">
+
+    <span class="return-type">boolean</span> <span class="element-name">isCancelled</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets a boolean indicating if this task is cancelled. True, if this task was canceled before it completed normally.
+
+    </div>
+
+    Returns:  
+    Completion indication.
+
+    </div>
+
+  </div>
+
 <!-- ========= END OF CLASS DATA ========= -->
 
-</div>
-</div>
-
-
-
-</div>
-`
-}</HTMLBlock>
