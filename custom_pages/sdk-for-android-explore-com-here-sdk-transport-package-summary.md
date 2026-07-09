@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [BusSpecifications](sdk-for-android-explore-com-here-sdk-transport-busspecifications "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-busspecifications" title="class in com.here.sdk.transport">BusSpecifications</a>
 
   </div>
 
@@ -48,7 +48,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [CarSpecifications](sdk-for-android-explore-com-here-sdk-transport-carspecifications "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a>
 
   </div>
 
@@ -65,7 +65,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a>
 
   </div>
 
@@ -81,7 +81,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>
 
   </div>
 
@@ -97,7 +97,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeneralVehicleSpeedLimits](sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a>
 
   </div>
 
@@ -113,7 +113,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>
 
   </div>
 
@@ -129,7 +129,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PedestrianSpecification](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a>
 
   </div>
 
@@ -145,7 +145,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [ScooterSpecification](sdk-for-android-explore-com-here-sdk-transport-scooterspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a>
 
   </div>
 
@@ -161,7 +161,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TaxiSpecification](sdk-for-android-explore-com-here-sdk-transport-taxispecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a>
 
   </div>
 
@@ -177,7 +177,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a>
 
   </div>
 
@@ -193,7 +193,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>
 
   </div>
 
@@ -209,7 +209,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.BicycleBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-bicyclebuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a>
 
   </div>
 
@@ -225,7 +225,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.BusBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-busbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a>
 
   </div>
 
@@ -241,7 +241,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-carbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a>
 
   </div>
 
@@ -257,7 +257,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.PedestrianBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a>
 
   </div>
 
@@ -273,7 +273,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.PrivateBusBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-privatebusbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a>
 
   </div>
 
@@ -289,7 +289,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a>
 
   </div>
 
@@ -305,7 +305,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a>
 
   </div>
 
@@ -321,7 +321,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TransportSpecification.TruckBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-truckbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a>
 
   </div>
 
@@ -337,7 +337,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TruckCategory](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a>
 
   </div>
 
@@ -353,7 +353,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TruckClass](sdk-for-android-explore-com-here-sdk-transport-truckclass "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>
 
   </div>
 
@@ -369,7 +369,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>
 
   </div>
 
@@ -385,7 +385,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>
 
   </div>
 
@@ -401,7 +401,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TruckSpecifications](sdk-for-android-explore-com-here-sdk-transport-truckspecifications "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a>
 
   </div>
 
@@ -418,7 +418,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a>
 
   </div>
 
@@ -435,7 +435,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a>
 
   </div>
 
@@ -451,7 +451,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [VehicleProfile](sdk-for-android-explore-com-here-sdk-transport-vehicleprofile "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a>
 
   </div>
 
@@ -468,7 +468,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a>
 
   </div>
 
@@ -484,7 +484,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.BusBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a>
 
   </div>
 
@@ -500,7 +500,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.CarBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a>
 
   </div>
 
@@ -516,7 +516,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.PrivateBusBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-privatebusbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a>
 
   </div>
 
@@ -532,7 +532,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a>
 
   </div>
 
@@ -548,7 +548,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a>
 
   </div>
 
@@ -564,7 +564,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [VehicleSpecification.TruckBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a>
 
   </div>
 
@@ -580,7 +580,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [VehicleType](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a>
 
   </div>
 
@@ -597,7 +597,7 @@ package <span class="element-name">com.here.sdk.transport</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [WeightPerAxleGroup](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a>
 
   </div>
 

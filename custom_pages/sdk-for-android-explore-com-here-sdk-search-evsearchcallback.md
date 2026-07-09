@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -96,7 +96,7 @@ The method that will be called on the main thread when a search operation in EVS
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onEVCP3SearchCompleted</span><wbr></wbr><span class="parameters">(@Nullable [EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search") error, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")\> chargingLocations)</span>
+    <span class="return-type">void</span> <span class="element-name">onEVCP3SearchCompleted</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a> error, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a>\> chargingLocations)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.PolygonData
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataSource</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataSource</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -271,7 +271,7 @@ Polygon data source allows the rendering engine access to the user provided poly
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull [PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource") polygon)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</span>
 
     </div>
 
@@ -294,7 +294,7 @@ Polygon data source allows the rendering engine access to the user provided poly
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")\> polygons)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>\> polygons)</span>
 
     </div>
 
@@ -335,7 +335,7 @@ Polygon data source allows the rendering engine access to the user provided poly
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr></wbr><span class="parameters">(@NonNull [PolygonDataSource.PolygonDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor "interface in com.here.sdk.mapview.datasource") processor)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</span>
 
     </div>
 
@@ -358,7 +358,7 @@ Polygon data source allows the rendering engine access to the user provided poly
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr></wbr><span class="parameters">(@NonNull [PolygonDataSource.PolygonDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor "interface in com.here.sdk.mapview.datasource") inspector)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> inspector)</span>
 
     </div>
 

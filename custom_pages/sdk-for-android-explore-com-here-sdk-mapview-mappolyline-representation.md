@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapItemRepresentation 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Direct Known Subclasses:  
-[`MapPolyline.DashImageRepresentation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation "class in com.here.sdk.mapview"), [`MapPolyline.DashRepresentation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation "class in com.here.sdk.mapview"), [`MapPolyline.SolidMultiColorRepresentation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation "class in com.here.sdk.mapview"), [`MapPolyline.SolidRepresentation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">`MapPolyline.DashImageRepresentation`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">`MapPolyline.DashRepresentation`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">`MapPolyline.SolidMultiColorRepresentation`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">`MapPolyline.SolidRepresentation`</a>
 
 <!-- -->
 
 Enclosing class:  
-[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static class </span><span class="element-name type-name-label">MapPolyline.Representation</span> <span class="extends-implements">extends [MapItemRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation "class in com.here.sdk.mapview")</span>
+<span class="modifiers">public static class </span><span class="element-name type-name-label">MapPolyline.Representation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation" title="class in com.here.sdk.mapview">MapItemRepresentation</a></span>
 
 </div>
 

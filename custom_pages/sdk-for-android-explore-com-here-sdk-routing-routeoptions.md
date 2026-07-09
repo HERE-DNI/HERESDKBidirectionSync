@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -199,7 +199,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-first even-row-color">
 
-  [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">`OptimizationMode`</a>
 
   </div>
 
@@ -265,7 +265,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-first odd-row-color">
 
-  [`TrafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">`TrafficOptimizationMode`</a>
 
   </div>
 
@@ -595,7 +595,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")</span> <span class="element-name">optimizationMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></span> <span class="element-name">optimizationMode</span>
 
     </div>
 
@@ -703,7 +703,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing")</span> <span class="element-name">trafficOptimizationMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></span> <span class="element-name">trafficOptimizationMode</span>
 
     </div>
 
@@ -797,7 +797,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</span>
 
     </div>
 
@@ -810,7 +810,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     </div>
 
@@ -820,7 +820,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives)</span>
 
     </div>
 
@@ -833,7 +833,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -847,7 +847,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime)</span>
 
     </div>
 
@@ -860,7 +860,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -868,9 +868,9 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
@@ -883,7 +883,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime)</span>
 
     </div>
 
@@ -896,7 +896,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -904,18 +904,18 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
@@ -928,7 +928,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond)</span>
 
     </div>
 
@@ -941,7 +941,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -949,25 +949,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -983,7 +983,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle)</span>
 
     </div>
 
@@ -996,7 +996,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -1004,25 +1004,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -1032,7 +1032,7 @@ The options to specify how the route will be calculated.
 
     `enableRouteHandle` -
 
-    A flag that indicates whether the resulting route should contain a [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
+    A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
 
     </div>
 
@@ -1042,7 +1042,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode)</span>
 
     </div>
 
@@ -1055,7 +1055,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -1063,25 +1063,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -1091,11 +1091,11 @@ The options to specify how the route will be calculated.
 
     `enableRouteHandle` -
 
-    A flag that indicates whether the resulting route should contain a [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
+    A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
 
     `trafficOptimizationMode` -
 
-    The traffic optimization mode to be used for route calculation. By default, it is [`TrafficOptimizationMode.TIME_DEPENDENT`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT), which enables traffic-aware routing.
+    The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT">`TrafficOptimizationMode.TIME_DEPENDENT`</a>, which enables traffic-aware routing.
 
     </div>
 
@@ -1105,7 +1105,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode, boolean enableTolls)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode, boolean enableTolls)</span>
 
     </div>
 
@@ -1118,7 +1118,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -1126,25 +1126,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -1154,11 +1154,11 @@ The options to specify how the route will be calculated.
 
     `enableRouteHandle` -
 
-    A flag that indicates whether the resulting route should contain a [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
+    A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
 
     `trafficOptimizationMode` -
 
-    The traffic optimization mode to be used for route calculation. By default, it is [`TrafficOptimizationMode.TIME_DEPENDENT`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT), which enables traffic-aware routing.
+    The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT">`TrafficOptimizationMode.TIME_DEPENDENT`</a>, which enables traffic-aware routing.
 
     `enableTolls` -
 
@@ -1178,7 +1178,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode, boolean enableTolls, boolean optimizeWaypointsOrder)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode, boolean enableTolls, boolean optimizeWaypointsOrder)</span>
 
     </div>
 
@@ -1191,7 +1191,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -1199,25 +1199,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -1227,11 +1227,11 @@ The options to specify how the route will be calculated.
 
     `enableRouteHandle` -
 
-    A flag that indicates whether the resulting route should contain a [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
+    A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
 
     `trafficOptimizationMode` -
 
-    The traffic optimization mode to be used for route calculation. By default, it is [`TrafficOptimizationMode.TIME_DEPENDENT`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT), which enables traffic-aware routing.
+    The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT">`TrafficOptimizationMode.TIME_DEPENDENT`</a>, which enables traffic-aware routing.
 
     `enableTolls` -
 
@@ -1249,7 +1249,7 @@ The options to specify how the route will be calculated.
 
         calculateRoute()
 
-    should be optimized in the best order. The best order is calculated by the same metrics that are used during regular calculation, e.g. [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing"). The starting and destination [`Waypoint`](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing") are not reordered. If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize). The resulting order of waypoints can be identified by their waypoint indices in the route sections (see [](sdk-for-android-explore-com-here-sdk-routing-route#getSections())
+    should be optimized in the best order. The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">`OptimizationMode`</a>. The starting and destination <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">`Waypoint`</a> are not reordered. If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize). The resulting order of waypoints can be identified by their waypoint indices in the route sections (see [](sdk-for-android-explore-com-here-sdk-routing-route#getSections())
 
         Route.getSections()
 
@@ -1261,7 +1261,7 @@ The options to specify how the route will be calculated.
 
         Section.getArrivalPlace()
 
-    </a>, [`RoutePlace.waypointIndex`](sdk-for-android-explore-com-here-sdk-routing-routeplace#waypointIndex)). Currently, the waypoints order optimization is available only when using the `OfflineRoutingEngine` (only available for the Navigate license). Defaults to `false`.
+    </a>, <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace#waypointIndex">`RoutePlace.waypointIndex`</a>). Currently, the waypoints order optimization is available only when using the `OfflineRoutingEngine` (only available for the Navigate license). Defaults to `false`.
 
     </p>
 
@@ -1273,7 +1273,7 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode, boolean enableTolls, boolean optimizeWaypointsOrder, boolean enableRouteLabels)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode, int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond, boolean enableRouteHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode, boolean enableTolls, boolean optimizeWaypointsOrder, boolean enableRouteLabels)</span>
 
     </div>
 
@@ -1286,7 +1286,7 @@ The options to specify how the route will be calculated.
     Parameters:  
     `optimizationMode` -
 
-    The optimization mode to be used for route calculation. By default, it is [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
+    The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a>.
 
     `alternatives` -
 
@@ -1294,25 +1294,25 @@ The options to specify how the route will be calculated.
 
     `departureTime` -
 
-    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to start. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, i.e. now. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both departure time and [`arrivalTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime) cannot be set at the same time.
+    - Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">`arrivalTime`</a> cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `arrivalTime` -
 
-    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per [`trafficOptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode). By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
+    Optional time when travel is expected to end. Traffic speed and incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">`trafficOptimizationMode`</a>. By default, the time is not set. If the time is not set, the current time will be used internally, to predict the arrival time. Therefore, by default, a time-aware route request is initiated including traffic. **Note**:
 
-    - Both [`departureTime`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime) and arrival time cannot be set at the same time.
+    - Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">`departureTime`</a> and arrival time cannot be set at the same time.
     - This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </p>
 
     `speedCapInMetersPerSecond` -
 
-    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for [`TransportMode.CAR`](sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR), [`TransportMode.TRUCK`](sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK) and [`TransportMode.SCOOTER`](sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER) transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
+    Specifies the maximum speed in meters per second, which the user wishes not to exceed. The valid range is \[1, 70\] meters per second. Note that it is valid only for <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#CAR">`TransportMode.CAR`</a>, <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#TRUCK">`TransportMode.TRUCK`</a> and <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode#SCOOTER">`TransportMode.SCOOTER`</a> transport modes. For car, truck and scooter transport modes, it will affect [](sdk-for-android-explore-com-here-sdk-routing-route#getDuration())
 
         Route.getDuration()
 
@@ -1322,11 +1322,11 @@ The options to specify how the route will be calculated.
 
     `enableRouteHandle` -
 
-    A flag that indicates whether the resulting route should contain a [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
+    A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Defaults to `false`. Note that a `RouteHandle` generated by the online `RoutingEngine` is not compatible with the `OfflineRoutingEngine` and vice versa.
 
     `trafficOptimizationMode` -
 
-    The traffic optimization mode to be used for route calculation. By default, it is [`TrafficOptimizationMode.TIME_DEPENDENT`](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT), which enables traffic-aware routing.
+    The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT">`TrafficOptimizationMode.TIME_DEPENDENT`</a>, which enables traffic-aware routing.
 
     `enableTolls` -
 
@@ -1344,7 +1344,7 @@ The options to specify how the route will be calculated.
 
         calculateRoute()
 
-    should be optimized in the best order. The best order is calculated by the same metrics that are used during regular calculation, e.g. [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing"). The starting and destination [`Waypoint`](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing") are not reordered. If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize). The resulting order of waypoints can be identified by their waypoint indices in the route sections (see [](sdk-for-android-explore-com-here-sdk-routing-route#getSections())
+    should be optimized in the best order. The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">`OptimizationMode`</a>. The starting and destination <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">`Waypoint`</a> are not reordered. If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize). The resulting order of waypoints can be identified by their waypoint indices in the route sections (see [](sdk-for-android-explore-com-here-sdk-routing-route#getSections())
 
         Route.getSections()
 
@@ -1356,7 +1356,7 @@ The options to specify how the route will be calculated.
 
         Section.getArrivalPlace()
 
-    </a>, [`RoutePlace.waypointIndex`](sdk-for-android-explore-com-here-sdk-routing-routeplace#waypointIndex)). Currently, the waypoints order optimization is available only when using the `OfflineRoutingEngine` (only available for the Navigate license). Defaults to `false`.
+    </a>, <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace#waypointIndex">`RoutePlace.waypointIndex`</a>). Currently, the waypoints order optimization is available only when using the `OfflineRoutingEngine` (only available for the Navigate license). Defaults to `false`.
 
     </p>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 

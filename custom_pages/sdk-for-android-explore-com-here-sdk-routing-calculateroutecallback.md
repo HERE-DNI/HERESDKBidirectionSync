@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -96,7 +96,7 @@ A function which is called by the RoutingEngine after route calculation has comp
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onRouteCalculated</span><wbr></wbr><span class="parameters">(@Nullable [RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing") routingError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")\> routeList)</span>
+    <span class="return-type">void</span> <span class="element-name">onRouteCalculated</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a>\> routeList)</span>
 
     </div>
 

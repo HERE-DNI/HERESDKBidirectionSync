@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
   <div class="col-first even-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
   <div class="col-first even-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
   <div class="col-first even-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">initialConnectionTimeout</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">initialConnectionTimeout</span>
 
     </div>
 
@@ -323,7 +323,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">connectionTimeoutRetryIncrease</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">connectionTimeoutRetryIncrease</span>
 
     </div>
 
@@ -341,7 +341,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">initialTransferTimeout</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">initialTransferTimeout</span>
 
     </div>
 
@@ -359,7 +359,7 @@ Defines the settings for the retry logic when connecting to the HERE routing bac
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">transferTimeoutRetryIncrease</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">transferTimeoutRetryIncrease</span>
 
     </div>
 

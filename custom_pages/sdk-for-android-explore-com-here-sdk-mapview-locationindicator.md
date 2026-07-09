@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-locationindicator"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.LocationIndicator → 
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LocationIndicator</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LocationIndicator</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -241,7 +241,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -263,7 +263,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocationIndicator.IndicatorStyle`](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">`LocationIndicator.IndicatorStyle`</a>
 
   </div>
 
@@ -285,7 +285,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MaterialReflectivity`](sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">`MaterialReflectivity`</a>
 
   </div>
 
@@ -635,7 +635,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">LocationIndicator</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="modifiers">public</span> <span class="element-name">LocationIndicator</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span>
 
     </div>
 
@@ -648,7 +648,7 @@ Graphical object to represent the location of the user on the map. It is either 
     Parameters:  
     `mapView` -
 
-    The [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") instance.
+    The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a> instance.
 
     </div>
 
@@ -662,7 +662,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enable</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enable</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span>
 
     </div>
 
@@ -675,7 +675,7 @@ Graphical object to represent the location of the user on the map. It is either 
     Parameters:  
     `mapView` -
 
-    The [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") instance.
+    The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a> instance.
 
     </div>
 
@@ -703,7 +703,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr></wbr><span class="parameters">(@NonNull [Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core") location)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span>
 
     </div>
 
@@ -726,7 +726,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr></wbr><span class="parameters">(@NonNull [Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core") location, @NonNull [MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview") cameraUpdate)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span>
 
     </div>
 
@@ -753,7 +753,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model, double scale, @NonNull [LocationIndicator.MarkerType](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype "enum class in com.here.sdk.mapview") type)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model, double scale, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</span>
 
     </div>
 
@@ -762,7 +762,7 @@ Graphical object to represent the location of the user on the map. It is either 
     <span class="deprecated-label">Deprecated.</span>
     <div class="deprecation-comment">
 
-    Will be removed in v4.27.0. Please use the overloaded method with [`RenderSize.Unit`](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") instead.
+    Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">`RenderSize.Unit`</a> instead.
 
     </div>
 
@@ -781,7 +781,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     `scale` -
 
-    The scaling which will be applied to the marker model. As the size of the location marker should be aligned on devices with different resolutions the scale factor is applied relative to the ppi value and thus differs from the scale which is passed to [`MapMarker3D`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview") objects. Meter is used for the unit of the map marker 3d model coordinate system. For historical reason, the scale factor is internally devided by 6. To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.
+    The scaling which will be applied to the marker model. As the size of the location marker should be aligned on devices with different resolutions the scale factor is applied relative to the ppi value and thus differs from the scale which is passed to <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">`MapMarker3D`</a> objects. Meter is used for the unit of the map marker 3d model coordinate system. For historical reason, the scale factor is internally devided by 6. To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.
 
     `type` -
 
@@ -795,7 +795,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model, double scale, @NonNull [LocationIndicator.MarkerType](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype "enum class in com.here.sdk.mapview") type, @NonNull [RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") renderSizeUnit)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model, double scale, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</span>
 
     </div>
 
@@ -808,7 +808,7 @@ Graphical object to represent the location of the user on the map. It is either 
     Parameters:  
     `model` -
 
-    The [`MapMarker3DModel`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") object to be displayed for the specified type. Only models created from `obj` files are supported. Those created from mesh will be ignored.
+    The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">`MapMarker3DModel`</a> object to be displayed for the specified type. Only models created from `obj` files are supported. Those created from mesh will be ignored.
 
     `scale` -
 
@@ -820,7 +820,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     `renderSizeUnit` -
 
-    The [`RenderSize.Unit`](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") specifying how the vertex coordinates of the 3D model are being interpreted. It specifies whether the 3D model is placed in world or screen coordinate space. [`RenderSize.Unit.METERS`](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#METERS) will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube will have a size of 10 by 10 by 10 meters in world space. [`RenderSize.Unit.PIXELS`](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#PIXELS) makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. A simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen. [`RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS`](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#DENSITY_INDEPENDENT_PIXELS) is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
+    The <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">`RenderSize.Unit`</a> specifying how the vertex coordinates of the 3D model are being interpreted. It specifies whether the 3D model is placed in world or screen coordinate space. <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#METERS">`RenderSize.Unit.METERS`</a> will make the 3D model use world coordinate space, meaning that it will change size together with the map when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube will have a size of 10 by 10 by 10 meters in world space. <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#PIXELS">`RenderSize.Unit.PIXELS`</a> makes the 3D model use screen coordinate space, meaning that it will have constant size on the screen regardless of how the map zoom changes. A simple 10 by 10 (in model space) rectangle will have a size of 10 by 10 pixels on the screen. <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#DENSITY_INDEPENDENT_PIXELS">`RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS`</a> is similar to pixels, but the resulting size will take into account the pixel density of the display, meaning that physical size on the screen will be approximately the same regardless of the size or resolution of the display.
 
     </div>
 
@@ -830,7 +830,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setHaloColor</span><wbr></wbr><span class="parameters">(@NonNull [LocationIndicator.IndicatorStyle](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview") style, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setHaloColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span>
 
     </div>
 
@@ -857,7 +857,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getHaloColor</span><wbr></wbr><span class="parameters">(@NonNull [LocationIndicator.IndicatorStyle](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview") style)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getHaloColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</span>
 
     </div>
 
@@ -927,7 +927,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocationIndicator.IndicatorStyle](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview")</span> <span class="element-name">getLocationIndicatorStyle</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></span> <span class="element-name">getLocationIndicatorStyle</span>()
 
     </div>
 
@@ -948,7 +948,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLocationIndicatorStyle</span><wbr></wbr><span class="parameters">(@NonNull [LocationIndicator.IndicatorStyle](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLocationIndicatorStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</span>
 
     </div>
 
@@ -1059,7 +1059,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[MaterialReflectivity](sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity "class in com.here.sdk.mapview")</span> <span class="element-name">getMaterialReflectivity</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></span> <span class="element-name">getMaterialReflectivity</span>()
 
     </div>
 
@@ -1080,7 +1080,7 @@ Graphical object to represent the location of the user on the map. It is either 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMaterialReflectivity</span><wbr></wbr><span class="parameters">(@Nullable [MaterialReflectivity](sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMaterialReflectivity</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</span>
 
     </div>
 

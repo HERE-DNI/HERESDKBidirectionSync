@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< SectionNoticeCode \> com.here.sdk.routing.Sec
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">`SectionNoticeCode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">SectionNoticeCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">SectionNoticeCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a>\></span>
 
 </div>
 
@@ -730,7 +730,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">`SectionNoticeCode`</a>
 
   </div>
 
@@ -752,7 +752,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">`SectionNoticeCode`</a>`[]`
 
   </div>
 
@@ -806,7 +806,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_CRITICAL_RULE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_CRITICAL_RULE</span>
 
     </div>
 
@@ -824,7 +824,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</span>
 
     </div>
 
@@ -842,7 +842,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_TOLL_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_TOLL_ROAD</span>
 
     </div>
 
@@ -860,7 +860,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_FERRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_FERRY</span>
 
     </div>
 
@@ -878,7 +878,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_TUNNEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_TUNNEL</span>
 
     </div>
 
@@ -896,7 +896,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_DIRT_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_DIRT_ROAD</span>
 
     </div>
 
@@ -914,7 +914,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_RAIL_FERRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_RAIL_FERRY</span>
 
     </div>
 
@@ -932,7 +932,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_PARK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_PARK</span>
 
     </div>
 
@@ -950,7 +950,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_BLOCKED_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_BLOCKED_ROAD</span>
 
     </div>
 
@@ -968,7 +968,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_START_DIRECTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_START_DIRECTION</span>
 
     </div>
 
@@ -986,7 +986,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_CARPOOL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_CARPOOL</span>
 
     </div>
 
@@ -1004,7 +1004,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_TURN_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_TURN_RESTRICTION</span>
 
     </div>
 
@@ -1022,7 +1022,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_VEHICLE_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_VEHICLE_RESTRICTION</span>
 
     </div>
 
@@ -1040,7 +1040,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_ZONE_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_ZONE_RESTRICTION</span>
 
     </div>
 
@@ -1058,7 +1058,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_U_TURNS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_U_TURNS</span>
 
     </div>
 
@@ -1076,7 +1076,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_EMERGENCY_GATE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_EMERGENCY_GATE</span>
 
     </div>
 
@@ -1094,7 +1094,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_SEASONAL_CLOSURE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_SEASONAL_CLOSURE</span>
 
     </div>
 
@@ -1112,7 +1112,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_TRUCK_ROAD_TYPE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_TRUCK_ROAD_TYPE</span>
 
     </div>
 
@@ -1130,7 +1130,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_TOLL_TRANSPONDER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_TOLL_TRANSPONDER</span>
 
     </div>
 
@@ -1148,7 +1148,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_CHARGING_STATION_OPENING_HOURS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_CHARGING_STATION_OPENING_HOURS</span>
 
     </div>
 
@@ -1166,7 +1166,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_AVOID_DIFFICULT_TURNS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_AVOID_DIFFICULT_TURNS</span>
 
     </div>
 
@@ -1184,7 +1184,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">SEASONAL_CLOSURE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">SEASONAL_CLOSURE</span>
 
     </div>
 
@@ -1202,7 +1202,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">TOLL_TRANSPONDER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">TOLL_TRANSPONDER</span>
 
     </div>
 
@@ -1220,7 +1220,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">TOLLS_DATA_UNAVAILABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">TOLLS_DATA_UNAVAILABLE</span>
 
     </div>
 
@@ -1238,7 +1238,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">TOLLS_DATA_TEMPORARILY_UNAVAILABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">TOLLS_DATA_TEMPORARILY_UNAVAILABLE</span>
 
     </div>
 
@@ -1256,7 +1256,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">CHARGING_STOP_NOT_NEEDED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">CHARGING_STOP_NOT_NEEDED</span>
 
     </div>
 
@@ -1274,7 +1274,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_SCHEDULE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">NO_SCHEDULE</span>
 
     </div>
 
@@ -1292,7 +1292,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_INTERMEDIATE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">NO_INTERMEDIATE</span>
 
     </div>
 
@@ -1310,7 +1310,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">UNWANTED_MODE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">UNWANTED_MODE</span>
 
     </div>
 
@@ -1328,7 +1328,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">SCHEDULED_TIMES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">SCHEDULED_TIMES</span>
 
     </div>
 
@@ -1346,7 +1346,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">SIMPLE_POLYLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">SIMPLE_POLYLINE</span>
 
     </div>
 
@@ -1364,7 +1364,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">POTENTIAL_CARPOOL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">POTENTIAL_CARPOOL</span>
 
     </div>
 
@@ -1382,7 +1382,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">POTENTIAL_TURN_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">POTENTIAL_TURN_RESTRICTION</span>
 
     </div>
 
@@ -1400,7 +1400,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">POTENTIAL_VEHICLE_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">POTENTIAL_VEHICLE_RESTRICTION</span>
 
     </div>
 
@@ -1418,7 +1418,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">POTENTIAL_ZONE_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">POTENTIAL_ZONE_RESTRICTION</span>
 
     </div>
 
@@ -1436,7 +1436,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_FIRST_CS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_FIRST_CS</span>
 
     </div>
 
@@ -1454,7 +1454,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_CS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_CS</span>
 
     </div>
 
@@ -1472,7 +1472,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_DESTINATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">VIOLATED_MIN_CHARGE_AT_DESTINATION</span>
 
     </div>
 
@@ -1490,7 +1490,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_THROUGH_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">NO_THROUGH_RESTRICTION</span>
 
     </div>
 
@@ -1512,7 +1512,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1533,7 +1533,7 @@ Notice codes which point the issues encountered during processing of a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -143,7 +143,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
   <div class="col-first even-row-color">
 
-  [`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">`UsageStats.Feature`</a>
 
   </div>
 
@@ -165,7 +165,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`UsageStats.NetworkStats`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats" title="class in com.here.sdk.core.engine">`UsageStats.NetworkStats`</a>`>`
 
   </div>
 
@@ -253,7 +253,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")\></span> <span class="element-name">networkStats</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>\></span> <span class="element-name">networkStats</span>
 
     </div>
 
@@ -271,7 +271,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">feature</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">feature</span>
 
     </div>
 
@@ -293,7 +293,7 @@ A class that gathers statistics of the HERE SDK network usage for uploaded and d
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">UsageStats</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")\> networkStats, @NonNull [UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine") feature)</span>
+    <span class="modifiers">public</span> <span class="element-name">UsageStats</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>\> networkStats, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> feature)</span>
 
     </div>
 

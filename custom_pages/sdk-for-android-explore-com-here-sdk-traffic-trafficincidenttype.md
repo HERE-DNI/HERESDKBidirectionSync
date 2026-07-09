@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< TrafficIncidentType \> com.here.sdk.traffic.T
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">`TrafficIncidentType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">TrafficIncidentType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">TrafficIncidentType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>\></span>
 
 </div>
 
@@ -298,7 +298,7 @@ Category of a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">`TrafficIncidentType`</a>
 
   </div>
 
@@ -320,7 +320,7 @@ Category of a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">`TrafficIncidentType`</a>`[]`
 
   </div>
 
@@ -374,7 +374,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">ACCIDENT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">ACCIDENT</span>
 
     </div>
 
@@ -392,7 +392,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">CONGESTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">CONGESTION</span>
 
     </div>
 
@@ -410,7 +410,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">CONSTRUCTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">CONSTRUCTION</span>
 
     </div>
 
@@ -428,7 +428,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">DISABLED_VEHICLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">DISABLED_VEHICLE</span>
 
     </div>
 
@@ -446,7 +446,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">MASS_TRANSIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">MASS_TRANSIT</span>
 
     </div>
 
@@ -464,7 +464,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">PLANNED_EVENT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">PLANNED_EVENT</span>
 
     </div>
 
@@ -482,7 +482,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">ROAD_HAZARD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">ROAD_HAZARD</span>
 
     </div>
 
@@ -500,7 +500,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">WEATHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">WEATHER</span>
 
     </div>
 
@@ -518,7 +518,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">ROAD_CLOSURE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">ROAD_CLOSURE</span>
 
     </div>
 
@@ -536,7 +536,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">LANE_RESTRICTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">LANE_RESTRICTION</span>
 
     </div>
 
@@ -554,7 +554,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">OTHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">OTHER</span>
 
     </div>
 
@@ -572,7 +572,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">UNKNOWN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">UNKNOWN</span>
 
     </div>
 
@@ -594,7 +594,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -615,7 +615,7 @@ Category of a traffic incident.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

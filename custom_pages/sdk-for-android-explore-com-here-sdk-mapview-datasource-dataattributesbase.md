@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbas
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbas
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`DataAttributes`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource"), [`DataAttributesAccessor`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor "class in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">`DataAttributes`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">`DataAttributesAccessor`</a>
 
 <div class="type-signature">
 
@@ -214,7 +214,7 @@ Interface for a collection of data attributes. Note: This is a beta release of t
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">`DataAttributeValue`</a>
 
   </div>
 
@@ -236,7 +236,7 @@ Interface for a collection of data attributes. Note: This is a beta release of t
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`DataAttributeValue.ValueType`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">`DataAttributeValue.ValueType`</a>
 
   </div>
 
@@ -293,7 +293,7 @@ Interface for a collection of data attributes. Note: This is a beta release of t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="return-type">[DataAttributeValue.ValueType](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getValueType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getValueType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -475,7 +475,7 @@ Interface for a collection of data attributes. Note: This is a beta release of t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="return-type">[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></span> <span class="element-name">getValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[IconProvider](sdk-for-android-explore-com-here-sdk-mapview-iconprovider "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider" title="class in com.here.sdk.mapview">IconProvider</a>
 
 <!-- -->
 
@@ -101,7 +101,7 @@ Interface which is used as callback to pass back an image or error code after ca
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onCreateIconReply</span><wbr></wbr><span class="parameters">(@Nullable android.graphics.Bitmap bitmap, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable [IconProviderError](sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror "enum class in com.here.sdk.mapview") error)</span>
+    <span class="return-type">void</span> <span class="element-name">onCreateIconReply</span><wbr></wbr><span class="parameters">(@Nullable android.graphics.Bitmap bitmap, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</span>
 
     </div>
 

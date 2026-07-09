@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-trucktype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< TruckType \> com.here.sdk.transport.TruckType
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public enum </span><span class="element-name type-name-label">TruckType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")\></span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public enum </span><span class="element-name type-name-label">TruckType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a>\></span>
 
 </div>
 
@@ -162,7 +162,7 @@ Specifies the type of truck.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 
-  `static `[`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>
 
   </div>
 
@@ -190,7 +190,7 @@ Specifies the type of truck.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 
-  `static `[`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>`[]`
 
   </div>
 
@@ -250,7 +250,7 @@ Specifies the type of truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">STRAIGHT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">STRAIGHT</span>
 
     </div>
 
@@ -274,7 +274,7 @@ Specifies the type of truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">TRACTOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">TRACTOR</span>
 
     </div>
 
@@ -302,7 +302,7 @@ Specifies the type of truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -329,7 +329,7 @@ Specifies the type of truck.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.TrafficIncidentOnRoute
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficIncidentOnRoute</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficIncidentOnRoute</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></span>
 
 </div>
 
@@ -66,7 +66,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">`LocalizedText`</a>
 
   </div>
 
@@ -132,7 +132,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TrafficIncidentImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">`TrafficIncidentImpact`</a>
 
   </div>
 
@@ -176,7 +176,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">`TrafficIncidentType`</a>
 
   </div>
 
@@ -241,7 +241,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()
 
     </div>
 
@@ -252,7 +252,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
     </div>
 
     Specified by:  
-    [`getImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getImpact()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getImpact(">`getImpact`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
     Returns:  
     The impact of the incident.
@@ -265,7 +265,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()
 
     </div>
 
@@ -276,7 +276,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
     </div>
 
     Specified by:  
-    [`getType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getType()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getType(">`getType`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
     Returns:  
     The category of the incident.
@@ -289,7 +289,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()
 
     </div>
 
@@ -300,7 +300,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
     </div>
 
     Specified by:  
-    [`getDescription`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getDescription()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getDescription(">`getDescription`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
     Returns:  
     The human readable description of the incident, possibly with location information.
@@ -324,7 +324,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
     </div>
 
     Specified by:  
-    [`getStartTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getStartTime()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getStartTime(">`getStartTime`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
     Returns:  
     The time from which the incident is valid, before this time the incident should not be considered.
@@ -348,7 +348,7 @@ Traffic incidents on a route. Use Section.getTrafficIncidents() to get a list of
     </div>
 
     Specified by:  
-    [`getEndTime`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getEndTime()) in interface [`TrafficIncidentBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getEndTime(">`getEndTime`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">`TrafficIncidentBase`</a>
 
     Returns:  
     The time until which the incident is valid, after this time the incident should not be considered.

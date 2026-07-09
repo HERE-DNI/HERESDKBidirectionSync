@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-details"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">`PlaceCategory`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Contact`](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">`Contact`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WebEditorial`](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">`WebEditorial`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  [`EVChargingLocation`](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">`EVChargingLocation`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  [`EVChargingPool`](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">`EVChargingPool`</a>
 
   </div>
 
@@ -177,7 +177,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PlaceFoodType`](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">`PlaceFoodType`</a>`>`
 
   </div>
 
@@ -199,7 +199,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  [`FuelStation`](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">`FuelStation`</a>
 
   </div>
 
@@ -221,7 +221,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WebImage`](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">`WebImage`</a>`>`
 
   </div>
 
@@ -243,7 +243,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`OpeningHours`](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">`OpeningHours`</a>`>`
 
   </div>
 
@@ -265,7 +265,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  [`POIPaymentDetails`](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">`POIPaymentDetails`</a>
 
   </div>
 
@@ -287,7 +287,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WebRating`](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">`WebRating`</a>`>`
 
   </div>
 
@@ -309,7 +309,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`SupplierReference`](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">`SupplierReference`</a>`>`
 
   </div>
 
@@ -331,7 +331,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first even-row-color">
 
-  [`TruckAmenities`](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">`TruckAmenities`</a>
 
   </div>
 
@@ -537,7 +537,7 @@ Contains details of a specific place, such as contact information, opening hours
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">`PlaceCategory`</a>`>`
 
   </div>
 
@@ -599,7 +599,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\></span> <span class="element-name">contacts</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\></span> <span class="element-name">contacts</span>
 
     </div>
 
@@ -617,7 +617,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\></span> <span class="element-name">openingHours</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\></span> <span class="element-name">openingHours</span>
 
     </div>
 
@@ -635,7 +635,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -653,7 +653,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\></span> <span class="element-name">images</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\></span> <span class="element-name">images</span>
 
     </div>
 
@@ -671,7 +671,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\></span> <span class="element-name">editorials</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\></span> <span class="element-name">editorials</span>
 
     </div>
 
@@ -689,7 +689,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\></span> <span class="element-name">ratings</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\></span> <span class="element-name">ratings</span>
 
     </div>
 
@@ -707,7 +707,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\></span> <span class="element-name">references</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\></span> <span class="element-name">references</span>
 
     </div>
 
@@ -725,7 +725,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search")</span> <span class="element-name">evChargingPool</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></span> <span class="element-name">evChargingPool</span>
 
     </div>
 
@@ -743,7 +743,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search")</span> <span class="element-name">truckAmenities</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a></span> <span class="element-name">truckAmenities</span>
 
     </div>
 
@@ -761,7 +761,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search")</span> <span class="element-name">fuelStation</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a></span> <span class="element-name">fuelStation</span>
 
     </div>
 
@@ -779,7 +779,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\></span> <span class="element-name">foodTypes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>\></span> <span class="element-name">foodTypes</span>
 
     </div>
 
@@ -797,7 +797,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search")</span> <span class="element-name">payment</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a></span> <span class="element-name">payment</span>
 
     </div>
 
@@ -815,7 +815,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")</span> <span class="element-name">evChargingLocation</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a></span> <span class="element-name">evChargingLocation</span>
 
     </div>
 
@@ -837,7 +837,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references)</span>
 
     </div>
 
@@ -850,11 +850,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -862,15 +862,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -884,7 +884,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool)</span>
 
     </div>
 
@@ -897,11 +897,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -909,15 +909,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -925,7 +925,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -945,7 +945,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool, @Nullable [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search") truckAmenities)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a> truckAmenities)</span>
 
     </div>
 
@@ -958,11 +958,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -970,15 +970,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -986,7 +986,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1000,7 +1000,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `truckAmenities` -
 
-    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1020,7 +1020,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool, @Nullable [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search") truckAmenities, @Nullable [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a> truckAmenities, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a> fuelStation)</span>
 
     </div>
 
@@ -1033,11 +1033,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -1045,15 +1045,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -1061,7 +1061,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1075,7 +1075,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `truckAmenities` -
 
-    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1089,7 +1089,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `fuelStation` -
 
-    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1109,7 +1109,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool, @Nullable [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search") truckAmenities, @Nullable [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a> truckAmenities, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a> fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>\> foodTypes)</span>
 
     </div>
 
@@ -1122,11 +1122,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -1134,15 +1134,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -1150,7 +1150,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1164,7 +1164,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `truckAmenities` -
 
-    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1178,7 +1178,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `fuelStation` -
 
-    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1202,7 +1202,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool, @Nullable [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search") truckAmenities, @Nullable [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes, @Nullable [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search") payment)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a> truckAmenities, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a> fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>\> foodTypes, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a> payment)</span>
 
     </div>
 
@@ -1215,11 +1215,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -1227,15 +1227,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -1243,7 +1243,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1257,7 +1257,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `truckAmenities` -
 
-    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1271,7 +1271,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `fuelStation` -
 
-    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1299,7 +1299,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")\> references, @Nullable [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search") evChargingPool, @Nullable [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search") truckAmenities, @Nullable [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search") fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")\> foodTypes, @Nullable [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search") payment, @Nullable [EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search") evChargingLocation)</span>
+    <span class="modifiers">public</span> <span class="element-name">Details</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>\> contacts, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>\> openingHours, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\> categories, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>\> images, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>\> editorials, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>\> ratings, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>\> references, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a> evChargingPool, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a> truckAmenities, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a> fuelStation, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>\> foodTypes, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a> payment, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a> evChargingLocation)</span>
 
     </div>
 
@@ -1312,11 +1312,11 @@ Contains details of a specific place, such as contact information, opening hours
     Parameters:  
     `contacts` -
 
-    The list of contact information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of contact information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `openingHours` -
 
-    The list of opening hours information of the place. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of opening hours information of the place. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `categories` -
 
@@ -1324,15 +1324,15 @@ Contains details of a specific place, such as contact information, opening hours
 
     `images` -
 
-    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of images associated with the place. The images are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `editorials` -
 
-    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of editorials associated with the place. The editorials are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `ratings` -
 
-    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of [`Suggestion`](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search") results.
+    The list of ratings associated with the place. The ratings are provided by external suppliers and are only available to users with valid contracts with said suppliers. If the user has no such contracts, the list is empty. **Note:** Not available as part of <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">`Suggestion`</a> results.
 
     `references` -
 
@@ -1340,7 +1340,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `evChargingPool` -
 
-    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.EV`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). For online search, this feature is only available if it is explicitly enabled. To do that, call
+    EV charging pool details. It is available only for a place that is a charging pool for electric vehicles. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">`LayerConfiguration.Feature.EV`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1354,7 +1354,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `truckAmenities` -
 
-    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Additional information that is available only for places that contain truck amenities. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">`LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1368,7 +1368,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     `fuelStation` -
 
-    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that [`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES) is enabled in [`SDKOptions.layerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration). **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a [`SearchError.FORBIDDEN`](sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN) will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
+    Fuel station details. It is available only if a place is a fuel station and contain fuel data. It is fully supported for offline search, provided that <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">`LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES`</a> is enabled in <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#layerConfiguration">`SDKOptions.layerConfiguration`</a>. **Note:** Currently, for online search, this is a closed-alpha feature, so it is available only for selected customers. The field is always null for everyone that is not part of the closed-alpha group. Participants of the closed-alpha group can get access from HERE to use this feature. If the credentials are not enabled, a <a href="sdk-for-android-explore-com-here-sdk-search-searcherror#FORBIDDEN">`SearchError.FORBIDDEN`</a> will be propagated. For online search, this feature is only available if it is explicitly enabled. To do that, call
 
         SearchEngine.set_custom_option()
 
@@ -1434,7 +1434,7 @@ Contains details of a specific place, such as contact information, opening hours
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">getPrimaryCategories</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\></span> <span class="element-name">getPrimaryCategories</span>()
 
     </div>
 

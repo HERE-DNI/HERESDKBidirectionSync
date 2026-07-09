@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a>
 
 </div>
 
@@ -94,7 +94,7 @@ Interface for handling two finger pan gestures. Two finger pan gesture occurs wh
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTwoFingerPan</span><wbr></wbr><span class="parameters">(@NonNull [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures") state, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") translation, double velocity)</span>
+    <span class="return-type">void</span> <span class="element-name">onTwoFingerPan</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> translation, double velocity)</span>
 
     </div>
 

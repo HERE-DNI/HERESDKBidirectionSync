@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVChargingConnectorFormat](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a>
 
   </div>
 
@@ -47,7 +47,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingConnectorType](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype "class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a>
 
   </div>
 
@@ -63,7 +63,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVSECapability](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>
 
   </div>
 
@@ -79,7 +79,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>
 
   </div>
 
@@ -95,7 +95,7 @@ package <span class="element-name">com.here.sdk.ev</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a>
 
   </div>
 

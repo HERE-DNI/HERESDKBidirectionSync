@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcel
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -133,7 +133,7 @@ Listener for RasterDataSource events.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><wbr></wbr><span class="parameters">(@NonNull [RasterDataSourceError](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror "enum class in com.here.sdk.mapview.datasource") dataSourceError)</span>
+    <span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</span>
 
     </div>
 

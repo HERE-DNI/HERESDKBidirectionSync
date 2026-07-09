@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtime"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -89,7 +89,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
   <div class="col-first odd-row-color">
 
-  `final `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `final `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -297,7 +297,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">utcOffset</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">utcOffset</span>
 
     </div>
 
@@ -319,7 +319,7 @@ This struct presents all the time data tied to a location, like an arrival or de
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">LocationTime</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> localTime, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> utcTime, @NonNull [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") utcOffset)</span>
+    <span class="modifiers">public</span> <span class="element-name">LocationTime</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> localTime, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> utcTime, @NonNull <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> utcOffset)</span>
 
     </div>
 

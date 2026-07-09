@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-lockingprocess"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.LockingProcess →
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LockingProcess</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LockingProcess</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -175,7 +175,7 @@ LockingProcess helps to detect situations when cache is locked with another proc
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
 
     </div>
 
@@ -217,7 +217,7 @@ LockingProcess helps to detect situations when cache is locked with another proc
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
 
     </div>
 
@@ -247,7 +247,7 @@ LockingProcess helps to detect situations when cache is locked with another proc
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") sdkOptions, long maxTimeoutInMilliseconds)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions, long maxTimeoutInMilliseconds)</span>
 
     </div>
 
@@ -290,7 +290,7 @@ LockingProcess helps to detect situations when cache is locked with another proc
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") sdkOptions, long maxTimeoutInMilliseconds)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context context, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions, long maxTimeoutInMilliseconds)</span>
 
     </div>
 

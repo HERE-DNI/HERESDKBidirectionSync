@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
   </div>
 
@@ -49,7 +49,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
   </div>
 
@@ -61,7 +61,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
 
   </div>
 
@@ -73,7 +73,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
 
   </div>
 
@@ -105,7 +105,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [OnTaskCompleted](sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a>
 
   </div>
 
@@ -121,7 +121,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PlatformThreading](sdk-for-android-explore-com-here-sdk-core-threading-platformthreading "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a>
 
   </div>
 
@@ -137,7 +137,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a>
 
   </div>
 
@@ -153,7 +153,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a>
 
   </div>
 
@@ -169,7 +169,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TaskOutcome](sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome "enum class in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a>
 
   </div>
 
@@ -185,7 +185,7 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Threading](sdk-for-android-explore-com-here-sdk-core-threading-threading "class in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-threading" title="class in com.here.sdk.core.threading">Threading</a>
 
   </div>
 

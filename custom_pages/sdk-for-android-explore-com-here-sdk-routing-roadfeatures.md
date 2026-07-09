@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-roadfeatures"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< RoadFeatures \> com.here.sdk.routing.RoadFeat
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`RoadFeatures`](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">`RoadFeatures`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">RoadFeatures</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">RoadFeatures</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a>\></span>
 
 </div>
 
@@ -234,7 +234,7 @@ Road features or states.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`RoadFeatures`](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">`RoadFeatures`</a>
 
   </div>
 
@@ -256,7 +256,7 @@ Road features or states.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`RoadFeatures`](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">`RoadFeatures`</a>`[]`
 
   </div>
 
@@ -310,7 +310,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">SEASONAL_CLOSURE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">SEASONAL_CLOSURE</span>
 
     </div>
 
@@ -328,7 +328,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">TOLL_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">TOLL_ROAD</span>
 
     </div>
 
@@ -346,7 +346,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span>
 
     </div>
 
@@ -364,7 +364,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">FERRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">FERRY</span>
 
     </div>
 
@@ -382,7 +382,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">CAR_SHUTTLE_TRAIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">CAR_SHUTTLE_TRAIN</span>
 
     </div>
 
@@ -400,7 +400,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">TUNNEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">TUNNEL</span>
 
     </div>
 
@@ -418,7 +418,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">DIRT_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">DIRT_ROAD</span>
 
     </div>
 
@@ -436,7 +436,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">U_TURNS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">U_TURNS</span>
 
     </div>
 
@@ -458,7 +458,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -479,7 +479,7 @@ Road features or states.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

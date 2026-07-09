@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.P
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[RasterDataSourceConfiguration](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration "class in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a>
 
 <div class="type-signature">
 
@@ -136,7 +136,7 @@ Configuration of a data provider.
 
   <div class="col-first odd-row-color">
 
-  [`TilingScheme`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">`TilingScheme`</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Configuration of a data provider.
 
   <div class="col-first even-row-color">
 
-  [`TileUrlProviderCallback`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">`TileUrlProviderCallback`</a>
 
   </div>
 
@@ -263,7 +263,7 @@ Configuration of a data provider.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TileUrlProviderCallback](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource")</span> <span class="element-name">urlProvider</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">urlProvider</span>
 
     </div>
 
@@ -281,7 +281,7 @@ Configuration of a data provider.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">tilingScheme</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">tilingScheme</span>
 
     </div>
 
@@ -357,7 +357,7 @@ Configuration of a data provider.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Provider</span><wbr></wbr><span class="parameters">(@NonNull [TileUrlProviderCallback](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource") urlProvider, @NonNull [TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource") tilingScheme, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> storageLevels, boolean hasAlphaChannel, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> headers)</span>
+    <span class="modifiers">public</span> <span class="element-name">Provider</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> storageLevels, boolean hasAlphaChannel, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> headers)</span>
 
     </div>
 
@@ -396,7 +396,7 @@ Configuration of a data provider.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Provider</span><wbr></wbr><span class="parameters">(@NonNull [TileUrlProviderCallback](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource") urlProvider, @NonNull [TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource") tilingScheme, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> storageLevels)</span>
+    <span class="modifiers">public</span> <span class="element-name">Provider</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a> urlProvider, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> storageLevels)</span>
 
     </div>
 

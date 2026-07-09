@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficdataprovider"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.traffic.TrafficDataProvider �
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficDataProvider</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficDataProvider</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 

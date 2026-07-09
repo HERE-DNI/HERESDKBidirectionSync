@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.PlaceCategory → com.h
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">PlaceCategory</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PlaceCategory</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -1798,7 +1798,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">Constant Field Values</a>
 
     </div>
 
@@ -1819,7 +1819,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">Constant Field Values</a>
 
     </div>
 
@@ -1840,7 +1840,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">Constant Field Values</a>
 
     </div>
 
@@ -1861,7 +1861,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">Constant Field Values</a>
 
     </div>
 
@@ -1882,7 +1882,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">Constant Field Values</a>
 
     </div>
 
@@ -1903,7 +1903,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">Constant Field Values</a>
 
     </div>
 
@@ -1924,7 +1924,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">Constant Field Values</a>
 
     </div>
 
@@ -1945,7 +1945,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">Constant Field Values</a>
 
     </div>
 
@@ -1966,7 +1966,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">Constant Field Values</a>
 
     </div>
 
@@ -1987,7 +1987,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">Constant Field Values</a>
 
     </div>
 
@@ -2008,7 +2008,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">Constant Field Values</a>
 
     </div>
 
@@ -2029,7 +2029,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">Constant Field Values</a>
 
     </div>
 
@@ -2050,7 +2050,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">Constant Field Values</a>
 
     </div>
 
@@ -2071,7 +2071,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">Constant Field Values</a>
 
     </div>
 
@@ -2092,7 +2092,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">Constant Field Values</a>
 
     </div>
 
@@ -2113,7 +2113,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">Constant Field Values</a>
 
     </div>
 
@@ -2134,7 +2134,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">Constant Field Values</a>
 
     </div>
 
@@ -2155,7 +2155,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">Constant Field Values</a>
 
     </div>
 
@@ -2176,7 +2176,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT">Constant Field Values</a>
 
     </div>
 
@@ -2197,7 +2197,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">Constant Field Values</a>
 
     </div>
 
@@ -2218,7 +2218,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">Constant Field Values</a>
 
     </div>
 
@@ -2239,7 +2239,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">Constant Field Values</a>
 
     </div>
 
@@ -2260,7 +2260,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">Constant Field Values</a>
 
     </div>
 
@@ -2281,7 +2281,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION">Constant Field Values</a>
 
     </div>
 
@@ -2302,7 +2302,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">Constant Field Values</a>
 
     </div>
 
@@ -2323,7 +2323,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">Constant Field Values</a>
 
     </div>
 
@@ -2344,7 +2344,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">Constant Field Values</a>
 
     </div>
 
@@ -2365,7 +2365,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">Constant Field Values</a>
 
     </div>
 
@@ -2386,7 +2386,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER">Constant Field Values</a>
 
     </div>
 
@@ -2407,7 +2407,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING">Constant Field Values</a>
 
     </div>
 
@@ -2428,7 +2428,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">Constant Field Values</a>
 
     </div>
 
@@ -2449,7 +2449,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">Constant Field Values</a>
 
     </div>
 
@@ -2470,7 +2470,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">Constant Field Values</a>
 
     </div>
 
@@ -2491,7 +2491,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">Constant Field Values</a>
 
     </div>
 
@@ -2512,7 +2512,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">Constant Field Values</a>
 
     </div>
 
@@ -2533,7 +2533,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">Constant Field Values</a>
 
     </div>
 
@@ -2554,7 +2554,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">Constant Field Values</a>
 
     </div>
 
@@ -2575,7 +2575,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">Constant Field Values</a>
 
     </div>
 
@@ -2596,7 +2596,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">Constant Field Values</a>
 
     </div>
 
@@ -2617,7 +2617,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">Constant Field Values</a>
 
     </div>
 
@@ -2638,7 +2638,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">Constant Field Values</a>
 
     </div>
 
@@ -2659,7 +2659,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">Constant Field Values</a>
 
     </div>
 
@@ -2680,7 +2680,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">Constant Field Values</a>
 
     </div>
 
@@ -2701,7 +2701,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">Constant Field Values</a>
 
     </div>
 
@@ -2722,7 +2722,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">Constant Field Values</a>
 
     </div>
 
@@ -2743,7 +2743,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">Constant Field Values</a>
 
     </div>
 
@@ -2764,7 +2764,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">Constant Field Values</a>
 
     </div>
 
@@ -2785,7 +2785,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">Constant Field Values</a>
 
     </div>
 
@@ -2806,7 +2806,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">Constant Field Values</a>
 
     </div>
 
@@ -2827,7 +2827,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">Constant Field Values</a>
 
     </div>
 
@@ -2848,7 +2848,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">Constant Field Values</a>
 
     </div>
 
@@ -2869,7 +2869,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">Constant Field Values</a>
 
     </div>
 
@@ -2890,7 +2890,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">Constant Field Values</a>
 
     </div>
 
@@ -2911,7 +2911,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">Constant Field Values</a>
 
     </div>
 
@@ -2932,7 +2932,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">Constant Field Values</a>
 
     </div>
 
@@ -2953,7 +2953,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">Constant Field Values</a>
 
     </div>
 
@@ -2974,7 +2974,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">Constant Field Values</a>
 
     </div>
 
@@ -2995,7 +2995,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">Constant Field Values</a>
 
     </div>
 
@@ -3016,7 +3016,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">Constant Field Values</a>
 
     </div>
 
@@ -3037,7 +3037,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES">Constant Field Values</a>
 
     </div>
 
@@ -3058,7 +3058,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">Constant Field Values</a>
 
     </div>
 
@@ -3079,7 +3079,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">Constant Field Values</a>
 
     </div>
 
@@ -3100,7 +3100,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">Constant Field Values</a>
 
     </div>
 
@@ -3121,7 +3121,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">Constant Field Values</a>
 
     </div>
 
@@ -3142,7 +3142,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">Constant Field Values</a>
 
     </div>
 
@@ -3163,7 +3163,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">Constant Field Values</a>
 
     </div>
 
@@ -3184,7 +3184,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">Constant Field Values</a>
 
     </div>
 
@@ -3205,7 +3205,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">Constant Field Values</a>
 
     </div>
 
@@ -3226,7 +3226,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">Constant Field Values</a>
 
     </div>
 
@@ -3247,7 +3247,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">Constant Field Values</a>
 
     </div>
 
@@ -3268,7 +3268,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">Constant Field Values</a>
 
     </div>
 
@@ -3289,7 +3289,7 @@ Represents a category of place with different levels of granularity. This class 
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">Constant Field Values</a>
 
     </div>
 
@@ -3320,7 +3320,7 @@ Represents a category of place with different levels of granularity. This class 
 
     1.  Level 1 represents high level groupings, such as "Eat and drink". Their IDs take the form "xxx", for example "100".
     2.  Level 2 represents logical sub-groups or domains, such as "Eat and Drink / Restaurant". Their IDs take the form "xxx-xxxx", for example "100-1000".
-    3.  Level 3 provides the greatest level of granularity about place categorization, such as "Eat and Drink / Restaurant / Casual Dining". Their IDs take the form "xxx-xxxx-xxxx", for example "100-1000-0001". The category ID can be provided as one of the predefined values, such as [`EAT_AND_DRINK_RESTAURANT`](sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT) or as a literal string that matches one of the category IDs defined by the HERE Search service. Only level 1 and 2 category IDs are predefined. The complete list of supported category IDs, including level 3, can be found online: https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html.
+    3.  Level 3 provides the greatest level of granularity about place categorization, such as "Eat and Drink / Restaurant / Casual Dining". Their IDs take the form "xxx-xxxx-xxxx", for example "100-1000-0001". The category ID can be provided as one of the predefined values, such as <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT">`EAT_AND_DRINK_RESTAURANT`</a> or as a literal string that matches one of the category IDs defined by the HERE Search service. Only level 1 and 2 category IDs are predefined. The complete list of supported category IDs, including level 3, can be found online: https://www.here.com/docs/bundle/geocoding-and-search-api-v7-api-reference/page/index.html.
 
     </p>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -93,7 +93,7 @@ A listener for animation events.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onAnimationStateChanged</span><wbr></wbr><span class="parameters">(@NonNull [AnimationState](sdk-for-android-explore-com-here-sdk-animation-animationstate "enum class in com.here.sdk.animation") state)</span>
+    <span class="return-type">void</span> <span class="element-name">onAnimationStateChanged</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-animationstate" title="enum class in com.here.sdk.animation">AnimationState</a> state)</span>
 
     </div>
 

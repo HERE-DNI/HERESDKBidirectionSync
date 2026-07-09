@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.CatalogVersionHint
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogVersionHint</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogVersionHint</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ This is a class for capturing user's intent for the desired catalog version to u
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">`CatalogVersionHint`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ This is a class for capturing user's intent for the desired catalog version to u
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">`CatalogVersionHint`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ This is a class for capturing user's intent for the desired catalog version to u
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[CatalogVersionHint](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")</span> <span class="element-name">specific</span><wbr></wbr><span class="parameters">(long version)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">specific</span><wbr></wbr><span class="parameters">(long version)</span>
 
     </div>
 
@@ -145,7 +145,7 @@ This is a class for capturing user's intent for the desired catalog version to u
     An integer value indicating the version of catalog desired. If the desired version does not exist, the HERE platform will make the best effort to provide an appropriate version or result in error logs about invalid version.
 
     Returns:  
-    Instance of [`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine") with specified version.
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">`CatalogVersionHint`</a> with specified version.
 
     </div>
 
@@ -155,7 +155,7 @@ This is a class for capturing user's intent for the desired catalog version to u
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[CatalogVersionHint](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")</span> <span class="element-name">latest</span><wbr></wbr><span class="parameters">(boolean ignoreCachedData)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></span> <span class="element-name">latest</span><wbr></wbr><span class="parameters">(boolean ignoreCachedData)</span>
 
     </div>
 
@@ -177,7 +177,7 @@ This is a class for capturing user's intent for the desired catalog version to u
     </p>
 
     Returns:  
-    Instance of [`CatalogVersionHint`](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine").
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">`CatalogVersionHint`</a>.
 
     </div>
 

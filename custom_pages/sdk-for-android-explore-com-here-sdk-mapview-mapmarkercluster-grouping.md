@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapMarkerCluster.Grouping → com.here.sdk
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMarker`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">`MapMarker`</a>`>`
 
   </div>
 
@@ -92,7 +92,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
   <div class="col-first odd-row-color">
 
-  [`MapMarkerCluster`](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">`MapMarkerCluster`</a>
 
   </div>
 
@@ -180,7 +180,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\></span> <span class="element-name">markers</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>\></span> <span class="element-name">markers</span>
 
     </div>
 
@@ -198,7 +198,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")</span> <span class="element-name">parent</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></span> <span class="element-name">parent</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Grouping</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers, @NonNull [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview") parent)</span>
+    <span class="modifiers">public</span> <span class="element-name">Grouping</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>\> markers, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> parent)</span>
 
     </div>
 
@@ -237,7 +237,7 @@ Represents a group of map markers belonging to a cluster. It contains a list of 
 
     `parent` -
 
-    Map marker cluster that entries in [`markers`](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping#markers) belong to.
+    Map marker cluster that entries in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping#markers">`markers`</a> belong to.
 
     </div>
 

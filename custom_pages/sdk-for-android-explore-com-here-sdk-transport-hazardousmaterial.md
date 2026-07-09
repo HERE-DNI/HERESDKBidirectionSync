@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< HazardousMaterial \> com.here.sdk.transport.H
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">HazardousMaterial</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">HazardousMaterial</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\></span>
 
 </div>
 
@@ -282,7 +282,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>
 
   </div>
 
@@ -304,7 +304,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`[]`
 
   </div>
 
@@ -358,7 +358,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">EXPLOSIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">EXPLOSIVE</span>
 
     </div>
 
@@ -376,7 +376,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">GAS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">GAS</span>
 
     </div>
 
@@ -394,7 +394,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">FLAMMABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">FLAMMABLE</span>
 
     </div>
 
@@ -412,7 +412,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">COMBUSTIBLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">COMBUSTIBLE</span>
 
     </div>
 
@@ -430,7 +430,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">ORGANIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">ORGANIC</span>
 
     </div>
 
@@ -448,7 +448,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISON</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">POISON</span>
 
     </div>
 
@@ -466,7 +466,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">RADIOACTIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">RADIOACTIVE</span>
 
     </div>
 
@@ -484,7 +484,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">CORROSIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">CORROSIVE</span>
 
     </div>
 
@@ -502,7 +502,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">POISONOUS_INHALATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">POISONOUS_INHALATION</span>
 
     </div>
 
@@ -520,7 +520,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">HARMFUL_TO_WATER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">HARMFUL_TO_WATER</span>
 
     </div>
 
@@ -538,7 +538,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">OTHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">OTHER</span>
 
     </div>
 
@@ -560,7 +560,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -581,7 +581,7 @@ Identifiers for different types of hazardous materials which can be shipped by t
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.HereMap → com.here.N
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">HereMap</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">HereMap</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -85,7 +85,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Style`](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">`Style`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapIdleListener](sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener "interface in com.here.sdk.mapview") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span>
 
     </div>
 
@@ -174,7 +174,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapIdleListener](sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener "interface in com.here.sdk.mapview") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span>
 
     </div>
 
@@ -197,7 +197,7 @@ The representation of a dynamic and interactive geographic map. The map manages 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")</span> <span class="element-name">getStyle</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimagefactory"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -63,7 +63,7 @@ Convenience factory class for loading marker resources from various sources.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">`MapImage`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Convenience factory class for loading marker resources from various sources.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">`MapImage`</a>
 
   </div>
 
@@ -109,7 +109,7 @@ Convenience factory class for loading marker resources from various sources.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">`MapImage`</a>
 
   </div>
 
@@ -154,7 +154,7 @@ Convenience factory class for loading marker resources from various sources.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">fromResource</span><wbr></wbr><span class="parameters">(android.content.res.Resources resources, int resourceID)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromResource</span><wbr></wbr><span class="parameters">(android.content.res.Resources resources, int resourceID)</span>
 
     </div>
 
@@ -180,7 +180,7 @@ Convenience factory class for loading marker resources from various sources.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">fromFile</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> filePath, int width, int height)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromFile</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> filePath, int width, int height)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -201,7 +201,7 @@ Convenience factory class for loading marker resources from various sources.
     map image representing specified image resource
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") - if dimension are invalid or path is empty.
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> - if dimension are invalid or path is empty.
 
     </div>
 
@@ -211,7 +211,7 @@ Convenience factory class for loading marker resources from various sources.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">fromBitmap</span><wbr></wbr><span class="parameters">(@NonNull android.graphics.Bitmap bitmap)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromBitmap</span><wbr></wbr><span class="parameters">(@NonNull android.graphics.Bitmap bitmap)</span>
 
     </div>
 

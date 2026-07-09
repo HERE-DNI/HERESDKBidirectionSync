@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorDetails
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[JsonStyleFactory](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Describes the reason for failing to create a Style from a JSON source.
 
   <div class="col-first even-row-color">
 
-  [`JsonStyleFactory.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`JsonStyleFactory.InstantiationErrorCode`</a>
 
   </div>
 
@@ -180,7 +180,7 @@ Describes the reason for failing to create a Style from a JSON source.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[JsonStyleFactory.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">errorCode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Describes the reason for failing to create a Style from a JSON source.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull [JsonStyleFactory.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview") errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
+    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
 
     </div>
 

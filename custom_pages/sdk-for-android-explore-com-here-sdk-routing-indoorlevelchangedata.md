@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents the level change data for an indoor maneuver.
 
   <div class="col-first even-row-color">
 
-  [`IndoorLevelChangeFeatures`](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">`IndoorLevelChangeFeatures`</a>
 
   </div>
 
@@ -240,7 +240,7 @@ Represents the level change data for an indoor maneuver.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IndoorLevelChangeFeatures](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures "enum class in com.here.sdk.routing")</span> <span class="element-name">connector</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a></span> <span class="element-name">connector</span>
 
     </div>
 
@@ -280,7 +280,7 @@ Represents the level change data for an indoor maneuver.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">IndoorLevelChangeData</span><wbr></wbr><span class="parameters">(@NonNull [IndoorLevelChangeFeatures](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures "enum class in com.here.sdk.routing") connector, int deltaZ)</span>
+    <span class="modifiers">public</span> <span class="element-name">IndoorLevelChangeData</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a> connector, int deltaZ)</span>
 
     </div>
 

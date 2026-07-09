@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-geoplace"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first even-row-color">
 
-  [`Address`](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search">`Address`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first odd-row-color">
 
-  [`BusinessDetails`](sdk-for-android-explore-com-here-sdk-search-businessdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">`BusinessDetails`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PlaceCategory`](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">`PlaceCategory`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`ExternalID`](sdk-for-android-explore-com-here-sdk-core-externalid "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-externalid" title="class in com.here.sdk.core">`ExternalID`</a>`>`
 
   </div>
 
@@ -155,7 +155,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first even-row-color">
 
-  [`LocationDetails`](sdk-for-android-explore-com-here-sdk-search-locationdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">`LocationDetails`</a>
 
   </div>
 
@@ -199,7 +199,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first even-row-color">
 
-  [`PlaceType`](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">`PlaceType`</a>
 
   </div>
 
@@ -221,7 +221,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first odd-row-color">
 
-  [`WebDetails`](sdk-for-android-explore-com-here-sdk-search-webdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">`WebDetails`</a>
 
   </div>
 
@@ -393,7 +393,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`GeoPlace`](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">`GeoPlace`</a>
 
   </div>
 
@@ -455,7 +455,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ExternalID](sdk-for-android-explore-com-here-sdk-core-externalid "class in com.here.sdk.core")\></span> <span class="element-name">externalIDs</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a>\></span> <span class="element-name">externalIDs</span>
 
     </div>
 
@@ -473,7 +473,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -491,7 +491,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>\></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -509,7 +509,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Address](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")</span> <span class="element-name">address</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span class="element-name">address</span>
 
     </div>
 
@@ -527,7 +527,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocationDetails](sdk-for-android-explore-com-here-sdk-search-locationdetails "class in com.here.sdk.search")</span> <span class="element-name">location</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></span> <span class="element-name">location</span>
 
     </div>
 
@@ -545,7 +545,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[BusinessDetails](sdk-for-android-explore-com-here-sdk-search-businessdetails "class in com.here.sdk.search")</span> <span class="element-name">business</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></span> <span class="element-name">business</span>
 
     </div>
 
@@ -563,7 +563,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[WebDetails](sdk-for-android-explore-com-here-sdk-search-webdetails "class in com.here.sdk.search")</span> <span class="element-name">web</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a></span> <span class="element-name">web</span>
 
     </div>
 
@@ -637,7 +637,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[GeoPlace](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search")</span> <span class="element-name">makeMyPlace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> title, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">GeoPlace</a></span> <span class="element-name">makeMyPlace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> title, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span>
 
     </div>
 
@@ -657,7 +657,7 @@ GeoPlace struct represents a location object: such as a country, a city, a point
     The coordinates.
 
     Returns:  
-    An instance of [`GeoPlace`](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search").
+    An instance of <a href="sdk-for-android-explore-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">`GeoPlace`</a>.
 
     </div>
 

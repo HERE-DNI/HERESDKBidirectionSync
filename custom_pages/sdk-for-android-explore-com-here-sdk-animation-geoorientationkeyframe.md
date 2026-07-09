@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -67,7 +67,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
   <div class="col-first even-row-color">
 
-  `final `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `final `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
   <div class="col-first odd-row-color">
 
-  `final `[`GeoOrientation`](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">`GeoOrientation`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core")</span> <span class="element-name">value</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">value</span>
 
     </div>
 
@@ -257,7 +257,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">duration</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span>
 
     </div>
 
@@ -279,7 +279,7 @@ A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and a
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoOrientationKeyframe</span><wbr></wbr><span class="parameters">(@NonNull [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core") value, @NonNull [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") duration)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoOrientationKeyframe</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> value, @NonNull <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span>
 
     </div>
 

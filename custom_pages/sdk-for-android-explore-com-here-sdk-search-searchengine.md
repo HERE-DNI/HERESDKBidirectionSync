@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchengine"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.SearchEngine → com.he
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+<a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">SearchEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [SearchInterface](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">SearchEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a></span>
 
 </div>
 
@@ -124,7 +124,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -146,7 +146,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -168,7 +168,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -190,7 +190,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -212,7 +212,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -234,7 +234,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -256,7 +256,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -278,7 +278,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -300,7 +300,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -322,7 +322,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -344,7 +344,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -366,7 +366,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -388,7 +388,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -410,7 +410,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -432,7 +432,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -454,7 +454,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">`SearchError`</a>
 
   </div>
 
@@ -498,7 +498,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -520,7 +520,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -564,7 +564,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SearchEngine</span>() throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">SearchEngine</span>() throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -575,7 +575,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -587,7 +587,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SearchEngine</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">SearchEngine</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -603,7 +603,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     Instance of an existing SDKEngine.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -619,7 +619,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -653,7 +653,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [AddressQuery](sdk-for-android-explore-com-here-sdk-search-addressquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -687,7 +687,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [PlaceIdQuery](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search") query, @Nullable [LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core") languageCode, @NonNull [PlaceIdSearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended" title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -721,7 +721,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -755,7 +755,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core") circle, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -768,7 +768,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     Parameters:  
     `circle` -
 
-    The coordinates where to search and radius of the circular spatial filter. Passed in form of [`GeoCircle`](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core").
+    The coordinates where to search and radius of the circular spatial filter. Passed in form of <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">`GeoCircle`</a>.
 
     `options` -
 
@@ -789,7 +789,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core") circle, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -802,7 +802,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     Parameters:  
     `circle` -
 
-    The coordinates where to search and radius of the circular spatial filter. Passed in form of [`GeoCircle`](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core").
+    The coordinates where to search and radius of the circular spatial filter. Passed in form of <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">`GeoCircle`</a>.
 
     `options` -
 
@@ -823,7 +823,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">sendRequest</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">sendRequest</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -853,7 +853,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">sendRequest</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">sendRequest</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> href, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -883,7 +883,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull [CategoryQuery](sdk-for-android-explore-com-here-sdk-search-categoryquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -917,7 +917,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">suggest</span><wbr></wbr><span class="parameters">(@NonNull [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SuggestCallbackExtended](sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">suggest</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended" title="interface in com.here.sdk.search">SuggestCallbackExtended</a> callback)</span>
 
     </div>
 
@@ -951,7 +951,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">setCustomOption</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">setCustomOption</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -981,7 +981,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEVInterface</span><wbr></wbr><span class="parameters">(@NonNull [EVSearchInterface](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search") evcpInterface)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEVInterface</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a> evcpInterface)</span>
 
     </div>
 
@@ -1004,7 +1004,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByText</span><wbr></wbr><span class="parameters">(@NonNull [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByText</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -1015,7 +1015,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByText`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback">`searchByText`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `query` -
@@ -1041,7 +1041,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByAddress</span><wbr></wbr><span class="parameters">(@NonNull [AddressQuery](sdk-for-android-explore-com-here-sdk-search-addressquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByAddress</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -1052,7 +1052,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByAddress`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback">`searchByAddress`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `query` -
@@ -1078,7 +1078,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByCategory</span><wbr></wbr><span class="parameters">(@NonNull [CategoryQuery](sdk-for-android-explore-com-here-sdk-search-categoryquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCategory</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -1089,7 +1089,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByCategory`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback">`searchByCategory`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `query` -
@@ -1115,7 +1115,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span>
 
     </div>
 
@@ -1126,7 +1126,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByCoordinates`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback">`searchByCoordinates`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `coordinates` -
@@ -1152,7 +1152,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByPlaceId</span><wbr></wbr><span class="parameters">(@NonNull [PlaceIdQuery](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search") query, @Nullable [LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core") languageCode, @NonNull [PlaceIdSearchCallback](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPlaceId</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span>
 
     </div>
 
@@ -1163,7 +1163,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByPlaceId`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback">`searchByPlaceId`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `query` -
@@ -1189,7 +1189,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">searchByPickedPlace</span><wbr></wbr><span class="parameters">(@NonNull [PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core") pickedPlace, @Nullable [LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core") languageCode, @NonNull [PlaceIdSearchCallback](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPickedPlace</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span>
 
     </div>
 
@@ -1200,7 +1200,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`searchByPickedPlace`](sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback">`searchByPickedPlace`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `pickedPlace` -
@@ -1226,7 +1226,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">suggestByText</span><wbr></wbr><span class="parameters">(@NonNull [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search") query, @NonNull [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search") options, @NonNull [SuggestCallback](sdk-for-android-explore-com-here-sdk-search-suggestcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">suggestByText</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span>
 
     </div>
 
@@ -1237,7 +1237,7 @@ The SearchEngine API unlocks the search, geocoding and suggesting capabilities o
     </div>
 
     Specified by:  
-    [`suggestByText`](sdk-for-android-explore-com-here-sdk-search-searchinterface#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)) in interface [`SearchInterface`](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback">`suggestByText`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">`SearchInterface`</a>
 
     Parameters:  
     `query` -

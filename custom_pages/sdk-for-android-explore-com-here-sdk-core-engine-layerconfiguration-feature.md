@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< LayerConfiguration.Feature \> com.here.sdk.co
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">`LayerConfiguration.Feature`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[LayerConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration "class in com.here.sdk.core.engine")
+<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">LayerConfiguration.Feature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">LayerConfiguration.Feature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>\></span>
 
 </div>
 
@@ -495,7 +495,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">`LayerConfiguration.Feature`</a>
 
   </div>
 
@@ -517,7 +517,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">`LayerConfiguration.Feature`</a>`[]`
 
   </div>
 
@@ -571,7 +571,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">DETAIL_RENDERING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAIL_RENDERING</span>
 
     </div>
 
@@ -589,7 +589,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">NAVIGATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">NAVIGATION</span>
 
     </div>
 
@@ -607,7 +607,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">OFFLINE_SEARCH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH</span>
 
     </div>
 
@@ -625,7 +625,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">OFFLINE_SEARCH_GLOBAL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH_GLOBAL</span>
 
     </div>
 
@@ -643,7 +643,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">OFFLINE_ROUTING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_ROUTING</span>
 
     </div>
 
@@ -661,7 +661,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">RENDERING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RENDERING</span>
 
     </div>
 
@@ -679,7 +679,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRUCK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK</span>
 
     </div>
 
@@ -697,7 +697,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">LANDMARKS_3D</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">LANDMARKS_3D</span>
 
     </div>
 
@@ -715,7 +715,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">EV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EV</span>
 
     </div>
 
@@ -733,7 +733,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRUCK_SERVICE_ATTRIBUTES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK_SERVICE_ATTRIBUTES</span>
 
     </div>
 
@@ -751,7 +751,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">FUEL_STATION_ATTRIBUTES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">FUEL_STATION_ATTRIBUTES</span>
 
     </div>
 
@@ -769,7 +769,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">OFFLINE_BUS_ROUTING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_BUS_ROUTING</span>
 
     </div>
 
@@ -787,7 +787,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_VIEW_3X4</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_3X4</span>
 
     </div>
 
@@ -805,7 +805,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_VIEW_16X9</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_16X9</span>
 
     </div>
 
@@ -823,7 +823,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_SIGN_3X4</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X4</span>
 
     </div>
 
@@ -841,7 +841,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_SIGN_3X5</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X5</span>
 
     </div>
 
@@ -859,7 +859,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_SIGN_4X3</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_4X3</span>
 
     </div>
 
@@ -877,7 +877,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_SIGN_5X3</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_5X3</span>
 
     </div>
 
@@ -895,7 +895,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">JUNCTION_SIGN_16X9</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_16X9</span>
 
     </div>
 
@@ -913,7 +913,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TERRAIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TERRAIN</span>
 
     </div>
 
@@ -931,7 +931,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">DETAILED_TERRAIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAILED_TERRAIN</span>
 
     </div>
 
@@ -949,7 +949,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">ADAS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">ADAS</span>
 
     </div>
 
@@ -967,7 +967,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">EHORIZON</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EHORIZON</span>
 
     </div>
 
@@ -985,7 +985,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">RDS_TRAFFIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span>
 
     </div>
 
@@ -1007,7 +1007,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1028,7 +1028,7 @@ Defines a list of possible map data features that can be enabled / disabled. See
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

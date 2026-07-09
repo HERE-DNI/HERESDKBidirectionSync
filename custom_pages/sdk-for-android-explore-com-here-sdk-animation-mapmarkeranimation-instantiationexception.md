@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instant
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[MapMarkerAnimation](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation "class in com.here.sdk.animation")
+<a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when a problem occurs while trying to create a MapMarkerAnimation .
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.animation.MapMarkerAnimation.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.animation.MapMarkerAnimation.InstantiationException">Serialized Form</a>
 
 </div>
 

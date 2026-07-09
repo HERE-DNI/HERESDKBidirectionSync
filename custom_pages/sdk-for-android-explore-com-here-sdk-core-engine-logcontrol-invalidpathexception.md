@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathex
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[LogControl](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol "class in com.here.sdk.core.engine")
+<a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol" title="class in com.here.sdk.core.engine">LogControl</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Invalid file path exception.
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.core.engine.LogControl.InvalidPathException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.core.engine.LogControl.InvalidPathException">Serialized Form</a>
 
 </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-insta
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when a problem occurs while trying to create MapCameraKeyframeTrack .
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapCameraKeyframeTrack.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapCameraKeyframeTrack.InstantiationException">Serialized Form</a>
 
 </div>
 

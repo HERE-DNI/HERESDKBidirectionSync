@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehicleprofile"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -135,7 +135,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`>`
 
   </div>
 
@@ -247,7 +247,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
   <div class="col-first even-row-color">
 
-  [`TruckCategory`](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">`TruckCategory`</a>
 
   </div>
 
@@ -275,7 +275,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
   <div class="col-first odd-row-color">
 
-  [`TunnelCategory`](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">`TunnelCategory`</a>
 
   </div>
 
@@ -303,7 +303,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
   <div class="col-first even-row-color">
 
-  [`VehicleType`](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">`VehicleType`</a>
 
   </div>
 
@@ -533,7 +533,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleType](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport")</span> <span class="element-name">vehicleType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a></span> <span class="element-name">vehicleType</span>
 
     </div>
 
@@ -557,7 +557,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckCategory](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">truckCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">truckCategory</span>
 
     </div>
 
@@ -605,7 +605,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 
@@ -629,7 +629,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">tunnelCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">tunnelCategory</span>
 
     </div>
 
@@ -801,7 +801,7 @@ A vehicle profile describes the vehicle being used with the HSDK. The profile is
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">VehicleProfile</span><wbr></wbr><span class="parameters">(@NonNull [VehicleType](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport") vehicleType)</span>
+    <span class="modifiers">public</span> <span class="element-name">VehicleProfile</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a> vehicleType)</span>
 
     </div>
 

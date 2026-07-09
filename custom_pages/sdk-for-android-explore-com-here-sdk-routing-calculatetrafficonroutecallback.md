@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-calculatetrafficonroutecallb
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -96,7 +96,7 @@ A function which is called by the RoutingEngine after route traffic calculation 
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTrafficOnRouteCalculated</span><wbr></wbr><span class="parameters">(@Nullable [RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing") routingError, @Nullable [TrafficOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficonroute "class in com.here.sdk.routing") trafficOnRoute)</span>
+    <span class="return-type">void</span> <span class="element-name">onTrafficOnRouteCalculated</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a> trafficOnRoute)</span>
 
     </div>
 

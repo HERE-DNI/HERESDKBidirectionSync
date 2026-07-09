@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 ## Contents
 
-- [com.here.\*](sdk-for-android-explore-constant-values#com.here)
+- <a href="sdk-for-android-explore-constant-values#com.here">com.here.\*</a>
 
 </div>
 
@@ -21,7 +21,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.core.[PolylineSimplifier.Options](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options "class in com.here.sdk.core")
+  com.here.sdk.core.<a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a>
 
   </div>
 
@@ -53,7 +53,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL)
+  <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">`SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.ev.[EVChargingConnectorType](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype "class in com.here.sdk.ev")
+  com.here.sdk.ev.<a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a>
 
   </div>
 
@@ -293,7 +293,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`CHADEMO`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#CHADEMO)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#CHADEMO">`CHADEMO`</a>
 
   </div>
 
@@ -311,7 +311,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`CHAOJI`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#CHAOJI)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#CHAOJI">`CHAOJI`</a>
 
   </div>
 
@@ -329,7 +329,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_A`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_A)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_A">`DOMESTIC_A`</a>
 
   </div>
 
@@ -347,7 +347,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_B`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_B)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_B">`DOMESTIC_B`</a>
 
   </div>
 
@@ -365,7 +365,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_C`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_C)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_C">`DOMESTIC_C`</a>
 
   </div>
 
@@ -383,7 +383,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_D`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_D)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_D">`DOMESTIC_D`</a>
 
   </div>
 
@@ -401,7 +401,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_E`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_E)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_E">`DOMESTIC_E`</a>
 
   </div>
 
@@ -419,7 +419,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_F`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_F)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_F">`DOMESTIC_F`</a>
 
   </div>
 
@@ -437,7 +437,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_G`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_G)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_G">`DOMESTIC_G`</a>
 
   </div>
 
@@ -455,7 +455,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_H`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_H)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_H">`DOMESTIC_H`</a>
 
   </div>
 
@@ -473,7 +473,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_I`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_I)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_I">`DOMESTIC_I`</a>
 
   </div>
 
@@ -491,7 +491,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_J`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_J)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_J">`DOMESTIC_J`</a>
 
   </div>
 
@@ -509,7 +509,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_K`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_K)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_K">`DOMESTIC_K`</a>
 
   </div>
 
@@ -527,7 +527,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_L`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_L)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_L">`DOMESTIC_L`</a>
 
   </div>
 
@@ -545,7 +545,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_M`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_M)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_M">`DOMESTIC_M`</a>
 
   </div>
 
@@ -563,7 +563,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DOMESTIC_N`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_N)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_N">`DOMESTIC_N`</a>
 
   </div>
 
@@ -581,7 +581,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DOMESTIC_O`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_O)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#DOMESTIC_O">`DOMESTIC_O`</a>
 
   </div>
 
@@ -599,7 +599,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`GBT_AC`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#GBT_AC)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#GBT_AC">`GBT_AC`</a>
 
   </div>
 
@@ -617,7 +617,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`GBT_DC`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#GBT_DC)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#GBT_DC">`GBT_DC`</a>
 
   </div>
 
@@ -635,7 +635,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`IEC_60309_2_SINGLE_16`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_SINGLE_16)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_SINGLE_16">`IEC_60309_2_SINGLE_16`</a>
 
   </div>
 
@@ -653,7 +653,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`IEC_60309_2_THREE_16`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_16)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_16">`IEC_60309_2_THREE_16`</a>
 
   </div>
 
@@ -671,7 +671,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`IEC_60309_2_THREE_32`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_32)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_32">`IEC_60309_2_THREE_32`</a>
 
   </div>
 
@@ -689,7 +689,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`IEC_60309_2_THREE_64`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_64)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_60309_2_THREE_64">`IEC_60309_2_THREE_64`</a>
 
   </div>
 
@@ -707,7 +707,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`IEC_62196_T1`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1">`IEC_62196_T1`</a>
 
   </div>
 
@@ -725,7 +725,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`IEC_62196_T1_COMBO`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1_COMBO)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T1_COMBO">`IEC_62196_T1_COMBO`</a>
 
   </div>
 
@@ -743,7 +743,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`IEC_62196_T2`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2">`IEC_62196_T2`</a>
 
   </div>
 
@@ -761,7 +761,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`IEC_62196_T2_COMBO`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2_COMBO)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T2_COMBO">`IEC_62196_T2_COMBO`</a>
 
   </div>
 
@@ -779,7 +779,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`IEC_62196_T3A`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3A)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3A">`IEC_62196_T3A`</a>
 
   </div>
 
@@ -797,7 +797,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`IEC_62196_T3C`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3C)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#IEC_62196_T3C">`IEC_62196_T3C`</a>
 
   </div>
 
@@ -815,7 +815,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`MCS`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#MCS)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#MCS">`MCS`</a>
 
   </div>
 
@@ -833,7 +833,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NEMA_10_30`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_10_30)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_10_30">`NEMA_10_30`</a>
 
   </div>
 
@@ -851,7 +851,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NEMA_10_50`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_10_50)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_10_50">`NEMA_10_50`</a>
 
   </div>
 
@@ -869,7 +869,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NEMA_14_30`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_14_30)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_14_30">`NEMA_14_30`</a>
 
   </div>
 
@@ -887,7 +887,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NEMA_14_50`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_14_50)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_14_50">`NEMA_14_50`</a>
 
   </div>
 
@@ -905,7 +905,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NEMA_5_20`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_5_20)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_5_20">`NEMA_5_20`</a>
 
   </div>
 
@@ -923,7 +923,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NEMA_6_30`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_6_30)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_6_30">`NEMA_6_30`</a>
 
   </div>
 
@@ -941,7 +941,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NEMA_6_50`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_6_50)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#NEMA_6_50">`NEMA_6_50`</a>
 
   </div>
 
@@ -959,7 +959,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`PANTOGRAPH_BOTTOM_UP`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_BOTTOM_UP)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_BOTTOM_UP">`PANTOGRAPH_BOTTOM_UP`</a>
 
   </div>
 
@@ -977,7 +977,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`PANTOGRAPH_TOP_DOWN`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_TOP_DOWN)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#PANTOGRAPH_TOP_DOWN">`PANTOGRAPH_TOP_DOWN`</a>
 
   </div>
 
@@ -995,7 +995,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SAE_J3400`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#SAE_J3400)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#SAE_J3400">`SAE_J3400`</a>
 
   </div>
 
@@ -1013,7 +1013,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TESLA_R`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#TESLA_R)
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype#TESLA_R">`TESLA_R`</a>
 
   </div>
 
@@ -1029,7 +1029,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.mapview.[MapCameraLimits](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
+  com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a>
 
   </div>
 
@@ -1061,7 +1061,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`MAX_TILT`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_TILT)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_TILT">`MAX_TILT`</a>
 
   </div>
 
@@ -1079,7 +1079,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`MAX_ZOOM_LEVEL`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL">`MAX_ZOOM_LEVEL`</a>
 
   </div>
 
@@ -1097,7 +1097,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`MIN_TILT`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_TILT)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_TILT">`MIN_TILT`</a>
 
   </div>
 
@@ -1115,7 +1115,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`MIN_ZOOM_LEVEL`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL">`MIN_ZOOM_LEVEL`</a>
 
   </div>
 
@@ -1129,7 +1129,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.mapview.[MapFeatureModes](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")
+  com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a>
 
   </div>
 
@@ -1161,7 +1161,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`AMBIENT_OCCLUSION_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#AMBIENT_OCCLUSION_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#AMBIENT_OCCLUSION_ALL">`AMBIENT_OCCLUSION_ALL`</a>
 
   </div>
 
@@ -1179,7 +1179,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUILDING_FOOTPRINTS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#BUILDING_FOOTPRINTS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#BUILDING_FOOTPRINTS_ALL">`BUILDING_FOOTPRINTS_ALL`</a>
 
   </div>
 
@@ -1197,7 +1197,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`CONGESTION_ZONES_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#CONGESTION_ZONES_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#CONGESTION_ZONES_ALL">`CONGESTION_ZONES_ALL`</a>
 
   </div>
 
@@ -1215,7 +1215,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DEFAULT`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT">`DEFAULT`</a>
 
   </div>
 
@@ -1233,7 +1233,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ENVIRONMENTAL_ZONES_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ENVIRONMENTAL_ZONES_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ENVIRONMENTAL_ZONES_ALL">`ENVIRONMENTAL_ZONES_ALL`</a>
 
   </div>
 
@@ -1251,7 +1251,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`EXTRUDED_BUILDINGS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#EXTRUDED_BUILDINGS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#EXTRUDED_BUILDINGS_ALL">`EXTRUDED_BUILDINGS_ALL`</a>
 
   </div>
 
@@ -1269,7 +1269,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`LOW_SPEED_ZONES_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#LOW_SPEED_ZONES_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#LOW_SPEED_ZONES_ALL">`LOW_SPEED_ZONES_ALL`</a>
 
   </div>
 
@@ -1287,7 +1287,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`ROAD_EXIT_LABELS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ROAD_EXIT_LABELS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ROAD_EXIT_LABELS_ALL">`ROAD_EXIT_LABELS_ALL`</a>
 
   </div>
 
@@ -1305,7 +1305,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ROAD_EXIT_LABELS_NUMBERS_ONLY`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY">`ROAD_EXIT_LABELS_NUMBERS_ONLY`</a>
 
   </div>
 
@@ -1323,7 +1323,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHADOWS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#SHADOWS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#SHADOWS_ALL">`SHADOWS_ALL`</a>
 
   </div>
 
@@ -1341,7 +1341,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">`TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW`</a>
 
   </div>
 
@@ -1359,7 +1359,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRAFFIC_FLOW_WITH_FREE_FLOW`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW">`TRAFFIC_FLOW_WITH_FREE_FLOW`</a>
 
   </div>
 
@@ -1377,7 +1377,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRAFFIC_FLOW_WITHOUT_FREE_FLOW`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITHOUT_FREE_FLOW)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITHOUT_FREE_FLOW">`TRAFFIC_FLOW_WITHOUT_FREE_FLOW`</a>
 
   </div>
 
@@ -1395,7 +1395,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRAFFIC_INCIDENTS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_INCIDENTS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_INCIDENTS_ALL">`TRAFFIC_INCIDENTS_ALL`</a>
 
   </div>
 
@@ -1413,7 +1413,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRAFFIC_LIGHTS_ALL`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_LIGHTS_ALL)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_LIGHTS_ALL">`TRAFFIC_LIGHTS_ALL`</a>
 
   </div>
 
@@ -1427,7 +1427,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.mapview.[MapFeatures](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")
+  com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a>
 
   </div>
 
@@ -1459,7 +1459,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`AMBIENT_OCCLUSION`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION">`AMBIENT_OCCLUSION`</a>
 
   </div>
 
@@ -1477,7 +1477,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUILDING_FOOTPRINTS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS">`BUILDING_FOOTPRINTS`</a>
 
   </div>
 
@@ -1495,7 +1495,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`CONGESTION_ZONES`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES">`CONGESTION_ZONES`</a>
 
   </div>
 
@@ -1513,7 +1513,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`ENVIRONMENTAL_ZONES`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES">`ENVIRONMENTAL_ZONES`</a>
 
   </div>
 
@@ -1531,7 +1531,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`EXTRUDED_BUILDINGS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS">`EXTRUDED_BUILDINGS`</a>
 
   </div>
 
@@ -1549,7 +1549,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`LOW_SPEED_ZONES`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES">`LOW_SPEED_ZONES`</a>
 
   </div>
 
@@ -1567,7 +1567,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ROAD_EXIT_LABELS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS">`ROAD_EXIT_LABELS`</a>
 
   </div>
 
@@ -1585,7 +1585,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHADOWS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS">`SHADOWS`</a>
 
   </div>
 
@@ -1603,7 +1603,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRAFFIC_FLOW`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW">`TRAFFIC_FLOW`</a>
 
   </div>
 
@@ -1621,7 +1621,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRAFFIC_INCIDENTS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS">`TRAFFIC_INCIDENTS`</a>
 
   </div>
 
@@ -1639,7 +1639,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRAFFIC_LIGHTS`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS">`TRAFFIC_LIGHTS`</a>
 
   </div>
 
@@ -1655,7 +1655,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.search.[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")
+  com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>
 
   </div>
 
@@ -1687,7 +1687,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ACCOMMODATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION">`ACCOMMODATION`</a>
 
   </div>
 
@@ -1705,7 +1705,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`ACCOMMODATION_HOTEL_MOTEL`](sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_HOTEL_MOTEL">`ACCOMMODATION_HOTEL_MOTEL`</a>
 
   </div>
 
@@ -1723,7 +1723,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ACCOMMODATION_LODGING`](sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#ACCOMMODATION_LODGING">`ACCOMMODATION_LODGING`</a>
 
   </div>
 
@@ -1741,7 +1741,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`AREAS_AND_BUILDINGS`](sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS">`AREAS_AND_BUILDINGS`</a>
 
   </div>
 
@@ -1759,7 +1759,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX`](sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">`AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX`</a>
 
   </div>
 
@@ -1777,7 +1777,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE`](sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">`AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE`</a>
 
   </div>
 
@@ -1795,7 +1795,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_COMMERCIAL_SERVICES`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_COMMERCIAL_SERVICES">`BUSINESS_AND_COMMERCIAL_SERVICES`</a>
 
   </div>
 
@@ -1813,7 +1813,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_CONSUMER_SERVICES`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_CONSUMER_SERVICES">`BUSINESS_AND_CONSUMER_SERVICES`</a>
 
   </div>
 
@@ -1831,7 +1831,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES">`BUSINESS_AND_SERVICES`</a>
 
   </div>
 
@@ -1849,7 +1849,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_ATM`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_ATM">`BUSINESS_AND_SERVICES_ATM`</a>
 
   </div>
 
@@ -1867,7 +1867,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_BANKING`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_BANKING">`BUSINESS_AND_SERVICES_BANKING`</a>
 
   </div>
 
@@ -1885,7 +1885,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_CAR_DEALER_SALES`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_DEALER_SALES">`BUSINESS_AND_SERVICES_CAR_DEALER_SALES`</a>
 
   </div>
 
@@ -1903,7 +1903,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_CAR_RENTAL`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_RENTAL">`BUSINESS_AND_SERVICES_CAR_RENTAL`</a>
 
   </div>
 
@@ -1921,7 +1921,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">`BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES`</a>
 
   </div>
 
@@ -1939,7 +1939,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">`BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA`</a>
 
   </div>
 
@@ -1957,7 +1957,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_EV_CHARGING_STATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION">`BUSINESS_AND_SERVICES_EV_CHARGING_STATION`</a>
 
   </div>
 
@@ -1975,7 +1975,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_FUELING_STATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_FUELING_STATION">`BUSINESS_AND_SERVICES_FUELING_STATION`</a>
 
   </div>
 
@@ -1993,7 +1993,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_INDUSTRY`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_INDUSTRY">`BUSINESS_AND_SERVICES_INDUSTRY`</a>
 
   </div>
 
@@ -2011,7 +2011,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_MONEY_CASH`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_MONEY_CASH">`BUSINESS_AND_SERVICES_MONEY_CASH`</a>
 
   </div>
 
@@ -2029,7 +2029,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">`BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION`</a>
 
   </div>
 
@@ -2047,7 +2047,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">`BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY`</a>
 
   </div>
 
@@ -2065,7 +2065,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_POST_OFFICE`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_POST_OFFICE">`BUSINESS_AND_SERVICES_POST_OFFICE`</a>
 
   </div>
 
@@ -2083,7 +2083,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`BUSINESS_AND_SERVICES_TOURIST_INFORMATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TOURIST_INFORMATION">`BUSINESS_AND_SERVICES_TOURIST_INFORMATION`</a>
 
   </div>
 
@@ -2101,7 +2101,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER`](sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">`BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER`</a>
 
   </div>
 
@@ -2119,7 +2119,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`EAT_AND_DRINK`](sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK">`EAT_AND_DRINK`</a>
 
   </div>
 
@@ -2137,7 +2137,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`EAT_AND_DRINK_COFFEE_TEA`](sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_COFFEE_TEA">`EAT_AND_DRINK_COFFEE_TEA`</a>
 
   </div>
 
@@ -2155,7 +2155,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`EAT_AND_DRINK_RESTAURANT`](sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#EAT_AND_DRINK_RESTAURANT">`EAT_AND_DRINK_RESTAURANT`</a>
 
   </div>
 
@@ -2173,7 +2173,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`FACILITIES`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES">`FACILITIES`</a>
 
   </div>
 
@@ -2191,7 +2191,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FACILITIES_EDUCATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EDUCATION">`FACILITIES_EDUCATION`</a>
 
   </div>
 
@@ -2209,7 +2209,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`FACILITIES_EVENT_SPACES`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_EVENT_SPACES">`FACILITIES_EVENT_SPACES`</a>
 
   </div>
 
@@ -2227,7 +2227,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FACILITIES_GOVERNMENT_COMMUNITTY`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_GOVERNMENT_COMMUNITTY">`FACILITIES_GOVERNMENT_COMMUNITTY`</a>
 
   </div>
 
@@ -2245,7 +2245,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`FACILITIES_HOSPITAL_HEALTHCARE`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_HOSPITAL_HEALTHCARE">`FACILITIES_HOSPITAL_HEALTHCARE`</a>
 
   </div>
 
@@ -2263,7 +2263,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FACILITIES_LIBRARY`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_LIBRARY">`FACILITIES_LIBRARY`</a>
 
   </div>
 
@@ -2281,7 +2281,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`FACILITIES_OTHER`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_OTHER">`FACILITIES_OTHER`</a>
 
   </div>
 
@@ -2299,7 +2299,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FACILITIES_PARKING`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_PARKING">`FACILITIES_PARKING`</a>
 
   </div>
 
@@ -2317,7 +2317,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`FACILITIES_SCHOOL`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_SCHOOL">`FACILITIES_SCHOOL`</a>
 
   </div>
 
@@ -2335,7 +2335,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FACILITIES_VENUE_SPORTS`](sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#FACILITIES_VENUE_SPORTS">`FACILITIES_VENUE_SPORTS`</a>
 
   </div>
 
@@ -2353,7 +2353,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`GOING_OUT_CINEMA`](sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_CINEMA">`GOING_OUT_CINEMA`</a>
 
   </div>
 
@@ -2371,7 +2371,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`GOING_OUT_ENTERTAINMENT`](sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_ENTERTAINMENT">`GOING_OUT_ENTERTAINMENT`</a>
 
   </div>
 
@@ -2389,7 +2389,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`GOING_OUT_GAMBLING_LOTTERY_BETTING`](sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_GAMBLING_LOTTERY_BETTING">`GOING_OUT_GAMBLING_LOTTERY_BETTING`</a>
 
   </div>
 
@@ -2407,7 +2407,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`GOING_OUT_NIGHTLIFE`](sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_NIGHTLIFE">`GOING_OUT_NIGHTLIFE`</a>
 
   </div>
 
@@ -2425,7 +2425,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`GOING_OUT_THEATRE_MUSIC_CULTURE`](sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#GOING_OUT_THEATRE_MUSIC_CULTURE">`GOING_OUT_THEATRE_MUSIC_CULTURE`</a>
 
   </div>
 
@@ -2443,7 +2443,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`LEISURE_AND_OUTDOOR`](sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_AND_OUTDOOR">`LEISURE_AND_OUTDOOR`</a>
 
   </div>
 
@@ -2461,7 +2461,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`LEISURE_OTHER`](sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OTHER">`LEISURE_OTHER`</a>
 
   </div>
 
@@ -2479,7 +2479,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`LEISURE_OUTDOOR_RECREATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#LEISURE_OUTDOOR_RECREATION">`LEISURE_OUTDOOR_RECREATION`</a>
 
   </div>
 
@@ -2497,7 +2497,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL">`NATURAL_AND_GEOGRAPHICAL`</a>
 
   </div>
 
@@ -2515,7 +2515,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">`NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER`</a>
 
   </div>
 
@@ -2533,7 +2533,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">`NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION`</a>
 
   </div>
 
@@ -2551,7 +2551,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">`NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL`</a>
 
   </div>
 
@@ -2569,7 +2569,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL_OTHER`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_OTHER">`NATURAL_AND_GEOGRAPHICAL_OTHER`</a>
 
   </div>
 
@@ -2587,7 +2587,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE`](sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">`NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE`</a>
 
   </div>
 
@@ -2605,7 +2605,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING">`SHOPPING`</a>
 
   </div>
 
@@ -2623,7 +2623,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_BOOKSTORE`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_BOOKSTORE">`SHOPPING_BOOKSTORE`</a>
 
   </div>
 
@@ -2641,7 +2641,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING_CLOTHING_AND_ACCESORIES`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CLOTHING_AND_ACCESORIES">`SHOPPING_CLOTHING_AND_ACCESORIES`</a>
 
   </div>
 
@@ -2659,7 +2659,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_CONSUMER_GOODS`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONSUMER_GOODS">`SHOPPING_CONSUMER_GOODS`</a>
 
   </div>
 
@@ -2677,7 +2677,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING_CONVENIENCE_STORE`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_CONVENIENCE_STORE">`SHOPPING_CONVENIENCE_STORE`</a>
 
   </div>
 
@@ -2695,7 +2695,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_DEPARTMENT_STORE`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DEPARTMENT_STORE">`SHOPPING_DEPARTMENT_STORE`</a>
 
   </div>
 
@@ -2713,7 +2713,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING_DRUGSTORE_PHARMACY`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_DRUGSTORE_PHARMACY">`SHOPPING_DRUGSTORE_PHARMACY`</a>
 
   </div>
 
@@ -2731,7 +2731,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_ELECTRONICS`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_ELECTRONICS">`SHOPPING_ELECTRONICS`</a>
 
   </div>
 
@@ -2749,7 +2749,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING_FOOD_AND_DRINK`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_FOOD_AND_DRINK">`SHOPPING_FOOD_AND_DRINK`</a>
 
   </div>
 
@@ -2767,7 +2767,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_HAIR_AND_BEAUTY`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HAIR_AND_BEAUTY">`SHOPPING_HAIR_AND_BEAUTY`</a>
 
   </div>
 
@@ -2785,7 +2785,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SHOPPING_HARDWARE_HOUSE_GARDEN`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_HARDWARE_HOUSE_GARDEN">`SHOPPING_HARDWARE_HOUSE_GARDEN`</a>
 
   </div>
 
@@ -2803,7 +2803,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHOPPING_MALL_COMPLEX`](sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SHOPPING_MALL_COMPLEX">`SHOPPING_MALL_COMPLEX`</a>
 
   </div>
 
@@ -2821,7 +2821,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SIGHTS_AND_MUSEUMS`](sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_AND_MUSEUMS">`SIGHTS_AND_MUSEUMS`</a>
 
   </div>
 
@@ -2839,7 +2839,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SIGHTS_LANDMARK_ATTRACTION`](sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_LANDMARK_ATTRACTION">`SIGHTS_LANDMARK_ATTRACTION`</a>
 
   </div>
 
@@ -2857,7 +2857,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`SIGHTS_MUSEUM`](sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_MUSEUM">`SIGHTS_MUSEUM`</a>
 
   </div>
 
@@ -2875,7 +2875,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SIGHTS_RELIGIOUS_PLACE`](sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#SIGHTS_RELIGIOUS_PLACE">`SIGHTS_RELIGIOUS_PLACE`</a>
 
   </div>
 
@@ -2893,7 +2893,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRANSPORT`](sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT">`TRANSPORT`</a>
 
   </div>
 
@@ -2911,7 +2911,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRANSPORT_AIRPORT`](sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_AIRPORT">`TRANSPORT_AIRPORT`</a>
 
   </div>
 
@@ -2929,7 +2929,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRANSPORT_CARGO`](sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_CARGO">`TRANSPORT_CARGO`</a>
 
   </div>
 
@@ -2947,7 +2947,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`TRANSPORT_PUBLIC`](sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_PUBLIC">`TRANSPORT_PUBLIC`</a>
 
   </div>
 
@@ -2965,7 +2965,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`TRANSPORT_REST_AREA`](sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA)
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory#TRANSPORT_REST_AREA">`TRANSPORT_REST_AREA`</a>
 
   </div>
 
@@ -2979,7 +2979,7 @@ slug: "sdk-for-android-explore-constant-values"
 
 - <div class="caption">
 
-  com.here.sdk.search.[POIPaymentMethod](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod "class in com.here.sdk.search")
+  com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a>
 
   </div>
 
@@ -3011,7 +3011,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`AMEX`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX">`AMEX`</a>
 
   </div>
 
@@ -3029,7 +3029,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`AMPOL`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL">`AMPOL`</a>
 
   </div>
 
@@ -3047,7 +3047,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`ANDROID_PAY`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY">`ANDROID_PAY`</a>
 
   </div>
 
@@ -3065,7 +3065,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`APPLE_PAY`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY">`APPLE_PAY`</a>
 
   </div>
 
@@ -3083,7 +3083,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`CASH`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH">`CASH`</a>
 
   </div>
 
@@ -3101,7 +3101,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`CHEQUE`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE">`CHEQUE`</a>
 
   </div>
 
@@ -3119,7 +3119,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DEBIT_CARD`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD">`DEBIT_CARD`</a>
 
   </div>
 
@@ -3137,7 +3137,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DINERS_CLUB`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB">`DINERS_CLUB`</a>
 
   </div>
 
@@ -3155,7 +3155,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`DISCOVER`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER">`DISCOVER`</a>
 
   </div>
 
@@ -3173,7 +3173,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`DKV`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV">`DKV`</a>
 
   </div>
 
@@ -3191,7 +3191,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`FINANCING`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING">`FINANCING`</a>
 
   </div>
 
@@ -3209,7 +3209,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`MASTERCARD`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD">`MASTERCARD`</a>
 
   </div>
 
@@ -3227,7 +3227,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`MOTORPASS`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS">`MOTORPASS`</a>
 
   </div>
 
@@ -3245,7 +3245,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`PAYPAL`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL">`PAYPAL`</a>
 
   </div>
 
@@ -3263,7 +3263,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second even-row-color">
 
-  [`SHELL`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL">`SHELL`</a>
 
   </div>
 
@@ -3281,7 +3281,7 @@ slug: "sdk-for-android-explore-constant-values"
 
   <div class="col-second odd-row-color">
 
-  [`VISA`](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA)
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA">`VISA`</a>
 
   </div>
 

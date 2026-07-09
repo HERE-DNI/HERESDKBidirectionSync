@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficengine"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.traffic.TrafficEngine → com.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -121,7 +121,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -143,7 +143,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -165,7 +165,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -187,7 +187,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -209,7 +209,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -231,7 +231,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -253,7 +253,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -297,7 +297,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TrafficEngine</span>() throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TrafficEngine</span>() throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -308,7 +308,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
     </div>
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -320,7 +320,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TrafficEngine</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TrafficEngine</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -336,7 +336,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
     An SDKEngine instance.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -352,7 +352,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") boxArea, @NonNull [TrafficIncidentsQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficIncidentsQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span>
 
     </div>
 
@@ -386,7 +386,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core") circleArea, @NonNull [TrafficIncidentsQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficIncidentsQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span>
 
     </div>
 
@@ -420,7 +420,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull [GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core") corridorArea, @NonNull [TrafficIncidentsQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficIncidentsQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a> callback)</span>
 
     </div>
 
@@ -433,7 +433,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
     Parameters:  
     `corridorArea` -
 
-    The corridor box to search for traffic incidents. The maximum length for the corridor is 500000 meters and the maximum `GeoCorridor.half_width_in_meters` is 5000 meters. If the number of points in corridor is greater than 300 then request is split into smaller ones and results are aggregated into single response, this will result in multiple requests to the backend. This process does not change a shape of the corridor. To reduce number of points in the corridor use [`PolylineSimplifier`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier "class in com.here.sdk.core"). If no `GeoCorridor.half_width_in_meters` is specified, the default value is used. The default value is 30 meters.
+    The corridor box to search for traffic incidents. The maximum length for the corridor is 500000 meters and the maximum `GeoCorridor.half_width_in_meters` is 5000 meters. If the number of points in corridor is greater than 300 then request is split into smaller ones and results are aggregated into single response, this will result in multiple requests to the backend. This process does not change a shape of the corridor. To reduce number of points in the corridor use <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">`PolylineSimplifier`</a>. If no `GeoCorridor.half_width_in_meters` is specified, the default value is used. The default value is 30 meters.
 
     `queryOptions` -
 
@@ -454,7 +454,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">lookupIncident</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> originalId, @NonNull [TrafficIncidentLookupOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions "class in com.here.sdk.traffic") lookupOptions, @NonNull [TrafficIncidentLookupCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">lookupIncident</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> originalId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a> lookupOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a> callback)</span>
 
     </div>
 
@@ -488,7 +488,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") boxArea, @NonNull [TrafficFlowQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficFlowQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span>
 
     </div>
 
@@ -522,7 +522,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core") circleArea, @NonNull [TrafficFlowQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficFlowQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span>
 
     </div>
 
@@ -556,7 +556,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull [GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core") corridorArea, @NonNull [TrafficFlowQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions "class in com.here.sdk.traffic") queryOptions, @NonNull [TrafficFlowQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback "interface in com.here.sdk.traffic") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">queryForFlow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a> queryOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span>
 
     </div>
 
@@ -569,7 +569,7 @@ Use the TrafficEngine to get information about current traffic flow and incident
     Parameters:  
     `corridorArea` -
 
-    The corridor box to search for traffic flow. The maximum length for the corridor is 500000 meters and the maximum `GeoCorridor.half_width_in_meters` is 5000 meters. Maximum number of points in the corridor is 300. To reduce number of points in the corridor use [`PolylineSimplifier`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier "class in com.here.sdk.core"). If no `GeoCorridor.half_width_in_meters` is specified, the default value is used. The default value is 30 meters.
+    The corridor box to search for traffic flow. The maximum length for the corridor is 500000 meters and the maximum `GeoCorridor.half_width_in_meters` is 5000 meters. Maximum number of points in the corridor is 300. To reduce number of points in the corridor use <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">`PolylineSimplifier`</a>. If no `GeoCorridor.half_width_in_meters` is specified, the default value is used. The default value is 30 meters.
 
     `queryOptions` -
 

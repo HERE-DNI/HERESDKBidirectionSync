@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-roadtexts"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Textual attributes of road.
 
   <div class="col-first even-row-color">
 
-  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Textual attributes of road.
 
   <div class="col-first odd-row-color">
 
-  [`LocalizedRoadNumbers`](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers" title="class in com.here.sdk.routing">`LocalizedRoadNumbers`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Textual attributes of road.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTexts](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")</span> <span class="element-name">names</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">names</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Textual attributes of road.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedRoadNumbers](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers "class in com.here.sdk.routing")</span> <span class="element-name">numbersWithDirection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers" title="class in com.here.sdk.routing">LocalizedRoadNumbers</a></span> <span class="element-name">numbersWithDirection</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.animation.MapMarkerAnimation �
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarkerAnimation</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarkerAnimation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -177,7 +177,7 @@ An animation that can be applied to the MapMarker object.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarkerAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation") track)</span> throws <span class="exceptions">[MapMarkerAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception "class in com.here.sdk.animation")</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarkerAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></span>
 
     </div>
 
@@ -193,9 +193,9 @@ An animation that can be applied to the MapMarker object.
     The track holding the keyframes for the animation.
 
     Throws:  
-    [`MapMarkerAnimation.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception "class in com.here.sdk.animation") -
+    <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">`MapMarkerAnimation.InstantiationException`</a> -
 
-    If the specified keyframe track cannot be used to create animation of a [`MapMarker`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview").
+    If the specified keyframe track cannot be used to create animation of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">`MapMarker`</a>.
 
     </div>
 

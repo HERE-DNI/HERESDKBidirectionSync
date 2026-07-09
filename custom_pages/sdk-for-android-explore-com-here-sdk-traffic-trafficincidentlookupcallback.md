@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallbac
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -96,7 +96,7 @@ Callback passed to TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.t
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTrafficIncidentFetched</span><wbr></wbr><span class="parameters">(@Nullable [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError, @Nullable [TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic") result)</span>
+    <span class="return-type">void</span> <span class="element-name">onTrafficIncidentFetched</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError, @Nullable <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a> result)</span>
 
     </div>
 

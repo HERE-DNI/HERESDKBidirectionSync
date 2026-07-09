@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.LogControl → com
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LogControl</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LogControl</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -249,7 +249,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">enableLoggingToConsole</span><wbr></wbr><span class="parameters">(@NonNull [LogLevel](sdk-for-android-explore-com-here-sdk-core-engine-loglevel "enum class in com.here.sdk.core.engine") level)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">enableLoggingToConsole</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level)</span>
 
     </div>
 
@@ -290,7 +290,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setAppender</span><wbr></wbr><span class="parameters">(@NonNull [LogLevel](sdk-for-android-explore-com-here-sdk-core-engine-loglevel "enum class in com.here.sdk.core.engine") level, @NonNull [LogAppender](sdk-for-android-explore-com-here-sdk-core-engine-logappender "interface in com.here.sdk.core.engine") appender)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setAppender</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-logappender" title="interface in com.here.sdk.core.engine">LogAppender</a> appender)</span>
 
     </div>
 
@@ -317,7 +317,7 @@ This class provides functionality to enable/disable console logs as well as sett
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setAppender</span><wbr></wbr><span class="parameters">(@NonNull [LogLevel](sdk-for-android-explore-com-here-sdk-core-engine-loglevel "enum class in com.here.sdk.core.engine") level, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> path)</span> throws <span class="exceptions">[LogControl.InvalidPathException](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine")</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setAppender</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> path)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></span>
 
     </div>
 
@@ -337,9 +337,9 @@ This class provides functionality to enable/disable console logs as well as sett
     Absolute path to a file that the application has read/write permissions.
 
     Throws:  
-    [`LogControl.InvalidPathException`](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">`LogControl.InvalidPathException`</a> -
 
-    [`LogControl.InvalidPathException`](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine") Indicates that the file path is invalid or not writeable.
+    <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">`LogControl.InvalidPathException`</a> Indicates that the file path is invalid or not writeable.
 
     </div>
 

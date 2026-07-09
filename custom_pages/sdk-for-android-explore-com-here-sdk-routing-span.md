@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.Span → com.here.Nati
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Span</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Span</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">`AccessAttributes`</a>`>`
 
   </div>
 
@@ -151,7 +151,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DynamicSpeedInfo`](sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo" title="class in com.here.sdk.routing">`DynamicSpeedInfo`</a>
 
   </div>
 
@@ -195,7 +195,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`FunctionalRoadClass`](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">`FunctionalRoadClass`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocalizedRoadNumbers`](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers" title="class in com.here.sdk.routing">`LocalizedRoadNumbers`</a>
 
   </div>
 
@@ -327,7 +327,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">`AccessAttributes`</a>`>`
 
   </div>
 
@@ -371,7 +371,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">`SegmentReference`</a>
 
   </div>
 
@@ -459,7 +459,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">`StreetAttributes`</a>`>`
 
   </div>
 
@@ -481,7 +481,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
 
   </div>
 
@@ -525,7 +525,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">`AccessAttributes`</a>`>`
 
   </div>
 
@@ -547,7 +547,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">`WalkAttributes`</a>`>`
 
   </div>
 
@@ -591,7 +591,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getShieldText</span><wbr></wbr><span class="parameters">(@NonNull [LocalizedRoadNumber](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber "class in com.here.sdk.routing") roadNumber)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getShieldText</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a> roadNumber)</span>
 
     </div>
 
@@ -617,7 +617,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -628,7 +628,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
     </div>
 
     Returns:  
-    The [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") object representing the polyline of this span.
+    The <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a> object representing the polyline of this span.
 
     </div>
 
@@ -674,7 +674,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
         Section.getSectionNotices()
 
-    </a> the parent section owns. In case the list is not empty, the user must judge all the indexed [`SectionNotice`](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")s carefully before proceeding.
+    </a> the parent section owns. In case the list is not empty, the user must judge all the indexed <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice" title="class in com.here.sdk.routing">`SectionNotice`</a>s carefully before proceeding.
 
     </p>
 
@@ -686,7 +686,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")</span> <span class="element-name">getSegmentReference</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">getSegmentReference</span>()
 
     </div>
 
@@ -722,7 +722,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
         Section.getTrafficIncidents()
 
-    </a> of the parent [`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing"). Each matching incident takes at least a whole [](sdk-for-android-explore-com-here-sdk-routing-span#getGeometry())
+    </a> of the parent <a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">`Section`</a>. Each matching incident takes at least a whole [](sdk-for-android-explore-com-here-sdk-routing-span#getGeometry())
 
         getGeometry()
 
@@ -759,7 +759,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[DynamicSpeedInfo](sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo "class in com.here.sdk.routing")</span> <span class="element-name">getDynamicSpeedInfo</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo" title="class in com.here.sdk.routing">DynamicSpeedInfo</a></span> <span class="element-name">getDynamicSpeedInfo</span>()
 
     </div>
 
@@ -780,7 +780,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>\></span> <span class="element-name">getStreetAttributes</span>()
 
     </div>
 
@@ -801,7 +801,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>\></span> <span class="element-name">getCarAttributes</span>()
 
     </div>
 
@@ -822,7 +822,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>\></span> <span class="element-name">getTruckAttributes</span>()
 
     </div>
 
@@ -843,7 +843,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>\></span> <span class="element-name">getScooterAttributes</span>()
 
     </div>
 
@@ -864,7 +864,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>\></span> <span class="element-name">getWalkAttributes</span>()
 
     </div>
 
@@ -885,7 +885,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTexts](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")</span> <span class="element-name">getStreetNames</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getStreetNames</span>()
 
     </div>
 
@@ -906,7 +906,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedRoadNumbers](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers "class in com.here.sdk.routing")</span> <span class="element-name">getRoadNumbers</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers" title="class in com.here.sdk.routing">LocalizedRoadNumbers</a></span> <span class="element-name">getRoadNumbers</span>()
 
     </div>
 
@@ -969,7 +969,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[FunctionalRoadClass](sdk-for-android-explore-com-here-sdk-routing-functionalroadclass "enum class in com.here.sdk.routing")</span> <span class="element-name">getFunctionalRoadClass</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a></span> <span class="element-name">getFunctionalRoadClass</span>()
 
     </div>
 
@@ -990,7 +990,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
 
     </div>
 
@@ -1017,7 +1017,7 @@ A span is a part of the Section which is traversable or navigable. Each span usu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getBaseDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getBaseDuration</span>()
 
     </div>
 

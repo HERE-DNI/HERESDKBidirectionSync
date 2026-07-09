@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapSurface](sdk-for-android-explore-com-here-sdk-mapview-mapsurface "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a>
 
 <div class="type-signature">
 

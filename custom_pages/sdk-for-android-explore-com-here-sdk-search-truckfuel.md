@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-truckfuel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
   <div class="col-first even-row-color">
 
-  [`TruckClass`](sdk-for-android-explore-com-here-sdk-transport-truckclass "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">`TruckClass`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
   <div class="col-first odd-row-color">
 
-  [`TruckFuelType`](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">`TruckFuelType`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckClass](sdk-for-android-explore-com-here-sdk-transport-truckclass "enum class in com.here.sdk.transport")</span> <span class="element-name">maximumTruckClass</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">maximumTruckClass</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Contains truck fuel type info of fuel station. Note: This is a BETA feature and 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TruckFuel</span><wbr></wbr><span class="parameters">(@NonNull [TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport") type)</span>
+    <span class="modifiers">public</span> <span class="element-name">TruckFuel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a> type)</span>
 
     </div>
 

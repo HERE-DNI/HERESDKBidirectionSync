@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiati
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when a problem occurs while trying to create MapMarker3DModel .
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapMarker3DModel.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapMarker3DModel.InstantiationException">Serialized Form</a>
 
 </div>
 

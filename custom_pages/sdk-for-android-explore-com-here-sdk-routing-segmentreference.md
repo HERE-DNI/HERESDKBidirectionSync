@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -177,7 +177,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
   <div class="col-first odd-row-color">
 
-  [`TravelDirection`](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">`TravelDirection`</a>
 
   </div>
 
@@ -392,7 +392,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">`SegmentReference`</a>
 
   </div>
 
@@ -472,7 +472,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing")</span> <span class="element-name">travelDirection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">travelDirection</span>
 
     </div>
 
@@ -607,7 +607,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection)</span>
+    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</span>
 
     </div>
 
@@ -634,7 +634,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection, double offsetStart)</span>
+    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection, double offsetStart)</span>
 
     </div>
 
@@ -665,7 +665,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection, double offsetStart, double offsetEnd)</span>
+    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection, double offsetStart, double offsetEnd)</span>
 
     </div>
 
@@ -700,7 +700,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection, double offsetStart, double offsetEnd, long tilePartitionId)</span>
+    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection, double offsetStart, double offsetEnd, long tilePartitionId)</span>
 
     </div>
 
@@ -739,7 +739,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull [TravelDirection](sdk-for-android-explore-com-here-sdk-routing-traveldirection "enum class in com.here.sdk.routing") travelDirection, double offsetStart, double offsetEnd, long tilePartitionId, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a> localId)</span>
+    <span class="modifiers">public</span> <span class="element-name">SegmentReference</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentId, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection, double offsetStart, double offsetEnd, long tilePartitionId, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" class="external-link" title="class or interface in java.lang">Long</a> localId)</span>
 
     </div>
 
@@ -816,7 +816,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")</span> <span class="element-name">fromString</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentRef)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">fromString</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> segmentRef)</span>
 
     </div>
 
@@ -832,7 +832,7 @@ Reference to a segment id with a travel direction. Note: This is a beta release 
     The string to parse
 
     Returns:  
-    An instance of [`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing") from a string if it's well-formatted, `null` otherwise.
+    An instance of <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">`SegmentReference`</a> from a string if it's well-formatted, `null` otherwise.
 
     </div>
 

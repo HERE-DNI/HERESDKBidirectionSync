@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
   <div class="col-first odd-row-color">
 
-  [`RoutePlace`](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">`RoutePlace`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")</span> <span class="element-name">place</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span>
 
     </div>
 
@@ -279,7 +279,7 @@ This structure provides all the information for a passthrough waypoint. The loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">PassThroughWaypoint</span><wbr></wbr><span class="parameters">(@NonNull [RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing") place)</span>
+    <span class="modifiers">public</span> <span class="element-name">PassThroughWaypoint</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</span>
 
     </div>
 

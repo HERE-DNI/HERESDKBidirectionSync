@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselemen
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.search.StructuredQuery.AddressElements → com.her
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[StructuredQuery](sdk-for-android-explore-com-here-sdk-search-structuredquery "class in com.here.sdk.search")
+<a href="sdk-for-android-explore-com-here-sdk-search-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a>
 
 <div class="type-signature">
 

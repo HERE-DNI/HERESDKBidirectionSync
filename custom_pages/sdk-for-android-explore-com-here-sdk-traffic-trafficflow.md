@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflow"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.traffic.TrafficFlow → com.he
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`TrafficFlowBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")
+<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">`TrafficFlowBase`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficFlow</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [TrafficFlowBase](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficFlow</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span>
 
 </div>
 
@@ -154,7 +154,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`JunctionsTraversability`](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">`JunctionsTraversability`</a>
 
   </div>
 
@@ -176,7 +176,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TrafficLocation`](sdk-for-android-explore-com-here-sdk-traffic-trafficlocation "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation" title="class in com.here.sdk.traffic">`TrafficLocation`</a>
 
   </div>
 
@@ -242,7 +242,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Traversability`](sdk-for-android-explore-com-here-sdk-traffic-traversability "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-traversability" title="enum class in com.here.sdk.traffic">`Traversability`</a>
 
   </div>
 
@@ -286,7 +286,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TrafficLocation](sdk-for-android-explore-com-here-sdk-traffic-trafficlocation "class in com.here.sdk.traffic")</span> <span class="element-name">getLocation</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></span> <span class="element-name">getLocation</span>()
 
     </div>
 
@@ -391,7 +391,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Traversability](sdk-for-android-explore-com-here-sdk-traffic-traversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">getTraversability</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></span> <span class="element-name">getTraversability</span>()
 
     </div>
 
@@ -412,7 +412,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">getJunctionsTraversability</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">getJunctionsTraversability</span>()
 
     </div>
 
@@ -444,7 +444,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
     </div>
 
     Specified by:  
-    [`getFreeFlowSpeedInMetersPerSecond`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getFreeFlowSpeedInMetersPerSecond()) in interface [`TrafficFlowBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getFreeFlowSpeedInMetersPerSecond(">`getFreeFlowSpeedInMetersPerSecond`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">`TrafficFlowBase`</a>
 
     Returns:  
     The reference speed in meters per second along the roadway when no traffic is present.
@@ -468,7 +468,7 @@ This class provides details about traffic flow along a GeoCorridor , inside a Ge
     </div>
 
     Specified by:  
-    [`getJamFactor`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getJamFactor()) in interface [`TrafficFlowBase`](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")
+    <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getJamFactor(">`getJamFactor`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">`TrafficFlowBase`</a>
 
     Returns:  
     A value for the amount of traffic on the roadway.

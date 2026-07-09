@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`MapSurface`](sdk-for-android-explore-com-here-sdk-mapview-mapsurface "class in com.here.sdk.mapview"), [`MapView`](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" title="class in com.here.sdk.mapview">`MapSurface`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">`MapView`</a>
 
 <div class="type-signature">
 
@@ -136,7 +136,7 @@ Represents the available public API from MapView .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">`Point2D`</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Represents the available public API from MapView .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`MapCamera`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">`MapCamera`</a>
 
   </div>
 
@@ -202,7 +202,7 @@ Represents the available public API from MapView .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`Gestures`](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">`Gestures`</a>
 
   </div>
 
@@ -224,7 +224,7 @@ Represents the available public API from MapView .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`HereMap`](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">`HereMap`</a>
 
   </div>
 
@@ -246,7 +246,7 @@ Represents the available public API from MapView .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`MapContext`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">`MapContext`</a>
 
   </div>
 
@@ -268,7 +268,7 @@ Represents the available public API from MapView .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`MapScene`](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">`MapScene`</a>
 
   </div>
 
@@ -312,7 +312,7 @@ Represents the available public API from MapView .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">`Size2D`</a>
 
   </div>
 
@@ -334,7 +334,7 @@ Represents the available public API from MapView .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">`Size2D`</a>
 
   </div>
 
@@ -466,7 +466,7 @@ Represents the available public API from MapView .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -502,7 +502,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">viewToGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates)</span>
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span>
 
     </div>
 
@@ -528,7 +528,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">geoToViewCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span>
 
     </div>
 
@@ -554,7 +554,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") offset)</span>
+    <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span>
 
     </div>
 
@@ -581,7 +581,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapViewLifecycleListener](sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener "interface in com.here.sdk.mapview") lifecycleListener)</span>
+    <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span>
 
     </div>
 
@@ -604,7 +604,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapViewLifecycleListener](sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener "interface in com.here.sdk.mapview") lifecycleListener)</span>
+    <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span>
 
     </div>
 
@@ -627,7 +627,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">pick</span><wbr></wbr><span class="parameters">(@Nullable [MapScene.MapPickFilter](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter "class in com.here.sdk.mapview") filter, @NonNull [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewArea, @NonNull [MapViewBase.MapPickCallback](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="return-type">void</span> <span class="element-name">pick</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span>
 
     </div>
 
@@ -679,7 +679,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")</span> <span class="element-name">getCamera</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()
 
     </div>
 
@@ -700,7 +700,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[Gestures](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")</span> <span class="element-name">getGestures</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()
 
     </div>
 
@@ -721,7 +721,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")</span> <span class="element-name">getMapScene</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()
 
     </div>
 
@@ -742,7 +742,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")</span> <span class="element-name">getMapContext</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()
 
     </div>
 
@@ -763,7 +763,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")</span> <span class="element-name">getHereMap</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()
 
     </div>
 
@@ -784,7 +784,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")</span> <span class="element-name">getViewportSize</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()
 
     </div>
 
@@ -870,7 +870,7 @@ Represents the available public API from MapView .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")</span> <span class="element-name">getWatermarkSize</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()
 
     </div>
 

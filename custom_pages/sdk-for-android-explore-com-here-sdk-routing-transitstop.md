@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitstop"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ A transit stop between the departure and destination of a transit section.
 
   <div class="col-first even-row-color">
 
-  [`TransitDeparture`](sdk-for-android-explore-com-here-sdk-routing-transitdeparture "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparture" title="class in com.here.sdk.routing">`TransitDeparture`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ A transit stop between the departure and destination of a transit section.
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ A transit stop between the departure and destination of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransitDeparture](sdk-for-android-explore-com-here-sdk-routing-transitdeparture "class in com.here.sdk.routing")</span> <span class="element-name">departure</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a></span> <span class="element-name">departure</span>
 
     </div>
 
@@ -257,7 +257,7 @@ A transit stop between the departure and destination of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">duration</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span>
 
     </div>
 
@@ -279,7 +279,7 @@ A transit stop between the departure and destination of a transit section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitStop</span><wbr></wbr><span class="parameters">(@NonNull [TransitDeparture](sdk-for-android-explore-com-here-sdk-routing-transitdeparture "class in com.here.sdk.routing") departure)</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitStop</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparture" title="class in com.here.sdk.routing">TransitDeparture</a> departure)</span>
 
     </div>
 

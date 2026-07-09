@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapMarkerCluster.ImageStyle → com.here.s
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ This class specifies the visual appearance of a cluster marker.
 
   <div class="col-first even-row-color">
 
-  `final `[`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">`Anchor2D`</a>
 
   </div>
 
@@ -92,7 +92,7 @@ This class specifies the visual appearance of a cluster marker.
 
   <div class="col-first odd-row-color">
 
-  `final `[`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">`MapImage`</a>
 
   </div>
 
@@ -196,7 +196,7 @@ This class specifies the visual appearance of a cluster marker.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">image</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">image</span>
 
     </div>
 
@@ -214,7 +214,7 @@ This class specifies the visual appearance of a cluster marker.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">anchor</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">anchor</span>
 
     </div>
 
@@ -236,7 +236,7 @@ This class specifies the visual appearance of a cluster marker.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ImageStyle</span><wbr></wbr><span class="parameters">(@NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image, @NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor)</span>
+    <span class="modifiers">public</span> <span class="element-name">ImageStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span>
 
     </div>
 
@@ -263,7 +263,7 @@ This class specifies the visual appearance of a cluster marker.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ImageStyle</span><wbr></wbr><span class="parameters">(@NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image)</span>
+    <span class="modifiers">public</span> <span class="element-name">ImageStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span>
 
     </div>
 

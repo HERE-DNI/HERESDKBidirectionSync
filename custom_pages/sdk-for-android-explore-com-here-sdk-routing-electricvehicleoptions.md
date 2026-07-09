@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
   <div class="col-first even-row-color">
 
-  [`BatterySpecifications`](sdk-for-android-explore-com-here-sdk-routing-batteryspecifications "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications" title="class in com.here.sdk.routing">`BatterySpecifications`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
   <div class="col-first odd-row-color">
 
-  [`EmpiricalConsumptionModel`](sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel" title="class in com.here.sdk.routing">`EmpiricalConsumptionModel`</a>
 
   </div>
 
@@ -133,7 +133,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
   <div class="col-first odd-row-color">
 
-  [`EVMobilityServiceProviderPreferences`](sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">`EVMobilityServiceProviderPreferences`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
   <div class="col-first even-row-color">
 
-  [`PhysicalConsumptionModel`](sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel" title="class in com.here.sdk.routing">`PhysicalConsumptionModel`</a>
 
   </div>
 
@@ -323,7 +323,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EVMobilityServiceProviderPreferences](sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences "class in com.here.sdk.routing")</span> <span class="element-name">evMobilityServiceProviderPreferences</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></span> <span class="element-name">evMobilityServiceProviderPreferences</span>
 
     </div>
 
@@ -341,7 +341,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EmpiricalConsumptionModel](sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel "class in com.here.sdk.routing")</span> <span class="element-name">empiricalConsumptionModel</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></span> <span class="element-name">empiricalConsumptionModel</span>
 
     </div>
 
@@ -359,7 +359,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[PhysicalConsumptionModel](sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel "class in com.here.sdk.routing")</span> <span class="element-name">physicalConsumptionModel</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></span> <span class="element-name">physicalConsumptionModel</span>
 
     </div>
 
@@ -377,7 +377,7 @@ These options define the parameters of the electric vehicle. Note: This is a bet
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[BatterySpecifications](sdk-for-android-explore-com-here-sdk-routing-batteryspecifications "class in com.here.sdk.routing")</span> <span class="element-name">batterySpecifications</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></span> <span class="element-name">batterySpecifications</span>
 
     </div>
 

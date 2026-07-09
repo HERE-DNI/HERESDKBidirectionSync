@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Address](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a>
 
   </div>
 
@@ -47,7 +47,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [AddressQuery](sdk-for-android-explore-com-here-sdk-search-addressquery "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a>
 
   </div>
 
@@ -63,7 +63,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [AddressType](sdk-for-android-explore-com-here-sdk-search-addresstype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">AddressType</a>
 
   </div>
 
@@ -79,7 +79,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a>
 
   </div>
 
@@ -95,7 +95,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [BusinessDetails](sdk-for-android-explore-com-here-sdk-search-businessdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a>
 
   </div>
 
@@ -111,7 +111,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [CategoryQuery](sdk-for-android-explore-com-here-sdk-search-categoryquery "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a>
 
   </div>
 
@@ -127,7 +127,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [CategoryQuery.Area](sdk-for-android-explore-com-here-sdk-search-categoryquery-area "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a>
 
   </div>
 
@@ -143,7 +143,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Contact](sdk-for-android-explore-com-here-sdk-search-contact "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>
 
   </div>
 
@@ -159,7 +159,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [DateRange](sdk-for-android-explore-com-here-sdk-search-daterange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-daterange" title="class in com.here.sdk.search">DateRange</a>
 
   </div>
 
@@ -175,7 +175,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [DayOfWeek](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>
 
   </div>
 
@@ -191,7 +191,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Details](sdk-for-android-explore-com-here-sdk-search-details "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-details" title="class in com.here.sdk.search">Details</a>
 
   </div>
 
@@ -207,7 +207,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EmailAddress](sdk-for-android-explore-com-here-sdk-search-emailaddress "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-emailaddress" title="class in com.here.sdk.search">EmailAddress</a>
 
   </div>
 
@@ -223,7 +223,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider" title="class in com.here.sdk.search">EMobilityServiceProvider</a>
 
   </div>
 
@@ -239,7 +239,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EnergyMix](sdk-for-android-explore-com-here-sdk-search-energymix "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix" title="class in com.here.sdk.search">EnergyMix</a>
 
   </div>
 
@@ -255,7 +255,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysource" title="class in com.here.sdk.search">EnergySource</a>
 
   </div>
 
@@ -271,7 +271,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a>
 
   </div>
 
@@ -287,7 +287,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a>
 
   </div>
 
@@ -303,7 +303,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EnvironmentalImpactCategory](sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a>
 
   </div>
 
@@ -319,7 +319,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>
 
   </div>
 
@@ -335,7 +335,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVAccessType](sdk-for-android-explore-com-here-sdk-search-evaccesstype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype" title="enum class in com.here.sdk.search">EVAccessType</a>
 
   </div>
 
@@ -351,7 +351,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingConnector](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a>
 
   </div>
 
@@ -367,7 +367,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>
 
   </div>
 
@@ -383,7 +383,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingConnectorReference](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference" title="class in com.here.sdk.search">EVChargingConnectorReference</a>
 
   </div>
 
@@ -399,7 +399,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingDurationRange](sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a>
 
   </div>
 
@@ -415,7 +415,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a>
 
   </div>
 
@@ -431,7 +431,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVChargingLocationFeature](sdk-for-android-explore-com-here-sdk-search-evcharginglocationfeature "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>
 
   </div>
 
@@ -447,7 +447,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingOpeningHours](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a>
 
   </div>
 
@@ -463,7 +463,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingOpeningHoursException](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>
 
   </div>
 
@@ -479,7 +479,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingOpeningHoursSchedule](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>
 
   </div>
 
@@ -495,7 +495,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a>
 
   </div>
 
@@ -511,7 +511,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingPool](sdk-for-android-explore-com-here-sdk-search-evchargingpool "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a>
 
   </div>
 
@@ -527,7 +527,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingPoolDetails](sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails" title="class in com.here.sdk.search">EVChargingPoolDetails</a>
 
   </div>
 
@@ -543,7 +543,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation" title="class in com.here.sdk.search">EVChargingStation</a>
 
   </div>
 
@@ -559,7 +559,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a>
 
   </div>
 
@@ -575,7 +575,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVChargingTariffDimension](sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a>
 
   </div>
 
@@ -591,7 +591,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingTariffElement](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelement "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelement" title="class in com.here.sdk.search">EVChargingTariffElement</a>
 
   </div>
 
@@ -607,7 +607,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingTariffElementCondition](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a>
 
   </div>
 
@@ -623,7 +623,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVChargingTariffPriceComponent](sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>
 
   </div>
 
@@ -639,7 +639,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingTariffRequest](sdk-for-android-explore-com-here-sdk-search-evchargingtariffrequest "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffrequest" title="class in com.here.sdk.search">EVChargingTariffRequest</a>
 
   </div>
 
@@ -655,7 +655,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVChargingTariffType](sdk-for-android-explore-com-here-sdk-search-evchargingtarifftype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtarifftype" title="enum class in com.here.sdk.search">EVChargingTariffType</a>
 
   </div>
 
@@ -671,7 +671,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVChargingTruckRestriction](sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a>
 
   </div>
 
@@ -687,7 +687,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>
 
   </div>
 
@@ -703,7 +703,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evse" title="class in com.here.sdk.search">Evse</a>
 
   </div>
 
@@ -719,7 +719,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a>
 
   </div>
 
@@ -735,7 +735,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVSearchEngine](sdk-for-android-explore-com-here-sdk-search-evsearchengine "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a>
 
   </div>
 
@@ -751,7 +751,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a>
 
   </div>
 
@@ -767,7 +767,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [EVSearchInterface](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a>
 
   </div>
 
@@ -783,7 +783,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVSearchOptions](sdk-for-android-explore-com-here-sdk-search-evsearchoptions "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a>
 
   </div>
 
@@ -799,7 +799,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [EVSEConnector](sdk-for-android-explore-com-here-sdk-search-evseconnector "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseconnector" title="class in com.here.sdk.search">EVSEConnector</a>
 
   </div>
 
@@ -815,7 +815,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a>
 
   </div>
 
@@ -831,7 +831,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EVSEStatus](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsestatus" title="enum class in com.here.sdk.search">EVSEStatus</a>
 
   </div>
 
@@ -847,7 +847,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>
 
   </div>
 
@@ -863,7 +863,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [FuelAdditive](sdk-for-android-explore-com-here-sdk-search-fueladditive "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>
 
   </div>
 
@@ -879,7 +879,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [FuelStation](sdk-for-android-explore-com-here-sdk-search-fuelstation "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search">FuelStation</a>
 
   </div>
 
@@ -895,7 +895,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GenericFuel](sdk-for-android-explore-com-here-sdk-search-genericfuel "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-genericfuel" title="class in com.here.sdk.search">GenericFuel</a>
 
   </div>
 
@@ -911,7 +911,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoPlace](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-geoplace" title="class in com.here.sdk.search">GeoPlace</a>
 
   </div>
 
@@ -927,7 +927,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [HighlightType](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>
 
   </div>
 
@@ -943,7 +943,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">IndexRange</a>
 
   </div>
 
@@ -959,7 +959,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LandlinePhone](sdk-for-android-explore-com-here-sdk-search-landlinephone "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-landlinephone" title="class in com.here.sdk.search">LandlinePhone</a>
 
   </div>
 
@@ -975,7 +975,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LocationDetails](sdk-for-android-explore-com-here-sdk-search-locationdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-locationdetails" title="class in com.here.sdk.search">LocationDetails</a>
 
   </div>
 
@@ -991,7 +991,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MobilePhone](sdk-for-android-explore-com-here-sdk-search-mobilephone "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone" title="class in com.here.sdk.search">MobilePhone</a>
 
   </div>
 
@@ -1007,7 +1007,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [OpeningHours](sdk-for-android-explore-com-here-sdk-search-openinghours "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>
 
   </div>
 
@@ -1023,7 +1023,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [ParkingType](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>
 
   </div>
 
@@ -1039,7 +1039,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a>
 
   </div>
 
@@ -1055,7 +1055,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>
 
   </div>
 
@@ -1071,7 +1071,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PlaceChain](sdk-for-android-explore-com-here-sdk-search-placechain "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placechain" title="class in com.here.sdk.search">PlaceChain</a>
 
   </div>
 
@@ -1087,7 +1087,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PlaceFilter](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a>
 
   </div>
 
@@ -1103,7 +1103,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PlaceFilter.Ev](sdk-for-android-explore-com-here-sdk-search-placefilter-ev "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a>
 
   </div>
 
@@ -1119,7 +1119,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PlaceFoodType](sdk-for-android-explore-com-here-sdk-search-placefoodtype "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>
 
   </div>
 
@@ -1135,7 +1135,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PlaceIdQuery](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a>
 
   </div>
 
@@ -1151,7 +1151,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [PlaceIdSearchCallback](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a>
 
   </div>
 
@@ -1167,7 +1167,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PlaceIdSearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended" title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a>
 
   </div>
 
@@ -1183,7 +1183,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [PlaceSerializationError](sdk-for-android-explore-com-here-sdk-search-placeserializationerror "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placeserializationerror" title="enum class in com.here.sdk.search">PlaceSerializationError</a>
 
   </div>
 
@@ -1199,7 +1199,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [PlaceSerializationException](sdk-for-android-explore-com-here-sdk-search-placeserializationexception "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a>
 
   </div>
 
@@ -1215,7 +1215,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a>
 
   </div>
 
@@ -1231,7 +1231,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [POIPaymentDetails](sdk-for-android-explore-com-here-sdk-search-poipaymentdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a>
 
   </div>
 
@@ -1247,7 +1247,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [POIPaymentMethod](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a>
 
   </div>
 
@@ -1263,7 +1263,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a>
 
   </div>
 
@@ -1279,7 +1279,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ScheduleDetails](sdk-for-android-explore-com-here-sdk-search-scheduledetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-scheduledetails" title="class in com.here.sdk.search">ScheduleDetails</a>
 
   </div>
 
@@ -1295,7 +1295,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [SearchCallback](sdk-for-android-explore-com-here-sdk-search-searchcallback "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a>
 
   </div>
 
@@ -1311,7 +1311,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [SearchCallbackExtended](sdk-for-android-explore-com-here-sdk-search-searchcallbackextended "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searchcallbackextended" title="interface in com.here.sdk.search">SearchCallbackExtended</a>
 
   </div>
 
@@ -1327,7 +1327,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [SearchEngine](sdk-for-android-explore-com-here-sdk-search-searchengine "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searchengine" title="class in com.here.sdk.search">SearchEngine</a>
 
   </div>
 
@@ -1343,7 +1343,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>
 
   </div>
 
@@ -1359,7 +1359,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [SearchInterface](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>
 
   </div>
 
@@ -1375,7 +1375,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SearchOptions](sdk-for-android-explore-com-here-sdk-search-searchoptions "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a>
 
   </div>
 
@@ -1391,7 +1391,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [StructuredQuery](sdk-for-android-explore-com-here-sdk-search-structuredquery "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a>
 
   </div>
 
@@ -1407,7 +1407,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [StructuredQuery.AddressElements](sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a>
 
   </div>
 
@@ -1423,7 +1423,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [StructuredQuery.ResultType](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>
 
   </div>
 
@@ -1439,7 +1439,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [SuggestCallback](sdk-for-android-explore-com-here-sdk-search-suggestcallback "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a>
 
   </div>
 
@@ -1455,7 +1455,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [SuggestCallbackExtended](sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended "interface in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallbackextended" title="interface in com.here.sdk.search">SuggestCallbackExtended</a>
 
   </div>
 
@@ -1471,7 +1471,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Suggestion](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">Suggestion</a>
 
   </div>
 
@@ -1487,7 +1487,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [SuggestionType](sdk-for-android-explore-com-here-sdk-search-suggestiontype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a>
 
   </div>
 
@@ -1503,7 +1503,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SupplierReference](sdk-for-android-explore-com-here-sdk-search-supplierreference "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-supplierreference" title="class in com.here.sdk.search">SupplierReference</a>
 
   </div>
 
@@ -1519,7 +1519,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TextQuery](sdk-for-android-explore-com-here-sdk-search-textquery "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a>
 
   </div>
 
@@ -1535,7 +1535,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TextQuery.Area](sdk-for-android-explore-com-here-sdk-search-textquery-area "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a>
 
   </div>
 
@@ -1551,7 +1551,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TimeOfDayRange](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>
 
   </div>
 
@@ -1567,7 +1567,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TruckAmenities](sdk-for-android-explore-com-here-sdk-search-truckamenities "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a>
 
   </div>
 
@@ -1583,7 +1583,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TruckFuel](sdk-for-android-explore-com-here-sdk-search-truckfuel "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-truckfuel" title="class in com.here.sdk.search">TruckFuel</a>
 
   </div>
 
@@ -1599,7 +1599,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [WebDetails](sdk-for-android-explore-com-here-sdk-search-webdetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-webdetails" title="class in com.here.sdk.search">WebDetails</a>
 
   </div>
 
@@ -1615,7 +1615,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [WebEditorial](sdk-for-android-explore-com-here-sdk-search-webeditorial "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>
 
   </div>
 
@@ -1631,7 +1631,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [WebImage](sdk-for-android-explore-com-here-sdk-search-webimage "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>
 
   </div>
 
@@ -1647,7 +1647,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [WebRating](sdk-for-android-explore-com-here-sdk-search-webrating "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>
 
   </div>
 
@@ -1663,7 +1663,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [WebsiteAddress](sdk-for-android-explore-com-here-sdk-search-websiteaddress "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-websiteaddress" title="class in com.here.sdk.search">WebsiteAddress</a>
 
   </div>
 
@@ -1679,7 +1679,7 @@ package <span class="element-name">com.here.sdk.search</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [WebSource](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a>
 
   </div>
 

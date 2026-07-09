@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
   <div class="col-first even-row-color">
 
-  [`DesiredCatalog`](sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">`DesiredCatalog`</a>
 
   </div>
 
@@ -243,7 +243,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">`CatalogConfiguration`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DesiredCatalog](sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog "class in com.here.sdk.core.engine")</span> <span class="element-name">catalog</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></span> <span class="element-name">catalog</span>
 
     </div>
 
@@ -341,7 +341,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">cacheExpirationPeriod</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">cacheExpirationPeriod</span>
 
     </div>
 
@@ -381,7 +381,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">CatalogConfiguration</span><wbr></wbr><span class="parameters">(@NonNull [DesiredCatalog](sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog "class in com.here.sdk.core.engine") catalog)</span>
+    <span class="modifiers">public</span> <span class="element-name">CatalogConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</span>
 
     </div>
 
@@ -394,7 +394,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
     Parameters:  
     `catalog` -
 
-    The identifier for the desired catalog to be accessed on the HERE platform. See [`DesiredCatalog`](sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog "class in com.here.sdk.core.engine").
+    The identifier for the desired catalog to be accessed on the HERE platform. See <a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">`DesiredCatalog`</a>.
 
     </div>
 
@@ -438,7 +438,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")</span> <span class="element-name">getDefault</span><wbr></wbr><span class="parameters">(@NonNull [CatalogType](sdk-for-android-explore-com-here-sdk-core-engine-catalogtype "enum class in com.here.sdk.core.engine") catalogType)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></span> <span class="element-name">getDefault</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</span>
 
     </div>
 
@@ -454,7 +454,7 @@ Using this class you can configure in the SDKOptions , how the SDKNativeEngine s
     Catalog type
 
     Returns:  
-    Instance of [`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine").
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">`CatalogConfiguration`</a>.
 
     </div>
 

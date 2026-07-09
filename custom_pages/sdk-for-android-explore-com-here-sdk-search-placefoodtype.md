@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefoodtype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -332,7 +332,7 @@ Parameters related to HERE Places cuisine system.
     Parameters:  
     `id` -
 
-    Identifier for an associated food type. For example, the food type ID "200-000" represents the unique culture and flavor of Asia. The complete list of supported food type IDs can be found [here](https://docs.in.here.com/static/122041/1149894/html/topics-places/food-types-category-system-full.html).
+    Identifier for an associated food type. For example, the food type ID "200-000" represents the unique culture and flavor of Asia. The complete list of supported food type IDs can be found <a href="https://docs.in.here.com/static/122041/1149894/html/topics-places/food-types-category-system-full.html">here</a>.
 
     </div>
 

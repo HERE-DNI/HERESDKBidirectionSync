@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-angle"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.Angle → com.here.Native
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Angle</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Angle</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Represents an angle independent of the unit of measurement.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Angle`](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">`Angle`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Represents an angle independent of the unit of measurement.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Angle`](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">`Angle`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Represents an angle independent of the unit of measurement.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Angle](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")</span> <span class="element-name">fromDegrees</span><wbr></wbr><span class="parameters">(double angle)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromDegrees</span><wbr></wbr><span class="parameters">(double angle)</span>
 
     </div>
 
@@ -199,7 +199,7 @@ Represents an angle independent of the unit of measurement.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Angle](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")</span> <span class="element-name">fromRadians</span><wbr></wbr><span class="parameters">(double angle)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromRadians</span><wbr></wbr><span class="parameters">(double angle)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-environmentalimpact"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
   <div class="col-first odd-row-color">
 
-  [`EnvironmentalImpactCategory`](sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">`EnvironmentalImpactCategory`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Represents environmental impact for an environmental impact category. EnergyMix 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EnvironmentalImpactCategory](sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory "enum class in com.here.sdk.search")</span> <span class="element-name">category</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></span> <span class="element-name">category</span>
 
     </div>
 

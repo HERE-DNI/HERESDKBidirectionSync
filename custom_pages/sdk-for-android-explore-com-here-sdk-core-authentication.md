@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.Authentication → com.he
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Authentication</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Authentication</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AuthenticationData`](sdk-for-android-explore-com-here-sdk-core-authenticationdata "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">`AuthenticationData`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">authenticate</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkNativeEngine, @NonNull [AuthenticationCallback](sdk-for-android-explore-com-here-sdk-core-authenticationcallback "interface in com.here.sdk.core") callback)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">authenticate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a> callback)</span>
 
     </div>
 
@@ -156,7 +156,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationData](sdk-for-android-explore-com-here-sdk-core-authenticationdata "class in com.here.sdk.core")</span> <span class="element-name">authenticate</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkNativeEngine)</span> throws <span class="exceptions">[AuthenticationException](sdk-for-android-explore-com-here-sdk-core-authenticationexception "class in com.here.sdk.core")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a></span> <span class="element-name">authenticate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-authenticationexception" title="class in com.here.sdk.core">AuthenticationException</a></span>
 
     </div>
 
@@ -175,7 +175,7 @@ Use the authentication class to authenticate and retrieve a secure token that ca
     Authentication data.
 
     Throws:  
-    [`AuthenticationException`](sdk-for-android-explore-com-here-sdk-core-authenticationexception "class in com.here.sdk.core") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-authenticationexception" title="class in com.here.sdk.core">`AuthenticationException`</a> -
 
     Authentication exception that describes the error.
 

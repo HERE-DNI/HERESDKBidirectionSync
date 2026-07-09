@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -111,7 +111,7 @@ Contains fuel additive information for generic fuel type. Note: This is a beta r
 
   <div class="col-first even-row-color">
 
-  [`FuelAdditiveType`](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">`FuelAdditiveType`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Contains fuel additive information for generic fuel type. Note: This is a beta r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">type</span>
 
     </div>
 

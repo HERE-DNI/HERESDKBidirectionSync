@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeplace"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ The location information.
 
   <div class="col-first odd-row-color">
 
-  [`ChargingStation`](sdk-for-android-explore-com-here-sdk-routing-chargingstation "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstation" title="class in com.here.sdk.routing">`ChargingStation`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ The location information.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ The location information.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -199,7 +199,7 @@ The location information.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -243,7 +243,7 @@ The location information.
 
   <div class="col-first even-row-color">
 
-  [`SideOfDestination`](sdk-for-android-explore-com-here-sdk-routing-sideofdestination "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sideofdestination" title="enum class in com.here.sdk.routing">`SideOfDestination`</a>
 
   </div>
 
@@ -265,7 +265,7 @@ The location information.
 
   <div class="col-first odd-row-color">
 
-  [`RoutePlaceType`](sdk-for-android-explore-com-here-sdk-routing-routeplacetype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">`RoutePlaceType`</a>
 
   </div>
 
@@ -459,7 +459,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlaceType](sdk-for-android-explore-com-here-sdk-routing-routeplacetype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -495,7 +495,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">originalCoordinates</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">originalCoordinates</span>
 
     </div>
 
@@ -513,7 +513,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">mapMatchedCoordinates</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">mapMatchedCoordinates</span>
 
     </div>
 
@@ -531,7 +531,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">displayCoordinates</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayCoordinates</span>
 
     </div>
 
@@ -567,7 +567,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ChargingStation](sdk-for-android-explore-com-here-sdk-routing-chargingstation "class in com.here.sdk.routing")</span> <span class="element-name">chargingStation</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingstation" title="class in com.here.sdk.routing">ChargingStation</a></span> <span class="element-name">chargingStation</span>
 
     </div>
 
@@ -639,7 +639,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[SideOfDestination](sdk-for-android-explore-com-here-sdk-routing-sideofdestination "enum class in com.here.sdk.routing")</span> <span class="element-name">sideOfDestination</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sideofdestination" title="enum class in com.here.sdk.routing">SideOfDestination</a></span> <span class="element-name">sideOfDestination</span>
 
     </div>
 
@@ -661,7 +661,7 @@ The location information.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RoutePlace</span><wbr></wbr><span class="parameters">(@NonNull [RoutePlaceType](sdk-for-android-explore-com-here-sdk-routing-routeplacetype "enum class in com.here.sdk.routing") type, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") mapMatchedCoordinates)</span>
+    <span class="modifiers">public</span> <span class="element-name">RoutePlace</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</span>
 
     </div>
 
@@ -733,7 +733,7 @@ The location information.
     </div>
 
     Returns:  
-    `true` if the [`RoutePlace`](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing") is off-road, `false` otherwise.
+    `true` if the <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">`RoutePlace`</a> is off-road, `false` otherwise.
 
     </div>
 

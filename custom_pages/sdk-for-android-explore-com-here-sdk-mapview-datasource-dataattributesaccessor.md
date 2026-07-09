@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesacc
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.DataAttribu
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributesAccessor</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributesAccessor</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></span>
 
 </div>
 
@@ -378,7 +378,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributeValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">`DataAttributeValue`</a>
 
   </div>
 
@@ -400,7 +400,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributeValue.ValueType`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">`DataAttributeValue.ValueType`</a>
 
   </div>
 
@@ -623,7 +623,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span>
 
     </div>
 
@@ -650,7 +650,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</span>
 
     </div>
 
@@ -729,7 +729,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getAttributeNames`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getAttributeNames()) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getAttributeNames(">`getAttributeNames`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Returns:  
     The list of attribute names.
@@ -742,7 +742,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[DataAttributeValue.ValueType](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getValueType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getValueType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -753,7 +753,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getValueType`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getValueType(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getValueType(java.lang.String">`getValueType`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -782,7 +782,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getAsString`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getAsString(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getAsString(java.lang.String">`getAsString`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -811,7 +811,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getString`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getString(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getString(java.lang.String">`getString`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -840,7 +840,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getInt64`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getInt64(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getInt64(java.lang.String">`getInt64`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -869,7 +869,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getFloat`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getFloat(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getFloat(java.lang.String">`getFloat`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -898,7 +898,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getDouble`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getDouble(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getDouble(java.lang.String">`getDouble`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -927,7 +927,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getBoolean`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getBoolean(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getBoolean(java.lang.String">`getBoolean`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -
@@ -945,7 +945,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></span> <span class="element-name">getValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -956,7 +956,7 @@ Accessor used for manipulating data attributes. Note: This is a beta release of 
     </div>
 
     Specified by:  
-    [`getValue`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getValue(java.lang.String)) in interface [`DataAttributesBase`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase#getValue(java.lang.String">`getValue`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">`DataAttributesBase`</a>
 
     Parameters:  
     `name` -

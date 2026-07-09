@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-engineoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Specifies several options specific to different engines. Note: This is a beta re
 
   <div class="col-first even-row-color">
 
-  [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -257,7 +257,7 @@ Specifies several options specific to different engines. Note: This is a beta re
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">customAuthenticationMode</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">customAuthenticationMode</span>
 
     </div>
 

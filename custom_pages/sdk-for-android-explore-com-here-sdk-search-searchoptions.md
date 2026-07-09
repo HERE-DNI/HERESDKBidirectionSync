@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -111,7 +111,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
   <div class="col-first even-row-color">
 
-  [`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Encapsulates options that control the behavior of search and suggest operations.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">languageCode</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span>
 
     </div>
 

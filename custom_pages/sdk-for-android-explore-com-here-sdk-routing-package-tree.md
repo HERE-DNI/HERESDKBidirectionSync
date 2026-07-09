@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 
@@ -59,10 +59,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-package-tree"
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-maneuver" class="type-name-link" title="class in com.here.sdk.routing">Maneuver</a>
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions" class="type-name-link" title="class in com.here.sdk.routing">RefreshRouteOptions</a>
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-route" class="type-name-link" title="class in com.here.sdk.routing">Route</a>
-    - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-routingengine" class="type-name-link" title="class in com.here.sdk.routing">RoutingEngine</a> (implements com.here.sdk.routing.[RoutingInterface](sdk-for-android-explore-com-here-sdk-routing-routinginterface "interface in com.here.sdk.routing"))
+    - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-routingengine" class="type-name-link" title="class in com.here.sdk.routing">RoutingEngine</a> (implements com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-routinginterface" title="interface in com.here.sdk.routing">RoutingInterface</a>)
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-section" class="type-name-link" title="class in com.here.sdk.routing">Section</a>
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-span" class="type-name-link" title="class in com.here.sdk.routing">Span</a>
-    - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" class="type-name-link" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a> (implements com.here.sdk.traffic.[TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic"))
+    - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" class="type-name-link" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)
     - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine" class="type-name-link" title="class in com.here.sdk.routing">TransitRoutingEngine</a>
   - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint" class="type-name-link" title="class in com.here.sdk.routing">PassThroughWaypoint</a>
   - com.here.sdk.routing.<a href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions" class="type-name-link" title="class in com.here.sdk.routing">PedestrianOptions</a>

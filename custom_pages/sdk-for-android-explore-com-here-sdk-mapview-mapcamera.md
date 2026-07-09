@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapCamera → com.here
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapCamera</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapCamera</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -271,7 +271,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -293,7 +293,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapCameraLimits`](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">`MapCameraLimits`</a>
 
   </div>
 
@@ -315,7 +315,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">`Point2D`</a>
 
   </div>
 
@@ -337,7 +337,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapCamera.State`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">`MapCamera.State`</a>
 
   </div>
 
@@ -733,7 +733,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFarPlaneConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>,<wbr></wbr>[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")\> configs)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFarPlaneConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>,<wbr></wbr><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>\> configs)</span>
 
     </div>
 
@@ -756,7 +756,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraListener](sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener "interface in com.here.sdk.mapview") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</span>
 
     </div>
 
@@ -779,7 +779,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraListener](sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener "interface in com.here.sdk.mapview") observer)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</span>
 
     </div>
 
@@ -820,7 +820,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">applyUpdate</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview") cameraUpdate)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">applyUpdate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span>
 
     </div>
 
@@ -843,7 +843,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dryApplyUpdate</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview") cameraUpdate, @NonNull [MapCamera.DryCameraUpdateCallback](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dryApplyUpdate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</span>
 
     </div>
 
@@ -870,7 +870,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview") cameraAnimation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span>
 
     </div>
 
@@ -893,7 +893,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview") cameraAnimation, @NonNull [AnimationListener](sdk-for-android-explore-com-here-sdk-animation-animationlistener "interface in com.here.sdk.animation") animationListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span>
 
     </div>
 
@@ -920,7 +920,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview") cameraAnimation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span>
 
     </div>
 
@@ -961,7 +961,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">orbitBy</span><wbr></wbr><span class="parameters">(@NonNull [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") delta, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">orbitBy</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span>
 
     </div>
 
@@ -988,7 +988,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">zoomBy</span><wbr></wbr><span class="parameters">(double factor, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">zoomBy</span><wbr></wbr><span class="parameters">(double factor, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span>
 
     </div>
 
@@ -1038,7 +1038,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") target)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</span>
 
     </div>
 
@@ -1061,7 +1061,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") target, @NonNull [MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") zoom)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span>
 
     </div>
 
@@ -1088,7 +1088,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") target, @NonNull [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation, @NonNull [MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") zoom)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span>
 
     </div>
 
@@ -1119,7 +1119,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") target, @NonNull [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span>
 
     </div>
 
@@ -1146,7 +1146,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") target, @NonNull [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation, @NonNull [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewRectangle)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span>
 
     </div>
 
@@ -1200,7 +1200,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOrientationAtTarget</span><wbr></wbr><span class="parameters">(@NonNull [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core") orientation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOrientationAtTarget</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span>
 
     </div>
 
@@ -1223,7 +1223,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview")</span> <span class="element-name">getState</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></span> <span class="element-name">getState</span>()
 
     </div>
 
@@ -1244,7 +1244,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">getPrincipalPoint</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getPrincipalPoint</span>()
 
     </div>
 
@@ -1265,7 +1265,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPrincipalPoint</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPrincipalPoint</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> value)</span>
 
     </div>
 
@@ -1288,7 +1288,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">getBoundingBox</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()
 
     </div>
 
@@ -1309,7 +1309,7 @@ Represents the camera looking onto the map view. Each map instance has exactly o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapCameraLimits](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")</span> <span class="element-name">getLimits</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span> <span class="element-name">getLimits</span>()
 
     </div>
 

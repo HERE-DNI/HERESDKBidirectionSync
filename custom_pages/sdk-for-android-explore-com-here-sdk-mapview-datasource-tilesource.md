@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Subinterfaces:  
-[`LineTileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource "interface in com.here.sdk.mapview.datasource"), [`PointTileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource "interface in com.here.sdk.mapview.datasource"), [`PolygonTileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource "interface in com.here.sdk.mapview.datasource"), [`RasterTileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource "interface in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">`LineTileSource`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource">`PointTileSource`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">`PolygonTileSource`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">`RasterTileSource`</a>
 
 <div class="type-signature">
 
@@ -202,7 +202,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TileSource.DataVersion`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">`TileSource.DataVersion`</a>
 
   </div>
 
@@ -246,7 +246,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TilingScheme`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">`TilingScheme`</a>
 
   </div>
 
@@ -304,7 +304,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TileSource.DataVersion](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getDataVersion</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></span> <span class="element-name">getDataVersion</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span>
 
     </div>
 
@@ -330,7 +330,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull [TileSource.Listener](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span>
 
     </div>
 
@@ -353,7 +353,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull [TileSource.Listener](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span>
 
     </div>
 
@@ -376,7 +376,7 @@ A source of tiles. The implementations must be thread-safe. Note: This is a beta
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getTilingScheme</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">getTilingScheme</span>()
 
     </div>
 

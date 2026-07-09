@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapCamera.State → com.here.sdk.mapview.M
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a>
 
 <div class="type-signature">
 
@@ -92,7 +92,7 @@ Encapsulates state of the camera.
 
   <div class="col-first odd-row-color">
 
-  [`GeoOrientation`](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">`GeoOrientation`</a>
 
   </div>
 
@@ -114,7 +114,7 @@ Encapsulates state of the camera.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -226,7 +226,7 @@ Encapsulates state of the camera.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">targetCoordinates</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span>
 
     </div>
 
@@ -244,7 +244,7 @@ Encapsulates state of the camera.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core")</span> <span class="element-name">orientationAtTarget</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span>
 
     </div>
 
@@ -302,7 +302,7 @@ Encapsulates state of the camera.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">State</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") targetCoordinates, @NonNull [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core") orientationAtTarget, double distanceToTargetInMeters, double zoomLevel)</span>
+    <span class="modifiers">public</span> <span class="element-name">State</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget, double distanceToTargetInMeters, double zoomLevel)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -382,7 +382,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS">Constant Field Values</a>
 
     </div>
 
@@ -403,7 +403,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS">Constant Field Values</a>
 
     </div>
 
@@ -424,7 +424,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW">Constant Field Values</a>
 
     </div>
 
@@ -445,7 +445,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS">Constant Field Values</a>
 
     </div>
 
@@ -466,7 +466,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS">Constant Field Values</a>
 
     </div>
 
@@ -487,7 +487,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES">Constant Field Values</a>
 
     </div>
 
@@ -508,7 +508,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES">Constant Field Values</a>
 
     </div>
 
@@ -529,7 +529,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES">Constant Field Values</a>
 
     </div>
 
@@ -550,7 +550,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS">Constant Field Values</a>
 
     </div>
 
@@ -571,7 +571,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS">Constant Field Values</a>
 
     </div>
 
@@ -592,7 +592,7 @@ Holds constants for map features, to be used with MapScene.enableFeatures(java.u
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.AMBIENT_OCCLUSION)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.AMBIENT_OCCLUSION">Constant Field Values</a>
 
     </div>
 

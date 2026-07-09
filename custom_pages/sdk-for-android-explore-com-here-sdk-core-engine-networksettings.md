@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
   <div class="col-first even-row-color">
 
-  [`CertificateSettings`](sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">`CertificateSettings`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`NetworkEndpoint`](sdk-for-android-explore-com-here-sdk-core-networkendpoint "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">`NetworkEndpoint`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
   <div class="col-first odd-row-color">
 
-  [`ProxySettings`](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">`ProxySettings`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ProxySettings](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")</span> <span class="element-name">proxySettings</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">proxySettings</span>
 
     </div>
 
@@ -301,7 +301,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[NetworkEndpoint](sdk-for-android-explore-com-here-sdk-core-networkendpoint "class in com.here.sdk.core")\></span> <span class="element-name">domainNameSystemServers</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>\></span> <span class="element-name">domainNameSystemServers</span>
 
     </div>
 
@@ -319,7 +319,7 @@ Network configuration to be used by SDKNativeEngine during the initialization.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[CertificateSettings](sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings "class in com.here.sdk.core.engine")</span> <span class="element-name">certificates</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></span> <span class="element-name">certificates</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-i
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationEr
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapSceneLoadOptionsBuilder](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Describes the reason for failing to build a MapSceneLoadOptions .
 
   <div class="col-first even-row-color">
 
-  [`MapSceneLoadOptionsBuilder.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapSceneLoadOptionsBuilder.InstantiationErrorCode`</a>
 
   </div>
 
@@ -180,7 +180,7 @@ Describes the reason for failing to build a MapSceneLoadOptions .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapSceneLoadOptionsBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">errorCode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Describes the reason for failing to build a MapSceneLoadOptions .
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLoadOptionsBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview") errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
+    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
 
     </div>
 

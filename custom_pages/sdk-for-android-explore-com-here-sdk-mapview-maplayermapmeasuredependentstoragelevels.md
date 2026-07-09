@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependents
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapLayerMapMeasureDepe
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerMapMeasureDependentStorageLevels</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerMapMeasureDependentStorageLevels</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Provides a mapping between a MapLayer map measure to datasource storage level.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapLayerMapMeasureDependentStorageLevels`](sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels "class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">`MapLayerMapMeasureDependentStorageLevels`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ Provides a mapping between a MapLayer map measure to datasource storage level.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[MapLayerMapMeasureDependentStorageLevels](sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels "class in com.here.sdk.mapview")</span> <span class="element-name">withStorageLevelOffset</span><wbr></wbr><span class="parameters">(int offset)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></span> <span class="element-name">withStorageLevelOffset</span><wbr></wbr><span class="parameters">(int offset)</span>
 
     </div>
 

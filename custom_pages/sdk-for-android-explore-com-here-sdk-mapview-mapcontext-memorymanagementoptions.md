@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagemento
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapContext.MemoryManagementOptions → com
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Memory management options. Note: This is a beta release of this feature, so ther
 
   <div class="col-first even-row-color">
 
-  [`MapContext.MemoryManagementStrategy`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">`MapContext.MemoryManagementStrategy`</a>
 
   </div>
 
@@ -202,7 +202,7 @@ Memory management options. Note: This is a beta release of this feature, so ther
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapContext.MemoryManagementStrategy](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")</span> <span class="element-name">memoryManagementStrategy</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></span> <span class="element-name">memoryManagementStrategy</span>
 
     </div>
 

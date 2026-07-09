@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-assetsmanager"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.AssetsManager → com.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">AssetsManager</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">AssetsManager</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -171,7 +171,7 @@ Assets manager interface. Can be used to make assets available to the SDK. Note:
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AssetsManager</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context)</span>
+    <span class="modifiers">public</span> <span class="element-name">AssetsManager</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span>
 
     </div>
 

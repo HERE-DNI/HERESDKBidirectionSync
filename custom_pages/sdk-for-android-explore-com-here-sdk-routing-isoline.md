@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.Isoline → com.here.N
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Isoline</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Isoline</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -106,7 +106,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMatchedCoordinates`](sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates" title="class in com.here.sdk.routing">`MapMatchedCoordinates`</a>
 
   </div>
 
@@ -128,7 +128,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">`GeoPolygon`</a>`>`
 
   </div>
 
@@ -150,7 +150,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IsolineRangeType`](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">`IsolineRangeType`</a>
 
   </div>
 
@@ -216,7 +216,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Isoline</span><wbr></wbr><span class="parameters">(@NonNull [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType, double rangeValue, @NonNull [MapMatchedCoordinates](sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates "class in com.here.sdk.routing") center, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\> polygons)</span>
+    <span class="modifiers">public</span> <span class="element-name">Isoline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType, double rangeValue, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a> center, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>\> polygons)</span>
 
     </div>
 
@@ -255,7 +255,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing")</span> <span class="element-name">getRangeType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></span> <span class="element-name">getRangeType</span>()
 
     </div>
 
@@ -297,7 +297,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMatchedCoordinates](sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates "class in com.here.sdk.routing")</span> <span class="element-name">getCenter</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a></span> <span class="element-name">getCenter</span>()
 
     </div>
 
@@ -318,7 +318,7 @@ Represents an isoline polygon around a center point. Any possible route between 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">getPolygons</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>\></span> <span class="element-name">getPolygons</span>()
 
     </div>
 

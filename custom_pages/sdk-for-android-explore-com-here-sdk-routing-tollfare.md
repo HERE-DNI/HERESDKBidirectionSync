@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfare"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
   <div class="col-first odd-row-color">
 
-  [`TollFarePass`](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tollfarepass" title="class in com.here.sdk.routing">`TollFarePass`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PaymentMethod`](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">`PaymentMethod`</a>`>`
 
   </div>
 
@@ -155,7 +155,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
   <div class="col-first even-row-color">
 
-  [`TimeRule`](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">`TimeRule`</a>
 
   </div>
 
@@ -415,7 +415,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\></span> <span class="element-name">paymentMethods</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>\></span> <span class="element-name">paymentMethods</span>
 
     </div>
 
@@ -433,7 +433,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")</span> <span class="element-name">timeRule</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span>
 
     </div>
 
@@ -469,7 +469,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing")</span> <span class="element-name">pass</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tollfarepass" title="class in com.here.sdk.routing">TollFarePass</a></span> <span class="element-name">pass</span>
 
     </div>
 
@@ -491,7 +491,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>\> paymentMethods)</span>
 
     </div>
 
@@ -522,7 +522,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>\> paymentMethods, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule)</span>
 
     </div>
 
@@ -547,7 +547,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html">Time Domain</a>
 
     </div>
 
@@ -557,7 +557,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>\> paymentMethods, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders)</span>
 
     </div>
 
@@ -582,7 +582,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html">Time Domain</a>
 
     `transponders` -
 
@@ -596,7 +596,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PaymentMethod](sdk-for-android-explore-com-here-sdk-routing-paymentmethod "enum class in com.here.sdk.routing")\> paymentMethods, @Nullable [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core") timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders, @Nullable [TollFarePass](sdk-for-android-explore-com-here-sdk-routing-tollfarepass "class in com.here.sdk.routing") pass)</span>
+    <span class="modifiers">public</span> <span class="element-name">TollFare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> currency, double price, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>\> paymentMethods, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> transponders, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-tollfarepass" title="class in com.here.sdk.routing">TollFarePass</a> pass)</span>
 
     </div>
 
@@ -621,7 +621,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     `timeRule` -
 
-    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the [Time Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
+    The time domain when this fare is valid. If this field is missing, it means the fare is always valid. For a detailed description of the Time Domain specification and usage in routing services, please refer to the documentation available in the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html">Time Domain</a>
 
     `transponders` -
 
@@ -629,7 +629,7 @@ This struct presents all the fare data for a toll. Note : If you're using the Of
 
     `pass` -
 
-    Specifies whether this [`TollFare`](sdk-for-android-explore-com-here-sdk-routing-tollfare "class in com.here.sdk.routing") is a multi-travel pass, and its characteristics.
+    Specifies whether this <a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing">`TollFare`</a> is a multi-travel pass, and its characteristics.
 
     </div>
 

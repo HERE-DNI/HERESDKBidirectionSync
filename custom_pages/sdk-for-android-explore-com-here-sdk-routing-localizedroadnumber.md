@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Used to represent road number localized to specific language with optional direc
 
   <div class="col-first even-row-color">
 
-  [`CardinalDirection`](sdk-for-android-explore-com-here-sdk-core-cardinaldirection "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-cardinaldirection" title="enum class in com.here.sdk.core">`CardinalDirection`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Used to represent road number localized to specific language with optional direc
 
   <div class="col-first odd-row-color">
 
-  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">`LocalizedText`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Used to represent road number localized to specific language with optional direc
 
   <div class="col-first even-row-color">
 
-  [`RouteType`](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">`RouteType`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Used to represent road number localized to specific language with optional direc
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">localizedNumber</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">localizedNumber</span>
 
     </div>
 
@@ -301,7 +301,7 @@ Used to represent road number localized to specific language with optional direc
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[CardinalDirection](sdk-for-android-explore-com-here-sdk-core-cardinaldirection "enum class in com.here.sdk.core")</span> <span class="element-name">direction</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-cardinaldirection" title="enum class in com.here.sdk.core">CardinalDirection</a></span> <span class="element-name">direction</span>
 
     </div>
 
@@ -319,7 +319,7 @@ Used to represent road number localized to specific language with optional direc
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")</span> <span class="element-name">routeType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span>
 
     </div>
 
@@ -341,7 +341,7 @@ Used to represent road number localized to specific language with optional direc
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">LocalizedRoadNumber</span><wbr></wbr><span class="parameters">(@NonNull [LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core") localizedNumber, @NonNull [RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core") routeType)</span>
+    <span class="modifiers">public</span> <span class="element-name">LocalizedRoadNumber</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> localizedNumber, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType)</span>
 
     </div>
 

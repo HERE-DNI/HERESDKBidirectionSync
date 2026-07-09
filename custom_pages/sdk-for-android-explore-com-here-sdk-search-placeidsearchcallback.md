@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -96,7 +96,7 @@ The method will be called on the main thread when a search by id call has been c
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPlaceIdSearchCompleted</span><wbr></wbr><span class="parameters">(@Nullable [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError, @Nullable [Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search") place)</span>
+    <span class="return-type">void</span> <span class="element-name">onPlaceIdSearchCompleted</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError, @Nullable <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a> place)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementr
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapContext.MemoryManagementResult → com.
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a>
 
 <div class="type-signature">
 
@@ -92,7 +92,7 @@ Memory management result. Note: This is a beta release of this feature, so there
 
   <div class="col-first odd-row-color">
 
-  [`MapContext.MemoryManagementResultCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">`MapContext.MemoryManagementResultCode`</a>
 
   </div>
 
@@ -198,7 +198,7 @@ Memory management result. Note: This is a beta release of this feature, so there
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapContext.MemoryManagementResultCode](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">resultCode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></span> <span class="element-name">resultCode</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Memory management result. Note: This is a beta release of this feature, so there
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MemoryManagementResult</span><wbr></wbr><span class="parameters">(@NonNull [MapContext.MemoryManagementResultCode](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode "enum class in com.here.sdk.mapview") resultCode)</span>
+    <span class="modifiers">public</span> <span class="element-name">MemoryManagementResult</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</span>
 
     </div>
 

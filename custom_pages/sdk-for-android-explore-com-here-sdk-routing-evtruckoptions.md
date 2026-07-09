@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -79,7 +79,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  [`AllowOptions`](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">`AllowOptions`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first odd-row-color">
 
-  [`AvoidanceOptions`](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">`AvoidanceOptions`</a>
 
   </div>
 
@@ -135,7 +135,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">`TruckRoadType`</a>`>`
 
   </div>
 
@@ -163,7 +163,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first odd-row-color">
 
-  [`EVConsumptionModel`](sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel" title="class in com.here.sdk.routing">`EVConsumptionModel`</a>
 
   </div>
 
@@ -191,7 +191,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`>`
 
   </div>
 
@@ -247,7 +247,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  [`TunnelCategory`](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">`TunnelCategory`</a>
 
   </div>
 
@@ -275,7 +275,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MaxSpeedOnSegment`](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">`MaxSpeedOnSegment`</a>`>`
 
   </div>
 
@@ -331,7 +331,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first odd-row-color">
 
-  [`RouteOptions`](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">`RouteOptions`</a>
 
   </div>
 
@@ -359,7 +359,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>
 
   </div>
 
@@ -387,7 +387,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first odd-row-color">
 
-  [`TollOptions`](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">`TollOptions`</a>
 
   </div>
 
@@ -415,7 +415,7 @@ All the options to specify how a route for an electric truck should be calculate
 
   <div class="col-first even-row-color">
 
-  [`TruckSpecifications`](sdk-for-android-explore-com-here-sdk-transport-truckspecifications "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">`TruckSpecifications`</a>
 
   </div>
 
@@ -589,7 +589,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteOptions](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")</span> <span class="element-name">routeOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span>
 
     </div>
 
@@ -613,7 +613,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteTextOptions](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")</span> <span class="element-name">textOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span>
 
     </div>
 
@@ -637,7 +637,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AvoidanceOptions](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")</span> <span class="element-name">avoidanceOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span>
 
     </div>
 
@@ -661,7 +661,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TollOptions](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")</span> <span class="element-name">tollOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span>
 
     </div>
 
@@ -685,7 +685,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AllowOptions](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")</span> <span class="element-name">allowOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></span> <span class="element-name">allowOptions</span>
 
     </div>
 
@@ -757,7 +757,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MaxSpeedOnSegment](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")\></span> <span class="element-name">maxSpeedOnSegments</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>\></span> <span class="element-name">maxSpeedOnSegments</span>
 
     </div>
 
@@ -781,7 +781,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TruckSpecifications](sdk-for-android-explore-com-here-sdk-transport-truckspecifications "class in com.here.sdk.transport")</span> <span class="element-name">truckSpecifications</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></span> <span class="element-name">truckSpecifications</span>
 
     </div>
 
@@ -805,7 +805,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">linkTunnelCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">linkTunnelCategory</span>
 
     </div>
 
@@ -829,7 +829,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 
@@ -853,7 +853,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">avoidedTruckRoadTypes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>\></span> <span class="element-name">avoidedTruckRoadTypes</span>
 
     </div>
 
@@ -877,7 +877,7 @@ All the options to specify how a route for an electric truck should be calculate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EVConsumptionModel](sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel "class in com.here.sdk.routing")</span> <span class="element-name">consumptionModel</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-evconsumptionmodel" title="class in com.here.sdk.routing">EVConsumptionModel</a></span> <span class="element-name">consumptionModel</span>
 
     </div>
 

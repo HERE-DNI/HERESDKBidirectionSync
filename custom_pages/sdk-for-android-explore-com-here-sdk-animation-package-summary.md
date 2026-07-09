@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Anchor2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-anchor2dkeyframe" title="class in com.here.sdk.animation">Anchor2DKeyframe</a>
 
   </div>
 
@@ -47,7 +47,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [AnimationListener](sdk-for-android-explore-com-here-sdk-animation-animationlistener "interface in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a>
 
   </div>
 
@@ -63,7 +63,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [AnimationState](sdk-for-android-explore-com-here-sdk-animation-animationstate "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-animationstate" title="enum class in com.here.sdk.animation">AnimationState</a>
 
   </div>
 
@@ -79,7 +79,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation">Easing</a>
 
   </div>
 
@@ -95,7 +95,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [Easing.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>
 
   </div>
 
@@ -111,7 +111,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [Easing.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a>
 
   </div>
 
@@ -127,7 +127,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a>
 
   </div>
 
@@ -143,7 +143,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>
 
   </div>
 
@@ -159,7 +159,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeoOrientationKeyframe](sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-geoorientationkeyframe" title="class in com.here.sdk.animation">GeoOrientationKeyframe</a>
 
   </div>
 
@@ -175,7 +175,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [KeyframeInterpolationMode](sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a>
 
   </div>
 
@@ -191,7 +191,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a>
 
   </div>
 
@@ -207,7 +207,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapItemKeyFrameTrack.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a>
 
   </div>
 
@@ -223,7 +223,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapItemKeyFrameTrack.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a>
 
   </div>
 
@@ -239,7 +239,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMarkerAnimation](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a>
 
   </div>
 
@@ -255,7 +255,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapMarkerAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a>
 
   </div>
 
@@ -271,7 +271,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [MapMarkerAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a>
 
   </div>
 
@@ -287,7 +287,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapPolylineAnimation](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a>
 
   </div>
 
@@ -303,7 +303,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a>
 
   </div>
 
@@ -319,7 +319,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapPolylineAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a>
 
   </div>
 
@@ -335,7 +335,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Point2DKeyframe](sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-point2dkeyframe" title="class in com.here.sdk.animation">Point2DKeyframe</a>
 
   </div>
 
@@ -351,7 +351,7 @@ package <span class="element-name">com.here.sdk.animation</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")
+  <a href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>
 
   </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listen
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing interface:  
-[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a>
 
 <div class="type-signature">
 
@@ -96,7 +96,7 @@ Listener of TileSource events.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><wbr></wbr><span class="parameters">(@NonNull [TileSource.DataVersion](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource") dataVersion)</span>
+    <span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</span>
 
     </div>
 

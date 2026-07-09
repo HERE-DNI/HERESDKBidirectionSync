@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Specifies a temporal validity period for a pass
 
   <div class="col-first odd-row-color">
 
-  [`FarePassValidityPeriodType`](sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">`FarePassValidityPeriodType`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Specifies a temporal validity period for a pass
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[FarePassValidityPeriodType](sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype "enum class in com.here.sdk.routing")</span> <span class="element-name">periodType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">periodType</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapMarker → com.here
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -213,7 +213,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">`Anchor2D`</a>
 
   </div>
 
@@ -235,7 +235,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -279,7 +279,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -301,7 +301,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapImage`](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">`MapImage`</a>
 
   </div>
 
@@ -323,7 +323,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>
 
   </div>
 
@@ -389,7 +389,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMarker.TextStyle`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview">`MapMarker.TextStyle`</a>
 
   </div>
 
@@ -411,7 +411,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>`>`
 
   </div>
 
@@ -785,7 +785,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span>
 
     </div>
 
@@ -812,7 +812,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> text)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> text)</span>
 
     </div>
 
@@ -843,7 +843,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image, @NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span>
 
     </div>
 
@@ -878,7 +878,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapMarkerAnimation](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation "class in com.here.sdk.animation") animation, @Nullable [AnimationListener](sdk-for-android-explore-com-here-sdk-animation-animationlistener "interface in com.here.sdk.animation") animationListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation, @Nullable <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span>
 
     </div>
 
@@ -905,7 +905,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapMarkerAnimation](sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation "class in com.here.sdk.animation") animation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</span>
 
     </div>
 
@@ -928,7 +928,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinates</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()
 
     </div>
 
@@ -949,7 +949,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span>
 
     </div>
 
@@ -972,7 +972,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()
 
     </div>
 
@@ -983,7 +983,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
     </div>
 
     Returns:  
-    The Metadata instance attached to this marker, see [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core").
+    The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>.
 
     </div>
 
@@ -993,7 +993,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span>
 
     </div>
 
@@ -1006,7 +1006,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
     Parameters:  
     `value` -
 
-    The Metadata instance attached to this marker, see [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core").
+    The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>.
 
     </div>
 
@@ -1148,7 +1148,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")</span> <span class="element-name">getImage</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getImage</span>()
 
     </div>
 
@@ -1169,7 +1169,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><wbr></wbr><span class="parameters">(@NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</span>
 
     </div>
 
@@ -1192,7 +1192,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">getAnchor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchor</span>()
 
     </div>
 
@@ -1213,7 +1213,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span>
 
     </div>
 
@@ -1280,7 +1280,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getFadeDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getFadeDuration</span>()
 
     </div>
 
@@ -1301,7 +1301,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFadeDuration</span><wbr></wbr><span class="parameters">(@NonNull [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFadeDuration</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> value)</span>
 
     </div>
 
@@ -1368,7 +1368,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMarker.TextStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle "class in com.here.sdk.mapview")</span> <span class="element-name">getTextStyle</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></span> <span class="element-name">getTextStyle</span>()
 
     </div>
 
@@ -1389,7 +1389,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTextStyle</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker.TextStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTextStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> value)</span>
 
     </div>
 
@@ -1412,7 +1412,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1433,7 +1433,7 @@ MapMarker is used to draw images on the map, for example to mark a specific loca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\> value)</span>
 
     </div>
 

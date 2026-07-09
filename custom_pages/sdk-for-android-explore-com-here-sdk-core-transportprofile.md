@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-transportprofile"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -79,7 +79,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
   <div class="col-first even-row-color">
 
-  [`PedestrianProfile`](sdk-for-android-explore-com-here-sdk-core-pedestrianprofile "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">`PedestrianProfile`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
   <div class="col-first odd-row-color">
 
-  [`VehicleProfile`](sdk-for-android-explore-com-here-sdk-transport-vehicleprofile "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">`VehicleProfile`</a>
 
   </div>
 
@@ -281,7 +281,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PedestrianProfile](sdk-for-android-explore-com-here-sdk-core-pedestrianprofile "class in com.here.sdk.core")</span> <span class="element-name">pedestrianProfile</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></span> <span class="element-name">pedestrianProfile</span>
 
     </div>
 
@@ -305,7 +305,7 @@ Contains values of transport profile. This is a BETA feature and thus there can 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[VehicleProfile](sdk-for-android-explore-com-here-sdk-transport-vehicleprofile "class in com.here.sdk.transport")</span> <span class="element-name">vehicleProfile</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></span> <span class="element-name">vehicleProfile</span>
 
     </div>
 

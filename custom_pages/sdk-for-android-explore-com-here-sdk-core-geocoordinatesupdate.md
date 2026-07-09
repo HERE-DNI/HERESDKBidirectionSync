@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -409,7 +409,7 @@ Represents geographical coordinates in 3D space. Unlike GeoCoordinates , its mem
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span>
 
     </div>
 

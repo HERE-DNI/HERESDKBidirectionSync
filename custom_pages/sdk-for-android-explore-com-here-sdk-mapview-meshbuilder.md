@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-meshbuilder"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MeshBuilder → com.he
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Direct Known Subclasses:  
-[`QuadMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder "class in com.here.sdk.mapview"), [`TriangleMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" title="class in com.here.sdk.mapview">`QuadMeshBuilder`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" title="class in com.here.sdk.mapview">`TriangleMeshBuilder`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public class </span><span class="element-name type-name-label">MeshBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public class </span><span class="element-name type-name-label">MeshBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -108,7 +108,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Mesh`](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">`Mesh`</a>
 
   </div>
 
@@ -126,7 +126,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`QuadMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" title="class in com.here.sdk.mapview">`QuadMeshBuilder`</a>
 
   </div>
 
@@ -148,7 +148,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TriangleMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" title="class in com.here.sdk.mapview">`TriangleMeshBuilder`</a>
 
   </div>
 
@@ -214,7 +214,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TriangleMeshBuilder](sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">triangle</span><wbr></wbr><span class="parameters">(@NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") a, @NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") b, @NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") c)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" title="class in com.here.sdk.mapview">TriangleMeshBuilder</a></span> <span class="element-name">triangle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> a, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> b, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> c)</span>
 
     </div>
 
@@ -238,7 +238,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
     Third vertex of the triangle.
 
     Returns:  
-    A [`TriangleMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder "class in com.here.sdk.mapview") instance.
+    A <a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" title="class in com.here.sdk.mapview">`TriangleMeshBuilder`</a> instance.
 
     </div>
 
@@ -248,7 +248,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[QuadMeshBuilder](sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">quad</span><wbr></wbr><span class="parameters">(@NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") a, @NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") b, @NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") c, @NonNull [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core") d)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" title="class in com.here.sdk.mapview">QuadMeshBuilder</a></span> <span class="element-name">quad</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> a, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> b, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> c, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a> d)</span>
 
     </div>
 
@@ -276,7 +276,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
     Fourth vertex of the quad.
 
     Returns:  
-    A [`QuadMeshBuilder`](sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder "class in com.here.sdk.mapview") instance.
+    A <a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" title="class in com.here.sdk.mapview">`QuadMeshBuilder`</a> instance.
 
     </div>
 
@@ -286,7 +286,7 @@ Builder for meshes. Such meshes can contain different kinds of primitives, like 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Mesh](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview")</span> <span class="element-name">build</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a></span> <span class="element-name">build</span>()
 
     </div>
 

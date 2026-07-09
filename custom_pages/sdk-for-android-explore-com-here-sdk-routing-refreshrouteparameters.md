@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ This class provides the necessary information for refreshing a route from a spec
 
   <div class="col-first even-row-color">
 
-  [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ This class provides the necessary information for refreshing a route from a spec
 
   <div class="col-first odd-row-color">
 
-  [`Waypoint`](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">`Waypoint`</a>
 
   </div>
 
@@ -319,7 +319,7 @@ This class provides the necessary information for refreshing a route from a spec
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteHandle](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")</span> <span class="element-name">routeHandle</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">routeHandle</span>
 
     </div>
 
@@ -337,7 +337,7 @@ This class provides the necessary information for refreshing a route from a spec
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")</span> <span class="element-name">startingPoint</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a></span> <span class="element-name">startingPoint</span>
 
     </div>
 
@@ -395,7 +395,7 @@ This class provides the necessary information for refreshing a route from a spec
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull [RouteHandle](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing") routeHandle, @NonNull [Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing") startingPoint)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</span>
 
     </div>
 
@@ -422,7 +422,7 @@ This class provides the necessary information for refreshing a route from a spec
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull [RouteHandle](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing") routeHandle, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)</span>
 
     </div>
 
@@ -453,7 +453,7 @@ This class provides the necessary information for refreshing a route from a spec
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull [RouteHandle](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing") routeHandle, @NonNull [Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing") startingPoint, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters)</span>
 
     </div>
 

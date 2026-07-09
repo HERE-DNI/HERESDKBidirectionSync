@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">MapScene</a>
 
 <!-- -->
 
@@ -101,7 +101,7 @@ Called on the main thread after loadScene() method finishes loading the scene.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onLoadScene</span><wbr></wbr><span class="parameters">(@Nullable [MapError](sdk-for-android-explore-com-here-sdk-mapview-maperror "enum class in com.here.sdk.mapview") loadSceneError)</span>
+    <span class="return-type">void</span> <span class="element-name">onLoadScene</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-maperror" title="enum class in com.here.sdk.mapview">MapError</a> loadSceneError)</span>
 
     </div>
 

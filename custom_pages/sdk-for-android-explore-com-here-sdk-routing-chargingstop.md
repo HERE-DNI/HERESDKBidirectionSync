@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
   <div class="col-first even-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
   <div class="col-first even-row-color">
 
-  [`ChargingSupplyType`](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">`ChargingSupplyType`</a>
 
   </div>
 
@@ -399,7 +399,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ChargingSupplyType](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")</span> <span class="element-name">supplyType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span>
 
     </div>
 
@@ -417,7 +417,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">minDuration</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">minDuration</span>
 
     </div>
 
@@ -435,7 +435,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">maxDuration</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">maxDuration</span>
 
     </div>
 
@@ -475,7 +475,7 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ChargingStop</span><wbr></wbr><span class="parameters">(double powerInKilowatts, double currentInAmperes, double voltageInVolts, @Nullable [ChargingSupplyType](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing") supplyType, @Nullable [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") minDuration, @Nullable [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") maxDuration)</span>
+    <span class="modifiers">public</span> <span class="element-name">ChargingStop</span><wbr></wbr><span class="parameters">(double powerInKilowatts, double currentInAmperes, double voltageInVolts, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType, @Nullable <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> minDuration, @Nullable <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> maxDuration)</span>
 
     </div>
 
@@ -504,11 +504,11 @@ The options to specify a user-planned charging stop. Note: In order to specify t
 
     `minDuration` -
 
-    The minimum duration the user expects to charge at the station, including [`BatterySpecifications.chargingSetupDuration`](sdk-for-android-explore-com-here-sdk-routing-batteryspecifications#chargingSetupDuration). **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
+    The minimum duration the user expects to charge at the station, including <a href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications#chargingSetupDuration">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
 
     `maxDuration` -
 
-    The maximum duration the user plans to charge at the station, including [`BatterySpecifications.chargingSetupDuration`](sdk-for-android-explore-com-here-sdk-routing-batteryspecifications#chargingSetupDuration). **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
+    The maximum duration the user plans to charge at the station, including <a href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications#chargingSetupDuration">`BatterySpecifications.chargingSetupDuration`</a>. **Note:** At least one of `min_duration` and `max_duration` is required for a user-planned charging stop. For most use cases, providing at least `min_duration` is recommended.
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingerror"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< RoutingError \> com.here.sdk.routing.RoutingE
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">`RoutingError`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">RoutingError</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">RoutingError</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a>\></span>
 
 </div>
 
@@ -506,7 +506,7 @@ Specifies possible errors that may result from the calculation of a route.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">`RoutingError`</a>
 
   </div>
 
@@ -528,7 +528,7 @@ Specifies possible errors that may result from the calculation of a route.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">`RoutingError`</a>`[]`
 
   </div>
 
@@ -582,7 +582,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">INTERNAL_ERROR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">INTERNAL_ERROR</span>
 
     </div>
 
@@ -600,7 +600,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">INVALID_PARAMETER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">INVALID_PARAMETER</span>
 
     </div>
 
@@ -618,7 +618,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">SERVER_UNREACHABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">SERVER_UNREACHABLE</span>
 
     </div>
 
@@ -636,7 +636,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">HTTP_ERROR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">HTTP_ERROR</span>
 
     </div>
 
@@ -654,7 +654,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">AUTHENTICATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">AUTHENTICATION_FAILED</span>
 
     </div>
 
@@ -672,7 +672,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">FORBIDDEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">FORBIDDEN</span>
 
     </div>
 
@@ -690,7 +690,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span>
 
     </div>
 
@@ -708,7 +708,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">PARSING_ERROR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">PARSING_ERROR</span>
 
     </div>
 
@@ -726,7 +726,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_ROUTE_FOUND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">NO_ROUTE_FOUND</span>
 
     </div>
 
@@ -744,7 +744,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">TIMED_OUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">TIMED_OUT</span>
 
     </div>
 
@@ -762,7 +762,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">OFFLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">OFFLINE</span>
 
     </div>
 
@@ -780,7 +780,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_ISOLINE_FOUND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">NO_ISOLINE_FOUND</span>
 
     </div>
 
@@ -798,7 +798,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_ROUTE_HANDLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">NO_ROUTE_HANDLE</span>
 
     </div>
 
@@ -816,7 +816,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">OPERATION_CANCELLED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">OPERATION_CANCELLED</span>
 
     </div>
 
@@ -834,7 +834,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">COULD_NOT_MATCH_DESTINATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">COULD_NOT_MATCH_DESTINATION</span>
 
     </div>
 
@@ -852,7 +852,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">COULD_NOT_MATCH_ORIGIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">COULD_NOT_MATCH_ORIGIN</span>
 
     </div>
 
@@ -870,7 +870,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">FAILED_ROUTE_HANDLE_CREATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">FAILED_ROUTE_HANDLE_CREATION</span>
 
     </div>
 
@@ -888,7 +888,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">IMPORT_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">IMPORT_FAILED</span>
 
     </div>
 
@@ -906,7 +906,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">NO_REACHABLE_CHARGING_STATION_FOUND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">NO_REACHABLE_CHARGING_STATION_FOUND</span>
 
     </div>
 
@@ -924,7 +924,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">ROUTE_CALCULATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">ROUTE_CALCULATION_FAILED</span>
 
     </div>
 
@@ -942,7 +942,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">ROUTE_LENGTH_LIMIT_EXCEEDED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">ROUTE_LENGTH_LIMIT_EXCEEDED</span>
 
     </div>
 
@@ -960,7 +960,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</span>
 
     </div>
 
@@ -978,7 +978,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span>
 
     </div>
 
@@ -996,7 +996,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span>
 
     </div>
 
@@ -1014,7 +1014,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">ACTIVE_MAP_UPDATE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">ACTIVE_MAP_UPDATE</span>
 
     </div>
 
@@ -1036,7 +1036,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1057,7 +1057,7 @@ Specifies possible errors that may result from the calculation of a route.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

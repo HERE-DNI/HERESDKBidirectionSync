@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-time-duration"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.time](sdk-for-android-explore-com-here-time-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-time-package-summary">com.here.time</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.time.Duration → com.here.time.Duration
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>`>`
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Duration</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")\></span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Duration</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a>\></span>
 
 </div>
 
@@ -156,7 +156,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -178,7 +178,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -200,7 +200,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -222,7 +222,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -244,7 +244,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -266,7 +266,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -288,7 +288,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  `static `<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -627,7 +627,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofDays</span><wbr></wbr><span class="parameters">(long days)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofDays</span><wbr></wbr><span class="parameters">(long days)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -654,7 +654,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofHours</span><wbr></wbr><span class="parameters">(long hours)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofHours</span><wbr></wbr><span class="parameters">(long hours)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -681,7 +681,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofMinutes</span><wbr></wbr><span class="parameters">(long minutes)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofMinutes</span><wbr></wbr><span class="parameters">(long minutes)</span> throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -708,7 +708,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofSeconds</span><wbr></wbr><span class="parameters">(long seconds)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofSeconds</span><wbr></wbr><span class="parameters">(long seconds)</span>
 
     </div>
 
@@ -732,7 +732,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofSeconds</span><wbr></wbr><span class="parameters">(long seconds, long nanoAdjustment)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofSeconds</span><wbr></wbr><span class="parameters">(long seconds, long nanoAdjustment)</span>
 
     </div>
 
@@ -758,7 +758,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofMillis</span><wbr></wbr><span class="parameters">(long milliseconds)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofMillis</span><wbr></wbr><span class="parameters">(long milliseconds)</span>
 
     </div>
 
@@ -782,7 +782,7 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofNanos</span><wbr></wbr><span class="parameters">(long nanoseconds)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofNanos</span><wbr></wbr><span class="parameters">(long nanoseconds)</span>
 
     </div>
 
@@ -1064,12 +1064,12 @@ Represents duration in time (both positive and negative). The duration is repres
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">compareTo</span><wbr></wbr><span class="parameters">([Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") duration)</span>
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">compareTo</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span>
 
     </div>
 
     Specified by:  
-    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a> in interface <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a> in interface <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>`>`
 
     </div>
 

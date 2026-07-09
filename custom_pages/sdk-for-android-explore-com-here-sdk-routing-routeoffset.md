@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoffset"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -231,11 +231,11 @@ Represents a specific location along the route. A RouteOffset is a location on t
     Parameters:  
     `sectionIndex` -
 
-    Index of the corresponding route [`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing"). The start of the section indicates the start of the offset.
+    Index of the corresponding route <a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">`Section`</a>. The start of the section indicates the start of the offset.
 
     `offsetInMeters` -
 
-    Offset from the start of the indexed [`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing") to the specified location along the route. The maximum possible offset is limited by the length of the section and cannot exceed it.
+    Offset from the start of the indexed <a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">`Section`</a> to the specified location along the route. The maximum possible offset is limited by the length of the section and cannot exceed it.
 
     </div>
 

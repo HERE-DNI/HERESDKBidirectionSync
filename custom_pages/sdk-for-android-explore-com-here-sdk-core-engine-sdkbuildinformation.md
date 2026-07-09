@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkbuildinformation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.SDKBuildInformatio
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKBuildInformation</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKBuildInformation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ The SDKBuildInformation class is designed to provide information about the SDK b
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKVersion`](sdk-for-android-explore-com-here-sdk-core-engine-sdkversion "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">`SDKVersion`</a>
 
   </div>
 
@@ -103,7 +103,7 @@ The SDKBuildInformation class is designed to provide information about the SDK b
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[SDKVersion](sdk-for-android-explore-com-here-sdk-core-engine-sdkversion "class in com.here.sdk.core.engine")</span> <span class="element-name">sdkVersion</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></span> <span class="element-name">sdkVersion</span>()
 
     </div>
 

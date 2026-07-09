@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-gestures"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.gestures.Gestures → com.here
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Gestures</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Gestures</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -107,7 +107,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DoubleTapListener`](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">`DoubleTapListener`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`FlingHandler`](sdk-for-android-explore-com-here-sdk-gestures-flinghandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-flinghandler" title="class in com.here.sdk.gestures">`FlingHandler`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LongPressListener`](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">`LongPressListener`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PanListener`](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">`PanListener`</a>
 
   </div>
 
@@ -195,7 +195,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PinchRotateListener`](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">`PinchRotateListener`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`ScaleHandler`](sdk-for-android-explore-com-here-sdk-gestures-scalehandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-scalehandler" title="class in com.here.sdk.gestures">`ScaleHandler`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`ScrollHandler`](sdk-for-android-explore-com-here-sdk-gestures-scrollhandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-scrollhandler" title="class in com.here.sdk.gestures">`ScrollHandler`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TapListener`](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">`TapListener`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TwoFingerPanListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">`TwoFingerPanListener`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TwoFingerTapListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">`TwoFingerTapListener`</a>
 
   </div>
 
@@ -503,7 +503,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enableDefaultAction</span><wbr></wbr><span class="parameters">(@NonNull [GestureType](sdk-for-android-explore-com-here-sdk-gestures-gesturetype "enum class in com.here.sdk.gestures") gestureType)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enableDefaultAction</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</span>
 
     </div>
 
@@ -526,7 +526,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">disableDefaultAction</span><wbr></wbr><span class="parameters">(@NonNull [GestureType](sdk-for-android-explore-com-here-sdk-gestures-gesturetype "enum class in com.here.sdk.gestures") gestureType)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">disableDefaultAction</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</span>
 
     </div>
 
@@ -549,7 +549,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TapListener](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getTapListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">TapListener</a></span> <span class="element-name">getTapListener</span>()
 
     </div>
 
@@ -560,7 +560,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`TapListener`](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures") that notifies when a tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">`TapListener`</a> that notifies when a tap gesture occurs.
 
     </div>
 
@@ -570,7 +570,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTapListener</span><wbr></wbr><span class="parameters">(@Nullable [TapListener](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTapListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">TapListener</a> value)</span>
 
     </div>
 
@@ -583,7 +583,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`TapListener`](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures") that notifies when a tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">`TapListener`</a> that notifies when a tap gesture occurs.
 
     </div>
 
@@ -593,7 +593,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[DoubleTapListener](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getDoubleTapListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></span> <span class="element-name">getDoubleTapListener</span>()
 
     </div>
 
@@ -604,7 +604,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`DoubleTapListener`](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures") that notifies when a double-tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">`DoubleTapListener`</a> that notifies when a double-tap gesture occurs.
 
     </div>
 
@@ -614,7 +614,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDoubleTapListener</span><wbr></wbr><span class="parameters">(@Nullable [DoubleTapListener](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDoubleTapListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a> value)</span>
 
     </div>
 
@@ -627,7 +627,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`DoubleTapListener`](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures") that notifies when a double-tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">`DoubleTapListener`</a> that notifies when a double-tap gesture occurs.
 
     </div>
 
@@ -637,7 +637,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[PinchRotateListener](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getPinchRotateListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a></span> <span class="element-name">getPinchRotateListener</span>()
 
     </div>
 
@@ -648,7 +648,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`PinchRotateListener`](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures") that notifies when a pinch-rotate gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">`PinchRotateListener`</a> that notifies when a pinch-rotate gesture occurs.
 
     </div>
 
@@ -658,7 +658,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPinchRotateListener</span><wbr></wbr><span class="parameters">(@Nullable [PinchRotateListener](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPinchRotateListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a> value)</span>
 
     </div>
 
@@ -671,7 +671,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`PinchRotateListener`](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures") that notifies when a pinch-rotate gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">`PinchRotateListener`</a> that notifies when a pinch-rotate gesture occurs.
 
     </div>
 
@@ -681,7 +681,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LongPressListener](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getLongPressListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></span> <span class="element-name">getLongPressListener</span>()
 
     </div>
 
@@ -692,7 +692,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`LongPressListener`](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures") that notifies when a long-press gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">`LongPressListener`</a> that notifies when a long-press gesture occurs.
 
     </div>
 
@@ -702,7 +702,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLongPressListener</span><wbr></wbr><span class="parameters">(@Nullable [LongPressListener](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLongPressListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a> value)</span>
 
     </div>
 
@@ -715,7 +715,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`LongPressListener`](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures") that notifies when a long-press gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">`LongPressListener`</a> that notifies when a long-press gesture occurs.
 
     </div>
 
@@ -725,7 +725,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[PanListener](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getPanListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">PanListener</a></span> <span class="element-name">getPanListener</span>()
 
     </div>
 
@@ -736,7 +736,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`PanListener`](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures") that notifies when a pan gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">`PanListener`</a> that notifies when a pan gesture occurs.
 
     </div>
 
@@ -746,7 +746,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPanListener</span><wbr></wbr><span class="parameters">(@Nullable [PanListener](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPanListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">PanListener</a> value)</span>
 
     </div>
 
@@ -759,7 +759,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`PanListener`](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures") that notifies when a pan gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">`PanListener`</a> that notifies when a pan gesture occurs.
 
     </div>
 
@@ -769,7 +769,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TwoFingerTapListener](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getTwoFingerTapListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a></span> <span class="element-name">getTwoFingerTapListener</span>()
 
     </div>
 
@@ -780,7 +780,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`TwoFingerTapListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures") that notifies when a two-finger tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">`TwoFingerTapListener`</a> that notifies when a two-finger tap gesture occurs.
 
     </div>
 
@@ -790,7 +790,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTwoFingerTapListener</span><wbr></wbr><span class="parameters">(@Nullable [TwoFingerTapListener](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTwoFingerTapListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a> value)</span>
 
     </div>
 
@@ -803,7 +803,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`TwoFingerTapListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures") that notifies when a two-finger tap gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">`TwoFingerTapListener`</a> that notifies when a two-finger tap gesture occurs.
 
     </div>
 
@@ -813,7 +813,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TwoFingerPanListener](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures")</span> <span class="element-name">getTwoFingerPanListener</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a></span> <span class="element-name">getTwoFingerPanListener</span>()
 
     </div>
 
@@ -824,7 +824,7 @@ Use this class to process touch events from the platform and detect gesture indu
     </div>
 
     Returns:  
-    [`TwoFingerPanListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures") that notifies when a two-finger pan gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">`TwoFingerPanListener`</a> that notifies when a two-finger pan gesture occurs.
 
     </div>
 
@@ -834,7 +834,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTwoFingerPanListener</span><wbr></wbr><span class="parameters">(@Nullable [TwoFingerPanListener](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTwoFingerPanListener</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a> value)</span>
 
     </div>
 
@@ -847,7 +847,7 @@ Use this class to process touch events from the platform and detect gesture indu
     Parameters:  
     `value` -
 
-    [`TwoFingerPanListener`](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures") that notifies when a two-finger pan gesture occurs.
+    <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">`TwoFingerPanListener`</a> that notifies when a two-finger pan gesture occurs.
 
     </div>
 
@@ -857,7 +857,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[ScrollHandler](sdk-for-android-explore-com-here-sdk-gestures-scrollhandler "class in com.here.sdk.gestures")</span> <span class="element-name">getScrollHandler</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-scrollhandler" title="class in com.here.sdk.gestures">ScrollHandler</a></span> <span class="element-name">getScrollHandler</span>()
 
     </div>
 
@@ -878,7 +878,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[ScaleHandler](sdk-for-android-explore-com-here-sdk-gestures-scalehandler "class in com.here.sdk.gestures")</span> <span class="element-name">getScaleHandler</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-scalehandler" title="class in com.here.sdk.gestures">ScaleHandler</a></span> <span class="element-name">getScaleHandler</span>()
 
     </div>
 
@@ -899,7 +899,7 @@ Use this class to process touch events from the platform and detect gesture indu
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[FlingHandler](sdk-for-android-explore-com-here-sdk-gestures-flinghandler "class in com.here.sdk.gestures")</span> <span class="element-name">getFlingHandler</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-flinghandler" title="class in com.here.sdk.gestures">FlingHandler</a></span> <span class="element-name">getFlingHandler</span>()
 
     </div>
 

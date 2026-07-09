@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapContentSettings →
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapContentSettings</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapContentSettings</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -249,7 +249,7 @@ Provides settings regarding map data which are applied globally to all map views
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\> trafficIncidents)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">filterTrafficIncidents</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>\> trafficIncidents)</span>
 
     </div>
 
@@ -262,7 +262,7 @@ Provides settings regarding map data which are applied globally to all map views
     Parameters:  
     `trafficIncidents` -
 
-    The traffic incidents to filter for, so that only applicable incidents are displayed. When the list is empty, then all traffic incidents will be displayed. If the `trafficIncidents` contains [`TrafficIncidentType.UNKNOWN`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#UNKNOWN), then the traffic filter will be applied ignoring this element.
+    The traffic incidents to filter for, so that only applicable incidents are displayed. When the list is empty, then all traffic incidents will be displayed. If the `trafficIncidents` contains <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype#UNKNOWN">`TrafficIncidentType.UNKNOWN`</a>, then the traffic filter will be applied ignoring this element.
 
     </div>
 
@@ -290,7 +290,7 @@ Provides settings regarding map data which are applied globally to all map views
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><wbr></wbr><span class="parameters">(@NonNull [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") value)</span> throws <span class="exceptions">[MapContentSettings.TrafficRefreshPeriodException](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> value)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></span>
 
     </div>
 
@@ -306,9 +306,9 @@ Provides settings regarding map data which are applied globally to all map views
     Traffic data refresh period in seconds. Valid range is \[60, 300\] seconds. The shortest refresh period that can be set is 60 seconds. This means that the traffic data shown on a map view will be refreshed every minute. The longest refresh period that can be set is 300 seconds. This means that the traffic data shown on the current map view will be refreshed every 5 minutes if the viewport does not change. Note that when a viewport change occurs, new traffic data may be requested regardless of the set refresh period. For example, during turn-by-turn navigation, frequent viewport changes can result in missing traffic data, causing new requests to be made more often.
 
     Throws:  
-    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">`MapContentSettings.TrafficRefreshPeriodException`</a> -
 
-    [`MapContentSettings.TrafficRefreshPeriodException`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview") indicates what went wrong.
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">`MapContentSettings.TrafficRefreshPeriodException`</a> indicates what went wrong.
 
     </div>
 

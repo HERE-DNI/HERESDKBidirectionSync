@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.routing.IsolineOptions.Calculation → com.here.sd
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[IsolineOptions](sdk-for-android-explore-com-here-sdk-routing-isolineoptions "class in com.here.sdk.routing")
+<a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
   <div class="col-first even-row-color">
 
-  [`IsolineCalculationMode`](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">`IsolineCalculationMode`</a>
 
   </div>
 
@@ -92,7 +92,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
   <div class="col-first odd-row-color">
 
-  [`RoutePlaceDirection`](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">`RoutePlaceDirection`</a>
 
   </div>
 
@@ -136,7 +136,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
   <div class="col-first odd-row-color">
 
-  [`IsolineRangeType`](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">`IsolineRangeType`</a>
 
   </div>
 
@@ -278,7 +278,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing")</span> <span class="element-name">rangeType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></span> <span class="element-name">rangeType</span>
 
     </div>
 
@@ -314,7 +314,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing")</span> <span class="element-name">isolineCalculationMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></span> <span class="element-name">isolineCalculationMode</span>
 
     </div>
 
@@ -350,7 +350,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing")</span> <span class="element-name">isolineDirection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></span> <span class="element-name">isolineDirection</span>
 
     </div>
 
@@ -372,7 +372,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
+    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
 
     </div>
 
@@ -393,7 +393,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
+    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span>
 
     </div>
 
@@ -418,7 +418,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode)</span>
+    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode)</span>
 
     </div>
 
@@ -443,7 +443,7 @@ Specifies isoline parameters. Setting at least one limit to rangeValues is manda
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> maxPoints, @NonNull [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
+    <span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> maxPoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -155,7 +155,7 @@ All the options to specify how a public transit route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`TransitModeFilter`](sdk-for-android-explore-com-here-sdk-routing-transitmodefilter "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitmodefilter" title="enum class in com.here.sdk.routing">`TransitModeFilter`</a>
 
   </div>
 
@@ -177,7 +177,7 @@ All the options to specify how a public transit route should be calculated.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TransitMode`](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">`TransitMode`</a>`>`
 
   </div>
 
@@ -243,7 +243,7 @@ All the options to specify how a public transit route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>
 
   </div>
 
@@ -353,7 +353,7 @@ All the options to specify how a public transit route should be calculated.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TransitRouteOptions`](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">`TransitRouteOptions`</a>
 
   </div>
 
@@ -487,7 +487,7 @@ All the options to specify how a public transit route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransitModeFilter](sdk-for-android-explore-com-here-sdk-routing-transitmodefilter "enum class in com.here.sdk.routing")</span> <span class="element-name">modeFilter</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></span> <span class="element-name">modeFilter</span>
 
     </div>
 
@@ -505,7 +505,7 @@ All the options to specify how a public transit route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")\></span> <span class="element-name">modes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>\></span> <span class="element-name">modes</span>
 
     </div>
 
@@ -559,7 +559,7 @@ All the options to specify how a public transit route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteTextOptions](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")</span> <span class="element-name">textOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span>
 
     </div>
 
@@ -633,7 +633,7 @@ All the options to specify how a public transit route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[TransitRouteOptions](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing")</span> <span class="element-name">fromDefaultParameterConfiguration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()
 
     </div>
 
@@ -644,7 +644,7 @@ All the options to specify how a public transit route should be calculated.
     </div>
 
     Returns:  
-    An [`TransitRouteOptions`](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing") instance with default values used in SDK.
+    An <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">`TransitRouteOptions`</a> instance with default values used in SDK.
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapMarker3D → com.he
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker3D</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker3D</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -178,7 +178,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -200,7 +200,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>
 
   </div>
 
@@ -310,7 +310,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>`>`
 
   </div>
 
@@ -618,7 +618,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") at, @NonNull [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model)</span>
 
     </div>
 
@@ -645,7 +645,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") at, @NonNull [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview") image, double scale, @NonNull [RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") unit)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image, double scale, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</span>
 
     </div>
 
@@ -680,7 +680,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") at, @NonNull [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model, double scale)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model, double scale)</span>
 
     </div>
 
@@ -711,7 +711,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") at, @NonNull [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview") model, double scale, @NonNull [RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") unit)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model, double scale, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</span>
 
     </div>
 
@@ -750,7 +750,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinates</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()
 
     </div>
 
@@ -771,7 +771,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span>
 
     </div>
 
@@ -794,7 +794,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()
 
     </div>
 
@@ -805,7 +805,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
     </div>
 
     Returns:  
-    The [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") instance attached to this 3D marker.
+    The <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a> instance attached to this 3D marker.
 
     </div>
 
@@ -815,7 +815,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span>
 
     </div>
 
@@ -828,7 +828,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
     Parameters:  
     `value` -
 
-    The [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") instance attached to this 3D marker.
+    The <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a> instance attached to this 3D marker.
 
     </div>
 
@@ -1146,13 +1146,13 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the list of visibility ranges. A range is half open - \[minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. When empty (the default), the 3D marker is visible without map measure restrictions. Only MapMeasureRange of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange of other unsupported types will be ignored.
+    Gets the list of visibility ranges. A range is half open - \<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. When empty (the default), the 3D marker is visible without map measure restrictions. Only MapMeasureRange of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange of other unsupported types will be ignored.
 
     </div>
 
@@ -1167,7 +1167,7 @@ Represents a 3D shape drawn on the map at specified geodetic coordinates. It can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange</a>\> value)</span>
 
     </div>
 

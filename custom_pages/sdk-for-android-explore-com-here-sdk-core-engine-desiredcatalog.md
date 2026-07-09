@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -67,7 +67,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
   <div class="col-first even-row-color">
 
-  [`CatalogIdentifier`](sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">`CatalogIdentifier`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[CatalogIdentifier](sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier "class in com.here.sdk.core.engine")</span> <span class="element-name">id</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></span> <span class="element-name">id</span>
 
     </div>
 
@@ -239,7 +239,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">DesiredCatalog</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> hrn, @NonNull [CatalogVersionHint](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine") version)</span>
+    <span class="modifiers">public</span> <span class="element-name">DesiredCatalog</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> hrn, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a> version)</span>
 
     </div>
 
@@ -252,7 +252,7 @@ This class provides an interface to the user, to identify a catalog on the HERE 
     Parameters:  
     `hrn` -
 
-    A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For more information, see [`CatalogIdentifier.hrn`](sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier#hrn)
+    A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new catalog to your project. For more information, see <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier#hrn">`CatalogIdentifier.hrn`</a>
 
     `version` -
 

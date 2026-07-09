@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
   </div>
 
@@ -49,7 +49,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
 
   </div>
 
@@ -61,7 +61,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
   </div>
 
@@ -73,7 +73,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
 
   </div>
 
@@ -105,7 +105,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ApplicationUtilsInitializer](sdk-for-android-explore-com-here-sdk-core-engine-applicationutilsinitializer "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-applicationutilsinitializer" title="class in com.here.sdk.core.engine">ApplicationUtilsInitializer</a>
 
   </div>
 
@@ -121,7 +121,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a>
 
   </div>
 
@@ -137,7 +137,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [AuthenticationMode.AccessTokenProvider](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider "interface in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a>
 
   </div>
 
@@ -153,7 +153,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>
 
   </div>
 
@@ -169,7 +169,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [CatalogIdentifier](sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a>
 
   </div>
 
@@ -185,7 +185,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [CatalogType](sdk-for-android-explore-com-here-sdk-core-engine-catalogtype "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a>
 
   </div>
 
@@ -201,7 +201,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [CatalogVersionHint](sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a>
 
   </div>
 
@@ -217,7 +217,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [CertificateSettings](sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a>
 
   </div>
 
@@ -233,7 +233,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [DesiredCatalog](sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a>
 
   </div>
 
@@ -249,7 +249,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [DeviceIdCallback](sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback "interface in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a>
 
   </div>
 
@@ -265,7 +265,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>
 
   </div>
 
@@ -281,7 +281,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>
 
   </div>
 
@@ -297,7 +297,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LayerConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a>
 
   </div>
 
@@ -313,7 +313,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>
 
   </div>
 
@@ -329,7 +329,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LockingProcess](sdk-for-android-explore-com-here-sdk-core-engine-lockingprocess "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-lockingprocess" title="class in com.here.sdk.core.engine">LockingProcess</a>
 
   </div>
 
@@ -345,7 +345,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [LogAppender](sdk-for-android-explore-com-here-sdk-core-engine-logappender "interface in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-logappender" title="interface in com.here.sdk.core.engine">LogAppender</a>
 
   </div>
 
@@ -361,7 +361,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LogControl](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol" title="class in com.here.sdk.core.engine">LogControl</a>
 
   </div>
 
@@ -377,7 +377,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [LogControl.InvalidPathException](sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a>
 
   </div>
 
@@ -393,7 +393,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [LogLevel](sdk-for-android-explore-com-here-sdk-core-engine-loglevel "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a>
 
   </div>
 
@@ -409,7 +409,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [NetworkSettings](sdk-for-android-explore-com-here-sdk-core-engine-networksettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a>
 
   </div>
 
@@ -425,7 +425,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>
 
   </div>
 
@@ -441,7 +441,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [ProxySettings](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a>
 
   </div>
 
@@ -457,7 +457,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ProxySettings.Credentials](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a>
 
   </div>
 
@@ -473,7 +473,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [ProxySettings.ProxyType](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a>
 
   </div>
 
@@ -489,7 +489,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SDKBuildInformation](sdk-for-android-explore-com-here-sdk-core-engine-sdkbuildinformation "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkbuildinformation" title="class in com.here.sdk.core.engine">SDKBuildInformation</a>
 
   </div>
 
@@ -505,7 +505,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [SDKLogger](sdk-for-android-explore-com-here-sdk-core-engine-sdklogger "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdklogger" title="class in com.here.sdk.core.engine">SDKLogger</a>
 
   </div>
 
@@ -521,7 +521,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a>
 
   </div>
 
@@ -537,7 +537,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a>
 
   </div>
 
@@ -553,7 +553,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a>
 
   </div>
 
@@ -569,7 +569,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a>
 
   </div>
 
@@ -585,7 +585,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SDKVersion](sdk-for-android-explore-com-here-sdk-core-engine-sdkversion "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a>
 
   </div>
 
@@ -601,7 +601,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>
 
   </div>
 
@@ -617,7 +617,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>
 
   </div>
 
@@ -633,7 +633,7 @@ package <span class="element-name">com.here.sdk.core.engine</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [UsageStats.NetworkStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>
 
   </div>
 

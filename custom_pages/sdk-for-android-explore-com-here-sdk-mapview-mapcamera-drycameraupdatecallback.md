@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a>
 
 <!-- -->
 
@@ -101,7 +101,7 @@ Used to report back results of dry update application to camera. Note that this 
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><wbr></wbr><span class="parameters">(@Nullable [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
+    <span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span>
 
     </div>
 

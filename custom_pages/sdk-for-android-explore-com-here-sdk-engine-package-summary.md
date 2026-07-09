@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.engine</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [InitProvider](sdk-for-android-explore-com-here-sdk-engine-initprovider "class in com.here.sdk.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-engine-initprovider" title="class in com.here.sdk.engine">InitProvider</a>
 
   </div>
 

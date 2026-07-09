@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-suggestion"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.Suggestion → com.here
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Suggestion</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Suggestion</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`[`HighlightType`](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search"), <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`IndexRange`](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">`HighlightType`</a>, <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">`IndexRange`</a>`>>`
 
   </div>
 
@@ -129,7 +129,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Place`](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">`Place`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`SuggestionType`](sdk-for-android-explore-com-here-sdk-search-suggestiontype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">`SuggestionType`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[HighlightType](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search"),<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")\>\></span> <span class="element-name">getHighlights</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">IndexRange</a>\>\></span> <span class="element-name">getHighlights</span>()
 
     </div>
 
@@ -228,7 +228,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
     </div>
 
     Returns:  
-    Associated container where [`HighlightType`](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search") is a key and list of [`IndexRange`](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search") value.
+    Associated container where <a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">`HighlightType`</a> is a key and list of <a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">`IndexRange`</a> value.
 
     </div>
 
@@ -259,7 +259,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SuggestionType](sdk-for-android-explore-com-here-sdk-search-suggestiontype "enum class in com.here.sdk.search")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></span> <span class="element-name">getType</span>()
 
     </div>
 
@@ -280,7 +280,7 @@ Suggestion is meant to provide relevant suggestions to partial queries, like "re
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")</span> <span class="element-name">getPlace</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-proxysettings"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -143,7 +143,7 @@ Proxy configuration for the HERE SDK network that is applied per request. Note: 
 
   <div class="col-first even-row-color">
 
-  [`ProxySettings.Credentials`](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials" title="class in com.here.sdk.core.engine">`ProxySettings.Credentials`</a>
 
   </div>
 
@@ -231,7 +231,7 @@ Proxy configuration for the HERE SDK network that is applied per request. Note: 
 
   <div class="col-first even-row-color">
 
-  [`ProxySettings.ProxyType`](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">`ProxySettings.ProxyType`</a>
 
   </div>
 
@@ -382,7 +382,7 @@ Proxy configuration for the HERE SDK network that is applied per request. Note: 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[ProxySettings.ProxyType](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -454,7 +454,7 @@ Proxy configuration for the HERE SDK network that is applied per request. Note: 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ProxySettings.Credentials](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials "class in com.here.sdk.core.engine")</span> <span class="element-name">credentials</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></span> <span class="element-name">credentials</span>
 
     </div>
 
@@ -476,7 +476,7 @@ Proxy configuration for the HERE SDK network that is applied per request. Note: 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ProxySettings</span><wbr></wbr><span class="parameters">(@NonNull [ProxySettings.ProxyType](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype "enum class in com.here.sdk.core.engine") type, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/net/InetAddress.html" class="external-link" title="class or interface in java.net">InetAddress</a> ipAddress, int port)</span>
+    <span class="modifiers">public</span> <span class="element-name">ProxySettings</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a> type, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/net/InetAddress.html" class="external-link" title="class or interface in java.net">InetAddress</a> ipAddress, int port)</span>
 
     </div>
 

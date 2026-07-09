@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energysource"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
   <div class="col-first odd-row-color">
 
-  [`EnergySourceType`](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">`EnergySourceType`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Energy source of EV charging point. EnergyMix contains a list of this representi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EnergySourceType](sdk-for-android-explore-com-here-sdk-search-energysourcetype "enum class in com.here.sdk.search")</span> <span class="element-name">source</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></span> <span class="element-name">source</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-style"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.Style → com.here.Nat
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Style</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Style</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -107,7 +107,7 @@ A style that defines the visual appearance of map rendered features. A Style can
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">update</span><wbr></wbr><span class="parameters">(@NonNull [Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview") style)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">update</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a> style)</span>
 
     </div>
 

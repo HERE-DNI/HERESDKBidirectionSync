@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayer"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapLayer → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayer</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayer</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -196,7 +196,7 @@ Interface for managing a map layer. A map layer can be created by using the MapL
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setStyle</span><wbr></wbr><span class="parameters">(@NonNull [Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview") style)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a> style)</span>
 
     </div>
 
@@ -219,7 +219,7 @@ Interface for managing a map layer. A map layer can be created by using the MapL
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") priority)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span>
 
     </div>
 

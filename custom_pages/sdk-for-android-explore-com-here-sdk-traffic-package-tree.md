@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 
@@ -19,8 +19,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-package-tree"
   - com.here.<a href="sdk-for-android-explore-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
     - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficdataprovider" class="type-name-link" title="class in com.here.sdk.traffic">TrafficDataProvider</a>
     - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficengine" class="type-name-link" title="class in com.here.sdk.traffic">TrafficEngine</a>
-    - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflow" class="type-name-link" title="class in com.here.sdk.traffic">TrafficFlow</a> (implements com.here.sdk.traffic.[TrafficFlowBase](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic"))
-    - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" class="type-name-link" title="class in com.here.sdk.traffic">TrafficIncident</a> (implements com.here.sdk.traffic.[TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic"))
+    - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflow" class="type-name-link" title="class in com.here.sdk.traffic">TrafficFlow</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a>)
+    - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" class="type-name-link" title="class in com.here.sdk.traffic">TrafficIncident</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)
   - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions" class="type-name-link" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a>
   - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction" class="type-name-link" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a>
   - com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions" class="type-name-link" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a>

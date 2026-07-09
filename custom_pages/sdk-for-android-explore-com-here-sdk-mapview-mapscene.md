@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapScene → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapScene</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapScene</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -447,7 +447,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapSceneLights`](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">`MapSceneLights`</a>
 
   </div>
 
@@ -997,7 +997,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull [MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview") mapScheme, @Nullable [MapScene.LoadSceneCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span>
 
     </div>
 
@@ -1024,7 +1024,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> configurationFile, @Nullable [MapScene.LoadSceneCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> configurationFile, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span>
 
     </div>
 
@@ -1051,7 +1051,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> configurationFile, @NonNull [WatermarkStyle](sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle "enum class in com.here.sdk.mapview") watermarkStyle, @Nullable [MapScene.LoadSceneCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> configurationFile, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span>
 
     </div>
 
@@ -1068,7 +1068,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     `watermarkStyle` -
 
-    The style for the HERE watermark, see [`WatermarkStyle`](sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle "enum class in com.here.sdk.mapview").
+    The style for the HERE watermark, see <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview">`WatermarkStyle`</a>.
 
     `callback` -
 
@@ -1082,7 +1082,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLoadOptions](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions "class in com.here.sdk.mapview") options, @Nullable [MapScene.LoadSceneCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a> options, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span>
 
     </div>
 
@@ -1109,7 +1109,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolyline</span><wbr></wbr><span class="parameters">(@NonNull [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview") mapPolyline)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span>
 
     </div>
 
@@ -1132,7 +1132,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>\> mapPolylines)</span>
 
     </div>
 
@@ -1155,7 +1155,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolyline</span><wbr></wbr><span class="parameters">(@NonNull [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview") mapPolyline)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span>
 
     </div>
 
@@ -1178,7 +1178,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")\> mapPolylines)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>\> mapPolylines)</span>
 
     </div>
 
@@ -1219,7 +1219,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapArrow</span><wbr></wbr><span class="parameters">(@NonNull [MapArrow](sdk-for-android-explore-com-here-sdk-mapview-maparrow "class in com.here.sdk.mapview") mapArrow)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapArrow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span>
 
     </div>
 
@@ -1242,7 +1242,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapArrow</span><wbr></wbr><span class="parameters">(@NonNull [MapArrow](sdk-for-android-explore-com-here-sdk-mapview-maparrow "class in com.here.sdk.mapview") mapArrow)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapArrow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span>
 
     </div>
 
@@ -1265,7 +1265,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview") marker)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span>
 
     </div>
 
@@ -1288,7 +1288,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>\> markers)</span>
 
     </div>
 
@@ -1311,7 +1311,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview") marker)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span>
 
     </div>
 
@@ -1334,7 +1334,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>\> markers)</span>
 
     </div>
 
@@ -1375,7 +1375,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkerCluster</span><wbr></wbr><span class="parameters">(@NonNull [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview") cluster)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkerCluster</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span>
 
     </div>
 
@@ -1398,7 +1398,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkerCluster</span><wbr></wbr><span class="parameters">(@NonNull [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview") cluster)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkerCluster</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span>
 
     </div>
 
@@ -1421,7 +1421,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker3d</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview") marker)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span>
 
     </div>
 
@@ -1444,7 +1444,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>\> markers)</span>
 
     </div>
 
@@ -1467,7 +1467,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker3d</span><wbr></wbr><span class="parameters">(@NonNull [MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview") marker)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span>
 
     </div>
 
@@ -1490,7 +1490,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")\> markers)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers3d</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>\> markers)</span>
 
     </div>
 
@@ -1531,7 +1531,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview") mapPolygon)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygon</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span>
 
     </div>
 
@@ -1554,7 +1554,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>\> mapPolygons)</span>
 
     </div>
 
@@ -1577,7 +1577,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview") mapPolygon)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygon</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span>
 
     </div>
 
@@ -1600,7 +1600,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygons</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")\> mapPolygons)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygons</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>\> mapPolygons)</span>
 
     </div>
 
@@ -1641,7 +1641,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull [MapImageOverlay](sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay "class in com.here.sdk.mapview") overlay)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span>
 
     </div>
 
@@ -1664,7 +1664,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull [MapImageOverlay](sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay "class in com.here.sdk.mapview") overlay)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapImageOverlay</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span>
 
     </div>
 
@@ -1705,7 +1705,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLayerVisibility</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> layerName, @NonNull [VisibilityState](sdk-for-android-explore-com-here-sdk-mapview-visibilitystate "enum class in com.here.sdk.mapview") visibility)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLayerVisibility</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> layerName, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</span>
 
     </div>
 
@@ -1787,7 +1787,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
     Parameters:  
     `features` -
 
-    The list of features to enable, key is the name of the feature (see [`MapFeatures`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")), value specifies its mode (see [`MapFeatureModes`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")).
+    The list of features to enable, key is the name of the feature (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">`MapFeatures`</a>), value specifies its mode (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">`MapFeatureModes`</a>).
 
     </div>
 
@@ -1810,7 +1810,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
     Parameters:  
     `features` -
 
-    The names of features to disable (see [`MapFeatures`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")).
+    The names of features to disable (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">`MapFeatures`</a>).
 
     </div>
 
@@ -1838,7 +1838,7 @@ Represents a map scene and exposes the functionality to manipulate its content. 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapSceneLights](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights "class in com.here.sdk.mapview")</span> <span class="element-name">getLights</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></span> <span class="element-name">getLights</span>()
 
     </div>
 

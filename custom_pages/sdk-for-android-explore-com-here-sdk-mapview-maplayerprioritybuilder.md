@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapLayerPriorityBuilde
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerPriorityBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerPriorityBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a>
 
   </div>
 
@@ -127,7 +127,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -171,7 +171,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -193,7 +193,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -215,7 +215,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -237,7 +237,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -259,7 +259,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -281,7 +281,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerPriorityBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">`MapLayerPriorityBuilder`</a>
 
   </div>
 
@@ -347,7 +347,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withCategory</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> category)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">withCategory</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> category)</span>
 
     </div>
 
@@ -373,7 +373,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">inGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> group)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">inGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> group)</span>
 
     </div>
 
@@ -386,7 +386,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
     Parameters:  
     `group` -
 
-    The name of the group. For instance the name of a [`TranslucentMapLayerGroup`](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup "class in com.here.sdk.mapview").
+    The name of the group. For instance the name of a <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">`TranslucentMapLayerGroup`</a>.
 
     Returns:  
     This class instance.
@@ -399,7 +399,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedFirst</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedFirst</span>()
 
     </div>
 
@@ -420,7 +420,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedLast</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedLast</span>()
 
     </div>
 
@@ -441,7 +441,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedBeforeLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedBeforeLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
 
     </div>
 
@@ -467,7 +467,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedBeforeLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedBeforeLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
 
     </div>
 
@@ -497,7 +497,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedAfterLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedAfterLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer)</span>
 
     </div>
 
@@ -523,7 +523,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")</span> <span class="element-name">renderedAfterLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedAfterLayer</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceLayer, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> referenceCategory)</span>
 
     </div>
 
@@ -553,7 +553,7 @@ MapLayerPriorityBuilder is an interface used to define the rendering priority of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a></span> <span class="element-name">build</span>()
 
     </div>
 

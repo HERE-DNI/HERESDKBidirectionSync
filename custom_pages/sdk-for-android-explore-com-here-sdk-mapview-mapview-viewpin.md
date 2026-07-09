@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">MapView</a>
 
 <div class="type-signature">
 
@@ -60,7 +60,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`Anchor2D`](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">`Anchor2D`</a>
 
   </div>
 
@@ -82,7 +82,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -202,7 +202,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
     <div class="member-signature">
 
-    <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getGeoCoordinates</span>()
+    <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()
 
     </div>
 
@@ -223,7 +223,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
+    <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span>
 
     </div>
 
@@ -244,7 +244,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchorPoint)</span>
+    <span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span>
 
     </div>
 
@@ -265,7 +265,7 @@ A ViewPin is used to display Android views at a fixed location on the map. The p
 
     <div class="member-signature">
 
-    <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">getAnchorPoint</span>()
+    <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()
 
     </div>
 

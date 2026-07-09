@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-caroptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -79,7 +79,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`AllowOptions`](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">`AllowOptions`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first odd-row-color">
 
-  [`AvoidanceOptions`](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">`AvoidanceOptions`</a>
 
   </div>
 
@@ -135,7 +135,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`CarSpecifications`](sdk-for-android-explore-com-here-sdk-transport-carspecifications "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">`CarSpecifications`</a>
 
   </div>
 
@@ -191,7 +191,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MaxSpeedOnSegment`](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">`MaxSpeedOnSegment`</a>`>`
 
   </div>
 
@@ -247,7 +247,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`RouteOptions`](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">`RouteOptions`</a>
 
   </div>
 
@@ -275,7 +275,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first odd-row-color">
 
-  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>
 
   </div>
 
@@ -303,7 +303,7 @@ All the options to specify how a car route should be calculated.
 
   <div class="col-first even-row-color">
 
-  [`TollOptions`](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">`TollOptions`</a>
 
   </div>
 
@@ -477,7 +477,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteOptions](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")</span> <span class="element-name">routeOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span>
 
     </div>
 
@@ -501,7 +501,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteTextOptions](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")</span> <span class="element-name">textOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span>
 
     </div>
 
@@ -525,7 +525,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AvoidanceOptions](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")</span> <span class="element-name">avoidanceOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span>
 
     </div>
 
@@ -549,7 +549,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TollOptions](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")</span> <span class="element-name">tollOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span>
 
     </div>
 
@@ -573,7 +573,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AllowOptions](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")</span> <span class="element-name">allowOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></span> <span class="element-name">allowOptions</span>
 
     </div>
 
@@ -645,7 +645,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MaxSpeedOnSegment](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")\></span> <span class="element-name">maxSpeedOnSegments</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>\></span> <span class="element-name">maxSpeedOnSegments</span>
 
     </div>
 
@@ -669,7 +669,7 @@ All the options to specify how a car route should be calculated.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[CarSpecifications](sdk-for-android-explore-com-here-sdk-transport-carspecifications "class in com.here.sdk.transport")</span> <span class="element-name">carSpecifications</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></span> <span class="element-name">carSpecifications</span>
 
     </div>
 

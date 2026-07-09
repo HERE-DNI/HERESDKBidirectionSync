@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -143,7 +143,7 @@ ViolatedRestriction contains all the violated restriction details for the planne
 
   <div class="col-first odd-row-color">
 
-  [`ViolatedRestriction.Details`](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details" title="class in com.here.sdk.routing">`ViolatedRestriction.Details`</a>
 
   </div>
 
@@ -352,7 +352,7 @@ ViolatedRestriction contains all the violated restriction details for the planne
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ViolatedRestriction.Details](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details "class in com.here.sdk.routing")</span> <span class="element-name">details</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></span> <span class="element-name">details</span>
 
     </div>
 

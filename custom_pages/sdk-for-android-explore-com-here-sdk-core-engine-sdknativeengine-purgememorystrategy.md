@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgemem
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< SDKNativeEngine.PurgeMemoryStrategy \> com.he
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SDKNativeEngine.PurgeMemoryStrategy`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">`SDKNativeEngine.PurgeMemoryStrategy`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine")
+<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">SDKNativeEngine.PurgeMemoryStrategy</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">SDKNativeEngine.PurgeMemoryStrategy</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a>\></span>
 
 </div>
 
@@ -127,7 +127,7 @@ Enum representing a strategy to flush memory caches.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKNativeEngine.PurgeMemoryStrategy`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">`SDKNativeEngine.PurgeMemoryStrategy`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Enum representing a strategy to flush memory caches.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKNativeEngine.PurgeMemoryStrategy`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">`SDKNativeEngine.PurgeMemoryStrategy`</a>`[]`
 
   </div>
 
@@ -203,7 +203,7 @@ Enum representing a strategy to flush memory caches.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")</span> <span class="element-name">FULL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></span> <span class="element-name">FULL</span>
 
     </div>
 
@@ -225,7 +225,7 @@ Enum representing a strategy to flush memory caches.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -246,7 +246,7 @@ Enum representing a strategy to flush memory caches.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

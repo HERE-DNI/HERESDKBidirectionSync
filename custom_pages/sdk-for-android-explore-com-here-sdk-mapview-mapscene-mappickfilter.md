@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapScene.MapPickFilter
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">MapScene</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapScene.MapPickFilter</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapScene.MapPickFilter</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -158,7 +158,7 @@ Filter for the map content to be picked.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPickFilter</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")\> filter)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPickFilter</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>\> filter)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< IndoorManeuverActions \> com.here.sdk.routing
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">`IndoorManeuverActions`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">IndoorManeuverActions</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">IndoorManeuverActions</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>\></span>
 
 </div>
 
@@ -362,7 +362,7 @@ Defines the types of actions for indoor maneuvers.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">`IndoorManeuverActions`</a>
 
   </div>
 
@@ -384,7 +384,7 @@ Defines the types of actions for indoor maneuvers.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">`IndoorManeuverActions`</a>`[]`
 
   </div>
 
@@ -438,7 +438,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">DEPART</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">DEPART</span>
 
     </div>
 
@@ -456,7 +456,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">ARRIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ARRIVE</span>
 
     </div>
 
@@ -474,7 +474,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">LEFT_U_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_U_TURN</span>
 
     </div>
 
@@ -492,7 +492,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">SHARP_LEFT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_LEFT_TURN</span>
 
     </div>
 
@@ -510,7 +510,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">LEFT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_TURN</span>
 
     </div>
 
@@ -528,7 +528,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">SLIGHT_LEFT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_LEFT_TURN</span>
 
     </div>
 
@@ -546,7 +546,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">SLIGHT_RIGHT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SLIGHT_RIGHT_TURN</span>
 
     </div>
 
@@ -564,7 +564,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">CONTINUE_ON</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">CONTINUE_ON</span>
 
     </div>
 
@@ -582,7 +582,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">RIGHT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_TURN</span>
 
     </div>
 
@@ -600,7 +600,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">SHARP_RIGHT_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">SHARP_RIGHT_TURN</span>
 
     </div>
 
@@ -618,7 +618,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">RIGHT_U_TURN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_U_TURN</span>
 
     </div>
 
@@ -636,7 +636,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">LEFT_EXIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEFT_EXIT</span>
 
     </div>
 
@@ -654,7 +654,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">RIGHT_EXIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">RIGHT_EXIT</span>
 
     </div>
 
@@ -672,7 +672,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">LEVEL_CHANGE_ACTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEVEL_CHANGE_ACTION</span>
 
     </div>
 
@@ -690,7 +690,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">ENTER_ACTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">ENTER_ACTION</span>
 
     </div>
 
@@ -708,7 +708,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">LEAVE_ACTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">LEAVE_ACTION</span>
 
     </div>
 
@@ -730,7 +730,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -751,7 +751,7 @@ Defines the types of actions for indoor maneuvers.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

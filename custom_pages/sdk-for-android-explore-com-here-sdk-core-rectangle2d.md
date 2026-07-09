@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents a 2D rectangle defined by the origin and size.
 
   <div class="col-first even-row-color">
 
-  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">`Point2D`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Represents a 2D rectangle defined by the origin and size.
 
   <div class="col-first odd-row-color">
 
-  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">`Size2D`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Represents a 2D rectangle defined by the origin and size.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">origin</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">origin</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Represents a 2D rectangle defined by the origin and size.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")</span> <span class="element-name">size</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">size</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Represents a 2D rectangle defined by the origin and size.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Rectangle2D</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin, @NonNull [Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core") size)</span>
+    <span class="modifiers">public</span> <span class="element-name">Rectangle2D</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a> size)</span>
 
     </div>
 

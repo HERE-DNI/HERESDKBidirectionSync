@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-place"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.Place → com.here.Nati
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Place</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Place</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Place`](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">`Place`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>`>`
 
   </div>
 
@@ -107,7 +107,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Address`](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search">`Address`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`AreaType`](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">`AreaType`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Details`](sdk-for-android-explore-com-here-sdk-search-details "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-details" title="class in com.here.sdk.search">`Details`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PlaceType`](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">`PlaceType`</a>
 
   </div>
 
@@ -414,7 +414,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")</span> <span class="element-name">deserialize</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> serializedPlace)</span> throws <span class="exceptions">[PlaceSerializationException](sdk-for-android-explore-com-here-sdk-search-placeserializationexception "class in com.here.sdk.search")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">deserialize</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> serializedPlace)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></span>
 
     </div>
 
@@ -430,10 +430,10 @@ Represents a location object, such as a country, a city, a point of interest (PO
     The serialized place
 
     Returns:  
-    A [`Place`](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search") created from serialized string.
+    A <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">`Place`</a> created from serialized string.
 
     Throws:  
-    [`PlaceSerializationException`](sdk-for-android-explore-com-here-sdk-search-placeserializationexception "class in com.here.sdk.search") -
+    <a href="sdk-for-android-explore-com-here-sdk-search-placeserializationexception" title="class in com.here.sdk.search">`PlaceSerializationException`</a> -
 
     Indicates what went wrong during deserialization attempt.
 
@@ -487,7 +487,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")</span> <span class="element-name">getPlaceType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-placetype" title="enum class in com.here.sdk.search">PlaceType</a></span> <span class="element-name">getPlaceType</span>()
 
     </div>
 
@@ -508,7 +508,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">getAreaType</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">getAreaType</span>()
 
     </div>
 
@@ -523,7 +523,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
         getPlaceType()
 
-    </a> is [`PlaceType.AREA`](sdk-for-android-explore-com-here-sdk-search-placetype#AREA).
+    </a> is <a href="sdk-for-android-explore-com-here-sdk-search-placetype#AREA">`PlaceType.AREA`</a>.
 
     </p>
 
@@ -535,7 +535,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Address](sdk-for-android-explore-com-here-sdk-search-address "class in com.here.sdk.search")</span> <span class="element-name">getAddress</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search">Address</a></span> <span class="element-name">getAddress</span>()
 
     </div>
 
@@ -546,7 +546,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
     </div>
 
     Returns:  
-    The address of the place. Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only [`Address.addressText`](sdk-for-android-explore-com-here-sdk-search-address#addressText). Complete address details can be obtained by searching with [`PlaceIdQuery`](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search").
+    The address of the place. Note that while `OfflineSearchEngine.suggest` and `OfflineSearchEngine.suggestByText` set all available details, `SearchEngine.suggest` and `SearchEngine.suggestByText` set only <a href="sdk-for-android-explore-com-here-sdk-search-address#addressText">`Address.addressText`</a>. Complete address details can be obtained by searching with <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">`PlaceIdQuery`</a>.
 
     </div>
 
@@ -556,7 +556,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Details](sdk-for-android-explore-com-here-sdk-search-details "class in com.here.sdk.search")</span> <span class="element-name">getDetails</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-details" title="class in com.here.sdk.search">Details</a></span> <span class="element-name">getDetails</span>()
 
     </div>
 
@@ -577,7 +577,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getGeoCoordinates</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()
 
     </div>
 
@@ -619,7 +619,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">getAccessPoints</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\></span> <span class="element-name">getAccessPoints</span>()
 
     </div>
 
@@ -640,7 +640,7 @@ Represents a location object, such as a country, a city, a point of interest (PO
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">getBoundingBox</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()
 
     </div>
 

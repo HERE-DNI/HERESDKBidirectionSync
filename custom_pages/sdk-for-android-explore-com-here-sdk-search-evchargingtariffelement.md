@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffelement"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingTariffPriceComponent`](sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent" title="class in com.here.sdk.search">`EVChargingTariffPriceComponent`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
   <div class="col-first odd-row-color">
 
-  [`EVChargingTariffElementCondition`](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition" title="class in com.here.sdk.search">`EVChargingTariffElementCondition`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingTariffPriceComponent](sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent "class in com.here.sdk.search")\></span> <span class="element-name">components</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>\></span> <span class="element-name">components</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Represents a tariff element, which defines how pricing is applied. The associate
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingTariffElementCondition](sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition "class in com.here.sdk.search")</span> <span class="element-name">condition</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></span> <span class="element-name">condition</span>
 
     </div>
 

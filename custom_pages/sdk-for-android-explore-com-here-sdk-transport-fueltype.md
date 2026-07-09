@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-fueltype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< FuelType \> com.here.sdk.transport.FuelType �
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">`FuelType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">FuelType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">FuelType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>\></span>
 
 </div>
 
@@ -586,7 +586,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">`FuelType`</a>
 
   </div>
 
@@ -608,7 +608,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">`FuelType`</a>`[]`
 
   </div>
 
@@ -662,7 +662,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">DIESEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL</span>
 
     </div>
 
@@ -680,7 +680,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">LPG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LPG</span>
 
     </div>
 
@@ -698,7 +698,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">BIO_DIESEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">BIO_DIESEL</span>
 
     </div>
 
@@ -716,7 +716,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">CNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">CNG</span>
 
     </div>
 
@@ -734,7 +734,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">DIESEL_WITH_ADDITIVES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL_WITH_ADDITIVES</span>
 
     </div>
 
@@ -752,7 +752,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">E10</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E10</span>
 
     </div>
 
@@ -770,7 +770,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">E20</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E20</span>
 
     </div>
 
@@ -788,7 +788,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">E85</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E85</span>
 
     </div>
 
@@ -806,7 +806,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">ETHANOL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL</span>
 
     </div>
 
@@ -824,7 +824,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">ETHANOL_WITH_ADDITIVES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL_WITH_ADDITIVES</span>
 
     </div>
 
@@ -842,7 +842,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">GASOLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOLINE</span>
 
     </div>
 
@@ -860,7 +860,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">GASOHOL_91</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_91</span>
 
     </div>
 
@@ -878,7 +878,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">GASOHOL_95</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_95</span>
 
     </div>
 
@@ -896,7 +896,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">HVO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HVO</span>
 
     </div>
 
@@ -914,7 +914,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">HYDROGEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HYDROGEN</span>
 
     </div>
 
@@ -932,7 +932,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">LNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LNG</span>
 
     </div>
 
@@ -950,7 +950,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">MIDGRADE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">MIDGRADE</span>
 
     </div>
 
@@ -968,7 +968,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">PREMIUM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM</span>
 
     </div>
 
@@ -986,7 +986,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">PREMIUM_WITH_ADDITIVES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM_WITH_ADDITIVES</span>
 
     </div>
 
@@ -1004,7 +1004,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">REGULAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR</span>
 
     </div>
 
@@ -1022,7 +1022,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">REGULAR_WITH_ADDITIVES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR_WITH_ADDITIVES</span>
 
     </div>
 
@@ -1040,7 +1040,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_87</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_87</span>
 
     </div>
 
@@ -1058,7 +1058,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_89</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_89</span>
 
     </div>
 
@@ -1076,7 +1076,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_90</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_90</span>
 
     </div>
 
@@ -1094,7 +1094,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_91</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_91</span>
 
     </div>
 
@@ -1112,7 +1112,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_92</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_92</span>
 
     </div>
 
@@ -1130,7 +1130,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_93</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_93</span>
 
     </div>
 
@@ -1148,7 +1148,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_95</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_95</span>
 
     </div>
 
@@ -1166,7 +1166,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_98</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_98</span>
 
     </div>
 
@@ -1184,7 +1184,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">OCTANE_100</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_100</span>
 
     </div>
 
@@ -1206,7 +1206,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1227,7 +1227,7 @@ Defines possible fuel types provided by a fuel station. Note: This is a beta rel
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

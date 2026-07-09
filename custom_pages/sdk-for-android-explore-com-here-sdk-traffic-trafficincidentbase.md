@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`PickMapContentResult.TrafficIncidentResult`](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview"), [`TrafficIncident`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic"), [`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">`PickMapContentResult.TrafficIncidentResult`</a>, <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">`TrafficIncident`</a>, <a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" title="class in com.here.sdk.routing">`TrafficIncidentOnRoute`</a>
 
 <div class="type-signature">
 
@@ -60,7 +60,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">`LocalizedText`</a>
 
   </div>
 
@@ -104,7 +104,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TrafficIncidentImpact`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">`TrafficIncidentImpact`</a>
 
   </div>
 
@@ -148,7 +148,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TrafficIncidentType`](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">`TrafficIncidentType`</a>
 
   </div>
 
@@ -184,7 +184,7 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")</span> <span class="element-name">getImpact</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()
 
     </div>
 
@@ -205,7 +205,7 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")</span> <span class="element-name">getType</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()
 
     </div>
 
@@ -226,7 +226,7 @@ TrafficIncident provides details about a traffic incident.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">getDescription</span>()
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapItemRepresentation 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Direct Known Subclasses:  
-[`MapPolyline.Representation`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">`MapPolyline.Representation`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public class </span><span class="element-name type-name-label">MapItemRepresentation</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public class </span><span class="element-name type-name-label">MapItemRepresentation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 

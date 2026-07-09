@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapSceneLights → com
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapSceneLights</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapSceneLights</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -183,7 +183,7 @@ Manage the lights and their attributes in a scene.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -205,7 +205,7 @@ Manage the lights and their attributes in a scene.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapSceneLights.Direction`](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction" title="class in com.here.sdk.mapview">`MapSceneLights.Direction`</a>
 
   </div>
 
@@ -360,7 +360,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setColor</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color, @Nullable [MapSceneLights.AttributeSettingCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span>
 
     </div>
 
@@ -391,7 +391,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setIntensity</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category, double intensity, @Nullable [MapSceneLights.AttributeSettingCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setIntensity</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category, double intensity, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span>
 
     </div>
 
@@ -422,7 +422,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDirection</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category, @NonNull [MapSceneLights.Direction](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction "class in com.here.sdk.mapview") direction, @Nullable [MapSceneLights.AttributeSettingCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDirection</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> direction, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span>
 
     </div>
 
@@ -453,7 +453,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getColor</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span>
 
     </div>
 
@@ -479,7 +479,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getIntensity</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getIntensity</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span>
 
     </div>
 
@@ -505,7 +505,7 @@ Manage the lights and their attributes in a scene.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[MapSceneLights.Direction](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction "class in com.here.sdk.mapview")</span> <span class="element-name">getDirection</span><wbr></wbr><span class="parameters">(@NonNull [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview") category)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></span> <span class="element-name">getDirection</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span>
 
     </div>
 

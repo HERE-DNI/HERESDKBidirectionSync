@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -205,7 +205,7 @@ This provider creates icons from a given set of parameters for map content and c
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">IconProvider</span><wbr></wbr><span class="parameters">([MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") mapContext)</span>
+    <span class="modifiers">public</span> <span class="element-name">IconProvider</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> mapContext)</span>
 
     </div>
 
@@ -230,7 +230,7 @@ This provider creates icons from a given set of parameters for map content and c
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">createRoadShieldIcon</span><wbr></wbr><span class="parameters">(@NonNull [RoadShieldIconProperties](sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties "class in com.here.sdk.mapview") properties, @NonNull [MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview") mapScheme, @NonNull [IconProviderAssetType](sdk-for-android-explore-com-here-sdk-mapview-iconproviderassettype "enum class in com.here.sdk.mapview") assetType, long widthConstraintInPixels, long heightConstraintInPixels, @NonNull [IconProvider.IconCallback](sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">createRoadShieldIcon</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a> properties, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a> assetType, long widthConstraintInPixels, long heightConstraintInPixels, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a> callback)</span>
 
     </div>
 

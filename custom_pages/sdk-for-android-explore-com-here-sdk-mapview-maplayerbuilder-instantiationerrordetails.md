@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiatio
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorDetails 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Describes the reason for failing to build a MapLayer .
 
   <div class="col-first even-row-color">
 
-  [`MapLayerBuilder.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapLayerBuilder.InstantiationErrorCode`</a>
 
   </div>
 
@@ -180,7 +180,7 @@ Describes the reason for failing to build a MapLayer .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">errorCode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Describes the reason for failing to build a MapLayer .
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview") errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
+    <span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a> errorCode, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> errorDescription)</span>
 
     </div>
 

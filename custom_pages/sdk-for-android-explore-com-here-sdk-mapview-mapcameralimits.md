@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapCameraLimits → co
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraLimits</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraLimits</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -227,7 +227,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">`AngleRange`</a>
 
   </div>
 
@@ -249,7 +249,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -271,7 +271,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">`AngleRange`</a>
 
   </div>
 
@@ -293,7 +293,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>
 
   </div>
 
@@ -480,7 +480,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_TILT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_TILT">Constant Field Values</a>
 
     </div>
 
@@ -501,7 +501,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MAX_TILT)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MAX_TILT">Constant Field Values</a>
 
     </div>
 
@@ -522,7 +522,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_ZOOM_LEVEL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_ZOOM_LEVEL">Constant Field Values</a>
 
     </div>
 
@@ -543,7 +543,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MAX_ZOOM_LEVEL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MAX_ZOOM_LEVEL">Constant Field Values</a>
 
     </div>
 
@@ -557,7 +557,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRangeAtZoom</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") zoom, @NonNull [AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core") bearingRange)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRangeAtZoom</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a> bearingRange)</span>
 
     </div>
 
@@ -602,7 +602,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRangeAtZoom</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") zoom, @NonNull [AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core") tiltRange)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRangeAtZoom</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a> tiltRange)</span>
 
     </div>
 
@@ -647,7 +647,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")</span> <span class="element-name">getTiltRange</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">getTiltRange</span>()
 
     </div>
 
@@ -668,7 +668,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRange</span><wbr></wbr><span class="parameters">(@NonNull [AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRange</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a> value)</span>
 
     </div>
 
@@ -691,7 +691,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")</span> <span class="element-name">getBearingRange</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">getBearingRange</span>()
 
     </div>
 
@@ -712,7 +712,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRange</span><wbr></wbr><span class="parameters">(@NonNull [AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRange</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a> value)</span>
 
     </div>
 
@@ -735,7 +735,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")</span> <span class="element-name">getZoomRange</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></span> <span class="element-name">getZoomRange</span>()
 
     </div>
 
@@ -756,7 +756,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setZoomRange</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setZoomRange</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</span>
 
     </div>
 
@@ -779,7 +779,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">getTargetArea</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getTargetArea</span>()
 
     </div>
 
@@ -800,7 +800,7 @@ Controls constraints on map camera parameters. When constraints are set, they ar
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTargetArea</span><wbr></wbr><span class="parameters">(@Nullable [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTargetArea</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> value)</span>
 
     </div>
 

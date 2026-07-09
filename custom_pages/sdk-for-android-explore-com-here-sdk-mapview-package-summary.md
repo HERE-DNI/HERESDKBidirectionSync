@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
   </div>
 
@@ -69,7 +69,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [AssetsManager](sdk-for-android-explore-com-here-sdk-mapview-assetsmanager "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-assetsmanager" title="class in com.here.sdk.mapview">AssetsManager</a>
 
   </div>
 
@@ -85,7 +85,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [DashPattern](sdk-for-android-explore-com-here-sdk-mapview-dashpattern "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-dashpattern" title="class in com.here.sdk.mapview">DashPattern</a>
 
   </div>
 
@@ -101,7 +101,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [DrawOrderType](sdk-for-android-explore-com-here-sdk-mapview-drawordertype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>
 
   </div>
 
@@ -117,7 +117,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a>
 
   </div>
 
@@ -133,7 +133,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [IconProvider](sdk-for-android-explore-com-here-sdk-mapview-iconprovider "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider" title="class in com.here.sdk.mapview">IconProvider</a>
 
   </div>
 
@@ -149,7 +149,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [IconProvider.IconCallback](sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a>
 
   </div>
 
@@ -165,7 +165,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [IconProviderAssetType](sdk-for-android-explore-com-here-sdk-mapview-iconproviderassettype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a>
 
   </div>
 
@@ -181,7 +181,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [IconProviderError](sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a>
 
   </div>
 
@@ -197,7 +197,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [ImageFormat](sdk-for-android-explore-com-here-sdk-mapview-imageformat "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a>
 
   </div>
 
@@ -213,7 +213,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [JsonStyleFactory](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a>
 
   </div>
 
@@ -229,7 +229,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [JsonStyleFactory.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a>
 
   </div>
 
@@ -245,7 +245,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [JsonStyleFactory.InstantiationErrorDetails](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a>
 
   </div>
 
@@ -261,7 +261,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [JsonStyleFactory.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a>
 
   </div>
 
@@ -277,7 +277,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a>
 
   </div>
 
@@ -293,7 +293,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LocationIndicator](sdk-for-android-explore-com-here-sdk-mapview-locationindicator "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview">LocationIndicator</a>
 
   </div>
 
@@ -309,7 +309,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [LocationIndicator.IndicatorStyle](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a>
 
   </div>
 
@@ -325,7 +325,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [LocationIndicator.MarkerType](sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a>
 
   </div>
 
@@ -341,7 +341,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapArrow](sdk-for-android-explore-com-here-sdk-mapview-maparrow "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a>
 
   </div>
 
@@ -357,7 +357,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a>
 
   </div>
 
@@ -373,7 +373,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapCamera.DryCameraUpdateCallback](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a>
 
   </div>
 
@@ -389,7 +389,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>
 
   </div>
 
@@ -405,7 +405,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a>
 
   </div>
 
@@ -421,7 +421,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a>
 
   </div>
 
@@ -437,7 +437,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a>
 
   </div>
 
@@ -453,7 +453,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapCameraAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a>
 
   </div>
 
@@ -469,7 +469,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapCameraAnimationFactory](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimationfactory "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimationfactory" title="class in com.here.sdk.mapview">MapCameraAnimationFactory</a>
 
   </div>
 
@@ -485,7 +485,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>
 
   </div>
 
@@ -501,7 +501,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapCameraKeyframeTrack.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a>
 
   </div>
 
@@ -517,7 +517,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapCameraKeyframeTrack.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a>
 
   </div>
 
@@ -533,7 +533,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapCameraLimits](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a>
 
   </div>
 
@@ -549,7 +549,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapCameraListener](sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a>
 
   </div>
 
@@ -565,7 +565,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapCameraUpdate](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a>
 
   </div>
 
@@ -581,7 +581,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapCameraUpdate.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a>
 
   </div>
 
@@ -597,7 +597,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [MapCameraUpdate.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate-instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a>
 
   </div>
 
@@ -613,7 +613,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapCameraUpdateFactory](sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory" title="class in com.here.sdk.mapview">MapCameraUpdateFactory</a>
 
   </div>
 
@@ -629,7 +629,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>
 
   </div>
 
@@ -645,7 +645,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapContentSettings](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a>
 
   </div>
 
@@ -661,7 +661,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapContentSettings.TrafficRefreshPeriodErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperioderrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a>
 
   </div>
 
@@ -677,7 +677,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapContentSettings.TrafficRefreshPeriodException](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a>
 
   </div>
 
@@ -693,7 +693,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapContentType](sdk-for-android-explore-com-here-sdk-mapview-mapcontenttype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a>
 
   </div>
 
@@ -709,7 +709,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a>
 
   </div>
 
@@ -725,7 +725,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapContext.FreeResourceSeverity](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-freeresourceseverity "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a>
 
   </div>
 
@@ -741,7 +741,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapContext.MemoryManagementOptions](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a>
 
   </div>
 
@@ -757,7 +757,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapContext.MemoryManagementResult](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a>
 
   </div>
 
@@ -773,7 +773,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapContext.MemoryManagementResultCode](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a>
 
   </div>
 
@@ -789,7 +789,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapContext.MemoryManagementStrategy](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a>
 
   </div>
 
@@ -805,7 +805,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapContext.ResourceType](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-resourcetype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a>
 
   </div>
 
@@ -821,7 +821,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapContext.SetMemoryManagementOptionsCallback](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a>
 
   </div>
 
@@ -837,7 +837,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapError](sdk-for-android-explore-com-here-sdk-mapview-maperror "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maperror" title="enum class in com.here.sdk.mapview">MapError</a>
 
   </div>
 
@@ -853,7 +853,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapFeatureModes](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a>
 
   </div>
 
@@ -869,7 +869,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapFeatures](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a>
 
   </div>
 
@@ -885,7 +885,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapIdleListener](sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a>
 
   </div>
 
@@ -901,7 +901,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapImage](sdk-for-android-explore-com-here-sdk-mapview-mapimage "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a>
 
   </div>
 
@@ -917,7 +917,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapImageFactory](sdk-for-android-explore-com-here-sdk-mapview-mapimagefactory "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimagefactory" title="class in com.here.sdk.mapview">MapImageFactory</a>
 
   </div>
 
@@ -933,7 +933,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapImageOverlay](sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a>
 
   </div>
 
@@ -949,7 +949,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapItemRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation" title="class in com.here.sdk.mapview">MapItemRepresentation</a>
 
   </div>
 
@@ -965,7 +965,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapLayer](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer" title="class in com.here.sdk.mapview">MapLayer</a>
 
   </div>
 
@@ -981,7 +981,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a>
 
   </div>
 
@@ -997,7 +997,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapLayerBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a>
 
   </div>
 
@@ -1013,7 +1013,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapLayerBuilder.InstantiationErrorDetails](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a>
 
   </div>
 
@@ -1029,7 +1029,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapLayerBuilder.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a>
 
   </div>
 
@@ -1045,7 +1045,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapLayerMapMeasureDependentStorageLevels](sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a>
 
   </div>
 
@@ -1061,7 +1061,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a>
 
   </div>
 
@@ -1077,7 +1077,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapLayerPriorityBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a>
 
   </div>
 
@@ -1093,7 +1093,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapLayerVisibilityRange](sdk-for-android-explore-com-here-sdk-mapview-maplayervisibilityrange "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a>
 
   </div>
 
@@ -1109,7 +1109,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>
 
   </div>
 
@@ -1125,7 +1125,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMarker.TextStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a>
 
   </div>
 
@@ -1141,7 +1141,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapMarker.TextStyle.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a>
 
   </div>
 
@@ -1157,7 +1157,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapMarker.TextStyle.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a>
 
   </div>
 
@@ -1173,7 +1173,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>
 
   </div>
 
@@ -1189,7 +1189,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMarker3D](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>
 
   </div>
 
@@ -1205,7 +1205,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMarker3DModel](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a>
 
   </div>
 
@@ -1221,7 +1221,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapMarker3DModel.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a>
 
   </div>
 
@@ -1237,7 +1237,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [MapMarker3DModel.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a>
 
   </div>
 
@@ -1253,7 +1253,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a>
 
   </div>
 
@@ -1269,7 +1269,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMarkerCluster.CounterStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a>
 
   </div>
 
@@ -1285,7 +1285,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMarkerCluster.Grouping](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a>
 
   </div>
 
@@ -1301,7 +1301,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMarkerCluster.ImageStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a>
 
   </div>
 
@@ -1317,7 +1317,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>
 
   </div>
 
@@ -1333,7 +1333,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a>
 
   </div>
 
@@ -1349,7 +1349,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a>
 
   </div>
 
@@ -1365,7 +1365,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapMeasureDependentRenderSize.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a>
 
   </div>
 
@@ -1381,7 +1381,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapMeasureDependentRenderSize.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a>
 
   </div>
 
@@ -1397,7 +1397,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>
 
   </div>
 
@@ -1413,7 +1413,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapObjectDescriptor](sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapobjectdescriptor" title="class in com.here.sdk.mapview">MapObjectDescriptor</a>
 
   </div>
 
@@ -1429,7 +1429,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapPickResult](sdk-for-android-explore-com-here-sdk-mapview-mappickresult "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a>
 
   </div>
 
@@ -1445,7 +1445,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapPolygon](sdk-for-android-explore-com-here-sdk-mapview-mappolygon "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>
 
   </div>
 
@@ -1461,7 +1461,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>
 
   </div>
 
@@ -1477,7 +1477,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapPolyline.DashImageRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a>
 
   </div>
 
@@ -1493,7 +1493,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapPolyline.DashRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a>
 
   </div>
 
@@ -1509,7 +1509,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a>
 
   </div>
 
@@ -1525,7 +1525,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapPolyline.Representation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a>
 
   </div>
 
@@ -1541,7 +1541,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a>
 
   </div>
 
@@ -1557,7 +1557,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapPolyline.SolidMultiColorRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a>
 
   </div>
 
@@ -1573,7 +1573,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapPolyline.SolidRepresentation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a>
 
   </div>
 
@@ -1589,7 +1589,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapProjection](sdk-for-android-explore-com-here-sdk-mapview-mapprojection "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a>
 
   </div>
 
@@ -1605,7 +1605,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapRenderMode](sdk-for-android-explore-com-here-sdk-mapview-maprendermode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a>
 
   </div>
 
@@ -1621,7 +1621,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">MapScene</a>
 
   </div>
 
@@ -1637,7 +1637,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapScene.LoadSceneCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a>
 
   </div>
 
@@ -1653,7 +1653,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapScene.MapPickFilter](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a>
 
   </div>
 
@@ -1669,7 +1669,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapScene.MapPickFilter.ContentType](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>
 
   </div>
 
@@ -1685,7 +1685,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapSceneLights](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a>
 
   </div>
 
@@ -1701,7 +1701,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapSceneLights.AttributeSettingCallback](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a>
 
   </div>
 
@@ -1717,7 +1717,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapSceneLights.AttributeSettingError](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingerror "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a>
 
   </div>
 
@@ -1733,7 +1733,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapSceneLights.Category](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a>
 
   </div>
 
@@ -1749,7 +1749,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapSceneLights.Direction](sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a>
 
   </div>
 
@@ -1765,7 +1765,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapSceneLoadOptions](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a>
 
   </div>
 
@@ -1781,7 +1781,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapSceneLoadOptionsBuilder](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a>
 
   </div>
 
@@ -1797,7 +1797,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [MapSceneLoadOptionsBuilder.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a>
 
   </div>
 
@@ -1813,7 +1813,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapSceneLoadOptionsBuilder.InstantiationErrorDetails](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrordetails "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a>
 
   </div>
 
@@ -1829,7 +1829,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab5">
 
-  [MapSceneLoadOptionsBuilder.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a>
 
   </div>
 
@@ -1845,7 +1845,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MapScheme](sdk-for-android-explore-com-here-sdk-mapview-mapscheme "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a>
 
   </div>
 
@@ -1861,7 +1861,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapSurface](sdk-for-android-explore-com-here-sdk-mapview-mapsurface "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a>
 
   </div>
 
@@ -1877,7 +1877,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapSurface.RenderListener](sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a>
 
   </div>
 
@@ -1893,7 +1893,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MapView](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">MapView</a>
 
   </div>
 
@@ -1909,7 +1909,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapView.OnReadyListener](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a>
 
   </div>
 
@@ -1925,7 +1925,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapView.TakeScreenshotCallback](sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a>
 
   </div>
 
@@ -1941,7 +1941,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapView.ViewPin](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a>
 
   </div>
 
@@ -1957,7 +1957,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a>
 
   </div>
 
@@ -1973,7 +1973,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [MapViewBase.MapPickCallback](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a>
 
   </div>
 
@@ -1989,7 +1989,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [MapViewLifecycleListener](sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a>
 
   </div>
 
@@ -2005,7 +2005,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [MapViewOptions](sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a>
 
   </div>
 
@@ -2021,7 +2021,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MaterialReflectivity](sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a>
 
   </div>
 
@@ -2037,7 +2037,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Mesh](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a>
 
   </div>
 
@@ -2053,7 +2053,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [MeshBuilder](sdk-for-android-explore-com-here-sdk-mapview-meshbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a>
 
   </div>
 
@@ -2069,7 +2069,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PickMapContentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a>
 
   </div>
 
@@ -2085,7 +2085,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PickMapContentResult.TrafficIncidentResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a>
 
   </div>
 
@@ -2101,7 +2101,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PickMapItemsResult](sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult" title="class in com.here.sdk.mapview">PickMapItemsResult</a>
 
   </div>
 
@@ -2117,7 +2117,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [QuadMeshBuilder](sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" title="class in com.here.sdk.mapview">QuadMeshBuilder</a>
 
   </div>
 
@@ -2133,7 +2133,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [RenderSize](sdk-for-android-explore-com-here-sdk-mapview-rendersize "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize" title="class in com.here.sdk.mapview">RenderSize</a>
 
   </div>
 
@@ -2149,7 +2149,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a>
 
   </div>
 
@@ -2165,7 +2165,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [RoadShieldIconProperties](sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a>
 
   </div>
 
@@ -2181,7 +2181,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [ShadowQuality](sdk-for-android-explore-com-here-sdk-mapview-shadowquality "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a>
 
   </div>
 
@@ -2197,7 +2197,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a>
 
   </div>
 
@@ -2213,7 +2213,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TranslucentMapLayerGroup](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a>
 
   </div>
 
@@ -2229,7 +2229,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TranslucentMapLayerGroup.ErrorCode](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errorcode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a>
 
   </div>
 
@@ -2245,7 +2245,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TranslucentMapLayerGroup.ErrorDetails](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errordetails "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a>
 
   </div>
 
@@ -2261,7 +2261,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [TranslucentMapLayerGroup.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a>
 
   </div>
 
@@ -2277,7 +2277,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TriangleMeshBuilder](sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" title="class in com.here.sdk.mapview">TriangleMeshBuilder</a>
 
   </div>
 
@@ -2293,7 +2293,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [VisibilityState](sdk-for-android-explore-com-here-sdk-mapview-visibilitystate "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a>
 
   </div>
 
@@ -2309,7 +2309,7 @@ package <span class="element-name">com.here.sdk.mapview</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [WatermarkStyle](sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a>
 
   </div>
 

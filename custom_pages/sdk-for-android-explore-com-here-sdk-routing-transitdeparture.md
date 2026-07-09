@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitdeparture"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ This struct holds the transit departure or arrival information.
 
   <div class="col-first odd-row-color">
 
-  [`RoutePlace`](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">`RoutePlace`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ This struct holds the transit departure or arrival information.
 
   <div class="col-first even-row-color">
 
-  [`TransitDepartureStatus`](sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus" title="enum class in com.here.sdk.routing">`TransitDepartureStatus`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ This struct holds the transit departure or arrival information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")</span> <span class="element-name">place</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span>
 
     </div>
 
@@ -337,7 +337,7 @@ This struct holds the transit departure or arrival information.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitDepartureStatus](sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus "enum class in com.here.sdk.routing")</span> <span class="element-name">status</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus" title="enum class in com.here.sdk.routing">TransitDepartureStatus</a></span> <span class="element-name">status</span>
 
     </div>
 
@@ -359,7 +359,7 @@ This struct holds the transit departure or arrival information.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitDeparture</span><wbr></wbr><span class="parameters">(@NonNull [RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing") place, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> time, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> delay, @Nullable [TransitDepartureStatus](sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus "enum class in com.here.sdk.routing") status)</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitDeparture</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> time, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> delay, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-transitdeparturestatus" title="enum class in com.here.sdk.routing">TransitDepartureStatus</a> status)</span>
 
     </div>
 

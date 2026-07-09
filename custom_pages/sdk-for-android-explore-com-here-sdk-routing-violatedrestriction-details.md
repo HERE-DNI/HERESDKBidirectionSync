@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.routing.ViolatedRestriction.Details → com.here.s
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")
+<a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first even-row-color">
 
-  [`IntegerRange`](sdk-for-android-explore-com-here-sdk-core-integerrange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">`IntegerRange`</a>
 
   </div>
 
@@ -92,7 +92,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`>`
 
   </div>
 
@@ -114,7 +114,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first even-row-color">
 
-  [`IntegerRange`](sdk-for-android-explore-com-here-sdk-core-integerrange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">`IntegerRange`</a>
 
   </div>
 
@@ -136,7 +136,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  [`TruckCategory`](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">`TruckCategory`</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckRoadType`](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">`TruckRoadType`</a>`>`
 
   </div>
 
@@ -180,7 +180,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  [`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>
 
   </div>
 
@@ -312,7 +312,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  [`TunnelCategory`](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">`TunnelCategory`</a>
 
   </div>
 
@@ -334,7 +334,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first even-row-color">
 
-  [`VehicleRestrictionMaxWeight`](sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">`VehicleRestrictionMaxWeight`</a>
 
   </div>
 
@@ -356,7 +356,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  [`MaxAxleGroupWeight`](sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight" title="class in com.here.sdk.routing">`MaxAxleGroupWeight`</a>
 
   </div>
 
@@ -444,7 +444,7 @@ Optional restriction details, contains additional information depending on the s
 
   <div class="col-first odd-row-color">
 
-  [`TimeRule`](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">`TimeRule`</a>
 
   </div>
 
@@ -612,7 +612,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[MaxAxleGroupWeight](sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight "class in com.here.sdk.routing")</span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span>
 
     </div>
 
@@ -684,7 +684,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IntegerRange](sdk-for-android-explore-com-here-sdk-core-integerrange "class in com.here.sdk.core")</span> <span class="element-name">forbiddenAxleCount</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenAxleCount</span>
 
     </div>
 
@@ -702,7 +702,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IntegerRange](sdk-for-android-explore-com-here-sdk-core-integerrange "class in com.here.sdk.core")</span> <span class="element-name">forbiddenTrailerCount</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenTrailerCount</span>
 
     </div>
 
@@ -720,7 +720,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenHazardousGoods</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\></span> <span class="element-name">forbiddenHazardousGoods</span>
 
     </div>
 
@@ -738,7 +738,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">maxTunnelCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">maxTunnelCategory</span>
 
     </div>
 
@@ -756,7 +756,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">forbiddenTruckType</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">forbiddenTruckType</span>
 
     </div>
 
@@ -785,7 +785,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckCategory](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">forbiddenTruckCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">forbiddenTruckCategory</span>
 
     </div>
 
@@ -803,7 +803,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">forbiddenTruckRoadTypes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>\></span> <span class="element-name">forbiddenTruckRoadTypes</span>
 
     </div>
 
@@ -857,7 +857,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")</span> <span class="element-name">timeRule</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span>
 
     </div>
 
@@ -875,7 +875,7 @@ Optional restriction details, contains additional information depending on the s
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[VehicleRestrictionMaxWeight](sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight "class in com.here.sdk.routing")</span> <span class="element-name">maxWeight</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></span> <span class="element-name">maxWeight</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-toll"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ This struct presents all the data for a toll. Note : If you're using the Offline
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TollFare`](sdk-for-android-explore-com-here-sdk-routing-tollfare "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing">`TollFare`</a>`>`
 
   </div>
 
@@ -293,7 +293,7 @@ This struct presents all the data for a toll. Note : If you're using the Offline
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TollFare](sdk-for-android-explore-com-here-sdk-routing-tollfare "class in com.here.sdk.routing")\></span> <span class="element-name">fares</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing">TollFare</a>\></span> <span class="element-name">fares</span>
 
     </div>
 

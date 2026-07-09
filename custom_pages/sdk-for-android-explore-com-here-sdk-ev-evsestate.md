@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsestate"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.ev](sdk-for-android-explore-com-here-sdk-ev-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-ev-package-summary">com.here.sdk.ev</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< EVSEState \> com.here.sdk.ev.EVSEState → ja
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">`EVSEState`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">EVSEState</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">EVSEState</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a>\></span>
 
 </div>
 
@@ -234,7 +234,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">`EVSEState`</a>
 
   </div>
 
@@ -256,7 +256,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">`EVSEState`</a>`[]`
 
   </div>
 
@@ -310,7 +310,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">UNKNOWN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">UNKNOWN</span>
 
     </div>
 
@@ -328,7 +328,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">AVAILABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">AVAILABLE</span>
 
     </div>
 
@@ -346,7 +346,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">BLOCKED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">BLOCKED</span>
 
     </div>
 
@@ -364,7 +364,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">CHARGING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">CHARGING</span>
 
     </div>
 
@@ -382,7 +382,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">INOPERATIVE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">INOPERATIVE</span>
 
     </div>
 
@@ -400,7 +400,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">OUT_OF_ORDER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">OUT_OF_ORDER</span>
 
     </div>
 
@@ -418,7 +418,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">RESERVED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">RESERVED</span>
 
     </div>
 
@@ -436,7 +436,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">OPERATIONAL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">OPERATIONAL</span>
 
     </div>
 
@@ -458,7 +458,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -479,7 +479,7 @@ Indicates the current short-term status of the EVSE at the time given in the mod
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

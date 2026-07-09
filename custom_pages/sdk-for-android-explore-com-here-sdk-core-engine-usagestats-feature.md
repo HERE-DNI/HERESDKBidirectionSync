@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< UsageStats.Feature \> com.here.sdk.core.engin
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">`UsageStats.Feature`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")
+<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">UsageStats.Feature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">UsageStats.Feature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>\></span>
 
 </div>
 
@@ -431,7 +431,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">`UsageStats.Feature`</a>
 
   </div>
 
@@ -453,7 +453,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">`UsageStats.Feature`</a>`[]`
 
   </div>
 
@@ -507,7 +507,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">DETAILED_RENDERING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">DETAILED_RENDERING</span>
 
     </div>
 
@@ -525,7 +525,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">EV_RENDERING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_RENDERING</span>
 
     </div>
 
@@ -543,7 +543,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">EV_SEARCH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_SEARCH</span>
 
     </div>
 
@@ -561,7 +561,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">NAVIGATION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">NAVIGATION</span>
 
     </div>
 
@@ -579,7 +579,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">PLACES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">PLACES</span>
 
     </div>
 
@@ -597,7 +597,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">RDS_TRAFFIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span>
 
     </div>
 
@@ -615,7 +615,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">RENDERING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RENDERING</span>
 
     </div>
 
@@ -633,7 +633,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">ROUTER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTER</span>
 
     </div>
 
@@ -651,7 +651,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">ROUTING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTING</span>
 
     </div>
 
@@ -669,7 +669,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">SATELLITES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SATELLITES</span>
 
     </div>
 
@@ -687,7 +687,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">SEARCH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH</span>
 
     </div>
 
@@ -705,7 +705,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">SEARCH_ONLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH_ONLINE</span>
 
     </div>
 
@@ -723,7 +723,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRANSIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT</span>
 
     </div>
 
@@ -741,7 +741,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRANSIT_ROUTING_ENGINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT_ROUTING_ENGINE</span>
 
     </div>
 
@@ -759,7 +759,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRAFFIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC</span>
 
     </div>
 
@@ -777,7 +777,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRAFFIC_VECTOR_TILES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC_VECTOR_TILES</span>
 
     </div>
 
@@ -795,7 +795,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRUCK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRUCK</span>
 
     </div>
 
@@ -813,7 +813,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">VECTOR_TILES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">VECTOR_TILES</span>
 
     </div>
 
@@ -831,7 +831,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">OTHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">OTHER</span>
 
     </div>
 
@@ -849,7 +849,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">POSITIONING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">POSITIONING</span>
 
     </div>
 
@@ -871,7 +871,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -892,7 +892,7 @@ Represents the feature enum associated with the gathered usage stats.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

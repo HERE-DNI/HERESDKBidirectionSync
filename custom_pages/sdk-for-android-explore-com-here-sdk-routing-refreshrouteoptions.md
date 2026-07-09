@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.RefreshRouteOptions �
 
 <div class="type-signature">
 
-<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public final class </span><span class="element-name type-name-label">RefreshRouteOptions</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> </span><span class="modifiers">public final class </span><span class="element-name type-name-label">RefreshRouteOptions</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -339,7 +339,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport") transportMode)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</span>
 
     </div>
 
@@ -368,7 +368,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-caroptions" title="class in com.here.sdk.routing">CarOptions</a> carOptions)</span>
 
     </div>
 
@@ -387,7 +387,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `carOptions` -
 
-    Converts the route to a car route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a car route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -397,7 +397,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-truckoptions" title="class in com.here.sdk.routing">TruckOptions</a> truckOptions)</span>
 
     </div>
 
@@ -416,7 +416,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `truckOptions` -
 
-    Converts the route to a truck route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a truck route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -426,7 +426,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions" title="class in com.here.sdk.routing">PedestrianOptions</a> pedestrianOptions)</span>
 
     </div>
 
@@ -445,7 +445,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `pedestrianOptions` -
 
-    Converts the route to a pedestrian route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a pedestrian route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -455,7 +455,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-scooteroptions" title="class in com.here.sdk.routing">ScooterOptions</a> scooterOptions)</span>
 
     </div>
 
@@ -474,7 +474,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `scooterOptions` -
 
-    Converts the route to a scooter route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a scooter route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -484,7 +484,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-taxioptions" title="class in com.here.sdk.routing">TaxiOptions</a> taxiOptions)</span>
 
     </div>
 
@@ -503,7 +503,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `taxiOptions` -
 
-    Converts the route to a taxi route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a taxi route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -513,7 +513,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-evcaroptions" title="class in com.here.sdk.routing">EVCarOptions</a> evCarOptions)</span>
 
     </div>
 
@@ -532,7 +532,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `evCarOptions` -
 
-    Converts the route to an electric car route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to an electric car route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -542,7 +542,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions" title="class in com.here.sdk.routing">EVTruckOptions</a> evTruckOptions)</span>
 
     </div>
 
@@ -561,7 +561,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `evTruckOptions` -
 
-    Converts the route to an electric truck route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to an electric truck route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -571,7 +571,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-bicycleoptions" title="class in com.here.sdk.routing">BicycleOptions</a> bicycleOptions)</span>
 
     </div>
 
@@ -590,7 +590,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `bicycleOptions` -
 
-    Converts the route to a bicycle route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a bicycle route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -600,7 +600,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-busoptions" title="class in com.here.sdk.routing">BusOptions</a> busOptions)</span>
 
     </div>
 
@@ -619,7 +619,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `busOptions` -
 
-    Converts the route to a bus route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a bus route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 
@@ -629,7 +629,7 @@ The options to specify how to refresh an already calculated route identified by 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions)</span>
+    <span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-privatebusoptions" title="class in com.here.sdk.routing">PrivateBusOptions</a> privateBusOptions)</span>
 
     </div>
 
@@ -648,7 +648,7 @@ The options to specify how to refresh an already calculated route identified by 
     Parameters:  
     `privateBusOptions` -
 
-    Converts the route to a private bus route, if a different transport mode was used for the [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing"). Note that in case this is not possible, an [`RoutingError.NO_ROUTE_FOUND`](sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND) error will be triggered.
+    Converts the route to a private bus route, if a different transport mode was used for the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>. Note that in case this is not possible, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND">`RoutingError.NO_ROUTE_FOUND`</a> error will be triggered.
 
     </div>
 

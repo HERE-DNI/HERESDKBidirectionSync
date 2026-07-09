@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -96,7 +96,7 @@ The method will be called on the main thread when PolylineSimplifier.simplify(ja
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><wbr></wbr><span class="parameters">(@Nullable [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
+    <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a> queryError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\> result)</span>
 
     </div>
 

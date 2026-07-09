@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-suggestcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -96,7 +96,7 @@ The method will be called on the main thread when a suggest call has been comple
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onSuggestCompleted</span><wbr></wbr><span class="parameters">(@Nullable [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Suggestion](sdk-for-android-explore-com-here-sdk-search-suggestion "class in com.here.sdk.search")\> suggestions)</span>
+    <span class="return-type">void</span> <span class="element-name">onSuggestCompleted</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-suggestion" title="class in com.here.sdk.search">Suggestion</a>\> suggestions)</span>
 
     </div>
 

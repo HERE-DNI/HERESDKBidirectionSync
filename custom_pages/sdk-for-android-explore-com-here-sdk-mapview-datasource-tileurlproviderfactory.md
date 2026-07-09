@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfa
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.TileUrlProv
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TileUrlProviderFactory</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TileUrlProviderFactory</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Factory for generating a TileUrlProviderCallback utilized in creating a tile URL
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TileUrlProviderCallback`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">`TileUrlProviderCallback`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ Factory for generating a TileUrlProviderCallback utilized in creating a tile URL
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[TileUrlProviderCallback](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource")</span> <span class="element-name">fromXyzUrlTemplate</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> urlTemplate)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">fromXyzUrlTemplate</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> urlTemplate)</span>
 
     </div>
 

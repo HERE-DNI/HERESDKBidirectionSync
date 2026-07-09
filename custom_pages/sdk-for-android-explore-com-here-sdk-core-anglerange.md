@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-anglerange"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -238,7 +238,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">`AngleRange`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AngleRange`](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">`AngleRange`</a>
 
   </div>
 
@@ -487,7 +487,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")</span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr></wbr><span class="parameters">(double min, double max)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr></wbr><span class="parameters">(double min, double max)</span>
 
     </div>
 
@@ -500,7 +500,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
     Parameters:  
     `min` -
 
-    Angle where to start the circular sector, running clockwise, in degrees from north. The value will be normalized to \[0.0, 360.0).
+    Angle where to start the circular sector, running clockwise, in degrees from north. The value will be normalized to \<a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">0.0, 360.0).
 
     `max` -
 
@@ -517,7 +517,7 @@ Represents angle ranges as a circular sector by using an absolute start angle an
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")</span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr></wbr><span class="parameters">(double center, double extent)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AngleRange</a></span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr></wbr><span class="parameters">(double center, double extent)</span>
 
     </div>
 

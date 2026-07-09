@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebui
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.LineDataSou
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataSourceBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataSourceBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LineDataSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">`LineDataSource`</a>
 
   </div>
 
@@ -127,7 +127,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`LineDataSourceBuilder`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`LineDataSourceBuilder`</a>
 
   </div>
 
@@ -171,7 +171,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LineDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`LineDataSourceBuilder`</a>
 
   </div>
 
@@ -215,7 +215,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">LineDataSourceBuilder</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context)</span>
+    <span class="modifiers">public</span> <span class="element-name">LineDataSourceBuilder</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span>
 
     </div>
 
@@ -242,7 +242,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName)</span>
 
     </div>
 
@@ -268,7 +268,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPolyline</span><wbr></wbr><span class="parameters">(@NonNull [LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource") polyline)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></span> <span class="element-name">withPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> polyline)</span>
 
     </div>
 
@@ -294,7 +294,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")\> polylines)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></span> <span class="element-name">withPolylines</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>\> polylines)</span>
 
     </div>
 
@@ -320,7 +320,7 @@ Builder of lines data source. Note: This is a beta release of this feature, so t
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LineDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></span> <span class="element-name">build</span>()
 
     </div>
 

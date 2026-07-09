@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
   </div>
 
@@ -49,7 +49,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
   </div>
 
@@ -61,7 +61,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
   </div>
 
@@ -73,7 +73,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
 
   </div>
 
@@ -105,7 +105,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode "enum class in com.here.sdk.core.errors")
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>
 
   </div>
 
@@ -121,7 +121,7 @@ package <span class="element-name">com.here.sdk.core.errors</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a>
 
   </div>
 

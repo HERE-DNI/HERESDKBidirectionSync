@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.LineDataSou
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataSource</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataSource</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -271,7 +271,7 @@ Polyline data source allows the rendering engine access to the user provided pol
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull [LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource") line)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> line)</span>
 
     </div>
 
@@ -294,7 +294,7 @@ Polyline data source allows the rendering engine access to the user provided pol
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")\> lines)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>\> lines)</span>
 
     </div>
 
@@ -335,7 +335,7 @@ Polyline data source allows the rendering engine access to the user provided pol
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr></wbr><span class="parameters">(@NonNull [LineDataSource.LineDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor "interface in com.here.sdk.mapview.datasource") processor)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">forEach</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> processor)</span>
 
     </div>
 
@@ -358,7 +358,7 @@ Polyline data source allows the rendering engine access to the user provided pol
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr></wbr><span class="parameters">(@NonNull [LineDataSource.LineDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor "interface in com.here.sdk.mapview.datasource") inspector)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeIf</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> inspector)</span>
 
     </div>
 

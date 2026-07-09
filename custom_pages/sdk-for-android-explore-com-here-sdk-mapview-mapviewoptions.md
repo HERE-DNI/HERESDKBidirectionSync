@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Options used for initialization of map view
 
   <div class="col-first even-row-color">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Options used for initialization of map view
 
   <div class="col-first odd-row-color">
 
-  [`MapProjection`](sdk-for-android-explore-com-here-sdk-mapview-mapprojection "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapprojection" title="enum class in com.here.sdk.mapview">`MapProjection`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Options used for initialization of map view
 
   <div class="col-first even-row-color">
 
-  [`MapRenderMode`](sdk-for-android-explore-com-here-sdk-mapview-maprendermode "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maprendermode" title="enum class in com.here.sdk.mapview">`MapRenderMode`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Options used for initialization of map view
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapProjection](sdk-for-android-explore-com-here-sdk-mapview-mapprojection "enum class in com.here.sdk.mapview")</span> <span class="element-name">projection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></span> <span class="element-name">projection</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Options used for initialization of map view
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">initialBackgroundColor</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">initialBackgroundColor</span>
 
     </div>
 
@@ -297,7 +297,7 @@ Options used for initialization of map view
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapRenderMode](sdk-for-android-explore-com-here-sdk-mapview-maprendermode "enum class in com.here.sdk.mapview")</span> <span class="element-name">renderMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></span> <span class="element-name">renderMode</span>
 
     </div>
 

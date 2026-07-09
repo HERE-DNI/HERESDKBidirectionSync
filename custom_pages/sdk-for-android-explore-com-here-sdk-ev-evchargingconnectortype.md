@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.ev](sdk-for-android-explore-com-here-sdk-ev-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-ev-package-summary">com.here.sdk.ev</a>
 
 </div>
 
@@ -1042,7 +1042,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO">Constant Field Values</a>
 
     </div>
 
@@ -1063,7 +1063,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI">Constant Field Values</a>
 
     </div>
 
@@ -1084,7 +1084,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A">Constant Field Values</a>
 
     </div>
 
@@ -1105,7 +1105,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B">Constant Field Values</a>
 
     </div>
 
@@ -1126,7 +1126,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C">Constant Field Values</a>
 
     </div>
 
@@ -1147,7 +1147,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D">Constant Field Values</a>
 
     </div>
 
@@ -1168,7 +1168,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E">Constant Field Values</a>
 
     </div>
 
@@ -1189,7 +1189,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F">Constant Field Values</a>
 
     </div>
 
@@ -1210,7 +1210,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G">Constant Field Values</a>
 
     </div>
 
@@ -1231,7 +1231,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H">Constant Field Values</a>
 
     </div>
 
@@ -1252,7 +1252,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I">Constant Field Values</a>
 
     </div>
 
@@ -1273,7 +1273,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J">Constant Field Values</a>
 
     </div>
 
@@ -1294,7 +1294,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K">Constant Field Values</a>
 
     </div>
 
@@ -1315,7 +1315,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L">Constant Field Values</a>
 
     </div>
 
@@ -1336,7 +1336,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M">Constant Field Values</a>
 
     </div>
 
@@ -1357,7 +1357,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N">Constant Field Values</a>
 
     </div>
 
@@ -1378,7 +1378,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O">Constant Field Values</a>
 
     </div>
 
@@ -1399,7 +1399,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC">Constant Field Values</a>
 
     </div>
 
@@ -1420,7 +1420,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC">Constant Field Values</a>
 
     </div>
 
@@ -1441,7 +1441,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16">Constant Field Values</a>
 
     </div>
 
@@ -1462,7 +1462,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16">Constant Field Values</a>
 
     </div>
 
@@ -1483,7 +1483,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32">Constant Field Values</a>
 
     </div>
 
@@ -1504,7 +1504,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64">Constant Field Values</a>
 
     </div>
 
@@ -1525,7 +1525,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1">Constant Field Values</a>
 
     </div>
 
@@ -1546,7 +1546,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO">Constant Field Values</a>
 
     </div>
 
@@ -1567,7 +1567,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2">Constant Field Values</a>
 
     </div>
 
@@ -1588,7 +1588,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO">Constant Field Values</a>
 
     </div>
 
@@ -1609,7 +1609,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A">Constant Field Values</a>
 
     </div>
 
@@ -1630,7 +1630,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C">Constant Field Values</a>
 
     </div>
 
@@ -1651,7 +1651,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20">Constant Field Values</a>
 
     </div>
 
@@ -1672,7 +1672,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30">Constant Field Values</a>
 
     </div>
 
@@ -1693,7 +1693,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50">Constant Field Values</a>
 
     </div>
 
@@ -1714,7 +1714,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30">Constant Field Values</a>
 
     </div>
 
@@ -1735,7 +1735,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50">Constant Field Values</a>
 
     </div>
 
@@ -1756,7 +1756,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30">Constant Field Values</a>
 
     </div>
 
@@ -1777,7 +1777,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50">Constant Field Values</a>
 
     </div>
 
@@ -1798,7 +1798,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP">Constant Field Values</a>
 
     </div>
 
@@ -1819,7 +1819,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN">Constant Field Values</a>
 
     </div>
 
@@ -1840,7 +1840,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R">Constant Field Values</a>
 
     </div>
 
@@ -1861,7 +1861,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400">Constant Field Values</a>
 
     </div>
 
@@ -1882,7 +1882,7 @@ Represents the standardized type of the installed connector. Note: This is a bet
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.MCS">Constant Field Values</a>
 
     </div>
 

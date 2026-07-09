@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geoorientationupdate"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -312,7 +312,7 @@ Describes geodetic orientation update with bearing and tilt. Updating an orienta
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><wbr></wbr><span class="parameters">(@NonNull [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core") orientation)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientation)</span>
 
     </div>
 

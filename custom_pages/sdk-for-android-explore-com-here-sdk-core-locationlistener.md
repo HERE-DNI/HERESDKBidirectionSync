@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationlistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -93,7 +93,7 @@ This interface should be implemented in order to receive notifications about loc
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr></wbr><span class="parameters">(@NonNull [Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core") location)</span>
+    <span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span>
 
     </div>
 

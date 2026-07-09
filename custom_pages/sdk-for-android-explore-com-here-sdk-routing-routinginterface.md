@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routinginterface"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routinginterface"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`RoutingEngine`](sdk-for-android-explore-com-here-sdk-routing-routingengine "class in com.here.sdk.routing")
+<a href="sdk-for-android-explore-com-here-sdk-routing-routingengine" title="class in com.here.sdk.routing">`RoutingEngine`</a>
 
 <div class="type-signature">
 
@@ -60,7 +60,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -82,7 +82,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -104,7 +104,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -126,7 +126,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -148,7 +148,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -170,7 +170,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -192,7 +192,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -214,7 +214,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -236,7 +236,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -258,7 +258,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -280,7 +280,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -324,7 +324,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -362,7 +362,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") options, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a> options, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -375,7 +375,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `options` -
 
@@ -396,7 +396,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [CarOptions](sdk-for-android-explore-com-here-sdk-routing-caroptions "class in com.here.sdk.routing") carOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-caroptions" title="class in com.here.sdk.routing">CarOptions</a> carOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -425,7 +425,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `carOptions` -
 
@@ -446,7 +446,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [PedestrianOptions](sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions "class in com.here.sdk.routing") pedestrianOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions" title="class in com.here.sdk.routing">PedestrianOptions</a> pedestrianOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -475,11 +475,11 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `pedestrianOptions` -
 
-    Options specific for pedestrian route calculation, along with common route options. Note that [`OptimizationMode.SHORTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST) is is not supported for pedestrians and converted to [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST) automatically.
+    Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST">`OptimizationMode.SHORTEST`</a> is is not supported for pedestrians and converted to <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a> automatically.
 
     `callback` -
 
@@ -496,7 +496,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [TruckOptions](sdk-for-android-explore-com-here-sdk-routing-truckoptions "class in com.here.sdk.routing") truckOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-truckoptions" title="class in com.here.sdk.routing">TruckOptions</a> truckOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -525,7 +525,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `truckOptions` -
 
@@ -546,7 +546,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [ScooterOptions](sdk-for-android-explore-com-here-sdk-routing-scooteroptions "class in com.here.sdk.routing") scooterOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-scooteroptions" title="class in com.here.sdk.routing">ScooterOptions</a> scooterOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -575,11 +575,11 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `scooterOptions` -
 
-    Options specific for scooter route calculation, along with common route options. Note that [`OptimizationMode.SHORTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST) is is not supported for scooters and converted to [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST) automatically.
+    Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST">`OptimizationMode.SHORTEST`</a> is is not supported for scooters and converted to <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a> automatically.
 
     `callback` -
 
@@ -596,7 +596,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [BicycleOptions](sdk-for-android-explore-com-here-sdk-routing-bicycleoptions "class in com.here.sdk.routing") bicycleOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-bicycleoptions" title="class in com.here.sdk.routing">BicycleOptions</a> bicycleOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -625,11 +625,11 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `bicycleOptions` -
 
-    Options specific for bicycle route calculation, along with common route options. Note that [`OptimizationMode.SHORTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST) is is not supported for bicycles and converted to [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST) automatically.
+    Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST">`OptimizationMode.SHORTEST`</a> is is not supported for bicycles and converted to <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a> automatically.
 
     `callback` -
 
@@ -646,7 +646,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [TaxiOptions](sdk-for-android-explore-com-here-sdk-routing-taxioptions "class in com.here.sdk.routing") taxiOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-taxioptions" title="class in com.here.sdk.routing">TaxiOptions</a> taxiOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -675,11 +675,11 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `taxiOptions` -
 
-    Options specific for taxi route calculation, along with common route options. Note that [`OptimizationMode.SHORTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST) is is not supported for taxis and converted to [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST) automatically.
+    Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#SHORTEST">`OptimizationMode.SHORTEST`</a> is is not supported for taxis and converted to <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST">`OptimizationMode.FASTEST`</a> automatically.
 
     `callback` -
 
@@ -696,7 +696,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [EVCarOptions](sdk-for-android-explore-com-here-sdk-routing-evcaroptions "class in com.here.sdk.routing") evCarOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-evcaroptions" title="class in com.here.sdk.routing">EVCarOptions</a> evCarOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -725,7 +725,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `evCarOptions` -
 
@@ -746,7 +746,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [EVTruckOptions](sdk-for-android-explore-com-here-sdk-routing-evtruckoptions "class in com.here.sdk.routing") evTruckOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions" title="class in com.here.sdk.routing">EVTruckOptions</a> evTruckOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -775,7 +775,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `evTruckOptions` -
 
@@ -796,7 +796,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [BusOptions](sdk-for-android-explore-com-here-sdk-routing-busoptions "class in com.here.sdk.routing") busOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-busoptions" title="class in com.here.sdk.routing">BusOptions</a> busOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -825,7 +825,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `busOptions` -
 
@@ -846,7 +846,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing")\> waypoints, @NonNull [PrivateBusOptions](sdk-for-android-explore-com-here-sdk-routing-privatebusoptions "class in com.here.sdk.routing") privateBusOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a>\> waypoints, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-privatebusoptions" title="class in com.here.sdk.routing">PrivateBusOptions</a> privateBusOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -875,7 +875,7 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `waypoints` -
 
-    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER).
+    The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate. An <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated when the waypoint list contains less than two elements or when the first and the last waypoints are not of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>.
 
     `privateBusOptions` -
 
@@ -896,7 +896,7 @@ Provides the interface for the online and offline routing engines. Note : Client
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">returnToRoute</span><wbr></wbr><span class="parameters">(@NonNull [Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing") route, @NonNull [Waypoint](sdk-for-android-explore-com-here-sdk-routing-waypoint "class in com.here.sdk.routing") startingPoint, int lastTraveledSectionIndex, int traveledDistanceOnLastSectionInMeters, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">returnToRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a> route, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint, int lastTraveledSectionIndex, int traveledDistanceOnLastSectionInMeters, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 
@@ -909,11 +909,11 @@ Provides the interface for the online and offline routing engines. Note : Client
     Parameters:  
     `route` -
 
-    A [`Route`](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing") calculated using the online or offline route engine. For the offline case, It should not contain an indoor [`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing") as such routes will fail. For the online case, it should have [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing").
+    A <a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">`Route`</a> calculated using the online or offline route engine. For the offline case, It should not contain an indoor <a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">`Section`</a> as such routes will fail. For the online case, it should have <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>.
 
     `startingPoint` -
 
-    The current location, for example, provided by a `RouteDeviation` event. The waypoint needs to be of type [`WaypointType.STOPOVER`](sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER). Otherwise, an [`RoutingError.INVALID_PARAMETER`](sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER) error is generated.
+    The current location, for example, provided by a `RouteDeviation` event. The waypoint needs to be of type <a href="sdk-for-android-explore-com-here-sdk-routing-waypointtype#STOPOVER">`WaypointType.STOPOVER`</a>. Otherwise, an <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER">`RoutingError.INVALID_PARAMETER`</a> error is generated.
 
     `lastTraveledSectionIndex` -
 

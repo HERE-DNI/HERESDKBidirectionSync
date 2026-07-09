@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
   </div>
 
@@ -49,7 +49,7 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
   </div>
 
@@ -61,7 +61,7 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
 
   </div>
 
@@ -73,7 +73,7 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
   </div>
 

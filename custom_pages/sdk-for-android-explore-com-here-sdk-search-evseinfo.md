@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evseinfo"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVSECapability`](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-ev-evsecapability" title="enum class in com.here.sdk.ev">`EVSECapability`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingConnector`](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector" title="class in com.here.sdk.search">`EVChargingConnector`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -221,7 +221,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVSEPaymentSupport`](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport" title="enum class in com.here.sdk.ev">`EVSEPaymentSupport`</a>`>`
 
   </div>
 
@@ -265,7 +265,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
   <div class="col-first odd-row-color">
 
-  [`EVSEState`](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">`EVSEState`</a>
 
   </div>
 
@@ -491,7 +491,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EVSEState](sdk-for-android-explore-com-here-sdk-ev-evsestate "enum class in com.here.sdk.ev")</span> <span class="element-name">status</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">status</span>
 
     </div>
 
@@ -527,7 +527,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnector](sdk-for-android-explore-com-here-sdk-search-evchargingconnector "class in com.here.sdk.search")\></span> <span class="element-name">connectors</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a>\></span> <span class="element-name">connectors</span>
 
     </div>
 
@@ -545,7 +545,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVSECapability](sdk-for-android-explore-com-here-sdk-ev-evsecapability "enum class in com.here.sdk.ev")\></span> <span class="element-name">capabilities</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-ev-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>\></span> <span class="element-name">capabilities</span>
 
     </div>
 
@@ -599,7 +599,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">coordinates</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span>
 
     </div>
 
@@ -617,7 +617,7 @@ Represents an EVSE at the charging point. Note: This is a beta release of this f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")\></span> <span class="element-name">paymentSupports</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>\></span> <span class="element-name">paymentSupports</span>
 
     </div>
 

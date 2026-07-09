@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasure"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -121,7 +121,7 @@ A map measure. Check MapCamera for more details on each supported measure.
 
   <div class="col-first even-row-color">
 
-  `final `[`MapMeasure.Kind`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">`MapMeasure.Kind`</a>
 
   </div>
 
@@ -294,7 +294,7 @@ A map measure. Check MapCamera for more details on each supported measure.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview")</span> <span class="element-name">kind</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">kind</span>
 
     </div>
 
@@ -334,7 +334,7 @@ A map measure. Check MapCamera for more details on each supported measure.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMeasure</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview") kind, double value)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMeasure</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind, double value)</span>
 
     </div>
 

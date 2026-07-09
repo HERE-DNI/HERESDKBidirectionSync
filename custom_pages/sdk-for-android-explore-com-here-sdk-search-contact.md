@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-contact"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents contact information.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EmailAddress`](sdk-for-android-explore-com-here-sdk-search-emailaddress "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-emailaddress" title="class in com.here.sdk.search">`EmailAddress`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Represents contact information.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`LandlinePhone`](sdk-for-android-explore-com-here-sdk-search-landlinephone "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-landlinephone" title="class in com.here.sdk.search">`LandlinePhone`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ Represents contact information.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MobilePhone`](sdk-for-android-explore-com-here-sdk-search-mobilephone "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-mobilephone" title="class in com.here.sdk.search">`MobilePhone`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ Represents contact information.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WebsiteAddress`](sdk-for-android-explore-com-here-sdk-search-websiteaddress "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-websiteaddress" title="class in com.here.sdk.search">`WebsiteAddress`</a>`>`
 
   </div>
 
@@ -299,7 +299,7 @@ Represents contact information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[LandlinePhone](sdk-for-android-explore-com-here-sdk-search-landlinephone "class in com.here.sdk.search")\></span> <span class="element-name">landlinePhones</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-landlinephone" title="class in com.here.sdk.search">LandlinePhone</a>\></span> <span class="element-name">landlinePhones</span>
 
     </div>
 
@@ -317,7 +317,7 @@ Represents contact information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MobilePhone](sdk-for-android-explore-com-here-sdk-search-mobilephone "class in com.here.sdk.search")\></span> <span class="element-name">mobilePhones</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-mobilephone" title="class in com.here.sdk.search">MobilePhone</a>\></span> <span class="element-name">mobilePhones</span>
 
     </div>
 
@@ -335,7 +335,7 @@ Represents contact information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EmailAddress](sdk-for-android-explore-com-here-sdk-search-emailaddress "class in com.here.sdk.search")\></span> <span class="element-name">emails</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-emailaddress" title="class in com.here.sdk.search">EmailAddress</a>\></span> <span class="element-name">emails</span>
 
     </div>
 
@@ -353,7 +353,7 @@ Represents contact information.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebsiteAddress](sdk-for-android-explore-com-here-sdk-search-websiteaddress "class in com.here.sdk.search")\></span> <span class="element-name">websites</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-websiteaddress" title="class in com.here.sdk.search">WebsiteAddress</a>\></span> <span class="element-name">websites</span>
 
     </div>
 
@@ -393,7 +393,7 @@ Represents contact information.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Contact</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[LandlinePhone](sdk-for-android-explore-com-here-sdk-search-landlinephone "class in com.here.sdk.search")\> landlinePhones, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MobilePhone](sdk-for-android-explore-com-here-sdk-search-mobilephone "class in com.here.sdk.search")\> mobilePhones, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EmailAddress](sdk-for-android-explore-com-here-sdk-search-emailaddress "class in com.here.sdk.search")\> emails, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WebsiteAddress](sdk-for-android-explore-com-here-sdk-search-websiteaddress "class in com.here.sdk.search")\> websites)</span>
+    <span class="modifiers">public</span> <span class="element-name">Contact</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-landlinephone" title="class in com.here.sdk.search">LandlinePhone</a>\> landlinePhones, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-mobilephone" title="class in com.here.sdk.search">MobilePhone</a>\> mobilePhones, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-emailaddress" title="class in com.here.sdk.search">EmailAddress</a>\> emails, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-websiteaddress" title="class in com.here.sdk.search">WebsiteAddress</a>\> websites)</span>
 
     </div>
 

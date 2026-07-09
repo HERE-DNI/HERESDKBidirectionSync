@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingoperator"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
   <div class="col-first odd-row-color">
 
-  [`BrandLogo`](sdk-for-android-explore-com-here-sdk-core-brandlogo "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">`BrandLogo`</a>
 
   </div>
 
@@ -359,7 +359,7 @@ Represents name and optionally other details about operator, suboperator, or e-M
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[BrandLogo](sdk-for-android-explore-com-here-sdk-core-brandlogo "class in com.here.sdk.core")</span> <span class="element-name">logo</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></span> <span class="element-name">logo</span>
 
     </div>
 

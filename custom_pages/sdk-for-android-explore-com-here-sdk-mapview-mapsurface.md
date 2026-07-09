@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.sdk.mapview.MapSurface → com.here.sdk.mapview.MapSur
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public class </span><span class="element-name type-name-label">MapSurface</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> implements [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")</span>
+<span class="modifiers">public class </span><span class="element-name type-name-label">MapSurface</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> implements <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></span>
 
 </div>
 
@@ -94,9 +94,9 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.[MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a>
 
-  [`MapViewBase.MapPickCallback`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">`MapViewBase.MapPickCallback`</a>
 
   </div>
 
@@ -334,7 +334,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Point2D`](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">`Point2D`</a>
 
   </div>
 
@@ -356,7 +356,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapCamera`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">`MapCamera`</a>
 
   </div>
 
@@ -400,7 +400,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Gestures`](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">`Gestures`</a>
 
   </div>
 
@@ -422,7 +422,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`HereMap`](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">`HereMap`</a>
 
   </div>
 
@@ -444,7 +444,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapContext`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">`MapContext`</a>
 
   </div>
 
@@ -466,7 +466,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapScene`](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">`MapScene`</a>
 
   </div>
 
@@ -510,7 +510,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`ShadowQuality`](sdk-for-android-explore-com-here-sdk-mapview-shadowquality "enum class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview">`ShadowQuality`</a>
 
   </div>
 
@@ -532,7 +532,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">`Size2D`</a>
 
   </div>
 
@@ -554,7 +554,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Size2D`](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">`Size2D`</a>
 
   </div>
 
@@ -818,7 +818,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -880,7 +880,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr></wbr><span class="parameters">([MapViewOptions](sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions "class in com.here.sdk.mapview") options)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span>
 
     </div>
 
@@ -922,7 +922,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr></wbr><span class="parameters">(android.content.Context context, [MapViewOptions](sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions "class in com.here.sdk.mapview") options)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr></wbr><span class="parameters">(android.content.Context context, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span>
 
     </div>
 
@@ -960,7 +960,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`isValid`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#isValid()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#isValid(">`isValid`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
     `true` if this `MapSurface` is valid, `false` otherwise.
@@ -991,7 +991,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr></wbr><span class="parameters">([MapView.OnReadyListener](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview") readyListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</span>
 
     </div>
 
@@ -1042,7 +1042,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">attachSurface</span><wbr></wbr><span class="parameters">(android.content.Context context, android.view.Surface surface, int width, int height, @NonNull [MapSurface.RenderListener](sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener "interface in com.here.sdk.mapview") renderListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">attachSurface</span><wbr></wbr><span class="parameters">(android.content.Context context, android.view.Surface surface, int width, int height, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> renderListener)</span>
 
     </div>
 
@@ -1119,7 +1119,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">pick</span><wbr></wbr><span class="parameters">(@Nullable [MapScene.MapPickFilter](sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter "class in com.here.sdk.mapview") filter, @NonNull [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core") viewArea, @NonNull [MapViewBase.MapPickCallback](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">pick</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span>
 
     </div>
 
@@ -1130,7 +1130,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`pick`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback">`pick`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `filter` -
@@ -1153,7 +1153,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")</span> <span class="element-name">geoToViewCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span>
 
     </div>
 
@@ -1164,7 +1164,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`geoToViewCoordinates`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates">`geoToViewCoordinates`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `geoCoordinates` -
@@ -1178,7 +1178,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
 
     See Also:  
-    - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
+    - <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" title="interface in com.here.sdk.mapview">`MapView.OnReadyListener`</a>
 
     </div>
 
@@ -1188,7 +1188,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapViewLifecycleListener](sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener "interface in com.here.sdk.mapview") lifecycleListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span>
 
     </div>
 
@@ -1199,7 +1199,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`addLifecycleListener`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener">`addLifecycleListener`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `lifecycleListener` -
@@ -1217,7 +1217,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull [MapViewLifecycleListener](sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener "interface in com.here.sdk.mapview") lifecycleListener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span>
 
     </div>
 
@@ -1228,7 +1228,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`removeLifecycleListener`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener">`removeLifecycleListener`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `lifecycleListener` -
@@ -1282,7 +1282,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">viewToGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") viewCoordinates)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span>
 
     </div>
 
@@ -1293,7 +1293,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`viewToGeoCoordinates`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D">`viewToGeoCoordinates`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `viewCoordinates` -
@@ -1307,7 +1307,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
 
     See Also:  
-    - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
+    - <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" title="interface in com.here.sdk.mapview">`MapView.OnReadyListener`</a>
 
     </div>
 
@@ -1317,7 +1317,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Gestures](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")</span> <span class="element-name">getGestures</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()
 
     </div>
 
@@ -1328,10 +1328,10 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getGestures`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getGestures()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getGestures(">`getGestures`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
-    the [`Gestures`](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures") control object
+    the <a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">`Gestures`</a> control object
 
     Throws:  
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
@@ -1355,7 +1355,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getPixelScale`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getPixelScale()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getPixelScale(">`getPixelScale`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
     current pixel scale factor, or 0.0 if MapView is not initialized
@@ -1371,7 +1371,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">[Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")</span> <span class="element-name">getViewportSize</span>()
+    <span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()
 
     </div>
 
@@ -1382,7 +1382,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getViewportSize`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getViewportSize()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getViewportSize(">`getViewportSize`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
     The viewport size in physical pixels
@@ -1409,7 +1409,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getFrameRate`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getFrameRate()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getFrameRate(">`getFrameRate`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
     Actual maximal render frame rate
@@ -1436,7 +1436,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`setFrameRate`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setFrameRate(int)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setFrameRate(int">`setFrameRate`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `value` - Maximum render frame rate in frames per second. Setting to 0 disables automatic rendering for this view. Setting negative values has no effect.
@@ -1452,7 +1452,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr></wbr><span class="parameters">([MapView.TakeScreenshotCallback](sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</span>
 
     </div>
 
@@ -1473,7 +1473,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr></wbr><span class="parameters">(@NonNull [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core") anchor, @NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") offset)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span>
 
     </div>
 
@@ -1484,7 +1484,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`setWatermarkLocation`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D">`setWatermarkLocation`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Parameters:  
     `anchor` -
@@ -1506,7 +1506,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")</span> <span class="element-name">getWatermarkSize</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()
 
     </div>
 
@@ -1517,7 +1517,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getWatermarkSize`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getWatermarkSize()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getWatermarkSize(">`getWatermarkSize`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
     Provides the size of the watermark in physical pixels.
@@ -1533,7 +1533,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr></wbr><span class="parameters">([ShadowQuality](sdk-for-android-explore-com-here-sdk-mapview-shadowquality "enum class in com.here.sdk.mapview") shadowQuality)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr></wbr><span class="parameters">(<a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</span>
 
     </div>
 
@@ -1557,7 +1557,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[ShadowQuality](sdk-for-android-explore-com-here-sdk-mapview-shadowquality "enum class in com.here.sdk.mapview")</span> <span class="element-name">getShadowQuality</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></span> <span class="element-name">getShadowQuality</span>()
 
     </div>
 
@@ -1581,7 +1581,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapCamera](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview")</span> <span class="element-name">getCamera</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()
 
     </div>
 
@@ -1592,10 +1592,10 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getCamera`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getCamera()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getCamera(">`getCamera`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
-    the [`MapCamera`](sdk-for-android-explore-com-here-sdk-mapview-mapcamera "class in com.here.sdk.mapview") object for the map
+    the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">`MapCamera`</a> object for the map
 
     Throws:  
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
@@ -1608,7 +1608,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapScene](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview")</span> <span class="element-name">getMapScene</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()
 
     </div>
 
@@ -1619,10 +1619,10 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getMapScene`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getMapScene()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getMapScene(">`getMapScene`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
-    the [`MapScene`](sdk-for-android-explore-com-here-sdk-mapview-mapscene "class in com.here.sdk.mapview") associated with this map view.
+    the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview">`MapScene`</a> associated with this map view.
 
     Throws:  
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
@@ -1635,7 +1635,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview")</span> <span class="element-name">getMapContext</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()
 
     </div>
 
@@ -1646,10 +1646,10 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getMapContext`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getMapContext()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getMapContext(">`getMapContext`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
-    the [`MapContext`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") associated with this map view.
+    the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">`MapContext`</a> associated with this map view.
 
     Throws:  
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.
@@ -1662,7 +1662,7 @@ Provides the ability to render a map into a provided rendering surface. This ena
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview")</span> <span class="element-name">getHereMap</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()
 
     </div>
 
@@ -1673,10 +1673,10 @@ Provides the ability to render a map into a provided rendering surface. This ena
     </div>
 
     Specified by:  
-    [`getHereMap`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getHereMap()) in interface [`MapViewBase`](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getHereMap(">`getHereMap`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">`MapViewBase`</a>
 
     Returns:  
-    the [`HereMap`](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview") associated with this map view.
+    the <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">`HereMap`</a> associated with this map view.
 
     Throws:  
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> - if MapSurface object is not valid.

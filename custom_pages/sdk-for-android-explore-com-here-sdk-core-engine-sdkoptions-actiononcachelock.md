@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcache
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< SDKOptions.ActionOnCacheLock \> com.here.sdk.
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SDKOptions.ActionOnCacheLock`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">`SDKOptions.ActionOnCacheLock`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine")
+<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">SDKOptions.ActionOnCacheLock</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">SDKOptions.ActionOnCacheLock</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a>\></span>
 
 </div>
 
@@ -159,7 +159,7 @@ Action on cache lock
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKOptions.ActionOnCacheLock`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">`SDKOptions.ActionOnCacheLock`</a>
 
   </div>
 
@@ -181,7 +181,7 @@ Action on cache lock
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKOptions.ActionOnCacheLock`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">`SDKOptions.ActionOnCacheLock`</a>`[]`
 
   </div>
 
@@ -235,7 +235,7 @@ Action on cache lock
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")</span> <span class="element-name">NO_ACTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">NO_ACTION</span>
 
     </div>
 
@@ -253,7 +253,7 @@ Action on cache lock
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")</span> <span class="element-name">WAIT_LOCKING_APP_FINISH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">WAIT_LOCKING_APP_FINISH</span>
 
     </div>
 
@@ -271,7 +271,7 @@ Action on cache lock
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")</span> <span class="element-name">KILL_LOCKING_APP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">KILL_LOCKING_APP</span>
 
     </div>
 
@@ -293,7 +293,7 @@ Action on cache lock
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -314,7 +314,7 @@ Action on cache lock
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

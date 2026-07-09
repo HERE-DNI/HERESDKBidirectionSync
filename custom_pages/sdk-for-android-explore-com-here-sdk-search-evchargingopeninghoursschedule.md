@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingopeninghoursschedul
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`DayOfWeek`](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">`DayOfWeek`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TimeOfDayRange`](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">`TimeOfDayRange`</a>`>`
 
   </div>
 
@@ -239,7 +239,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[DayOfWeek](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")\></span> <span class="element-name">days</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>\></span> <span class="element-name">days</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Opening hours schedule for EV charging locations, represented by a list of days 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TimeOfDayRange](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")\></span> <span class="element-name">periods</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>\></span> <span class="element-name">periods</span>
 
     </div>
 

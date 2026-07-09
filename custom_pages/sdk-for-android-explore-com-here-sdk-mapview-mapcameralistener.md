@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -93,7 +93,7 @@ Interface for objects that want to get updates whenever the map is redrawn after
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onMapCameraUpdated</span><wbr></wbr><span class="parameters">(@NonNull [MapCamera.State](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state "class in com.here.sdk.mapview") cameraState)</span>
+    <span class="return-type">void</span> <span class="element-name">onMapCameraUpdated</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.animation.MapItemKeyFrameTrack
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapItemKeyFrameTrack</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapItemKeyFrameTrack</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -139,7 +139,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapItemKeyFrameTrack`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">`MapItemKeyFrameTrack`</a>
 
   </div>
 
@@ -161,7 +161,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapItemKeyFrameTrack`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">`MapItemKeyFrameTrack`</a>
 
   </div>
 
@@ -205,7 +205,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">moveTo</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinatesKeyframe](sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe "class in com.here.sdk.animation")\> keyframes, @NonNull [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing, @NonNull [KeyframeInterpolationMode](sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode "enum class in com.here.sdk.animation") interpolationMode)</span> throws <span class="exceptions">[MapItemKeyFrameTrack.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">moveTo</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-animation-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>\> keyframes, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation">Easing</a> easing, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span>
 
     </div>
 
@@ -232,7 +232,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
     MapItemKeyFrameTrack instance.
 
     Throws:  
-    [`MapItemKeyFrameTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation") -
+    <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">`MapItemKeyFrameTrack.InstantiationException`</a> -
 
     If the supplied keyframe list is empty or first keyframe duration is not 0.
 
@@ -244,7 +244,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")</span> <span class="element-name">polylineProgress</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ScalarKeyframe](sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe "class in com.here.sdk.animation")\> keyframes, @NonNull [Easing](sdk-for-android-explore-com-here-sdk-animation-easing "class in com.here.sdk.animation") easing, @NonNull [KeyframeInterpolationMode](sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode "enum class in com.here.sdk.animation") interpolationMode)</span> throws <span class="exceptions">[MapItemKeyFrameTrack.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></span> <span class="element-name">polylineProgress</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>\> keyframes, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation">Easing</a> easing, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span>
 
     </div>
 
@@ -271,7 +271,7 @@ Stores keyframes for interpolation of a map item property using a specific easin
     MapItemKeyFrameTrack instance.
 
     Throws:  
-    [`MapItemKeyFrameTrack.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception "class in com.here.sdk.animation") -
+    <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">`MapItemKeyFrameTrack.InstantiationException`</a> -
 
     If the supplied keyframe list is empty or first keyframe duration is not 0.
 

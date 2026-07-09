@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-threading"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.threading.Threading → c
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Threading</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Threading</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Initializes threading support on native side.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`PlatformThreading`](sdk-for-android-explore-com-here-sdk-core-threading-platformthreading "interface in com.here.sdk.core.threading")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">`PlatformThreading`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Initializes threading support on native side.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setPlatformThreading</span><wbr></wbr><span class="parameters">(@NonNull [PlatformThreading](sdk-for-android-explore-com-here-sdk-core-threading-platformthreading "interface in com.here.sdk.core.threading") platformThreading)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setPlatformThreading</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</span>
 
     </div>
 
@@ -152,7 +152,7 @@ Initializes threading support on native side.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[PlatformThreading](sdk-for-android-explore-com-here-sdk-core-threading-platformthreading "interface in com.here.sdk.core.threading")</span> <span class="element-name">getPlatformThreading</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></span> <span class="element-name">getPlatformThreading</span>()
 
     </div>
 

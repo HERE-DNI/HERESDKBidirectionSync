@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
   <div class="col-first even-row-color">
 
-  `final `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
   <div class="col-first odd-row-color">
 
-  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">`CountryCode`</a>`>`
 
   </div>
 
@@ -311,7 +311,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">areaCenter</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span>
 
     </div>
 
@@ -329,7 +329,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>\></span> <span class="element-name">countries</span>
 
     </div>
 
@@ -351,7 +351,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
+    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span>
 
     </div>
 
@@ -378,7 +378,7 @@ The options to specify an address query. A query can consist of parts of an addr
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\> countries)</span>
+    <span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>\> countries)</span>
 
     </div>
 

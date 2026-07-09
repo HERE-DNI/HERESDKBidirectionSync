@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing interface:  
-[PolygonTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource "interface in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a>
 
 <div class="type-signature">
 
@@ -118,7 +118,7 @@ Result handler of a load tile request.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">loaded</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")\> data, @NonNull [TileSource.TileMetadata](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata "class in com.here.sdk.mapview.datasource") metadata)</span>
+    <span class="return-type">void</span> <span class="element-name">loaded</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>\> data, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</span>
 
     </div>
 
@@ -149,7 +149,7 @@ Result handler of a load tile request.
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">failed</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey)</span>
+    <span class="return-type">void</span> <span class="element-name">failed</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span>
 
     </div>
 

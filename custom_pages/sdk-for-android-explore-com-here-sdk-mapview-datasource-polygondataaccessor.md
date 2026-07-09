@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccess
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.PolygonData
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataAccessor</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataAccessor</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesAccessor`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">`DataAttributesAccessor`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">`GeoPolygon`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -194,7 +194,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">getAttributes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a></span> <span class="element-name">getAttributes</span>()
 
     </div>
 
@@ -215,7 +215,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</span>
 
     </div>
 
@@ -238,7 +238,7 @@ Polygon data accessor used for manipulating polygons that are part of a PolygonD
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAttributes</span><wbr></wbr><span class="parameters">(@NonNull [DataAttributes](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource") attributes)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAttributes</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span>
 
     </div>
 

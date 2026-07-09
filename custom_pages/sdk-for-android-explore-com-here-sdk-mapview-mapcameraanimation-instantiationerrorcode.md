@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< MapCameraAnimation.InstantiationErrorCode \> 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapCameraAnimation.InstantiationErrorCode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a>\></span>
 
 </div>
 
@@ -431,7 +431,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapCameraAnimation.InstantiationErrorCode`</a>
 
   </div>
 
@@ -453,7 +453,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapCameraAnimation.InstantiationErrorCode`</a>`[]`
 
   </div>
 
@@ -507,7 +507,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">EMPTY_TRACK_LIST</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">EMPTY_TRACK_LIST</span>
 
     </div>
 
@@ -525,7 +525,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_POSITION_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_POSITION_TRACKS</span>
 
     </div>
 
@@ -543,7 +543,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</span>
 
     </div>
 
@@ -561,7 +561,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</span>
 
     </div>
 
@@ -579,7 +579,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</span>
 
     </div>
 
@@ -597,7 +597,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_ORIENTATION_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_ORIENTATION_TRACKS</span>
 
     </div>
 
@@ -615,7 +615,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</span>
 
     </div>
 
@@ -633,7 +633,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</span>
 
     </div>
 
@@ -651,7 +651,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</span>
 
     </div>
 
@@ -669,7 +669,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
 
     </div>
 
@@ -687,7 +687,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
 
     </div>
 
@@ -705,7 +705,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</span>
 
     </div>
 
@@ -723,7 +723,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
 
     </div>
 
@@ -741,7 +741,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
 
     </div>
 
@@ -759,7 +759,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</span>
 
     </div>
 
@@ -777,7 +777,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</span>
 
     </div>
 
@@ -795,7 +795,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</span>
 
     </div>
 
@@ -813,7 +813,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</span>
 
     </div>
 
@@ -831,7 +831,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</span>
 
     </div>
 
@@ -849,7 +849,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</span>
 
     </div>
 
@@ -871,7 +871,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -892,7 +892,7 @@ Describes a reason for failing to create a multi-track MapCameraAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[MapContentSettings](sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Traffic refresh period error exception
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapContentSettings.TrafficRefreshPeriodException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.MapContentSettings.TrafficRefreshPeriodException">Serialized Form</a>
 
 </div>
 

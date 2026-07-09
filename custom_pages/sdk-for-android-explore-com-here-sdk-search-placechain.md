@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placechain"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -252,7 +252,7 @@ Parameters related to HERE Places chain system.
     Parameters:  
     `id` -
 
-    Identifier number for an associated chain. For example, the chain ID "8778" corresponds to the chain name "ABC Shop". The complete list of supported chain IDs can be found [here](https://www.here.com/docs/bundle/geocoding-and-search-api-developer-guide/page/topics-places/places-chain-system-full.html).
+    Identifier number for an associated chain. For example, the chain ID "8778" corresponds to the chain name "ABC Shop". The complete list of supported chain IDs can be found <a href="https://www.here.com/docs/bundle/geocoding-and-search-api-developer-guide/page/topics-places/places-chain-system-full.html">here</a>.
 
     </div>
 

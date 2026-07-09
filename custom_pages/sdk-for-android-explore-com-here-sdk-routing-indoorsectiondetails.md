@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorsectiondetails"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.IndoorSectionDetails �
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorSectionDetails</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorSectionDetails</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Provides additional details for an indoor Section .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorRoutePlace`](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">`IndoorRoutePlace`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Provides additional details for an indoor Section .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorRoutePlace`](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">`IndoorRoutePlace`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ Provides additional details for an indoor Section .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`IndoorManeuver`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuver "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver" title="class in com.here.sdk.routing">`IndoorManeuver`</a>`>`
 
   </div>
 
@@ -151,7 +151,7 @@ Provides additional details for an indoor Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[IndoorManeuver](sdk-for-android-explore-com-here-sdk-routing-indoormaneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getIndoorManeuvers</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver" title="class in com.here.sdk.routing">IndoorManeuver</a>\></span> <span class="element-name">getIndoorManeuvers</span>()
 
     </div>
 
@@ -172,7 +172,7 @@ Provides additional details for an indoor Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IndoorRoutePlace](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")</span> <span class="element-name">getDeparturePlace</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()
 
     </div>
 
@@ -193,7 +193,7 @@ Provides additional details for an indoor Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[IndoorRoutePlace](sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace "class in com.here.sdk.routing")</span> <span class="element-name">getArrivalPlace</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()
 
     </div>
 

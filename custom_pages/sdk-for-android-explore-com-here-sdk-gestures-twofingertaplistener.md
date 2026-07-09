@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.gestures](sdk-for-android-explore-com-here-sdk-gestures-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-gestures-package-summary">com.here.sdk.gestures</a>
 
 </div>
 
@@ -93,7 +93,7 @@ Interface for handling two finger tap gestures. Two finger tap gesture occurs af
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTwoFingerTap</span><wbr></wbr><span class="parameters">(@NonNull [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core") origin)</span>
+    <span class="return-type">void</span> <span class="element-name">onTwoFingerTap</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span>
 
     </div>
 

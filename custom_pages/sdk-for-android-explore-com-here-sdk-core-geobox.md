@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first even-row-color">
 
-  `final `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first odd-row-color">
 
-  `final `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -181,7 +181,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -247,7 +247,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -269,7 +269,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -309,7 +309,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -352,7 +352,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>`>`
 
   </div>
 
@@ -374,7 +374,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  `static `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>`>`
 
   </div>
 
@@ -440,7 +440,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">southWestCorner</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">southWestCorner</span>
 
     </div>
 
@@ -458,7 +458,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">northEastCorner</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">northEastCorner</span>
 
     </div>
 
@@ -480,7 +480,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoBox</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") southWestCorner, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") northEastCorner)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoBox</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</span>
 
     </div>
 
@@ -541,7 +541,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">containing</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> geoCoordinates)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">containing</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\> geoCoordinates)</span>
 
     </div>
 
@@ -567,7 +567,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">envelope</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelope</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span>
 
     </div>
 
@@ -593,7 +593,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">envelopeGeoBoxes</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">envelopeGeoBoxes</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>\> geoBoxes)</span>
 
     </div>
 
@@ -619,7 +619,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">intersects</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">intersects</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span>
 
     </div>
 
@@ -645,7 +645,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>\></span> <span class="element-name">intersection</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span>
 
     </div>
 
@@ -661,7 +661,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
     Another geo box to check intersection with.
 
     Returns:  
-    It will be empty if there is no overlap. Otherwise, 1 or more geo boxes covering common area by this and passed [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core").
+    It will be empty if there is no overlap. Otherwise, 1 or more geo boxes covering common area by this and passed <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>.
 
     </div>
 
@@ -671,7 +671,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">intersection</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\> geoBoxes)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>\></span> <span class="element-name">intersection</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>\> geoBoxes)</span>
 
     </div>
 
@@ -684,10 +684,10 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
     Parameters:  
     `geoBoxes` -
 
-    List of [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") instances.
+    List of <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a> instances.
 
     Returns:  
-    It will be empty if there is no overlap between all the passed [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") instances. Otherwise, 1 or more geo boxes covering common area by all the passed [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") instances.
+    It will be empty if there is no overlap between all the passed <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a> instances. Otherwise, 1 or more geo boxes covering common area by all the passed <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a> instances.
 
     </div>
 
@@ -697,7 +697,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span>
 
     </div>
 
@@ -723,7 +723,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") geoCoordinates)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">contains</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span>
 
     </div>
 
@@ -749,7 +749,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">expandedBy</span><wbr></wbr><span class="parameters">(double southMeters, double westMeters, double northMeters, double eastMeters)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">expandedBy</span><wbr></wbr><span class="parameters">(double southMeters, double westMeters, double northMeters, double eastMeters)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -780,7 +780,7 @@ Represents a bounding rectangle aligned with latitude and longitude. Geographic 
     The expanded `GeoBox`.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Instantiation error.
 

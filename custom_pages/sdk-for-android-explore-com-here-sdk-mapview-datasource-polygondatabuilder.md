@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilde
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.PolygonData
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PolygonData`](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">`PolygonData`</a>
 
   </div>
 
@@ -127,7 +127,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PolygonDataBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">`PolygonDataBuilder`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PolygonDataBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">`PolygonDataBuilder`</a>
 
   </div>
 
@@ -215,7 +215,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PolygonDataBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withGeometry</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withGeometry</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</span>
 
     </div>
 
@@ -241,7 +241,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PolygonDataBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withAttributes</span><wbr></wbr><span class="parameters">(@NonNull [DataAttributes](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource") attributes)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span>
 
     </div>
 
@@ -267,7 +267,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></span> <span class="element-name">build</span>()
 
     </div>
 
@@ -278,7 +278,7 @@ Builder of PolygonData instances. The builder can create PolygonData instances f
     </div>
 
     Returns:  
-    Instance of [`PolygonData`](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource") created with the configured parameters.
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">`PolygonData`</a> created with the configured parameters.
 
     </div>
 

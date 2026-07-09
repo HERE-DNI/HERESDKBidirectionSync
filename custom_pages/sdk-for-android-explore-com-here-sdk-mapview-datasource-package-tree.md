@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 
@@ -17,8 +17,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-tree"
 
 - java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="type-name-link external-link" title="class or interface in java.lang">Object</a>
   - com.here.<a href="sdk-for-android-explore-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
-    - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> (implements com.here.sdk.mapview.datasource.[DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource"))
-    - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a> (implements com.here.sdk.mapview.datasource.[DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource"))
+    - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> (implements com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>)
+    - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a> (implements com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>)
     - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a>
     - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" class="type-name-link" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>
     - com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" class="type-name-link" title="class in com.here.sdk.mapview.datasource">LineData</a>

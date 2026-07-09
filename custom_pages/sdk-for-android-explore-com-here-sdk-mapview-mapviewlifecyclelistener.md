@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -181,7 +181,7 @@ Provides a mechanism for observing a lifecycle of a map view and/or implementing
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onAttach</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="return-type">void</span> <span class="element-name">onAttach</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span>
 
     </div>
 
@@ -204,7 +204,7 @@ Provides a mechanism for observing a lifecycle of a map view and/or implementing
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onDetach</span><wbr></wbr><span class="parameters">(@NonNull [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview") mapView)</span>
+    <span class="return-type">void</span> <span class="element-name">onDetach</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span>
 
     </div>
 

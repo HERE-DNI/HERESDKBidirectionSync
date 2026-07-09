@@ -3,26 +3,26 @@ title: "API Help (API Reference)"
 slug: "sdk-for-android-explore-help-doc"
 ---
 
-- [Navigation](sdk-for-android-explore-help-doc#help-navigation):
-  - [Search](sdk-for-android-explore-help-doc#help-search)
-- [Kinds of Pages](sdk-for-android-explore-help-doc#help-pages):
-  - [Overview](sdk-for-android-explore-help-doc#overview)
-  - [Package](sdk-for-android-explore-help-doc#package)
-  - [Class or Interface](sdk-for-android-explore-help-doc#class)
-  - [Other Files](sdk-for-android-explore-help-doc#doc-file)
-  - [Tree (Class Hierarchy)](sdk-for-android-explore-help-doc#tree)
-  - [Deprecated API](sdk-for-android-explore-help-doc#deprecated)
-  - [Constant Field Values](sdk-for-android-explore-help-doc#constant-values)
-  - [Serialized Form](sdk-for-android-explore-help-doc#serialized-form)
-  - [All Packages](sdk-for-android-explore-help-doc#all-packages)
-  - [All Classes and Interfaces](sdk-for-android-explore-help-doc#all-classes)
-  - [Index](sdk-for-android-explore-help-doc#index)
+- <a href="sdk-for-android-explore-help-doc#help-navigation">Navigation</a>:
+  - <a href="sdk-for-android-explore-help-doc#help-search">Search</a>
+- <a href="sdk-for-android-explore-help-doc#help-pages">Kinds of Pages</a>:
+  - <a href="sdk-for-android-explore-help-doc#overview">Overview</a>
+  - <a href="sdk-for-android-explore-help-doc#package">Package</a>
+  - <a href="sdk-for-android-explore-help-doc#class">Class or Interface</a>
+  - <a href="sdk-for-android-explore-help-doc#doc-file">Other Files</a>
+  - <a href="sdk-for-android-explore-help-doc#tree">Tree (Class Hierarchy)</a>
+  - <a href="sdk-for-android-explore-help-doc#deprecated">Deprecated API</a>
+  - <a href="sdk-for-android-explore-help-doc#constant-values">Constant Field Values</a>
+  - <a href="sdk-for-android-explore-help-doc#serialized-form">Serialized Form</a>
+  - <a href="sdk-for-android-explore-help-doc#all-packages">All Packages</a>
+  - <a href="sdk-for-android-explore-help-doc#all-classes">All Classes and Interfaces</a>
+  - <a href="sdk-for-android-explore-help-doc#index">Index</a>
 
 <div class="sub-title">
 
 ## Navigation
 
-Starting from the [Overview](sdk-for-android-explore-index) page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The [Index](sdk-for-android-explore-index-all) and Search box allow you to navigate to specific declarations and summary pages, including: [All Packages](sdk-for-android-explore-allpackages-index), [All Classes and Interfaces](sdk-for-android-explore-allclasses-index)
+Starting from the <a href="sdk-for-android-explore-index">Overview</a> page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The <a href="sdk-for-android-explore-index-all">Index</a> and Search box allow you to navigate to specific declarations and summary pages, including: <a href="sdk-for-android-explore-allpackages-index">All Packages</a>, <a href="sdk-for-android-explore-allclasses-index">All Classes and Interfaces</a>
 
 <div id="sdk-for-android-explore-help-search" class="section help-section">
 
@@ -34,7 +34,7 @@ You can search for definitions of modules, packages, types, fields, methods, sys
 - `InpStr` will match "java.io.InputStream"
 - `HM.cK` will match "java.util.HashMap.containsKey(Object)"
 
-Refer to the [Javadoc Search Specification](https://docs.oracle.com/en/java/javase/17/docs/specs/javadoc/javadoc-search-spec.html) for a full description of search features.
+Refer to the <a href="https://docs.oracle.com/en/java/javase/17/docs/specs/javadoc/javadoc-search-spec.html">Javadoc Search Specification</a> for a full description of search features.
 
 </div>
 
@@ -50,7 +50,7 @@ The following sections describe the different kinds of pages in this collection.
 
 ### Overview
 
-The [Overview](sdk-for-android-explore-index) page is the front page of this API document and provides a list of all packages with a summary for each. This page can also contain an overall description of the set of packages.
+The <a href="sdk-for-android-explore-index">Overview</a> page is the front page of this API document and provides a list of all packages with a summary for each. This page can also contain an overall description of the set of packages.
 
 </div>
 
@@ -120,7 +120,7 @@ Packages and modules may contain pages with additional information related to th
 
 ### Tree (Class Hierarchy)
 
-There is a [Class Hierarchy](sdk-for-android-explore-overview-tree) page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with `java.lang.Object`. Interfaces do not inherit from `java.lang.Object`.
+There is a <a href="sdk-for-android-explore-overview-tree">Class Hierarchy</a> page for all packages, plus a hierarchy for each package. Each hierarchy page contains a list of classes and a list of interfaces. Classes are organized by inheritance structure starting with `java.lang.Object`. Interfaces do not inherit from `java.lang.Object`.
 
 - When viewing the Overview page, clicking on TREE displays the hierarchy for all packages.
 - When viewing a particular package, class or interface page, clicking on TREE displays the hierarchy for only that package.
@@ -131,7 +131,7 @@ There is a [Class Hierarchy](sdk-for-android-explore-overview-tree) page for all
 
 ### Deprecated API
 
-The [Deprecated API](sdk-for-android-explore-deprecated-list) page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.
+The <a href="sdk-for-android-explore-deprecated-list">Deprecated API</a> page lists all of the API that have been deprecated. A deprecated API is not recommended for use, generally due to shortcomings, and a replacement API is usually given. Deprecated APIs may be removed in future implementations.
 
 </div>
 
@@ -139,7 +139,7 @@ The [Deprecated API](sdk-for-android-explore-deprecated-list) page lists all of 
 
 ### Constant Field Values
 
-The [Constant Field Values](sdk-for-android-explore-constant-values) page lists the static final fields and their values.
+The <a href="sdk-for-android-explore-constant-values">Constant Field Values</a> page lists the static final fields and their values.
 
 </div>
 
@@ -155,7 +155,7 @@ Each serializable or externalizable class has a description of its serialization
 
 ### All Packages
 
-The [All Packages](sdk-for-android-explore-allpackages-index) page contains an alphabetic index of all packages contained in the documentation.
+The <a href="sdk-for-android-explore-allpackages-index">All Packages</a> page contains an alphabetic index of all packages contained in the documentation.
 
 </div>
 
@@ -163,7 +163,7 @@ The [All Packages](sdk-for-android-explore-allpackages-index) page contains an a
 
 ### All Classes and Interfaces
 
-The [All Classes and Interfaces](sdk-for-android-explore-allclasses-index) page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.
+The <a href="sdk-for-android-explore-allclasses-index">All Classes and Interfaces</a> page contains an alphabetic index of all classes and interfaces contained in the documentation, including annotation interfaces, enum classes, and record classes.
 
 </div>
 
@@ -171,7 +171,7 @@ The [All Classes and Interfaces](sdk-for-android-explore-allclasses-index) page 
 
 ### Index
 
-The [Index](sdk-for-android-explore-index-all) contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as [All Packages](sdk-for-android-explore-allpackages-index), [All Classes and Interfaces](sdk-for-android-explore-allclasses-index).
+The <a href="sdk-for-android-explore-index-all">Index</a> contains an alphabetic index of all classes, interfaces, constructors, methods, and fields in the documentation, as well as summary pages such as <a href="sdk-for-android-explore-allpackages-index">All Packages</a>, <a href="sdk-for-android-explore-allclasses-index">All Classes and Interfaces</a>.
 
 </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapPolyline → com.he
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolyline</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolyline</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -291,7 +291,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DrawOrderType`](sdk-for-android-explore-com-here-sdk-mapview-drawordertype "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">`DrawOrderType`</a>
 
   </div>
 
@@ -313,7 +313,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>
 
   </div>
 
@@ -335,7 +335,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapContentCategory`](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">`MapContentCategory`</a>`>`
 
   </div>
 
@@ -357,7 +357,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>
 
   </div>
 
@@ -401,7 +401,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -423,7 +423,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">`MapMeasureDependentRenderSize`</a>
 
   </div>
 
@@ -445,7 +445,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -467,7 +467,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>`>`
 
   </div>
 
@@ -775,7 +775,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolyline</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") geometry, @NonNull [MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview") representation)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span>
 
     </div>
 
@@ -806,7 +806,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRepresentation</span><wbr></wbr><span class="parameters">(@NonNull [MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview") representation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRepresentation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span>
 
     </div>
 
@@ -829,7 +829,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapPolylineAnimation](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation "class in com.here.sdk.animation") animation, @NonNull [AnimationListener](sdk-for-android-explore-com-here-sdk-animation-animationlistener "interface in com.here.sdk.animation") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation, @NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</span>
 
     </div>
 
@@ -856,7 +856,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapPolylineAnimation](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation "class in com.here.sdk.animation") animation)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</span>
 
     </div>
 
@@ -879,7 +879,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -900,7 +900,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> value)</span>
 
     </div>
 
@@ -923,7 +923,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()
 
     </div>
 
@@ -944,7 +944,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span>
 
     </div>
 
@@ -1011,7 +1011,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DrawOrderType](sdk-for-android-explore-com-here-sdk-mapview-drawordertype "enum class in com.here.sdk.mapview")</span> <span class="element-name">getDrawOrderType</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">getDrawOrderType</span>()
 
     </div>
 
@@ -1032,7 +1032,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrderType</span><wbr></wbr><span class="parameters">(@NonNull [DrawOrderType](sdk-for-android-explore-com-here-sdk-mapview-drawordertype "enum class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrderType</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</span>
 
     </div>
 
@@ -1055,7 +1055,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -1076,7 +1076,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\> value)</span>
 
     </div>
 
@@ -1143,7 +1143,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getProgressColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressColor</span>()
 
     </div>
 
@@ -1164,7 +1164,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span>
 
     </div>
 
@@ -1187,7 +1187,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getProgressOutlineColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressOutlineColor</span>()
 
     </div>
 
@@ -1208,7 +1208,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressOutlineColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressOutlineColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span>
 
     </div>
 
@@ -1231,7 +1231,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")</span> <span class="element-name">getProgressGradientLength</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getProgressGradientLength</span>()
 
     </div>
 
@@ -1252,7 +1252,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressGradientLength</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressGradientLength</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> value)</span>
 
     </div>
 
@@ -1275,7 +1275,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>\></span> <span class="element-name">getMapContentCategoriesToBlock</span>()
 
     </div>
 
@@ -1296,7 +1296,7 @@ A visual representation of a line on the map. The geometry to be visualized is r
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapContentCategory](sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory "enum class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>\> value)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fare"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Holds all the fare data.
 
   <div class="col-first odd-row-color">
 
-  [`FarePrice`](sdk-for-android-explore-com-here-sdk-routing-fareprice "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-fareprice" title="class in com.here.sdk.routing">`FarePrice`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Holds all the fare data.
 
   <div class="col-first even-row-color">
 
-  [`FareReason`](sdk-for-android-explore-com-here-sdk-routing-farereason "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-farereason" title="enum class in com.here.sdk.routing">`FareReason`</a>
 
   </div>
 
@@ -279,7 +279,7 @@ Holds all the fare data.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[FarePrice](sdk-for-android-explore-com-here-sdk-routing-fareprice "class in com.here.sdk.routing")</span> <span class="element-name">price</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-fareprice" title="class in com.here.sdk.routing">FarePrice</a></span> <span class="element-name">price</span>
 
     </div>
 
@@ -297,7 +297,7 @@ Holds all the fare data.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[FareReason](sdk-for-android-explore-com-here-sdk-routing-farereason "enum class in com.here.sdk.routing")</span> <span class="element-name">reason</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-farereason" title="enum class in com.here.sdk.routing">FareReason</a></span> <span class="element-name">reason</span>
 
     </div>
 
@@ -319,7 +319,7 @@ Holds all the fare data.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Fare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable [FarePrice](sdk-for-android-explore-com-here-sdk-routing-fareprice "class in com.here.sdk.routing") price, @NonNull [FareReason](sdk-for-android-explore-com-here-sdk-routing-farereason "enum class in com.here.sdk.routing") reason)</span>
+    <span class="modifiers">public</span> <span class="element-name">Fare</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-fareprice" title="class in com.here.sdk.routing">FarePrice</a> price, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-farereason" title="enum class in com.here.sdk.routing">FareReason</a> reason)</span>
 
     </div>
 

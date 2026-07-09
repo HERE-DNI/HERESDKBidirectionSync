@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-platformthreading"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
 </div>
 
@@ -57,7 +57,7 @@ Interface for task activities on the main thread.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -79,7 +79,7 @@ Interface for task activities on the main thread.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -102,7 +102,7 @@ Interface for task activities on the main thread.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -138,7 +138,7 @@ Interface for task activities on the main thread.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">runOnMainThread</span><wbr></wbr><span class="parameters">(@NonNull [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">runOnMainThread</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</span>
 
     </div>
 
@@ -164,7 +164,7 @@ Interface for task activities on the main thread.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">postToMainThread</span><wbr></wbr><span class="parameters">(@NonNull [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable, long delayMs)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">postToMainThread</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable, long delayMs)</span>
 
     </div>
 
@@ -194,7 +194,7 @@ Interface for task activities on the main thread.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">postToMainThread</span><wbr></wbr><span class="parameters">(@NonNull [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable)</span>
+    <span class="annotations">@NonNull </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">postToMainThread</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</span>
 
     </div>
 

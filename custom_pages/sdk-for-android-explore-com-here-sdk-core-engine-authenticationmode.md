@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.AuthenticationMode
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">AuthenticationMode</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">AuthenticationMode</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -153,7 +153,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -175,7 +175,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -197,7 +197,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -219,7 +219,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -293,7 +293,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withToken</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessToken)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withToken</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessToken)</span>
 
     </div>
 
@@ -309,7 +309,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
     Access token
 
     Returns:  
-    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use token
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a> configured to use token
 
     </div>
 
@@ -319,7 +319,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withTokenProvider</span><wbr></wbr><span class="parameters">(@NonNull [AuthenticationMode.AccessTokenProvider](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider "interface in com.here.sdk.core.engine") tokenProvider)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withTokenProvider</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> tokenProvider)</span>
 
     </div>
 
@@ -335,7 +335,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
     Access token provider
 
     Returns:  
-    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use token provider
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a> configured to use token provider
 
     </div>
 
@@ -345,7 +345,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withExternal</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withExternal</span>()
 
     </div>
 
@@ -356,7 +356,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
     </div>
 
     Returns:  
-    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use externally provided authentication
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a> configured to use externally provided authentication
 
     </div>
 
@@ -366,7 +366,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">withKeySecret</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeyId, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withKeySecret</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeyId, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> accessKeySecret)</span>
 
     </div>
 
@@ -386,7 +386,7 @@ This is a bearer authentication mode which adds or does not add a header ("Autho
     The access key secret
 
     Returns:  
-    Instance of [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") configured to use key ID and secret
+    Instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a> configured to use key ID and secret
 
     </div>
 

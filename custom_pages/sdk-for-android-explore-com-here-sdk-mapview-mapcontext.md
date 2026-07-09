@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapContext → com.her
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapContext</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapContext</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -271,7 +271,7 @@ MapContext is the rendering engine and the context in which virtual geographic m
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapContext.MemoryManagementOptions`](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">`MapContext.MemoryManagementOptions`</a>
 
   </div>
 
@@ -333,7 +333,7 @@ MapContext is the rendering engine and the context in which virtual geographic m
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">freeResource</span><wbr></wbr><span class="parameters">(@NonNull [MapContext.ResourceType](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-resourcetype "enum class in com.here.sdk.mapview") type, @NonNull [MapContext.FreeResourceSeverity](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-freeresourceseverity "enum class in com.here.sdk.mapview") severity)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">freeResource</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a> type, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a> severity)</span>
 
     </div>
 
@@ -360,7 +360,7 @@ MapContext is the rendering engine and the context in which virtual geographic m
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapContext.MemoryManagementOptions](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions "class in com.here.sdk.mapview")</span> <span class="element-name">getMemoryManagementOptions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></span> <span class="element-name">getMemoryManagementOptions</span>()
 
     </div>
 
@@ -375,7 +375,7 @@ MapContext is the rendering engine and the context in which virtual geographic m
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMemoryManagementOptions</span><wbr></wbr><span class="parameters">(@NonNull [MapContext.MemoryManagementOptions](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions "class in com.here.sdk.mapview") memoryManagementOptions, @Nullable [MapContext.SetMemoryManagementOptionsCallback](sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback "interface in com.here.sdk.mapview") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMemoryManagementOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a> memoryManagementOptions, @Nullable <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a> callback)</span>
 
     </div>
 

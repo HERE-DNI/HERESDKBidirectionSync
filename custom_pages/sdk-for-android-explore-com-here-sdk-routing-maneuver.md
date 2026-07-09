@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.Maneuver → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Maneuver</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Maneuver</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`ManeuverAction`](sdk-for-android-explore-com-here-sdk-routing-maneuveraction "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">`ManeuverAction`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocalizedTexts`](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">`LocalizedTexts`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RoadTexts`](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">`RoadTexts`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RoadTexts`](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">`RoadTexts`</a>
 
   </div>
 
@@ -327,7 +327,7 @@ This class provides all the information for a maneuver. The directional informat
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Signpost`](sdk-for-android-explore-com-here-sdk-routing-signpost "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">`Signpost`</a>
 
   </div>
 
@@ -437,7 +437,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[ManeuverAction](sdk-for-android-explore-com-here-sdk-routing-maneuveraction "enum class in com.here.sdk.routing")</span> <span class="element-name">getAction</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">getAction</span>()
 
     </div>
 
@@ -458,7 +458,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinates</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()
 
     </div>
 
@@ -527,7 +527,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTexts](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")</span> <span class="element-name">getExitSignTexts</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getExitSignTexts</span>()
 
     </div>
 
@@ -569,7 +569,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoadTexts](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")</span> <span class="element-name">getRoadTexts</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getRoadTexts</span>()
 
     </div>
 
@@ -590,7 +590,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoadTexts](sdk-for-android-explore-com-here-sdk-routing-roadtexts "class in com.here.sdk.routing")</span> <span class="element-name">getNextRoadTexts</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getNextRoadTexts</span>()
 
     </div>
 
@@ -611,7 +611,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Signpost](sdk-for-android-explore-com-here-sdk-routing-signpost "class in com.here.sdk.routing")</span> <span class="element-name">getSignpost</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">Signpost</a></span> <span class="element-name">getSignpost</span>()
 
     </div>
 
@@ -622,7 +622,7 @@ This class provides all the information for a maneuver. The directional informat
     </div>
 
     Returns:  
-    Gets the [`Signpost`](sdk-for-android-explore-com-here-sdk-routing-signpost "class in com.here.sdk.routing") object.
+    Gets the <a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">`Signpost`</a> object.
 
     </div>
 
@@ -632,7 +632,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTexts](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")</span> <span class="element-name">getIntersectionNames</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getIntersectionNames</span>()
 
     </div>
 
@@ -664,7 +664,7 @@ This class provides all the information for a maneuver. The directional informat
     </div>
 
     Returns:  
-    The maneuver instruction. The text is formatted and localized as specified via [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing").
+    The maneuver instruction. The text is formatted and localized as specified via <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>.
 
     </div>
 
@@ -728,7 +728,7 @@ This class provides all the information for a maneuver. The directional informat
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
 
     </div>
 

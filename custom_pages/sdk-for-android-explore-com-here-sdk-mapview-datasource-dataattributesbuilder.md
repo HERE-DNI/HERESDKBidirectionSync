@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbui
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.DataAttribu
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributesBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributesBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributes`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">`DataAttributes`</a>
 
   </div>
 
@@ -127,7 +127,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -150,7 +150,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -196,7 +196,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -219,7 +219,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -241,7 +241,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`DataAttributesBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">`DataAttributesBuilder`</a>
 
   </div>
 
@@ -307,7 +307,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> value)</span>
 
     </div>
 
@@ -337,7 +337,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, long value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, long value)</span>
 
     </div>
 
@@ -367,7 +367,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, float value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, float value)</span>
 
     </div>
 
@@ -397,7 +397,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, double value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, double value)</span>
 
     </div>
 
@@ -427,7 +427,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, boolean value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, boolean value)</span>
 
     </div>
 
@@ -457,7 +457,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource") value)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></span> <span class="element-name">with</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a> value)</span>
 
     </div>
 
@@ -487,7 +487,7 @@ Data attributes collection builder. Note: This is a beta release of this feature
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[DataAttributes](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a></span> <span class="element-name">build</span>()
 
     </div>
 

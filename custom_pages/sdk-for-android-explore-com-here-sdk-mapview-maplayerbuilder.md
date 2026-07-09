@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapLayerBuilder → co
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapLayerBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -203,7 +203,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayer`](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer" title="class in com.here.sdk.mapview">`MapLayer`</a>
 
   </div>
 
@@ -225,7 +225,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -247,7 +247,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -269,7 +269,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -291,7 +291,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -313,7 +313,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -335,7 +335,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -357,7 +357,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -379,7 +379,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapLayerBuilder`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">`MapLayerBuilder`</a>
 
   </div>
 
@@ -445,7 +445,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -471,7 +471,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName, @NonNull [MapContentType](sdk-for-android-explore-com-here-sdk-mapview-mapcontenttype "enum class in com.here.sdk.mapview") contentType)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</span>
 
     </div>
 
@@ -501,7 +501,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withStyle</span><wbr></wbr><span class="parameters">(@NonNull [Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview") style)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withStyle</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a> style)</span>
 
     </div>
 
@@ -527,7 +527,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">forMap</span><wbr></wbr><span class="parameters">(@NonNull [HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview") targetMap)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">forMap</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</span>
 
     </div>
 
@@ -553,7 +553,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withPriority</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") priority)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withPriority</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span>
 
     </div>
 
@@ -579,7 +579,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withVisibilityRange</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerVisibilityRange](sdk-for-android-explore-com-here-sdk-mapview-maplayervisibilityrange "class in com.here.sdk.mapview") visibilityRange)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withVisibilityRange</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</span>
 
     </div>
 
@@ -605,7 +605,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withMapMeasureDependentStorageLevels</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerMapMeasureDependentStorageLevels](sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels "class in com.here.sdk.mapview") mapLayerMapMeasureDependentStorageLevels)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withMapMeasureDependentStorageLevels</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</span>
 
     </div>
 
@@ -631,7 +631,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayerBuilder](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder "class in com.here.sdk.mapview")</span> <span class="element-name">withLoadPriority</span><wbr></wbr><span class="parameters">(double loadPriority)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></span> <span class="element-name">withLoadPriority</span><wbr></wbr><span class="parameters">(double loadPriority)</span>
 
     </div>
 
@@ -657,7 +657,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapLayer](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview")</span> <span class="element-name">build</span>() throws <span class="exceptions">[MapLayerBuilder.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></span> <span class="element-name">build</span>() throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></span>
 
     </div>
 
@@ -671,7 +671,7 @@ MapLayerBuilder is used to add layers to a map to visualise a dataset in a progr
     A new MapLayer instance.
 
     Throws:  
-    [`MapLayerBuilder.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">`MapLayerBuilder.InstantiationException`</a> -
 
     Indicates an instantiation issue.
 

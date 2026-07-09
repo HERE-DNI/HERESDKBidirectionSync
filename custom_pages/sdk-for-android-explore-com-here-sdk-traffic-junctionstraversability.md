@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< JunctionsTraversability \> com.here.sdk.traff
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`JunctionsTraversability`](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">`JunctionsTraversability`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">JunctionsTraversability</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">JunctionsTraversability</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a>\></span>
 
 </div>
 
@@ -186,7 +186,7 @@ Junctions traversability of some traffic incident or flow section.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`JunctionsTraversability`](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">`JunctionsTraversability`</a>
 
   </div>
 
@@ -208,7 +208,7 @@ Junctions traversability of some traffic incident or flow section.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`JunctionsTraversability`](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">`JunctionsTraversability`</a>`[]`
 
   </div>
 
@@ -262,7 +262,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">ALL_OPEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">ALL_OPEN</span>
 
     </div>
 
@@ -280,7 +280,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">ALL_CLOSED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">ALL_CLOSED</span>
 
     </div>
 
@@ -298,7 +298,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">INTERMEDIATE_CLOSED_EDGE_OPEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">INTERMEDIATE_CLOSED_EDGE_OPEN</span>
 
     </div>
 
@@ -316,7 +316,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">START_OPEN_OTHERS_CLOSED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">START_OPEN_OTHERS_CLOSED</span>
 
     </div>
 
@@ -334,7 +334,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">END_OPEN_OTHERS_CLOSED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">END_OPEN_OTHERS_CLOSED</span>
 
     </div>
 
@@ -356,7 +356,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -377,7 +377,7 @@ Junctions traversability of some traffic incident or flow section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

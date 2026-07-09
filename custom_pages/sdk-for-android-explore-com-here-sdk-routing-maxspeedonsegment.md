@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
   <div class="col-first odd-row-color">
 
-  [`SegmentReference`](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">`SegmentReference`</a>
 
   </div>
 
@@ -240,7 +240,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")</span> <span class="element-name">segment</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span>
 
     </div>
 
@@ -280,7 +280,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MaxSpeedOnSegment</span><wbr></wbr><span class="parameters">(@NonNull [SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing") segment, double baseSpeedInMetersPerSecond)</span>
+    <span class="modifiers">public</span> <span class="element-name">MaxSpeedOnSegment</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment, double baseSpeedInMetersPerSecond)</span>
 
     </div>
 
@@ -293,7 +293,7 @@ New base speed for a segment. Affects route calculation and the ETA. Cannot incr
     Parameters:  
     `segment` -
 
-    A segment for which the new base speed is specified. Only the `segmendId` and `travelDirection` parameters are used, other parameters are ignored. Setting a `segmendId` is mandatory. **Note:** The `SegmentReference` is not directly accessible from the map via the HERE SDK. Although, after route calculation you can retrieve the related segments for each [`Span`](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing"). The segment IDs are the same that are also used by, for example, the [Routing REST API](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html). These IDs are mostly stable and only change when the underlying map data changes due to a new road or similar changes in the real world.
+    A segment for which the new base speed is specified. Only the `segmendId` and `travelDirection` parameters are used, other parameters are ignored. Setting a `segmendId` is mandatory. **Note:** The `SegmentReference` is not directly accessible from the map via the HERE SDK. Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-explore-com-here-sdk-routing-span" title="class in com.here.sdk.routing">`Span`</a>. The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>. These IDs are mostly stable and only change when the underlying map data changes due to a new road or similar changes in the real world.
 
     `baseSpeedInMetersPerSecond` -
 

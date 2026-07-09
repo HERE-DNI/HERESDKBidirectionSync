@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.core.PolylineSimplifier.Options → com.here.sdk.c
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[PolylineSimplifier](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier "class in com.here.sdk.core")
+<a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a>
 
 <div class="type-signature">
 
@@ -230,7 +230,7 @@ Controls the strategy of PolylineSimplifier.simplify(java.util.List\<com.here.sd
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.core.PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.core.PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">Constant Field Values</a>
 
     </div>
 
@@ -315,7 +315,7 @@ Controls the strategy of PolylineSimplifier.simplify(java.util.List\<com.here.sd
 
         PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.GeoCoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)
 
-    </a>. Lower value results in the lower accuracy of the resulting polyline. If `maxPoints` is less than `2` then resulting polyline will not have an upper limit on the size and only [`simplificationToleranceInMeters`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters) will be considered. When `maxPoints` is greater than size of the passed polyline then simplification algorithm will take into account only [`simplificationToleranceInMeters`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters).
+    </a>. Lower value results in the lower accuracy of the resulting polyline. If `maxPoints` is less than `2` then resulting polyline will not have an upper limit on the size and only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters">`simplificationToleranceInMeters`</a> will be considered. When `maxPoints` is greater than size of the passed polyline then simplification algorithm will take into account only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters">`simplificationToleranceInMeters`</a>.
 
     </p>
 
@@ -330,7 +330,7 @@ Controls the strategy of PolylineSimplifier.simplify(java.util.List\<com.here.sd
     - higher tolerance results in more simplification (fewer points);
     - lower tolerance keeps the line closer to its original shape.
 
-    If removing a point produces polyline, which deviates from the original one more than `simplificationToleranceInMeters`, then this point is left in the collection. If specified tolerance will not allow to create a polyline conforming to [`maxPoints`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints), then `simplificationToleranceInMeters` is ignored. Default value is equal to [`SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL`](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL).
+    If removing a point produces polyline, which deviates from the original one more than `simplificationToleranceInMeters`, then this point is left in the collection. If specified tolerance will not allow to create a polyline conforming to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints">`maxPoints`</a>, then `simplificationToleranceInMeters` is ignored. Default value is equal to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">`SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL`</a>.
 
     </p>
 

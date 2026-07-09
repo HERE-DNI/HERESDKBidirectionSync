@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuver"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.IndoorManeuver → com
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorManeuver</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorManeuver</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Represents a maneuver within an indoor section.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorManeuverActions`](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">`IndoorManeuverActions`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ Represents a maneuver within an indoor section.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ Represents a maneuver within an indoor section.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Represents a maneuver within an indoor section.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorLevelChangeData`](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata" title="class in com.here.sdk.routing">`IndoorLevelChangeData`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ Represents a maneuver within an indoor section.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorSpaceData`](sdk-for-android-explore-com-here-sdk-routing-indoorspacedata "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata" title="class in com.here.sdk.routing">`IndoorSpaceData`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Represents a maneuver within an indoor section.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">getAction</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">getAction</span>()
 
     </div>
 
@@ -304,7 +304,7 @@ Represents a maneuver within an indoor section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinate</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinate</span>()
 
     </div>
 
@@ -388,7 +388,7 @@ Represents a maneuver within an indoor section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
 
     </div>
 
@@ -430,7 +430,7 @@ Represents a maneuver within an indoor section.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IndoorSpaceData](sdk-for-android-explore-com-here-sdk-routing-indoorspacedata "class in com.here.sdk.routing")</span> <span class="element-name">getIndoorSpaceData</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata" title="class in com.here.sdk.routing">IndoorSpaceData</a></span> <span class="element-name">getIndoorSpaceData</span>()
 
     </div>
 
@@ -451,7 +451,7 @@ Represents a maneuver within an indoor section.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IndoorLevelChangeData](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata "class in com.here.sdk.routing")</span> <span class="element-name">getIndoorLevelChangeData</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></span> <span class="element-name">getIndoorLevelChangeData</span>()
 
     </div>
 

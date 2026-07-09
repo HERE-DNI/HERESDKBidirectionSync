@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.Route → com.here.Nat
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Route</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Route</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Route`](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">`Route`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`OptimizationMode`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">`OptimizationMode`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`RouteRailwayCrossing`](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing" title="class in com.here.sdk.routing">`RouteRailwayCrossing`</a>`>`
 
   </div>
 
@@ -261,7 +261,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">`TransportMode`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">`RouteHandle`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`RouteLabel`](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-routelabel" title="class in com.here.sdk.routing">`RouteLabel`</a>`>`
 
   </div>
 
@@ -327,7 +327,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RoutingOptions`](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">`RoutingOptions`</a>
 
   </div>
 
@@ -349,7 +349,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Section`](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">`Section`</a>`>`
 
   </div>
 
@@ -371,7 +371,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -437,7 +437,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">byte\[\]</span> <span class="element-name">serialize</span><wbr></wbr><span class="parameters">(@NonNull [Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing") route)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">byte\[\]</span> <span class="element-name">serialize</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a> route)</span>
 
     </div>
 
@@ -463,7 +463,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[Route](sdk-for-android-explore-com-here-sdk-routing-route "class in com.here.sdk.routing")</span> <span class="element-name">deserialize</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] routeData)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a></span> <span class="element-name">deserialize</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] routeData)</span>
 
     </div>
 
@@ -489,7 +489,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Section](sdk-for-android-explore-com-here-sdk-routing-section "class in com.here.sdk.routing")\></span> <span class="element-name">getSections</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-section" title="class in com.here.sdk.routing">Section</a>\></span> <span class="element-name">getSections</span>()
 
     </div>
 
@@ -510,7 +510,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -521,7 +521,7 @@ A route is a path through a road network over which someone travels. Note: Each 
     </div>
 
     Returns:  
-    The [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") object representing the polyline of this route. It may not contain the original coordinates specified in the request for a route.
+    The <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a> object representing the polyline of this route. It may not contain the original coordinates specified in the request for a route.
 
     </div>
 
@@ -531,7 +531,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">getBoundingBox</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()
 
     </div>
 
@@ -573,7 +573,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">getLanguage</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getLanguage</span>()
 
     </div>
 
@@ -594,7 +594,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing")</span> <span class="element-name">getOptimizationMode</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></span> <span class="element-name">getOptimizationMode</span>()
 
     </div>
 
@@ -615,7 +615,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")</span> <span class="element-name">getRequestedTransportMode</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">getRequestedTransportMode</span>()
 
     </div>
 
@@ -657,7 +657,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[RouteHandle](sdk-for-android-explore-com-here-sdk-routing-routehandle "class in com.here.sdk.routing")</span> <span class="element-name">getRouteHandle</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">getRouteHandle</span>()
 
     </div>
 
@@ -668,7 +668,7 @@ A route is a path through a road network over which someone travels. Note: Each 
     </div>
 
     Returns:  
-    The route handle of this route. Note that it is provided only if [`RouteOptions.enableRouteHandle`](sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle) is set before route calculation.
+    The route handle of this route. Note that it is provided only if <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle">`RouteOptions.enableRouteHandle`</a> is set before route calculation.
 
     </div>
 
@@ -678,7 +678,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
 
     </div>
 
@@ -699,7 +699,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getTrafficDelay</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()
 
     </div>
 
@@ -720,7 +720,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")</span> <span class="element-name">getRoutingOptions</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></span> <span class="element-name">getRoutingOptions</span>()
 
     </div>
 
@@ -741,7 +741,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[RouteRailwayCrossing](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing "class in com.here.sdk.routing")\></span> <span class="element-name">getRailwayCrossings</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing" title="class in com.here.sdk.routing">RouteRailwayCrossing</a>\></span> <span class="element-name">getRailwayCrossings</span>()
 
     </div>
 
@@ -762,7 +762,7 @@ A route is a path through a road network over which someone travels. Note: Each 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[RouteLabel](sdk-for-android-explore-com-here-sdk-routing-routelabel "class in com.here.sdk.routing")\></span> <span class="element-name">getRouteLabels</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-routelabel" title="class in com.here.sdk.routing">RouteLabel</a>\></span> <span class="element-name">getRouteLabels</span>()
 
     </div>
 

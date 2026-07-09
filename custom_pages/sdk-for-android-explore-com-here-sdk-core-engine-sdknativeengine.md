@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.engine.SDKNativeEngine �
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKNativeEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">SDKNativeEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -269,7 +269,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`SDKOptions`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">`SDKOptions`</a>
 
   </div>
 
@@ -291,7 +291,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`ParameterConfiguration`](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">`ParameterConfiguration`</a>
 
   </div>
 
@@ -313,7 +313,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util"><code>Set</code></a>`<`[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util"><code>Set</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">`PassThroughFeature`</a>`>`
 
   </div>
 
@@ -335,7 +335,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`ProxySettings`](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">`ProxySettings`</a>
 
   </div>
 
@@ -357,7 +357,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`UsageStats`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">`UsageStats`</a>`>`
 
   </div>
 
@@ -379,7 +379,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SDKNativeEngine`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">`SDKNativeEngine`</a>
 
   </div>
 
@@ -643,7 +643,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SDKNativeEngine</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">SDKNativeEngine</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -663,7 +663,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
     The options for the new engine.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -766,7 +766,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">makeSharedInstance</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull [SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine") options)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">makeSharedInstance</span><wbr></wbr><span class="parameters">(@NonNull android.content.Context androidContext, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -786,7 +786,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
     The options for the new engine.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -834,7 +834,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">purgeMemoryCaches</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine.PurgeMemoryStrategy](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy "enum class in com.here.sdk.core.engine") strategy)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">purgeMemoryCaches</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> strategy)</span>
 
     </div>
 
@@ -857,7 +857,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">getDeviceId</span><wbr></wbr><span class="parameters">(@NonNull [DeviceIdCallback](sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback "interface in com.here.sdk.core.engine") callback)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">getDeviceId</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a> callback)</span>
 
     </div>
 
@@ -880,7 +880,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SDKOptions](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions "class in com.here.sdk.core.engine")</span> <span class="element-name">getOptions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a></span> <span class="element-name">getOptions</span>()
 
     </div>
 
@@ -891,7 +891,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
     </div>
 
     Returns:  
-    Options used by this instance of [`SDKNativeEngine`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine").
+    Options used by this instance of <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">`SDKNativeEngine`</a>.
 
     </div>
 
@@ -901,7 +901,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type">[SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine")</span> <span class="element-name">getSharedInstance</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></span> <span class="element-name">getSharedInstance</span>()
 
     </div>
 
@@ -922,7 +922,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setSharedInstance</span><wbr></wbr><span class="parameters">(@Nullable [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") value)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setSharedInstance</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</span>
 
     </div>
 
@@ -989,7 +989,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span> <span class="element-name">getPassThroughFeatures</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\></span> <span class="element-name">getPassThroughFeatures</span>()
 
     </div>
 
@@ -1010,7 +1010,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" class="external-link" title="class or interface in java.util">Set</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\> value)</span>
 
     </div>
 
@@ -1033,7 +1033,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[ParameterConfiguration](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration "class in com.here.sdk.core")</span> <span class="element-name">getParameterConfig</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></span> <span class="element-name">getParameterConfig</span>()
 
     </div>
 
@@ -1054,7 +1054,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setParameterConfig</span><wbr></wbr><span class="parameters">(@NonNull [ParameterConfiguration](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setParameterConfig</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</span>
 
     </div>
 
@@ -1077,7 +1077,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ProxySettings](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine")</span> <span class="element-name">getProxySettings</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">getProxySettings</span>()
 
     </div>
 
@@ -1098,7 +1098,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProxySettings</span><wbr></wbr><span class="parameters">(@Nullable [ProxySettings](sdk-for-android-explore-com-here-sdk-core-engine-proxysettings "class in com.here.sdk.core.engine") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProxySettings</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</span>
 
     </div>
 
@@ -1121,7 +1121,7 @@ Holds internal services and configurations needed by various HERE SDK modules. Y
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[UsageStats](sdk-for-android-explore-com-here-sdk-core-engine-usagestats "class in com.here.sdk.core.engine")\></span> <span class="element-name">getSdkUsageStats</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>\></span> <span class="element-name">getSdkUsageStats</span>()
 
     </div>
 

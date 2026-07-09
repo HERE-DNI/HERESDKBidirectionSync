@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -375,7 +375,7 @@ Information about the address of a location. Used in Place.getAddress() . Note t
 
   <div class="col-first even-row-color">
 
-  [`AddressType`](sdk-for-android-explore-com-here-sdk-search-addresstype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">`AddressType`</a>
 
   </div>
 
@@ -759,7 +759,7 @@ Information about the address of a location. Used in Place.getAddress() . Note t
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[AddressType](sdk-for-android-explore-com-here-sdk-search-addresstype "enum class in com.here.sdk.search")</span> <span class="element-name">type</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">AddressType</a></span> <span class="element-name">type</span>
 
     </div>
 

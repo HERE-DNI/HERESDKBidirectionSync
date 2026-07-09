@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maparrow"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapArrow → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapArrow</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapArrow</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -106,7 +106,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`[`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"), <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">`MapMeasure`</a>, <wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>`>`
 
   </div>
 
@@ -128,7 +128,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>`>`
 
   </div>
 
@@ -216,7 +216,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapArrow</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") geometry, double widthInPixels, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapArrow</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry, double widthInPixels, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span>
 
     </div>
 
@@ -251,7 +251,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">getMeasureDependentTailWidth</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">getMeasureDependentTailWidth</span>()
 
     </div>
 
@@ -262,7 +262,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
     </div>
 
     Returns:  
-    The width of the arrow tail in pixels, where the key is a [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") and the value is a tail width in pixels at this [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
+    The width of the arrow tail in pixels, where the key is a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">`MapMeasure`</a> and the value is a tail width in pixels at this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">`MapMeasure`</a>.
 
     </div>
 
@@ -272,7 +272,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMeasureDependentTailWidth</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMeasureDependentTailWidth</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr></wbr><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\> value)</span>
 
     </div>
 
@@ -285,7 +285,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
     Parameters:  
     `value` -
 
-    The width of the arrow tail in pixels, where the key is a [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview") and the value is a tail width in pixels at this [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
+    The width of the arrow tail in pixels, where the key is a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">`MapMeasure`</a> and the value is a tail width in pixels at this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">`MapMeasure`</a>.
 
     </div>
 
@@ -295,13 +295,13 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
     <div class="block">
 
-    Gets the list of visibility ranges. A range is half-open - \[minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. When empty (the default), the map arrows are visible without map measure restrictions. Only MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange (s) of other unsupported types will be ignored.}
+    Gets the list of visibility ranges. A range is half-open - \<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. When empty (the default), the map arrows are visible without map measure restrictions. Only MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange (s) of other unsupported types will be ignored.}
 
     </div>
 
@@ -316,7 +316,7 @@ A visual representation of an arrow on the map. It consists of a tail - a polyli
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange</a>\> value)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ The options to specify polygon shape which routes must not cross.
 
   <div class="col-first even-row-color">
 
-  [`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">`GeoPolygon`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ The options to specify polygon shape which routes must not cross.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ The options to specify polygon shape which routes must not cross.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCorridor`](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">`GeoCorridor`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ The options to specify polygon shape which routes must not cross.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">`GeoPolygon`</a>`>`
 
   </div>
 
@@ -283,7 +283,7 @@ The options to specify polygon shape which routes must not cross.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">avoidPolygonArea</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">avoidPolygonArea</span>
 
     </div>
 
@@ -301,7 +301,7 @@ The options to specify polygon shape which routes must not cross.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")\></span> <span class="element-name">boundingBoxExceptionAreas</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>\></span> <span class="element-name">boundingBoxExceptionAreas</span>
 
     </div>
 
@@ -319,7 +319,7 @@ The options to specify polygon shape which routes must not cross.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")\></span> <span class="element-name">polygonExceptionAreas</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>\></span> <span class="element-name">polygonExceptionAreas</span>
 
     </div>
 
@@ -337,7 +337,7 @@ The options to specify polygon shape which routes must not cross.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")\></span> <span class="element-name">corridorExceptionAreas</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>\></span> <span class="element-name">corridorExceptionAreas</span>
 
     </div>
 
@@ -359,7 +359,7 @@ The options to specify polygon shape which routes must not cross.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">AvoidPolygonAreaOptions</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") avoidPolygonArea)</span>
+    <span class="modifiers">public</span> <span class="element-name">AvoidPolygonAreaOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</span>
 
     </div>
 
@@ -372,7 +372,7 @@ The options to specify polygon shape which routes must not cross.
     Parameters:  
     `avoidPolygonArea` -
 
-    Area of polygon shape which routes must not cross. Strictly enforced. Violations are reported as [`SectionNoticeCode.VIOLATED_BLOCKED_ROAD`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD). **Note:** This avoidance option is not supported for `IsolineOptions`. If it is defined for isoline calculation then an \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
+    Area of polygon shape which routes must not cross. Strictly enforced. Violations are reported as <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD">`SectionNoticeCode.VIOLATED_BLOCKED_ROAD`</a>. **Note:** This avoidance option is not supported for `IsolineOptions`. If it is defined for isoline calculation then an \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
 
     </div>
 

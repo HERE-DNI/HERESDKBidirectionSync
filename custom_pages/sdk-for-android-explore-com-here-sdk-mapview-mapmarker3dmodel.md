@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapMarker3DModel → c
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker3DModel</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker3DModel</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -257,7 +257,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> geometryFilePath, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> geometryFilePath, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span>
 
     </div>
 
@@ -288,7 +288,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull [Mesh](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview") mesh, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span> throws <span class="exceptions">[MapMarker3DModel.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></span>
 
     </div>
 
@@ -312,7 +312,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
     Color to be blend with texture. This color is multiplied with color of texture.
 
     Throws:  
-    [`MapMarker3DModel.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">`MapMarker3DModel.InstantiationException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -351,7 +351,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull [Mesh](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview") mesh, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath)</span> throws <span class="exceptions">[MapMarker3DModel.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> textureFilePath)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></span>
 
     </div>
 
@@ -371,7 +371,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
     Absolute path to texture file.
 
     Throws:  
-    [`MapMarker3DModel.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">`MapMarker3DModel.InstantiationException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -406,7 +406,7 @@ Represents a 3D model that can be used by a MapMarker3D to be shown on the map. 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull [Mesh](sdk-for-android-explore-com-here-sdk-mapview-mesh "class in com.here.sdk.mapview") mesh)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapMarker3DModel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh)</span>
 
     </div>
 

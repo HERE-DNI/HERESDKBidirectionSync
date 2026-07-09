@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-streetattributes"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< StreetAttributes \> com.here.sdk.routing.Stre
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">`StreetAttributes`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">StreetAttributes</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">StreetAttributes</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>\></span>
 
 </div>
 
@@ -298,7 +298,7 @@ Types of street attributes.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">`StreetAttributes`</a>
 
   </div>
 
@@ -320,7 +320,7 @@ Types of street attributes.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">`StreetAttributes`</a>`[]`
 
   </div>
 
@@ -374,7 +374,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">RIGHT_DRIVING_SIDE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">RIGHT_DRIVING_SIDE</span>
 
     </div>
 
@@ -392,7 +392,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">DIRT_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">DIRT_ROAD</span>
 
     </div>
 
@@ -410,7 +410,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">TUNNEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">TUNNEL</span>
 
     </div>
 
@@ -428,7 +428,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">BRIDGE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">BRIDGE</span>
 
     </div>
 
@@ -446,7 +446,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">RAMP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">RAMP</span>
 
     </div>
 
@@ -464,7 +464,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">ROUNDABOUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">ROUNDABOUT</span>
 
     </div>
 
@@ -482,7 +482,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">UNDER_CONSTRUCTION</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">UNDER_CONSTRUCTION</span>
 
     </div>
 
@@ -500,7 +500,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">DIVIDED_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">DIVIDED_ROAD</span>
 
     </div>
 
@@ -518,7 +518,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">MOTORWAY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">MOTORWAY</span>
 
     </div>
 
@@ -536,7 +536,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">PRIVATE_ROAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">PRIVATE_ROAD</span>
 
     </div>
 
@@ -554,7 +554,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">BUILT_UP_AREA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">BUILT_UP_AREA</span>
 
     </div>
 
@@ -572,7 +572,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span>
 
     </div>
 
@@ -594,7 +594,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -615,7 +615,7 @@ Types of street attributes.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

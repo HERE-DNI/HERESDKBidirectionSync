@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-truckfueltype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< TruckFuelType \> com.here.sdk.transport.Truck
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TruckFuelType`](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">`TruckFuelType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">TruckFuelType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">TruckFuelType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>\></span>
 
 </div>
 
@@ -170,7 +170,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TruckFuelType`](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">`TruckFuelType`</a>
 
   </div>
 
@@ -192,7 +192,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TruckFuelType`](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">`TruckFuelType`</a>`[]`
 
   </div>
 
@@ -246,7 +246,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">CNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">CNG</span>
 
     </div>
 
@@ -264,7 +264,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">DIESEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">DIESEL</span>
 
     </div>
 
@@ -282,7 +282,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">HYDROGEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">HYDROGEN</span>
 
     </div>
 
@@ -300,7 +300,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">LNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">LNG</span>
 
     </div>
 
@@ -322,7 +322,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -343,7 +343,7 @@ Define possible fuel types for trucks provided by a fuel station. Note: This is 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

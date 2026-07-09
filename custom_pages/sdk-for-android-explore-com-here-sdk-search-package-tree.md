@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 
@@ -59,11 +59,11 @@ slug: "sdk-for-android-explore-com-here-sdk-search-package-tree"
   - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-mobilephone" class="type-name-link" title="class in com.here.sdk.search">MobilePhone</a>
   - com.here.<a href="sdk-for-android-explore-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
     - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" class="type-name-link" title="class in com.here.sdk.search">EVChargingLocation</a>
-    - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-evsearchengine" class="type-name-link" title="class in com.here.sdk.search">EVSearchEngine</a> (implements com.here.sdk.search.[EVSearchInterface](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search"))
+    - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-evsearchengine" class="type-name-link" title="class in com.here.sdk.search">EVSearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a>)
     - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-indexrange" class="type-name-link" title="class in com.here.sdk.search">IndexRange</a>
     - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-place" class="type-name-link" title="class in com.here.sdk.search">Place</a>
     - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" class="type-name-link" title="class in com.here.sdk.search">PlaceCategory</a>
-    - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-searchengine" class="type-name-link" title="class in com.here.sdk.search">SearchEngine</a> (implements com.here.sdk.search.[SearchInterface](sdk-for-android-explore-com-here-sdk-search-searchinterface "interface in com.here.sdk.search"))
+    - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-searchengine" class="type-name-link" title="class in com.here.sdk.search">SearchEngine</a> (implements com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a>)
     - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-suggestion" class="type-name-link" title="class in com.here.sdk.search">Suggestion</a>
   - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-openinghours" class="type-name-link" title="class in com.here.sdk.search">OpeningHours</a>
   - com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-placechain" class="type-name-link" title="class in com.here.sdk.search">PlaceChain</a>

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.TranslucentMapLayerGro
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TranslucentMapLayerGroup</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TranslucentMapLayerGroup</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -285,7 +285,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview") aMap)</span> throws <span class="exceptions">[TranslucentMapLayerGroup.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span>
 
     </div>
 
@@ -298,14 +298,14 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
     Parameters:  
     `name` -
 
-    Name of the group. Must be unique across [`MapLayer`](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview") and [`TranslucentMapLayerGroup`](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup "class in com.here.sdk.mapview").
+    Name of the group. Must be unique across <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer" title="class in com.here.sdk.mapview">`MapLayer`</a> and <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">`TranslucentMapLayerGroup`</a>.
 
     `aMap` -
 
     The map to attach the group to.
 
     Throws:  
-    [`TranslucentMapLayerGroup.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">`TranslucentMapLayerGroup.InstantiationException`</a> -
 
     In case of invalid input parameters.
 
@@ -317,7 +317,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [HereMap](sdk-for-android-explore-com-here-sdk-mapview-heremap "class in com.here.sdk.mapview") aMap, @NonNull [MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") priority)</span> throws <span class="exceptions">[TranslucentMapLayerGroup.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">TranslucentMapLayerGroup</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></span>
 
     </div>
 
@@ -330,7 +330,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
     Parameters:  
     `name` -
 
-    Name of the group. Must be unique across [`MapLayer`](sdk-for-android-explore-com-here-sdk-mapview-maplayer "class in com.here.sdk.mapview") and [`TranslucentMapLayerGroup`](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup "class in com.here.sdk.mapview").
+    Name of the group. Must be unique across <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayer" title="class in com.here.sdk.mapview">`MapLayer`</a> and <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">`TranslucentMapLayerGroup`</a>.
 
     `aMap` -
 
@@ -338,7 +338,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
     `priority` -
 
-    The [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") which should be applied to position the group. The [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") must contain only one priority and this priority must have no category and no group, i.e. [](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder#inGroup(java.lang.String))
+    The <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a> which should be applied to position the group. The <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a> must contain only one priority and this priority must have no category and no group, i.e. [](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder#inGroup(java.lang.String))
 
         MapLayerPriorityBuilder.inGroup(java.lang.String)
 
@@ -346,14 +346,14 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
         MapLayerPriorityBuilder.withCategory(java.lang.String)
 
-    </a> should not be used when building the [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview"). Example:
+    </a> should not be used when building the <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a>. Example:
 
         new MapLayerPriorityBuilder().renderedAfterLayer(&quot;water&quot;).build()
 
     </p>
 
     Throws:  
-    [`TranslucentMapLayerGroup.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">`TranslucentMapLayerGroup.InstantiationException`</a> -
 
     In case of invalid input parameters.
 
@@ -369,7 +369,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr></wbr><span class="parameters">(@NonNull [MapLayerPriority](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") priority)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPriority</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</span>
 
     </div>
 
@@ -382,7 +382,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
     Parameters:  
     `priority` -
 
-    The priority to position the group. The [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview") must contain only one priority and this priority must have no category and no group, i.e. [](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder#inGroup(java.lang.String))
+    The priority to position the group. The <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a> must contain only one priority and this priority must have no category and no group, i.e. [](sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder#inGroup(java.lang.String))
 
         MapLayerPriorityBuilder.inGroup(java.lang.String)
 
@@ -390,7 +390,7 @@ A translucent layer group that can be the target for MapLayerPriorityBuilder.inG
 
         MapLayerPriorityBuilder.withCategory(java.lang.String)
 
-    </a> should not be used when building the [`MapLayerPriority`](sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority "class in com.here.sdk.mapview"). Example:
+    </a> should not be used when building the <a href="sdk-for-android-explore-com-here-sdk-mapview-maplayerpriority" title="class in com.here.sdk.mapview">`MapLayerPriority`</a>. Example:
 
         new MapLayerPriorityBuilder().renderedAfterLayer(&quot;water&quot;).build()
 

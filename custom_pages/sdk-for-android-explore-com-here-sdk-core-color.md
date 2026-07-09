@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -211,7 +211,7 @@ Represents a color value. The class is compatible with the native package androi
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -235,7 +235,7 @@ Represents a color value. The class is compatible with the native package androi
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -260,7 +260,7 @@ Represents a color value. The class is compatible with the native package androi
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -300,7 +300,7 @@ Represents a color value. The class is compatible with the native package androi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(float red, float green, float blue)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(float red, float green, float blue)</span>
 
     </div>
 
@@ -334,7 +334,7 @@ Represents a color value. The class is compatible with the native package androi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(float red, float green, float blue, float alpha)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(float red, float green, float blue, float alpha)</span>
 
     </div>
 
@@ -372,7 +372,7 @@ Represents a color value. The class is compatible with the native package androi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(@ColorInt int color)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(@ColorInt int color)</span>
 
     </div>
 

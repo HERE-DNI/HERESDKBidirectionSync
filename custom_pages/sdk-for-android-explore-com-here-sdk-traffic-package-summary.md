@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [JunctionsTraversability](sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a>
 
   </div>
 
@@ -47,7 +47,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficDataProvider](sdk-for-android-explore-com-here-sdk-traffic-trafficdataprovider "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficdataprovider" title="class in com.here.sdk.traffic">TrafficDataProvider</a>
 
   </div>
 
@@ -63,7 +63,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TrafficEngine](sdk-for-android-explore-com-here-sdk-traffic-trafficengine "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficengine" title="class in com.here.sdk.traffic">TrafficEngine</a>
 
   </div>
 
@@ -79,7 +79,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficFlow](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a>
 
   </div>
 
@@ -95,7 +95,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TrafficFlowBase](sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase "interface in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a>
 
   </div>
 
@@ -111,7 +111,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [TrafficFlowQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback "interface in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a>
 
   </div>
 
@@ -127,7 +127,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TrafficFlowQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a>
 
   </div>
 
@@ -143,7 +143,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a>
 
   </div>
 
@@ -159,7 +159,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>
 
   </div>
 
@@ -175,7 +175,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficIncident.VehicleRestriction](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a>
 
   </div>
 
@@ -191,7 +191,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>
 
   </div>
 
@@ -207,7 +207,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TrafficIncidentImpact](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>
 
   </div>
 
@@ -223,7 +223,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TrafficIncidentLookupCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback "interface in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback" title="interface in com.here.sdk.traffic">TrafficIncidentLookupCallback</a>
 
   </div>
 
@@ -239,7 +239,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficIncidentLookupOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a>
 
   </div>
 
@@ -255,7 +255,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TrafficIncidentsQueryCallback](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback "interface in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsquerycallback" title="interface in com.here.sdk.traffic">TrafficIncidentsQueryCallback</a>
 
   </div>
 
@@ -271,7 +271,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficIncidentsQueryOptions](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a>
 
   </div>
 
@@ -287,7 +287,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>
 
   </div>
 
@@ -303,7 +303,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TrafficLocation](sdk-for-android-explore-com-here-sdk-traffic-trafficlocation "class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a>
 
   </div>
 
@@ -319,7 +319,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a>
 
   </div>
 
@@ -335,7 +335,7 @@ package <span class="element-name">com.here.sdk.traffic</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [Traversability](sdk-for-android-explore-com-here-sdk-traffic-traversability "enum class in com.here.sdk.traffic")
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-traversability" title="enum class in com.here.sdk.traffic">Traversability</a>
 
   </div>
 

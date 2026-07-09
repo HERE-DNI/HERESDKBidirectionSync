@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -121,7 +121,7 @@ The options to specify a text query.
 
   <div class="col-first even-row-color">
 
-  [`TextQuery.Area`](sdk-for-android-explore-com-here-sdk-search-textquery-area "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-textquery-area" title="class in com.here.sdk.search">`TextQuery.Area`</a>
 
   </div>
 
@@ -143,7 +143,7 @@ The options to specify a text query.
 
   <div class="col-first odd-row-color">
 
-  [`PlaceFilter`](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">`PlaceFilter`</a>
 
   </div>
 
@@ -333,7 +333,7 @@ The options to specify a text query.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TextQuery.Area](sdk-for-android-explore-com-here-sdk-search-textquery-area "class in com.here.sdk.search")</span> <span class="element-name">area</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></span> <span class="element-name">area</span>
 
     </div>
 
@@ -351,7 +351,7 @@ The options to specify a text query.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PlaceFilter](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")</span> <span class="element-name">placeFilter</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></span> <span class="element-name">placeFilter</span>
 
     </div>
 
@@ -373,7 +373,7 @@ The options to specify a text query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TextQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [TextQuery.Area](sdk-for-android-explore-com-here-sdk-search-textquery-area "class in com.here.sdk.search") area)</span>
+    <span class="modifiers">public</span> <span class="element-name">TextQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a> area)</span>
 
     </div>
 

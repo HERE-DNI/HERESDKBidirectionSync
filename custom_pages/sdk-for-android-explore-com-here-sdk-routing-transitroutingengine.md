@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitroutingengine"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.TransitRoutingEngine �
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TransitRoutingEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TransitRoutingEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -121,7 +121,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -187,7 +187,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>() throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>() throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -198,7 +198,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
     </div>
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -210,7 +210,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -226,7 +226,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
     An SDKEngine instance.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -242,7 +242,7 @@ Use the TransitRoutingEngine to calculate a public transit route from A to B wit
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") startingPoint, @NonNull [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") destination, @NonNull [TransitRouteOptions](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing") routeOptions, @NonNull [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> startingPoint, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> destination, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a> routeOptions, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span>
 
     </div>
 

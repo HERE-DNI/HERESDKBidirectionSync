@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.search.PlaceFilter.Ev → com.here.sdk.search.Plac
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[PlaceFilter](sdk-for-android-explore-com-here-sdk-search-placefilter "class in com.here.sdk.search")
+<a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a>
 
 <div class="type-signature">
 
@@ -92,7 +92,7 @@ Constraints that are applicable on the places of category EV station.
 
   <div class="col-first odd-row-color">
 
-  [`CurrentType`](sdk-for-android-explore-com-here-sdk-core-currenttype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">`CurrentType`</a>
 
   </div>
 
@@ -380,7 +380,7 @@ Constraints that are applicable on the places of category EV station.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[CurrentType](sdk-for-android-explore-com-here-sdk-core-currenttype "enum class in com.here.sdk.core")</span> <span class="element-name">currentType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></span> <span class="element-name">currentType</span>
 
     </div>
 

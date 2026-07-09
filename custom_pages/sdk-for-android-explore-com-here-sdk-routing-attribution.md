@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-attribution"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -133,7 +133,7 @@ Holds all the data on a URL address to an external resource.
 
   <div class="col-first odd-row-color">
 
-  [`AttributionType`](sdk-for-android-explore-com-here-sdk-routing-attributiontype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-attributiontype" title="enum class in com.here.sdk.routing">`AttributionType`</a>
 
   </div>
 
@@ -295,7 +295,7 @@ Holds all the data on a URL address to an external resource.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AttributionType](sdk-for-android-explore-com-here-sdk-routing-attributiontype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-attributiontype" title="enum class in com.here.sdk.routing">AttributionType</a></span> <span class="element-name">type</span>
 
     </div>
 

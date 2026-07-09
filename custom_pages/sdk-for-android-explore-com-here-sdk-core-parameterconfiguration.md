@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
   <div class="col-first even-row-color">
 
-  [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ Contains values of configurable parameters that are used in SDK. This is a BETA 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">transportSpecification</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcec
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -143,7 +143,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
   <div class="col-first even-row-color">
 
-  [`RasterDataSourceConfiguration.Cache`](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">`RasterDataSourceConfiguration.Cache`</a>
 
   </div>
 
@@ -209,7 +209,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
   <div class="col-first odd-row-color">
 
-  [`RasterDataSourceConfiguration.Provider`](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">`RasterDataSourceConfiguration.Provider`</a>
 
   </div>
 
@@ -332,7 +332,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RasterDataSourceConfiguration.Provider](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">provider</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></span> <span class="element-name">provider</span>
 
     </div>
 
@@ -350,7 +350,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RasterDataSourceConfiguration.Cache](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">cache</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></span> <span class="element-name">cache</span>
 
     </div>
 
@@ -390,7 +390,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [RasterDataSourceConfiguration.Provider](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource") provider, @NonNull [RasterDataSourceConfiguration.Cache](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource") cache)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</span>
 
     </div>
 
@@ -421,7 +421,7 @@ Called on the main thread after fromJsonFile() method finishes loading the confi
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [RasterDataSourceConfiguration.Provider](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource") provider, @NonNull [RasterDataSourceConfiguration.Cache](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource") cache, boolean ignoreExpiredData)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache, boolean ignoreExpiredData)</span>
 
     </div>
 

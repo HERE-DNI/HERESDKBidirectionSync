@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -89,7 +89,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
   <div class="col-first odd-row-color">
 
-  [`TransitIncidentEffect`](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">`TransitIncidentEffect`</a>
 
   </div>
 
@@ -133,7 +133,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
   <div class="col-first odd-row-color">
 
-  [`TransitIncidentType`](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">`TransitIncidentType`</a>
 
   </div>
 
@@ -385,7 +385,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -403,7 +403,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing")</span> <span class="element-name">effect</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></span> <span class="element-name">effect</span>
 
     </div>
 
@@ -479,7 +479,7 @@ A transit incident describes disruptions on the transit network. Disruptions sca
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitIncident</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> summary, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable [TransitIncidentType](sdk-for-android-explore-com-here-sdk-routing-transitincidenttype "enum class in com.here.sdk.routing") type, @Nullable [TransitIncidentEffect](sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect "enum class in com.here.sdk.routing") effect, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validFrom, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validUntil, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> url)</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitIncident</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> summary, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validFrom, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> validUntil, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> url)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easingfunction"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< EasingFunction \> com.here.sdk.animation.Easi
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`EasingFunction`](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">`EasingFunction`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">EasingFunction</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">EasingFunction</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a>\></span>
 
 </div>
 
@@ -762,7 +762,7 @@ Animation easing functions.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`EasingFunction`](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">`EasingFunction`</a>
 
   </div>
 
@@ -784,7 +784,7 @@ Animation easing functions.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`EasingFunction`](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">`EasingFunction`</a>`[]`
 
   </div>
 
@@ -838,7 +838,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">LINEAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">LINEAR</span>
 
     </div>
 
@@ -856,7 +856,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_QUAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_QUAD</span>
 
     </div>
 
@@ -874,7 +874,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_QUAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_QUAD</span>
 
     </div>
 
@@ -892,7 +892,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_QUAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_QUAD</span>
 
     </div>
 
@@ -910,7 +910,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_QUAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_QUAD</span>
 
     </div>
 
@@ -928,7 +928,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_CUBIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_CUBIC</span>
 
     </div>
 
@@ -946,7 +946,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_CUBIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_CUBIC</span>
 
     </div>
 
@@ -964,7 +964,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_CUBIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_CUBIC</span>
 
     </div>
 
@@ -982,7 +982,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_CUBIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_CUBIC</span>
 
     </div>
 
@@ -1000,7 +1000,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_QUART</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_QUART</span>
 
     </div>
 
@@ -1018,7 +1018,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_QUART</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_QUART</span>
 
     </div>
 
@@ -1036,7 +1036,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_QUART</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_QUART</span>
 
     </div>
 
@@ -1054,7 +1054,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_QUART</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_QUART</span>
 
     </div>
 
@@ -1072,7 +1072,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_QUINT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_QUINT</span>
 
     </div>
 
@@ -1090,7 +1090,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_QUINT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_QUINT</span>
 
     </div>
 
@@ -1108,7 +1108,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_QUINT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_QUINT</span>
 
     </div>
 
@@ -1126,7 +1126,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_QUINT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_QUINT</span>
 
     </div>
 
@@ -1144,7 +1144,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_SINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_SINE</span>
 
     </div>
 
@@ -1162,7 +1162,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_SINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_SINE</span>
 
     </div>
 
@@ -1180,7 +1180,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_SINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_SINE</span>
 
     </div>
 
@@ -1198,7 +1198,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_SINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_SINE</span>
 
     </div>
 
@@ -1216,7 +1216,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_EXP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_EXP</span>
 
     </div>
 
@@ -1234,7 +1234,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_EXP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_EXP</span>
 
     </div>
 
@@ -1252,7 +1252,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_EXP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_EXP</span>
 
     </div>
 
@@ -1270,7 +1270,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_EXP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_EXP</span>
 
     </div>
 
@@ -1288,7 +1288,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_CIRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_CIRC</span>
 
     </div>
 
@@ -1306,7 +1306,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_CIRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_CIRC</span>
 
     </div>
 
@@ -1324,7 +1324,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_CIRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_CIRC</span>
 
     </div>
 
@@ -1342,7 +1342,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_CIRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_CIRC</span>
 
     </div>
 
@@ -1360,7 +1360,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_BACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_BACK</span>
 
     </div>
 
@@ -1378,7 +1378,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_BACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_BACK</span>
 
     </div>
 
@@ -1396,7 +1396,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_BACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_BACK</span>
 
     </div>
 
@@ -1414,7 +1414,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_BACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_BACK</span>
 
     </div>
 
@@ -1432,7 +1432,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_BOUNCE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_BOUNCE</span>
 
     </div>
 
@@ -1450,7 +1450,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_BOUNCE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_BOUNCE</span>
 
     </div>
 
@@ -1468,7 +1468,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_BOUNCE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_BOUNCE</span>
 
     </div>
 
@@ -1486,7 +1486,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_BOUNCE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_BOUNCE</span>
 
     </div>
 
@@ -1504,7 +1504,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_ELASTIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_ELASTIC</span>
 
     </div>
 
@@ -1522,7 +1522,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_ELASTIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_ELASTIC</span>
 
     </div>
 
@@ -1540,7 +1540,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">IN_OUT_ELASTIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">IN_OUT_ELASTIC</span>
 
     </div>
 
@@ -1558,7 +1558,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">OUT_IN_ELASTIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">OUT_IN_ELASTIC</span>
 
     </div>
 
@@ -1580,7 +1580,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1601,7 +1601,7 @@ Animation easing functions.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

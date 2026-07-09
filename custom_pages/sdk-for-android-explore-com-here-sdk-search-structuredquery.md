@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -143,7 +143,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
   <div class="col-first even-row-color">
 
-  [`StructuredQuery.AddressElements`](sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements" title="class in com.here.sdk.search">`StructuredQuery.AddressElements`</a>
 
   </div>
 
@@ -165,7 +165,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
   <div class="col-first odd-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -209,7 +209,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
   <div class="col-first odd-row-color">
 
-  [`StructuredQuery.ResultType`](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype" title="enum class in com.here.sdk.search">`StructuredQuery.ResultType`</a>
 
   </div>
 
@@ -377,7 +377,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">areaCenter</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span>
 
     </div>
 
@@ -395,7 +395,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[StructuredQuery.AddressElements](sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements "class in com.here.sdk.search")</span> <span class="element-name">addressElements</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></span> <span class="element-name">addressElements</span>
 
     </div>
 
@@ -413,7 +413,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[StructuredQuery.ResultType](sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype "enum class in com.here.sdk.search")</span> <span class="element-name">resultType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">resultType</span>
 
     </div>
 
@@ -435,7 +435,7 @@ The options to specify a structured query. Only supported in OfflineSearchEngine
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">StructuredQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
+    <span class="modifiers">public</span> <span class="element-name">StructuredQuery</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> query, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-metadata"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.core.Metadata → com.here.Nat
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Metadata</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Metadata</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`CustomMetadataValue`](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue" title="interface in com.here.sdk.core">`CustomMetadataValue`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -215,7 +215,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MetadataType`](sdk-for-android-explore-com-here-sdk-core-metadatatype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadatatype" title="enum class in com.here.sdk.core">`MetadataType`</a>
 
   </div>
 
@@ -415,7 +415,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[CustomMetadataValue](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core")</span> <span class="element-name">getCustomValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue" title="interface in com.here.sdk.core">CustomMetadataValue</a></span> <span class="element-name">getCustomValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -467,7 +467,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -545,7 +545,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[MetadataType](sdk-for-android-explore-com-here-sdk-core-metadatatype "enum class in com.here.sdk.core")</span> <span class="element-name">getType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadatatype" title="enum class in com.here.sdk.core">MetadataType</a></span> <span class="element-name">getType</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key)</span>
 
     </div>
 
@@ -594,7 +594,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key, @NonNull [CustomMetadataValue](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCustomValue</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue" title="interface in com.here.sdk.core">CustomMetadataValue</a> value)</span>
 
     </div>
 
@@ -648,7 +648,7 @@ Holds metadata on behalf of a map item. An instance of this class can contain me
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> key, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span>
 
     </div>
 

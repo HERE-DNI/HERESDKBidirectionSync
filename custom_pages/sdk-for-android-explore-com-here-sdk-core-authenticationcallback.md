@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationcallback"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -96,7 +96,7 @@ Callback passed to Authentication.authenticate(SDKNativeEngine) . This callback 
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTokenReceived</span><wbr></wbr><span class="parameters">(@Nullable [AuthenticationError](sdk-for-android-explore-com-here-sdk-core-authenticationerror "enum class in com.here.sdk.core") authenticationError, @Nullable [AuthenticationData](sdk-for-android-explore-com-here-sdk-core-authenticationdata "class in com.here.sdk.core") authenticationData)</span>
+    <span class="return-type">void</span> <span class="element-name">onTokenReceived</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</span>
 
     </div>
 

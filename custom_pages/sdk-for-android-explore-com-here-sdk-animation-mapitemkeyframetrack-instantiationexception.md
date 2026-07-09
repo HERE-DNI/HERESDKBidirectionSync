@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-insta
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation")
+<a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when a problem occurs while trying to create MapItemKeyFrameTrack .
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.animation.MapItemKeyFrameTrack.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.animation.MapItemKeyFrameTrack.InstantiationException">Serialized Form</a>
 
 </div>
 

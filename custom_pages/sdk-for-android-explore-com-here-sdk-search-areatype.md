@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-areatype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< AreaType \> com.here.sdk.search.AreaType → 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`AreaType`](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">`AreaType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">AreaType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">AreaType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a>\></span>
 
 </div>
 
@@ -218,7 +218,7 @@ Represents a type of area like country, state, city, county, etc.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AreaType`](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">`AreaType`</a>
 
   </div>
 
@@ -240,7 +240,7 @@ Represents a type of area like country, state, city, county, etc.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`AreaType`](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">`AreaType`</a>`[]`
 
   </div>
 
@@ -294,7 +294,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">COUNTRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">COUNTRY</span>
 
     </div>
 
@@ -312,7 +312,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">STATE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">STATE</span>
 
     </div>
 
@@ -330,7 +330,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">COUNTY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">COUNTY</span>
 
     </div>
 
@@ -348,7 +348,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">CITY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">CITY</span>
 
     </div>
 
@@ -366,7 +366,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">POSTAL_CODE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">POSTAL_CODE</span>
 
     </div>
 
@@ -384,7 +384,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">DISTRICT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">DISTRICT</span>
 
     </div>
 
@@ -402,7 +402,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">SUB_DISTRICT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">SUB_DISTRICT</span>
 
     </div>
 
@@ -424,7 +424,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -445,7 +445,7 @@ Represents a type of area like country, state, city, county, etc.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[AreaType](sdk-for-android-explore-com-here-sdk-search-areatype "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

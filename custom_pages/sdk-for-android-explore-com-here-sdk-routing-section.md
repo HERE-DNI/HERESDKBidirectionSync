@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-section"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.routing.Section → com.here.N
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Section</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Section</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocationTime`](sdk-for-android-explore-com-here-sdk-core-locationtime "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">`LocationTime`</a>
 
   </div>
 
@@ -85,7 +85,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RoutePlace`](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">`RoutePlace`</a>
 
   </div>
 
@@ -107,7 +107,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LocationTime`](sdk-for-android-explore-com-here-sdk-core-locationtime "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">`LocationTime`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`RoutePlace`](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">`RoutePlace`</a>
 
   </div>
 
@@ -195,7 +195,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -217,7 +217,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`IndoorSectionDetails`](sdk-for-android-explore-com-here-sdk-routing-indoorsectiondetails "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-indoorsectiondetails" title="class in com.here.sdk.routing">`IndoorSectionDetails`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Maneuver`](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing">`Maneuver`</a>`>`
 
   </div>
 
@@ -305,7 +305,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`ViolatedRestriction`](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">`ViolatedRestriction`</a>`>`
 
   </div>
 
@@ -327,7 +327,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PassThroughWaypoint`](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint" title="class in com.here.sdk.routing">`PassThroughWaypoint`</a>`>`
 
   </div>
 
@@ -349,7 +349,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PostAction`](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-postaction" title="class in com.here.sdk.routing">`PostAction`</a>`>`
 
   </div>
 
@@ -371,7 +371,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`PreAction`](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-preaction" title="class in com.here.sdk.routing">`PreAction`</a>`>`
 
   </div>
 
@@ -393,7 +393,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`SectionNotice`](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice" title="class in com.here.sdk.routing">`SectionNotice`</a>`>`
 
   </div>
 
@@ -415,7 +415,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`SectionTransportMode`](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode" title="enum class in com.here.sdk.routing">`SectionTransportMode`</a>
 
   </div>
 
@@ -437,7 +437,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Span`](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-span" title="class in com.here.sdk.routing">`Span`</a>`>`
 
   </div>
 
@@ -459,7 +459,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Toll`](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-toll" title="class in com.here.sdk.routing">`Toll`</a>`>`
 
   </div>
 
@@ -481,7 +481,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -503,7 +503,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TrafficIncidentOnRoute`](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" title="class in com.here.sdk.routing">`TrafficIncidentOnRoute`</a>`>`
 
   </div>
 
@@ -525,7 +525,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TransitSectionDetails`](sdk-for-android-explore-com-here-sdk-routing-transitsectiondetails "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transitsectiondetails" title="class in com.here.sdk.routing">`TransitSectionDetails`</a>
 
   </div>
 
@@ -569,7 +569,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -580,7 +580,7 @@ A section is a part of the route between two stopovers. A stopover is a location
     </div>
 
     Returns:  
-    The [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core") object representing the polyline of this section.
+    The <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a> object representing the polyline of this section.
 
     </div>
 
@@ -590,7 +590,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Span](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")\></span> <span class="element-name">getSpans</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-span" title="class in com.here.sdk.routing">Span</a>\></span> <span class="element-name">getSpans</span>()
 
     </div>
 
@@ -601,7 +601,7 @@ A section is a part of the route between two stopovers. A stopover is a location
     </div>
 
     Returns:  
-    The [`Span`](sdk-for-android-explore-com-here-sdk-routing-span "class in com.here.sdk.routing")'s that constitute this section.
+    The <a href="sdk-for-android-explore-com-here-sdk-routing-span" title="class in com.here.sdk.routing">`Span`</a>'s that constitute this section.
 
     </div>
 
@@ -611,7 +611,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Maneuver](sdk-for-android-explore-com-here-sdk-routing-maneuver "class in com.here.sdk.routing")\></span> <span class="element-name">getManeuvers</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing">Maneuver</a>\></span> <span class="element-name">getManeuvers</span>()
 
     </div>
 
@@ -632,7 +632,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">getBoundingBox</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()
 
     </div>
 
@@ -674,7 +674,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SectionTransportMode](sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode "enum class in com.here.sdk.routing")</span> <span class="element-name">getSectionTransportMode</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">getSectionTransportMode</span>()
 
     </div>
 
@@ -695,7 +695,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")</span> <span class="element-name">getDeparturePlace</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()
 
     </div>
 
@@ -716,7 +716,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RoutePlace](sdk-for-android-explore-com-here-sdk-routing-routeplace "class in com.here.sdk.routing")</span> <span class="element-name">getArrivalPlace</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()
 
     </div>
 
@@ -737,7 +737,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocationTime](sdk-for-android-explore-com-here-sdk-core-locationtime "class in com.here.sdk.core")</span> <span class="element-name">getDepartureLocationTime</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getDepartureLocationTime</span>()
 
     </div>
 
@@ -758,7 +758,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocationTime](sdk-for-android-explore-com-here-sdk-core-locationtime "class in com.here.sdk.core")</span> <span class="element-name">getArrivalLocationTime</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getArrivalLocationTime</span>()
 
     </div>
 
@@ -779,7 +779,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PreAction](sdk-for-android-explore-com-here-sdk-routing-preaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPreActions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-preaction" title="class in com.here.sdk.routing">PreAction</a>\></span> <span class="element-name">getPreActions</span>()
 
     </div>
 
@@ -800,7 +800,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PostAction](sdk-for-android-explore-com-here-sdk-routing-postaction "class in com.here.sdk.routing")\></span> <span class="element-name">getPostActions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-postaction" title="class in com.here.sdk.routing">PostAction</a>\></span> <span class="element-name">getPostActions</span>()
 
     </div>
 
@@ -821,7 +821,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[SectionNotice](sdk-for-android-explore-com-here-sdk-routing-sectionnotice "class in com.here.sdk.routing")\></span> <span class="element-name">getSectionNotices</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice" title="class in com.here.sdk.routing">SectionNotice</a>\></span> <span class="element-name">getSectionNotices</span>()
 
     </div>
 
@@ -842,7 +842,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[IndoorSectionDetails](sdk-for-android-explore-com-here-sdk-routing-indoorsectiondetails "class in com.here.sdk.routing")</span> <span class="element-name">getIndoorSectionDetails</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorsectiondetails" title="class in com.here.sdk.routing">IndoorSectionDetails</a></span> <span class="element-name">getIndoorSectionDetails</span>()
 
     </div>
 
@@ -884,7 +884,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitSectionDetails](sdk-for-android-explore-com-here-sdk-routing-transitsectiondetails "class in com.here.sdk.routing")</span> <span class="element-name">getTransitDetails</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitsectiondetails" title="class in com.here.sdk.routing">TransitSectionDetails</a></span> <span class="element-name">getTransitDetails</span>()
 
     </div>
 
@@ -905,7 +905,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Toll](sdk-for-android-explore-com-here-sdk-routing-toll "class in com.here.sdk.routing")\></span> <span class="element-name">getTolls</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-toll" title="class in com.here.sdk.routing">Toll</a>\></span> <span class="element-name">getTolls</span>()
 
     </div>
 
@@ -926,7 +926,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncidentOnRoute](sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute "class in com.here.sdk.routing")\></span> <span class="element-name">getTrafficIncidents</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>\></span> <span class="element-name">getTrafficIncidents</span>()
 
     </div>
 
@@ -947,7 +947,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()
 
     </div>
 
@@ -968,7 +968,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getTrafficDelay</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()
 
     </div>
 
@@ -989,7 +989,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PassThroughWaypoint](sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint "class in com.here.sdk.routing")\></span> <span class="element-name">getPassthroughWaypoints</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint" title="class in com.here.sdk.routing">PassThroughWaypoint</a>\></span> <span class="element-name">getPassthroughWaypoints</span>()
 
     </div>
 
@@ -1010,7 +1010,7 @@ A section is a part of the route between two stopovers. A stopover is a location
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")\></span> <span class="element-name">getNoThroughRestrictions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>\></span> <span class="element-name">getNoThroughRestrictions</span>()
 
     </div>
 

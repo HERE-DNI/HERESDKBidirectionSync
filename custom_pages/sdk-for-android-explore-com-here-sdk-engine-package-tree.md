@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 

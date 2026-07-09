@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapItemRepresentation 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.SolidRepresentation</span> <span class="extends-implements">extends [MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.SolidRepresentation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span>
 
 </div>
 
@@ -44,9 +44,9 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from class com.here.sdk.mapview.[MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")
+  ## Nested classes/interfaces inherited from class com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a>
 
-  [`MapPolyline.Representation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode "enum class in com.here.sdk.mapview"), [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">`MapPolyline.Representation.InstantiationErrorCode`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">`MapPolyline.Representation.InstantiationException`</a>
 
   </div>
 
@@ -136,7 +136,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`LineCap`](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">`LineCap`</a>
 
   </div>
 
@@ -158,7 +158,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -180,7 +180,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">`MapMeasureDependentRenderSize`</a>
 
   </div>
 
@@ -202,7 +202,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -224,7 +224,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`MapMeasureDependentRenderSize`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">`MapMeasureDependentRenderSize`</a>
 
   </div>
 
@@ -268,7 +268,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") lineWidth, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color, @NonNull [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape)</span> throws <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span>
 
     </div>
 
@@ -292,7 +292,7 @@ Representation for a solid line without outline. Can represent polylines that ha
     The cap shape applied to both ends of the polyline.
 
     Throws:  
-    [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">`MapPolyline.Representation.InstantiationException`</a> -
 
     In case of invalid input parameters.
 
@@ -304,7 +304,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr></wbr><span class="parameters">(@NonNull [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") lineWidth, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color, @NonNull [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") outlineWidth, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") outlineColor, @NonNull [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape)</span> throws <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> outlineWidth, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span>
 
     </div>
 
@@ -336,7 +336,7 @@ Representation for a solid line without outline. Can represent polylines that ha
     The cap shape applied to both ends of the polyline.
 
     Throws:  
-    [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">`MapPolyline.Representation.InstantiationException`</a> -
 
     In case of invalid input parameters.
 
@@ -352,7 +352,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")</span> <span class="element-name">getLineWidth</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getLineWidth</span>()
 
     </div>
 
@@ -373,7 +373,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getLineColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getLineColor</span>()
 
     </div>
 
@@ -394,7 +394,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")</span> <span class="element-name">getOutlineWidth</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getOutlineWidth</span>()
 
     </div>
 
@@ -415,7 +415,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getOutlineColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()
 
     </div>
 
@@ -436,7 +436,7 @@ Representation for a solid line without outline. Can represent polylines that ha
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview")</span> <span class="element-name">getCapShape</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a></span> <span class="element-name">getCapShape</span>()
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first even-row-color">
 
-  [`AllowOptions`](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">`AllowOptions`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first odd-row-color">
 
-  [`AvoidanceOptions`](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">`AvoidanceOptions`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first even-row-color">
 
-  [`ElectricVehicleOptions`](sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions" title="class in com.here.sdk.routing">`ElectricVehicleOptions`</a>
 
   </div>
 
@@ -133,7 +133,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MaxSpeedOnSegment`](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">`MaxSpeedOnSegment`</a>`>`
 
   </div>
 
@@ -155,7 +155,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first even-row-color">
 
-  [`RouteOptions`](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">`RouteOptions`</a>
 
   </div>
 
@@ -177,7 +177,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first odd-row-color">
 
-  [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">`RouteTextOptions`</a>
 
   </div>
 
@@ -199,7 +199,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first even-row-color">
 
-  [`TollOptions`](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">`TollOptions`</a>
 
   </div>
 
@@ -221,7 +221,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first odd-row-color">
 
-  [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a>
 
   </div>
 
@@ -331,7 +331,7 @@ The options defines how a route should be calculated. The options are used for a
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`RoutingOptions`](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">`RoutingOptions`</a>
 
   </div>
 
@@ -393,7 +393,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">transportSpecification</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span>
 
     </div>
 
@@ -411,7 +411,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteOptions](sdk-for-android-explore-com-here-sdk-routing-routeoptions "class in com.here.sdk.routing")</span> <span class="element-name">routeOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span>
 
     </div>
 
@@ -429,7 +429,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteTextOptions](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing")</span> <span class="element-name">textOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span>
 
     </div>
 
@@ -447,7 +447,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AvoidanceOptions](sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions "class in com.here.sdk.routing")</span> <span class="element-name">avoidanceOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span>
 
     </div>
 
@@ -465,7 +465,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AllowOptions](sdk-for-android-explore-com-here-sdk-routing-allowoptions "class in com.here.sdk.routing")</span> <span class="element-name">allowOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></span> <span class="element-name">allowOptions</span>
 
     </div>
 
@@ -483,7 +483,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TollOptions](sdk-for-android-explore-com-here-sdk-routing-tolloptions "class in com.here.sdk.routing")</span> <span class="element-name">tollOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span>
 
     </div>
 
@@ -501,7 +501,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MaxSpeedOnSegment](sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment "class in com.here.sdk.routing")\></span> <span class="element-name">maxSpeedOnSegments</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>\></span> <span class="element-name">maxSpeedOnSegments</span>
 
     </div>
 
@@ -519,7 +519,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ElectricVehicleOptions](sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions "class in com.here.sdk.routing")</span> <span class="element-name">evOptions</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions" title="class in com.here.sdk.routing">ElectricVehicleOptions</a></span> <span class="element-name">evOptions</span>
 
     </div>
 
@@ -593,7 +593,7 @@ The options defines how a route should be calculated. The options are used for a
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[RoutingOptions](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing")</span> <span class="element-name">fromDefaultParameterConfiguration</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()
 
     </div>
 
@@ -604,7 +604,7 @@ The options defines how a route should be calculated. The options are used for a
     </div>
 
     Returns:  
-    The [`RoutingOptions`](sdk-for-android-explore-com-here-sdk-routing-routingoptions "class in com.here.sdk.routing") object with the default configuration for the transport specification selected in [`ParameterConfiguration.transportSpecification`](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#transportSpecification) from [](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine#getParameterConfig())
+    The <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">`RoutingOptions`</a> object with the default configuration for the transport specification selected in <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#transportSpecification">`ParameterConfiguration.transportSpecification`</a> from [](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine#getParameterConfig())
 
         SDKNativeEngine.getParameterConfig()
 

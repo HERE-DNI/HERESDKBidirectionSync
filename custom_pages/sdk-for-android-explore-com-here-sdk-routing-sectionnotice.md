@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnotice"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Explains an issue encountered in a Section .
 
   <div class="col-first even-row-color">
 
-  [`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">`SectionNoticeCode`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Explains an issue encountered in a Section .
 
   <div class="col-first odd-row-color">
 
-  [`NoticeSeverity`](sdk-for-android-explore-com-here-sdk-routing-noticeseverity "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-noticeseverity" title="enum class in com.here.sdk.routing">`NoticeSeverity`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Explains an issue encountered in a Section .
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`ViolatedRestriction`](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">`ViolatedRestriction`</a>`>`
 
   </div>
 
@@ -261,7 +261,7 @@ Explains an issue encountered in a Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">code</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">code</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Explains an issue encountered in a Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[NoticeSeverity](sdk-for-android-explore-com-here-sdk-routing-noticeseverity "enum class in com.here.sdk.routing")</span> <span class="element-name">severity</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a></span> <span class="element-name">severity</span>
 
     </div>
 
@@ -297,7 +297,7 @@ Explains an issue encountered in a Section .
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[ViolatedRestriction](sdk-for-android-explore-com-here-sdk-routing-violatedrestriction "class in com.here.sdk.routing")\></span> <span class="element-name">violatedRestrictions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>\></span> <span class="element-name">violatedRestrictions</span>
 
     </div>
 
@@ -319,7 +319,7 @@ Explains an issue encountered in a Section .
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SectionNotice</span><wbr></wbr><span class="parameters">(@NonNull [SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing") code, @NonNull [NoticeSeverity](sdk-for-android-explore-com-here-sdk-routing-noticeseverity "enum class in com.here.sdk.routing") severity)</span>
+    <span class="modifiers">public</span> <span class="element-name">SectionNotice</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</span>
 
     </div>
 

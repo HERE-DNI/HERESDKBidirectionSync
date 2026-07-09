@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,11 +18,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Superinterfaces:  
-[`TileSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">`TileSource`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public interface </span><span class="element-name type-name-label">PointTileSource</span><span class="extends-implements"> extends [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")</span>
+<span class="modifiers">public interface </span><span class="element-name type-name-label">PointTileSource</span><span class="extends-implements"> extends <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span>
 
 </div>
 
@@ -88,9 +88,9 @@ A source of geodetic point tiles. The implementations must be thread-safe. Note:
 
   <div class="inherited-list">
 
-  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.datasource.[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+  ## Nested classes/interfaces inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a>
 
-  [`TileSource.DataVersion`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource"), [`TileSource.Listener`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener "interface in com.here.sdk.mapview.datasource"), [`TileSource.LoadTileRequestHandle`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource"), [`TileSource.TileMetadata`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">`TileSource.DataVersion`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">`TileSource.Listener`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">`TileSource.LoadTileRequestHandle`</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">`TileSource.TileMetadata`</a>
 
   </div>
 
@@ -122,7 +122,7 @@ A source of geodetic point tiles. The implementations must be thread-safe. Note:
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  [`TileSource.LoadTileRequestHandle`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">`TileSource.LoadTileRequestHandle`</a>
 
   </div>
 
@@ -148,9 +148,9 @@ A source of geodetic point tiles. The implementations must be thread-safe. Note:
 
   <div class="inherited-list">
 
-  ### Methods inherited from interface com.here.sdk.mapview.datasource.[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+  ### Methods inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a>
 
-  [`addListener`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)), [`getDataVersion`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)), [`getStorageLevels`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getStorageLevels()), [`getTilingScheme`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getTilingScheme()), [`removeListener`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener))
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener">`addListener`</a>), <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey">`getDataVersion`</a>), <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getStorageLevels(">`getStorageLevels`</a>), <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getTilingScheme(">`getTilingScheme`</a>), <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener">`removeListener`</a>)
 
   </div>
 
@@ -166,7 +166,7 @@ A source of geodetic point tiles. The implementations must be thread-safe. Note:
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="return-type">[TileSource.LoadTileRequestHandle](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource")</span> <span class="element-name">loadTile</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey, @NonNull [PointTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource") completionHandler)</span>
+    <span class="annotations">@Nullable </span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></span> <span class="element-name">loadTile</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a> completionHandler)</span>
 
     </div>
 

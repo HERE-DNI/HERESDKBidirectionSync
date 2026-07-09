@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-fueladditivetype"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< FuelAdditiveType \> com.here.sdk.transport.Fu
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`FuelAdditiveType`](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">`FuelAdditiveType`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">FuelAdditiveType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">FuelAdditiveType</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a>\></span>
 
 </div>
 
@@ -122,7 +122,7 @@ Defines possible fuel additives that a fuel could contain. Note: This is a beta 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`FuelAdditiveType`](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">`FuelAdditiveType`</a>
 
   </div>
 
@@ -144,7 +144,7 @@ Defines possible fuel additives that a fuel could contain. Note: This is a beta 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`FuelAdditiveType`](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">`FuelAdditiveType`</a>`[]`
 
   </div>
 
@@ -198,7 +198,7 @@ Defines possible fuel additives that a fuel could contain. Note: This is a beta 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")</span> <span class="element-name">AUS32</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">AUS32</span>
 
     </div>
 
@@ -220,7 +220,7 @@ Defines possible fuel additives that a fuel could contain. Note: This is a beta 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -241,7 +241,7 @@ Defines possible fuel additives that a fuel could contain. Note: This is a beta 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[FuelAdditiveType](sdk-for-android-explore-com-here-sdk-transport-fueladditivetype "enum class in com.here.sdk.transport")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

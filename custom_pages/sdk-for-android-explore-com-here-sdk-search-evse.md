@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evse"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVSEConnector`](sdk-for-android-explore-com-here-sdk-search-evseconnector "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evseconnector" title="class in com.here.sdk.search">`EVSEConnector`</a>`>`
 
   </div>
 
@@ -177,7 +177,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
   <div class="col-first odd-row-color">
 
-  [`EVSEStatus`](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evsestatus" title="enum class in com.here.sdk.search">`EVSEStatus`</a>
 
   </div>
 
@@ -381,7 +381,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVSEStatus](sdk-for-android-explore-com-here-sdk-search-evsestatus "enum class in com.here.sdk.search")</span> <span class="element-name">status</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evsestatus" title="enum class in com.here.sdk.search">EVSEStatus</a></span> <span class="element-name">status</span>
 
     </div>
 
@@ -417,7 +417,7 @@ Charge Point Operator (CPO) ID uses the Electric Vehicle Supply Equipment ID (EV
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVSEConnector](sdk-for-android-explore-com-here-sdk-search-evseconnector "class in com.here.sdk.search")\></span> <span class="element-name">connectors</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evseconnector" title="class in com.here.sdk.search">EVSEConnector</a>\></span> <span class="element-name">connectors</span>
 
     </div>
 

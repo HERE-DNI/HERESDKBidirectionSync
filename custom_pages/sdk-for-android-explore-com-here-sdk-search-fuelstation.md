@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fuelstation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains information about a specific fuel station. Use PlaceCategory.BUSINESS_A
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GenericFuel`](sdk-for-android-explore-com-here-sdk-search-genericfuel "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-genericfuel" title="class in com.here.sdk.search">`GenericFuel`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ Contains information about a specific fuel station. Use PlaceCategory.BUSINESS_A
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckFuel`](sdk-for-android-explore-com-here-sdk-search-truckfuel "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-truckfuel" title="class in com.here.sdk.search">`TruckFuel`</a>`>`
 
   </div>
 
@@ -283,7 +283,7 @@ Contains information about a specific fuel station. Use PlaceCategory.BUSINESS_A
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GenericFuel](sdk-for-android-explore-com-here-sdk-search-genericfuel "class in com.here.sdk.search")\></span> <span class="element-name">fuels</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-genericfuel" title="class in com.here.sdk.search">GenericFuel</a>\></span> <span class="element-name">fuels</span>
 
     </div>
 
@@ -301,7 +301,7 @@ Contains information about a specific fuel station. Use PlaceCategory.BUSINESS_A
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckFuel](sdk-for-android-explore-com-here-sdk-search-truckfuel "class in com.here.sdk.search")\></span> <span class="element-name">truckFuels</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-truckfuel" title="class in com.here.sdk.search">TruckFuel</a>\></span> <span class="element-name">truckFuels</span>
 
     </div>
 

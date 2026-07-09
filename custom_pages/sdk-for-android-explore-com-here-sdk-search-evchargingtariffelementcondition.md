@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondit
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
   <div class="col-first even-row-color">
 
-  [`DateRange`](sdk-for-android-explore-com-here-sdk-search-daterange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-daterange" title="class in com.here.sdk.search">`DateRange`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`DayOfWeek`](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">`DayOfWeek`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
   <div class="col-first even-row-color">
 
-  [`EVChargingDurationRange`](sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange" title="class in com.here.sdk.search">`EVChargingDurationRange`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
   <div class="col-first even-row-color">
 
-  [`TimeOfDayRange`](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">`TimeOfDayRange`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[DateRange](sdk-for-android-explore-com-here-sdk-search-daterange "class in com.here.sdk.search")</span> <span class="element-name">date</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-daterange" title="class in com.here.sdk.search">DateRange</a></span> <span class="element-name">date</span>
 
     </div>
 
@@ -323,7 +323,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[DayOfWeek](sdk-for-android-explore-com-here-sdk-search-dayofweek "enum class in com.here.sdk.search")\></span> <span class="element-name">days</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>\></span> <span class="element-name">days</span>
 
     </div>
 
@@ -341,7 +341,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TimeOfDayRange](sdk-for-android-explore-com-here-sdk-search-timeofdayrange "class in com.here.sdk.search")</span> <span class="element-name">time</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></span> <span class="element-name">time</span>
 
     </div>
 
@@ -359,7 +359,7 @@ Condition that the charging session needs to meet to apply the tariff element. T
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingDurationRange](sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange "class in com.here.sdk.search")</span> <span class="element-name">duration</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></span> <span class="element-name">duration</span>
 
     </div>
 

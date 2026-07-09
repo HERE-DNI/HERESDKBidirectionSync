@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.animation.MapPolylineAnimation
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolylineAnimation</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolylineAnimation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -177,7 +177,7 @@ An animation that can be applied to the MapPolyline object.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolylineAnimation</span><wbr></wbr><span class="parameters">(@NonNull [MapItemKeyFrameTrack](sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack "class in com.here.sdk.animation") track)</span> throws <span class="exceptions">[MapPolylineAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception "class in com.here.sdk.animation")</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolylineAnimation</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></span>
 
     </div>
 
@@ -193,9 +193,9 @@ An animation that can be applied to the MapPolyline object.
     The track holding the keyframes for the animation.
 
     Throws:  
-    [`MapPolylineAnimation.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception "class in com.here.sdk.animation") -
+    <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">`MapPolylineAnimation.InstantiationException`</a> -
 
-    If the specified keyframe track cannot be used to create animation of a [`MapPolyline`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview").
+    If the specified keyframe track cannot be used to create animation of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">`MapPolyline`</a>.
 
     </div>
 

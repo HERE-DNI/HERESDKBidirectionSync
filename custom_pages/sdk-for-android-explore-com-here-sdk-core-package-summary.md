@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
   </div>
 
@@ -49,7 +49,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
 
   </div>
 
@@ -61,7 +61,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
   </div>
 
@@ -73,7 +73,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color">
 
-  [com.here.sdk.core.utilities](sdk-for-android-explore-com-here-sdk-core-utilities-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a>
 
   </div>
 
@@ -105,7 +105,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a>
 
   </div>
 
@@ -121,7 +121,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Angle](sdk-for-android-explore-com-here-sdk-core-angle "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a>
 
   </div>
 
@@ -137,7 +137,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [AngleRange](sdk-for-android-explore-com-here-sdk-core-anglerange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-anglerange" title="class in com.here.sdk.core">AngleRange</a>
 
   </div>
 
@@ -153,7 +153,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Authentication](sdk-for-android-explore-com-here-sdk-core-authentication "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-authentication" title="class in com.here.sdk.core">Authentication</a>
 
   </div>
 
@@ -169,7 +169,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [AuthenticationCallback](sdk-for-android-explore-com-here-sdk-core-authenticationcallback "interface in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a>
 
   </div>
 
@@ -185,7 +185,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [AuthenticationData](sdk-for-android-explore-com-here-sdk-core-authenticationdata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a>
 
   </div>
 
@@ -201,7 +201,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [AuthenticationError](sdk-for-android-explore-com-here-sdk-core-authenticationerror "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a>
 
   </div>
 
@@ -217,7 +217,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab5">
 
-  [AuthenticationException](sdk-for-android-explore-com-here-sdk-core-authenticationexception "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationexception" title="class in com.here.sdk.core">AuthenticationException</a>
 
   </div>
 
@@ -233,7 +233,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [BrandLogo](sdk-for-android-explore-com-here-sdk-core-brandlogo "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">BrandLogo</a>
 
   </div>
 
@@ -249,7 +249,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [CardinalDirection](sdk-for-android-explore-com-here-sdk-core-cardinaldirection "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-cardinaldirection" title="enum class in com.here.sdk.core">CardinalDirection</a>
 
   </div>
 
@@ -265,7 +265,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>
 
   </div>
 
@@ -281,7 +281,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>
 
   </div>
 
@@ -297,7 +297,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [CurrentType](sdk-for-android-explore-com-here-sdk-core-currenttype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a>
 
   </div>
 
@@ -313,7 +313,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [CustomMetadataValue](sdk-for-android-explore-com-here-sdk-core-custommetadatavalue "interface in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue" title="interface in com.here.sdk.core">CustomMetadataValue</a>
 
   </div>
 
@@ -329,7 +329,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ExternalID](sdk-for-android-explore-com-here-sdk-core-externalid "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-externalid" title="class in com.here.sdk.core">ExternalID</a>
 
   </div>
 
@@ -345,7 +345,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>
 
   </div>
 
@@ -361,7 +361,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a>
 
   </div>
 
@@ -377,7 +377,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>
 
   </div>
 
@@ -393,7 +393,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeoCoordinatesUpdate](sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a>
 
   </div>
 
@@ -409,7 +409,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>
 
   </div>
 
@@ -425,7 +425,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeoOrientation](sdk-for-android-explore-com-here-sdk-core-geoorientation "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a>
 
   </div>
 
@@ -441,7 +441,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoOrientationUpdate](sdk-for-android-explore-com-here-sdk-core-geoorientationupdate "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a>
 
   </div>
 
@@ -457,7 +457,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>
 
   </div>
 
@@ -473,7 +473,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [GeoPolyline](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>
 
   </div>
 
@@ -489,7 +489,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [GeoPolylineDirection](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a>
 
   </div>
 
@@ -505,7 +505,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [IntegerRange](sdk-for-android-explore-com-here-sdk-core-integerrange "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a>
 
   </div>
 
@@ -521,7 +521,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>
 
   </div>
 
@@ -537,7 +537,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a>
 
   </div>
 
@@ -553,7 +553,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LocalizedTexts](sdk-for-android-explore-com-here-sdk-core-localizedtexts "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a>
 
   </div>
 
@@ -569,7 +569,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a>
 
   </div>
 
@@ -585,7 +585,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [LocationListener](sdk-for-android-explore-com-here-sdk-core-locationlistener "interface in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationlistener" title="interface in com.here.sdk.core">LocationListener</a>
 
   </div>
 
@@ -601,7 +601,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [LocationSource](sdk-for-android-explore-com-here-sdk-core-locationsource "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationsource" title="enum class in com.here.sdk.core">LocationSource</a>
 
   </div>
 
@@ -617,7 +617,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [LocationTechnology](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a>
 
   </div>
 
@@ -633,7 +633,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LocationTime](sdk-for-android-explore-com-here-sdk-core-locationtime "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationtime" title="class in com.here.sdk.core">LocationTime</a>
 
   </div>
 
@@ -649,7 +649,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a>
 
   </div>
 
@@ -665,7 +665,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [MetadataType](sdk-for-android-explore-com-here-sdk-core-metadatatype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadatatype" title="enum class in com.here.sdk.core">MetadataType</a>
 
   </div>
 
@@ -681,7 +681,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>
 
   </div>
 
@@ -697,7 +697,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [NetworkEndpoint](sdk-for-android-explore-com-here-sdk-core-networkendpoint "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>
 
   </div>
 
@@ -713,7 +713,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ParameterConfiguration](sdk-for-android-explore-com-here-sdk-core-parameterconfiguration "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a>
 
   </div>
 
@@ -729,7 +729,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PedestrianProfile](sdk-for-android-explore-com-here-sdk-core-pedestrianprofile "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a>
 
   </div>
 
@@ -746,7 +746,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PickedPlace](sdk-for-android-explore-com-here-sdk-core-pickedplace "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core">PickedPlace</a>
 
   </div>
 
@@ -762,7 +762,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a>
 
   </div>
 
@@ -778,7 +778,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Point3D](sdk-for-android-explore-com-here-sdk-core-point3d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-point3d" title="class in com.here.sdk.core">Point3D</a>
 
   </div>
 
@@ -794,7 +794,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PolylineSimplificationCallback](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback "interface in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a>
 
   </div>
 
@@ -810,7 +810,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a>
 
   </div>
 
@@ -826,7 +826,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PolylineSimplifier](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a>
 
   </div>
 
@@ -842,7 +842,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PolylineSimplifier.Options](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a>
 
   </div>
 
@@ -858,7 +858,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a>
 
   </div>
 
@@ -874,7 +874,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Rectangle2D](sdk-for-android-explore-com-here-sdk-core-rectangle2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a>
 
   </div>
 
@@ -890,7 +890,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a>
 
   </div>
 
@@ -906,7 +906,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [SDKLibraryLoader](sdk-for-android-explore-com-here-sdk-core-sdklibraryloader "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-sdklibraryloader" title="class in com.here.sdk.core">SDKLibraryLoader</a>
 
   </div>
 
@@ -922,7 +922,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [Size2D](sdk-for-android-explore-com-here-sdk-core-size2d "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a>
 
   </div>
 
@@ -938,7 +938,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TimeRule](sdk-for-android-explore-com-here-sdk-core-timerule "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a>
 
   </div>
 
@@ -954,7 +954,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TransportProfile](sdk-for-android-explore-com-here-sdk-core-transportprofile "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-transportprofile" title="class in com.here.sdk.core">TransportProfile</a>
 
   </div>
 
@@ -971,7 +971,7 @@ package <span class="element-name">com.here.sdk.core</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [UnitSystem](sdk-for-android-explore-com-here-sdk-core-unitsystem "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a>
 
   </div>
 

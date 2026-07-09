@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -165,7 +165,7 @@ The option to specify how the tolls should be calculated. Note Not used for offl
 
   <div class="col-first odd-row-color">
 
-  [`TollOptions.EmissionType`](sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">`TollOptions.EmissionType`</a>
 
   </div>
 
@@ -209,7 +209,7 @@ The option to specify how the tolls should be calculated. Note Not used for offl
 
   <div class="col-first odd-row-color">
 
-  [`TollOptions.VehicleCategory`](sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">`TollOptions.VehicleCategory`</a>
 
   </div>
 
@@ -377,7 +377,7 @@ The option to specify how the tolls should be calculated. Note Not used for offl
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TollOptions.VehicleCategory](sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory "enum class in com.here.sdk.routing")</span> <span class="element-name">vehicleCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></span> <span class="element-name">vehicleCategory</span>
 
     </div>
 
@@ -395,7 +395,7 @@ The option to specify how the tolls should be calculated. Note Not used for offl
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TollOptions.EmissionType](sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype "enum class in com.here.sdk.routing")</span> <span class="element-name">emissionType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></span> <span class="element-name">emissionType</span>
 
     </div>
 

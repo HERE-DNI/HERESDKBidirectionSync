@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.EVChargingLocation → 
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingLocation</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingLocation</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingConnectorGroup`](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">`EVChargingConnectorGroup`</a>`>`
 
   </div>
 
@@ -107,7 +107,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>`>`
 
   </div>
 
@@ -129,7 +129,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`EnergyMix`](sdk-for-android-explore-com-here-sdk-search-energymix "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix" title="class in com.here.sdk.search">`EnergyMix`</a>
 
   </div>
 
@@ -151,7 +151,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>
 
   </div>
 
@@ -173,7 +173,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`EVChargingOperator`](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">`EVChargingOperator`</a>
 
   </div>
 
@@ -195,7 +195,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVSEInfo`](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">`EVSEInfo`</a>`>`
 
   </div>
 
@@ -217,7 +217,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`FacilityType`](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">`FacilityType`</a>`>`
 
   </div>
 
@@ -283,7 +283,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`EVChargingOpeningHours`](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">`EVChargingOpeningHours`</a>
 
   </div>
 
@@ -305,7 +305,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`ParkingType`](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">`ParkingType`</a>
 
   </div>
 
@@ -327,7 +327,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVAccessRestrictionReason`](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">`EVAccessRestrictionReason`</a>`>`
 
   </div>
 
@@ -349,7 +349,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingVehicleCategory`](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">`EVChargingVehicleCategory`</a>`>`
 
   </div>
 
@@ -393,7 +393,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingTariff`](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">`EVChargingTariff`</a>`>`
 
   </div>
 
@@ -437,7 +437,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`EVChargingTruckRestriction`](sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">`EVChargingTruckRestriction`</a>
 
   </div>
 
@@ -544,7 +544,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")</span> <span class="element-name">getEvChargingOperator</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span class="element-name">getEvChargingOperator</span>()
 
     </div>
 
@@ -565,7 +565,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")</span> <span class="element-name">getEvChargingSubOperator</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a></span> <span class="element-name">getEvChargingSubOperator</span>()
 
     </div>
 
@@ -586,7 +586,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingOperator](sdk-for-android-explore-com-here-sdk-search-evchargingoperator "class in com.here.sdk.search")\></span> <span class="element-name">getEMobilityServiceProviders</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a>\></span> <span class="element-name">getEMobilityServiceProviders</span>()
 
     </div>
 
@@ -607,7 +607,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[FacilityType](sdk-for-android-explore-com-here-sdk-search-facilitytype "enum class in com.here.sdk.search")\></span> <span class="element-name">getFacilityTypes</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>\></span> <span class="element-name">getFacilityTypes</span>()
 
     </div>
 
@@ -628,7 +628,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ParkingType](sdk-for-android-explore-com-here-sdk-search-parkingtype "enum class in com.here.sdk.search")</span> <span class="element-name">getParkingType</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">getParkingType</span>()
 
     </div>
 
@@ -649,7 +649,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EnergyMix](sdk-for-android-explore-com-here-sdk-search-energymix "class in com.here.sdk.search")</span> <span class="element-name">getEnergyMix</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-energymix" title="class in com.here.sdk.search">EnergyMix</a></span> <span class="element-name">getEnergyMix</span>()
 
     </div>
 
@@ -670,7 +670,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVSEInfo](sdk-for-android-explore-com-here-sdk-search-evseinfo "class in com.here.sdk.search")\></span> <span class="element-name">getEvses</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a>\></span> <span class="element-name">getEvses</span>()
 
     </div>
 
@@ -691,7 +691,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingTariff](sdk-for-android-explore-com-here-sdk-search-evchargingtariff "class in com.here.sdk.search")\></span> <span class="element-name">getTariffs</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a>\></span> <span class="element-name">getTariffs</span>()
 
     </div>
 
@@ -712,7 +712,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingConnectorGroup](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup "class in com.here.sdk.search")\></span> <span class="element-name">getConnectorGroups</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>\></span> <span class="element-name">getConnectorGroups</span>()
 
     </div>
 
@@ -733,7 +733,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingVehicleCategory](sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory "enum class in com.here.sdk.search")\></span> <span class="element-name">getSupportedVehicles</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>\></span> <span class="element-name">getSupportedVehicles</span>()
 
     </div>
 
@@ -754,7 +754,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingTruckRestriction](sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction "class in com.here.sdk.search")</span> <span class="element-name">getTruckRestrictions</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a></span> <span class="element-name">getTruckRestrictions</span>()
 
     </div>
 
@@ -775,7 +775,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingOpeningHours](sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours "class in com.here.sdk.search")</span> <span class="element-name">getOpeningHours</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a></span> <span class="element-name">getOpeningHours</span>()
 
     </div>
 
@@ -796,7 +796,7 @@ An electric vehicle (EV) charging location. The semantics generally follow the O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">getRestrictions</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>\></span> <span class="element-name">getRestrictions</span>()
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Known Implementing Classes:  
-[`TrafficFlow`](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")
+<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflow" title="class in com.here.sdk.traffic">`TrafficFlow`</a>
 
 <div class="type-signature">
 

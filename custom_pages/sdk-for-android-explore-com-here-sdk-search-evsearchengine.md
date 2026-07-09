@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchengine"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.search.EVSearchEngine → com.
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-[`EVSearchInterface`](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")
+<a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">`EVSearchInterface`</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">EVSearchEngine</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here") implements [EVSearchInterface](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">EVSearchEngine</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a> implements <a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></span>
 
 </div>
 
@@ -124,7 +124,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TaskHandle`](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")
+  <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">`TaskHandle`</a>
 
   </div>
 
@@ -190,7 +190,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span>() throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span>() throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -201,7 +201,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
     </div>
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -213,7 +213,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span><wbr></wbr><span class="parameters">(@NonNull [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">EVSearchEngine</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -229,7 +229,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
     Instance of an existing SDKEngine.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 
@@ -245,7 +245,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOptions</span><wbr></wbr><span class="parameters">(@NonNull [EVSearchOptions](sdk-for-android-explore-com-here-sdk-search-evsearchoptions "class in com.here.sdk.search") options)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-search-evsearchoptions" title="class in com.here.sdk.search">EVSearchOptions</a> options)</span>
 
     </div>
 
@@ -268,7 +268,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> ids, @NonNull [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a>\> ids, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span>
 
     </div>
 
@@ -279,7 +279,7 @@ The EVSearchEngine API provides detailed information about charging locations. I
     </div>
 
     Specified by:  
-    [`search`](sdk-for-android-explore-com-here-sdk-search-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback)) in interface [`EVSearchInterface`](sdk-for-android-explore-com-here-sdk-search-evsearchinterface "interface in com.here.sdk.search")
+    <a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback">`search`</a>) in interface <a href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface" title="interface in com.here.sdk.search">`EVSearchInterface`</a>
 
     Parameters:  
     `ids` -

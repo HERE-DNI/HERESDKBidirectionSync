@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains information about railway crossing.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Contains information about railway crossing.
 
   <div class="col-first odd-row-color">
 
-  [`RouteOffset`](sdk-for-android-explore-com-here-sdk-routing-routeoffset "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoffset" title="class in com.here.sdk.routing">`RouteOffset`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Contains information about railway crossing.
 
   <div class="col-first even-row-color">
 
-  [`RouteRailwayCrossingType`](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">`RouteRailwayCrossingType`</a>
 
   </div>
 
@@ -199,7 +199,7 @@ Contains information about railway crossing.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteRailwayCrossingType](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -217,7 +217,7 @@ Contains information about railway crossing.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">coordinates</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span>
 
     </div>
 
@@ -235,7 +235,7 @@ Contains information about railway crossing.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteOffset](sdk-for-android-explore-com-here-sdk-routing-routeoffset "class in com.here.sdk.routing")</span> <span class="element-name">routeOffset</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a></span> <span class="element-name">routeOffset</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Contains information about railway crossing.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteRailwayCrossing</span><wbr></wbr><span class="parameters">(@NonNull [RouteRailwayCrossingType](sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype "enum class in com.here.sdk.routing") type, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates, @NonNull [RouteOffset](sdk-for-android-explore-com-here-sdk-routing-routeoffset "class in com.here.sdk.routing") routeOffset)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteRailwayCrossing</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a> type, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a> routeOffset)</span>
 
     </div>
 

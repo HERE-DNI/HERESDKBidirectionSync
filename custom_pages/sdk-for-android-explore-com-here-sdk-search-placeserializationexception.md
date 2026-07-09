@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placeserializationexception"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -39,7 +39,7 @@ Place serialization exception
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.search.PlaceSerializationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.search.PlaceSerializationException">Serialized Form</a>
 
 </div>
 

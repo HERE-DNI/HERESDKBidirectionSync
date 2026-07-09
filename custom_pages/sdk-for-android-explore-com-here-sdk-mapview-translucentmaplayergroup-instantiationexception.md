@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-ins
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[TranslucentMapLayerGroup](sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when failing to build the group.
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.mapview.TranslucentMapLayerGroup.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.TranslucentMapLayerGroup.InstantiationException">Serialized Form</a>
 
 </div>
 

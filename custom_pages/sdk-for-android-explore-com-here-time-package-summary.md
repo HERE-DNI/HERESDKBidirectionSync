@@ -37,7 +37,7 @@ package <span class="element-name">com.here.time</span>
 
   <div class="col-first even-row-color">
 
-  [com.here](sdk-for-android-explore-com-here-package-summary)
+  <a href="sdk-for-android-explore-com-here-package-summary">com.here</a>
 
   </div>
 
@@ -75,7 +75,7 @@ package <span class="element-name">com.here.time</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a>
 
   </div>
 

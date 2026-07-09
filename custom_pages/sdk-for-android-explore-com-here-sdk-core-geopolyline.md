@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -67,7 +67,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
   <div class="col-first even-row-color">
 
-  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>`>`
 
   </div>
 
@@ -175,7 +175,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -277,7 +277,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">vertices</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\></span> <span class="element-name">vertices</span>
 
     </div>
 
@@ -299,7 +299,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> vertices)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>\> vertices)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -315,7 +315,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
     List of vertices representing the polyline.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Instantiation error.
 
@@ -327,7 +327,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr></wbr><span class="parameters">(@NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") geoBox)</span>
+    <span class="modifiers">public</span> <span class="element-name">GeoPolyline</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span>
 
     </div>
 
@@ -340,7 +340,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
     Parameters:  
     `geoBox` -
 
-    A rectangle defined by the [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") to be converted into [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core"). The corner coordinates of the [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") will define the points of the resulting [`GeoPolyline`](sdk-for-android-explore-com-here-sdk-core-geopolyline "class in com.here.sdk.core").
+    A rectangle defined by the <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a> to be converted into <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>. The corner coordinates of the <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a> will define the points of the resulting <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">`GeoPolyline`</a>.
 
     </div>
 
@@ -384,7 +384,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getNearestIndexTo</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") point)</span>
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getNearestIndexTo</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> point)</span>
 
     </div>
 
@@ -410,7 +410,7 @@ A list of geographic coordinates representing the vertices of a polyline. An ins
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">coordinatesAtOffsetInMeters</span><wbr></wbr><span class="parameters">(double offsetInMeters, @NonNull [GeoPolylineDirection](sdk-for-android-explore-com-here-sdk-core-geopolylinedirection "enum class in com.here.sdk.core") direction)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinatesAtOffsetInMeters</span><wbr></wbr><span class="parameters">(double offsetInMeters, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolylinedirection" title="enum class in com.here.sdk.core">GeoPolylineDirection</a> direction)</span>
 
     </div>
 

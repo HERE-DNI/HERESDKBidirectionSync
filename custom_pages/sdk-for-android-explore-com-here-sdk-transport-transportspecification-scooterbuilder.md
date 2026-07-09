@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-sco
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.transport.TransportSpecificati
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+<a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.ScooterBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.ScooterBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -108,7 +108,7 @@ This class constructs a TransportSpecification for a scooter.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a>
 
   </div>
 
@@ -130,7 +130,7 @@ This class constructs a TransportSpecification for a scooter.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TransportSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a>
 
   </div>
 
@@ -152,7 +152,7 @@ This class constructs a TransportSpecification for a scooter.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`TransportSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a>
 
   </div>
 
@@ -218,7 +218,7 @@ This class constructs a TransportSpecification for a scooter.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withScooterSpecification</span><wbr></wbr><span class="parameters">(@NonNull [ScooterSpecification](sdk-for-android-explore-com-here-sdk-transport-scooterspecification "class in com.here.sdk.transport") scooterSpecification)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withScooterSpecification</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a> scooterSpecification)</span>
 
     </div>
 
@@ -234,7 +234,7 @@ This class constructs a TransportSpecification for a scooter.
     The scooter specification.
 
     Returns:  
-    The [`TransportSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport") object with the scooter specification set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object with the scooter specification set to the new value.
 
     </div>
 
@@ -244,7 +244,7 @@ This class constructs a TransportSpecification for a scooter.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.ScooterBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport")</span> <span class="element-name">withVehicleSpecification</span><wbr></wbr><span class="parameters">(@NonNull [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport") vehicleSpecification)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span>
 
     </div>
 
@@ -260,7 +260,7 @@ This class constructs a TransportSpecification for a scooter.
     The vehicle specification.
 
     Returns:  
-    The [`TransportSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport") object with the vehicle specification set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object with the vehicle specification set to the new value.
 
     </div>
 
@@ -270,7 +270,7 @@ This class constructs a TransportSpecification for a scooter.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()
 
     </div>
 
@@ -281,7 +281,7 @@ This class constructs a TransportSpecification for a scooter.
     </div>
 
     Returns:  
-    The [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport") object created from the [`TransportSpecification.ScooterBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder "class in com.here.sdk.transport") object.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">`TransportSpecification`</a> object created from the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">`TransportSpecification.ScooterBuilder`</a> object.
 
     </div>
 

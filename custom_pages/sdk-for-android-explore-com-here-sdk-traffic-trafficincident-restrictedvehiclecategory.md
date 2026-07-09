@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedve
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< TrafficIncident.RestrictedVehicleCategory \> 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">`TrafficIncident.RestrictedVehicleCategory`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")
+<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">TrafficIncident.RestrictedVehicleCategory</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">TrafficIncident.RestrictedVehicleCategory</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>\></span>
 
 </div>
 
@@ -319,7 +319,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">`TrafficIncident.RestrictedVehicleCategory`</a>
 
   </div>
 
@@ -341,7 +341,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">`TrafficIncident.RestrictedVehicleCategory`</a>`[]`
 
   </div>
 
@@ -395,7 +395,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">BUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">BUS</span>
 
     </div>
 
@@ -413,7 +413,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">CAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">CAR</span>
 
     </div>
 
@@ -431,7 +431,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">HEAVY_GOODS_VEHICLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">HEAVY_GOODS_VEHICLE</span>
 
     </div>
 
@@ -449,7 +449,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRUCK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRUCK</span>
 
     </div>
 
@@ -467,7 +467,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">MOTORCYCLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">MOTORCYCLE</span>
 
     </div>
 
@@ -485,7 +485,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">MOTOR_VEHICLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">MOTOR_VEHICLE</span>
 
     </div>
 
@@ -503,7 +503,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TAXI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TAXI</span>
 
     </div>
 
@@ -521,7 +521,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRAIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRAIN</span>
 
     </div>
 
@@ -539,7 +539,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRANSPORTING_ABNORMAL_SIZE_LOAD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRANSPORTING_ABNORMAL_SIZE_LOAD</span>
 
     </div>
 
@@ -557,7 +557,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRANSPORTING_HAZARDOUS_GOODS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRANSPORTING_HAZARDOUS_GOODS</span>
 
     </div>
 
@@ -575,7 +575,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">VEHICLE_WITH_TRAILER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">VEHICLE_WITH_TRAILER</span>
 
     </div>
 
@@ -593,7 +593,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">OTHER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">OTHER</span>
 
     </div>
 
@@ -611,7 +611,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">ALL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">ALL</span>
 
     </div>
 
@@ -633,7 +633,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -654,7 +654,7 @@ The vehicle categories that can be restricted. Note, a vehicle can belong to sev
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

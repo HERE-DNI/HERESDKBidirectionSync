@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.JsonStyleFactory → c
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">JsonStyleFactory</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">JsonStyleFactory</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -161,7 +161,7 @@ A factory of Style objects from styles defined in JSON format. For more details 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`Style`](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">`Style`</a>
 
   </div>
 
@@ -205,7 +205,7 @@ A factory of Style objects from styles defined in JSON format. For more details 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")</span> <span class="element-name">createFromString</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> styleString)</span> throws <span class="exceptions">[JsonStyleFactory.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception "class in com.here.sdk.mapview")</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">createFromString</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> styleString)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></span>
 
     </div>
 
@@ -224,9 +224,9 @@ A factory of Style objects from styles defined in JSON format. For more details 
     Style instance.
 
     Throws:  
-    [`JsonStyleFactory.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception "class in com.here.sdk.mapview") -
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">`JsonStyleFactory.InstantiationException`</a> -
 
-    Indicates failure to create [`Style`](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview") from JSON string.
+    Indicates failure to create <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">`Style`</a> from JSON string.
 
     </div>
 

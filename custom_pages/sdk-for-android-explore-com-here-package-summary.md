@@ -37,7 +37,7 @@ package <span class="element-name">com.here</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.time](sdk-for-android-explore-com-here-time-package-summary)
+  <a href="sdk-for-android-explore-com-here-time-package-summary">com.here.time</a>
 
   </div>
 
@@ -75,7 +75,7 @@ package <span class="element-name">com.here</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")
+  <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a>
 
   </div>
 

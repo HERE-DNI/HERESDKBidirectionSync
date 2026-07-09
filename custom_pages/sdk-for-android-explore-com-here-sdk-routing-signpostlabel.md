@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpostlabel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Details of a signpost representing a particular direction or destination.
 
   <div class="col-first even-row-color">
 
-  [`LocalizedRoadNumber`](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">`LocalizedRoadNumber`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Details of a signpost representing a particular direction or destination.
 
   <div class="col-first odd-row-color">
 
-  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">`LocalizedText`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Details of a signpost representing a particular direction or destination.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">localizedText</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">localizedText</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Details of a signpost representing a particular direction or destination.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocalizedRoadNumber](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber "class in com.here.sdk.routing")</span> <span class="element-name">localizedRoadNumber</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></span> <span class="element-name">localizedRoadNumber</span>
 
     </div>
 

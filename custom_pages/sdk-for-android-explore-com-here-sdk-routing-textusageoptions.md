@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-textusageoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-first even-row-color">
 
-  [`LocalizedTextPreference`](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">`LocalizedTextPreference`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-first odd-row-color">
 
-  [`LocalizedTextPreference`](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">`LocalizedTextPreference`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Specify whether the text should be used when generating notification.
 
   <div class="col-first even-row-color">
 
-  [`LocalizedTextPreference`](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">`LocalizedTextPreference`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Specify whether the text should be used when generating notification.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">streetName</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">streetName</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Specify whether the text should be used when generating notification.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">roadNumber</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">roadNumber</span>
 
     </div>
 
@@ -297,7 +297,7 @@ Specify whether the text should be used when generating notification.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedTextPreference](sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference "enum class in com.here.sdk.routing")</span> <span class="element-name">signpostDirection</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">signpostDirection</span>
 
     </div>
 

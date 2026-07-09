@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-p
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -18,7 +18,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-p
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[PointDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource "class in com.here.sdk.mapview.datasource")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a>
 
 <!-- -->
 
@@ -101,7 +101,7 @@ Called for each point, allowing inspection, removal or update of coordinates and
 
     <div class="member-signature">
 
-    <span class="return-type">boolean</span> <span class="element-name">process</span><wbr></wbr><span class="parameters">(@NonNull [PointDataAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor "class in com.here.sdk.mapview.datasource") pointAccessor)</span>
+    <span class="return-type">boolean</span> <span class="element-name">process</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</span>
 
     </div>
 

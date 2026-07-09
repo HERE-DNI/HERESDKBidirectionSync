@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.animation.Easing → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">Easing</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">Easing</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -193,7 +193,7 @@ Animation easing representing an easing function to be used during animations.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Easing</span><wbr></wbr><span class="parameters">(@NonNull [EasingFunction](sdk-for-android-explore-com-here-sdk-animation-easingfunction "enum class in com.here.sdk.animation") easingFunction)</span>
+    <span class="modifiers">public</span> <span class="element-name">Easing</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-animation-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</span>
 
     </div>
 
@@ -216,7 +216,7 @@ Animation easing representing an easing function to be used during animations.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Easing</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Point2D](sdk-for-android-explore-com-here-sdk-core-point2d "class in com.here.sdk.core")\> points)</span> throws <span class="exceptions">[Easing.InstantiationException](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation")</span>
+    <span class="modifiers">public</span> <span class="element-name">Easing</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a>\> points)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></span>
 
     </div>
 
@@ -232,7 +232,7 @@ Animation easing representing an easing function to be used during animations.
     List of sampled data points that define an easing function. X describes normalized time values in the range \[0, 1\]. Y describes normalized animated value changes. Values can fall outside of the range \[0, 1\]. During an animation run animated target value is multiplied with Y value. In case resulting animated target value falls outside of its own supported range it will be clamped to its range (e.g. when negative values used for color animation). X values must increase monotonically. There must be at least 2 data points specified. The first point's X value must be 0, the last point's X value must be 1. During an animation run for any given time value X' from the animation engine that satisfies the relation X(i) \< X' \< X(i+1) for the given X data points the corresponding Y' value will be calculated by linearly interpolating between Y(i) and Y(i+1) data points. The higher the sampling rate of the easing curve used for the data points the more precise the results. In order to achieve the same animation precision for animations with different durations (shorter vs longer) it is recommended to use a higher sampling rate for longer animation duration.
 
     Throws:  
-    [`Easing.InstantiationException`](sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception "class in com.here.sdk.animation") -
+    <a href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception" title="class in com.here.sdk.animation">`Easing.InstantiationException`</a> -
 
     Instantiation error in case of invalid input parameters.
 

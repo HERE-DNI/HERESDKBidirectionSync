@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingpool"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first even-row-color">
 
-  [`EVAccessType`](sdk-for-android-explore-com-here-sdk-search-evaccesstype "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype" title="enum class in com.here.sdk.search">`EVAccessType`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVAccessRestrictionReason`](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">`EVAccessRestrictionReason`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EVChargingStation`](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation" title="class in com.here.sdk.search">`EVChargingStation`</a>`>`
 
   </div>
 
@@ -155,7 +155,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first even-row-color">
 
-  [`EVChargingPoolDetails`](sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails" title="class in com.here.sdk.search">`EVChargingPoolDetails`</a>
 
   </div>
 
@@ -177,7 +177,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EMobilityServiceProvider`](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider" title="class in com.here.sdk.search">`EMobilityServiceProvider`</a>`>`
 
   </div>
 
@@ -199,7 +199,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Evse`](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-evse" title="class in com.here.sdk.search">`Evse`</a>`>`
 
   </div>
 
@@ -371,7 +371,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\></span> <span class="element-name">chargingStations</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation" title="class in com.here.sdk.search">EVChargingStation</a>\></span> <span class="element-name">chargingStations</span>
 
     </div>
 
@@ -389,7 +389,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\></span> <span class="element-name">eMobilityServiceProviders</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider" title="class in com.here.sdk.search">EMobilityServiceProvider</a>\></span> <span class="element-name">eMobilityServiceProviders</span>
 
     </div>
 
@@ -407,7 +407,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVAccessType](sdk-for-android-explore-com-here-sdk-search-evaccesstype "enum class in com.here.sdk.search")</span> <span class="element-name">access</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype" title="enum class in com.here.sdk.search">EVAccessType</a></span> <span class="element-name">access</span>
 
     </div>
 
@@ -425,7 +425,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\></span> <span class="element-name">accessRestrictionReasons</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>\></span> <span class="element-name">accessRestrictionReasons</span>
 
     </div>
 
@@ -443,7 +443,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[EVChargingPoolDetails](sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails "class in com.here.sdk.search")</span> <span class="element-name">details</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails" title="class in com.here.sdk.search">EVChargingPoolDetails</a></span> <span class="element-name">details</span>
 
     </div>
 
@@ -497,7 +497,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Evse](sdk-for-android-explore-com-here-sdk-search-evse "class in com.here.sdk.search")\></span> <span class="element-name">evseInfo</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evse" title="class in com.here.sdk.search">Evse</a>\></span> <span class="element-name">evseInfo</span>
 
     </div>
 
@@ -519,7 +519,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">EVChargingPool</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVChargingStation](sdk-for-android-explore-com-here-sdk-search-evchargingstation "class in com.here.sdk.search")\> chargingStations, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EMobilityServiceProvider](sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider "class in com.here.sdk.search")\> eMobilityServiceProviders, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EVAccessRestrictionReason](sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason "enum class in com.here.sdk.search")\> accessRestrictionReasons)</span>
+    <span class="modifiers">public</span> <span class="element-name">EVChargingPool</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evchargingstation" title="class in com.here.sdk.search">EVChargingStation</a>\> chargingStations, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-emobilityserviceprovider" title="class in com.here.sdk.search">EMobilityServiceProvider</a>\> eMobilityServiceProviders, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>\> accessRestrictionReasons)</span>
 
     </div>
 
@@ -540,7 +540,7 @@ A charging pool for electric vehicles is an area equipped with one or more charg
 
     `accessRestrictionReasons` -
 
-    Contains the list of reasons for restriction. Populated only for offline search and when access is [`EVAccessType.RESTRICTED_ACCESS`](sdk-for-android-explore-com-here-sdk-search-evaccesstype#RESTRICTED_ACCESS).
+    Contains the list of reasons for restriction. Populated only for offline search and when access is <a href="sdk-for-android-explore-com-here-sdk-search-evaccesstype#RESTRICTED_ACCESS">`EVAccessType.RESTRICTED_ACCESS`</a>.
 
     </div>
 

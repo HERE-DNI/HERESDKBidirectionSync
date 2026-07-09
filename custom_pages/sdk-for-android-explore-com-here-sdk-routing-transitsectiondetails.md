@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitsectiondetails"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Gives the details of a transit section.
 
   <div class="col-first even-row-color">
 
-  [`Agency`](sdk-for-android-explore-com-here-sdk-routing-agency "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-agency" title="class in com.here.sdk.routing">`Agency`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Gives the details of a transit section.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Attribution`](sdk-for-android-explore-com-here-sdk-routing-attribution "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-attribution" title="class in com.here.sdk.routing">`Attribution`</a>`>`
 
   </div>
 
@@ -111,7 +111,7 @@ Gives the details of a transit section.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`Fare`](sdk-for-android-explore-com-here-sdk-routing-fare "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-fare" title="class in com.here.sdk.routing">`Fare`</a>`>`
 
   </div>
 
@@ -133,7 +133,7 @@ Gives the details of a transit section.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TransitIncident`](sdk-for-android-explore-com-here-sdk-routing-transitincident "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-transitincident" title="class in com.here.sdk.routing">`TransitIncident`</a>`>`
 
   </div>
 
@@ -155,7 +155,7 @@ Gives the details of a transit section.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TransitStop`](sdk-for-android-explore-com-here-sdk-routing-transitstop "class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-routing-transitstop" title="class in com.here.sdk.routing">`TransitStop`</a>`>`
 
   </div>
 
@@ -177,7 +177,7 @@ Gives the details of a transit section.
 
   <div class="col-first odd-row-color">
 
-  [`TransitTransport`](sdk-for-android-explore-com-here-sdk-routing-transittransport "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-transittransport" title="class in com.here.sdk.routing">`TransitTransport`</a>
 
   </div>
 
@@ -327,7 +327,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TransitTransport](sdk-for-android-explore-com-here-sdk-routing-transittransport "class in com.here.sdk.routing")</span> <span class="element-name">transport</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transittransport" title="class in com.here.sdk.routing">TransitTransport</a></span> <span class="element-name">transport</span>
 
     </div>
 
@@ -345,7 +345,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TransitStop](sdk-for-android-explore-com-here-sdk-routing-transitstop "class in com.here.sdk.routing")\></span> <span class="element-name">intermediateStops</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-transitstop" title="class in com.here.sdk.routing">TransitStop</a>\></span> <span class="element-name">intermediateStops</span>
 
     </div>
 
@@ -363,7 +363,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Agency](sdk-for-android-explore-com-here-sdk-routing-agency "class in com.here.sdk.routing")</span> <span class="element-name">agency</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-agency" title="class in com.here.sdk.routing">Agency</a></span> <span class="element-name">agency</span>
 
     </div>
 
@@ -381,7 +381,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Attribution](sdk-for-android-explore-com-here-sdk-routing-attribution "class in com.here.sdk.routing")\></span> <span class="element-name">attributions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-attribution" title="class in com.here.sdk.routing">Attribution</a>\></span> <span class="element-name">attributions</span>
 
     </div>
 
@@ -399,7 +399,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Fare](sdk-for-android-explore-com-here-sdk-routing-fare "class in com.here.sdk.routing")\></span> <span class="element-name">fares</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-fare" title="class in com.here.sdk.routing">Fare</a>\></span> <span class="element-name">fares</span>
 
     </div>
 
@@ -417,7 +417,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TransitIncident](sdk-for-android-explore-com-here-sdk-routing-transitincident "class in com.here.sdk.routing")\></span> <span class="element-name">incidents</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-routing-transitincident" title="class in com.here.sdk.routing">TransitIncident</a>\></span> <span class="element-name">incidents</span>
 
     </div>
 
@@ -439,7 +439,7 @@ Gives the details of a transit section.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TransitSectionDetails</span><wbr></wbr><span class="parameters">(@NonNull [Agency](sdk-for-android-explore-com-here-sdk-routing-agency "class in com.here.sdk.routing") agency)</span>
+    <span class="modifiers">public</span> <span class="element-name">TransitSectionDetails</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-agency" title="class in com.here.sdk.routing">Agency</a> agency)</span>
 
     </div>
 

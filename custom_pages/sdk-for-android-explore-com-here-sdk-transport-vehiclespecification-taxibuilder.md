@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxib
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object com.here.NativeBase com.here.sdk.transport.VehicleSpecification
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+<a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static final class </span><span class="element-name type-name-label">VehicleSpecification.TaxiBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public static final class </span><span class="element-name type-name-label">VehicleSpecification.TaxiBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -108,7 +108,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">`VehicleSpecification`</a>
 
   </div>
 
@@ -130,7 +130,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -152,7 +152,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -174,7 +174,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -196,7 +196,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -218,7 +218,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -240,7 +240,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -262,7 +262,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -284,7 +284,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -306,7 +306,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -328,7 +328,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -350,7 +350,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -372,7 +372,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -394,7 +394,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -416,7 +416,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -438,7 +438,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -460,7 +460,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -482,7 +482,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -504,7 +504,7 @@ This class constructs a VehicleSpecification for a taxi.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a>
 
   </div>
 
@@ -570,7 +570,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withHeightInCentimeters</span><wbr></wbr><span class="parameters">(int heightInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withHeightInCentimeters</span><wbr></wbr><span class="parameters">(int heightInCentimeters)</span>
 
     </div>
 
@@ -586,7 +586,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle height in centimeters.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle height set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle height set to the new value.
 
     </div>
 
@@ -596,7 +596,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWidthInCentimeters</span><wbr></wbr><span class="parameters">(int widthInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withWidthInCentimeters</span><wbr></wbr><span class="parameters">(int widthInCentimeters)</span>
 
     </div>
 
@@ -612,7 +612,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle width in centimeters.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle width set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle width set to the new value.
 
     </div>
 
@@ -622,7 +622,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLengthInCentimeters</span><wbr></wbr><span class="parameters">(int lengthInCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withLengthInCentimeters</span><wbr></wbr><span class="parameters">(int lengthInCentimeters)</span>
 
     </div>
 
@@ -638,7 +638,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle length in centimeters.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle length set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle length set to the new value.
 
     </div>
 
@@ -648,7 +648,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withAxleCount</span><wbr></wbr><span class="parameters">(int axleCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withAxleCount</span><wbr></wbr><span class="parameters">(int axleCount)</span>
 
     </div>
 
@@ -664,7 +664,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle axle count.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the axle count set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the axle count set to the new value.
 
     </div>
 
@@ -674,7 +674,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withKingpinToRearAxleDistanceInCentimeters</span><wbr></wbr><span class="parameters">(int length)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withKingpinToRearAxleDistanceInCentimeters</span><wbr></wbr><span class="parameters">(int length)</span>
 
     </div>
 
@@ -690,7 +690,7 @@ This class constructs a VehicleSpecification for a taxi.
     The distance from kingpin to the rear axle.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the kingpin to rear axle set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the kingpin to rear axle set to the new value.
 
     </div>
 
@@ -700,7 +700,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerCount</span><wbr></wbr><span class="parameters">(int trailerCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withTrailerCount</span><wbr></wbr><span class="parameters">(int trailerCount)</span>
 
     </div>
 
@@ -716,7 +716,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle trailer count.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the trailer count set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the trailer count set to the new value.
 
     </div>
 
@@ -726,7 +726,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withPayloadCapacityInKilograms</span><wbr></wbr><span class="parameters">(int payloadCapacityInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withPayloadCapacityInKilograms</span><wbr></wbr><span class="parameters">(int payloadCapacityInKilograms)</span>
 
     </div>
 
@@ -742,7 +742,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle payload capacity in kilograms.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the payload capacity set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the payload capacity set to the new value.
 
     </div>
 
@@ -752,7 +752,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTrailerAxleCount</span><wbr></wbr><span class="parameters">(int trailerAxleCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withTrailerAxleCount</span><wbr></wbr><span class="parameters">(int trailerAxleCount)</span>
 
     </div>
 
@@ -768,7 +768,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle trailer axle count.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the trailer axle count set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the trailer axle count set to the new value.
 
     </div>
 
@@ -778,7 +778,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withGrossWeightInKilograms</span><wbr></wbr><span class="parameters">(int grossWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withGrossWeightInKilograms</span><wbr></wbr><span class="parameters">(int grossWeightInKilograms)</span>
 
     </div>
 
@@ -794,7 +794,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle gross weight in kilograms.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the gross weight set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the gross weight set to the new value.
 
     </div>
 
@@ -804,7 +804,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withCurrentWeightInKilograms</span><wbr></wbr><span class="parameters">(int currentWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withCurrentWeightInKilograms</span><wbr></wbr><span class="parameters">(int currentWeightInKilograms)</span>
 
     </div>
 
@@ -820,7 +820,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle current weight in kilograms.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the current weight set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the current weight set to the new value.
 
     </div>
 
@@ -830,7 +830,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEmptyWeightInKilograms</span><wbr></wbr><span class="parameters">(int emptyWeightInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withEmptyWeightInKilograms</span><wbr></wbr><span class="parameters">(int emptyWeightInKilograms)</span>
 
     </div>
 
@@ -846,7 +846,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle empty weight in kilograms.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the empty weight set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the empty weight set to the new value.
 
     </div>
 
@@ -856,7 +856,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withWeightPerAxleInKilograms</span><wbr></wbr><span class="parameters">(int weightPerAxleInKilograms)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withWeightPerAxleInKilograms</span><wbr></wbr><span class="parameters">(int weightPerAxleInKilograms)</span>
 
     </div>
 
@@ -872,7 +872,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle weight per axle in kilograms.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the current weight per axle set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the current weight per axle set to the new value.
 
     </div>
 
@@ -882,7 +882,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withIsCommercial</span><wbr></wbr><span class="parameters">(boolean isCommercial)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withIsCommercial</span><wbr></wbr><span class="parameters">(boolean isCommercial)</span>
 
     </div>
 
@@ -898,7 +898,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle is commercial flag.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the is commercial flag set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the is commercial flag set to the new value.
 
     </div>
 
@@ -908,7 +908,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withLastCharacterOfLicensePlate</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withLastCharacterOfLicensePlate</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</span>
 
     </div>
 
@@ -924,7 +924,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle last character of the license plate.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the last character of the licence plate set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the last character of the licence plate set to the new value.
 
     </div>
 
@@ -934,7 +934,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withEngineSizeInCubicCentimeters</span><wbr></wbr><span class="parameters">(int engineSizeInCubicCentimeters)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withEngineSizeInCubicCentimeters</span><wbr></wbr><span class="parameters">(int engineSizeInCubicCentimeters)</span>
 
     </div>
 
@@ -950,7 +950,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle engine size in cubic centimeters.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the engine size set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the engine size set to the new value.
 
     </div>
 
@@ -960,7 +960,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTiresCount</span><wbr></wbr><span class="parameters">(int tiresCount)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withTiresCount</span><wbr></wbr><span class="parameters">(int tiresCount)</span>
 
     </div>
 
@@ -976,7 +976,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle tires count.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle tires count set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle tires count set to the new value.
 
     </div>
 
@@ -986,7 +986,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTunnelCategory</span><wbr></wbr><span class="parameters">(@NonNull [TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport") tunnelCategory)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withTunnelCategory</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</span>
 
     </div>
 
@@ -1002,7 +1002,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle tunnel category.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle tunnel category set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle tunnel category set to the new value.
 
     </div>
 
@@ -1012,7 +1012,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withOccupancy</span><wbr></wbr><span class="parameters">(int occupancy)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></span> <span class="element-name">withOccupancy</span><wbr></wbr><span class="parameters">(int occupancy)</span>
 
     </div>
 
@@ -1028,7 +1028,7 @@ This class constructs a VehicleSpecification for a taxi.
     The vehicle occupants number.
 
     Returns:  
-    The [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object with the vehicle occupants number set to the new value.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object with the vehicle occupants number set to the new value.
 
     </div>
 
@@ -1038,7 +1038,7 @@ This class constructs a VehicleSpecification for a taxi.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></span> <span class="element-name">build</span>()
 
     </div>
 
@@ -1049,7 +1049,7 @@ This class constructs a VehicleSpecification for a taxi.
     </div>
 
     Returns:  
-    The [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport") object created from the [`VehicleSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder "class in com.here.sdk.transport") object.
+    The <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">`VehicleSpecification`</a> object created from the <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">`VehicleSpecification.TaxiBuilder`</a> object.
 
     </div>
 

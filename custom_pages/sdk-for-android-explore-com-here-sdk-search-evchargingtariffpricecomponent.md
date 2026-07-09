@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Represents the price component of an EV charging tariff. Note: This is a beta re
 
   <div class="col-first even-row-color">
 
-  [`EVChargingTariffDimension`](sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension "enum class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">`EVChargingTariffDimension`</a>
 
   </div>
 
@@ -283,7 +283,7 @@ Represents the price component of an EV charging tariff. Note: This is a beta re
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EVChargingTariffDimension](sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension "enum class in com.here.sdk.search")</span> <span class="element-name">dimension</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span>
 
     </div>
 

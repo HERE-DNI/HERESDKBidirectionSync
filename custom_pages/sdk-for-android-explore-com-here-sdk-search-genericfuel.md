@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-genericfuel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Contains generic fuel type info of fuel station. Note: This is a beta release of
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`FuelAdditive`](sdk-for-android-explore-com-here-sdk-search-fueladditive "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">`FuelAdditive`</a>`>`
 
   </div>
 
@@ -89,7 +89,7 @@ Contains generic fuel type info of fuel station. Note: This is a beta release of
 
   <div class="col-first odd-row-color">
 
-  [`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">`FuelType`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ Contains generic fuel type info of fuel station. Note: This is a beta release of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -257,7 +257,7 @@ Contains generic fuel type info of fuel station. Note: This is a beta release of
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[FuelAdditive](sdk-for-android-explore-com-here-sdk-search-fueladditive "class in com.here.sdk.search")\></span> <span class="element-name">additives</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>\></span> <span class="element-name">additives</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Contains generic fuel type info of fuel station. Note: This is a beta release of
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">GenericFuel</span><wbr></wbr><span class="parameters">(@NonNull [FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport") type)</span>
+    <span class="modifiers">public</span> <span class="element-name">GenericFuel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a> type)</span>
 
     </div>
 

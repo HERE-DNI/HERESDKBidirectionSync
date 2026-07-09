@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searcherror"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< SearchError \> com.here.sdk.search.SearchErro
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">`SearchError`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">SearchError</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">SearchError</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>\></span>
 
 </div>
 
@@ -522,7 +522,7 @@ Specifies possible errors that may result from a search query.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">`SearchError`</a>
 
   </div>
 
@@ -544,7 +544,7 @@ Specifies possible errors that may result from a search query.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`SearchError`](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">`SearchError`</a>`[]`
 
   </div>
 
@@ -598,7 +598,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">AUTHENTICATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">AUTHENTICATION_FAILED</span>
 
     </div>
 
@@ -616,7 +616,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">MAX_ITEMS_OUT_OF_RANGE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAX_ITEMS_OUT_OF_RANGE</span>
 
     </div>
 
@@ -634,7 +634,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">PARSING_ERROR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PARSING_ERROR</span>
 
     </div>
 
@@ -652,7 +652,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">NO_RESULTS_FOUND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">NO_RESULTS_FOUND</span>
 
     </div>
 
@@ -670,7 +670,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">HTTP_ERROR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">HTTP_ERROR</span>
 
     </div>
 
@@ -688,7 +688,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">SERVER_UNREACHABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">SERVER_UNREACHABLE</span>
 
     </div>
 
@@ -706,7 +706,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">FORBIDDEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FORBIDDEN</span>
 
     </div>
 
@@ -724,7 +724,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span>
 
     </div>
 
@@ -742,7 +742,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">OPERATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_FAILED</span>
 
     </div>
 
@@ -760,7 +760,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">OPERATION_CANCELLED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_CANCELLED</span>
 
     </div>
 
@@ -778,7 +778,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">TIMED_OUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">TIMED_OUT</span>
 
     </div>
 
@@ -796,7 +796,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">OFFLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OFFLINE</span>
 
     </div>
 
@@ -814,7 +814,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">QUERY_TOO_LONG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_TOO_LONG</span>
 
     </div>
 
@@ -832,7 +832,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">FILTER_TOO_LONG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_TOO_LONG</span>
 
     </div>
 
@@ -850,7 +850,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span>
 
     </div>
 
@@ -868,7 +868,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span>
 
     </div>
 
@@ -886,7 +886,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">QUERY_EMPTY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_EMPTY</span>
 
     </div>
 
@@ -904,7 +904,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">INVALID_AREA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_AREA</span>
 
     </div>
 
@@ -922,7 +922,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">FILTER_EMPTY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_EMPTY</span>
 
     </div>
 
@@ -940,7 +940,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">INVALID_CORRIDOR_POLYLINE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CORRIDOR_POLYLINE</span>
 
     </div>
 
@@ -958,7 +958,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">INVALID_URL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_URL</span>
 
     </div>
 
@@ -976,7 +976,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">INVALID_CUSTOM_OPTION_FORMAT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CUSTOM_OPTION_FORMAT</span>
 
     </div>
 
@@ -994,7 +994,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">INVALID_TRUCK_CLASS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_TRUCK_CLASS</span>
 
     </div>
 
@@ -1012,7 +1012,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">BAD_REQUEST</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">BAD_REQUEST</span>
 
     </div>
 
@@ -1030,7 +1030,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">MAP_NOT_READY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAP_NOT_READY</span>
 
     </div>
 
@@ -1048,7 +1048,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">LAYERS_NOT_DOWNLOADED</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">LAYERS_NOT_DOWNLOADED</span>
 
     </div>
 
@@ -1070,7 +1070,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -1091,7 +1091,7 @@ Specifies possible errors that may result from a search query.
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

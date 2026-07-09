@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-languagecode"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< LanguageCode \> com.here.sdk.core.LanguageCod
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">LanguageCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">LanguageCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>\></span>
 
 </div>
 
@@ -1898,7 +1898,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>
 
   </div>
 
@@ -1920,7 +1920,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>`[]`
 
   </div>
 
@@ -1974,7 +1974,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">EN_US</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_US</span>
 
     </div>
 
@@ -1992,7 +1992,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">AF_ZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AF_ZA</span>
 
     </div>
 
@@ -2010,7 +2010,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SQ_AL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SQ_AL</span>
 
     </div>
 
@@ -2028,7 +2028,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">AM_ET</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AM_ET</span>
 
     </div>
 
@@ -2046,7 +2046,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">AR_SA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AR_SA</span>
 
     </div>
 
@@ -2064,7 +2064,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HY_AM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HY_AM</span>
 
     </div>
 
@@ -2082,7 +2082,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">AS_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AS_IN</span>
 
     </div>
 
@@ -2100,7 +2100,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">AZ_LATN_AZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AZ_LATN_AZ</span>
 
     </div>
 
@@ -2118,7 +2118,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">BN_BD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_BD</span>
 
     </div>
 
@@ -2136,7 +2136,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">BN_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_IN</span>
 
     </div>
 
@@ -2154,7 +2154,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">EU_ES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EU_ES</span>
 
     </div>
 
@@ -2172,7 +2172,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">BE_BY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BE_BY</span>
 
     </div>
 
@@ -2190,7 +2190,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">BS_LATN_BA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BS_LATN_BA</span>
 
     </div>
 
@@ -2208,7 +2208,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">BG_BG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BG_BG</span>
 
     </div>
 
@@ -2226,7 +2226,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">CA_ES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CA_ES</span>
 
     </div>
 
@@ -2244,7 +2244,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KU_ARAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KU_ARAB</span>
 
     </div>
 
@@ -2262,7 +2262,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ZH_CN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_CN</span>
 
     </div>
 
@@ -2280,7 +2280,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ZH_HK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_HK</span>
 
     </div>
 
@@ -2298,7 +2298,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ZH_TW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_TW</span>
 
     </div>
 
@@ -2316,7 +2316,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HR_HR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HR_HR</span>
 
     </div>
 
@@ -2334,7 +2334,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">CS_CZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CS_CZ</span>
 
     </div>
 
@@ -2352,7 +2352,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">DA_DK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DA_DK</span>
 
     </div>
 
@@ -2370,7 +2370,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PRS_ARAB_AF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PRS_ARAB_AF</span>
 
     </div>
 
@@ -2388,7 +2388,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NL_BE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_BE</span>
 
     </div>
 
@@ -2406,7 +2406,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NL_NL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_NL</span>
 
     </div>
 
@@ -2424,7 +2424,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">EN_GB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_GB</span>
 
     </div>
 
@@ -2442,7 +2442,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ET_EE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ET_EE</span>
 
     </div>
 
@@ -2460,7 +2460,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">FA_IR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FA_IR</span>
 
     </div>
 
@@ -2478,7 +2478,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">FIL_PH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FIL_PH</span>
 
     </div>
 
@@ -2496,7 +2496,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">FI_FI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FI_FI</span>
 
     </div>
 
@@ -2514,7 +2514,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">FR_FR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_FR</span>
 
     </div>
 
@@ -2532,7 +2532,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">FR_CA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_CA</span>
 
     </div>
 
@@ -2550,7 +2550,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">GL_ES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GL_ES</span>
 
     </div>
 
@@ -2568,7 +2568,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KA_GE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KA_GE</span>
 
     </div>
 
@@ -2586,7 +2586,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">DE_DE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DE_DE</span>
 
     </div>
 
@@ -2604,7 +2604,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">EL_GR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EL_GR</span>
 
     </div>
 
@@ -2622,7 +2622,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">GU_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GU_IN</span>
 
     </div>
 
@@ -2640,7 +2640,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HA_LATN_NG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HA_LATN_NG</span>
 
     </div>
 
@@ -2658,7 +2658,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HE_IL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HE_IL</span>
 
     </div>
 
@@ -2676,7 +2676,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HI_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HI_IN</span>
 
     </div>
 
@@ -2694,7 +2694,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">HU_HU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HU_HU</span>
 
     </div>
 
@@ -2712,7 +2712,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">IS_IS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IS_IS</span>
 
     </div>
 
@@ -2730,7 +2730,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">IG_LATN_NG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IG_LATN_NG</span>
 
     </div>
 
@@ -2748,7 +2748,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ID_ID</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ID_ID</span>
 
     </div>
 
@@ -2766,7 +2766,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">GA_IE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GA_IE</span>
 
     </div>
 
@@ -2784,7 +2784,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">XH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">XH</span>
 
     </div>
 
@@ -2802,7 +2802,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ZU_ZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZU_ZA</span>
 
     </div>
 
@@ -2820,7 +2820,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">IT_IT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IT_IT</span>
 
     </div>
 
@@ -2838,7 +2838,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">JA_JP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">JA_JP</span>
 
     </div>
 
@@ -2856,7 +2856,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KN_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KN_IN</span>
 
     </div>
 
@@ -2874,7 +2874,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KK_KZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KK_KZ</span>
 
     </div>
 
@@ -2892,7 +2892,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KM_KH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KM_KH</span>
 
     </div>
 
@@ -2910,7 +2910,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">QUC_LATN_GT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QUC_LATN_GT</span>
 
     </div>
 
@@ -2928,7 +2928,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">RW_RW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RW_RW</span>
 
     </div>
 
@@ -2946,7 +2946,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SW</span>
 
     </div>
 
@@ -2964,7 +2964,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KOK_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KOK_IN</span>
 
     </div>
 
@@ -2982,7 +2982,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KO_KR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KO_KR</span>
 
     </div>
 
@@ -3000,7 +3000,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">KY_CYRL_KG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KY_CYRL_KG</span>
 
     </div>
 
@@ -3018,7 +3018,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">LV_LV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LV_LV</span>
 
     </div>
 
@@ -3036,7 +3036,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">LT_LT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LT_LT</span>
 
     </div>
 
@@ -3054,7 +3054,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">LB_LU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LB_LU</span>
 
     </div>
 
@@ -3072,7 +3072,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MK_MK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MK_MK</span>
 
     </div>
 
@@ -3090,7 +3090,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MS_MY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MS_MY</span>
 
     </div>
 
@@ -3108,7 +3108,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ML_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ML_IN</span>
 
     </div>
 
@@ -3126,7 +3126,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MT_MT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MT_MT</span>
 
     </div>
 
@@ -3144,7 +3144,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MI_LATN_NZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MI_LATN_NZ</span>
 
     </div>
 
@@ -3162,7 +3162,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MR_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MR_IN</span>
 
     </div>
 
@@ -3180,7 +3180,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">MN_CYRL_MN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MN_CYRL_MN</span>
 
     </div>
 
@@ -3198,7 +3198,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NE_NP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NE_NP</span>
 
     </div>
 
@@ -3216,7 +3216,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NB_NO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NB_NO</span>
 
     </div>
 
@@ -3234,7 +3234,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NN_NO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NN_NO</span>
 
     </div>
 
@@ -3252,7 +3252,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">OR_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">OR_IN</span>
 
     </div>
 
@@ -3270,7 +3270,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PL_PL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PL_PL</span>
 
     </div>
 
@@ -3288,7 +3288,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PT_BR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_BR</span>
 
     </div>
 
@@ -3306,7 +3306,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PT_PT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_PT</span>
 
     </div>
 
@@ -3324,7 +3324,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PA_GURU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_GURU</span>
 
     </div>
 
@@ -3342,7 +3342,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">PA_ARAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_ARAB</span>
 
     </div>
 
@@ -3360,7 +3360,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">QU_LATN_PE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QU_LATN_PE</span>
 
     </div>
 
@@ -3378,7 +3378,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">RO_RO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RO_RO</span>
 
     </div>
 
@@ -3396,7 +3396,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">RU_RU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RU_RU</span>
 
     </div>
 
@@ -3414,7 +3414,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">GD_LATN_GB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GD_LATN_GB</span>
 
     </div>
 
@@ -3432,7 +3432,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SR_CYRL_BA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_BA</span>
 
     </div>
 
@@ -3450,7 +3450,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SR_CYRL_RS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_RS</span>
 
     </div>
 
@@ -3468,7 +3468,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SR_LATN_RS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_LATN_RS</span>
 
     </div>
 
@@ -3486,7 +3486,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">NSO_ZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NSO_ZA</span>
 
     </div>
 
@@ -3504,7 +3504,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TN</span>
 
     </div>
 
@@ -3522,7 +3522,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SD_ARAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SD_ARAB</span>
 
     </div>
 
@@ -3540,7 +3540,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SI_LK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SI_LK</span>
 
     </div>
 
@@ -3558,7 +3558,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SK_SK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SK_SK</span>
 
     </div>
 
@@ -3576,7 +3576,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SL_SI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SL_SI</span>
 
     </div>
 
@@ -3594,7 +3594,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ES_AR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_AR</span>
 
     </div>
 
@@ -3612,7 +3612,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ES_MX</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_MX</span>
 
     </div>
 
@@ -3630,7 +3630,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">ES_ES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_ES</span>
 
     </div>
 
@@ -3648,7 +3648,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">SV_SE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SV_SE</span>
 
     </div>
 
@@ -3666,7 +3666,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TG_CYRL_TJ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TG_CYRL_TJ</span>
 
     </div>
 
@@ -3684,7 +3684,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TA</span>
 
     </div>
 
@@ -3702,7 +3702,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TT_CYRL_RU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TT_CYRL_RU</span>
 
     </div>
 
@@ -3720,7 +3720,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TE_IN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TE_IN</span>
 
     </div>
 
@@ -3738,7 +3738,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TH_TH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TH_TH</span>
 
     </div>
 
@@ -3756,7 +3756,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TI_ET</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TI_ET</span>
 
     </div>
 
@@ -3774,7 +3774,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TR_TR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TR_TR</span>
 
     </div>
 
@@ -3792,7 +3792,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">TK_LATN_TM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TK_LATN_TM</span>
 
     </div>
 
@@ -3810,7 +3810,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">UK_UA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UK_UA</span>
 
     </div>
 
@@ -3828,7 +3828,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">UR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UR</span>
 
     </div>
 
@@ -3846,7 +3846,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">UG_ARAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UG_ARAB</span>
 
     </div>
 
@@ -3864,7 +3864,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">UZ_CYRL_UZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_CYRL_UZ</span>
 
     </div>
 
@@ -3882,7 +3882,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">UZ_LATN_UZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_LATN_UZ</span>
 
     </div>
 
@@ -3900,7 +3900,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">CAT_ES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CAT_ES</span>
 
     </div>
 
@@ -3918,7 +3918,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">VI_VN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">VI_VN</span>
 
     </div>
 
@@ -3936,7 +3936,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">CY_GB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CY_GB</span>
 
     </div>
 
@@ -3954,7 +3954,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">WO_LATN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">WO_LATN</span>
 
     </div>
 
@@ -3972,7 +3972,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">YO_LATN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">YO_LATN</span>
 
     </div>
 
@@ -3994,7 +3994,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -4015,7 +4015,7 @@ This enum represents language codes. The basic naming pattern consists of a 2-le
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

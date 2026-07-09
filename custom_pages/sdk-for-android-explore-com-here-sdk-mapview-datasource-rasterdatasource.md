@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.RasterDataS
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">RasterDataSource</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">RasterDataSource</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -285,7 +285,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context, @NonNull [RasterDataSourceConfiguration](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration "class in com.here.sdk.mapview.datasource") configuration)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a> configuration)</span>
 
     </div>
 
@@ -312,7 +312,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context, @NonNull [RasterDataSourceConfiguration](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration "class in com.here.sdk.mapview.datasource") configuration, @NonNull [RasterDataSourceListener](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a> configuration, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</span>
 
     </div>
 
@@ -343,7 +343,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [RasterTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource "interface in com.here.sdk.mapview.datasource") tileSource)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a> tileSource)</span>
 
     </div>
 
@@ -374,7 +374,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [RasterTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource "interface in com.here.sdk.mapview.datasource") tileSource, @NonNull [RasterDataSourceListener](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="modifiers">public</span> <span class="element-name">RasterDataSource</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a> tileSource, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</span>
 
     </div>
 
@@ -413,7 +413,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">changeConfiguration</span><wbr></wbr><span class="parameters">(@NonNull [RasterDataSourceConfigurationUpdate](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate "class in com.here.sdk.mapview.datasource") configuration)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">changeConfiguration</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a> configuration)</span>
 
     </div>
 
@@ -436,7 +436,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull [RasterDataSourceListener](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</span>
 
     </div>
 
@@ -459,7 +459,7 @@ Data source to load map layers using a raster image format (jpg, png). The examp
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull [RasterDataSourceListener](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener "interface in com.here.sdk.mapview.datasource") listener)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</span>
 
     </div>
 

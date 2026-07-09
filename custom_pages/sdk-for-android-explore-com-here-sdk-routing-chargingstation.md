@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Data for an electric vehicle charging station.
 
   <div class="col-first even-row-color">
 
-  [`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">`NameID`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Data for an electric vehicle charging station.
 
   <div class="col-first odd-row-color">
 
-  [`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">`NameID`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Data for an electric vehicle charging station.
 
   <div class="col-first even-row-color">
 
-  [`ChargingConnectorAttributes`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">`ChargingConnectorAttributes`</a>
 
   </div>
 
@@ -155,7 +155,7 @@ Data for an electric vehicle charging station.
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`NameID`](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">`NameID`</a>`>`
 
   </div>
 
@@ -379,7 +379,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ChargingConnectorAttributes](sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes "class in com.here.sdk.routing")</span> <span class="element-name">connectorAttributes</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></span> <span class="element-name">connectorAttributes</span>
 
     </div>
 
@@ -397,7 +397,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")</span> <span class="element-name">brand</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">brand</span>
 
     </div>
 
@@ -415,7 +415,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")</span> <span class="element-name">chargePointOperator</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">chargePointOperator</span>
 
     </div>
 
@@ -433,7 +433,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")\></span> <span class="element-name">matchingEMobilityServiceProviders</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>\></span> <span class="element-name">matchingEMobilityServiceProviders</span>
 
     </div>
 
@@ -455,7 +455,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ChargingStation</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> id, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable [ChargingConnectorAttributes](sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes "class in com.here.sdk.routing") connectorAttributes)</span>
+    <span class="modifiers">public</span> <span class="element-name">ChargingStation</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> id, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</span>
 
     </div>
 
@@ -486,7 +486,7 @@ Data for an electric vehicle charging station.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ChargingStation</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> id, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable [ChargingConnectorAttributes](sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes "class in com.here.sdk.routing") connectorAttributes, @Nullable [NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core") brand, @Nullable [NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core") chargePointOperator, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[NameID](sdk-for-android-explore-com-here-sdk-core-nameid "class in com.here.sdk.core")\> matchingEMobilityServiceProviders)</span>
+    <span class="modifiers">public</span> <span class="element-name">ChargingStation</span><wbr></wbr><span class="parameters">(@Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> id, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> brand, @Nullable <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>\> matchingEMobilityServiceProviders)</span>
 
     </div>
 
@@ -511,15 +511,15 @@ Data for an electric vehicle charging station.
 
     `brand` -
 
-    Charging station brand. [`NameID.name`](sdk-for-android-explore-com-here-sdk-core-nameid#name) reflect to charging station brand name. [`NameID.id`](sdk-for-android-explore-com-here-sdk-core-nameid#id) reflect to charging station brand unique ID.
+    Charging station brand. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#name">`NameID.name`</a> reflect to charging station brand name. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#id">`NameID.id`</a> reflect to charging station brand unique ID.
 
     `chargePointOperator` -
 
-    Charging station charge-point-operator. [`NameID.name`](sdk-for-android-explore-com-here-sdk-core-nameid#name) reflect to charge-point-operator name. [`NameID.id`](sdk-for-android-explore-com-here-sdk-core-nameid#id) reflect to charge-point-operator ID.
+    Charging station charge-point-operator. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#name">`NameID.name`</a> reflect to charge-point-operator name. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#id">`NameID.id`</a> reflect to charge-point-operator ID.
 
     `matchingEMobilityServiceProviders` -
 
-    List of matched E-Mobility Service Providers. Populated only when [`ElectricVehicleOptions.evMobilityServiceProviderPreferences`](sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences) was set. This list reflects the subset of E-Mobility Service Providers supported by the charging station, from the list specified in the request parameter [`ElectricVehicleOptions.evMobilityServiceProviderPreferences`](sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences). [`NameID.name`](sdk-for-android-explore-com-here-sdk-core-nameid#name) in each list item reflect to E-Mobility Service Provider name. [`NameID.id`](sdk-for-android-explore-com-here-sdk-core-nameid#id) in each list item reflect to E-Mobility Service Provider id.
+    List of matched E-Mobility Service Providers. Populated only when <a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a> was set. This list reflects the subset of E-Mobility Service Providers supported by the charging station, from the list specified in the request parameter <a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences">`ElectricVehicleOptions.evMobilityServiceProviderPreferences`</a>. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#name">`NameID.name`</a> in each list item reflect to E-Mobility Service Provider name. <a href="sdk-for-android-explore-com-here-sdk-core-nameid#id">`NameID.id`</a> in each list item reflect to E-Mobility Service Provider id.
 
     </div>
 

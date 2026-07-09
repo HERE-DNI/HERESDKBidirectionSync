@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasourc
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.LineTileDat
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">LineTileDataSource</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LineTileDataSource</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -63,7 +63,7 @@ Line tile data source allows the rendering engine access to user managed data se
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`LineTileDataSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource "class in com.here.sdk.mapview.datasource")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource" title="class in com.here.sdk.mapview.datasource">`LineTileDataSource`</a>
 
   </div>
 
@@ -129,7 +129,7 @@ Line tile data source allows the rendering engine access to user managed data se
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type">[LineTileDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">create</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull [LineTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource "interface in com.here.sdk.mapview.datasource") tileSource)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></span> <span class="element-name">create</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a> tileSource)</span>
 
     </div>
 

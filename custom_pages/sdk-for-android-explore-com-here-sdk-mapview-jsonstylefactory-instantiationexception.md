@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory-instantiati
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -29,7 +29,7 @@ All Implemented Interfaces:
 <!-- -->
 
 Enclosing class:  
-[JsonStyleFactory](sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory "class in com.here.sdk.mapview")
+<a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a>
 
 <div class="type-signature">
 
@@ -44,7 +44,7 @@ Thrown when failing to create a Style from a JSON source.
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.mapview.JsonStyleFactory.InstantiationException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.mapview.JsonStyleFactory.InstantiationException">Serialized Form</a>
 
 </div>
 

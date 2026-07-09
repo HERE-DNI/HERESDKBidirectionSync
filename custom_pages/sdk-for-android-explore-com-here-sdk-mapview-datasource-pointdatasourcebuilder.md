@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebu
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.PointDataSo
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">PointDataSourceBuilder</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">PointDataSourceBuilder</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PointDataSource`](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">`PointDataSource`</a>
 
   </div>
 
@@ -127,7 +127,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PointDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`PointDataSourceBuilder`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PointDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`PointDataSourceBuilder`</a>
 
   </div>
 
@@ -171,7 +171,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`PointDataSourceBuilder`](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">`PointDataSourceBuilder`</a>
 
   </div>
 
@@ -215,7 +215,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">PointDataSourceBuilder</span><wbr></wbr><span class="parameters">(@NonNull [MapContext](sdk-for-android-explore-com-here-sdk-mapview-mapcontext "class in com.here.sdk.mapview") context)</span>
+    <span class="modifiers">public</span> <span class="element-name">PointDataSourceBuilder</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span>
 
     </div>
 
@@ -242,7 +242,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PointDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></span> <span class="element-name">withName</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> dataSourceName)</span>
 
     </div>
 
@@ -268,7 +268,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PointDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPoint</span><wbr></wbr><span class="parameters">(@NonNull [PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource") point)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></span> <span class="element-name">withPoint</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a> point)</span>
 
     </div>
 
@@ -294,7 +294,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PointDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">withPoints</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")\> points)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></span> <span class="element-name">withPoints</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>\> points)</span>
 
     </div>
 
@@ -320,7 +320,7 @@ Builder of points data source. Note: This is a beta release of this feature, so 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PointDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource "class in com.here.sdk.mapview.datasource")</span> <span class="element-name">build</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></span> <span class="element-name">build</span>()
 
     </div>
 

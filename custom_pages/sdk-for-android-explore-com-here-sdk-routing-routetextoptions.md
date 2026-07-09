@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Specify how textual output should be provided.
 
   <div class="col-first even-row-color">
 
-  [`LanguageCode`](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">`LanguageCode`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ Specify how textual output should be provided.
 
   <div class="col-first odd-row-color">
 
-  [`TextUsageOptions`](sdk-for-android-explore-com-here-sdk-routing-textusageoptions "class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">`TextUsageOptions`</a>
 
   </div>
 
@@ -111,7 +111,7 @@ Specify how textual output should be provided.
 
   <div class="col-first even-row-color">
 
-  [`UnitSystem`](sdk-for-android-explore-com-here-sdk-core-unitsystem "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">`UnitSystem`</a>
 
   </div>
 
@@ -261,7 +261,7 @@ Specify how textual output should be provided.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LanguageCode](sdk-for-android-explore-com-here-sdk-core-languagecode "enum class in com.here.sdk.core")</span> <span class="element-name">language</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span>
 
     </div>
 
@@ -279,7 +279,7 @@ Specify how textual output should be provided.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[UnitSystem](sdk-for-android-explore-com-here-sdk-core-unitsystem "enum class in com.here.sdk.core")</span> <span class="element-name">unitSystem</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span>
 
     </div>
 
@@ -297,7 +297,7 @@ Specify how textual output should be provided.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TextUsageOptions](sdk-for-android-explore-com-here-sdk-routing-textusageoptions "class in com.here.sdk.routing")</span> <span class="element-name">textUsageOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span>
 
     </div>
 

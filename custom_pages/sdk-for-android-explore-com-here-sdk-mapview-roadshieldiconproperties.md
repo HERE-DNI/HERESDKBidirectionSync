@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -111,7 +111,7 @@ Contains the information required to create a road shield image.
 
   <div class="col-first even-row-color">
 
-  [`RouteType`](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">`RouteType`</a>
 
   </div>
 
@@ -243,7 +243,7 @@ Contains the information required to create a road shield image.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core")</span> <span class="element-name">routeType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span>
 
     </div>
 
@@ -337,7 +337,7 @@ Contains the information required to create a road shield image.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RoadShieldIconProperties</span><wbr></wbr><span class="parameters">(@NonNull [RouteType](sdk-for-android-explore-com-here-sdk-core-routetype "enum class in com.here.sdk.core") routeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> countryCode, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> stateCode, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> routeNumberName, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> shieldText)</span>
+    <span class="modifiers">public</span> <span class="element-name">RoadShieldIconProperties</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> countryCode, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> stateCode, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> routeNumberName, @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> shieldText)</span>
 
     </div>
 
@@ -362,7 +362,7 @@ Contains the information required to create a road shield image.
 
     `routeNumberName` -
 
-    A string that is used to additionally determine the road shield's visual representation. In a routing context, the text can be taken from a `LocalizedRoadNumber`, which is available for each `Span` of a `Route` object. Typically, the string contains the number of a road, such as "E100". Internally, the text is parsed with a RegEx pattern and the results will be used along with other properties such as `routeType, countryCode` and `stateCode` to identify the visual representation of a road shield icon. Note that the actual text which will be displayed on the road shield icon is set with [`shieldText`](sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText). In order to determine the visuals of the icon, `countryCode, routeType` and eventually the `stateCode` is in most cases sufficient to determine the type of road shield. In this case an empty string should be passed. **Note:** Texts that contain a `CardinalDirection` are currently not supported and may lead to unexpected results. See `LocalizedRoadNumber` for more details, it provides texts with and without a cardinal direction.
+    A string that is used to additionally determine the road shield's visual representation. In a routing context, the text can be taken from a `LocalizedRoadNumber`, which is available for each `Span` of a `Route` object. Typically, the string contains the number of a road, such as "E100". Internally, the text is parsed with a RegEx pattern and the results will be used along with other properties such as `routeType, countryCode` and `stateCode` to identify the visual representation of a road shield icon. Note that the actual text which will be displayed on the road shield icon is set with <a href="sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText">`shieldText`</a>. In order to determine the visuals of the icon, `countryCode, routeType` and eventually the `stateCode` is in most cases sufficient to determine the type of road shield. In this case an empty string should be passed. **Note:** Texts that contain a `CardinalDirection` are currently not supported and may lead to unexpected results. See `LocalizedRoadNumber` for more details, it provides texts with and without a cardinal direction.
 
     `shieldText` -
 

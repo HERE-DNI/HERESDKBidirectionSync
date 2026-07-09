@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapPolygon → com.her
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolygon</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolygon</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -144,7 +144,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -166,7 +166,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoPolygon`](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">`GeoPolygon`</a>
 
   </div>
 
@@ -188,7 +188,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>
 
   </div>
 
@@ -210,7 +210,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`Color`](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">`Color`</a>
 
   </div>
 
@@ -254,7 +254,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapMeasureRange`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">`MapMeasureRange`</a>`>`
 
   </div>
 
@@ -452,7 +452,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span>
 
     </div>
 
@@ -479,7 +479,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") geometry, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color, @NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") outlineColor, double outlineWidthInPixels)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapPolygon</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor, double outlineWidthInPixels)</span>
 
     </div>
 
@@ -518,7 +518,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">getGeometry</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">getGeometry</span>()
 
     </div>
 
@@ -539,7 +539,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</span>
 
     </div>
 
@@ -562,7 +562,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">getMetadata</span>()
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()
 
     </div>
 
@@ -583,7 +583,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable [Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr></wbr><span class="parameters">(@Nullable <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span>
 
     </div>
 
@@ -606,7 +606,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getFillColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getFillColor</span>()
 
     </div>
 
@@ -627,7 +627,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span>
 
     </div>
 
@@ -694,7 +694,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -715,13 +715,13 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>\> value)</span>
 
     </div>
 
     <div class="block">
 
-    Sets visibility ranges for this map polygon. A range is half open - \[minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. The map polygon is visible only inside these map measure ranges. When empty (the default), the map polygon is visible without map measure restrictions. Only MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange (s) of other unsupported types will be ignored.
+    Sets visibility ranges for this map polygon. A range is half open - \<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range. The map polygon is visible only inside these map measure ranges. When empty (the default), the map polygon is visible without map measure restrictions. Only MapMeasureRange (s) of MapMeasure.Kind.ZOOM_LEVEL type are supported. MapMeasureRange (s) of other unsupported types will be ignored.
 
     </div>
 
@@ -738,7 +738,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getOutlineColor</span>()
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[Color</a></span> <span class="element-name">getOutlineColor</span>()
 
     </div>
 
@@ -759,7 +759,7 @@ A visual representation of a polygon on the map. Can be used to visualize areas 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><wbr></wbr><span class="parameters">(@NonNull [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") value)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span>
 
     </div>
 

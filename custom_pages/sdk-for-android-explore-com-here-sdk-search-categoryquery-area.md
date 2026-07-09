@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-categoryquery-area"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -24,7 +24,7 @@ java.lang.Object com.here.sdk.search.CategoryQuery.Area → com.here.sdk.search.
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 Enclosing class:  
-[CategoryQuery](sdk-for-android-explore-com-here-sdk-search-categoryquery "class in com.here.sdk.search")
+<a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a>
 
 <div class="type-signature">
 
@@ -70,7 +70,7 @@ Area to perform search on.
 
   <div class="col-first even-row-color">
 
-  `final `[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -92,7 +92,7 @@ Area to perform search on.
 
   <div class="col-first odd-row-color">
 
-  `final `[`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -114,7 +114,7 @@ Area to perform search on.
 
   <div class="col-first even-row-color">
 
-  `final `[`GeoCircle`](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">`GeoCircle`</a>
 
   </div>
 
@@ -136,7 +136,7 @@ Area to perform search on.
 
   <div class="col-first odd-row-color">
 
-  `final `[`GeoCorridor`](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")
+  `final `<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">`GeoCorridor`</a>
 
   </div>
 
@@ -334,7 +334,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">areaCenter</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span>
 
     </div>
 
@@ -352,7 +352,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">boxArea</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boxArea</span>
 
     </div>
 
@@ -370,7 +370,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type">[GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core")</span> <span class="element-name">circleArea</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a></span> <span class="element-name">circleArea</span>
 
     </div>
 
@@ -388,7 +388,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type">[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")</span> <span class="element-name">corridorArea</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></span> <span class="element-name">corridorArea</span>
 
     </div>
 
@@ -410,7 +410,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
+    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span>
 
     </div>
 
@@ -433,7 +433,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter, @NonNull [GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core") boxArea)</span>
+    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea)</span>
 
     </div>
 
@@ -460,7 +460,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter, @NonNull [GeoCircle](sdk-for-android-explore-com-here-sdk-core-geocircle "class in com.here.sdk.core") circleArea)</span>
+    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</span>
 
     </div>
 
@@ -487,7 +487,7 @@ Area to perform search on.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull [GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core") corridorArea, @NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") areaCenter)</span>
+    <span class="modifiers">public</span> <span class="element-name">Area</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea, @NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span>
 
     </div>
 

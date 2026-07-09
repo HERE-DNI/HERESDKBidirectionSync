@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ Details of the connector that is suggested to be used in the section's PostActio
 
   <div class="col-first even-row-color">
 
-  [`ChargingConnectorType`](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype" title="enum class in com.here.sdk.routing">`ChargingConnectorType`</a>
 
   </div>
 
@@ -133,7 +133,7 @@ Details of the connector that is suggested to be used in the section's PostActio
 
   <div class="col-first odd-row-color">
 
-  [`ChargingSupplyType`](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">`ChargingSupplyType`</a>
 
   </div>
 
@@ -359,7 +359,7 @@ Details of the connector that is suggested to be used in the section's PostActio
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ChargingSupplyType](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing")</span> <span class="element-name">supplyType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span>
 
     </div>
 
@@ -377,7 +377,7 @@ Details of the connector that is suggested to be used in the section's PostActio
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing")</span> <span class="element-name">connectorType</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></span> <span class="element-name">connectorType</span>
 
     </div>
 
@@ -399,7 +399,7 @@ Details of the connector that is suggested to be used in the section's PostActio
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">ChargingConnectorAttributes</span><wbr></wbr><span class="parameters">(double powerInKilowatts, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> currentInAmperes, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> voltageInVolts, @Nullable [ChargingSupplyType](sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype "enum class in com.here.sdk.routing") supplyType, @Nullable [ChargingConnectorType](sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype "enum class in com.here.sdk.routing") connectorType)</span>
+    <span class="modifiers">public</span> <span class="element-name">ChargingConnectorAttributes</span><wbr></wbr><span class="parameters">(double powerInKilowatts, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> currentInAmperes, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> voltageInVolts, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType, @Nullable <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a> connectorType)</span>
 
     </div>
 

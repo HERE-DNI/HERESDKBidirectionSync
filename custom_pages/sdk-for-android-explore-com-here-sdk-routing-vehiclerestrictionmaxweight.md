@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ VehicleRestrictionMaxWeight contains max permitted weight during the trip, in ki
 
   <div class="col-first even-row-color">
 
-  [`VehicleRestrictionMaxWeightType`](sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">`VehicleRestrictionMaxWeightType`</a>
 
   </div>
 
@@ -257,7 +257,7 @@ VehicleRestrictionMaxWeight contains max permitted weight during the trip, in ki
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[VehicleRestrictionMaxWeightType](sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -279,7 +279,7 @@ VehicleRestrictionMaxWeight contains max permitted weight during the trip, in ki
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">VehicleRestrictionMaxWeight</span><wbr></wbr><span class="parameters">(int valueInKilograms, @NonNull [VehicleRestrictionMaxWeightType](sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype "enum class in com.here.sdk.routing") type)</span>
+    <span class="modifiers">public</span> <span class="element-name">VehicleRestrictionMaxWeight</span><wbr></wbr><span class="parameters">(int valueInKilograms, @NonNull <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a> type)</span>
 
     </div>
 

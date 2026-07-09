@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< PassThroughFeature \> com.here.sdk.core.engin
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">`PassThroughFeature`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">PassThroughFeature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">PassThroughFeature</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\></span>
 
 </div>
 
@@ -186,7 +186,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">`PassThroughFeature`</a>
 
   </div>
 
@@ -208,7 +208,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`PassThroughFeature`](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">`PassThroughFeature`</a>`[]`
 
   </div>
 
@@ -262,7 +262,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRAFFIC_DATA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">TRAFFIC_DATA</span>
 
     </div>
 
@@ -280,7 +280,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRAFFIC_TILES_FLOW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">TRAFFIC_TILES_FLOW</span>
 
     </div>
 
@@ -298,7 +298,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">TRAFFIC_TILES_INCIDENTS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">TRAFFIC_TILES_INCIDENTS</span>
 
     </div>
 
@@ -316,7 +316,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">ONLINE_ROUTING</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">ONLINE_ROUTING</span>
 
     </div>
 
@@ -334,7 +334,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">ONLINE_SEARCH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">ONLINE_SEARCH</span>
 
     </div>
 
@@ -356,7 +356,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -377,7 +377,7 @@ Represents features that are allowed to consume online data when the HERE SDK's 
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[PassThroughFeature](sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

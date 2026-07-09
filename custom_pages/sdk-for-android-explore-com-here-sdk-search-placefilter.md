@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -121,7 +121,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   <div class="col-first even-row-color">
 
-  [`PlaceFilter.Ev`](sdk-for-android-explore-com-here-sdk-search-placefilter-ev "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev" title="class in com.here.sdk.search">`PlaceFilter.Ev`</a>
 
   </div>
 
@@ -143,7 +143,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`FuelType`](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">`FuelType`</a>`>`
 
   </div>
 
@@ -165,7 +165,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   <div class="col-first even-row-color">
 
-  [`TruckClass`](sdk-for-android-explore-com-here-sdk-transport-truckclass "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">`TruckClass`</a>
 
   </div>
 
@@ -187,7 +187,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`TruckFuelType`](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">`TruckFuelType`</a>`>`
 
   </div>
 
@@ -337,7 +337,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[FuelType](sdk-for-android-explore-com-here-sdk-transport-fueltype "enum class in com.here.sdk.transport")\></span> <span class="element-name">fuelTypes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>\></span> <span class="element-name">fuelTypes</span>
 
     </div>
 
@@ -355,7 +355,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TruckFuelType](sdk-for-android-explore-com-here-sdk-transport-truckfueltype "enum class in com.here.sdk.transport")\></span> <span class="element-name">truckFuelTypes</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>\></span> <span class="element-name">truckFuelTypes</span>
 
     </div>
 
@@ -373,7 +373,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckClass](sdk-for-android-explore-com-here-sdk-transport-truckclass "enum class in com.here.sdk.transport")</span> <span class="element-name">truckClass</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">truckClass</span>
 
     </div>
 
@@ -391,7 +391,7 @@ The filter options to specify a place. Consists of fuel, truck and EV options.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PlaceFilter.Ev](sdk-for-android-explore-com-here-sdk-search-placefilter-ev "class in com.here.sdk.search")</span> <span class="element-name">ev</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></span> <span class="element-name">ev</span>
 
     </div>
 

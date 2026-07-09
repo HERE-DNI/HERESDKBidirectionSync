@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -89,7 +89,7 @@ Represents a connector at the charging point. Note: This is a beta release of th
 
   <div class="col-first odd-row-color">
 
-  [`EVChargingConnectorFormat`](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat "enum class in com.here.sdk.ev")
+  <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">`EVChargingConnectorFormat`</a>
 
   </div>
 
@@ -199,7 +199,7 @@ Represents a connector at the charging point. Note: This is a beta release of th
 
   <div class="col-first even-row-color">
 
-  [`PowerType`](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">`PowerType`</a>
 
   </div>
 
@@ -429,7 +429,7 @@ Represents a connector at the charging point. Note: This is a beta release of th
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[EVChargingConnectorFormat](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat "enum class in com.here.sdk.ev")</span> <span class="element-name">format</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></span> <span class="element-name">format</span>
 
     </div>
 
@@ -447,7 +447,7 @@ Represents a connector at the charging point. Note: This is a beta release of th
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[PowerType](sdk-for-android-explore-com-here-sdk-core-powertype "enum class in com.here.sdk.core")</span> <span class="element-name">powerType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></span> <span class="element-name">powerType</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -275,7 +275,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
   <div class="col-first even-row-color">
 
-  [`PedestrianSpecification`](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification" title="class in com.here.sdk.transport">`PedestrianSpecification`</a>
 
   </div>
 
@@ -297,7 +297,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
   <div class="col-first odd-row-color">
 
-  [`ScooterSpecification`](sdk-for-android-explore-com-here-sdk-transport-scooterspecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">`ScooterSpecification`</a>
 
   </div>
 
@@ -319,7 +319,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
   <div class="col-first even-row-color">
 
-  [`TaxiSpecification`](sdk-for-android-explore-com-here-sdk-transport-taxispecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">`TaxiSpecification`</a>
 
   </div>
 
@@ -341,7 +341,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
   <div class="col-first odd-row-color">
 
-  [`TransportMode`](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">`TransportMode`</a>
 
   </div>
 
@@ -363,7 +363,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
   <div class="col-first even-row-color">
 
-  [`VehicleSpecification`](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">`VehicleSpecification`</a>
 
   </div>
 
@@ -513,7 +513,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TransportMode](sdk-for-android-explore-com-here-sdk-transport-transportmode "enum class in com.here.sdk.transport")</span> <span class="element-name">transportMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">transportMode</span>
 
     </div>
 
@@ -531,7 +531,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport")</span> <span class="element-name">vehicleSpecification</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></span> <span class="element-name">vehicleSpecification</span>
 
     </div>
 
@@ -549,7 +549,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[PedestrianSpecification](sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification "class in com.here.sdk.transport")</span> <span class="element-name">pedestrianSpecification</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></span> <span class="element-name">pedestrianSpecification</span>
 
     </div>
 
@@ -567,7 +567,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TaxiSpecification](sdk-for-android-explore-com-here-sdk-transport-taxispecification "class in com.here.sdk.transport")</span> <span class="element-name">taxiSpecification</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></span> <span class="element-name">taxiSpecification</span>
 
     </div>
 
@@ -585,7 +585,7 @@ Contains transport attributes details related to the transport mode. Notes By de
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[ScooterSpecification](sdk-for-android-explore-com-here-sdk-transport-scooterspecification "class in com.here.sdk.transport")</span> <span class="element-name">scooterSpecification</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></span> <span class="element-name">scooterSpecification</span>
 
     </div>
 

@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.MapImage → com.here.
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">MapImage</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">MapImage</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -137,7 +137,7 @@ Represents a drawable resource that can be used by a MapMarker , MapMarker3D or 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] pixelData, @NonNull [ImageFormat](sdk-for-android-explore-com-here-sdk-mapview-imageformat "enum class in com.here.sdk.mapview") imageFormat)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] pixelData, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</span>
 
     </div>
 
@@ -164,7 +164,7 @@ Represents a drawable resource that can be used by a MapMarker , MapMarker3D or 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] imageData, @NonNull [ImageFormat](sdk-for-android-explore-com-here-sdk-mapview-imageformat "enum class in com.here.sdk.mapview") imageFormat, long width, long height)</span>
+    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull byte\[\] imageData, @NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat, long width, long height)</span>
 
     </div>
 
@@ -177,7 +177,7 @@ Represents a drawable resource that can be used by a MapMarker , MapMarker3D or 
     Parameters:  
     `imageData` -
 
-    Data to be used for the image. For image format [`ImageFormat.SVG`](sdk-for-android-explore-com-here-sdk-mapview-imageformat#SVG) the bytes of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification see https://www.w3.org/TR/SVGTiny12
+    Data to be used for the image. For image format <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat#SVG">`ImageFormat.SVG`</a> the bytes of a UTF-8 encoded string in SVG Tiny format are expected. For the format specification see https://www.w3.org/TR/SVGTiny12
 
     `imageFormat` -
 
@@ -199,7 +199,7 @@ Represents a drawable resource that can be used by a MapMarker , MapMarker3D or 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> filePath, long width, long height)</span> throws <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+    <span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr></wbr><span class="parameters">(@NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> filePath, long width, long height)</span> throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span>
 
     </div>
 
@@ -223,7 +223,7 @@ Represents a drawable resource that can be used by a MapMarker , MapMarker3D or 
     The height of image in pixels.
 
     Throws:  
-    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors") -
+    <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">`InstantiationErrorException`</a> -
 
     Indicates what went wrong when the instantiation was attempted.
 

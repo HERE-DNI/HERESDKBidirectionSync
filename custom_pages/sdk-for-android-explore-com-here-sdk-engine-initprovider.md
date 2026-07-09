@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-initprovider"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.engine](sdk-for-android-explore-com-here-sdk-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-engine-package-summary">com.here.sdk.engine</a>
 
 </div>
 

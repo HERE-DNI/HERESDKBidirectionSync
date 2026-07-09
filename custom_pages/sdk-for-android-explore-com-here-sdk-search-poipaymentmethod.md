@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -492,7 +492,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMEX)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMEX">Constant Field Values</a>
 
     </div>
 
@@ -513,7 +513,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMPOL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMPOL">Constant Field Values</a>
 
     </div>
 
@@ -534,7 +534,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.ANDROID_PAY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.ANDROID_PAY">Constant Field Values</a>
 
     </div>
 
@@ -555,7 +555,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.APPLE_PAY)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.APPLE_PAY">Constant Field Values</a>
 
     </div>
 
@@ -576,7 +576,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CASH)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CASH">Constant Field Values</a>
 
     </div>
 
@@ -597,7 +597,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CHEQUE)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CHEQUE">Constant Field Values</a>
 
     </div>
 
@@ -618,7 +618,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DEBIT_CARD)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DEBIT_CARD">Constant Field Values</a>
 
     </div>
 
@@ -639,7 +639,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DINERS_CLUB)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DINERS_CLUB">Constant Field Values</a>
 
     </div>
 
@@ -660,7 +660,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DISCOVER)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DISCOVER">Constant Field Values</a>
 
     </div>
 
@@ -681,7 +681,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DKV)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DKV">Constant Field Values</a>
 
     </div>
 
@@ -702,7 +702,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.FINANCING)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.FINANCING">Constant Field Values</a>
 
     </div>
 
@@ -723,7 +723,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MASTERCARD)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MASTERCARD">Constant Field Values</a>
 
     </div>
 
@@ -744,7 +744,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MOTORPASS)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MOTORPASS">Constant Field Values</a>
 
     </div>
 
@@ -765,7 +765,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.PAYPAL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.PAYPAL">Constant Field Values</a>
 
     </div>
 
@@ -786,7 +786,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.SHELL)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.SHELL">Constant Field Values</a>
 
     </div>
 
@@ -807,7 +807,7 @@ Holds constants that represent payment methods. See POIPaymentDetails for usage.
     </div>
 
     See Also:  
-    - [Constant Field Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.VISA)
+    - <a href="sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.VISA">Constant Field Values</a>
 
     </div>
 

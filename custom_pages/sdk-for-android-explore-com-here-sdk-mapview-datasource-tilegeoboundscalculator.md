@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a>
 
 </div>
 
@@ -25,7 +25,7 @@ java.lang.Object com.here.NativeBase com.here.sdk.mapview.datasource.TileGeoBoun
 
 <div class="type-signature">
 
-<span class="modifiers">public final class </span><span class="element-name type-name-label">TileGeoBoundsCalculator</span> <span class="extends-implements">extends [NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+<span class="modifiers">public final class </span><span class="element-name type-name-label">TileGeoBoundsCalculator</span> <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span>
 
 </div>
 
@@ -105,7 +105,7 @@ A calculator of geodetic bounds for tiles identified by keys generated in a part
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">`GeoBox`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ A calculator of geodetic bounds for tiles identified by keys generated in a part
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">TileGeoBoundsCalculator</span><wbr></wbr><span class="parameters">(@NonNull [TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource") tilingScheme)</span>
+    <span class="modifiers">public</span> <span class="element-name">TileGeoBoundsCalculator</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</span>
 
     </div>
 
@@ -176,7 +176,7 @@ A calculator of geodetic bounds for tiles identified by keys generated in a part
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")</span> <span class="element-name">boundsOf</span><wbr></wbr><span class="parameters">(@NonNull [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey)</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundsOf</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span>
 
     </div>
 
@@ -189,10 +189,10 @@ A calculator of geodetic bounds for tiles identified by keys generated in a part
     Parameters:  
     `tileKey` -
 
-    [`TileKey`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") to compute geodetic bounds for. The geodetic bounds would be calculated relative to the tiling scheme provided at this [`TileGeoBoundsCalculator`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator "class in com.here.sdk.mapview.datasource") instance creation.
+    <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">`TileKey`</a> to compute geodetic bounds for. The geodetic bounds would be calculated relative to the tiling scheme provided at this <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource">`TileGeoBoundsCalculator`</a> instance creation.
 
     Returns:  
-    The geodetic bounds of tile identified by given [`TileKey`](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource").
+    The geodetic bounds of tile identified by given <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">`TileKey`</a>.
 
     </div>
 

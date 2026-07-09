@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a>
 
 </div>
 
@@ -67,7 +67,7 @@ The main street name or road number for a route. A route can contain more than o
 
   <div class="col-first even-row-color">
 
-  [`LocalizedText`](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">`LocalizedText`</a>
 
   </div>
 
@@ -89,7 +89,7 @@ The main street name or road number for a route. A route can contain more than o
 
   <div class="col-first odd-row-color">
 
-  [`RouteLabelType`](sdk-for-android-explore-com-here-sdk-routing-routelabeltype "enum class in com.here.sdk.routing")
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">`RouteLabelType`</a>
 
   </div>
 
@@ -239,7 +239,7 @@ The main street name or road number for a route. A route can contain more than o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core")</span> <span class="element-name">name</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">name</span>
 
     </div>
 
@@ -257,7 +257,7 @@ The main street name or road number for a route. A route can contain more than o
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[RouteLabelType](sdk-for-android-explore-com-here-sdk-routing-routelabeltype "enum class in com.here.sdk.routing")</span> <span class="element-name">type</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span>
 
     </div>
 
@@ -279,7 +279,7 @@ The main street name or road number for a route. A route can contain more than o
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">RouteLabel</span><wbr></wbr><span class="parameters">(@NonNull [LocalizedText](sdk-for-android-explore-com-here-sdk-core-localizedtext "class in com.here.sdk.core") name)</span>
+    <span class="modifiers">public</span> <span class="element-name">RouteLabel</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</span>
 
     </div>
 

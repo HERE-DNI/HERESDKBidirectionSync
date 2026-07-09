@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-countrycode"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -24,11 +24,11 @@ java.lang.Object java.lang.Enum \< CountryCode \> com.here.sdk.core.CountryCode 
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">`CountryCode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
-<span class="modifiers">public enum </span><span class="element-name type-name-label">CountryCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span>
+<span class="modifiers">public enum </span><span class="element-name type-name-label">CountryCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>\></span>
 
 </div>
 
@@ -3978,7 +3978,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">`CountryCode`</a>
 
   </div>
 
@@ -4000,7 +4000,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`CountryCode`](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">`CountryCode`</a>`[]`
 
   </div>
 
@@ -4054,7 +4054,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ABW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ABW</span>
 
     </div>
 
@@ -4072,7 +4072,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AFG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AFG</span>
 
     </div>
 
@@ -4090,7 +4090,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AGO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AGO</span>
 
     </div>
 
@@ -4108,7 +4108,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AIA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AIA</span>
 
     </div>
 
@@ -4126,7 +4126,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ALB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ALB</span>
 
     </div>
 
@@ -4144,7 +4144,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AND</span>
 
     </div>
 
@@ -4162,7 +4162,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ARE</span>
 
     </div>
 
@@ -4180,7 +4180,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ARG</span>
 
     </div>
 
@@ -4198,7 +4198,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ARM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ARM</span>
 
     </div>
 
@@ -4216,7 +4216,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ASM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ASM</span>
 
     </div>
 
@@ -4234,7 +4234,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ATA</span>
 
     </div>
 
@@ -4252,7 +4252,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ATG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ATG</span>
 
     </div>
 
@@ -4270,7 +4270,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AUS</span>
 
     </div>
 
@@ -4288,7 +4288,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AUT</span>
 
     </div>
 
@@ -4306,7 +4306,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">AZE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">AZE</span>
 
     </div>
 
@@ -4324,7 +4324,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BDI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BDI</span>
 
     </div>
 
@@ -4342,7 +4342,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BEL</span>
 
     </div>
 
@@ -4360,7 +4360,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BEN</span>
 
     </div>
 
@@ -4378,7 +4378,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BES</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BES</span>
 
     </div>
 
@@ -4396,7 +4396,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BFA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BFA</span>
 
     </div>
 
@@ -4414,7 +4414,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BGD</span>
 
     </div>
 
@@ -4432,7 +4432,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BGR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BGR</span>
 
     </div>
 
@@ -4450,7 +4450,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BHR</span>
 
     </div>
 
@@ -4468,7 +4468,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BHS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BHS</span>
 
     </div>
 
@@ -4486,7 +4486,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BIH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BIH</span>
 
     </div>
 
@@ -4504,7 +4504,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BLM</span>
 
     </div>
 
@@ -4522,7 +4522,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BLR</span>
 
     </div>
 
@@ -4540,7 +4540,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BLZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BLZ</span>
 
     </div>
 
@@ -4558,7 +4558,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BMU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BMU</span>
 
     </div>
 
@@ -4576,7 +4576,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BOL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BOL</span>
 
     </div>
 
@@ -4594,7 +4594,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BRA</span>
 
     </div>
 
@@ -4612,7 +4612,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BRB</span>
 
     </div>
 
@@ -4630,7 +4630,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BRN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BRN</span>
 
     </div>
 
@@ -4648,7 +4648,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BTN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BTN</span>
 
     </div>
 
@@ -4666,7 +4666,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">BWA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">BWA</span>
 
     </div>
 
@@ -4684,7 +4684,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CAF</span>
 
     </div>
 
@@ -4702,7 +4702,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CAN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CAN</span>
 
     </div>
 
@@ -4720,7 +4720,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CCK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CCK</span>
 
     </div>
 
@@ -4738,7 +4738,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CHE</span>
 
     </div>
 
@@ -4756,7 +4756,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CHL</span>
 
     </div>
 
@@ -4774,7 +4774,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CHN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CHN</span>
 
     </div>
 
@@ -4792,7 +4792,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CIV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CIV</span>
 
     </div>
 
@@ -4810,7 +4810,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CMR</span>
 
     </div>
 
@@ -4828,7 +4828,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">COD</span>
 
     </div>
 
@@ -4846,7 +4846,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">COG</span>
 
     </div>
 
@@ -4864,7 +4864,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">COK</span>
 
     </div>
 
@@ -4882,7 +4882,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">COL</span>
 
     </div>
 
@@ -4900,7 +4900,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">COM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">COM</span>
 
     </div>
 
@@ -4918,7 +4918,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CPV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CPV</span>
 
     </div>
 
@@ -4936,7 +4936,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CRI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CRI</span>
 
     </div>
 
@@ -4954,7 +4954,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CUB</span>
 
     </div>
 
@@ -4972,7 +4972,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CUW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CUW</span>
 
     </div>
 
@@ -4990,7 +4990,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CXR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CXR</span>
 
     </div>
 
@@ -5008,7 +5008,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CYM</span>
 
     </div>
 
@@ -5026,7 +5026,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CYP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CYP</span>
 
     </div>
 
@@ -5044,7 +5044,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">CZE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">CZE</span>
 
     </div>
 
@@ -5062,7 +5062,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DEU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DEU</span>
 
     </div>
 
@@ -5080,7 +5080,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DJI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DJI</span>
 
     </div>
 
@@ -5098,7 +5098,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DMA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DMA</span>
 
     </div>
 
@@ -5116,7 +5116,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DNK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DNK</span>
 
     </div>
 
@@ -5134,7 +5134,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DOM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DOM</span>
 
     </div>
 
@@ -5152,7 +5152,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">DZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">DZA</span>
 
     </div>
 
@@ -5170,7 +5170,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ECU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ECU</span>
 
     </div>
 
@@ -5188,7 +5188,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EGY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">EGY</span>
 
     </div>
 
@@ -5206,7 +5206,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ERI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ERI</span>
 
     </div>
 
@@ -5224,7 +5224,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ESH</span>
 
     </div>
 
@@ -5242,7 +5242,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ESP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ESP</span>
 
     </div>
 
@@ -5260,7 +5260,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">EST</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">EST</span>
 
     </div>
 
@@ -5278,7 +5278,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ETH</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ETH</span>
 
     </div>
 
@@ -5296,7 +5296,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FIN</span>
 
     </div>
 
@@ -5314,7 +5314,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FJI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FJI</span>
 
     </div>
 
@@ -5332,7 +5332,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FLK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FLK</span>
 
     </div>
 
@@ -5350,7 +5350,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FRA</span>
 
     </div>
 
@@ -5368,7 +5368,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FRO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FRO</span>
 
     </div>
 
@@ -5386,7 +5386,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">FSM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">FSM</span>
 
     </div>
 
@@ -5404,7 +5404,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GAB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GAB</span>
 
     </div>
 
@@ -5422,7 +5422,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GBR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GBR</span>
 
     </div>
 
@@ -5440,7 +5440,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GEO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GEO</span>
 
     </div>
 
@@ -5458,7 +5458,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GHA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GHA</span>
 
     </div>
 
@@ -5476,7 +5476,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GIB</span>
 
     </div>
 
@@ -5494,7 +5494,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GIN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GIN</span>
 
     </div>
 
@@ -5512,7 +5512,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GLP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GLP</span>
 
     </div>
 
@@ -5530,7 +5530,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GMB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GMB</span>
 
     </div>
 
@@ -5548,7 +5548,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GNB</span>
 
     </div>
 
@@ -5566,7 +5566,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GNQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GNQ</span>
 
     </div>
 
@@ -5584,7 +5584,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GRC</span>
 
     </div>
 
@@ -5602,7 +5602,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GRD</span>
 
     </div>
 
@@ -5620,7 +5620,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GRL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GRL</span>
 
     </div>
 
@@ -5638,7 +5638,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GTM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GTM</span>
 
     </div>
 
@@ -5656,7 +5656,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GUF</span>
 
     </div>
 
@@ -5674,7 +5674,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GUM</span>
 
     </div>
 
@@ -5692,7 +5692,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">GUY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">GUY</span>
 
     </div>
 
@@ -5710,7 +5710,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HKG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">HKG</span>
 
     </div>
 
@@ -5728,7 +5728,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">HND</span>
 
     </div>
 
@@ -5746,7 +5746,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HRV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">HRV</span>
 
     </div>
 
@@ -5764,7 +5764,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HTI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">HTI</span>
 
     </div>
 
@@ -5782,7 +5782,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">HUN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">HUN</span>
 
     </div>
 
@@ -5800,7 +5800,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IDN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IDN</span>
 
     </div>
 
@@ -5818,7 +5818,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IMN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IMN</span>
 
     </div>
 
@@ -5836,7 +5836,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IND</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IND</span>
 
     </div>
 
@@ -5854,7 +5854,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IOT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IOT</span>
 
     </div>
 
@@ -5872,7 +5872,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IRL</span>
 
     </div>
 
@@ -5890,7 +5890,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IRN</span>
 
     </div>
 
@@ -5908,7 +5908,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">IRQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">IRQ</span>
 
     </div>
 
@@ -5926,7 +5926,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ISL</span>
 
     </div>
 
@@ -5944,7 +5944,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ISR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ISR</span>
 
     </div>
 
@@ -5962,7 +5962,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ITA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ITA</span>
 
     </div>
 
@@ -5980,7 +5980,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JAM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">JAM</span>
 
     </div>
 
@@ -5998,7 +5998,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">JOR</span>
 
     </div>
 
@@ -6016,7 +6016,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">JPN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">JPN</span>
 
     </div>
 
@@ -6034,7 +6034,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KAZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KAZ</span>
 
     </div>
 
@@ -6052,7 +6052,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KEN</span>
 
     </div>
 
@@ -6070,7 +6070,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KGZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KGZ</span>
 
     </div>
 
@@ -6088,7 +6088,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KHM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KHM</span>
 
     </div>
 
@@ -6106,7 +6106,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KIR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KIR</span>
 
     </div>
 
@@ -6124,7 +6124,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KNA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KNA</span>
 
     </div>
 
@@ -6142,7 +6142,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KOR</span>
 
     </div>
 
@@ -6160,7 +6160,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">KWT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">KWT</span>
 
     </div>
 
@@ -6178,7 +6178,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LAO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LAO</span>
 
     </div>
 
@@ -6196,7 +6196,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LBN</span>
 
     </div>
 
@@ -6214,7 +6214,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LBR</span>
 
     </div>
 
@@ -6232,7 +6232,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LBY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LBY</span>
 
     </div>
 
@@ -6250,7 +6250,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LCA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LCA</span>
 
     </div>
 
@@ -6268,7 +6268,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LIE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LIE</span>
 
     </div>
 
@@ -6286,7 +6286,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LKA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LKA</span>
 
     </div>
 
@@ -6304,7 +6304,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LSO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LSO</span>
 
     </div>
 
@@ -6322,7 +6322,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LTU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LTU</span>
 
     </div>
 
@@ -6340,7 +6340,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LUX</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LUX</span>
 
     </div>
 
@@ -6358,7 +6358,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">LVA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">LVA</span>
 
     </div>
 
@@ -6376,7 +6376,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MAC</span>
 
     </div>
 
@@ -6394,7 +6394,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MAF</span>
 
     </div>
 
@@ -6412,7 +6412,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MAR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MAR</span>
 
     </div>
 
@@ -6430,7 +6430,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MCO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MCO</span>
 
     </div>
 
@@ -6448,7 +6448,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MDA</span>
 
     </div>
 
@@ -6466,7 +6466,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MDG</span>
 
     </div>
 
@@ -6484,7 +6484,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MDV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MDV</span>
 
     </div>
 
@@ -6502,7 +6502,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MEX</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MEX</span>
 
     </div>
 
@@ -6520,7 +6520,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MHL</span>
 
     </div>
 
@@ -6538,7 +6538,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MKD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MKD</span>
 
     </div>
 
@@ -6556,7 +6556,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MLI</span>
 
     </div>
 
@@ -6574,7 +6574,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MLT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MLT</span>
 
     </div>
 
@@ -6592,7 +6592,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MMR</span>
 
     </div>
 
@@ -6610,7 +6610,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MNE</span>
 
     </div>
 
@@ -6628,7 +6628,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MNG</span>
 
     </div>
 
@@ -6646,7 +6646,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MNP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MNP</span>
 
     </div>
 
@@ -6664,7 +6664,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MOZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MOZ</span>
 
     </div>
 
@@ -6682,7 +6682,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MRT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MRT</span>
 
     </div>
 
@@ -6700,7 +6700,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MSR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MSR</span>
 
     </div>
 
@@ -6718,7 +6718,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MTQ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MTQ</span>
 
     </div>
 
@@ -6736,7 +6736,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MUS</span>
 
     </div>
 
@@ -6754,7 +6754,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MWI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MWI</span>
 
     </div>
 
@@ -6772,7 +6772,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MYS</span>
 
     </div>
 
@@ -6790,7 +6790,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">MYT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">MYT</span>
 
     </div>
 
@@ -6808,7 +6808,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NAM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NAM</span>
 
     </div>
 
@@ -6826,7 +6826,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NCL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NCL</span>
 
     </div>
 
@@ -6844,7 +6844,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NER</span>
 
     </div>
 
@@ -6862,7 +6862,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NFK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NFK</span>
 
     </div>
 
@@ -6880,7 +6880,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NGA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NGA</span>
 
     </div>
 
@@ -6898,7 +6898,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NIC</span>
 
     </div>
 
@@ -6916,7 +6916,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NIU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NIU</span>
 
     </div>
 
@@ -6934,7 +6934,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NLD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NLD</span>
 
     </div>
 
@@ -6952,7 +6952,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NOR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NOR</span>
 
     </div>
 
@@ -6970,7 +6970,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NPL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NPL</span>
 
     </div>
 
@@ -6988,7 +6988,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NRU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NRU</span>
 
     </div>
 
@@ -7006,7 +7006,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">NZL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">NZL</span>
 
     </div>
 
@@ -7024,7 +7024,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">OMN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">OMN</span>
 
     </div>
 
@@ -7042,7 +7042,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PAK</span>
 
     </div>
 
@@ -7060,7 +7060,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PAN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PAN</span>
 
     </div>
 
@@ -7078,7 +7078,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PCN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PCN</span>
 
     </div>
 
@@ -7096,7 +7096,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PER</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PER</span>
 
     </div>
 
@@ -7114,7 +7114,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PHL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PHL</span>
 
     </div>
 
@@ -7132,7 +7132,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PLW</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PLW</span>
 
     </div>
 
@@ -7150,7 +7150,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PNG</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PNG</span>
 
     </div>
 
@@ -7168,7 +7168,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">POL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">POL</span>
 
     </div>
 
@@ -7186,7 +7186,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRI</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PRI</span>
 
     </div>
 
@@ -7204,7 +7204,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PRK</span>
 
     </div>
 
@@ -7222,7 +7222,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PRT</span>
 
     </div>
 
@@ -7240,7 +7240,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PRY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PRY</span>
 
     </div>
 
@@ -7258,7 +7258,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PSE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PSE</span>
 
     </div>
 
@@ -7276,7 +7276,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">PYF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">PYF</span>
 
     </div>
 
@@ -7294,7 +7294,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">QAT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">QAT</span>
 
     </div>
 
@@ -7312,7 +7312,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">REU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">REU</span>
 
     </div>
 
@@ -7330,7 +7330,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ROU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ROU</span>
 
     </div>
 
@@ -7348,7 +7348,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RUS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">RUS</span>
 
     </div>
 
@@ -7366,7 +7366,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">RWA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">RWA</span>
 
     </div>
 
@@ -7384,7 +7384,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SAU</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SAU</span>
 
     </div>
 
@@ -7402,7 +7402,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SDN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SDN</span>
 
     </div>
 
@@ -7420,7 +7420,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SEN</span>
 
     </div>
 
@@ -7438,7 +7438,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SGP</span>
 
     </div>
 
@@ -7456,7 +7456,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SGS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SGS</span>
 
     </div>
 
@@ -7474,7 +7474,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SHN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SHN</span>
 
     </div>
 
@@ -7492,7 +7492,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SJM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SJM</span>
 
     </div>
 
@@ -7510,7 +7510,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SLB</span>
 
     </div>
 
@@ -7528,7 +7528,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SLE</span>
 
     </div>
 
@@ -7546,7 +7546,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SLV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SLV</span>
 
     </div>
 
@@ -7564,7 +7564,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SMR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SMR</span>
 
     </div>
 
@@ -7582,7 +7582,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SOM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SOM</span>
 
     </div>
 
@@ -7600,7 +7600,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SPM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SPM</span>
 
     </div>
 
@@ -7618,7 +7618,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SRB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SRB</span>
 
     </div>
 
@@ -7636,7 +7636,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SSD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SSD</span>
 
     </div>
 
@@ -7654,7 +7654,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">STP</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">STP</span>
 
     </div>
 
@@ -7672,7 +7672,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SUR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SUR</span>
 
     </div>
 
@@ -7690,7 +7690,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SVK</span>
 
     </div>
 
@@ -7708,7 +7708,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SVN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SVN</span>
 
     </div>
 
@@ -7726,7 +7726,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SWE</span>
 
     </div>
 
@@ -7744,7 +7744,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SWZ</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SWZ</span>
 
     </div>
 
@@ -7762,7 +7762,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SXM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SXM</span>
 
     </div>
 
@@ -7780,7 +7780,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYC</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SYC</span>
 
     </div>
 
@@ -7798,7 +7798,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">SYR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">SYR</span>
 
     </div>
 
@@ -7816,7 +7816,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TCA</span>
 
     </div>
 
@@ -7834,7 +7834,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TCD</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TCD</span>
 
     </div>
 
@@ -7852,7 +7852,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TGO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TGO</span>
 
     </div>
 
@@ -7870,7 +7870,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">THA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">THA</span>
 
     </div>
 
@@ -7888,7 +7888,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TJK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TJK</span>
 
     </div>
 
@@ -7906,7 +7906,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKL</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TKL</span>
 
     </div>
 
@@ -7924,7 +7924,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TKM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TKM</span>
 
     </div>
 
@@ -7942,7 +7942,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TLS</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TLS</span>
 
     </div>
 
@@ -7960,7 +7960,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TON</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TON</span>
 
     </div>
 
@@ -7978,7 +7978,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TTO</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TTO</span>
 
     </div>
 
@@ -7996,7 +7996,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TUN</span>
 
     </div>
 
@@ -8014,7 +8014,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TUR</span>
 
     </div>
 
@@ -8032,7 +8032,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TUV</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TUV</span>
 
     </div>
 
@@ -8050,7 +8050,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TWN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TWN</span>
 
     </div>
 
@@ -8068,7 +8068,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">TZA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">TZA</span>
 
     </div>
 
@@ -8086,7 +8086,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UGA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">UGA</span>
 
     </div>
 
@@ -8104,7 +8104,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UKR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">UKR</span>
 
     </div>
 
@@ -8122,7 +8122,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">URY</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">URY</span>
 
     </div>
 
@@ -8140,7 +8140,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">USA</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">USA</span>
 
     </div>
 
@@ -8158,7 +8158,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">UZB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">UZB</span>
 
     </div>
 
@@ -8176,7 +8176,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VAT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VAT</span>
 
     </div>
 
@@ -8194,7 +8194,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VCT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VCT</span>
 
     </div>
 
@@ -8212,7 +8212,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VEN</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VEN</span>
 
     </div>
 
@@ -8230,7 +8230,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VGB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VGB</span>
 
     </div>
 
@@ -8248,7 +8248,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VIR</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VIR</span>
 
     </div>
 
@@ -8266,7 +8266,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VNM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VNM</span>
 
     </div>
 
@@ -8284,7 +8284,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">VUT</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">VUT</span>
 
     </div>
 
@@ -8302,7 +8302,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WLF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">WLF</span>
 
     </div>
 
@@ -8320,7 +8320,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">WSM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">WSM</span>
 
     </div>
 
@@ -8338,7 +8338,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">YEM</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">YEM</span>
 
     </div>
 
@@ -8356,7 +8356,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZAF</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ZAF</span>
 
     </div>
 
@@ -8374,7 +8374,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZMB</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ZMB</span>
 
     </div>
 
@@ -8392,7 +8392,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">ZWE</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">ZWE</span>
 
     </div>
 
@@ -8414,7 +8414,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -8435,7 +8435,7 @@ This enum represents country codes in accordance with the ISO 3166-1 standard us
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

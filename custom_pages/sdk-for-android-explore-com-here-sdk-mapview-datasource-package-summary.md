@@ -37,7 +37,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color">
 
-  [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a>
 
   </div>
 
@@ -69,7 +69,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [DataAttributes](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a>
 
   </div>
 
@@ -85,7 +85,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [DataAttributesAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a>
 
   </div>
 
@@ -101,7 +101,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>
 
   </div>
 
@@ -117,7 +117,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [DataAttributesBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a>
 
   </div>
 
@@ -133,7 +133,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [DataAttributeValue](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>
 
   </div>
 
@@ -149,7 +149,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [DataAttributeValue.ValueType](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a>
 
   </div>
 
@@ -165,7 +165,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LineData](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>
 
   </div>
 
@@ -181,7 +181,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LineDataAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedataaccessor "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a>
 
   </div>
 
@@ -197,7 +197,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LineDataBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a>
 
   </div>
 
@@ -213,7 +213,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LineDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a>
 
   </div>
 
@@ -229,7 +229,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [LineDataSource.LineDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a>
 
   </div>
 
@@ -245,7 +245,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [LineDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a>
 
   </div>
 
@@ -261,7 +261,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [LineTileDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a>
 
   </div>
 
@@ -277,7 +277,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [LineTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a>
 
   </div>
 
@@ -293,7 +293,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [LineTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a>
 
   </div>
 
@@ -309,7 +309,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>
 
   </div>
 
@@ -325,7 +325,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PointDataAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a>
 
   </div>
 
@@ -341,7 +341,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PointDataBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a>
 
   </div>
 
@@ -357,7 +357,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PointDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a>
 
   </div>
 
@@ -373,7 +373,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PointDataSource.PointDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-pointdataprocessor "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a>
 
   </div>
 
@@ -389,7 +389,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PointDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a>
 
   </div>
 
@@ -405,7 +405,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PointTileDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtiledatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtiledatasource" title="class in com.here.sdk.mapview.datasource">PointTileDataSource</a>
 
   </div>
 
@@ -421,7 +421,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [PointTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a>
 
   </div>
 
@@ -437,7 +437,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PointTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a>
 
   </div>
 
@@ -453,7 +453,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>
 
   </div>
 
@@ -469,7 +469,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PolygonDataAccessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor" title="class in com.here.sdk.mapview.datasource">PolygonDataAccessor</a>
 
   </div>
 
@@ -485,7 +485,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PolygonDataBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a>
 
   </div>
 
@@ -501,7 +501,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PolygonDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a>
 
   </div>
 
@@ -517,7 +517,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [PolygonDataSource.PolygonDataProcessor](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a>
 
   </div>
 
@@ -533,7 +533,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [PolygonDataSourceBuilder](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a>
 
   </div>
 
@@ -549,7 +549,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [PolygonTileDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontiledatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontiledatasource" title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a>
 
   </div>
 
@@ -565,7 +565,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PolygonTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a>
 
   </div>
 
@@ -581,7 +581,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [PolygonTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a>
 
   </div>
 
@@ -597,7 +597,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [RasterDataSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource" title="class in com.here.sdk.mapview.datasource">RasterDataSource</a>
 
   </div>
 
@@ -613,7 +613,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [RasterDataSourceConfiguration](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a>
 
   </div>
 
@@ -629,7 +629,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [RasterDataSourceConfiguration.Cache](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a>
 
   </div>
 
@@ -645,7 +645,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [RasterDataSourceConfiguration.Provider](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a>
 
   </div>
 
@@ -661,7 +661,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [RasterDataSourceConfigurationUpdate](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a>
 
   </div>
 
@@ -677,7 +677,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [RasterDataSourceError](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a>
 
   </div>
 
@@ -693,7 +693,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [RasterDataSourceListener](sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a>
 
   </div>
 
@@ -709,7 +709,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [RasterTileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a>
 
   </div>
 
@@ -725,7 +725,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [RasterTileSource.LoadResultHandler](sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a>
 
   </div>
 
@@ -741,7 +741,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TileGeoBoundsCalculator](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource">TileGeoBoundsCalculator</a>
 
   </div>
 
@@ -757,7 +757,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a>
 
   </div>
 
@@ -773,7 +773,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a>
 
   </div>
 
@@ -789,7 +789,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [TileSource.DataVersion](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>
 
   </div>
 
@@ -805,7 +805,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TileSource.Listener](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>
 
   </div>
 
@@ -821,7 +821,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [TileSource.LoadTileRequestHandle](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>
 
   </div>
 
@@ -837,7 +837,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TileSource.TileMetadata](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a>
 
   </div>
 
@@ -853,7 +853,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [TileUrlProviderCallback](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback "interface in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a>
 
   </div>
 
@@ -869,7 +869,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [TileUrlProviderFactory](sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory "class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory" title="class in com.here.sdk.mapview.datasource">TileUrlProviderFactory</a>
 
   </div>
 
@@ -885,7 +885,7 @@ package <span class="element-name">com.here.sdk.mapview.datasource</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [TilingScheme](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme "enum class in com.here.sdk.mapview.datasource")
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a>
 
   </div>
 

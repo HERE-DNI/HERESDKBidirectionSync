@@ -7,7 +7,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 
-- [All Packages](sdk-for-android-explore-overview-tree)
+- <a href="sdk-for-android-explore-overview-tree">All Packages</a>
 
 </div>
 
@@ -36,7 +36,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-tree"
   - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" class="type-name-link" title="class in com.here.sdk.mapview">MapMeasureRange</a>
   - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-direction" class="type-name-link" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a>
   - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptionsbuilder-instantiationerrordetails" class="type-name-link" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a>
-  - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" class="type-name-link" title="class in com.here.sdk.mapview">MapSurface</a> (implements com.here.sdk.mapview.[MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview"))
+  - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" class="type-name-link" title="class in com.here.sdk.mapview">MapSurface</a> (implements com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a>)
   - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions" class="type-name-link" title="class in com.here.sdk.mapview">MapViewOptions</a>
   - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" class="type-name-link" title="class in com.here.sdk.mapview">MaterialReflectivity</a>
   - com.here.<a href="sdk-for-android-explore-com-here-nativebase" class="type-name-link" title="class in com.here">NativeBase</a>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-tree"
       - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder" class="type-name-link" title="class in com.here.sdk.mapview">QuadMeshBuilder</a>
       - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-trianglemeshbuilder" class="type-name-link" title="class in com.here.sdk.mapview">TriangleMeshBuilder</a>
     - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult" class="type-name-link" title="class in com.here.sdk.mapview">PickMapContentResult</a>
-    - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult" class="type-name-link" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> (implements com.here.sdk.traffic.[TrafficIncidentBase](sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase "interface in com.here.sdk.traffic"))
+    - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult" class="type-name-link" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)
     - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapitemsresult" class="type-name-link" title="class in com.here.sdk.mapview">PickMapItemsResult</a>
     - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-style" class="type-name-link" title="class in com.here.sdk.mapview">Style</a>
     - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup" class="type-name-link" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-tree"
   - android.view.View (implements android.view.accessibility.AccessibilityEventSource, android.graphics.drawable.Drawable.Callback, android.view.KeyEvent.Callback)
     - android.view.ViewGroup (implements android.view.ViewManager, android.view.ViewParent)
       - android.widget.FrameLayout
-        - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" class="type-name-link" title="class in com.here.sdk.mapview">MapView</a> (implements com.here.sdk.mapview.[MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview"))
+        - com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" class="type-name-link" title="class in com.here.sdk.mapview">MapView</a> (implements com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a>)
 
 </div>
 

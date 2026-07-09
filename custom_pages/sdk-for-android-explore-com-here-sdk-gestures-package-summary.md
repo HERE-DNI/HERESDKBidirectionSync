@@ -31,7 +31,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [DoubleTapListener](sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a>
 
   </div>
 
@@ -47,7 +47,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [FlingHandler](sdk-for-android-explore-com-here-sdk-gestures-flinghandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-flinghandler" title="class in com.here.sdk.gestures">FlingHandler</a>
 
   </div>
 
@@ -63,7 +63,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [Gestures](sdk-for-android-explore-com-here-sdk-gestures-gestures "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a>
 
   </div>
 
@@ -79,7 +79,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab3">
 
-  [GestureState](sdk-for-android-explore-com-here-sdk-gestures-gesturestate "enum class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a>
 
   </div>
 
@@ -95,7 +95,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab3">
 
-  [GestureType](sdk-for-android-explore-com-here-sdk-gestures-gesturetype "enum class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a>
 
   </div>
 
@@ -111,7 +111,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [LongPressListener](sdk-for-android-explore-com-here-sdk-gestures-longpresslistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a>
 
   </div>
 
@@ -127,7 +127,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [PanListener](sdk-for-android-explore-com-here-sdk-gestures-panlistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-panlistener" title="interface in com.here.sdk.gestures">PanListener</a>
 
   </div>
 
@@ -143,7 +143,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [PinchRotateListener](sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a>
 
   </div>
 
@@ -159,7 +159,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab2">
 
-  [ScaleHandler](sdk-for-android-explore-com-here-sdk-gestures-scalehandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-scalehandler" title="class in com.here.sdk.gestures">ScaleHandler</a>
 
   </div>
 
@@ -175,7 +175,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab2">
 
-  [ScrollHandler](sdk-for-android-explore-com-here-sdk-gestures-scrollhandler "class in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-scrollhandler" title="class in com.here.sdk.gestures">ScrollHandler</a>
 
   </div>
 
@@ -191,7 +191,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TapListener](sdk-for-android-explore-com-here-sdk-gestures-taplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-taplistener" title="interface in com.here.sdk.gestures">TapListener</a>
 
   </div>
 
@@ -207,7 +207,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first odd-row-color class-summary class-summary-tab1">
 
-  [TwoFingerPanListener](sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a>
 
   </div>
 
@@ -223,7 +223,7 @@ package <span class="element-name">com.here.sdk.gestures</span>
 
   <div class="col-first even-row-color class-summary class-summary-tab1">
 
-  [TwoFingerTapListener](sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener "interface in com.here.sdk.gestures")
+  <a href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a>
 
   </div>
 

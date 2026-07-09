@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.engine](sdk-for-android-explore-com-here-sdk-core-engine-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a>
 
 </div>
 
@@ -121,7 +121,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first even-row-color">
 
-  [`SDKOptions.ActionOnCacheLock`](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">`SDKOptions.ActionOnCacheLock`</a>
 
   </div>
 
@@ -143,7 +143,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first odd-row-color">
 
-  [`AuthenticationMode`](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">`AuthenticationMode`</a>
 
   </div>
 
@@ -253,7 +253,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first even-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`CatalogConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">`CatalogConfiguration`</a>`>`
 
   </div>
 
@@ -275,7 +275,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`[`EngineBaseURL`](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"), <wbr></wbr>[`EngineOptions`](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">`EngineBaseURL`</a>, <wbr></wbr><a href="sdk-for-android-explore-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">`EngineOptions`</a>`>`
 
   </div>
 
@@ -297,7 +297,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first even-row-color">
 
-  [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">`Metadata`</a>
 
   </div>
 
@@ -341,7 +341,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first even-row-color">
 
-  [`LayerConfiguration`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">`LayerConfiguration`</a>
 
   </div>
 
@@ -385,7 +385,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
   <div class="col-first even-row-color">
 
-  [`NetworkSettings`](sdk-for-android-explore-com-here-sdk-core-engine-networksettings "class in com.here.sdk.core.engine")
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">`NetworkSettings`</a>
 
   </div>
 
@@ -749,7 +749,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[LayerConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration "class in com.here.sdk.core.engine")</span> <span class="element-name">layerConfiguration</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></span> <span class="element-name">layerConfiguration</span>
 
     </div>
 
@@ -767,7 +767,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[CatalogConfiguration](sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration "class in com.here.sdk.core.engine")\></span> <span class="element-name">catalogConfigurations</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>\></span> <span class="element-name">catalogConfigurations</span>
 
     </div>
 
@@ -803,7 +803,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<[EngineBaseURL](sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl "enum class in com.here.sdk.core.engine"),<wbr></wbr>[EngineOptions](sdk-for-android-explore-com-here-sdk-core-engine-engineoptions "class in com.here.sdk.core.engine")\></span> <span class="element-name">customEngineOptions</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr></wbr><a href="sdk-for-android-explore-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>\></span> <span class="element-name">customEngineOptions</span>
 
     </div>
 
@@ -821,7 +821,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[SDKOptions.ActionOnCacheLock](sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock "enum class in com.here.sdk.core.engine")</span> <span class="element-name">actionOnCacheLock</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">actionOnCacheLock</span>
 
     </div>
 
@@ -839,7 +839,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine")</span> <span class="element-name">authenticationMode</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">authenticationMode</span>
 
     </div>
 
@@ -857,7 +857,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[NetworkSettings](sdk-for-android-explore-com-here-sdk-core-engine-networksettings "class in com.here.sdk.core.engine")</span> <span class="element-name">networkSettings</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></span> <span class="element-name">networkSettings</span>
 
     </div>
 
@@ -911,7 +911,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Metadata](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core")</span> <span class="element-name">customOptions</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">customOptions</span>
 
     </div>
 
@@ -933,7 +933,7 @@ SDKOptions provide an alternative way to set or update the HERE SDK credentials 
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">SDKOptions</span><wbr></wbr><span class="parameters">(@NonNull [AuthenticationMode](sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode "class in com.here.sdk.core.engine") authenticationMode)</span>
+    <span class="modifiers">public</span> <span class="element-name">SDKOptions</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</span>
 
     </div>
 

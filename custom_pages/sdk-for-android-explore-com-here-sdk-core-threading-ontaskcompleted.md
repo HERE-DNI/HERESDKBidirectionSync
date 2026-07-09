@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a>
 
 </div>
 
@@ -96,7 +96,7 @@ The method will be called on the main thread when a task call has been completed
 
     <div class="member-signature">
 
-    <span class="return-type">void</span> <span class="element-name">onTaskCompleted</span><wbr></wbr><span class="parameters">(@NonNull [TaskOutcome](sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome "enum class in com.here.sdk.core.threading") taskOutcome)</span>
+    <span class="return-type">void</span> <span class="element-name">onTaskCompleted</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</span>
 
     </div>
 

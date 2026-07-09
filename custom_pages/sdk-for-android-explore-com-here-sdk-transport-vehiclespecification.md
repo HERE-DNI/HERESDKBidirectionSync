@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -341,7 +341,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
   <div class="col-first odd-row-color">
 
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`HazardousMaterial`](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">`HazardousMaterial`</a>`>`
 
   </div>
 
@@ -605,7 +605,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
   <div class="col-first odd-row-color">
 
-  [`TruckCategory`](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">`TruckCategory`</a>
 
   </div>
 
@@ -627,7 +627,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
   <div class="col-first even-row-color">
 
-  [`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>
 
   </div>
 
@@ -649,7 +649,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
   <div class="col-first odd-row-color">
 
-  [`TunnelCategory`](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">`TunnelCategory`</a>
 
   </div>
 
@@ -671,7 +671,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
   <div class="col-first even-row-color">
 
-  [`WeightPerAxleGroup`](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup" title="class in com.here.sdk.transport">`WeightPerAxleGroup`</a>
 
   </div>
 
@@ -955,7 +955,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
     <div class="member-signature">
 
-    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="modifiers">public</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">truckType</span>
+    <span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" class="external-link" title="class or interface in java.lang">@Deprecated</a> @NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">truckType</span>
 
     </div>
 
@@ -984,7 +984,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TruckCategory](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">truckCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">truckCategory</span>
 
     </div>
 
@@ -1146,7 +1146,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[WeightPerAxleGroup](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")</span> <span class="element-name">weightPerAxleGroup</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></span> <span class="element-name">weightPerAxleGroup</span>
 
     </div>
 
@@ -1236,7 +1236,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">tunnelCategory</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">tunnelCategory</span>
 
     </div>
 
@@ -1254,7 +1254,7 @@ Contains vehicle related attributes. Examples: Dimensions, weight, axle count. O
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")\></span> <span class="element-name">hazardousMaterials</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>\></span> <span class="element-name">hazardousMaterials</span>
 
     </div>
 

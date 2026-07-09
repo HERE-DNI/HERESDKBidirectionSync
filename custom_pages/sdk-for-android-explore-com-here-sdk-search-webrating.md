@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webrating"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a>
 
 </div>
 
@@ -111,7 +111,7 @@ Contains information about rating and a url to review.
 
   <div class="col-first even-row-color">
 
-  [`WebSource`](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search")
+  <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">`WebSource`</a>
 
   </div>
 
@@ -314,7 +314,7 @@ Contains information about rating and a url to review.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[WebSource](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search")</span> <span class="element-name">source</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span>
 
     </div>
 
@@ -336,7 +336,7 @@ Contains information about rating and a url to review.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">WebRating</span><wbr></wbr><span class="parameters">(int count, double average, @NonNull [WebSource](sdk-for-android-explore-com-here-sdk-search-websource "class in com.here.sdk.search") source)</span>
+    <span class="modifiers">public</span> <span class="element-name">WebRating</span><wbr></wbr><span class="parameters">(int count, double average, @NonNull <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</span>
 
     </div>
 

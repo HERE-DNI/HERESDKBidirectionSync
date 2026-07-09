@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-insta
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.animation](sdk-for-android-explore-com-here-sdk-animation-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a>
 
 </div>
 
@@ -24,16 +24,16 @@ java.lang.Object java.lang.Enum \< MapPolylineAnimation.InstantiationErrorCode \
 <div id="sdk-for-android-explore-class-description" class="section class-description">
 
 All Implemented Interfaces:  
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapPolylineAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">`MapPolylineAnimation.InstantiationErrorCode`</a>`>`, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
 Enclosing class:  
-[MapPolylineAnimation](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation "class in com.here.sdk.animation")
+<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a>
 
 <div class="type-signature">
 
-<span class="modifiers">public static enum </span><span class="element-name type-name-label">MapPolylineAnimation.InstantiationErrorCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")\></span>
+<span class="modifiers">public static enum </span><span class="element-name type-name-label">MapPolylineAnimation.InstantiationErrorCode</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a>\></span>
 
 </div>
 
@@ -127,7 +127,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapPolylineAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">`MapPolylineAnimation.InstantiationErrorCode`</a>
 
   </div>
 
@@ -149,7 +149,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 
-  `static `[`MapPolylineAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")`[]`
+  `static `<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">`MapPolylineAnimation.InstantiationErrorCode`</a>`[]`
 
   </div>
 
@@ -203,7 +203,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static final</span> <span class="return-type">[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")</span> <span class="element-name">INCOMPATIBLE_TRACK</span>
+    <span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></span> <span class="element-name">INCOMPATIBLE_TRACK</span>
 
     </div>
 
@@ -225,7 +225,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")\[\]</span> <span class="element-name">values</span>()
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a>\[\]</span> <span class="element-name">values</span>()
 
     </div>
 
@@ -246,7 +246,7 @@ Describes a reason for failing to create a MapPolylineAnimation .
 
     <div class="member-signature">
 
-    <span class="modifiers">public static</span> <span class="return-type">[MapPolylineAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode "enum class in com.here.sdk.animation")</span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    <span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 

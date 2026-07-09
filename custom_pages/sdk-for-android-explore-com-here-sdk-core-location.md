@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a>
 
 </div>
 
@@ -111,7 +111,7 @@ Describes a location in the world at a given time.
 
   <div class="col-first even-row-color">
 
-  [`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">`GeoCoordinates`</a>
 
   </div>
 
@@ -133,7 +133,7 @@ Describes a location in the world at a given time.
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -177,7 +177,7 @@ Describes a location in the world at a given time.
 
   <div class="col-first odd-row-color">
 
-  [`LocationTechnology`](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationtechnology" title="enum class in com.here.sdk.core">`LocationTechnology`</a>
 
   </div>
 
@@ -221,7 +221,7 @@ Describes a location in the world at a given time.
 
   <div class="col-first odd-row-color">
 
-  [`LocationSource`](sdk-for-android-explore-com-here-sdk-core-locationsource "enum class in com.here.sdk.core")
+  <a href="sdk-for-android-explore-com-here-sdk-core-locationsource" title="enum class in com.here.sdk.core">`LocationSource`</a>
 
   </div>
 
@@ -309,7 +309,7 @@ Describes a location in the world at a given time.
 
   <div class="col-first odd-row-color">
 
-  [`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")
+  <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">`Duration`</a>
 
   </div>
 
@@ -481,7 +481,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">coordinates</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span>
 
     </div>
 
@@ -625,7 +625,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">timestampSinceBoot</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">timestampSinceBoot</span>
 
     </div>
 
@@ -643,7 +643,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocationTechnology](sdk-for-android-explore-com-here-sdk-core-locationtechnology "enum class in com.here.sdk.core")</span> <span class="element-name">locationTechnology</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></span> <span class="element-name">locationTechnology</span>
 
     </div>
 
@@ -661,7 +661,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[LocationSource](sdk-for-android-explore-com-here-sdk-core-locationsource "enum class in com.here.sdk.core")</span> <span class="element-name">source</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></span> <span class="element-name">source</span>
 
     </div>
 
@@ -679,7 +679,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">gnssTime</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">gnssTime</span>
 
     </div>
 
@@ -719,7 +719,7 @@ Describes a location in the world at a given time.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="element-name">Location</span><wbr></wbr><span class="parameters">(@NonNull [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates)</span>
+    <span class="modifiers">public</span> <span class="element-name">Location</span><wbr></wbr><span class="parameters">(@NonNull <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span>
 
     </div>
 

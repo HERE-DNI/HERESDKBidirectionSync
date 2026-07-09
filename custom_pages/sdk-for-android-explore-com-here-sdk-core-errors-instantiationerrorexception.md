@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexcept
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.core.errors](sdk-for-android-explore-com-here-sdk-core-errors-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a>
 
 </div>
 
@@ -39,7 +39,7 @@ Instantiation error.
 </div>
 
 See Also:  
-- [Serialized Form](sdk-for-android-explore-serialized-form#com.here.sdk.core.errors.InstantiationErrorException)
+- <a href="sdk-for-android-explore-serialized-form#com.here.sdk.core.errors.InstantiationErrorException">Serialized Form</a>
 
 </div>
 

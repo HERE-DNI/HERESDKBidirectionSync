@@ -9,7 +9,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-truckspecifications"
 
 <div class="sub-title">
 
-<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a>
 
 </div>
 
@@ -331,7 +331,7 @@ Truck specifications contain vehicle related attributes. Examples: Dimensions, w
 
   <div class="col-first odd-row-color">
 
-  [`TruckType`](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">`TruckType`</a>
 
   </div>
 
@@ -359,7 +359,7 @@ Truck specifications contain vehicle related attributes. Examples: Dimensions, w
 
   <div class="col-first even-row-color">
 
-  [`WeightPerAxleGroup`](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")
+  <a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup" title="class in com.here.sdk.transport">`WeightPerAxleGroup`</a>
 
   </div>
 
@@ -661,7 +661,7 @@ Truck specifications contain vehicle related attributes. Examples: Dimensions, w
 
     <div class="member-signature">
 
-    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type">[WeightPerAxleGroup](sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup "class in com.here.sdk.transport")</span> <span class="element-name">weightPerAxleGroup</span>
+    <span class="annotations">@Nullable </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></span> <span class="element-name">weightPerAxleGroup</span>
 
     </div>
 
@@ -805,7 +805,7 @@ Truck specifications contain vehicle related attributes. Examples: Dimensions, w
 
     <div class="member-signature">
 
-    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type">[TruckType](sdk-for-android-explore-com-here-sdk-transport-trucktype "enum class in com.here.sdk.transport")</span> <span class="element-name">truckType</span>
+    <span class="annotations">@NonNull </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">truckType</span>
 
     </div>
 
