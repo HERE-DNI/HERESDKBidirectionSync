@@ -1,0 +1,5408 @@
+---
+title: "RoutingEngine Class Reference"
+slug: "sdk-for-ios-explore-classes-routingengine"
+---
+
+<span id="//apple_ref/swift/Class/RoutingEngine" class="dashAnchor"></span>
+
+<div class="content-wrapper">
+
+<a href="sdk-for-ios-explore-index">heresdk</a> <img src="../img/carat.png" id="sdk-for-ios-explore-carat" /> <a href="sdk-for-ios-explore-routing">Routing</a> <img src="../img/carat.png" id="sdk-for-ios-explore-carat" /> RoutingEngine Class Reference
+
+</div>
+
+<div class="content-wrapper">
+
+<nav class="sidebar">
+
+- <a href="sdk-for-ios-explore-core">Core</a>
+  - <a href="sdk-for-ios-explore-structs-anchor2d">Anchor2D</a>
+  - <a href="sdk-for-ios-explore-structs-anchor2dkeyframe">Anchor2DKeyframe</a>
+  - <a href="sdk-for-ios-explore-classes-angle">Angle</a>
+  - <a href="sdk-for-ios-explore-structs-anglerange">AngleRange</a>
+  - <a href="sdk-for-ios-explore-classes-authentication">Authentication</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk23AuthenticationExceptiona">AuthenticationException</a>
+  - <a href="sdk-for-ios-explore-classes-authenticationmode">AuthenticationMode</a>
+  - <a href="sdk-for-ios-explore-structs-brandlogo">BrandLogo</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk30CacheCallbackCompletionHandlera">CacheCallbackCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-enums-cardinaldirection">CardinalDirection</a>
+  - <a href="sdk-for-ios-explore-structs-catalogconfiguration">CatalogConfiguration</a>
+  - <a href="sdk-for-ios-explore-structs-catalogidentifier">CatalogIdentifier</a>
+  - <a href="sdk-for-ios-explore-enums-catalogtype">CatalogType</a>
+  - <a href="sdk-for-ios-explore-classes-catalogupdatetask">CatalogUpdateTask</a>
+  - <a href="sdk-for-ios-explore-classes-catalogversionhint">CatalogVersionHint</a>
+  - <a href="sdk-for-ios-explore-classes-collectionof">CollectionOf</a>
+  - <a href="sdk-for-ios-explore-enums-countrycode">CountryCode</a>
+  - <a href="sdk-for-ios-explore-enums-currenttype">CurrentType</a>
+  - <a href="sdk-for-ios-explore-protocols-custommetadatavalue">CustomMetadataValue</a>
+  - <a href="sdk-for-ios-explore-structs-desiredcatalog">DesiredCatalog</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk14DeviceIdHandlea">DeviceIdHandle</a>
+  - <a href="sdk-for-ios-explore-enums-enginebaseurl">EngineBaseURL</a>
+  - <a href="sdk-for-ios-explore-structs-engineoptions">EngineOptions</a>
+  - <a href="sdk-for-ios-explore-structs-externalid">ExternalID</a>
+  - <a href="sdk-for-ios-explore-structs-geobox">GeoBox</a>
+  - <a href="sdk-for-ios-explore-structs-geocircle">GeoCircle</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinates">GeoCoordinates</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geocorridor">GeoCorridor</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientation">GeoOrientation</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationupdate">GeoOrientationUpdate</a>
+  - <a href="sdk-for-ios-explore-structs-geopolygon">GeoPolygon</a>
+  - <a href="sdk-for-ios-explore-structs-geopolyline">GeoPolyline</a>
+  - <a href="sdk-for-ios-explore-enums-geopolylinedirection">GeoPolylineDirection</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">InstantiationError</a>
+  - <a href="sdk-for-ios-explore-enums-instantiationerrorcode">InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-integerrange">IntegerRange</a>
+  - <a href="sdk-for-ios-explore-enums-junctionstraversability">JunctionsTraversability</a>
+  - <a href="sdk-for-ios-explore-enums-languagecode">LanguageCode</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration">LayerConfiguration</a>
+  - <a href="sdk-for-ios-explore-structs-layerconfiguration-feature">– Feature</a>
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumber">LocalizedRoadNumber</a>
+  - <a href="sdk-for-ios-explore-structs-localizedroadnumbers">LocalizedRoadNumbers</a>
+  - <a href="sdk-for-ios-explore-structs-localizedtext">LocalizedText</a>
+  - <a href="sdk-for-ios-explore-structs-localizedtexts">LocalizedTexts</a>
+  - <a href="sdk-for-ios-explore-structs-location">Location</a>
+  - <a href="sdk-for-ios-explore-protocols-locationdelegate">LocationDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-locationsource">LocationSource</a>
+  - <a href="sdk-for-ios-explore-enums-locationtechnology">LocationTechnology</a>
+  - <a href="sdk-for-ios-explore-structs-locationtime">LocationTime</a>
+  - <a href="sdk-for-ios-explore-protocols-logappender">LogAppender</a>
+  - <a href="sdk-for-ios-explore-classes-logcontrol">LogControl</a>
+  - <a href="sdk-for-ios-explore-enums-loglevel">LogLevel</a>
+  - <a href="sdk-for-ios-explore-classes-metadata">Metadata</a>
+  - <a href="sdk-for-ios-explore-enums-metadatatype">MetadataType</a>
+  - <a href="sdk-for-ios-explore-structs-nameid">NameID</a>
+  - <a href="sdk-for-ios-explore-structs-networkendpoint">NetworkEndpoint</a>
+  - <a href="sdk-for-ios-explore-structs-networksettings">NetworkSettings</a>
+  - <a href="sdk-for-ios-explore-structs-parameterconfiguration">ParameterConfiguration</a>
+  - <a href="sdk-for-ios-explore-enums-passthroughfeature">PassThroughFeature</a>
+  - <a href="sdk-for-ios-explore-enums-powertype">PowerType</a>
+  - <a href="sdk-for-ios-explore-structs-pedestrianprofile">PedestrianProfile</a>
+  - <a href="sdk-for-ios-explore-structs-pickedplace">PickedPlace</a>
+  - <a href="sdk-for-ios-explore-protocols-platformthreading">PlatformThreading</a>
+  - <a href="sdk-for-ios-explore-structs-point2d">Point2D</a>
+  - <a href="sdk-for-ios-explore-structs-point3d">Point3D</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk39PolylineSimplificationCompletionHandlera">PolylineSimplificationCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-enums-polylinesimplificationerror">PolylineSimplificationError</a>
+  - <a href="sdk-for-ios-explore-classes-polylinesimplifier">PolylineSimplifier</a>
+  - <a href="sdk-for-ios-explore-classes-polylinesimplifier-options">– Options</a>
+  - <a href="sdk-for-ios-explore-structs-proxysettings">ProxySettings</a>
+  - <a href="sdk-for-ios-explore-structs-proxysettings-proxytype">– ProxyType</a>
+  - <a href="sdk-for-ios-explore-structs-proxysettings-credentials">– Credentials</a>
+  - <a href="sdk-for-ios-explore-structs-rectangle2d">Rectangle2D</a>
+  - <a href="sdk-for-ios-explore-enums-routetype">RouteType</a>
+  - <a href="sdk-for-ios-explore-protocols-runnable">Runnable</a>
+  - <a href="sdk-for-ios-explore-classes-sdkbuildinformation">SDKBuildInformation</a>
+  - <a href="sdk-for-ios-explore-classes-sdkcache">SDKCache</a>
+  - <a href="sdk-for-ios-explore-classes-sdkinternalinitializer">SDKInternalInitializer</a>
+  - <a href="sdk-for-ios-explore-classes-sdklogger">SDKLogger</a>
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine">SDKNativeEngine</a>
+  - <a href="sdk-for-ios-explore-classes-sdknativeengine-purgememorystrategy">– PurgeMemoryStrategy</a>
+  - <a href="sdk-for-ios-explore-core#/c:@M@heresdk@objc(cs">SDKNativeEngineHolder</a>SDKNativeEngineHolder)
+  - <a href="sdk-for-ios-explore-structs-sdkoptions">SDKOptions</a>
+  - <a href="sdk-for-ios-explore-structs-sdkversion">SDKVersion</a>
+  - <a href="sdk-for-ios-explore-structs-size2d">Size2D</a>
+  - <a href="sdk-for-ios-explore-core#/s:SS">String</a>
+  - <a href="sdk-for-ios-explore-core#/s:7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-taskhandle">TaskHandle</a>
+  - <a href="sdk-for-ios-explore-enums-taskoutcome">TaskOutcome</a>
+  - <a href="sdk-for-ios-explore-classes-threading">Threading</a>
+  - <a href="sdk-for-ios-explore-classes-timerule">TimeRule</a>
+  - <a href="sdk-for-ios-explore-structs-transportprofile">TransportProfile</a>
+  - <a href="sdk-for-ios-explore-extensions-uicolor">UIColor</a>
+  - <a href="sdk-for-ios-explore-enums-unitsystem">UnitSystem</a>
+  - <a href="sdk-for-ios-explore-structs-usagestats">UsageStats</a>
+  - <a href="sdk-for-ios-explore-structs-usagestats-feature">– Feature</a>
+  - <a href="sdk-for-ios-explore-structs-usagestats-networkstats">– NetworkStats</a>
+- <a href="sdk-for-ios-explore-electronichorizon">ElectronicHorizon</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizon">ElectronicHorizon</a>
+  - <a href="sdk-for-ios-explore-classes-electronichorizondataloader">ElectronicHorizonDataLoader</a>
+  - <a href="sdk-for-ios-explore-enums-electronichorizondataloadererrorcode">ElectronicHorizonDataLoaderErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizondataloaderresult">ElectronicHorizonDataLoaderResult</a>
+  - <a href="sdk-for-ios-explore-enums-electronichorizondataloadedstatus">ElectronicHorizonDataLoadedStatus</a>
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondataloaderstatusdelegate">ElectronicHorizonDataLoaderStatusDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-electronichorizondelegate">ElectronicHorizonDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-electronichorizonengine">ElectronicHorizonEngine</a>
+  - <a href="sdk-for-ios-explore-enums-electronichorizonerrorcode">ElectronicHorizonErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonoptions">ElectronicHorizonOptions</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonpath">ElectronicHorizonPath</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonposition">ElectronicHorizonPosition</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonsegment">ElectronicHorizonSegment</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonsegmentchanges">ElectronicHorizonSegmentChanges</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonsegmentid">ElectronicHorizonSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-electronichorizonupdate">ElectronicHorizonUpdate</a>
+- <a href="sdk-for-ios-explore-ev">EV</a>
+  - <a href="sdk-for-ios-explore-enums-evchargingconnectorformat">EVChargingConnectorFormat</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingconnectortype">EVChargingConnectorType</a>
+  - <a href="sdk-for-ios-explore-enums-evsecapability">EVSECapability</a>
+  - <a href="sdk-for-ios-explore-enums-evsepaymentsupport">EVSEPaymentSupport</a>
+  - <a href="sdk-for-ios-explore-enums-evsestate">EVSEState</a>
+- <a href="sdk-for-ios-explore-positioning">Positioning</a>
+  - <a href="sdk-for-ios-explore-structs-authenticationdata">AuthenticationData</a>
+  - <a href="sdk-for-ios-explore-enums-authenticationerror">AuthenticationError</a>
+  - <a href="sdk-for-ios-explore-enums-confirmationstatus">ConfirmationStatus</a>
+  - <a href="sdk-for-ios-explore-enums-locationaccuracy">LocationAccuracy</a>
+  - <a href="sdk-for-ios-explore-protocols-locationenginebase">LocationEngineBase</a>
+  - <a href="sdk-for-ios-explore-enums-locationenginestatus">LocationEngineStatus</a>
+  - <a href="sdk-for-ios-explore-enums-locationfeature">LocationFeature</a>
+  - <a href="sdk-for-ios-explore-classes-locationengine">LocationEngine</a>
+  - <a href="sdk-for-ios-explore-classes-locationsimulator">LocationSimulator</a>
+  - <a href="sdk-for-ios-explore-structs-locationsimulatoroptions">LocationSimulatorOptions</a>
+  - <a href="sdk-for-ios-explore-protocols-locationstatusdelegate">LocationStatusDelegate</a>
+- <a href="sdk-for-ios-explore-mapdata">MapData</a>
+  - <a href="sdk-for-ios-explore-structs-administrativerules">AdministrativeRules</a>
+  - <a href="sdk-for-ios-explore-classes-administrativerulesloader">AdministrativeRulesLoader</a>
+  - <a href="sdk-for-ios-explore-structs-allowedtransportmodes">AllowedTransportModes</a>
+  - <a href="sdk-for-ios-explore-structs-bloodalcoholcontentlimit">BloodAlcoholContentLimit</a>
+  - <a href="sdk-for-ios-explore-structs-connectivity">Connectivity</a>
+  - <a href="sdk-for-ios-explore-structs-directedocmsegmentid">DirectedOCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-structs-downloadingfileoptions">DownloadingFileOptions</a>
+  - <a href="sdk-for-ios-explore-enums-drivingside">DrivingSide</a>
+  - <a href="sdk-for-ios-explore-structs-filereference">FileReference</a>
+  - <a href="sdk-for-ios-explore-enums-filereferencetype">FileReferenceType</a>
+  - <a href="sdk-for-ios-explore-enums-headlightsrequirement">HeadlightsRequirement</a>
+  - <a href="sdk-for-ios-explore-structs-laneattribute">LaneAttribute</a>
+  - <a href="sdk-for-ios-explore-enums-localroadcharacteristic">LocalRoadCharacteristic</a>
+  - <a href="sdk-for-ios-explore-mapdata#/s:7heresdk18MapDataLoaderErrora">MapDataLoaderError</a>
+  - <a href="sdk-for-ios-explore-enums-mapdataloadererrorcode">MapDataLoaderErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-ocmsegmentid">OCMSegmentId</a>
+  - <a href="sdk-for-ios-explore-enums-parkingsideregulation">ParkingSideRegulation</a>
+  - <a href="sdk-for-ios-explore-structs-physicalattributes">PhysicalAttributes</a>
+  - <a href="sdk-for-ios-explore-structs-pretripplanning">PreTripPlanning</a>
+  - <a href="sdk-for-ios-explore-structs-railwaycrossing">RailwayCrossing</a>
+  - <a href="sdk-for-ios-explore-enums-railwaycrossingtype">RailwayCrossingType</a>
+  - <a href="sdk-for-ios-explore-enums-roaddivider">RoadDivider</a>
+  - <a href="sdk-for-ios-explore-structs-roadusages">RoadUsages</a>
+  - <a href="sdk-for-ios-explore-structs-segmentconnectivities">SegmentConnectivities</a>
+  - <a href="sdk-for-ios-explore-classes-segmentdata">SegmentData</a>
+  - <a href="sdk-for-ios-explore-classes-segmentdataloader">SegmentDataLoader</a>
+  - <a href="sdk-for-ios-explore-structs-segmentdataloaderoptions">SegmentDataLoaderOptions</a>
+  - <a href="sdk-for-ios-explore-classes-segmentreferenceconverter">SegmentReferenceConverter</a>
+  - <a href="sdk-for-ios-explore-classes-segmentspandata">SegmentSpanData</a>
+  - <a href="sdk-for-ios-explore-structs-segmentspecialspeedsituation">SegmentSpecialSpeedSituation</a>
+  - <a href="sdk-for-ios-explore-structs-segmentspeedlimit">SegmentSpeedLimit</a>
+  - <a href="sdk-for-ios-explore-enums-specialspeedtype">SpecialSpeedType</a>
+  - <a href="sdk-for-ios-explore-structs-tollcost">TollCost</a>
+  - <a href="sdk-for-ios-explore-structs-tollpoint">TollPoint</a>
+  - <a href="sdk-for-ios-explore-structs-tollstructure">TollStructure</a>
+  - <a href="sdk-for-ios-explore-structs-tollstructuremaneuver">TollStructureManeuver</a>
+  - <a href="sdk-for-ios-explore-enums-tollstructuretype">TollStructureType</a>
+  - <a href="sdk-for-ios-explore-structs-tollsystem">TollSystem</a>
+  - <a href="sdk-for-ios-explore-structs-trafficsignal">TrafficSignal</a>
+  - <a href="sdk-for-ios-explore-enums-trafficsignallocation">TrafficSignalLocation</a>
+  - <a href="sdk-for-ios-explore-enums-turnonredregulation">TurnOnRedRegulation</a>
+- <a href="sdk-for-ios-explore-maploader">MapLoader</a>
+  - <a href="sdk-for-ios-explore-structs-catalogupdateinfo">CatalogUpdateInfo</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk26CatalogsUpdateInfoCallbacka">CatalogsUpdateInfoCallback</a>
+  - <a href="sdk-for-ios-explore-protocols-catalogupdateprogresslistener">CatalogUpdateProgressListener</a>
+  - <a href="sdk-for-ios-explore-enums-catalogupdatestate">CatalogUpdateState</a>
+  - <a href="sdk-for-ios-explore-enums-clientcertificaterequesttype">ClientCertificateRequestType</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk17CompletionHandlera">CompletionHandler</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk25ConfigureConnectionHandlea">ConfigureConnectionHandle</a>
+  - <a href="sdk-for-ios-explore-protocols-dataattributesbase">DataAttributesBase</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk30DeleteRegionsCompletionHandlera">DeleteRegionsCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-protocols-downloadregionsstatuslistener">DownloadRegionsStatusListener</a>
+  - <a href="sdk-for-ios-explore-classes-externalmapdatasourceclient">ExternalMapDataSourceClient</a>
+  - <a href="sdk-for-ios-explore-enums-externalmapdatasourceerrorcode">ExternalMapDataSourceErrorCode</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk35ExternalMapDataSourceExceptionErrora">ExternalMapDataSourceExceptionError</a>
+  - <a href="sdk-for-ios-explore-classes-externalmapdatasourceserver">ExternalMapDataSourceServer</a>
+  - <a href="sdk-for-ios-explore-structs-installedcatalog">InstalledCatalog</a>
+  - <a href="sdk-for-ios-explore-structs-installedregion">InstalledRegion</a>
+  - <a href="sdk-for-ios-explore-enums-installedregionstatus">InstalledRegionStatus</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk8LineDataC">LineData</a>
+  - <a href="sdk-for-ios-explore-classes-linedataaccessor">LineDataAccessor</a>
+  - <a href="sdk-for-ios-explore-classes-linedatabuilder">LineDataBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-linedatasource">LineDataSource</a>
+  - <a href="sdk-for-ios-explore-classes-linedatasourcebuilder">LineDataSourceBuilder</a>
+  - <a href="sdk-for-ios-explore-enums-maploadererror">MapLoaderError</a>
+  - <a href="sdk-for-ios-explore-classes-mapdownloader">MapDownloader</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk31MapDownloaderConstructionHandlea">MapDownloaderConstructionHandle</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk18MapLoaderExceptiona">MapLoaderException</a>
+  - <a href="sdk-for-ios-explore-classes-mapdownloadertask">MapDownloaderTask</a>
+  - <a href="sdk-for-ios-explore-protocols-mapupdateprogresslistener">MapUpdateProgressListener</a>
+  - <a href="sdk-for-ios-explore-classes-mapupdater">MapUpdater</a>
+  - <a href="sdk-for-ios-explore-classes-mapupdater-mapupdateversioncommitpolicy">– MapUpdateVersionCommitPolicy</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk29MapUpdaterConstructionHandlera">MapUpdaterConstructionHandler</a>
+  - <a href="sdk-for-ios-explore-classes-mapupdatetask">MapUpdateTask</a>
+  - <a href="sdk-for-ios-explore-classes-mapversionhandle">MapVersionHandle</a>
+  - <a href="sdk-for-ios-explore-enums-navigabilitytype">NavigabilityType</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk25OfflineStorageSizeHandlera">OfflineStorageSizeHandler</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk23RepairCompletionHandlera">RepairCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-structs-pemkeycertpair">PemKeyCertPair</a>
+  - <a href="sdk-for-ios-explore-enums-persistentmaprepairerror">PersistentMapRepairError</a>
+  - <a href="sdk-for-ios-explore-enums-persistentmapstatus">PersistentMapStatus</a>
+  - <a href="sdk-for-ios-explore-structs-region">Region</a>
+  - <a href="sdk-for-ios-explore-structs-regionid">RegionId</a>
+  - <a href="sdk-for-ios-explore-maploader#/s:7heresdk19ServerStartedHandlea">ServerStartedHandle</a>
+  - <a href="sdk-for-ios-explore-structs-sslclientcredentialsoptions">SslClientCredentialsOptions</a>
+  - <a href="sdk-for-ios-explore-structs-sslservercredentialsoptions">SslServerCredentialsOptions</a>
+  - <a href="sdk-for-ios-explore-structs-updatestatistics">UpdateStatistics</a>
+- <a href="sdk-for-ios-explore-mapmatcher">MapMatcher</a>
+  - <a href="sdk-for-ios-explore-classes-mapmatcher">MapMatcher</a>
+  - <a href="sdk-for-ios-explore-structs-matchedlocation">MatchedLocation</a>
+- <a href="sdk-for-ios-explore-maps">Maps</a>
+  - <a href="sdk-for-ios-explore-protocols-animationdelegate">AnimationDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-animationstate">AnimationState</a>
+  - <a href="sdk-for-ios-explore-classes-assetsmanager">AssetsManager</a>
+  - <a href="sdk-for-ios-explore-classes-dataattributes">DataAttributes</a>
+  - <a href="sdk-for-ios-explore-classes-dataattributesaccessor">DataAttributesAccessor</a>
+  - <a href="sdk-for-ios-explore-classes-dataattributesbuilder">DataAttributesBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-dataattributevalue">DataAttributeValue</a>
+  - <a href="sdk-for-ios-explore-classes-dataattributevalue-valuetype">– ValueType</a>
+  - <a href="sdk-for-ios-explore-structs-dashpattern">DashPattern</a>
+  - <a href="sdk-for-ios-explore-protocols-doubletapdelegate">DoubleTapDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-drawordertype">DrawOrderType</a>
+  - <a href="sdk-for-ios-explore-classes-easing">Easing</a>
+  - <a href="sdk-for-ios-explore-classes-easing-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-enums-easingfunction">EasingFunction</a>
+  - <a href="sdk-for-ios-explore-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a>
+  - <a href="sdk-for-ios-explore-structs-geoorientationkeyframe">GeoOrientationKeyframe</a>
+  - <a href="sdk-for-ios-explore-enums-gesturestate">GestureState</a>
+  - <a href="sdk-for-ios-explore-enums-gesturetype">GestureType</a>
+  - <a href="sdk-for-ios-explore-classes-gestures">Gestures</a>
+  - <a href="sdk-for-ios-explore-classes-heremap">HereMap</a>
+  - <a href="sdk-for-ios-explore-classes-iconprovider">IconProvider</a>
+  - <a href="sdk-for-ios-explore-enums-iconproviderassettype">IconProviderAssetType</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a>
+  - <a href="sdk-for-ios-explore-enums-iconprovidererror">IconProviderError</a>
+  - <a href="sdk-for-ios-explore-enums-imageformat">ImageFormat</a>
+  - <a href="sdk-for-ios-explore-classes-jsonstylefactory">JsonStyleFactory</a>
+  - <a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-jsonstylefactory-instantiationerrordetails">– InstantiationErrorDetails</a>
+  - <a href="sdk-for-ios-explore-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a>
+  - <a href="sdk-for-ios-explore-enums-linecap">LineCap</a>
+  - <a href="sdk-for-ios-explore-classes-linetiledatasource">LineTileDataSource</a>
+  - <a href="sdk-for-ios-explore-protocols-linetilesource">LineTileSource</a>
+  - <a href="sdk-for-ios-explore-protocols-linetilesourceloadresulthandler">LineTileSourceLoadResultHandler</a>
+  - <a href="sdk-for-ios-explore-classes-locationindicator">LocationIndicator</a>
+  - <a href="sdk-for-ios-explore-classes-locationindicator-indicatorstyle">– IndicatorStyle</a>
+  - <a href="sdk-for-ios-explore-classes-locationindicator-markertype">– MarkerType</a>
+  - <a href="sdk-for-ios-explore-protocols-longpressdelegate">LongPressDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-maparrow">MapArrow</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamera">MapCamera</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamera-state">– State</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamera-farplaneconfiguration">– FarPlaneConfiguration</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimation">MapCameraAnimation</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimation-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraanimationfactory">MapCameraAnimationFactory</a>
+  - <a href="sdk-for-ios-explore-protocols-mapcameradelegate">MapCameraDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a>
+  - <a href="sdk-for-ios-explore-classes-mapcamerakeyframetrack-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameralimits">MapCameraLimits</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate">MapCameraUpdate</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdate-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapcameraupdatefactory">MapCameraUpdateFactory</a>
+  - <a href="sdk-for-ios-explore-enums-mapcontentcategory">MapContentCategory</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontentsettings">MapContentSettings</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontentsettings-trafficrefreshperioderrorcode">– TrafficRefreshPeriodErrorCode</a>
+  - <a href="sdk-for-ios-explore-enums-mapcontenttype">MapContentType</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext">MapContext</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementstrategy">– MemoryManagementStrategy</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresultcode">– MemoryManagementResultCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-resourcetype">– ResourceType</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-freeresourceseverity">– FreeResourceSeverity</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementresult">– MemoryManagementResult</a>
+  - <a href="sdk-for-ios-explore-classes-mapcontext-memorymanagementoptions">– MemoryManagementOptions</a>
+  - <a href="sdk-for-ios-explore-enums-maperror">MapError</a>
+  - <a href="sdk-for-ios-explore-structs-mapfeatures">MapFeatures</a>
+  - <a href="sdk-for-ios-explore-structs-mapfeaturemodes">MapFeatureModes</a>
+  - <a href="sdk-for-ios-explore-protocols-mapidledelegate">MapIdleDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-mapimage">MapImage</a>
+  - <a href="sdk-for-ios-explore-classes-mapimageoverlay">MapImageOverlay</a>
+  - <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a>
+  - <a href="sdk-for-ios-explore-classes-mapitemkeyframetrack-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk21MapItemRepresentationC">MapItemRepresentation</a>
+  - <a href="sdk-for-ios-explore-classes-maplayer">MapLayer</a>
+  - <a href="sdk-for-ios-explore-classes-maplayerbuilder">MapLayerBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-maplayerbuilder-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-maplayerbuilder-instantiationerrordetails">– InstantiationErrorDetails</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a>
+  - <a href="sdk-for-ios-explore-classes-maplayerprioritybuilder">MapLayerPriorityBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a>
+  - <a href="sdk-for-ios-explore-structs-maplayervisibilityrange">MapLayerVisibilityRange</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkercluster">MapMarkerCluster</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkercluster-grouping">– Grouping</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkercluster-imagestyle">– ImageStyle</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkercluster-counterstyle">– CounterStyle</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasurerange">MapMeasureRange</a>
+  - <a href="sdk-for-ios-explore-classes-mapobjectdescriptor">MapObjectDescriptor</a>
+  - <a href="sdk-for-ios-explore-enums-mapprojection">MapProjection</a>
+  - <a href="sdk-for-ios-explore-classes-mapscenelights">MapSceneLights</a>
+  - <a href="sdk-for-ios-explore-classes-mapscenelights-category">– Category</a>
+  - <a href="sdk-for-ios-explore-classes-mapscenelights-attributesettingerror">– AttributeSettingError</a>
+  - <a href="sdk-for-ios-explore-classes-mapscenelights-direction">– Direction</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a>
+  - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder">MapSceneLoadOptionsBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapsceneloadoptionsbuilder-instantiationerrordetails">– InstantiationErrorDetails</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker">MapMarker</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker-textstyle">– TextStyle</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3d">MapMarker3D</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel">MapMarker3DModel</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarker3dmodel-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkeranimation">MapMarkerAnimation</a>
+  - <a href="sdk-for-ios-explore-classes-mapmarkeranimation-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure">MapMeasure</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasure-kind">– Kind</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a>
+  - <a href="sdk-for-ios-explore-structs-mapmeasuredependentrendersize-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mappolygon">MapPolygon</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline">MapPolyline</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline-representation">– Representation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline-dashimagerepresentation">– DashImageRepresentation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline-solidrepresentation">– SolidRepresentation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline-dashrepresentation">– DashRepresentation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolyline-solidmulticolorrepresentation">– SolidMultiColorRepresentation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolylineanimation">MapPolylineAnimation</a>
+  - <a href="sdk-for-ios-explore-classes-mappolylineanimation-instantiationerrorcode">– InstantiationErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-mappickresult">MapPickResult</a>
+  - <a href="sdk-for-ios-explore-classes-mapscene">MapScene</a>
+  - <a href="sdk-for-ios-explore-classes-mapscene-mappickfilter">– MapPickFilter</a>
+  - <a href="sdk-for-ios-explore-enums-mapscheme">MapScheme</a>
+  - <a href="sdk-for-ios-explore-protocols-mapviewbase">MapViewBase</a>
+  - <a href="sdk-for-ios-explore-classes-mapview">MapView</a>
+  - <a href="sdk-for-ios-explore-classes-mapview-viewpin">– ViewPin</a>
+  - <a href="sdk-for-ios-explore-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-mapviewoptions">MapViewOptions</a>
+  - <a href="sdk-for-ios-explore-structs-materialreflectivity">MaterialReflectivity</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk4MeshC">Mesh</a>
+  - <a href="sdk-for-ios-explore-classes-meshbuilder">MeshBuilder</a>
+  - <a href="sdk-for-ios-explore-protocols-pandelegate">PanDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-pickmapcontentresult">PickMapContentResult</a>
+  - <a href="sdk-for-ios-explore-classes-pickmapcontentresult-trafficincidentresult">– TrafficIncidentResult</a>
+  - <a href="sdk-for-ios-explore-classes-pickmapcontentresult-vehiclerestrictionresult">– VehicleRestrictionResult</a>
+  - <a href="sdk-for-ios-explore-classes-pickmapitemsresult">PickMapItemsResult</a>
+  - <a href="sdk-for-ios-explore-protocols-pinchrotatedelegate">PinchRotateDelegate</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk9PointDataC">PointData</a>
+  - <a href="sdk-for-ios-explore-classes-pointdataaccessor">PointDataAccessor</a>
+  - <a href="sdk-for-ios-explore-classes-pointdatabuilder">PointDataBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-pointdatasource">PointDataSource</a>
+  - <a href="sdk-for-ios-explore-classes-pointdatasourcebuilder">PointDataSourceBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-pointtiledatasource">PointTileDataSource</a>
+  - <a href="sdk-for-ios-explore-protocols-pointtilesource">PointTileSource</a>
+  - <a href="sdk-for-ios-explore-protocols-pointtilesourceloadresulthandler">PointTileSourceLoadResultHandler</a>
+  - <a href="sdk-for-ios-explore-structs-point2dkeyframe">Point2DKeyframe</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk11PolygonDataC">PolygonData</a>
+  - <a href="sdk-for-ios-explore-classes-polygondataaccessor">PolygonDataAccessor</a>
+  - <a href="sdk-for-ios-explore-classes-polygondatabuilder">PolygonDataBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-polygondatasource">PolygonDataSource</a>
+  - <a href="sdk-for-ios-explore-classes-polygondatasourcebuilder">PolygonDataSourceBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-polygontiledatasource">PolygonTileDataSource</a>
+  - <a href="sdk-for-ios-explore-protocols-polygontilesource">PolygonTileSource</a>
+  - <a href="sdk-for-ios-explore-protocols-polygontilesourceloadresulthandler">PolygonTileSourceLoadResultHandler</a>
+  - <a href="sdk-for-ios-explore-classes-quadmeshbuilder">QuadMeshBuilder</a>
+  - <a href="sdk-for-ios-explore-classes-rasterdatasource">RasterDataSource</a>
+  - <a href="sdk-for-ios-explore-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a>
+  - <a href="sdk-for-ios-explore-structs-rasterdatasourceconfiguration-provider">– Provider</a>
+  - <a href="sdk-for-ios-explore-structs-rasterdatasourceconfiguration-cache">– Cache</a>
+  - <a href="sdk-for-ios-explore-structs-rasterdatasourceconfigurationupdate">RasterDataSourceConfigurationUpdate</a>
+  - <a href="sdk-for-ios-explore-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-rasterdatasourceerror">RasterDataSourceError</a>
+  - <a href="sdk-for-ios-explore-protocols-rastertilesource">RasterTileSource</a>
+  - <a href="sdk-for-ios-explore-protocols-rastertilesourceloadresulthandler">RasterTileSourceLoadResultHandler</a>
+  - <a href="sdk-for-ios-explore-structs-roadshieldiconproperties">RoadShieldIconProperties</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize">RenderSize</a>
+  - <a href="sdk-for-ios-explore-structs-rendersize-unit">– Unit</a>
+  - <a href="sdk-for-ios-explore-structs-scalarkeyframe">ScalarKeyframe</a>
+  - <a href="sdk-for-ios-explore-classes-sdkmapviewinitializer">SDKMapViewInitializer</a>
+  - <a href="sdk-for-ios-explore-enums-shadowquality">ShadowQuality</a>
+  - <a href="sdk-for-ios-explore-classes-style">Style</a>
+  - <a href="sdk-for-ios-explore-protocols-tapdelegate">TapDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-tilegeoboundscalculator">TileGeoBoundsCalculator</a>
+  - <a href="sdk-for-ios-explore-protocols-tilesource">TileSource</a>
+  - <a href="sdk-for-ios-explore-structs-tilesourcedataversion">TileSourceDataVersion</a>
+  - <a href="sdk-for-ios-explore-protocols-tilesourcedelegate">TileSourceDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-tilesourceloadtilerequesthandle">TileSourceLoadTileRequestHandle</a>
+  - <a href="sdk-for-ios-explore-structs-tilesourcetilemetadata">TileSourceTileMetadata</a>
+  - <a href="sdk-for-ios-explore-structs-tilekey">TileKey</a>
+  - <a href="sdk-for-ios-explore-classes-tileurlproviderfactory">TileUrlProviderFactory</a>
+  - <a href="sdk-for-ios-explore-maps#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a>
+  - <a href="sdk-for-ios-explore-enums-tilingscheme">TilingScheme</a>
+  - <a href="sdk-for-ios-explore-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a>
+  - <a href="sdk-for-ios-explore-classes-translucentmaplayergroup-errorcode">– ErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-translucentmaplayergroup-errordetails">– ErrorDetails</a>
+  - <a href="sdk-for-ios-explore-classes-trianglemeshbuilder">TriangleMeshBuilder</a>
+  - <a href="sdk-for-ios-explore-protocols-twofingerpandelegate">TwoFingerPanDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-twofingertapdelegate">TwoFingerTapDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-visibilitystate">VisibilityState</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictioniconproperties">VehicleRestrictionIconProperties</a>
+  - <a href="sdk-for-ios-explore-enums-watermarkstyle">WatermarkStyle</a>
+- <a href="sdk-for-ios-explore-routing">Routing</a>
+  - <a href="sdk-for-ios-explore-enums-accessattributes">AccessAttributes</a>
+  - <a href="sdk-for-ios-explore-structs-agency">Agency</a>
+  - <a href="sdk-for-ios-explore-structs-allowoptions">AllowOptions</a>
+  - <a href="sdk-for-ios-explore-structs-attribution">Attribution</a>
+  - <a href="sdk-for-ios-explore-enums-attributiontype">AttributionType</a>
+  - <a href="sdk-for-ios-explore-structs-avoidanceoptions">AvoidanceOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a>
+  - <a href="sdk-for-ios-explore-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a>
+  - <a href="sdk-for-ios-explore-structs-batteryspecifications">BatterySpecifications</a>
+  - <a href="sdk-for-ios-explore-structs-bicycleoptions">BicycleOptions</a>
+  - <a href="sdk-for-ios-explore-structs-busoptions">BusOptions</a>
+  - <a href="sdk-for-ios-explore-structs-caroptions">CarOptions</a>
+  - <a href="sdk-for-ios-explore-routing#/s:7heresdk37CalculateIndoorRouteCompletionHandlera">CalculateIndoorRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-routing#/s:7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-routing#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-routing#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-structs-chargingactiondetails">ChargingActionDetails</a>
+  - <a href="sdk-for-ios-explore-structs-chargingconnectorattributes">ChargingConnectorAttributes</a>
+  - <a href="sdk-for-ios-explore-enums-chargingconnectortype">ChargingConnectorType</a>
+  - <a href="sdk-for-ios-explore-enums-chargingconnectortype-key">– Key</a>
+  - <a href="sdk-for-ios-explore-enums-chargingconnectortype-codingerror">– CodingError</a>
+  - <a href="sdk-for-ios-explore-structs-chargingstation">ChargingStation</a>
+  - <a href="sdk-for-ios-explore-structs-chargingstop">ChargingStop</a>
+  - <a href="sdk-for-ios-explore-enums-chargingsupplytype">ChargingSupplyType</a>
+  - <a href="sdk-for-ios-explore-structs-dynamicspeedinfo">DynamicSpeedInfo</a>
+  - <a href="sdk-for-ios-explore-structs-electricvehicleoptions">ElectricVehicleOptions</a>
+  - <a href="sdk-for-ios-explore-structs-empiricalconsumptionmodel">EmpiricalConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-structs-evcaroptions">EVCarOptions</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingpool">EVChargingPool</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingstation">EVChargingStation</a>
+  - <a href="sdk-for-ios-explore-structs-evconsumptionmodel">EVConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-structs-evmobilityserviceproviderpreferences">EVMobilityServiceProviderPreferences</a>
+  - <a href="sdk-for-ios-explore-structs-evtruckoptions">EVTruckOptions</a>
+  - <a href="sdk-for-ios-explore-structs-fare">Fare</a>
+  - <a href="sdk-for-ios-explore-structs-farepassvalidityperiod">FarePassValidityPeriod</a>
+  - <a href="sdk-for-ios-explore-enums-farepassvalidityperiodtype">FarePassValidityPeriodType</a>
+  - <a href="sdk-for-ios-explore-structs-fareprice">FarePrice</a>
+  - <a href="sdk-for-ios-explore-enums-farepricetype">FarePriceType</a>
+  - <a href="sdk-for-ios-explore-enums-farereason">FareReason</a>
+  - <a href="sdk-for-ios-explore-enums-functionalroadclass">FunctionalRoadClass</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterial">HazardousMaterial</a>
+  - <a href="sdk-for-ios-explore-structs-indooravoidanceoptions">IndoorAvoidanceOptions</a>
+  - <a href="sdk-for-ios-explore-classes-indoormaneuver">IndoorManeuver</a>
+  - <a href="sdk-for-ios-explore-structs-indoorrouteoptions">IndoorRouteOptions</a>
+  - <a href="sdk-for-ios-explore-classes-indoorroutestyle">IndoorRouteStyle</a>
+  - <a href="sdk-for-ios-explore-classes-indoorroutingcontroller">IndoorRoutingController</a>
+  - <a href="sdk-for-ios-explore-classes-indoorroutingengine">IndoorRoutingEngine</a>
+  - <a href="sdk-for-ios-explore-enums-indoorroutingerror">IndoorRoutingError</a>
+  - <a href="sdk-for-ios-explore-classes-indoorwaypoint">IndoorWaypoint</a>
+  - <a href="sdk-for-ios-explore-classes-isoline">Isoline</a>
+  - <a href="sdk-for-ios-explore-enums-isolinecalculationmode">IsolineCalculationMode</a>
+  - <a href="sdk-for-ios-explore-structs-isolineoptions">IsolineOptions</a>
+  - <a href="sdk-for-ios-explore-structs-isolineoptions-calculation">– Calculation</a>
+  - <a href="sdk-for-ios-explore-enums-isolinerangetype">IsolineRangeType</a>
+  - <a href="sdk-for-ios-explore-classes-isolineroutingengine">IsolineRoutingEngine</a>
+  - <a href="sdk-for-ios-explore-enums-localizedtextpreference">LocalizedTextPreference</a>
+  - <a href="sdk-for-ios-explore-classes-maneuver">Maneuver</a>
+  - <a href="sdk-for-ios-explore-enums-maneuveraction">ManeuverAction</a>
+  - <a href="sdk-for-ios-explore-structs-mapdatasize">MapDataSize</a>
+  - <a href="sdk-for-ios-explore-protocols-mapdatasizelistener">MapDataSizeListener</a>
+  - <a href="sdk-for-ios-explore-structs-mapmatchedcoordinates">MapMatchedCoordinates</a>
+  - <a href="sdk-for-ios-explore-enums-matchsideofstreet">MatchSideOfStreet</a>
+  - <a href="sdk-for-ios-explore-structs-maxaxlegroupweight">MaxAxleGroupWeight</a>
+  - <a href="sdk-for-ios-explore-structs-maxspeedonsegment">MaxSpeedOnSegment</a>
+  - <a href="sdk-for-ios-explore-enums-noticeseverity">NoticeSeverity</a>
+  - <a href="sdk-for-ios-explore-classes-offlineroutingengine">OfflineRoutingEngine</a>
+  - <a href="sdk-for-ios-explore-structs-offlineroutingengineoptions">OfflineRoutingEngineOptions</a>
+  - <a href="sdk-for-ios-explore-enums-optimizationmode">OptimizationMode</a>
+  - <a href="sdk-for-ios-explore-structs-passthroughwaypoint">PassThroughWaypoint</a>
+  - <a href="sdk-for-ios-explore-enums-paymentmethod">PaymentMethod</a>
+  - <a href="sdk-for-ios-explore-structs-pedestrianoptions">PedestrianOptions</a>
+  - <a href="sdk-for-ios-explore-structs-physicalconsumptionmodel">PhysicalConsumptionModel</a>
+  - <a href="sdk-for-ios-explore-classes-polygonprefetcher">PolygonPrefetcher</a>
+  - <a href="sdk-for-ios-explore-structs-postaction">PostAction</a>
+  - <a href="sdk-for-ios-explore-protocols-postactiondelegate">PostActionDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-postactiontype">PostActionType</a>
+  - <a href="sdk-for-ios-explore-structs-preaction">PreAction</a>
+  - <a href="sdk-for-ios-explore-enums-preactiontype">PreActionType</a>
+  - <a href="sdk-for-ios-explore-protocols-prefetchstatuslistener">PrefetchStatusListener</a>
+  - <a href="sdk-for-ios-explore-structs-privatebusoptions">PrivateBusOptions</a>
+  - <a href="sdk-for-ios-explore-classes-refreshrouteoptions">RefreshRouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-roadattributes">RoadAttributes</a>
+  - <a href="sdk-for-ios-explore-protocols-roadattributesdelegate">RoadAttributesDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-roadfeatures">RoadFeatures</a>
+  - <a href="sdk-for-ios-explore-structs-roadtexts">RoadTexts</a>
+  - <a href="sdk-for-ios-explore-classes-route">Route</a>
+  - <a href="sdk-for-ios-explore-structs-routehandle">RouteHandle</a>
+  - <a href="sdk-for-ios-explore-structs-routelabel">RouteLabel</a>
+  - <a href="sdk-for-ios-explore-enums-routelabeltype">RouteLabelType</a>
+  - <a href="sdk-for-ios-explore-structs-routeoffset">RouteOffset</a>
+  - <a href="sdk-for-ios-explore-structs-routeoptions">RouteOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routeplace">RoutePlace</a>
+  - <a href="sdk-for-ios-explore-enums-routeplacedirection">RoutePlaceDirection</a>
+  - <a href="sdk-for-ios-explore-enums-routeplacetype">RoutePlaceType</a>
+  - <a href="sdk-for-ios-explore-classes-routeprefetcher">RoutePrefetcher</a>
+  - <a href="sdk-for-ios-explore-structs-routerailwaycrossing">RouteRailwayCrossing</a>
+  - <a href="sdk-for-ios-explore-enums-routerailwaycrossingtype">RouteRailwayCrossingType</a>
+  - <a href="sdk-for-ios-explore-structs-routestop">RouteStop</a>
+  - <a href="sdk-for-ios-explore-structs-routetextoptions">RouteTextOptions</a>
+  - <a href="sdk-for-ios-explore-structs-routingconnectionsettings">RoutingConnectionSettings</a>
+  - <a href="sdk-for-ios-explore-classes-routingengine">RoutingEngine</a>
+  - <a href="sdk-for-ios-explore-enums-routingerror">RoutingError</a>
+  - <a href="sdk-for-ios-explore-structs-routingoptions">RoutingOptions</a>
+  - <a href="sdk-for-ios-explore-protocols-routingprotocol">RoutingProtocol</a>
+  - <a href="sdk-for-ios-explore-structs-scooteroptions">ScooterOptions</a>
+  - <a href="sdk-for-ios-explore-classes-section">Section</a>
+  - <a href="sdk-for-ios-explore-structs-sectionnotice">SectionNotice</a>
+  - <a href="sdk-for-ios-explore-enums-sectionnoticecode">SectionNoticeCode</a>
+  - <a href="sdk-for-ios-explore-enums-sectiontransportmode">SectionTransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-segmentreference">SegmentReference</a>
+  - <a href="sdk-for-ios-explore-enums-sideofdestination">SideOfDestination</a>
+  - <a href="sdk-for-ios-explore-structs-signpost">Signpost</a>
+  - <a href="sdk-for-ios-explore-structs-signpostlabel">SignpostLabel</a>
+  - <a href="sdk-for-ios-explore-enums-streetattributes">StreetAttributes</a>
+  - <a href="sdk-for-ios-explore-classes-span">Span</a>
+  - <a href="sdk-for-ios-explore-structs-taxioptions">TaxiOptions</a>
+  - <a href="sdk-for-ios-explore-structs-textusageoptions">TextUsageOptions</a>
+  - <a href="sdk-for-ios-explore-structs-toll">Toll</a>
+  - <a href="sdk-for-ios-explore-structs-tollfare">TollFare</a>
+  - <a href="sdk-for-ios-explore-structs-tollfarepass">TollFarePass</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions">TollOptions</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions-vehiclecategory">– VehicleCategory</a>
+  - <a href="sdk-for-ios-explore-structs-tolloptions-emissiontype">– EmissionType</a>
+  - <a href="sdk-for-ios-explore-structs-trafficonroute">TrafficOnRoute</a>
+  - <a href="sdk-for-ios-explore-structs-trafficonspan">TrafficOnSpan</a>
+  - <a href="sdk-for-ios-explore-structs-trafficonsection">TrafficOnSection</a>
+  - <a href="sdk-for-ios-explore-structs-transitdeparture">TransitDeparture</a>
+  - <a href="sdk-for-ios-explore-enums-transitdeparturestatus">TransitDepartureStatus</a>
+  - <a href="sdk-for-ios-explore-structs-transitincident">TransitIncident</a>
+  - <a href="sdk-for-ios-explore-enums-transitincidenteffect">TransitIncidentEffect</a>
+  - <a href="sdk-for-ios-explore-enums-transitincidenttype">TransitIncidentType</a>
+  - <a href="sdk-for-ios-explore-enums-transitmode">TransitMode</a>
+  - <a href="sdk-for-ios-explore-enums-transitmodefilter">TransitModeFilter</a>
+  - <a href="sdk-for-ios-explore-enums-trafficoptimizationmode">TrafficOptimizationMode</a>
+  - <a href="sdk-for-ios-explore-structs-transitrouteoptions">TransitRouteOptions</a>
+  - <a href="sdk-for-ios-explore-classes-transitroutingengine">TransitRoutingEngine</a>
+  - <a href="sdk-for-ios-explore-structs-transitsectiondetails">TransitSectionDetails</a>
+  - <a href="sdk-for-ios-explore-structs-transitstop">TransitStop</a>
+  - <a href="sdk-for-ios-explore-structs-transittransport">TransitTransport</a>
+  - <a href="sdk-for-ios-explore-structs-transitwaypoint">TransitWaypoint</a>
+  - <a href="sdk-for-ios-explore-enums-traveldirection">TravelDirection</a>
+  - <a href="sdk-for-ios-explore-structs-truckoptions">TruckOptions</a>
+  - <a href="sdk-for-ios-explore-structs-truckspecifications">TruckSpecifications</a>
+  - <a href="sdk-for-ios-explore-enums-trucktype">TruckType</a>
+  - <a href="sdk-for-ios-explore-enums-tunnelcategory">TunnelCategory</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a>
+  - <a href="sdk-for-ios-explore-enums-vehiclerestrictionmaxweighttype">VehicleRestrictionMaxWeightType</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification">VehicleSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-carbuilder">– CarBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-truckbuilder">– TruckBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-scooterbuilder">– ScooterBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-taxibuilder">– TaxiBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-busbuilder">– BusBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecification-privatebusbuilder">– PrivateBusBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction">ViolatedRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-violatedrestriction-details">– Details</a>
+  - <a href="sdk-for-ios-explore-enums-walkattributes">WalkAttributes</a>
+  - <a href="sdk-for-ios-explore-structs-waypoint">Waypoint</a>
+  - <a href="sdk-for-ios-explore-enums-waypointtype">WaypointType</a>
+  - <a href="sdk-for-ios-explore-enums-zonecategory">ZoneCategory</a>
+- <a href="sdk-for-ios-explore-navigation">Navigation</a>
+  - <a href="sdk-for-ios-explore-classes-areacamerabehavior">AreaCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-enums-arrivalnotificationoption">ArrivalNotificationOption</a>
+  - <a href="sdk-for-ios-explore-enums-aspectratio">AspectRatio</a>
+  - <a href="sdk-for-ios-explore-classes-automotivecamerabehavior">AutomotiveCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-automotivecamerabehavior-orientationmode">– OrientationMode</a>
+  - <a href="sdk-for-ios-explore-classes-automotivecamerabehavior-activecameratype">– ActiveCameraType</a>
+  - <a href="sdk-for-ios-explore-enums-bordercrossingtype">BorderCrossingType</a>
+  - <a href="sdk-for-ios-explore-structs-bordercrossingwarning">BorderCrossingWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-bordercrossingwarningdelegate">BorderCrossingWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-bordercrossingwarningoptions">BorderCrossingWarningOptions</a>
+  - <a href="sdk-for-ios-explore-protocols-camerabehavior">CameraBehavior</a>
+  - <a href="sdk-for-ios-explore-structs-currentsituationlaneview">CurrentSituationLaneView</a>
+  - <a href="sdk-for-ios-explore-structs-currentsituationlaneassistanceview">CurrentSituationLaneAssistanceView</a>
+  - <a href="sdk-for-ios-explore-protocols-currentsituationlaneassistanceviewdelegate">CurrentSituationLaneAssistanceViewDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-custompanningdata">CustomPanningData</a>
+  - <a href="sdk-for-ios-explore-structs-dangerzonewarning">DangerZoneWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-dangerzonewarningdelegate">DangerZoneWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-destinationreacheddelegate">DestinationReachedDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-dimensionrestriction">DimensionRestriction</a>
+  - <a href="sdk-for-ios-explore-enums-dimensionrestrictiontype">DimensionRestrictionType</a>
+  - <a href="sdk-for-ios-explore-enums-directioninformationusageoption">DirectionInformationUsageOption</a>
+  - <a href="sdk-for-ios-explore-enums-distancetype">DistanceType</a>
+  - <a href="sdk-for-ios-explore-enums-dividermarker">DividerMarker</a>
+  - <a href="sdk-for-ios-explore-classes-dynamiccamerabehavior">DynamicCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-dynamicroutingengine">DynamicRoutingEngine</a>
+  - <a href="sdk-for-ios-explore-classes-dynamicroutingengine-starterror">– StartError</a>
+  - <a href="sdk-for-ios-explore-protocols-dynamicroutingdelegate">DynamicRoutingDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-dynamicroutingengineoptions">DynamicRoutingEngineOptions</a>
+  - <a href="sdk-for-ios-explore-structs-environmentalzonewarning">EnvironmentalZoneWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-environmentalzonewarningdelegate">EnvironmentalZoneWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-eventtext">EventText</a>
+  - <a href="sdk-for-ios-explore-protocols-eventtextdelegate">EventTextDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-eventtextoptions">EventTextOptions</a>
+  - <a href="sdk-for-ios-explore-classes-fixedcamerabehavior">FixedCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-enums-generalwarningroadsigntype">GeneralWarningRoadSignType</a>
+  - <a href="sdk-for-ios-explore-classes-gpxdocument">GPXDocument</a>
+  - <a href="sdk-for-ios-explore-structs-gpxoptions">GPXOptions</a>
+  - <a href="sdk-for-ios-explore-classes-gpxtrack">GPXTrack</a>
+  - <a href="sdk-for-ios-explore-classes-gpxtrackwriter">GPXTrackWriter</a>
+  - <a href="sdk-for-ios-explore-protocols-interpolatedlocationdelegate">InterpolatedLocationDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-junctionviewlaneassistance">JunctionViewLaneAssistance</a>
+  - <a href="sdk-for-ios-explore-protocols-junctionviewlaneassistancedelegate">JunctionViewLaneAssistanceDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-lane">Lane</a>
+  - <a href="sdk-for-ios-explore-structs-laneaccess">LaneAccess</a>
+  - <a href="sdk-for-ios-explore-enums-lanedirection">LaneDirection</a>
+  - <a href="sdk-for-ios-explore-structs-lanedirectioncategory">LaneDirectionCategory</a>
+  - <a href="sdk-for-ios-explore-structs-lanemarkings">LaneMarkings</a>
+  - <a href="sdk-for-ios-explore-enums-lanerecommendationstate">LaneRecommendationState</a>
+  - <a href="sdk-for-ios-explore-structs-lanetype">LaneType</a>
+  - <a href="sdk-for-ios-explore-structs-lowspeedzonewarning">LowSpeedZoneWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-lowspeedzonewarningdelegate">LowSpeedZoneWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationdetails">ManeuverNotificationDetails</a>
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationoptions">ManeuverNotificationOptions</a>
+  - <a href="sdk-for-ios-explore-structs-maneuvernotificationtimingoptions">ManeuverNotificationTimingOptions</a>
+  - <a href="sdk-for-ios-explore-enums-maneuvernotificationtype">ManeuverNotificationType</a>
+  - <a href="sdk-for-ios-explore-structs-maneuverprogress">ManeuverProgress</a>
+  - <a href="sdk-for-ios-explore-structs-maneuverviewlaneassistance">ManeuverViewLaneAssistance</a>
+  - <a href="sdk-for-ios-explore-protocols-maneuverviewlaneassistancedelegate">ManeuverViewLaneAssistanceDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-mapmatchedlocation">MapMatchedLocation</a>
+  - <a href="sdk-for-ios-explore-structs-milestone">Milestone</a>
+  - <a href="sdk-for-ios-explore-enums-milestonestatus">MilestoneStatus</a>
+  - <a href="sdk-for-ios-explore-protocols-milestonestatusdelegate">MilestoneStatusDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-milestonetype">MilestoneType</a>
+  - <a href="sdk-for-ios-explore-enums-naturalguidancetype">NaturalGuidanceType</a>
+  - <a href="sdk-for-ios-explore-structs-navigablelocation">NavigableLocation</a>
+  - <a href="sdk-for-ios-explore-protocols-navigablelocationdelegate">NavigableLocationDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-navigator">Navigator</a>
+  - <a href="sdk-for-ios-explore-protocols-navigatorprotocol">NavigatorProtocol</a>
+  - <a href="sdk-for-ios-explore-enums-notificationformatoption">NotificationFormatOption</a>
+  - <a href="sdk-for-ios-explore-protocols-offroaddestinationreacheddelegate">OffRoadDestinationReachedDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-offroadprogress">OffRoadProgress</a>
+  - <a href="sdk-for-ios-explore-protocols-offroadprogressdelegate">OffRoadProgressDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-realisticviewrasterimage">RealisticViewRasterImage</a>
+  - <a href="sdk-for-ios-explore-structs-realisticviewvectorimage">RealisticViewVectorImage</a>
+  - <a href="sdk-for-ios-explore-structs-realisticviewwarning">RealisticViewWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-realisticviewwarningdelegate">RealisticViewWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-realisticviewwarningoptions">RealisticViewWarningOptions</a>
+  - <a href="sdk-for-ios-explore-structs-railwaycrossingwarning">RailwayCrossingWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-railwaycrossingwarningdelegate">RailwayCrossingWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-roadclassification">RoadClassification</a>
+  - <a href="sdk-for-ios-explore-structs-roadsign">RoadSign</a>
+  - <a href="sdk-for-ios-explore-enums-roadsigncategory">RoadSignCategory</a>
+  - <a href="sdk-for-ios-explore-enums-roadsigntype">RoadSignType</a>
+  - <a href="sdk-for-ios-explore-structs-roadsignwarning">RoadSignWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-roadsignwarningdelegate">RoadSignWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-roadsignwarningoptions">RoadSignWarningOptions</a>
+  - <a href="sdk-for-ios-explore-enums-roadsignvehicletype">RoadSignVehicleType</a>
+  - <a href="sdk-for-ios-explore-protocols-roadtextsdelegate">RoadTextsDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-routedeviation">RouteDeviation</a>
+  - <a href="sdk-for-ios-explore-protocols-routedeviationdelegate">RouteDeviationDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-routematchedlocation">RouteMatchedLocation</a>
+  - <a href="sdk-for-ios-explore-structs-routeprogress">RouteProgress</a>
+  - <a href="sdk-for-ios-explore-structs-routeprogresscolors">RouteProgressColors</a>
+  - <a href="sdk-for-ios-explore-protocols-routeprogressdelegate">RouteProgressDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-safetycameratype">SafetyCameraType</a>
+  - <a href="sdk-for-ios-explore-structs-safetycamerawarning">SafetyCameraWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-safetycamerawarningdelegate">SafetyCameraWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-safetycamerawarningoptions">SafetyCameraWarningOptions</a>
+  - <a href="sdk-for-ios-explore-structs-schoolzonewarning">SchoolZoneWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-schoolzonewarningdelegate">SchoolZoneWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-schoolzonewarningoptions">SchoolZoneWarningOptions</a>
+  - <a href="sdk-for-ios-explore-classes-sdknavigationinitializer">SDKNavigationInitializer</a>
+  - <a href="sdk-for-ios-explore-structs-sectionprogress">SectionProgress</a>
+  - <a href="sdk-for-ios-explore-classes-spatialaudiocuepanning">SpatialAudioCuePanning</a>
+  - <a href="sdk-for-ios-explore-structs-spatialnotificationdetails">SpatialNotificationDetails</a>
+  - <a href="sdk-for-ios-explore-structs-spatialtrajectorydata">SpatialTrajectoryData</a>
+  - <a href="sdk-for-ios-explore-classes-speedbasedcamerabehavior">SpeedBasedCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-speedbasedcamerabehavior-profilevalue">– ProfileValue</a>
+  - <a href="sdk-for-ios-explore-structs-speedlimit">SpeedLimit</a>
+  - <a href="sdk-for-ios-explore-protocols-speedlimitdelegate">SpeedLimitDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-speedlimitoffset">SpeedLimitOffset</a>
+  - <a href="sdk-for-ios-explore-protocols-speedwarningdelegate">SpeedWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-speedwarningoptions">SpeedWarningOptions</a>
+  - <a href="sdk-for-ios-explore-enums-speedwarningstatus">SpeedWarningStatus</a>
+  - <a href="sdk-for-ios-explore-enums-textnotificationtype">TextNotificationType</a>
+  - <a href="sdk-for-ios-explore-enums-timingprofile">TimingProfile</a>
+  - <a href="sdk-for-ios-explore-structs-tollbooth">TollBooth</a>
+  - <a href="sdk-for-ios-explore-structs-tollboothlane">TollBoothLane</a>
+  - <a href="sdk-for-ios-explore-enums-tollcollectionmethod">TollCollectionMethod</a>
+  - <a href="sdk-for-ios-explore-structs-tollstop">TollStop</a>
+  - <a href="sdk-for-ios-explore-protocols-tollstopwarningdelegate">TollStopWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior">TrackingCameraBehavior</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-zoompolicy">– ZoomPolicy</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedthreshold">– SpeedThreshold</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions">– FunctionalRoadClassZoomPolicyOptions</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-speedbasedzoompolicyoptions">– SpeedBasedZoomPolicyOptions</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverzoomrange">– ManeuverZoomRange</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverruleoptions">– ManeuverRuleOptions</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuverrule">– ManeuverRule</a>
+  - <a href="sdk-for-ios-explore-classes-trackingcamerabehavior-maneuvermodeconfiguration">– ManeuverModeConfiguration</a>
+  - <a href="sdk-for-ios-explore-enums-trafficmergeroadtype">TrafficMergeRoadType</a>
+  - <a href="sdk-for-ios-explore-enums-trafficmergeside">TrafficMergeSide</a>
+  - <a href="sdk-for-ios-explore-structs-trafficmergewarning">TrafficMergeWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-trafficmergewarningdelegate">TrafficMergeWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-trafficmergewarningoptions">TrafficMergeWarningOptions</a>
+  - <a href="sdk-for-ios-explore-structs-trafficonroutecolors">TrafficOnRouteColors</a>
+  - <a href="sdk-for-ios-explore-structs-truckrestrictionwarning">TruckRestrictionWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-truckrestrictionswarningdelegate">TruckRestrictionsWarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-truckrestrictionswarningoptions">TruckRestrictionsWarningOptions</a>
+  - <a href="sdk-for-ios-explore-classes-visualnavigator">VisualNavigator</a>
+  - <a href="sdk-for-ios-explore-classes-visualnavigatorcolors">VisualNavigatorColors</a>
+  - <a href="sdk-for-ios-explore-protocols-wallclock">WallClock</a>
+  - <a href="sdk-for-ios-explore-structs-warningnotificationdistances">WarningNotificationDistances</a>
+  - <a href="sdk-for-ios-explore-enums-warningtype">WarningType</a>
+  - <a href="sdk-for-ios-explore-enums-weathertype">WeatherType</a>
+  - <a href="sdk-for-ios-explore-structs-weightrestriction">WeightRestriction</a>
+  - <a href="sdk-for-ios-explore-enums-weightrestrictiontype">WeightRestrictionType</a>
+- <a href="sdk-for-ios-explore-search">Search</a>
+  - <a href="sdk-for-ios-explore-structs-address">Address</a>
+  - <a href="sdk-for-ios-explore-enums-addresstype">AddressType</a>
+  - <a href="sdk-for-ios-explore-structs-addressquery">AddressQuery</a>
+  - <a href="sdk-for-ios-explore-enums-areatype">AreaType</a>
+  - <a href="sdk-for-ios-explore-structs-businessdetails">BusinessDetails</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery">CategoryQuery</a>
+  - <a href="sdk-for-ios-explore-structs-categoryquery-area">– Area</a>
+  - <a href="sdk-for-ios-explore-structs-contact">Contact</a>
+  - <a href="sdk-for-ios-explore-structs-daterange">DateRange</a>
+  - <a href="sdk-for-ios-explore-enums-dayofweek">DayOfWeek</a>
+  - <a href="sdk-for-ios-explore-structs-details">Details</a>
+  - <a href="sdk-for-ios-explore-structs-emailaddress">EmailAddress</a>
+  - <a href="sdk-for-ios-explore-structs-emobilityserviceprovider">EMobilityServiceProvider</a>
+  - <a href="sdk-for-ios-explore-structs-energymix">EnergyMix</a>
+  - <a href="sdk-for-ios-explore-structs-energysource">EnergySource</a>
+  - <a href="sdk-for-ios-explore-enums-energysourcetype">EnergySourceType</a>
+  - <a href="sdk-for-ios-explore-structs-environmentalimpact">EnvironmentalImpact</a>
+  - <a href="sdk-for-ios-explore-enums-environmentalimpactcategory">EnvironmentalImpactCategory</a>
+  - <a href="sdk-for-ios-explore-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a>
+  - <a href="sdk-for-ios-explore-enums-evaccesstype">EVAccessType</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingconnector">EVChargingConnector</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingconnectorgroup">EVChargingConnectorGroup</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingconnectorreference">EVChargingConnectorReference</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingdurationrange">EVChargingDurationRange</a>
+  - <a href="sdk-for-ios-explore-classes-evcharginglocation">EVChargingLocation</a>
+  - <a href="sdk-for-ios-explore-enums-evcharginglocationfeature">EVChargingLocationFeature</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingopeninghours">EVChargingOpeningHours</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingopeninghoursexception">EVChargingOpeningHoursException</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingopeninghoursschedule">EVChargingOpeningHoursSchedule</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingoperator">EVChargingOperator</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingpooldetails">EVChargingPoolDetails</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariff">EVChargingTariff</a>
+  - <a href="sdk-for-ios-explore-enums-evchargingtariffdimension">EVChargingTariffDimension</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelement">EVChargingTariffElement</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffelementcondition">EVChargingTariffElementCondition</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffpricecomponent">EVChargingTariffPriceComponent</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtariffrequest">EVChargingTariffRequest</a>
+  - <a href="sdk-for-ios-explore-enums-evchargingtarifftype">EVChargingTariffType</a>
+  - <a href="sdk-for-ios-explore-structs-evchargingtruckrestriction">EVChargingTruckRestriction</a>
+  - <a href="sdk-for-ios-explore-enums-evchargingvehiclecategory">EVChargingVehicleCategory</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-structs-evse">Evse</a>
+  - <a href="sdk-for-ios-explore-classes-evsearchengine">EVSearchEngine</a>
+  - <a href="sdk-for-ios-explore-enums-evsearcherror">EVSearchError</a>
+  - <a href="sdk-for-ios-explore-protocols-evsearchinterface">EVSearchInterface</a>
+  - <a href="sdk-for-ios-explore-structs-evsearchoptions">EVSearchOptions</a>
+  - <a href="sdk-for-ios-explore-structs-evseconnector">EVSEConnector</a>
+  - <a href="sdk-for-ios-explore-structs-evseinfo">EVSEInfo</a>
+  - <a href="sdk-for-ios-explore-enums-evsestatus">EVSEStatus</a>
+  - <a href="sdk-for-ios-explore-enums-facilitytype">FacilityType</a>
+  - <a href="sdk-for-ios-explore-structs-fueladditive">FuelAdditive</a>
+  - <a href="sdk-for-ios-explore-enums-fueladditivetype">FuelAdditiveType</a>
+  - <a href="sdk-for-ios-explore-structs-fuelstation">FuelStation</a>
+  - <a href="sdk-for-ios-explore-enums-fueltype">FuelType</a>
+  - <a href="sdk-for-ios-explore-structs-genericfuel">GenericFuel</a>
+  - <a href="sdk-for-ios-explore-structs-geoplace">GeoPlace</a>
+  - <a href="sdk-for-ios-explore-enums-highlighttype">HighlightType</a>
+  - <a href="sdk-for-ios-explore-classes-indexrange">IndexRange</a>
+  - <a href="sdk-for-ios-explore-structs-landlinephone">LandlinePhone</a>
+  - <a href="sdk-for-ios-explore-structs-locationdetails">LocationDetails</a>
+  - <a href="sdk-for-ios-explore-structs-mobilephone">MobilePhone</a>
+  - <a href="sdk-for-ios-explore-classes-myplaces">MyPlaces</a>
+  - <a href="sdk-for-ios-explore-classes-offlinesearchengine">OfflineSearchEngine</a>
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex">OfflineSearchIndex</a>
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex-operation">– Operation</a>
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex-error">– Error</a>
+  - <a href="sdk-for-ios-explore-classes-offlinesearchindex-options">– Options</a>
+  - <a href="sdk-for-ios-explore-protocols-offlinesearchindexlistener">OfflineSearchIndexListener</a>
+  - <a href="sdk-for-ios-explore-structs-openinghours">OpeningHours</a>
+  - <a href="sdk-for-ios-explore-enums-parkingtype">ParkingType</a>
+  - <a href="sdk-for-ios-explore-classes-place">Place</a>
+  - <a href="sdk-for-ios-explore-classes-placecategory">PlaceCategory</a>
+  - <a href="sdk-for-ios-explore-structs-placechain">PlaceChain</a>
+  - <a href="sdk-for-ios-explore-structs-placefilter">PlaceFilter</a>
+  - <a href="sdk-for-ios-explore-structs-placefilter-ev">– Ev</a>
+  - <a href="sdk-for-ios-explore-structs-placefoodtype">PlaceFoodType</a>
+  - <a href="sdk-for-ios-explore-structs-placeidquery">PlaceIdQuery</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk30PlaceIdSearchCompletionHandlera">PlaceIdSearchCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera">PlaceIdSearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-enums-placeserializationerror">PlaceSerializationError</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk27PlaceSerializationExceptiona">PlaceSerializationException</a>
+  - <a href="sdk-for-ios-explore-enums-placetype">PlaceType</a>
+  - <a href="sdk-for-ios-explore-structs-poipaymentdetails">POIPaymentDetails</a>
+  - <a href="sdk-for-ios-explore-structs-poipaymentmethod">POIPaymentMethod</a>
+  - <a href="sdk-for-ios-explore-structs-responsedetails">ResponseDetails</a>
+  - <a href="sdk-for-ios-explore-structs-scheduledetails">ScheduleDetails</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk23SearchCompletionHandlera">SearchCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk31SearchExtendedCompletionHandlera">SearchExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-classes-searchengine">SearchEngine</a>
+  - <a href="sdk-for-ios-explore-enums-searcherror">SearchError</a>
+  - <a href="sdk-for-ios-explore-protocols-searchinterface">SearchInterface</a>
+  - <a href="sdk-for-ios-explore-structs-searchoptions">SearchOptions</a>
+  - <a href="sdk-for-ios-explore-structs-structuredquery">StructuredQuery</a>
+  - <a href="sdk-for-ios-explore-structs-structuredquery-resulttype">– ResultType</a>
+  - <a href="sdk-for-ios-explore-structs-structuredquery-addresselements">– AddressElements</a>
+  - <a href="sdk-for-ios-explore-classes-suggestion">Suggestion</a>
+  - <a href="sdk-for-ios-explore-enums-suggestiontype">SuggestionType</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk24SuggestCompletionHandlera">SuggestCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk32SuggestExtendedCompletionHandlera">SuggestExtendedCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-structs-supplierreference">SupplierReference</a>
+  - <a href="sdk-for-ios-explore-structs-textquery">TextQuery</a>
+  - <a href="sdk-for-ios-explore-structs-textquery-area">– Area</a>
+  - <a href="sdk-for-ios-explore-structs-timeofdayrange">TimeOfDayRange</a>
+  - <a href="sdk-for-ios-explore-structs-truckamenities">TruckAmenities</a>
+  - <a href="sdk-for-ios-explore-structs-truckfuel">TruckFuel</a>
+  - <a href="sdk-for-ios-explore-structs-webdetails">WebDetails</a>
+  - <a href="sdk-for-ios-explore-structs-webeditorial">WebEditorial</a>
+  - <a href="sdk-for-ios-explore-structs-webimage">WebImage</a>
+  - <a href="sdk-for-ios-explore-structs-webrating">WebRating</a>
+  - <a href="sdk-for-ios-explore-structs-websiteaddress">WebsiteAddress</a>
+  - <a href="sdk-for-ios-explore-structs-websource">WebSource</a>
+  - <a href="sdk-for-ios-explore-classes-w3wsearchengine">W3WSearchEngine</a>
+  - <a href="sdk-for-ios-explore-enums-w3wsearcherror">W3WSearchError</a>
+  - <a href="sdk-for-ios-explore-structs-w3wsquare">W3WSquare</a>
+  - <a href="sdk-for-ios-explore-search#/s:7heresdk26W3WSearchCompletionHandlera">W3WSearchCompletionHandler</a>
+- <a href="sdk-for-ios-explore-traffic">Traffic</a>
+  - <a href="sdk-for-ios-explore-traffic#/s:7heresdk19TrafficDataProviderC">TrafficDataProvider</a>
+  - <a href="sdk-for-ios-explore-classes-trafficengine">TrafficEngine</a>
+  - <a href="sdk-for-ios-explore-classes-trafficflow">TrafficFlow</a>
+  - <a href="sdk-for-ios-explore-protocols-trafficflowbase">TrafficFlowBase</a>
+  - <a href="sdk-for-ios-explore-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a>
+  - <a href="sdk-for-ios-explore-traffic#/s:7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident">TrafficIncident</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident-restrictedvehiclecategory">– RestrictedVehicleCategory</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincident-vehiclerestriction">– VehicleRestriction</a>
+  - <a href="sdk-for-ios-explore-protocols-trafficincidentbase">TrafficIncidentBase</a>
+  - <a href="sdk-for-ios-explore-traffic#/s:7heresdk32TrafficIncidentCompletionHandlera">TrafficIncidentCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-enums-trafficincidentimpact">TrafficIncidentImpact</a>
+  - <a href="sdk-for-ios-explore-structs-trafficincidentlookupoptions">TrafficIncidentLookupOptions</a>
+  - <a href="sdk-for-ios-explore-classes-trafficincidentonroute">TrafficIncidentOnRoute</a>
+  - <a href="sdk-for-ios-explore-enums-trafficincidenttype">TrafficIncidentType</a>
+  - <a href="sdk-for-ios-explore-traffic#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a>
+  - <a href="sdk-for-ios-explore-structs-trafficlocation">TrafficLocation</a>
+  - <a href="sdk-for-ios-explore-enums-trafficqueryerror">TrafficQueryError</a>
+  - <a href="sdk-for-ios-explore-enums-traversability">Traversability</a>
+- <a href="sdk-for-ios-explore-trafficradio">TrafficRadio</a>
+  - <a href="sdk-for-ios-explore-classes-trafficbroadcast">TrafficBroadcast</a>
+  - <a href="sdk-for-ios-explore-structs-trafficbroadcastparameters">TrafficBroadcastParameters</a>
+  - <a href="sdk-for-ios-explore-structs-tmcdata">TMCData</a>
+  - <a href="sdk-for-ios-explore-structs-tmcpreferredsidsrequest">TMCPreferredSidsRequest</a>
+  - <a href="sdk-for-ios-explore-structs-tmcserviceproviderinfo">TMCServiceProviderInfo</a>
+  - <a href="sdk-for-ios-explore-structs-tmcservicerequest">TMCServiceRequest</a>
+  - <a href="sdk-for-ios-explore-protocols-tmcserviceinterface">TMCServiceInterface</a>
+  - <a href="sdk-for-ios-explore-structs-rdsencryptionkey">RDSEncryptionKey</a>
+  - <a href="sdk-for-ios-explore-structs-rdsencryptionkeysrequest">RDSEncryptionKeysRequest</a>
+- <a href="sdk-for-ios-explore-transport">Transport</a>
+  - <a href="sdk-for-ios-explore-structs-busspecifications">BusSpecifications</a>
+  - <a href="sdk-for-ios-explore-structs-carspecifications">CarSpecifications</a>
+  - <a href="sdk-for-ios-explore-structs-generalvehiclespeedlimits">GeneralVehicleSpeedLimits</a>
+  - <a href="sdk-for-ios-explore-structs-hazardousmaterialrestriction">HazardousMaterialRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-pedestrianspecification">PedestrianSpecification</a>
+  - <a href="sdk-for-ios-explore-enums-restrictiontype">RestrictionType</a>
+  - <a href="sdk-for-ios-explore-structs-scooterspecification">ScooterSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-specificrestriction">SpecificRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-taxispecification">TaxiSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-timerestriction">TimeRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-timerestriction-category">– Category</a>
+  - <a href="sdk-for-ios-explore-enums-transportmode">TransportMode</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification">TransportSpecification</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-carbuilder">– CarBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-truckbuilder">– TruckBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-pedestrianbuilder">– PedestrianBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-scooterbuilder">– ScooterBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-bicyclebuilder">– BicycleBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-taxibuilder">– TaxiBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-busbuilder">– BusBuilder</a>
+  - <a href="sdk-for-ios-explore-structs-transportspecification-privatebusbuilder">– PrivateBusBuilder</a>
+  - <a href="sdk-for-ios-explore-enums-transporttype">TransportType</a>
+  - <a href="sdk-for-ios-explore-enums-truckcategory">TruckCategory</a>
+  - <a href="sdk-for-ios-explore-enums-truckclass">TruckClass</a>
+  - <a href="sdk-for-ios-explore-enums-truckroadtype">TruckRoadType</a>
+  - <a href="sdk-for-ios-explore-enums-truckfueltype">TruckFuelType</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestriction">VehicleRestriction</a>
+  - <a href="sdk-for-ios-explore-enums-vehicletype">VehicleType</a>
+  - <a href="sdk-for-ios-explore-structs-vehicleprofile">VehicleProfile</a>
+  - <a href="sdk-for-ios-explore-structs-weightperaxlegroup">WeightPerAxleGroup</a>
+- <a href="sdk-for-ios-explore-venues">Venues</a>
+  - <a href="sdk-for-ios-explore-classes-crosswalk">Crosswalk</a>
+  - <a href="sdk-for-ios-explore-classes-crosswalk-classificationstyle">– ClassificationStyle</a>
+  - <a href="sdk-for-ios-explore-classes-property">Property</a>
+  - <a href="sdk-for-ios-explore-classes-property-propertytype">– PropertyType</a>
+  - <a href="sdk-for-ios-explore-classes-venue">Venue</a>
+  - <a href="sdk-for-ios-explore-protocols-venuedelegate">VenueDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-venuedrawing">VenueDrawing</a>
+  - <a href="sdk-for-ios-explore-protocols-venuedrawingselectiondelegate">VenueDrawingSelectionDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-venueengine">VenueEngine</a>
+  - <a href="sdk-for-ios-explore-venues#/s:7heresdk32VenueEngineInitCompletionHandlera">VenueEngineInitCompletionHandler</a>
+  - <a href="sdk-for-ios-explore-venues#/s:7heresdk10VenueErrora">VenueError</a>
+  - <a href="sdk-for-ios-explore-enums-venueerrorcode">VenueErrorCode</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometry">VenueGeometry</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-internaladdress">– InternalAddress</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-geometrytype">– GeometryType</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometry-lookuptype">– LookupType</a>
+  - <a href="sdk-for-ios-explore-enums-venuegeometryfiltertype">VenueGeometryFilterType</a>
+  - <a href="sdk-for-ios-explore-classes-venuegeometrystyle">VenueGeometryStyle</a>
+  - <a href="sdk-for-ios-explore-classes-venueinfo">VenueInfo</a>
+  - <a href="sdk-for-ios-explore-venues#/s:7heresdk17VenueInfoDataLista">VenueInfoDataList</a>
+  - <a href="sdk-for-ios-explore-protocols-venueinfolistlistenerdelegate">VenueInfoListListenerDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-venuelabelstyle">VenueLabelStyle</a>
+  - <a href="sdk-for-ios-explore-classes-venuelevel">VenueLevel</a>
+  - <a href="sdk-for-ios-explore-protocols-venuelevelselectiondelegate">VenueLevelSelectionDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-venuelifecycledelegate">VenueLifecycleDelegate</a>
+  - <a href="sdk-for-ios-explore-venues#/s:7heresdk21VenueLoadErrorHandlera">VenueLoadErrorHandler</a>
+  - <a href="sdk-for-ios-explore-classes-venuemap">VenueMap</a>
+  - <a href="sdk-for-ios-explore-protocols-venuemapdelegate">VenueMapDelegate</a>
+  - <a href="sdk-for-ios-explore-protocols-venuemaplifecycledelegate">VenueMapLifecycleDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-venuemodel">VenueModel</a>
+  - <a href="sdk-for-ios-explore-protocols-venueselectiondelegate">VenueSelectionDelegate</a>
+  - <a href="sdk-for-ios-explore-classes-venueservice">VenueService</a>
+  - <a href="sdk-for-ios-explore-classes-venueservice-venueoptionalfeature">– VenueOptionalFeature</a>
+  - <a href="sdk-for-ios-explore-protocols-venueservicedelegate">VenueServiceDelegate</a>
+  - <a href="sdk-for-ios-explore-enums-venueserviceinitstatus">VenueServiceInitStatus</a>
+  - <a href="sdk-for-ios-explore-classes-venuestyle">VenueStyle</a>
+  - <a href="sdk-for-ios-explore-classes-venuetopology">VenueTopology</a>
+  - <a href="sdk-for-ios-explore-classes-venuetopology-accesscharacteristics">– AccessCharacteristics</a>
+  - <a href="sdk-for-ios-explore-classes-venuetopology-topologydirectionality">– TopologyDirectionality</a>
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode">VenueTransportMode</a>
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode-key">– Key</a>
+  - <a href="sdk-for-ios-explore-enums-venuetransportmode-codingerror">– CodingError</a>
+- <a href="sdk-for-ios-explore-warnerengine">WarnerEngine</a>
+  - <a href="sdk-for-ios-explore-structs-customwarning">CustomWarning</a>
+  - <a href="sdk-for-ios-explore-protocols-customwarningprovider">CustomWarningProvider</a>
+  - <a href="sdk-for-ios-explore-structs-warning">Warning</a>
+  - <a href="sdk-for-ios-explore-classes-warnerengine">WarnerEngine</a>
+  - <a href="sdk-for-ios-explore-protocols-warningdelegate">WarningDelegate</a>
+  - <a href="sdk-for-ios-explore-structs-warningoptions">WarningOptions</a>
+  - <a href="sdk-for-ios-explore-classes-warningsregistry">WarningsRegistry</a>
+- <a href="sdk-for-ios-explore-other%20classes">Other Classes</a>
+  - <a href="sdk-for-ios-explore-classes-indoorsectiondetails">IndoorSectionDetails</a>
+  - <a href="sdk-for-ios-explore-classes-locationmanager">LocationManager</a>
+- <a href="sdk-for-ios-explore-other%20enums">Other Enumerations</a>
+  - <a href="sdk-for-ios-explore-enums-commercialvehicleroadtype">CommercialVehicleRoadType</a>
+  - <a href="sdk-for-ios-explore-enums-hazardousmaterialtype">HazardousMaterialType</a>
+  - <a href="sdk-for-ios-explore-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a>
+  - <a href="sdk-for-ios-explore-enums-indoormaneuveractions">IndoorManeuverActions</a>
+  - <a href="sdk-for-ios-explore-enums-physicalstructure">PhysicalStructure</a>
+  - <a href="sdk-for-ios-explore-enums-vehicletypecondition">VehicleTypeCondition</a>
+- <a href="sdk-for-ios-explore-other%20functions">Other Functions</a>
+  - <a href="sdk-for-ios-explore-other%20functions#/s:7heresdk24makeIOSPlatformThreadingAA08PlatformD0_pyF">makeIOSPlatformThreading()</a>
+  - <a href="sdk-for-ios-explore-other%20functions#/s:7heresdk12synchronized_7closurexyp_xyXEtlF">synchronized(\_:closure:)</a>
+- <a href="sdk-for-ios-explore-other%20protocols">Other Protocols</a>
+  - <a href="sdk-for-ios-explore-protocols-matchedlocationlistener">MatchedLocationListener</a>
+- <a href="sdk-for-ios-explore-other%20structs">Other Structures</a>
+  - <a href="sdk-for-ios-explore-structs-admincontextid">AdminContextId</a>
+  - <a href="sdk-for-ios-explore-structs-administrativecommercialvehiclerules">AdministrativeCommercialVehicleRules</a>
+  - <a href="sdk-for-ios-explore-structs-driverestregulation">DriveRestRegulation</a>
+  - <a href="sdk-for-ios-explore-structs-indoorlevelchangedata">IndoorLevelChangeData</a>
+  - <a href="sdk-for-ios-explore-structs-indoorrouteplace">IndoorRoutePlace</a>
+  - <a href="sdk-for-ios-explore-structs-indoorspacedata">IndoorSpaceData</a>
+  - <a href="sdk-for-ios-explore-structs-lanedecreasewarning">LaneDecreaseWarning</a>
+  - <a href="sdk-for-ios-explore-structs-lanedecreasewarningoptions">LaneDecreaseWarningOptions</a>
+  - <a href="sdk-for-ios-explore-structs-refreshrouteparameters">RefreshRouteParameters</a>
+  - <a href="sdk-for-ios-explore-structs-roadprofilecondition">RoadProfileCondition</a>
+  - <a href="sdk-for-ios-explore-structs-vehicleprofilerestriction">VehicleProfileRestriction</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclerestrictioncondition">VehicleRestrictionCondition</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificaccess">VehicleSpecificAccess</a>
+  - <a href="sdk-for-ios-explore-structs-vehiclespecificspeedlimit">VehicleSpecificSpeedLimit</a>
+
+</nav>
+
+<article class="main-content">
+
+<div class="section">
+
+<div class="section section">
+
+# RoutingEngine
+
+<div class="declaration">
+
+<div class="language">
+
+``` highlight
+public class RoutingEngine : RoutingProtocol
+```
+
+``` highlight
+extension RoutingEngine: NativeBase
+```
+
+``` highlight
+extension RoutingEngine: Hashable
+```
+
+</div>
+
+</div>
+
+Use the RoutingEngine to calculate a route from A to B with a number of waypoints in between.
+
+Route calculation is done asynchronously and requires an online connection. The resulting route contains various information such as the polyline, route length in meters, estimated time to traverse along the route and maneuver data.
+
+**Note:** The engine does not support an unlimited number of waypoints. The limit is defined by the HERE backend services and may change. For now, the maximum number of waypoints should be below 200. This value may change and it is not guaranteed to be stable. If you need to support very large lists of waypoints, consider to import a route (see
+
+    importRoute()
+
+method) or use the <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> which supports an unlimited number of waypoints. The <a href="sdk-for-ios-explore-classes-offlineroutingengine">`OfflineRoutingEngine`</a> is only available for Navigate licence.
+</p>
+
+</div>
+
+<div class="section section task-group-section">
+
+<div class="task-group">
+
+- <div>
+
+      init()
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of this class.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init () throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(_: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of RoutingEngine.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( _ sdkEngine : SDKNativeEngine ) throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>sdkEngine</code></em><code> </code></td>
+  <td><div>
+  <p>An SDKEngine instance.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(connectionSettings: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of RoutingEngine.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( connectionSettings : RoutingConnectionSettings ) throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>connectionSettings</code></em><code> </code></td>
+  <td><div>
+  <p>Settings for the route calculation.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      init(_: connectionSettings: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Creates a new instance of RoutingEngine.
+
+  <div class="aside aside-throws">
+
+  Throws
+
+  <a href="sdk-for-ios-explore-core#/s:7heresdk18InstantiationErrora">`InstantiationError`</a> Indicates what went wrong when the instantiation was attempted.
+
+  </div>
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public init ( _ sdkEngine : SDKNativeEngine , connectionSettings : RoutingConnectionSettings ) throws
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>sdkEngine</code></em><code> </code></td>
+  <td><div>
+  <p>An SDKEngine instance.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>connectionSettings</code></em><code> </code></td>
+  <td><div>
+  <p>Settings for the route calculation.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>Options describing routing options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: carOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a car route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>carOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for car route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: pedestrianOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a pedestrian route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for pedestrians and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: truckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a truck route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>truckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: scooterOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a scooter route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for scooters and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: bicycleOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a bicycle route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for bicycle route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for bicycles and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: taxiOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a taxi route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is is not supported for taxis and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: evCarOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates an electric car route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evCarOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric car route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: evTruckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates an electic truck route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evTruckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: busOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a bus route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>busOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for a bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateRoute(with: privateBusOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a private bus route from one point to another, passing through the given waypoints in the given order.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `calculate_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func calculateRoute ( with waypoints : [ Waypoint ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>waypoints</code></em><code> </code></td>
+  <td><div>
+  <p>The list of waypoints used to calculate the route. The first element marks the starting position, the last marks the destination. Waypoints in between are interpreted as intermediate.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>privateBusOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for a private bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      returnToRoute(_: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates a new route that leads back to the original route. The part of the original route which was already traveled by the user is ignored.
+
+  **Note:** Stopover waypoints are guaranteed to be visited. Pass-through waypoints will be ignored. Additionally, the following route options are ignored: <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">`RouteOptions.alternatives`</a>, <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">`RouteOptions.arrivalTime`</a>, and <a href="sdk-for-ios-explore-structs-routeoptions#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">`RouteOptions.optimizationMode`</a>. Most route options are only applied to the newly calculated part back to the route.
+
+  An application may use this method to submit a new starting point for a previously calculated route. This method tries to avoid a costly route re-calculation as much as possible. In case returning to the route without re-calculation is not possible, a new route is calculated, while trying to salvage the previous route as much as possible. However, a completely new route containing no part of the previous route is possible, too.
+
+  Note that this function uses only a limited amount of map data around the new origin. Therefore, it may also work fine with temporarily cached map data. It may also copy some of the original route data into the new route.
+
+  A typical use case is to await at least 3 <a href="sdk-for-ios-explore-structs-routedeviation">`RouteDeviation`</a> events before calling this method.
+
+  - Or alternatively, wait at least 10 seconds after getting the first deviation event.
+  - On top, the user experience can be improved by checking if the vehicle has moved at least 50 meters since calling this method for the last time.
+  - Optionally, it may make sense to verify if the vehicle was ever following the route by checking if <a href="sdk-for-ios-explore-structs-routedeviation#/s:7heresdk14RouteDeviationV014lastLocationOnB0AA09NavigableE0VSgvp">`RouteDeviation.lastLocationOnRoute`</a> is set.
+
+  Note that deviation events are sent each time a deviation is detected, i.e. for each new location update, regardless if the location has changed or not. More information can be found in the Developer Guide in the “Handle route deviations” section.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func returnToRoute ( _ route : Route , startingPoint : Waypoint , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>route</code></em><code> </code></td>
+  <td><div>
+  <p>A <a href="sdk-for-ios-explore-classes-route"><code>Route</code></a> calculated using the online or offline route engine. For the offline case, It should not contain an indoor <a href="sdk-for-ios-explore-classes-section"><code>Section</code></a> as such routes will fail. For the online case, it should have <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a>.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
+  <td><div>
+  <p>The current location, for example, provided by a <a href="sdk-for-ios-explore-structs-routedeviation"><code>RouteDeviation</code></a> event. The waypoint needs to be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>lastTraveledSectionIndex</code></em><code> </code></td>
+  <td><div>
+  <p>Indicates the index of the last traveled route section. Traveled part of the route won’t be reused.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>traveledDistanceOnLastSectionInMeters</code></em><code> </code></td>
+  <td><div>
+  <p>Offset in meter to the last visited position on the route section defined by the last traveled section index.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      refreshRoute(routeHandle: startingPoint: refreshRouteOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously refreshes a previously calculated route from the provided <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a>, updating the starting point and route metadata based on <a href="sdk-for-ios-explore-classes-refreshrouteoptions">`RefreshRouteOptions`</a>. The route shape from the new starting point to the destination remains unchanged, and only metadata such as arrival time and traffic delays are updated. If you only want to refresh the contained traffic information or retrieve updated ETA duration, consider using
+
+      RoutingEngine.calculateTrafficOnRoute(Route, Int32, Int32, Double, CalculateTrafficOnRouteCompletionHandler)
+
+  instead.
+  </p>
+
+  Calling this method will trigger a new “HERE Routing” transaction, for example, if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint , refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
+  <td><div>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-explore-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>refreshRouteOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options to refresh the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      refreshRoute(routeHandle: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: refreshRouteOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously refreshes a previously calculated route from the provided <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a>, updating the starting point and route metadata based on <a href="sdk-for-ios-explore-classes-refreshrouteoptions">`RefreshRouteOptions`</a>. The route shape from the new starting point to the destination remains unchanged, and only metadata such as arrival time and traffic delays are updated. If you only want to refresh the contained traffic information, consider to use
+
+      RoutingEngine.calculateTrafficOnRoute(Route, Int32, Int32, Double, CalculateTrafficOnRouteCompletionHandler)
+
+  instead.
+  </p>
+
+  Calling this method will trigger a new “HERE Routing” transaction, for example, if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint ?, lastTraveledSectionIndex : Int32 ?, traveledDistanceOnLastSectionInMeters : Int32 ?, refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
+  <td><div>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-explore-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already travelled). Plus, <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>lastTraveledSectionIndex</code></em><code> </code></td>
+  <td><div>
+  <p>Indicates the index of the last traveled route section. Traveled part of the route won’t be reused.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>traveledDistanceOnLastSectionInMeters</code></em><code> </code></td>
+  <td><div>
+  <p>Offset in meter to the last visited position on the route section defined by the last traveled section index.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>refreshRouteOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options to refresh the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      refreshRoute(routeHandle: startingPoint: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously refreshes a previously calculated route from the provided <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a>, updating the starting point and route metadata based on <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>. The route shape from the new starting point to the destination remains unchanged, and only metadata such as arrival time and traffic delays are updated. If you only want to refresh the contained traffic information, consider to use
+
+      RoutingEngine.calculateTrafficOnRoute(Route, Int32, Int32, Double, CalculateTrafficOnRouteCompletionHandler)
+
+  instead.
+  </p>
+
+  Calling this method will trigger a new “HERE Routing” transaction, for example, if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint ?, lastTraveledSectionIndex : Int32 ?, traveledDistanceOnLastSectionInMeters : Int32 ?, options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
+  <td><div>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-explore-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>lastTraveledSectionIndex</code></em><code> </code></td>
+  <td><div>
+  <p>Indicates the index of the last traveled route section. Traveled part of the route won’t be reused.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>traveledDistanceOnLastSectionInMeters</code></em><code> </code></td>
+  <td><div>
+  <p>Offset in meter to the last visited position on the route section defined by the last traveled section index.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      refreshRoute(routeHandle: startingPoint: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously refreshes a previously calculated route from the provided <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a>, updating the starting point and route metadata based on <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>. The route shape from the new starting point to the destination remains unchanged, and only metadata such as arrival time and traffic delays are updated. If you only want to refresh the contained traffic information, consider to use
+
+      RoutingEngine.calculateTrafficOnRoute(Route, Int32, Int32, Double, CalculateTrafficOnRouteCompletionHandler)
+
+  instead.
+  </p>
+
+  Calling this method will trigger a new “HERE Routing” transaction, for example, if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `refresh_route(﹚` methods with RefreshRouteParameters parameter instead.") @discardableResult public func refreshRoute ( routeHandle : RouteHandle , startingPoint : Waypoint , options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>startingPoint</code></em><code> </code></td>
+  <td><div>
+  <p>Updates the starting point of the route. It should be of type <a href="sdk-for-ios-explore-enums-waypointtype#/s:7heresdk12WaypointTypeO8stopoveryA2CmF"><code>WaypointType.stopover</code></a>. Otherwise, an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO16invalidParameteryA2CmF"><code>RoutingError.invalidParameter</code></a> error is generated. Moreover, it should be very close to the original route specified with the <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a>. Since the new starting point is expected to be along the original route, the original route geometry is used to reach the remaining waypoints. The new route will not include the <a href="sdk-for-ios-explore-structs-waypoint"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that was already traveled). Plus, <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC14lengthInMeterss5Int32Vvp"><code>Route.lengthInMeters</code></a> and <a href="sdk-for-ios-explore-classes-route#/s:7heresdk5RouteC8durationSdvp"><code>Route.duration</code></a> values are from the new starting point to the destination. If the new waypoint is too far off the original route, the route refresh may fail and an <a href="sdk-for-ios-explore-enums-routingerror#/s:7heresdk12RoutingErrorO19couldNotMatchOriginyA2CmF"><code>RoutingError.couldNotMatchOrigin</code></a> error is triggered. In that case, an application may decide to calculate a new route from scratch.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      refreshRoute(refreshRouteParameters: routingOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously refreshes a previously calculated route from the provided <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a>, updating the starting point and route metadata based on <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>. The route shape from the new starting point to the destination remains unchanged, and only metadata such as arrival time and traffic delays are updated.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func refreshRoute ( refreshRouteParameters : RefreshRouteParameters , routingOptions : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>refreshRouteParameters</code></em><code> </code></td>
+  <td><div>
+  <p>The parameters used to refresh the route</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routingOptions</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options used to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(routeHandle: refreshRouteOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously recreates a route from the <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a> provided, i.e. refreshes a previously calculated route, with the specified <a href="sdk-for-ios-explore-classes-refreshrouteoptions">`RefreshRouteOptions`</a>.
+
+  A route handle can be invalid when the map data changes that is used by the HERE backend to recreate the route. This happens regularly. Therefore, the route handle is not meant to be persisted for a longer time. Instead, a possible use case can be to plan a route with another HERE service. For example, a HERE REST API that allows to calculate a route on a desktop. Then this route can be transferred via the handle to a mobile device for further use with the HERE SDK.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( routeHandle : RouteHandle , refreshRouteOptions : RefreshRouteOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>refreshRouteOptions</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route. <strong>Note</strong> An [sdk.routing.RoutingError.INVALID_PARAMETER] is generated when the [sdk.routing.ElectricVehicleOptions.ensure_reachability] option is set to <code>true</code>.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: carOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>carOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for car route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: pedestrianOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a pedestrian route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: bicycleOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a bicycle route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for bicycle route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: scooterOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a scooter route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: pedestrianOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a pedestrian route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], pedestrianOptions : PedestrianOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>pedestrianOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for pedestrian route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for pedestrians and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: bicycleOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a bicycle route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], bicycleOptions : BicycleOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>bicycleOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for bicycle route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: scooterOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a scooter route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], scooterOptions : ScooterOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>scooterOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for scooter route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for scooters and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: truckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>truckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: taxiOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a taxi route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: busOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>busOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: privateBusOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a private bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>privateBusOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for private bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: evCarOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates an electric car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evCarOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric car route calculation, along with common route options. <strong>Note</strong> An [sdk.routing.RoutingError.INVALID_PARAMETER] is generated when the [sdk.routing.EVCarOptions.ensure_reachability] option is set to <code>true</code>.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: evTruckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates an electric truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evTruckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: carOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], carOptions : CarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>carOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for car route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: truckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], truckOptions : TruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>truckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: taxiOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a taxi route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], taxiOptions : TaxiOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>taxiOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for taxi route calculation, along with common route options. Note that <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO8shortestyA2CmF"><code>OptimizationMode.shortest</code></a> is not supported for taxis and converted to <a href="sdk-for-ios-explore-enums-optimizationmode#/s:7heresdk16OptimizationModeO7fastestyA2CmF"><code>OptimizationMode.fastest</code></a> automatically.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: busOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], busOptions : BusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>busOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: privateBusOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a private bus route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], privateBusOptions : PrivateBusOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>privateBusOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for private bus route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: evCarOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates an electric car route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], evCarOptions : EVCarOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evCarOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric car route calculation, along with common route options. <strong>Note</strong> An [sdk.routing.RoutingError.INVALID_PARAMETER] is generated when the [sdk.routing.EVCarOptions.ensure_reachability] option is set to <code>true</code>.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: evTruckOptions: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates an electric truck route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @available(*, deprecated, message: "Will be removed in v4.28.0. Use the `import_route(﹚` methods with RoutingOptions parameter instead.") @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], evTruckOptions : EVTruckOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>evTruckOptions</code></em><code> </code></td>
+  <td><div>
+  <p>Options specific for an electric truck route calculation, along with common route options.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func importRoute ( with locations : [ Location ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(with: routeStops: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously creates a route from a sequence of geographic coordinates very close to each other. The route shape will be kept as close as possible to the one provided. For best results please use 1Hz GPS data, or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
+
+  **Note:** Any restrictions applied to a transport type or provided options will be discarded and reported as violations in <a href="sdk-for-ios-explore-classes-section#/s:7heresdk7SectionC14sectionNoticesSayAA0B6NoticeVGvp">`Section.sectionNotices`</a> .
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func importRoute ( with locations : [ Location ], routeStops : [ RouteStop ], options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>locations</code></em><code> </code></td>
+  <td><div>
+  <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-ios-explore-structs-location#/s:7heresdk8LocationV11coordinatesAA14GeoCoordinatesVvp"><code>Location.coordinates</code></a> of a location are used to import the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>routeStops</code></em><code> </code></td>
+  <td><div>
+  <p>The list of RouteStop’s which contains index of location from locations list used for route stop and duration in seconds spent on stop.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route calculation. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      importRoute(routeHandle: options: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously recreates a route from the <a href="sdk-for-ios-explore-structs-routehandle">`RouteHandle`</a> provided, i.e. refreshes a previously calculated route, with the specified <a href="sdk-for-ios-explore-structs-routingoptions">`RoutingOptions`</a>.
+
+  A route handle can be invalid when the map data changes that is used by the HERE sdk to recreate the route. This happens regularly. Therefore, the route handle is not meant to be persisted for a longer time.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  @discardableResult public func importRoute ( routeHandle : RouteHandle , options : RoutingOptions , completion : @escaping CalculateRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>routeHandle</code></em><code> </code></td>
+  <td><div>
+  <p>The route handle holding the route to be refreshed.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>options</code></em><code> </code></td>
+  <td><div>
+  <p>The options define the vehicle and route options to calculate the route.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after refreshing the route. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateTrafficOnRoute(route: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates the traffic along a route starting from the index of the last traveled route section and an offset (in meters) from the last visited position on the section. Call this when only the contained traffic information or the latest ETA duration is needed. This can be called periodically to retrieve updated ETA values during navigation.
+
+  **Note:** Calling this method will trigger a new “HERE Traffic” transaction, for example, if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func calculateTrafficOnRoute ( route : Route , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , completion : @escaping CalculateTrafficOnRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>route</code></em><code> </code></td>
+  <td><div>
+  <p>A <a href="sdk-for-ios-explore-classes-route"><code>Route</code></a> calculated using the online routing engine. Its <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a> and the original route calculation options will be used to compute the traffic on the route. The original route remains untouched.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>lastTraveledSectionIndex</code></em><code> </code></td>
+  <td><div>
+  <p>Indicates the index of the last traveled route section. Traveled part of the route won’t be reused.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>traveledDistanceOnLastSectionInMeters</code></em><code> </code></td>
+  <td><div>
+  <p>Offset, in meters, to the last visited position on the route section defined by the last traveled section index.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route traffic has been calculated. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      calculateTrafficOnRoute(route: lastTraveledSectionIndex: traveledDistanceOnLastSectionInMeters: currentChargeInKilowattHours: completion: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Asynchronously calculates the traffic along an EV car route starting from the index of the last traveled route section and an offset in meters from the last visited position on the section. The field <a href="sdk-for-ios-explore-structs-trafficonspan#/s:7heresdk13TrafficOnSpanV26consumptionInKilowattHoursSdSgvp">`TrafficOnSpan.consumptionInKilowattHours`</a> will contain the power consumption in kilowatt-hours (kWh) necessary to traverse the span, and <a href="sdk-for-ios-explore-structs-routeplace#/s:7heresdk10RoutePlaceV21chargeInKilowattHoursSdSgvp">`RoutePlace.chargeInKilowattHours`</a>, inside <a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV14departurePlaceAA05RouteF0Vvp">`TrafficOnSection.departurePlace`</a> and <a href="sdk-for-ios-explore-structs-trafficonsection#/s:7heresdk16TrafficOnSectionV12arrivalPlaceAA05RouteF0Vvp">`TrafficOnSection.arrivalPlace`</a>, the estimated battery charge in kilowatt-hours (kWh) when leaving/arriving to a section. **Note:** Only EV cars are supported.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func calculateTrafficOnRoute ( route : Route , lastTraveledSectionIndex : Int32 , traveledDistanceOnLastSectionInMeters : Int32 , currentChargeInKilowattHours : Double , completion : @escaping CalculateTrafficOnRouteCompletionHandler ) -> TaskHandle
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>route</code></em><code> </code></td>
+  <td><div>
+  <p>A <a href="sdk-for-ios-explore-classes-route"><code>Route</code></a> calculated using the online routing engine. Its <a href="sdk-for-ios-explore-structs-routehandle"><code>RouteHandle</code></a> and the original route calculation options, along with EV related information like <a href="sdk-for-ios-explore-structs-batteryspecifications"><code>BatterySpecifications</code></a>, will be used to compute the traffic on the route. The original route remains untouched.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>lastTraveledSectionIndex</code></em><code> </code></td>
+  <td><div>
+  <p>Indicates the index of the last traveled route section. Traveled part of the route won’t be reused.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>traveledDistanceOnLastSectionInMeters</code></em><code> </code></td>
+  <td><div>
+  <p>Offset, in meters, to the last visited position on the route section defined by the last traveled section index.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>currentChargeInKilowattHours</code></em><code> </code></td>
+  <td><div>
+  <p>Charge level of the vehicle’s battery at the current location (in kWh). It must be non-negative and less than or equal to the value of <a href="sdk-for-ios-explore-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28totalCapacityInKilowattHoursSdvp"><code>BatterySpecifications.totalCapacityInKilowattHours</code></a>, otherwise the <a href="sdk-for-ios-explore-structs-batteryspecifications"><code>BatterySpecifications</code></a> instance is considered invalid. Sets <a href="sdk-for-ios-explore-structs-batteryspecifications#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp"><code>BatterySpecifications.initialChargeInKilowattHours</code></a> to the given value.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>completion</code></em><code> </code></td>
+  <td><div>
+  <p>Callback object that will be invoked after route traffic has been calculated. It is always invoked on the main thread.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  Handle that will be used to manipulate the execution of the task.
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div>
+
+      setCustomOption(name: value: )
+
+  </div>
+
+  <div class="height-container">
+
+  <div class="pointer-container">
+
+  </div>
+
+  <div class="section section">
+
+  <div class="pointer">
+
+  </div>
+
+  <div class="abstract">
+
+  Sets a custom option for routing backend queries. The custom option is applied to all the queries that `RoutingEngine` performs. For a complete list of available parameter names and their valid values, refer to <a href="https://www.here.com/docs/bundle/routing-api-v8-api-reference/page/index.html">HERE Routing API v8</a>. **Note:** It’s easy to set a wrong option that makes queries invalid, so make sure you read and understand the backend documentation.
+
+  </div>
+
+  <div class="declaration">
+
+  #### Declaration
+
+  <div class="language">
+
+  Swift
+
+  ``` highlight
+  public func setCustomOption ( name : String , value : String ?) -> RoutingError ?
+  ```
+
+  </pre>
+
+  </div>
+
+  </div>
+
+  <div>
+
+  #### Parameters
+
+  <table class="graybox">
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+  <tr>
+  <td><code> </code><em><code>name</code></em><code> </code></td>
+  <td><div>
+  <p>An option name. If the engine already has an option with the same name, the option will be overwritten. The option name must be a non-empty string.</p>
+  </div></td>
+  </tr>
+  <tr>
+  <td><code> </code><em><code>value</code></em><code> </code></td>
+  <td><div>
+  <p>An option value. If the value is <code>nil</code>, the option will be removed. The option value must be a non-empty string.</p>
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  <div>
+
+  #### Return Value
+
+  An optional error of setting the option. It’s `nil` if the option has been set successfully. It’s `RoutingError.INVALID_PARAMETER` if the input name and/or value haven’t passed internal validation.
+
+  </div>
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="sdk-for-ios-explore-footer" class="section">
+
+© 2026 <a href="sdk-for-ios-explore-classes" class="link" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)
+
+Generated by <a href="https://github.com/realm/jazzy" class="link" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a href="https://realm.io" class="link" rel="external noopener" target="_blank">Realm</a> project.
+
+</div>
+
+</article>
+
+</div>
+
