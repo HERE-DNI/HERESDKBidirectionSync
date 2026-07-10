@@ -1,0 +1,611 @@
+---
+title: "LaneDirectionCategory (API Reference)"
+slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory"
+---
+
+<!-- ======== START OF CLASS DATA ======== -->
+
+<div class="header">
+
+<div class="sub-title">
+
+<span class="package-label-in-type">Package</span> <a href="sdk-for-android-navigate-com-here-sdk-navigation-package-summary">com.here.sdk.navigation</a>
+
+</div>
+
+</div>
+
+<div class="inheritance" title="Inheritance Tree">
+
+java.lang.Object com.here.sdk.navigation.LaneDirectionCategory → com.here.sdk.navigation.LaneDirectionCategory
+
+</div>
+
+<div id="sdk-for-android-navigate-class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class </span><span class="element-name type-name-label">LaneDirectionCategory</span> <span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
+
+</div>
+
+<div class="block">
+
+Indicates the directions of a lane. Most lanes lead only to one direction, but there can be also lanes that split up into multiple directions. A road can consist of multiple lanes towards the same direction. Note: All members can be true or false at the same time. Lanes such as bicycle lanes mostly never contain a direction category and thus, all members are false .
+
+</div>
+
+</div>
+
+- <div id="sdk-for-android-navigate-field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Field
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#hardLeft" class="member-name-link"><code>hardLeft</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A lane that goes hard left.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#hardRight" class="member-name-link"><code>hardRight</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A lane that goes hard right.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#quiteLeft" class="member-name-link"><code>quiteLeft</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A lane that goes quite left.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#quiteRight" class="member-name-link"><code>quiteRight</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A lane that goes quite right.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#slightlyLeft" class="member-name-link"><code>slightlyLeft</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A lane that goes slightly left.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#slightlyRight" class="member-name-link"><code>slightlyRight</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A lane that goes slightly right.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#straight" class="member-name-link"><code>straight</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A lane that goes straight up.
+
+  </div>
+
+  </div>
+
+  <div class="col-first odd-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second odd-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#uTurnLeft" class="member-name-link"><code>uTurnLeft</code></a>
+
+  </div>
+
+  <div class="col-last odd-row-color">
+
+  <div class="block">
+
+  A lane that makes a left u-turn.
+
+  </div>
+
+  </div>
+
+  <div class="col-first even-row-color">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color">
+
+  <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirectioncategory#uTurnRight" class="member-name-link"><code>uTurnRight</code></a>
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  A lane that makes a right u-turn.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <div class="summary-table two-column-summary">
+
+  <div class="table-header col-first">
+
+  Constructor
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-constructor-name even-row-color">
+
+      LaneDirectionCategory ()
+
+  </div>
+
+  <div class="col-last even-row-color">
+
+  <div class="block">
+
+  Creates a new instance.
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-summary" class="section method-summary">
+
+  <div id="sdk-for-android-navigate-method-summary-table">
+
+  <div class="summary-table three-column-summary">
+
+  <div class="table-header col-first">
+
+  Modifier and Type
+
+  </div>
+
+  <div class="table-header col-second">
+
+  Method
+
+  </div>
+
+  <div class="table-header col-last">
+
+  Description
+
+  </div>
+
+  <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `boolean`
+
+  </div>
+
+  <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      equals ( Object obj)
+
+  </div>
+
+  <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+  `int`
+
+  </div>
+
+  <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+      hashCode ()
+
+  </div>
+
+  <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
+
+   
+
+  </div>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+<!-- -->
+
+- <div id="sdk-for-android-navigate-field-detail" class="section field-details">
+
+  - <div id="sdk-for-android-navigate-straight" class="section detail">
+
+    ### straight
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">straight</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes straight up.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-slightlyLeft" class="section detail">
+
+    ### slightlyLeft
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">slightlyLeft</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes slightly left.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-quiteLeft" class="section detail">
+
+    ### quiteLeft
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">quiteLeft</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes quite left.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hardLeft" class="section detail">
+
+    ### hardLeft
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">hardLeft</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes hard left.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-uTurnLeft" class="section detail">
+
+    ### uTurnLeft
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">uTurnLeft</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that makes a left u-turn.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-slightlyRight" class="section detail">
+
+    ### slightlyRight
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">slightlyRight</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes slightly right.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-quiteRight" class="section detail">
+
+    ### quiteRight
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">quiteRight</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes quite right.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hardRight" class="section detail">
+
+    ### hardRight
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">hardRight</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that goes hard right.
+
+    </div>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-uTurnRight" class="section detail">
+
+    ### uTurnRight
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">uTurnRight</span>
+
+    </div>
+
+    <div class="block">
+
+    A lane that makes a right u-turn.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-constructor-detail" class="section constructor-details">
+
+  - <div id="sdk-for-android-navigate-init" class="section detail">
+
+    ### LaneDirectionCategory
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">LaneDirectionCategory</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="sdk-for-android-navigate-method-detail" class="section method-details">
+
+  - <div id="sdk-for-android-navigate-equals-java-lang-Object" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr></wbr><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="sdk-for-android-navigate-hashCode" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+<!-- ========= END OF CLASS DATA ========= -->
+
