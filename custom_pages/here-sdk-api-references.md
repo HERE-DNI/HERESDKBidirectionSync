@@ -6,4 +6,4 @@ Android Navigate: <Anchor target="_blank" href="sdk-for-android-navigate-index">
 
 iOS Explore: <Anchor target="_blank" href="sdk-for-ios-explore-index">iOS Explore API Reference</Anchor>
 
-iOS Navigate: <Anchor target="_blank" href="sdk-for-ios-explore-index">iOS Navigate API Reference</Anchor>
+iOS Navigate: <Anchor target="_blank" href="sdk-for-ios-navigate-index">iOS Navigate API Reference</Anchor>
